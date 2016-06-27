@@ -23,6 +23,7 @@
 
 ### Coding
 1. Professional Node.js by Teixeira
+2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 
 ## Contents
 * [Rules](rules.md)
