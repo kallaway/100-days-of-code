@@ -11,7 +11,7 @@
 1.
 
 ## Tools
-1.
+1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
 
 ## Books (both coding and non-coding)
 
