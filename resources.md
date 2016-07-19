@@ -22,8 +22,9 @@
 4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
 
 ### Coding
-1. Professional Node.js by Teixeira
+1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
+3. "Mastering JavaScript" by Ved Antani
 
 ## Contents
 * [Rules](rules.md)
