@@ -1,30 +1,29 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 16, 2016
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Solved "Counting Duplicates" http://www.codewars.com/kata/counting-duplicates/train/javascript using map() and indexOf(). Now I want to solve it using other methods: reduce(), filter(), forEach() and recursion.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I think those methods are the core of JS programming, the better I know them the better my code will be.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [CodePen progress](http://codepen.io/tsalexey544/pen/ozPNbb)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: October 17, 2016
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Solved "Counting Duplicates" using filter(), forEach(). Was harder then I thought. 1 hour of programming is ready! =)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [CodePen progress](http://codepen.io/tsalexey544/pen/ozPNbb)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 3: October 18, 2016
+
+I have decided to make this challenge to only about coding. I want to be a better developer and that includes design too. I will journal each day what new skills I have learned and what I need to learn / practice next. With the new changes 100 days is not more enough. I am extending it to 500 days. But thinking to committing myself to 1000 days.
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Today was the first day I started working in illustrator. Worked in Photoshop for 14 years but illustrator was just  not in my way =)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**What new skills I have learned**: 
+* Shapes in illustrator.
+* Shortcut keys:
+    * Command + y
+    * Control + C - Control + F
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
