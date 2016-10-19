@@ -16,7 +16,7 @@
 
 ### Day 3: October 18, 2016
 
-**I have decided to make this challenge to only about coding. I want to be a better developer and that includes design too. I will journal each day what new skills I have learned and what I need to learn / practice next. With the new changes 100 days is not more enough. I am extending it to 500 days. But thinking to committing myself to 1000 days.
+I have decided to make this challenge to only about coding. I want to be a better developer and that includes design too. I will journal each day what new skills I have learned and what I need to learn / practice next. With the new changes 100 days is not more enough. I am extending it to 500 days. But thinking to committing myself to 1000 days.
 
 
 **Today's Progress**: Today was the first day I started working in illustrator. Worked in Photoshop for 14 years but illustrator was just  not in my way =)
