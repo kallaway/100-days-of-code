@@ -1,4 +1,5 @@
-# I've joined the #100DaysOfCode Challenge.
+# 100 days to get a better developer!
+## This challenge includes #100DaysOfCode Challenge +  other skills that I feel will make me better.
 
 ## Contents
 * [Rules](rules.md)
