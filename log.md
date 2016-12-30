@@ -17,3 +17,27 @@ I used [ip-api.com](http://ip-api.com/json) to get my geo data which I have stru
 [My FreeCodeCamp repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Show%20the%20Local%20Weather)
 
 [The CodePen pen](http://codepen.io/spences10/pen/WoVRNq)
+
+---
+
+### Day 0: 2016-12-31
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**: 
+
+---
+
+### Day 0: 2017-01-01
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**: 
