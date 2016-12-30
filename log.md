@@ -8,11 +8,12 @@ So far I have HTML file with a couple of div's and JavaScript file that fetches 
 
 I used [ip-api.com](http://ip-api.com/json) to get my geo data which I have struggled to have a separate functions so now its functions in functions.
 
-**Thoughts**: Not a fan of jQuery, oh wait it's not that ba when it works, but $ this and $ that everywhere and functionception everywhere!
+**Thoughts**: Not a fan of jQuery, oh wait it's not that bad when it works, but $ this and $ that everywhere and functionception everywhere!
 
 **Up Next**: Work with the JSON data and do some nice stuff with that!
 
 **Link(s) to work**: 
+
 [My FreeCodeCamp repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Show%20the%20Local%20Weather)
+
 [The CodePen pen](http://codepen.io/spences10/pen/WoVRNq)
-    
