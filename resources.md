@@ -2,6 +2,7 @@
 
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+2. [Back to Basics: JavaScript Object Syntax](https://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
@@ -25,6 +26,7 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
+4. "JavaScript: The Good Parts" by Douglas Crockford
 
 ## Contents
 * [Rules](rules.md)
