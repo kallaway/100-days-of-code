@@ -15,7 +15,7 @@
 
 **Link to work:** [My Hello-World Practice Repository](https://github.com/hhoefele/hello-world)
 
-### Day 0: December 30, 2016
+### Day 0: December 31, 2016
 
 **Today's Progress**:
 
