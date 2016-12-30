@@ -9,8 +9,9 @@
 3. Tweeted my commmitment:  https://twitter.com/figmentations/status/814944122033344516
 4. Got reacquainted with Github by doing the hello-world practice:  https://guides.github.com/activities/hello-world/
 5. Starting the freecodecamp course: https://www.freecodecamp.com/map
+6. Forked the core Github site: 
 
 **Thoughts:** Doing the prep work so I can hit the ground running.  
 
-**Link to work:** [My Hello-World Practice Repository](http://www.example.com)
+**Link to work:** [My Hello-World Practice Repository](https://github.com/hhoefele/hello-world)
 
