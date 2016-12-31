@@ -24,17 +24,19 @@ I used [ip-api.com](http://ip-api.com/json) to get my geo data which I have stru
 
 **Today's Progress**: Looking at weather icons, still not sure on how to do this, I also had to change from using [ip-api.com](ip-api.com) to [freegeoip.net](freegeoip.net/) as [ip-api.com](ip-api.com) was showing me as ~100 miles away from my current location.
 
-Completed Location, Weather type, and temp, just looks like crap still!
+Completed Location, Weather type, and temp, ~~just looks like crap still!~~ 
+
+Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f227e1c72733a356802) from flickr, added styling into the JavaScript looks ok on both my machine and CodePen :sparkles: :astonished: :sparkles:
 
 **Thoughts**: Working with APIs is becoming a bit more straightforward with jQuery as long as there is a JSON object to work with. I :heart: the Chrome dev console! Has really helped me with debugging.
 
-**Up Next**: Style it yo!
+**Up Next**: ~~Style it yo!~~ Onto the next FCC challenge by the looks of it now!
 
 **Link(s) to work**: 
 
 [My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Show%20the%20Local%20Weather)
 
-[The CodePen pen](http://codepen.io/spences10/pen/WoVRNq)
+[The CodePen pen](http://codepen.io/spences10/full/WoVRNq/)
 
 ---
 
