@@ -40,7 +40,7 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 ---
 
-### Day 0: 2017-01-01
+### Day 2: 2017-01-01
 
 **Today's Progress**:
 
