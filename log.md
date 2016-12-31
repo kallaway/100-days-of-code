@@ -19,7 +19,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 2: Junej 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
