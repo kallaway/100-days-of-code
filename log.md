@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+<!-- TOC -->
+
+- [100 Days Of Code - Log](#100-days-of-code---log)
+        - [Day 0: 2016-12-30](#day-0-2016-12-30)
+        - [Day 1: 2016-12-31](#day-1-2016-12-31)
+        - [Day 2: 2017-01-01](#day-2-2017-01-01)
+
+<!-- /TOC -->
+
 ### Day 0: 2016-12-30
 
 **Today's Progress**: I went through the FreeCodeCamp jQuery exercises again then started the 'Show the Local Weather' FreeCodeCamp challenge.
