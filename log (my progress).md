@@ -10,6 +10,8 @@ So I downloaded Smartgit (http://www.syntevo.com/smartgit/download) because I am
 
 I use Brackets as Code editor (http://brackets.io), with a lot of plugins. 
 
+So not a lot of code yet. But I'm very exciting, 
+
 
 **Thoughts:** 
 
@@ -19,9 +21,9 @@ One of my goals for this challenge is making a personal website with all my proj
 
 I'm only a bit familiar with HTML/CSS so I want to learn Javascript and other things so I can create better websites in 2017. 
 
-My English is not very good, because I live in The Netherlands. 
+My English is not very good, because I live in The Netherlands. (Feel free to reply spelling or grammer mistakes :D.)
 
 
-**Link to Github:** [Github](https://github.com/Mathingss)
-**Link to My 100 Days Of Code Challenge Repository** [Github](https://github.com/Mathingss/My-100-Days-Of-Code-Challenge) 
-**Link to my Twitter** [Github](https://twitter.com/Mathe_Grievink)
+**Link to Github:** [Github](https://github.com/Mathingss).
+**Link to My 100 Days Of Code Challenge Repository** [Github](https://github.com/Mathingss/My-100-Days-Of-Code-Challenge).
+**Link to my Twitter** [Github](https://twitter.com/Mathe_Grievink).
