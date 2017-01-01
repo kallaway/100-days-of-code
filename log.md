@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 1, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Today I start with the challenge, and set things up. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+So I downloaded Smartgit (http://www.syntevo.com/smartgit/download) because I am using Linux Mint and I wanted a GUI git. And this works for me. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+I use Brackets as Code editor (http://brackets.io), with a lot of plugins. 
 
 
-### Day 2: Junej 27, Monday
+**Thoughts:** 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+Happy New Year!!!
+So today I start with the #100DaysOfCode challenge.
+One of my goals for this challenge is making a personal website with all my projects and other things on it. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+I'm only a bit familiar with HTML/CSS so I want to learn Javascript and other things so I can create better websites in 2017. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+My English is not very good, because I live in The Netherlands. 
+
+
+**Link to Github:** [Github](https://github.com/Mathingss)
+**Link to My 100 Days Of Code Challenge Repository** [Github](https://github.com/Mathingss/My-100-Days-Of-Code-Challenge) 
+**Link to my Twitter** [Github](https://twitter.com/Mathe_Grievink)
