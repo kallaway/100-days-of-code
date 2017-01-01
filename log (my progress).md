@@ -15,6 +15,8 @@ So you can track my progress there if you want.
 
 So not a lot of code yet. But I'm very exciting.
 
+**Time working**
+I think 3 or 4 hours? I was working and looking #open2017.
 
 **Thoughts:** 
 
