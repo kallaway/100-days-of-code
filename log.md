@@ -1,30 +1,33 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 3: December 31, 2016 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Configured a clear form button. Changed fonts and colors.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** If you set the inputs to all have the same name, once you select a second radio button, the previous one will be deselected.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** 
+1. [Tweet] (https://twitter.com/ScooterPhoenix/status/815300423439548416)
+2. [Blog] (https://learningtowebdevblog.wordpress.com/2016/12/31/100-days-of-code-challenge-day-3/)
 
 
-### Day 1: June 27, Monday
+### Day 2: December 30, 2016 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Configured a clear form button. Changed fonts and colors.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** If you set the inputs to all have the same name, once you select a second radio button, the previous one will be deselected.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** 
+1. [Tweet] (https://twitter.com/ScooterPhoenix/status/814894901477392384)
+2. [Blog] (https://learningtowebdevblog.wordpress.com/2016/12/30/100-days-of-code-challenge-day-2/)
+3. [Tip Calculator App] (http://tipcalc.angelaandrews.netne.net/)
+
+### Day 1: December 29, 2016 
+
+**Today's Progress**: Changed the presentation and added radio buttons to select tip.
+
+**Thoughts:** I didn't know where to start, so for fear of not starting at all, I forked a CodePen Repo and started pulling apart a tip calculator.
+
+**Link to work:** 
+1. [Tweet] (https://twitter.com/ScooterPhoenix/status/814566738033541122)
+2. https://learningtowebdevblog.wordpress.com/2016/12/29/100-days-of-code-challenge-day-1/
