@@ -6,6 +6,7 @@
         - [Day 0: 2016-12-30](#day-0-2016-12-30)
         - [Day 1: 2016-12-31](#day-1-2016-12-31)
         - [Day 2: 2017-01-01](#day-2-2017-01-01)
+        - [Day 3: 2017-01-02](#day-3-2017-01-02)
 
 <!-- /TOC -->
 
@@ -50,6 +51,21 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 ---
 
 ### Day 2: 2017-01-01
+
+**Today's Progress**: Set up repo for the FreeCodeCamp(:fire:) Zipline 'Build a Wikipedia Viewer', added HTML, CSS and JS files to the repo, added a search box and a random article button. 
+
+**Thoughts**: @wesbos has a type ahead example I went through with the #JavaScript30 tutorials which may come in handy, or just use a jQuery/Ajax example
+
+**Up Next**:
+
+**Link(s) to work**: 
+
+[My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Wikipedia%20Viewer)
+
+
+---
+
+### Day 3: 2017-01-02
 
 **Today's Progress**:
 
