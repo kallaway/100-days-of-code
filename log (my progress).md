@@ -10,7 +10,10 @@ So I downloaded Smartgit (http://www.syntevo.com/smartgit/download) because I am
 
 I use Brackets as Code editor (http://brackets.io), with a lot of plugins. 
 
-So not a lot of code yet. But I'm very exciting, 
+My main project is to make a personal website. So besides Github, I'm actually gonna upload a website to http://mathegrievink.ml.
+So you can track my progress there if you want.
+
+So not a lot of code yet. But I'm very exciting.
 
 
 **Thoughts:** 
