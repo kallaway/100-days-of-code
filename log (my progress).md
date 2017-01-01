@@ -15,7 +15,7 @@ So you can track my progress there if you want.
 
 So not a lot of code yet. But I'm very exciting.
 
-**Time working**
+**Time working:**
 I think 3 or 4 hours? I was working and looking #open2017.
 
 **Thoughts:** 
@@ -32,3 +32,5 @@ My English is not very good, because I live in The Netherlands. (Feel free to re
 **Link to Github:** [Github](https://github.com/Mathingss).
 **Link to My 100 Days Of Code Challenge Repository** [Github](https://github.com/Mathingss/My-100-Days-Of-Code-Challenge).
 **Link to my Twitter** [Github](https://twitter.com/Mathe_Grievink).
+**Link to my Website (nothing on yet)** [Website](www.mathegrievink.ml).
+
