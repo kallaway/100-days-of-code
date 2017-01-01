@@ -56,7 +56,7 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 **Thoughts**: @wesbos has a type ahead example I went through with the #JavaScript30 tutorials which may come in handy, or just use a jQuery/Ajax example
 
-**Up Next**:
+**Up Next**: Get the data working! Ajax ftw?
 
 **Link(s) to work**: 
 
