@@ -4,7 +4,7 @@
 
 COPY AND PASTE
 
-### Day 1: January 3rd, 2017
+### Day 0: DATE
 
 **Today's Progress**: 
 
