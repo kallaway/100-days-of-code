@@ -7,6 +7,7 @@
         - [Day 1: 2016-12-31](#day-1-2016-12-31)
         - [Day 2: 2017-01-01](#day-2-2017-01-01)
         - [Day 3: 2017-01-02](#day-3-2017-01-02)
+        - [Day 4: 2017-01-03](#day-4-2017-01-03)
 
 <!-- /TOC -->
 
@@ -62,10 +63,27 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 [My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Wikipedia%20Viewer)
 
-
 ---
 
 ### Day 3: 2017-01-02
+
+**Today's Progress**: FreeCodeCamp(:fire:) Wikipedia Viewer: Added a getJSON function to the js file, can console log the data but it's only one result at a time
+
+Twitter bot: Had a look at making a twitter bot with [twitter-bot-bootstrap](https://github.com/mobeets/twitter-bot-bootstrap) was quite interesting playing with Heroku and deploying my app, a broken app! 
+
+Git-it: I still use Git as ```git commit``` and ```git push origin master``` and struggle with branching and pull requests [Git-it](http://jlord.us/git-it/index.html) is really helpful in getting you comfortable with forking and PRs, I still need to play with it a lot more.
+
+**Thoughts**: Shit progress is shit! I spent all that time yesterday making the page look pretty but didn't actually think about what else to do hoping that it would magically come to me today.
+
+**Up Next**: Same as today
+
+**Link(s) to work**: 
+
+[My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Wikipedia%20Viewer)
+
+---
+
+### Day 4: 2017-01-03
 
 **Today's Progress**:
 
