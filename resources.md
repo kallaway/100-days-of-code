@@ -6,12 +6,14 @@
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
+3. [#JaveScript30](https://javascript30.com/)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 
 ## Tools
 1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
+2. [WakaTime](https://wakatime.com): Tracks your coding through your text editor
 
 ## Books (both coding and non-coding)
 
@@ -25,6 +27,7 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
+4. ["You Don't Know JS (book series)" by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - available online (free) & as a paperback
 
 ## Contents
 * [Rules](rules.md)
