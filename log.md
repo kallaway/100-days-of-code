@@ -1,8 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 2, 2017 
+
+**Today's Progress**: Worked with Firefox Scratchpad to bang out a few scenarios. 
+
+**Thoughts:** I'm feeling more comfortable about what the app is doing and I think I'm almost there.
+
+**Addendum**
+- [Scratchpad] (https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
+
+**Link to work:** 
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/816148443186024449)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/03/100-days-of-code-challenge-day-5/)
+
 ### Day 4: January 1, 2017 
 
-**Today's Progress**: Seperated Check split from tip calc. Added js button to other page.
+**Today's Progress**: Seperated Check split from tip calc. Added js button to other page. I didn't upload to site, yet.
 
 **Thoughts:** Adding the splitCheck to the tip calc broke the calc. I decided to move it to it's own page. I need to figure this out.
 
@@ -48,4 +61,4 @@
 
 **Link to work:** 
 - [Tweet] (https://twitter.com/ScooterPhoenix/status/814566738033541122)
-- [Blog] https://learningtowebdevblog.wordpress.com/2016/12/29/100-days-of-code-challenge-day-1/
+- [Blog] (https://learningtowebdevblog.wordpress.com/2016/12/29/100-days-of-code-challenge-day-1/)
