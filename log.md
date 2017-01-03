@@ -1,20 +1,6 @@
 # 100 Days Of Code - Log
 
-/************************************************** TEMPLATE ************************************************************/
-
-COPY AND PASTE
-
-### Day 0: DATE
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**:
-
-/********************************************** THE START *****************************************************************/
-
-### Day 0: January 2nd, 2017
+ ### Day 0: January 2nd, 2017
 
 **Today's Progress**: I got through 23 challenges on the Basic JavaScript section of freecodecamp.com.
 
