@@ -2,11 +2,11 @@
 
 ## Day 1 of 100: 3rd January 2017
 
-**Today's Progress:**
+**Today's Progress:** Worked on personal web page
 
-**Thoughts:**
+**Thoughts:** The coding is OK, it's Git that's...well...a git!
 
-**Link to Work:**
+**Link to Work:** Nothing worth showing yet
 
 
 
