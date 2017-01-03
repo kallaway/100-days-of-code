@@ -86,11 +86,24 @@ Git-it: I still use Git as ```git commit``` and ```git push origin master``` and
 
 ### Day 4: 2017-01-03
 
-**Today's Progress**: AM: Completed the follow through of @amandeepmittal's [Twitter bot](https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08#.k7ge75k9d) in my c9 Node.js set up. Created GitHub repo for the project then deployed to Heroku
+**Today's Progress**: 
 
-**Thoughts**: GIT Gah!! 
+AM: Completed the follow through of @amandeepmittal's [Twitter bot pt 1](https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08#.k7ge75k9d) in my c9 Node.js set up. Created GitHub repo for the project then deployed to Heroku
 
-**Up Next**: Play with getting query parameter into the bot.js
+PM: Followed the second part of @amandeepmittal's [Twitter bot pt 2](https://community.risingstack.com/how-to-make-a-twitter-bot-with-node-js/) created and deployed app to Heroku, attempted to make the query string for the tweets and failed miserably, tweaked the timings on retweets and favorites and now I'm not sure if ```setTimeout``` function is hitting the API too often, I have dialed back the frequency now.
+
+Some gotcha's with this: if deploying to Heroku use a ```Procfile``` set the process as a ```worker``` as the default is ```web``` and you will get crashes.
+
+My ```Procfile```:
+
+```
+worker: node bot.js
+heroku ps:scale worker=1
+```
+
+**Thoughts**: GIT Gah!! I made a mess on my tweetbot repo by adding a url with security token to my blog repo then was confused as to why the origin wasn't up to date with the master when I thought the master was empty, so I used ```git push --force``` and overwrote the repo :scream: luckily I had a clone on my phone of the blog repo so I was able to push it back :relieved:
+
+**Up Next**: See how the bot does overnight then decide weather ot not to tweak it some more.
 
 **Link(s) to work**: 
 
