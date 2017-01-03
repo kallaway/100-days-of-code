@@ -17,5 +17,6 @@
 **Today's Progress**: Not really focused on a project. My progress is about getting near to Freecodecamp intermediate front end projects and 1.5 hours spent on it!
 
 **Thoughts**: I begin Object Oriented and Functional Programming course on Free Code Camp. It was not that hard but there were a point that i struggled. It was about using *reduce* method. 
+
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet)
 
