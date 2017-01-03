@@ -86,23 +86,25 @@ Git-it: I still use Git as ```git commit``` and ```git push origin master``` and
 
 ### Day 4: 2017-01-03
 
-**Today's Progress**: 
+**Today's Progress**: AM: Completed the follow through of @amandeepmittal's [Twitter bot](https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08#.k7ge75k9d) in my c9 Node.js set up. Created GitHub repo for the project then deployed to Heroku
 
-**Thoughts**:
+**Thoughts**: GIT Gah!! 
 
-**Up Next**:
+**Up Next**: Play with getting query parameter into the bot.js
 
 **Link(s) to work**: 
+
+[My GitHub repo](https://github.com/spences10/spences10-twitter-bot)
 
 ---
 
 ### Day 5: 2017-01-04
 
-**Today's Progress**:
+**Today's Progress**: 
 
-**Thoughts**:
+**Thoughts**: 
 
-**Up Next**:
+**Up Next**: 
 
 **Link(s) to work**: 
 
