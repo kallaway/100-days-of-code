@@ -1,0 +1,42 @@
+
+.row-centered {
+    text-align:center;
+}
+html, body, .container {
+    padding: 2px;
+    height: 100%;
+    
+}
+body{
+    margin: 40px;
+}
+
+.col-centered {
+    display:inline-block;
+  
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+.quote-author
+{
+    margin-right: 4px;
+    font-family: 'Grand Hotel', cursive;
+    font-size: 17px;
+}
+.quote-content
+{
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+}
+
+* {
+    border: 1px solid red !important;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
