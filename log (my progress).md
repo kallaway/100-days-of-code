@@ -2,7 +2,7 @@
 
 ### Day 1: January 1, 2017
 
-**Today's Progress**: 
+**Today's Progress:** 
 
 Today I start with the challenge, and set things up. 
 
@@ -15,7 +15,7 @@ So you can track my progress there if you want.
 
 So not a lot of code yet. But I'm very exciting.
 
-**Time working**
+**Time working:**
 I think 3 or 4 hours? I was working and looking #open2017.
 
 **Thoughts:** 
@@ -31,4 +31,28 @@ My English is not very good, because I live in The Netherlands. (Feel free to re
 
 **Link to Github:** [Github](https://github.com/Mathingss).
 **Link to My 100 Days Of Code Challenge Repository** [Github](https://github.com/Mathingss/My-100-Days-Of-Code-Challenge).
-**Link to my Twitter** [Github](https://twitter.com/Mathe_Grievink).
+**Link to my Twitter** [Twitter](https://twitter.com/Mathe_Grievink).
+
+### Day 2: January 2, 2017
+
+**Today's Progress:**
+Starting with basics of my website project. I'm using http://000webhost.com for hosting, and linked as an FTP Server to my computer. I think I can start with code tomorrow (finally).
+
+**Time working:**
+1 hour
+
+**Thoughts:**
+Need to learn things again because I haven't did it a while. Like how to use an external css stylesheet. I looked to my FreeCodeCamp map, I am working on JavaScript, but I'm going to do a lot of things again. Because I don't know it anymore. 
+
+**Link to Github:** [Github](https://github.com/Mathingss).
+**Link to My 100 Days Of Code Challenge Repository** [Github](https://github.com/Mathingss/My-100-Days-Of-Code-Challenge).
+**Link to my Twitter** [Twitter](https://twitter.com/Mathe_Grievink).
+
+### Day 3: January 3, 2017
+**Today's Progress:**
+Started with the Build a personal portfolio webpage project on FCC. Did a part of the Responsive Design with Bootstrap again.
+
+**Time working:**
+
+**Thoughts:**
+When I wanted to start with the Build a personal portfolio project, I found a file from August. It looked terrible. So I deleted things so I can start again.
