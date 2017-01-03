@@ -8,6 +8,7 @@
         - [Day 2: 2017-01-01](#day-2-2017-01-01)
         - [Day 3: 2017-01-02](#day-3-2017-01-02)
         - [Day 4: 2017-01-03](#day-4-2017-01-03)
+        - [Day 5: 2017-01-04](#day-5-2017-01-04)
 
 <!-- /TOC -->
 
@@ -85,6 +86,18 @@ Git-it: I still use Git as ```git commit``` and ```git push origin master``` and
 
 ### Day 4: 2017-01-03
 
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**: 
+
+---
+
+### Day 5: 2017-01-04
+
 **Today's Progress**:
 
 **Thoughts**:
@@ -92,3 +105,4 @@ Git-it: I still use Git as ```git commit``` and ```git push origin master``` and
 **Up Next**:
 
 **Link(s) to work**: 
+
