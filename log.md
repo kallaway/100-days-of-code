@@ -4,7 +4,7 @@
 
 **Today's Progress:** Worked on personal web page
 
-**Thoughts:** The coding is OK, it's Git that's...well...a git!
+**Thoughts:** The coding is OK, it's Git that's...well...a git! I can't figure out how to make it apply my CSS to my HTML. Also, when I create a new branch locally, and make some commits on it, then try to push it to the remote, I get a fatal error. I need to do more research to figure these problems out.
 
 **Link to Work:** Nothing worth showing yet
 
