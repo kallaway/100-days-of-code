@@ -12,4 +12,4 @@
 
 ### Day 2: January 3, 2017
 
-**Today's Progress**: Read through the into of "Automate the Boring Stuff With Python". Installed Python and did a few simple statements in IDLE.
+**Today's Progress**: Read through the intro of "Automate the Boring Stuff With Python". Installed Python and did a few simple expressions in IDLE.
