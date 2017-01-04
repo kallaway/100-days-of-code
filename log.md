@@ -1,13 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through several user stories, features and bugs on portfolio.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Felt really good to break things into small pieces and knock them off one by one. Left with an issue getting image to hide on small displays with bootstrap. HTML is formatted terrible. Need to figure out linting I think.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Time: 1 hour 40 minutes
+
+**Link to work:** [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
