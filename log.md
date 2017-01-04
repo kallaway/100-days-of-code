@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 3, 2017 
+
+**Today's Progress**: Not much to speak of. Still working in the console to 'see' what's going on. Coercion has caught me up. My input from my prompt( ) is a string and not a number.
+
+**Thoughts:** I feel like I'm missing something. I need to read up more on coercion, so this makes sense and I can gain a working knowledge of why this is happening.
+
+**Addendum**
+- [YDKJS] (https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch4.mdd)
+
+**Link to work:** 
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/816496675980189696)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/04/100-days-of-code-challenge-day-6/)
+
 ### Day 5: January 2, 2017 
 
 **Today's Progress**: Worked with Firefox Scratchpad to bang out a few scenarios. 
