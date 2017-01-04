@@ -118,11 +118,16 @@ heroku ps:scale worker=1
 
 AM: Still gawking at my twitter feed after getting the twitter bot working, decided to do a README for the twitter bot.
 
-**Thoughts**: 
+PM: Gawd! I spent some time on the twitter bot today, I have documented it all [here](https://spences10.github.io/2017/01/04/twitter-mctwitbot.html) there was quite a lot that I changed from yesterday and I learned quite a lot too. Oh ana added a README for the Twitter bot!
 
-**Up Next**: 
+**Thoughts**: Node.js is pretty neat, I'm very close to buying a premium c9 account.
+
+**Up Next**: FreeCodeCamp(;fire:) Wikipedia viewer zipline!! Maybe I'll add my Twitter bot to @amandeepmittal's [awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots) repo first though! :smile:
 
 **Link(s) to work**: 
+
+[twitter-mctwitbot](https://spences10.github.io/2017/01/04/twitter-mctwitbot.html)
+[My GitHub repo](https://github.com/spences10/spences10-twitter-bot)
 
 ---
 
