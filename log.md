@@ -7,3 +7,12 @@
 **Thoughts:** I am a very new dev, and this required quite of bit of learning, but I am excited for the challenge.  
 
 **Link to work:** [GitHub](https://github.com/aNewDev)
+
+### Day 1: January 3, 2017.
+
+**Today's Progress**: Started a Cloud Guru Github training. Installed Github for Mac. Developed first index page for aNewDev.io website using Github pages.  
+
+**Thoughts:** Some basic code work in HTML, and more working practice with Github.  
+
+**Link to work:** [aNewDev.io](https://anewdev.io)
+
