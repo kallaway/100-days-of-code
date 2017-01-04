@@ -9,6 +9,7 @@
         - [Day 3: 2017-01-02](#day-3-2017-01-02)
         - [Day 4: 2017-01-03](#day-4-2017-01-03)
         - [Day 5: 2017-01-04](#day-5-2017-01-04)
+        - [Day 6: 2017-01-05](#day-6-2017-01-05)
 
 <!-- /TOC -->
 
@@ -112,6 +113,18 @@ heroku ps:scale worker=1
 ---
 
 ### Day 5: 2017-01-04
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Up Next**: 
+
+**Link(s) to work**: 
+
+---
+
+### Day 6: 2017-01-05
 
 **Today's Progress**: 
 
