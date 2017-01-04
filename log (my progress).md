@@ -50,6 +50,7 @@ Need to learn things again because I haven't did it a while. Like how to use an 
 **Link to my Twitter** [Twitter](https://twitter.com/Mathe_Grievink).
 
 ### Day 3: January 3, 2017
+
 **Today's Progress:**
 Started with the Build a personal portfolio webpage project on FCC. (which I hope can finish tomorrow) Did a part of the Responsive Design with Bootstrap again. Search some sites for designs, I found http://coolers.co. Which is fantastic! I use http://hackerthemes.com/bootstrap-cheatsheet as cheatsheet. 
 
@@ -62,3 +63,21 @@ I had 2 coding sessions, one in the afternoon and one in the evening. When I wan
 **Link to Github:** [Github](https://github.com/Mathingss).
 **Link to My 100 Days Of Code Challenge Repository** [Github](https://github.com/Mathingss/My-100-Days-Of-Code-Challenge).
 **Link to my Twitter** [Twitter](https://twitter.com/Mathe_Grievink).
+
+
+### Day 4, January 4, 2017
+
+**Today's Progress:**
+I finished my Build a Personal Portfolio Webpage project on https://codepen.io/Matheee/pen/AXNmrv. 
+
+**Time working:**
+1 hour
+
+**Thoughts:**
+
+
+
+**Link to Github:** [Github](https://github.com/Mathingss).
+**Link to My 100 Days Of Code Challenge Repository:** [Github](https://github.com/Mathingss/My-100-Days-Of-Code-Challenge).
+**Link to my Twitter:** [Twitter](https://twitter.com/Mathe_Grievink).
+**Link to my Codepen:** [Codepen](https://codepen.io/Matheee/).
