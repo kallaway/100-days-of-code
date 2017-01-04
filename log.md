@@ -9,3 +9,7 @@
 ### Day 1: January 2, 2017
 
 **Today's Progress**: Did more JavaScript in the Chrome console. 
+
+### Day 2: January 3, 2017
+
+**Today's Progress**: Read through the into of "Automate the Boring Stuff With Python". Installed Python and did a few simple statements in IDLE.
