@@ -116,6 +116,8 @@ heroku ps:scale worker=1
 
 **Today's Progress**: 
 
+AM: Still gawking at my twitter feed after getting the twitter bot working, decided to do a README for the twitter bot.
+
 **Thoughts**: 
 
 **Up Next**: 
