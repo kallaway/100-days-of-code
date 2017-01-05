@@ -20,3 +20,19 @@
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet)
 
+### Day 1: Jan 04, 2017 
+
+
+**Today's Progress**: Worked with FCC courses not much progress but it was a busy day and i'm glad i could make some progress!
+
+**Thoughts**: No idea what does a-b still do actually. I understand how it works but still it doesnt make sense to me..
+
+''' javascript
+var array = [1, 12, 21, 2];
+array.sort(function(a, b) {
+  return a - b;
+});
+
+'''
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet)
