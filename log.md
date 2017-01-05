@@ -6,7 +6,7 @@
 
 **Thoughts:** Relearned CSS & HTML basics again and how to work with Bootstrap framework. Made a simple webpage during the exercises.
 
-**Link(s) to work**: [Day 1](100-days-of-code/Days/Day 1 (Sample BootStrap page))
+**Link(s) to work**: [Day 1](https://github.com/redlk/100-days-of-code/blob/master/Days/Day%201%20(Sample%20BootStrap%20page))
 
 ### Date
 
