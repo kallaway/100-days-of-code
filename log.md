@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 7: January 7, 2017 
+### Day 7: January 4, 2017 
 
 **Today's Progress**: Not much to speak of. Read some of JavaScript for Web Developers, then did my hour on Free Code Camp.
 
