@@ -4,8 +4,9 @@
 
 **Today's Progress**: Completed CodeAcademy's [Make a Webiste course](https://www.codecademy.com/learn/make-a-website)
 
-**Thoughts:** Relearned CSS & HTML basics again and how to work with Bootstrap framework.
+**Thoughts:** Relearned CSS & HTML basics again and how to work with Bootstrap framework. Made a simple webpage during the exercises.
 
+**Link(s) to work**: [Day 1](100-days-of-code/Days/Day 1 (Sample BootStrap page))
 
 ### Date
 
