@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 7, 2017 
+
+**Today's Progress**: Not much to speak of. Read some of JavaScript for Web Developers, then did my hour on Free Code Camp.
+
+**Thoughts:** A little frustrated, a lot determined to learn more and understand. I won't stay away from the project too long. I know there is a lesson in this process.
+
+**Addendum**
+- [JavaScript for Web Developers] (https://abookapart.com/products/javascript-for-web-designers)
+
+**Link to work:** 
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/816855196210905088)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/05/100-days-of-code-challenge-day-7/)
+
 ### Day 6: January 3, 2017 
 
 **Today's Progress**: Not much to speak of. Still working in the console to 'see' what's going on. Coercion has caught me up. My input from my prompt( ) is a string and not a number.
