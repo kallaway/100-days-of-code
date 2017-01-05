@@ -9,6 +9,12 @@
 **Link to Work:** Nothing worth showing yet
 
 
+## Day 2 of 100: 4th January 2017
+
+**Today's Progress** I don't want to say this too loudly and jinx myself, but...today has gone pretty well. Maybe it's because I forced myself to focus on one small area - laying out the bare bones of my website - rather than thinking about all surrounding fancy stuff. Tomorrow's aim is to figure out how to apply CSS to my GitHub page. But for today, I'm heading back over to FreeCodeCamp to carry on with my JavaScript tutorials.
+
+**Link to Work:** It may not look terribly exciting yet, but here it is - [https://ivesnoidea.github.io/](https://ivesnoidea.github.io/)
+
 
 <!---
 
