@@ -10,6 +10,7 @@
         - [Day 4: 2017-01-03](#day-4-2017-01-03)
         - [Day 5: 2017-01-04](#day-5-2017-01-04)
         - [Day 6: 2017-01-05](#day-6-2017-01-05)
+        - [Day 7: 2017-01-06](#day-7-2017-01-06)
 
 <!-- /TOC -->
 
@@ -133,6 +134,26 @@ PM: Gawd! I spent some time on the twitter bot today, I have documented it all [
 ---
 
 ### Day 6: 2017-01-05
+
+**Today's Progress**: 
+
+AM: Forked and pulled [awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots) added my bot folder to the repo, added with `git add . ` instead of `git add myfoldername/\\*` so the folder was added as a file, I spent the next hour or so trying to work out what I did :confused:
+
+After creating the pull request and documenting it all @amandeepmittal mentions that all I needed to do was add my repo link and Twitter link to the repo README.md :scream: then closes the pull request.
+
+I was successfully merged this afternoon as pull [#2](https://github.com/amandeepmittal/awesome-twitter-bots/pull/2)
+
+**Thoughts**: 
+
+**Up Next**: 
+
+**Link(s) to work**: 
+
+[awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots)
+
+---
+
+### Day 7: 2017-01-06
 
 **Today's Progress**: 
 
