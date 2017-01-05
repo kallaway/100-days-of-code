@@ -7,4 +7,4 @@
 
 **Thoughts:** Learnt CSS transform scale() doesnt work with inline `a` tag
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Wikipedia Viewer](http://codepen.io/negus/pen/repmBw)
