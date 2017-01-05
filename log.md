@@ -27,12 +27,12 @@
 
 **Thoughts**: No idea what does a-b still do actually. I understand how it works but still it doesnt make sense to me..
 
-''' javascript
+,,, javascript
 var array = [1, 12, 21, 2];
 array.sort(function(a, b) {
   return a - b;
 });
 
-'''
+,,,
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet)
