@@ -29,14 +29,11 @@
 
 
 
+### Day 3:
 
+**Today's Progress as Published on Medium.com: **
 
-
-
-
-### Day :
-
-**Today's Progress as Published on Medium.com **: 
+**Progress:** Played around with Markdown while I was working on the Spoon-Knife demo and this coding log.
 
 **Thoughts:** 
 
