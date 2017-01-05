@@ -16,3 +16,10 @@
 
 **Link to work:** [aNewDev.io](https://anewdev.io)
 
+### Day 2: January 4, 2017.
+
+**Today's Progress**: Completed FreeCodeCamp Sections: Getting Started, HTML and CSS.  Began Hack Reactor Prep program: Introduction and Module 0: Reading.  Updated aNewDev.io with the tools I am already using on day 2.
+
+**Thoughts:** Good review of HTML fundamentals.  Start of the real work.  
+
+**Link to work:** [aNewDev.io](https://anewdev.io)
