@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log for Gretchen
 
-# Some Prep Work before the Challenge Begins:  
-# Here:  https://medium.com/@Gretch/happy-new-year-2017-de6b0f9d27a9#.qumrgkxu7
-# and 
-# Here:  https://medium.com/@Gretch/got-goals-time-for-some-prep-work-88ddca9d652e#.oa3i28s12
+** Some Prep Work before the Challenge Begins:  **
+** Here:  https://medium.com/@Gretch/happy-new-year-2017-de6b0f9d27a9#.qumrgkxu7  **
+** and **
+** Here:  https://medium.com/@Gretch/got-goals-time-for-some-prep-work-88ddca9d652e#.oa3i28s12  **
 
 
 ### Day 1:
