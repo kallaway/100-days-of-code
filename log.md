@@ -15,6 +15,13 @@
 
 **Link to Work:** It may not look terribly exciting yet, but here it is - [https://ivesnoidea.github.io/](https://ivesnoidea.github.io/)
 
+
+## Day 3 of 100: 5th January 2017
+
+**Today's Progress:** Still having trouble applying my CSS. It seems a bit hit-and-miss. Some bits get applied and others don't. I'm not going to worry about it too much just yet. If it doesn't resolve in a couple of days I will head on to the forum and ask someone to check it over for me. There must be a simple explanation, and I just can't see the wood for the trees.
+
+**Link to Work:** [https://ivesnoidea.github.io/](https://ivesnoidea.github.io/)
+
 <!---
 
 # 100 Days Of Code - Log
