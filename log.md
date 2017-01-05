@@ -1,30 +1,1200 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log for Gretchen
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+# Some Prep Work before the Challenge Begins:  
+# Here:  https://medium.com/@Gretch/happy-new-year-2017-de6b0f9d27a9#.qumrgkxu7
+# and 
+# Here:  https://medium.com/@Gretch/got-goals-time-for-some-prep-work-88ddca9d652e#.oa3i28s12
 
 
-### Day 1: June 27, Monday
+### Day 1:
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress as Published on Medium.com **: https://medium.com/@Gretch/100daysofcode-day-1-github-startup-4846d6367015#.r778all04
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** I am ironing out wrinkles in my understanding of GitHub's push/pull system, but I am slowly getting it.  Need to find someone with whom to practice.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:**  No separate code examples today (tutorials from Git and CodeSchool).
+
+
+
+### Day 2:
+
+**Today's Progress as Published on Medium.com **: https://medium.com/@Gretch/100daysofcode-day-2-hanging-on-to-github-281c1dc7ba46#.rb62be6yh
+
+**Thoughts:**  Encountering some resistance with pushing my commits.  Will consider doing the CodeSchool "Git Real" course to improve my understanding and ability to use Git on an every day basis.
+
+**Link to work:** No separate code examples today (tutorials from Git and CodeSchool).
+
+
+
+
+
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **:
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day :
+
+**Today's Progress as Published on Medium.com **: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+###  Maybe this is the End of the Log?  Mid-Spring will tell!
