@@ -10,16 +10,18 @@
 
 **Link to work:** [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 4, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Added image to portfolio and hid it when screens size is small. Added blurb in about section. These both need some improvement, but they are both there.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really am enjoying this daily practice. I am going to read through all the Bootstrap 4 soon. There are a few changes in classes from Bootstrap 3. I am going to read some articles about getting hired as a developer. I am really tired today.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Time: 1 hour
+
+**Link(s) to work**: [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/)
 
 
+<!--
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -29,3 +31,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
