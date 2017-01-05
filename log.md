@@ -15,7 +15,6 @@
 
 **Link to Work:** It may not look terribly exciting yet, but here it is - [https://ivesnoidea.github.io/](https://ivesnoidea.github.io/)
 
-
 <!---
 
 # 100 Days Of Code - Log
