@@ -143,13 +143,19 @@ After creating the pull request and documenting it all @amandeepmittal mentions 
 
 I was successfully merged this afternoon as pull [#2](https://github.com/amandeepmittal/awesome-twitter-bots/pull/2)
 
-**Thoughts**: 
+PM: I documented (for my own understanding really) the process of setting up a pull request on GitHub, then broke my Jekyll site messing around with the GitHub settings.
 
-**Up Next**: 
+I made a post on the process here: [Git and GitHub](https://spences10.github.io/2017/01/05/git-and-github.html)
+
+**Thoughts**: I need to branch all the things!!!
+
+**Up Next**: Random @replies for my Twitter bot
 
 **Link(s) to work**: 
 
 [awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots)
+
+[Git and GitHub](https://spences10.github.io/2017/01/05/git-and-github.html)
 
 ---
 
