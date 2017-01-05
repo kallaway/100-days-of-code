@@ -1,1 +1,0 @@
-Testing the Git flow on local computer
