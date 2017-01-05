@@ -1,0 +1,160 @@
+
+<html lang="en">
+
+     <head>
+         <link rel="stylesheet" type="text/css" href="css/normalize.css">
+         <link rel="stylesheet" type="text/css" href="css/grid.css">
+         <link rel="stylesheet" type="text/css" href="cssi/style.css"> 
+         <link rel="stylesheet" type="text/css" href="css/font-awesome-4.7.0/css/font-awesome.min.css"> 
+         <link rel="stylesheet" type="text/css" href="css/icofont/css/icofont.css"> 
+         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+        
+         <title> RB </title>
+     
+     </head> 
+      
+     <body>  
+        
+         <header>
+            
+             <div class="row">
+                  <a href="#"><i class="fa fa-snowflake-o fa-3x" aria-hidden="true"></i></a>   
+                  <ul class="main-nav">
+                      <li><a href="#">Home</a></li>
+                      <li><a href="#">Approach</a></li>
+                      <li><a href="#">Services</a></li>
+                      <li><a href="#">Portfolio</a></li>
+                      <li><a href="#">Contact</a></li>
+                  </ul>
+             </div>
+            
+         </header>
+         <style>
+         /*-------------------------------------*/
+/* BASIC SETUP* /
+/*-------------------------------------*/
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: fff;
+    color: #555;
+    font-family: 'open-sans', 'Arial', sans-serif; 
+    font-size: 20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/*-------------------------------------*/
+/* REUSABLE COMPONENTS* /
+/*-------------------------------------*/
+
+/*   #1abc9c   */
+
+
+/*-------------------------------------*/
+/* HEADER* /
+/*-------------------------------------*/
+
+header {
+    background-image: url(img/img3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+h1 {
+    margin: 0;
+}
+
+.text-box {
+    position: absolute; /*to fix the position of content since the page is fluid grid*/
+    width: 1140px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.text-box h1 {
+    font-size: 400%;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
+
+.text-box h1:after {
+    display: block;
+    height: 2px;
+    background-color: #1abc9c;
+    content: " ";
+    width: 500px;
+    margin-bottom: 30px;
+    margin-top: 30px
+}
+
+
+/*will code here the underscore for headers
+.text-box h1:after {    
+}
+*/
+
+.text-box h2 {
+    font-size: 200%;
+}
+
+.fa {
+    margin-top: 20px;
+    color: #1abc9c;
+    text-decoration: none;
+}
+
+.fa:hover{
+    color: #169e83;
+}
+
+.main-nav {
+    float:right;
+    list-style: none;
+    margin-top: 40px;
+}
+
+.main-nav li {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited {
+    padding: 9px 0;
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.2s;
+}
+
+.main-nav li a:hover,
+.main-nav li a:active { 
+    border-bottom: 2px solid #1abc9c;
+}
+
+
+         </style>
+        
+         
+     </body>
+     
+</html>
