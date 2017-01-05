@@ -18,4 +18,4 @@
 
 **Today's Progress**: Started Practical Javascript on watchandcode.com. Starting to build a to-do list.
 
-**Thoughts:**: I want to work on getting better at web development, but then I also want to learn some Python for work. "Automate the Boring Stuff" seems really interesting, and would probably help me. I think I'm going to focus on JavaScript for now until I get the syntax down, and to not confuse myself with trying to learn two things at once.
+**Thoughts:** I want to work on getting better at web development, but then I also want to learn some Python for work. "Automate the Boring Stuff" seems really interesting, and would probably help me. I think I'm going to focus on JavaScript for now until I get the syntax down, and to not confuse myself with trying to learn two things at once.
