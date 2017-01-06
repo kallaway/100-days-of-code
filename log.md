@@ -164,6 +164,8 @@ I made a post on the process here: [Git and GitHub](https://spences10.github.io/
 
 **Today's Progress**: 
 
+AM: Used my new Git skills to branch my Twitter bot so I could add to the canned response on a follow.
+
 **Thoughts**: 
 
 **Up Next**: 
