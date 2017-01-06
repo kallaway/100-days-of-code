@@ -24,7 +24,7 @@
 
 **Link to work:** [aNewDev.io](https://anewdev.io)
 
-### Day 2: January 4, 2017.
+### Day 3: January 5, 2017.
 
 **Today's Progress**: Completed FreeCodeCamp Sections: Responsive Design with Bootstrap.  
 
