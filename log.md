@@ -10,3 +10,11 @@ Added Video Frame, Progress bars and buttons.
 
 ----------
 
+### Day 2: January 6, 2016
+
+**Today's Progress**: Added functions like play/pause, progress bar and sound bar to my project.(JavaScript)
+
+**Link(s) to work**: [HTML5 Video Player](https://github.com/pruthiviraj71/HTML5-Video-Player)
+
+----------
+
