@@ -166,9 +166,13 @@ I made a post on the process here: [Git and GitHub](https://spences10.github.io/
 
 AM: Used my new Git skills to branch my Twitter bot so I could add to the canned response on a follow. Added random responses to twitter-bot
 
-**Thoughts**: 
+I also had a look at starting again from scratch with Jekyll as I want some nice GitHub markdown and emoji's but I've somehow managed to override that theme and can't seem to get back to default
 
-**Up Next**: 
+PM: Branched my changes for my #100DaysOfCode repo along with my [spences10-twitter-bot](https://github.com/spences10/spences10-twitter-bot/tree/master), set up another c9 workspace for twitter-bot-playground where I'm going to explore all the features available via [twit](https://www.npmjs.com/package/twit)
+
+**Thoughts**: Putting off that @FreeCodeCamp(:fire:) Wikipedia viewer Zipline, I don't know why :cold_sweat:
+
+**Up Next**: Got a Cloud 9 pro licence, :smile: will have a play with that and experimenting with Node.js and probably automating my twitter bot more
 
 **Link(s) to work**: 
 
