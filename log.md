@@ -22,6 +22,12 @@
 
 **Link to Work:** [https://ivesnoidea.github.io/](https://ivesnoidea.github.io/)
 
+## Day 4 of 100: 6th January 2017
+
+**Today's Progress:** More work on stylesheet today. Added background image to page header (need to tweak image size / padding so it looks right) and background colours to the rest of the page. Not quite sure why my topnav isn't going right across the page, just the first column. Maybe it will stretch once I put stuff in the other columns...but that's a job for tomorrow.
+
+**Link to Work:** [My GitHub repo](https://github.com/IvesNoIdea/ivesnoidea.github.io)
+
 <!---
 
 # 100 Days Of Code - Log
