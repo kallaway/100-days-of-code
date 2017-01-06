@@ -23,3 +23,11 @@
 **Thoughts:** Good review of HTML fundamentals.  Start of the real work.  
 
 **Link to work:** [aNewDev.io](https://anewdev.io)
+
+### Day 2: January 4, 2017.
+
+**Today's Progress**: Completed FreeCodeCamp Sections: Responsive Design with Bootstrap.  
+
+**Thoughts:** Good expansion on CSS for me.    
+
+**Link to work:** [freecodecamp progress](https://www.freecodecamp.com/anewdev)
