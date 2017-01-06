@@ -164,13 +164,15 @@ I made a post on the process here: [Git and GitHub](https://spences10.github.io/
 
 **Today's Progress**: 
 
-AM: Used my new Git skills to branch my Twitter bot so I could add to the canned response on a follow.
+AM: Used my new Git skills to branch my Twitter bot so I could add to the canned response on a follow. Added random responses to twitter-bot
 
 **Thoughts**: 
 
 **Up Next**: 
 
 **Link(s) to work**: 
+
+[Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot)
 
 ---
 
