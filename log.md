@@ -11,6 +11,7 @@
         - [Day 5: 2017-01-04](#day-5-2017-01-04)
         - [Day 6: 2017-01-05](#day-6-2017-01-05)
         - [Day 7: 2017-01-06](#day-7-2017-01-06)
+        - [Day 8: 2017-01-07](#day-8-2017-01-07)
 
 <!-- /TOC -->
 
@@ -160,6 +161,18 @@ I made a post on the process here: [Git and GitHub](https://spences10.github.io/
 ---
 
 ### Day 7: 2017-01-06
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Up Next**: 
+
+**Link(s) to work**: 
+
+---
+
+### Day 8: 2017-01-07
 
 **Today's Progress**: 
 
