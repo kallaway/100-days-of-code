@@ -72,6 +72,12 @@
 
 **Link to work**: https://github.com/Mmgfrog
 
+###Day 9: Jan. 6, 2017
 
+**Today's Progress**: Got $.getJSON and jQuery somewhat working on Random Quote Machine, plus minor CSS changes.
+
+**Thoughts**: How to randomize quotes and not just pull one at a time? How to cycle through API's array? How to get Twitter functionality working?
+
+**Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
 
 
