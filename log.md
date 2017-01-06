@@ -166,6 +166,8 @@ I made a post on the process here: [Git and GitHub](https://spences10.github.io/
 
 AM: Used my new Git skills to branch my Twitter bot so I could add to the canned response on a follow. Added random responses to twitter-bot
 
+I also had a look at starting again from scratch with Jekyll as I want some nice GitHub markdown and emoji's but I've somehow managed to override that theme and can't seem to get back to default
+
 **Thoughts**: 
 
 **Up Next**: 
