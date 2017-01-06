@@ -24,3 +24,12 @@
 **Thoughts:** I'm kinda bummed that my progress (3 day streak!) is not showing up in Git--but I guess I don't fully grasp it yet. I need to actually start working on projects. However, my freecodecamp log is really nice to look at! I finished the HTML track and have experimented a bit with HTML. I've also been referencing [w3schools.com](http://www.w3schools.com/css/css_link.asp) for some help and new ideas. New ideas being one--how to change the color of a link while a cursor is hovering over it. Also kept focus listening to [Pogo's new album](https://youtu.be/BwyY5LdpECA) today.
 
 **Link to work:** [Codepen](https://codepen.io/cellojane/pen/zNxNYV)
+
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Messed with HTML codepen. Trying to incorporate everything I learned in the tutorial.
+
+**Thoughts:** I am continuing to make my "Hello World!" website as silly as possible. Right now I'm trying to make a fake website menue but I'm having trouble figuring out how I can force the links to stay the same color after they've been visited. I only want that effect on the menu though. I didn't quite figure it out, but I think I'm close. I think it has to do with the style hierarchy. I also experimented with div's and padding. I want to figure out how to get a 2- column layout so I can have side-by-side boxes. Tomorrow I want to see if I can start a new repo with the code for this website project, mostly because I want to show that I'm making headway on Git! Especially since I technically didn't do anything on FCC. Maybe I should do one tutorial so I at least get a mark for the day...ok officially started bootstrap. Whew!
+
+**Link to work:** [Codepen](https://codepen.io/cellojane/pen/zNxNYV)
