@@ -37,7 +37,7 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have fun --->
 
-### Day 2: Jan 04, 2017 
+### Day 2: Jan 05, 2017 
 
 
 **Today's Progress**: Finished Object Oriented and Functional Programming course and begin to algorithms. 
