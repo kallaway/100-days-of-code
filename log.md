@@ -9,7 +9,7 @@
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/negus/pen/repmBw)
 
-### Day 1: Jan 5, 2017
+### Day 2: Jan 6, 2017
 ##### Build FCC's Wikipedia Viewer
 
 **Today's Progress**: Continued Codefight Challenges. Bonus: to complete Day one code with jQuery or Vanilla. Still solving Last challenge of the H2H codefight. Code in the link below is WIP
