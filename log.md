@@ -17,3 +17,11 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Thoughts**: I'm currently not fond of the current iteration of bootstrap 4 beta 5 support for flexbox, there was many frustration points today.
 
 **Link(s) to work**: Portfolio [CodePen](https://codepen.io/marvellousdesign/pen/egmzvq)
+
+### Day 3: Jan 5, 2017 Thursday
+
+**Today's Progress**: Making progress on my portfolio, and figure out the padding issue in my nav (because of the ul element).
+
+**Thoughts**: It's still taking too long to finish a one pager and figure out the nooks and cranny about bootstrap 4 beta 5. I hope beta 6 comes out as they removed all the floats, and used flexbox.
+
+**Link(s) to work**: Portfolio [CodePen](https://codepen.io/marvellousdesign/pen/egmzvq)
