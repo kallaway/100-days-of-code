@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 5, 2017 
+
+**Today's Progress**: I did my hour on Free Code Camp. 
+
+**Thoughts:** A full day at work and teaching afterwards.. I'm just glad I have something to show some progress. Finished the HTML5 & CSS section. I also started revamping the Header and nav on my tip calc. That's something....right?
+
+**Addendum**
+[XOPIXELL YouTube] (https://www.youtube.com/watch?v=rKUIRO3UqGA)
+
+**Link to work:** 
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/816855196210905088)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/05/100-days-of-code-challenge-day-7/)
+
+
 ### Day 7: January 4, 2017 
 
 **Today's Progress**: Not much to speak of. Read some of JavaScript for Web Developers, then did my hour on Free Code Camp.
