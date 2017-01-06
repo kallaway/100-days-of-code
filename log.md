@@ -10,9 +10,10 @@
 **Link to work:** [Wikipedia Viewer](http://codepen.io/negus/pen/repmBw)
 
 ### Day 2: Jan 6, 2017
-##### Build FCC's Wikipedia Viewer
+##### To win CodeFight H2H Challenge
 
-**Today's Progress**: Continued Codefight Challenges. Bonus: to complete Day one code with jQuery or Vanilla. Still solving Last challenge of the H2H codefight. Code in the link below is WIP
+**Today's Progress**: Continued Codefight Challenges. Still solving Last challenge of the H2H codefight. Code in the link below is WIP.
+ Bonus: to complete Day one code with jQuery or Vanilla. 
 
 **Thoughts:** Regex simplifies a lot of my jS junk...Needs more grind.
 
