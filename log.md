@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 1: January 5, 2017
+
+**Today's Progress**: I created a function to get the geolocation after read and understand the API, and another function to get the JSON from the API openweathermap. Also, I studied a little of the bootstrap documentation to set the jumbotron class as a card of my web app. I organized my code with some containers and <div>'s. With some inspiration to style the app it will look cool in some commits.
+
+**Thoughts:** I notice the first part is start the day, but when you make that differently everyday with some motivation about "I need to improve, I need to fight with myself to be better". It was necessary read the APIs documentation again again and remember how works a method, a function, a jQuery handle, and you think if you are good enough to make the job. But when you see it is necessary to come back some steps to go up. Wow, it's awesome.
+
+**Link to work:** https://github.com/kelvinmaues/weather-app.git.
+
 ### Day 0: January 4, 2017
 
 **Today's Progress**: I get the geolocation from the browser and I tested the openweather API for my project on FCC.
