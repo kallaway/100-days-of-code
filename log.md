@@ -36,3 +36,13 @@ array.sort(function(a, b) {
 ```
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have fun --->
+
+### Day 2: Jan 05, 2017 
+
+
+**Today's Progress**: Finished Object Oriented and Functional Programming course and begin to algorithms. 
+
+**Thoughts**: Object oriented side is a bit complicated for me there are some gaps with how stuff work. Algorithms are a bit hard but it feels like doing something with coding. When i succesfully code the first algorithm it was very satisfying.   
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
