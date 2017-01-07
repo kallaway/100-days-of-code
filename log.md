@@ -17,3 +17,11 @@ Webpack 2 setup
 errors sucks
 
 ---------
+
+## Day 3: January 6, 2017
+#### Today's progress:
+Refactor some part tuition management (old) project.
+#### Thoughts:
+sometimes it feels good to realize how much bad i was in coding. 
+
+---------------
