@@ -33,3 +33,13 @@
 **Thoughts:** I am continuing to make my "Hello World!" website as silly as possible. Right now I'm trying to make a fake website menue but I'm having trouble figuring out how I can force the links to stay the same color after they've been visited. I only want that effect on the menu though. I didn't quite figure it out, but I think I'm close. I think it has to do with the style hierarchy. I also experimented with div's and padding. I want to figure out how to get a 2- column layout so I can have side-by-side boxes. Tomorrow I want to see if I can start a new repo with the code for this website project, mostly because I want to show that I'm making headway on Git! Especially since I technically didn't do anything on FCC. Maybe I should do one tutorial so I at least get a mark for the day...ok officially started bootstrap. Whew!
 
 **Link to work:** [Codepen](https://codepen.io/cellojane/pen/zNxNYV)
+
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: Wrote an excessive amount of HTML at work. And finished the day with some Bootstrap.
+
+**Thoughts:** Ok so technically it's already Saturday, but it's been a long day, ok!? I think I put in 120% effort. In short, I created a workaround for a Drupal issue we've had at work for a while. I know this isn't supposed to be work projects, but technically this is outside my scope of responsibilities anyways. So I fixed our homepage issue. And then I had a lot of personal stuff to do today, so I didn't get home until 12:45 and wanted to get some FCC tutorials in. We'll see what I remeber tomorrow.
+
+**Link to workL** [Work Site](https://asegrad.tufts.edu)
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
