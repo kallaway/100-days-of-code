@@ -46,3 +46,13 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
+
+### Day 3: Jan 06, 2017 
+
+
+**Today's Progress**: Finished Check for Palindromes.
+
+**Thoughts**: Used lots of methods. Methods are complicated. Each of them have like unique usage. Need to practice more!   
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
