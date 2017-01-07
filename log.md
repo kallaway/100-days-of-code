@@ -7,7 +7,7 @@
 
 **Thoughts:** After reading the rules, I'm approaching this with a fair amount of trepidation - a little worried.  But that is why it's called a challenge, no?  One hour of Netflix every night is not a challenge.  One hour of code not related to work will definitely be interesting.
 
-**Link to work:** [My blog post for day -3 of #100DaysofCode] (http://StephanieTech.net)
+**Link to work:** [My blog post for day -3 of #100DaysofCode] (http://stephanietech.net/2017/01/06/100daysofcode/)
 
 This is a Markdown test:
 * should be a bullet point
