@@ -14,7 +14,7 @@
 
 **Thoughts**: More experience with Bootstrap framework. Got rid of custom CSS styling in favor of Bootstrap in Cat Photo App. Using Bootstrap set up jQuary Playground for further exercises. 
 
-**Link(s) to work**: [Cat Photo App](https://github.com/redlk/100-days-of-code/blob/master/Days/Day%202(Cat%20Photo%20App%20enhancements)) [jQuary Playground](https://github.com/redlk/100-days-of-code/blob/master/Days/Day%202%20(jQuery%20Playground))
+**Link(s) to work**: [Cat Photo App](https://github.com/redlk/100-days-of-code/blob/master/Days/Day%202(Cat%20Photo%20App%20enhancements)) | [jQuary Playground](https://github.com/redlk/100-days-of-code/blob/master/Days/Day%202%20(jQuery%20Playground))
 
 ### Date
 
