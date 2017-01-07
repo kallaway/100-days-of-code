@@ -45,7 +45,7 @@
 
 **Today's Progress as Published on Medium.com **: 
 
-**Thoughts:** 
+**Thoughts:** Finalized some GitHub practice with a friend.  Looking forward to that happening.  I continued my FreeCodeCamp journey by finishing a few lessons, and I have begun the 'Basic Front End Development Projects' of FCC.  Last year I went ploughed ahead to working in JavaScript, but I've decided to complete the curriculum in sequential order hence the return to these three projects.
 
 **Link to work:** 
 
