@@ -28,6 +28,12 @@
 
 **Link to Work:** [My GitHub repo](https://github.com/IvesNoIdea/ivesnoidea.github.io)
 
+
+## Day 5 of 100: 7th January 2017
+
+**Today's Progress:** Lots of messing about with margins, padding, div sizes and positions today. Finally getting close to the layout I'm looking for. Tomorrow's plan is to set up the navbar buttons to jump to each section of the page.
+
+**Link to Work:** Same as above
 <!---
 
 # 100 Days Of Code - Log
