@@ -185,11 +185,21 @@ PM: Branched my changes for my #100DaysOfCode repo along with my [spences10-twit
 
 **Today's Progress**: 
 
+AM: Created twitter-bot-playground repo, found out how to identify my own Twitter user ID from the awesome :sparkles: [twit](https://www.npmjs.com/package/twit) :sparkles: documentation.
+
+Added some logic to [Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot) so that it stops tweeting itself! Didn't work as I have no clue how to do callbacks :scream:
+
+
+
 **Thoughts**: 
 
 **Up Next**: 
 
 **Link(s) to work**: 
+
+[Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot)
+
+[twitter-bot-playground](https://github.com/spences10/twitter-bot-playground)
 
 ---
 
