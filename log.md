@@ -12,6 +12,7 @@
         - [Day 6: 2017-01-05](#day-6-2017-01-05)
         - [Day 7: 2017-01-06](#day-7-2017-01-06)
         - [Day 8: 2017-01-07](#day-8-2017-01-07)
+        - [Day 9: 2017-01-08](#day-9-2017-01-08)
 
 <!-- /TOC -->
 
@@ -181,6 +182,18 @@ PM: Branched my changes for my #100DaysOfCode repo along with my [spences10-twit
 ---
 
 ### Day 8: 2017-01-07
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Up Next**: 
+
+**Link(s) to work**: 
+
+---
+
+### Day 9: 2017-01-08
 
 **Today's Progress**: 
 
