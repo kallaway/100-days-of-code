@@ -29,19 +29,19 @@
 
 
 
-### Day 3:
+### Day 3:  
 
-**Today's Progress as Published on Medium.com: **
+**Today's Progress as Published on Medium.com: **  https://medium.com/@Gretch/100daysofcode-day-3-markdown-more-github-d5d489ddf46d#.o5f1zo639
 
 **Progress:** Played around with Markdown while I was working on the Spoon-Knife demo and this coding log.
 
-**Thoughts:** 
+**Thoughts:** Slow day with reading of documentation and working inside GitHub.  I will reach out to someone locally who can work with me in Git so that I can practice some techniques.
 
-**Link to work:** 
+**Link to work:** No separate code examples today as I worked on closing and pulling/pushing on GitHub.
 
 
 
-### Day :
+### Day 4:
 
 **Today's Progress as Published on Medium.com **: 
 
