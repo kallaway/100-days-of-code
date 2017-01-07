@@ -25,3 +25,11 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Thoughts**: It's still taking too long to finish a one pager and figure out the nooks and cranny about bootstrap 4 beta 5. I hope beta 6 comes out as they removed all the floats, and used flexbox.
 
 **Link(s) to work**: Portfolio [CodePen](https://codepen.io/marvellousdesign/pen/egmzvq)
+
+### Day 4: Jan 6, 2017 Friday
+
+**Today's Progress**: I finished my portfolio for FreeCodeCamp.
+
+**Thoughts**: I lost my small 3 day streak at FreeCodeCamp, while finishing up my Portfolio, and now I'm moving on to javascript. Although while doing this project, I feel like learning SASS/SCSS would of been helpful.
+
+**Link(s) to work**: Portfolio [CodePen](https://codepen.io/marvellousdesign/full/egmzvq)
