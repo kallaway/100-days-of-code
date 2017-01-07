@@ -41,5 +41,15 @@
 
 **Thoughts:** Ok so technically it's already Saturday, but it's been a long day, ok!? I think I put in 120% effort. In short, I created a workaround for a Drupal issue we've had at work for a while. I know this isn't supposed to be work projects, but technically this is outside my scope of responsibilities anyways. So I fixed our homepage issue. And then I had a lot of personal stuff to do today, so I didn't get home until 12:45 and wanted to get some FCC tutorials in. We'll see what I remeber tomorrow.
 
-**Link to workL** [Work Site](https://asegrad.tufts.edu)
+**Link to work:** [Work Site](https://asegrad.tufts.edu)
+
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+
+### Day 5: January 7, 2017
+
+**Today's Progress**: Added more to my Hello World project, and created some new files in Github to track this project.
+
+**Thoughts:** I've added a bit more to my Hello World project. My goal is do add a little bit of code from each tutorial into this page so that I get a little bit of extra practice. I might skip the FCC tutorials today since last night's work actually counted for today. So didn't learn much new stuff today, but I worked with some new HTML classes and got better at creating images.
+
+**Link to work:** [New file in Hello World repo](https://github.com/cellojane/hello-world/blob/master/Codepen.html)
