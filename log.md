@@ -9,6 +9,10 @@
 
 **Link to work:** [My blog post for day -3 of #100DaysofCode] (http://StephanieTech.net)
 
+This is a Markdown test:
+* should be a bullet point
+* should be another bullet point
+
 
 ### FOLLOWING IS THE TEMPLATE, DO NOT EDIT OR DELETE THIS PLEASE
 ### Day 0: February 30, 2016 (Example 1)
