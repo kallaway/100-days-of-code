@@ -1,30 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 5, 2016
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed CodeAcademy's [Make a Website course](https://www.codecademy.com/learn/make-a-website)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Relearned CSS & HTML basics again and how to work with Bootstrap framework. Made a simple webpage during the exercises.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**: [Day 1](https://github.com/redlk/100-days-of-code/blob/master/Days/Day%201%20(Sample%20BootStrap%20page))
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 6, 2016
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed FreeCodeCamp's [Responsive Design with Bootstrap challange](https://www.freecodecamp.com/map-aside#nested-collapseResponsiveDesignwithBootstrap)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: More experience with Bootstrap framework. Got rid of custom CSS styling in favor of Bootstrap in Cat Photo App. Using Bootstrap set up jQuary Playground for further exercises. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Cat Photo App](https://github.com/redlk/100-days-of-code/blob/master/Days/Day%202(Cat%20Photo%20App%20enhancements)) | [jQuary Playground](https://github.com/redlk/100-days-of-code/blob/master/Days/Day%202%20(jQuery%20Playground))
 
+### Date
 
-### Day 1: June 27, Monday
+**Today's Progress**: 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**:
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**:
