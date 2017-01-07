@@ -20,6 +20,17 @@
 
 **Link(s) to work**: [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/)
 
+### Day 3: January 5, 2017
+
+**Today's Progress**: Styled footer for portfolio. Improved the social media link section of portfolio. Also, worked on reaction time game.
+
+**Thoughts**: Leave me alone. I just want to fix this one more thing...only one more issue...I can't feel my legs! Time to stand up!
+
+**Time: 1 hour 45 minutes.
+
+**Link(s) to work**: [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/), [Reaction Time Game](https://larrytooley.github.io/Reaction_Game/)
+
+
 
 <!--
 ### Day 1: June 27, Monday
