@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 6, 2017
+
+**Today's Progress**: Today I did a small progress in my web app project on FCC. I just set the openweather API correctly and getted the JSON that I'm displaying on my page. Now I need to handle the JSON to complete the user stories.
+
+**Thoughts:** When you have many tasks for to do, it is difficult to handle the time and sit down to code. I get stuck more one time, but I did in the last of the night. I did!
+
+**Link to work:** https://github.com/kelvinmaues/weather-app.git.
+
 ### Day 1: January 5, 2017
 
 **Today's Progress**: I created a function to get the geolocation after read and understand the API, and another function to get the JSON from the API openweathermap. Also, I studied a little of the bootstrap documentation to set the jumbotron class as a card of my web app. I organized my code with some containers and <div>'s. With some inspiration to style the app it will look cool in some commits.
