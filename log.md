@@ -30,6 +30,15 @@
 
 **Link(s) to work**: [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/), [Reaction Time Game](https://larrytooley.github.io/Reaction_Game/)
 
+### Day 4: January 6, 2017
+
+**Today's Progress**: Added a sticky footer to my reaction game.
+
+**Thoughts**: Frustration abounds! I need a better plan for this project. Keep having to backtrack. Did learn how to create a sticky footer with pure CSS. Hoorah!
+
+**Time: 1 hour 15 minutes.
+
+**Link(s) to work**: [Reaction Time Game](https://larrytooley.github.io/Reaction_Game/)
 
 
 <!--
