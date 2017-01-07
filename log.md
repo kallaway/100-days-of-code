@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 04, 2017
+### Day 1: January 04, 2017
 ##### Web site for a friend on his native language
 
 **Today's Progress**: Set up of index.html and style.css files
@@ -9,4 +9,23 @@
 
 **Link to work:** 
 
+# 100 Days Of Code - Log
 
+### Day 2: January 05, 2017
+##### Web site for a friend on his native language
+
+**Today's Progress**: Switched to Bootstrap. Basic Set up of the html and css.
+
+**Thoughts:** Need to work on Home page UI.
+
+**Link to work:** 
+# 100 Days Of Code - Log
+
+### Day 3: January 06, 2017
+##### Web site for a friend on his native language
+
+**Today's Progress**: Worked mainly on UI of the Home page. No code. A lot of planning work. Read a lot about certain boostrap functionality.
+
+**Thoughts:** Need to Finich the Desing and UI planning before actively jumping on coding.
+
+**Link to work:** 
