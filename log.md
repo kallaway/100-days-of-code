@@ -2,7 +2,7 @@
 
 ### Day 1: January 5, 2016
 
-**Today's Progress**: Completed CodeAcademy's [Make a Webiste course](https://www.codecademy.com/learn/make-a-website)
+**Today's Progress**: Completed CodeAcademy's [Make a Website course](https://www.codecademy.com/learn/make-a-website)
 
 **Thoughts**: Relearned CSS & HTML basics again and how to work with Bootstrap framework. Made a simple webpage during the exercises.
 
