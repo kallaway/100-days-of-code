@@ -56,3 +56,18 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
+
+### Day 4: Jan 07, 2017 
+
+
+**Today's Progress**: Finished Find the Longest Word in a String Complete.
+
+**Thoughts**: I was thinking that you could only learn the length of arrays but in this course i learnt there is a method that you can find length of strings! 
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
+
+
+
+
+
