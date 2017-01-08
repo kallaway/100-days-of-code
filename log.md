@@ -45,9 +45,10 @@
 
 **Today's Progress as Published on Medium.com **: 
 
-**Thoughts:** Finalized some GitHub practice with a friend.  Looking forward to that happening.  I continued my FreeCodeCamp journey by finishing a few lessons, and I have begun the 'Basic Front End Development Projects' of FCC.  Last year I went ploughed ahead to working in JavaScript, but I've decided to complete the curriculum in sequential order hence the return to these three projects.
+**Thoughts:** Finalized some arrangements for GitHub practice with a friend, and I'm looking forward to that happening.  I continued my FreeCodeCamp journey by finishing a few lessons, including picking up a few new ones, and I have begun the 'Basic Front End Development Projects' section of FCC.  Last year I ploughed ahead to working in JavaScript, but I've decided to complete the curriculum in sequential order hence the return to the Basic Front End Dev Projects.  The next step is to get set up in CodePen and then I should be ready to compose the tribute page project.
 
-**Link to work:** 
+**Link to work:** Link to progress on FCC:  https://www.freecodecamp.com/gretchenmanco
+
 
 
 ### Day :
