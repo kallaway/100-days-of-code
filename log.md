@@ -14,6 +14,7 @@
         - [Day 8: 2017-01-07](#day-8-2017-01-07)
         - [Day 9: 2017-01-08](#day-9-2017-01-08)
         - [Day 10: 2017-01-09](#day-10-2017-01-09)
+        - [Day 11: 2017-01-10](#day-11-2017-01-10)
 
 <!-- /TOC -->
 
@@ -239,6 +240,18 @@ Then, I guess I should get back to my FreeCodeCamp(:fire:) work of Wikipedia vie
 ---
 
 ### Day 10: 2017-01-09
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Up Next**: 
+
+**Link(s) to work**: 
+
+---
+
+### Day 11: 2017-01-10
 
 **Today's Progress**: 
 
