@@ -18,3 +18,12 @@
 **Thoughts:** Regex simplifies a lot of my jS junk...Needs more grind.
 
 **Link to work:** [A MAC-48 Adress validator](https://gist.github.com/nfatah/1df368850ef88d382e3a78fe33187467)
+
+### Day 3-4: Jan 7-8, 2017 ...was
+##### A Math Mode of Numbers
+
+**Today's Progress**: Coded snippet to get the mode from numbers
+
+**Thoughts:** Spent the little time I had to code.  Geting best run time: discovered forEach loop might be slower than for loop in JS. Reduce function even faster when handling very very large arrays. Learnt alot
+
+**Link to work:** [Math Mode](https://gist.github.com/nfatah/a266e3df1ea1c687ea0416650a182220)
