@@ -1,0 +1,73 @@
+
+/*# sourceMappingURL=styles.css.map */
+
+/*Style for the body*/
+    body {
+        background-color: #F4f4f9;
+        font-family: "droid sans", sans-serif;
+    }
+    
+    /*Blue area/intro*/
+    #intro {
+        background-color: #0197F6;
+        margin-top: 50px;
+        color: white;
+        border-radius: 25px;        
+    }
+    
+    /*Hello world title*/
+    #title {
+        font-family: 'Bitter', serif;
+    }
+    
+    /*Links in the intro*/
+    .linkintro {
+        color: black;
+        text-decoration: underline;
+        font-family: "droid sans", sans-serif;
+    }
+    
+    /*Links visited in the intro*/
+    .linkintro:visited {
+        color: black;
+        text-decoration: underline;
+        font-family: "droid sans", sans-serif;
+    }
+    
+    /*links in the rest of the document*/
+    .link {
+        color: #0000EE ;
+        text-decoration: underline;
+        font-family: "droid sans", sans-serif;
+    }
+    
+    /*Links green when hover*/
+    a:hover {
+        color: #0C6;
+        font-family: "droid sans", sans-serif;
+    }
+    
+    /*Links color when you visited them*/
+    a:visited {
+        color:#551A8B ;
+        font-family: "droid sans", sans-serif;
+    }
+    
+    /*The CSS if I missed a day*/
+    .dayfailed {
+        color: black;
+        background-color: #FEF5ED;
+        border: orange solid 10px;
+        
+    }
+    
+    /*The CSS if I completed a day*/
+    .daycomplete {
+        color: black;
+        background-color:#ECFFEC;
+        border: green solid 10px;
+        border-radius: 25px;
+        
+    }
+    
+/*test*/  
