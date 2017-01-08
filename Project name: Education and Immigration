@@ -5,11 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     
     
-    <title>Bilseydik</title>
+    <title>Bilsəydik</title>
 
     <!-- Bootstrap -->
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -22,50 +23,125 @@
     
   </head>
   <body>
-    
-    
-    
-    
-    
-    
-    
-    
-    
+ 
+     <nav class="navbar navbar-fixed-top navbar-inverse">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#"></a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">ANA SƏHİFƏ</a></li>
+            <li><a href="#about">İMMİGRASİYA</a></li>
+            <li><a href="#contact">TƏHSİL</a></li>
+            <li><a href="#contact">İŞ</a></li>
+            <li><a href="#contact">FAYDALI MƏLUMAT</a></li>
+            <li><a href="#contact">BİZİMLƏ ƏLAGƏ</a></li>
+          </ul>
+        </div><!-- /.nav-collapse -->
+      </div><!-- /.container -->
+    </nav><!-- /.navbar -->
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    
+    <div class="jumbotron jumbo-height">
+      <div class="container">
+        <img href="cssi/img/jumbotron.jpg">
+        <h1>Biz Bildiyimizi, Sizdə Bilin...!</h1>
+        <h2>Həyatınızı yeni sahifədən başlayın ... !</h2>
+        <p>Bu web səhifənin yaradılmasının yeganə məqsədi var, o da sizin müvəffəgiyyətli olmağınızdır...</p>
+        
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Təffəruatla &raquo;</a></p>
+      </div>
+    </div>
+
+    <div class="container">
+     
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Xəbərlər</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-default" href="#" role="button">Təffəruatla &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Mütləg Bilin</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-default" href="#" role="button">Təffəruatla &raquo;</a></p>
+       </div>
+        <div class="col-md-4">
+          <h2>Həyat Təcrübəsi</h2>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-default" href="#" role="button">Təffəruatla &raquo;</a></p>
+        </div>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p>&copy; 2017 Pinvity Inc.</p>
+      </footer>
+    </div> <!-- /container -->
+    
+    
+    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   </body>
-  
   <style>
-     /*-----------------------------------*/
-     /* BASIC SETUP* /
-     /*-----------------------------------*/
-     * {
-         margin: 0;
-         padding: 0;
-         box-sizing: border-box;
-     }
+    /*-----------------------------------*/
+/* BASIC SETUP* /
+/*-----------------------------------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-     html {
-         background-color: fff;
-         color: #555;
-         font-family: 'open-sans', 'Arial', sans-serif; 
-         font-size: 20px;
-         font-weight: 300;
-         text-rendering: optimizeLegibility;
-     }
-
-     .row {
-         max-width: 1140px;
-         margin: 0 auto;
-     }
-
-     /*-----------------------------------*/
-     /* REUSABLE COMPONENTS* /
-     /*-----------------------------------*/
+html {
+    background-color: fff;
+    color: #555;
+    font-family: 'open-sans', 'Arial', sans-serif; 
+    font-size: 20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
 
 
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+/*-----------------------------------*/
+/* REUSABLE COMPONENTS* /
+/*-----------------------------------*/
+
+
+
+/*-----------------------------------*/
+/* JUMBOTRON * /
+/*-----------------------------------*/
+
+.jumbotron {
+    min-height: 900px;
+    background: url(../css/img/jumbotron2.jpg) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron h1{
+    margin-top: 200px;
+}
+
+
+  
   </style>
+  
 </html>
