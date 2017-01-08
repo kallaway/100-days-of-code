@@ -13,6 +13,7 @@
         - [Day 7: 2017-01-06](#day-7-2017-01-06)
         - [Day 8: 2017-01-07](#day-8-2017-01-07)
         - [Day 9: 2017-01-08](#day-9-2017-01-08)
+        - [Day 10: 2017-01-09](#day-10-2017-01-09)
 
 <!-- /TOC -->
 
@@ -204,6 +205,18 @@ PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeC
 ---
 
 ### Day 9: 2017-01-08
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Up Next**: 
+
+**Link(s) to work**: 
+
+---
+
+### Day 10: 2017-01-09
 
 **Today's Progress**: 
 
