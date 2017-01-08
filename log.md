@@ -29,3 +29,13 @@
 **Thoughts:** Need to Finich the Desing and UI planning before actively jumping on coding.
 
 **Link to work:** 
+# 100 Days Of Code - Log
+
+### Day 4: January 07, 2017
+##### Web site for a friend on his native language
+
+**Today's Progress**: Developed the main page. Defined the UI of other pages.
+
+**Thoughts:** Working on content together with my friend.
+
+**Link to work:** 
