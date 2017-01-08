@@ -1,5 +1,43 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 7, 2017 
+
+**Today's Progress**: Very little, today is my birthday. About 15-20 minutes on Free Code Camp and I started watching a video tutorial from Udemy called: The Complete Web Developer Bootcamp - Beginner to Expert. Up to lectur 18.
+
+**Thoughts:** Today was so busy. I made what little time I could.
+
+**Link to work:** 
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/817999568516300800)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/08/100-days-of-code-challenge-day-10/)
+
+
+
+### Day 9: January 6, 2017 
+
+**Today's Progress**: Fixed the input to string issue with parseInt. Added total bill section(tip & bill), added media query to remove the slider div on mobile \(sliders are hard on mobile\). In CSS, added new color scheme, changed the text input for the splitCheck to a drop down, 
+
+**Thoughts:** I appreciate the lightbulb moments. I have so much to learn. The simplest things can throw you off course. Taking time away, giving it a fresh pair of eyes works wonders.
+
+**Task List**
+[] Get split check option to work
+[] Add bootstrap or make responsive on mobile
+[] Media Query to remove slider div on mobile 
+[] Create favicon
+[] Add comments to code
+[] create my own 404 page
+[x] Add a split check option 
+
+
+**Addendum**
+[ColourLovers] (http://www.colourlovers.com/palette/4416733/Flashes_of_Lightning)
+[Learning Javascript] (https://www.safaribooksonline.com/library/view/learning-javascript-3rd/9781491914892/)
+[Stack Overflow] (http://stackoverflow.com/questions/16922518/hide-div-on-mobile-devices-using-css)
+[CSS Tricks] (https://css-tricks.com/css-media-queries/)
+
+**Link to work:** 
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/817448473524105216)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/06/100-days-of-code-challenge-day-9/)
+
 ### Day 8: January 5, 2017 
 
 **Today's Progress**: I did my hour on Free Code Camp. 
@@ -11,7 +49,7 @@
 
 **Link to work:** 
 - [Tweet] (https://twitter.com/ScooterPhoenix/status/816855196210905088)
-- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/05/100-days-of-code-challenge-day-7/)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/06/100-days-of-code-challenge-day-7-2/)
 
 
 ### Day 7: January 4, 2017 
@@ -60,7 +98,7 @@
 **Thoughts:** Adding the splitCheck to the tip calc broke the calc. I decided to move it to it's own page. I need to figure this out.
 
 **Task List**
-[] Add a split check option
+[x] Add a split check option 
 [] Add bootstrap or make responsive on mobile
 
 **Addendum**
