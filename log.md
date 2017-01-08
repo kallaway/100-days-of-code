@@ -12,6 +12,7 @@
         - [Day 6: 2017-01-05](#day-6-2017-01-05)
         - [Day 7: 2017-01-06](#day-7-2017-01-06)
         - [Day 8: 2017-01-07](#day-8-2017-01-07)
+        - [Day 9: 2017-01-08](#day-9-2017-01-08)
 
 <!-- /TOC -->
 
@@ -181,6 +182,28 @@ PM: Branched my changes for my #100DaysOfCode repo along with my [spences10-twit
 ---
 
 ### Day 8: 2017-01-07
+
+**Today's Progress**: 
+
+AM: Created twitter-bot-playground repo, found out how to identify my own Twitter user ID from the awesome :sparkles: [twit](https://www.npmjs.com/package/twit) :sparkles: documentation.
+
+Added some logic to [Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot) so that it stops tweeting itself! Didn't work as I have no clue how to do callbacks :scream:
+
+PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/) to look at some of the issues logged. Attempted to tackle issues [#3](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/3) and [#4](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/4)
+
+**Thoughts**: Blearugh!
+
+**Up Next**: More Twitter bot stuff
+
+**Link(s) to work**: 
+
+[Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot)
+
+[twitter-bot-playground](https://github.com/spences10/twitter-bot-playground)
+
+---
+
+### Day 9: 2017-01-08
 
 **Today's Progress**: 
 
