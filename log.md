@@ -39,3 +39,12 @@
 **Thoughts**: I feel like I should stick to what I know and continue with that and llearn new things as I go and as I need them.  Hopefully, that's a good strategy...
 
 **Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
+
+### Day 5: January 8th, 2017
+
+**Today's Progress**: Pretty good progress today,  I added a bunch of info to the first section and went a bit crazy with the zombie ipsum.       
+
+**Thoughts**: I'm feeling pretty good about where this is going and doing one step at a time totally helps with my sanity.  I don't feel overwhelmed on how it will look or feel but good information to keep me on track.
+
+**Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
+
