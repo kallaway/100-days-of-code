@@ -34,6 +34,14 @@
 **Today's Progress:** Lots of messing about with margins, padding, div sizes and positions today. Finally getting close to the layout I'm looking for. Tomorrow's plan is to set up the navbar buttons to jump to each section of the page.
 
 **Link to Work:** Same as above
+
+
+## Day 6 of 100: 8th January 2017
+
+**Today's Progress** Sorted out nabar buttons and began adding content to the 'About Me' section of my page. Having a bit of trouble getting my content to go *inside* its parent div...not sure what that's all about. Need to do some research to try and figure it out.
+
+**Link to Work** Same as above
+
 <!---
 
 # 100 Days Of Code - Log
