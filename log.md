@@ -214,17 +214,27 @@ I created a [GitHub cheat sheet](https://gist.github.com/spences10/5c492e197e951
 
 Created a PR :octocat: for the [FreeCodeCamp(:fire:) 100DaysOfCode-twitter-bot](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/pull/16)
 
-PM: Attempted fix on [Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot) self tweeting
+PM: Attempted fix on [Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot) self tweeting which I resolved by hard coding my user name into the tweet function :worried: [PR here](https://github.com/spences10/spences10-twitter-bot/pull/1)
+
+![](https://cloud.githubusercontent.com/assets/234708/21750402/2a686626-d5aa-11e6-9758-4d7494e63c89.png)
 
 **Thoughts**: 
 
-I'm knackered, this challenge is taking up all my spare time and I don't think I have made any progress over the last few days :worried:
+~~I'm knackered, this challenge is taking up all my spare time and I don't think I have made any progress over the last few days :worried:~~ Jubilant now I have resolved twitter bot issues, hopeful that my PR for [FreeCodeCamp(:fire:) 100DaysOfCode-twitter-bot](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/pull/16) will be merged.
 
 **Up Next**: 
+
+There is the [twitter-bot-playground](https://github.com/spences10/twitter-bot-playground) I was thinking about polaying with more and incorporating some of the great work I have seen going into the 100DoC tweet bot that I'd like to play around with.
+
+Then, I guess I should get back to my FreeCodeCamp(:fire:) work of Wikipedia viewer zipline.
 
 **Link(s) to work**: 
 
 [GitHub cheat sheet](https://gist.github.com/spences10/5c492e197e95158809a83650ff97fc3a)
+
+[Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot)
+
+[Tweety McSelfTweet fix](https://github.com/spences10/spences10-twitter-bot/pull/1)
 
 ---
 
