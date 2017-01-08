@@ -33,6 +33,12 @@
         text-decoration: underline;
         font-family: "droid sans", sans-serif;
     }
+
+    /*projects div*/
+    #projectsdiv    {
+        background-color: #f4e76e;
+        border-radius: 25px;
+    }
     
     /*links in the rest of the document*/
     .link {
