@@ -208,6 +208,8 @@ PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeC
 
 **Today's Progress**: 
 
+AM: Looked at the [100DaysOfCode-twitter-bot issues/](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/) and decided to take a look at [#7](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/7) as bot the issues I was looking at yesterday were merged
+
 **Thoughts**: 
 
 I'm knackered, this challenge is taking up all my spare time and I don't think I have made any progress over the last few days :worried:
