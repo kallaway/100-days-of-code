@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+--------
+
+## Day 5: January 8, 2017
+#### Today's progress:
+Add some functionality to the game of life project.
+#### Thought:
+raised a confident level. 
+
 
 --------
 
