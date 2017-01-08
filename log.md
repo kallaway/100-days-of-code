@@ -40,6 +40,15 @@
 
 **Link(s) to work**: [Reaction Time Game](https://larrytooley.github.io/Reaction_Game/)
 
+### Day 5: January 7, 2017
+
+**Today's Progress**: Made a lot of improvements to my FCC portfolio.
+
+**Thoughts**: Really enjoy the work I am doing. I am learning a ton!
+
+**Time: 2 hour 5 minutes.
+
+**Link(s) to work**: [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/)
 
 <!--
 ### Day 1: June 27, Monday
