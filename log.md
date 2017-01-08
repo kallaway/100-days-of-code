@@ -32,7 +32,6 @@
 
 **Link to work:** [freecodecamp progress](https://www.freecodecamp.com/anewdev)
 
-
 ### Day 4: January 6, 2017.
 
 **Today's Progress**: FreeCodeCamp Sections: jQuery.  Hack Reactor Prep program: Module 0: Greet Customers, Array to Object
@@ -40,3 +39,12 @@
 **Thoughts:** Reminder to me that I have a lot of fundamentals to commit to my mind.  I have a huge vocabulary ramp to get through.  I have a huge skill ramp to develop.    
 
 **Link to work:** [freecodecamp progress](https://www.freecodecamp.com/anewdev)
+
+### Day 5: January 7, 2017.
+
+**Today's Progress**: FreeCodeCamp Sections: Started Tribute Challenge.  
+
+**Thoughts:** Bootstrap has a lot of useful components.  I just have to find the right ones to use on this project.    
+
+**Link to work:** [tribute page in progress on codepen](https://codepen.io/anewdev/pen/apOXKa)
+
