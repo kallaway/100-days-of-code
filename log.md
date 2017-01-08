@@ -208,7 +208,13 @@ PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeC
 
 **Today's Progress**: 
 
-AM: Looked at the [100DaysOfCode-twitter-bot issues/](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/) and decided to take a look at [#7](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/7) as bot the issues I was looking at yesterday were merged
+AM: Looked at the [100DaysOfCode-twitter-bot issues/](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/) and decided to take a look at [#7](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/7) as bot the issues I was looking at yesterday were merged.
+
+I created a [GitHub cheat sheet](https://gist.github.com/spences10/5c492e197e95158809a83650ff97fc3a) Gist for my most commonly used git commands.
+
+Created a PR :octocat: for the [FreeCodeCamp(:fire:) 100DaysOfCode-twitter-bot](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/pull/16)
+
+PM: Attempted fix on [Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot) self tweeting
 
 **Thoughts**: 
 
@@ -217,6 +223,8 @@ I'm knackered, this challenge is taking up all my spare time and I don't think I
 **Up Next**: 
 
 **Link(s) to work**: 
+
+[GitHub cheat sheet](https://gist.github.com/spences10/5c492e197e95158809a83650ff97fc3a)
 
 ---
 
