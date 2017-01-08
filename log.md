@@ -189,11 +189,11 @@ AM: Created twitter-bot-playground repo, found out how to identify my own Twitte
 
 Added some logic to [Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot) so that it stops tweeting itself! Didn't work as I have no clue how to do callbacks :scream:
 
+PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/) to look at some of the issues logged. Attempted to tackle issues [#3](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/3) and [#4](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/4)
 
+**Thoughts**: Blearugh!
 
-**Thoughts**: 
-
-**Up Next**: 
+**Up Next**: More Twitter bot stuff
 
 **Link(s) to work**: 
 
