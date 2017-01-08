@@ -33,3 +33,10 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Thoughts**: I lost my small 3 day streak at FreeCodeCamp, while finishing up my Portfolio, and now I'm moving on to javascript. Although while doing this project, I feel like learning SASS/SCSS would of been helpful.
 
 **Link(s) to work**: Portfolio [CodePen](https://codepen.io/marvellousdesign/full/egmzvq)
+
+
+### Day 5: Jan 7, 2017 Saturday
+
+**Today's Progress**: Diving into FreeCodeCamp's JavaScript Curriculum.
+
+**Thoughts**: Most like need to supplement with other JavaScript courses to get a better understanding of it, other than from FCC.
