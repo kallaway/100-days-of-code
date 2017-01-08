@@ -43,7 +43,7 @@
 
 ### Day 4:
 
-**Today's Progress as Published on Medium.com **: 
+**Today's Progress as Published on Medium.com **: https://medium.com/@Gretch/100daysofcode-day-4-reach-out-to-make-progress-c4e8c3a0d9c#.ceob2bt5t
 
 **Thoughts:** Finalized some arrangements for GitHub practice with a friend, and I'm looking forward to that happening.  I continued my FreeCodeCamp journey by finishing a few lessons, including picking up a few new ones, and I have begun the 'Basic Front End Development Projects' section of FCC.  Last year I ploughed ahead to working in JavaScript, but I've decided to complete the curriculum in sequential order hence the return to the Basic Front End Dev Projects.  The next step is to get set up in CodePen and then I should be ready to compose the tribute page project.
 
