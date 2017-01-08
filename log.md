@@ -210,6 +210,8 @@ PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeC
 
 **Thoughts**: 
 
+I'm knackered, this challenge is taking up all my spare time and I don't think I have made any progress over the last few days :worried:
+
 **Up Next**: 
 
 **Link(s) to work**: 
