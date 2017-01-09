@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 8, 2017 
+
+**Today's Progress**: Finished up FCC on Responsive Design w/ Bootstrap & Gear up for success and started jQuery.
+
+**Thoughts:** I'm learning so much from FCC. After breezing through a bit of Bootstrap, the exercises today were very eye opening.
+
+**Link to work:** 
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/818279891783352320)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/08/100-days-of-code-challenge-day-11/)
 ### Day 10: January 7, 2017 
 
 **Today's Progress**: Very little, today is my birthday. About 15-20 minutes on Free Code Camp and I started watching a video tutorial from Udemy called: The Complete Web Developer Bootcamp - Beginner to Expert. Up to lectur 18.
