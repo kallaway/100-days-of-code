@@ -1,0 +1,46 @@
+
+    /*Body element*/
+.body {
+    background-color: #f5f9f7;
+    font-family: "droid sans", sans-serif
+}
+
+    /*intro div*/
+.Intro-Div {
+    background-color: #5b8bff;
+    color: white;
+    
+}
+
+    /*Links in the intro*/
+.linkintro {
+        color: black;
+        text-decoration: underline;
+        font-family: "droid sans", sans-serif;
+    }
+    
+    /*Links visited in the intro*/
+.linkintro:visited {
+        color: black;
+        text-decoration: underline;
+        font-family: "droid sans", sans-serif;
+    }
+
+    /*some white space*/
+#White-Div {
+    color: #f5f9f7;
+}
+
+#Link-Div {
+    background-color: #fde6a7;
+    
+}
+
+.Project-Div {
+    background-color: #D1FFD1;
+}
+
+.img-thumbnail {
+    max-height: 199px;
+}
+
