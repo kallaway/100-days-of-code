@@ -249,7 +249,7 @@ PM: Played with the JavaScript30 files, added files to my GitHub account, did th
 
 **Thoughts**:
 
-Really have to take a look at the @FreeCodeCamp(:frie:) Wikipedia zipline !!
+Really have to take a look at the @FreeCodeCamp(:fire:) Wikipedia zipline !!
 
 Not a great deal of stuff [it feels like] done today!
 
