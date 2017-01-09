@@ -40,3 +40,11 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Diving into FreeCodeCamp's JavaScript Curriculum.
 
 **Thoughts**: Most like need to supplement with other JavaScript courses to get a better understanding of it, other than from FCC.
+
+### Day 6: Jan 8, 2017 Sunday
+
+**Today's Progress**: Updating my portfolio from Bootstrap 4 beta 5 to beta 6.
+
+**Thoughts**: I tried to be as productive after some lost time with a banquet meeting.. I giving myself a task to update my site to bootstrap 4 beta 6.
+
+**Link(s) to work**: Portfolio [CodePen](https://codepen.io/marvellousdesign/full/egmzvq)
