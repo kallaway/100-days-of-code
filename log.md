@@ -42,6 +42,12 @@
 
 **Link to Work** Same as above
 
+## Day 7 of 100: 9th January 2017
+
+**Today's Progress:** A bit of a cop-out today. I'm generally using my coding time to consolidate what I've learned in FreeCodeCamp tutorials. But there comes a point where I need to learn some new stuff in order to consolidate it! So today (and probably the next couple of days), I'm working through the FCC tutorials on JavaScript. Then I will figure out how to combine that with my HTML and CSS in a web app. 
+
+It occurs to me that I haven't practiced using form fields yet, so maybe I can build some form fields into my web page, then put some JS behind them to return a result based on the input...hmm, I need to give this some thought.
+
 <!---
 
 # 100 Days Of Code - Log
