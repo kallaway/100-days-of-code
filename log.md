@@ -48,3 +48,11 @@
 
 **Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
 
+### Day 6: January 9th, 2017
+
+**Today's Progress**: Added more info to some of the categories and cancelled a website I had on GoDaddy because I was not feeling wordpress.       
+
+**Thoughts**: I'm still pretty inspired to finish this web site and I'm getting more excited about getting my original website up as a progress report site.
+
+**Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
+
