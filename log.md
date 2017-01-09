@@ -48,3 +48,10 @@
 
 **Link to work:** [tribute page in progress on codepen](https://codepen.io/anewdev/pen/apOXKa)
 
+### Day 6: January 8, 2017.
+
+**Today's Progress**: FreeCodeCamp: Attended local group meeting and worked on group project.  Added bootstrap CSS to anewdev.io and modified it to have a vocabulary section of terms I have come across as a new developer.
+
+**Thoughts:** I am excited that Angular was introduced as a new option for CSS and JS at the FCC local group, and we are building our project with it. Surprised me that Angular could be used as a CSS option as an alternative to Bootstrap.  Likely going to add it to my personal website, so that I can work with it some.
+
+**Link to work:** [aNewDev.io](https://anewdev.io)
