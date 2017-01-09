@@ -14,12 +14,13 @@
         - [Day 8: 2017-01-07](#day-8-2017-01-07)
         - [Day 9: 2017-01-08](#day-9-2017-01-08)
         - [Day 10: 2017-01-09](#day-10-2017-01-09)
+        - [Day 11: 2017-01-10](#day-11-2017-01-10)
 
 <!-- /TOC -->
 
 ### Day 0: 2016-12-30
 
-**Today's Progress**: I went through the FreeCodeCamp jQuery exercises again then started the 'Show the Local Weather' FreeCodeCamp challenge.
+**Today's Progress**: I went through the FreeCodeCamp(:fire:) jQuery exercises again then started the 'Show the Local Weather' FreeCodeCamp(:fire:)  challenge.
 
 So far I have HTML file with a couple of div's and JavaScript file that fetches the [openweathermap](https://openweathermap.org/current#geo) data with ~~hard coded lat and long values~~
 
@@ -29,7 +30,7 @@ I used [ip-api.com](http://ip-api.com/json) to get my geo data which I have stru
 
 **Up Next**: Work with the JSON data and do some nice stuff with that!
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 [My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Show%20the%20Local%20Weather)
 
@@ -41,15 +42,15 @@ I used [ip-api.com](http://ip-api.com/json) to get my geo data which I have stru
 
 **Today's Progress**: Looking at weather icons, still not sure on how to do this, I also had to change from using [ip-api.com](ip-api.com) to [freegeoip.net](freegeoip.net/) as [ip-api.com](ip-api.com) was showing me as ~100 miles away from my current location.
 
-Completed Location, Weather type, and temp, ~~just looks like crap still!~~ 
+Completed Location, Weather type, and temp, ~~just looks like crap still!~~
 
-Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f227e1c72733a356802) from flickr, added styling into the JavaScript looks ok on both my machine and CodePen :sparkles: :astonished: :sparkles:
+Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f227e1c72733a356802) from Flickr, added styling into the JavaScript looks ok on both my machine and CodePen :sparkles: :astonished: :sparkles:
 
 **Thoughts**: Working with APIs is becoming a bit more straightforward with jQuery as long as there is a JSON object to work with. I :heart: the Chrome dev console! Has really helped me with debugging.
 
 **Up Next**: ~~Style it yo!~~ Onto the next FCC challenge by the looks of it now!
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 [My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Show%20the%20Local%20Weather)
 
@@ -59,13 +60,13 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 ### Day 2: 2017-01-01
 
-**Today's Progress**: Set up repo for the FreeCodeCamp(:fire:) Zipline 'Build a Wikipedia Viewer', added HTML, CSS and JS files to the repo, added a search box and a random article button. 
+**Today's Progress**: Set up repo for the FreeCodeCamp(:fire:) Zipline 'Build a Wikipedia Viewer', added HTML, CSS and JS files to the repo, added a search box and a random article button.
 
 **Thoughts**: @wesbos has a type ahead example I went through with the #JavaScript30 tutorials which may come in handy, or just use a jQuery/Ajax example
 
 **Up Next**: Get the data working! Ajax ftw?
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 [My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Wikipedia%20Viewer)
 
@@ -75,7 +76,7 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 **Today's Progress**: FreeCodeCamp(:fire:) Wikipedia Viewer: Added a getJSON function to the js file, can console log the data but it's only one result at a time
 
-Twitter bot: Had a look at making a twitter bot with [twitter-bot-bootstrap](https://github.com/mobeets/twitter-bot-bootstrap) was quite interesting playing with Heroku and deploying my app, a broken app! 
+Twitter bot: Had a look at making a twitter bot with [twitter-bot-bootstrap](https://github.com/mobeets/twitter-bot-bootstrap) was quite interesting playing with Heroku and deploying my app, a broken app!
 
 Git-it: I still use Git as ```git commit``` and ```git push origin master``` and struggle with branching and pull requests [Git-it](http://jlord.us/git-it/index.html) is really helpful in getting you comfortable with forking and PRs, I still need to play with it a lot more.
 
@@ -83,7 +84,7 @@ Git-it: I still use Git as ```git commit``` and ```git push origin master``` and
 
 **Up Next**: Same as today
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 [My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Wikipedia%20Viewer)
 
@@ -91,7 +92,7 @@ Git-it: I still use Git as ```git commit``` and ```git push origin master``` and
 
 ### Day 4: 2017-01-03
 
-**Today's Progress**: 
+**Today's Progress**:
 
 AM: Completed the follow through of @amandeepmittal's [Twitter bot pt 1](https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08#.k7ge75k9d) in my c9 Node.js set up. Created GitHub repo for the project then deployed to Heroku
 
@@ -110,7 +111,7 @@ heroku ps:scale worker=1
 
 **Up Next**: See how the bot does overnight then decide weather ot not to tweak it some more.
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 [My GitHub repo](https://github.com/spences10/spences10-twitter-bot)
 
@@ -118,7 +119,7 @@ heroku ps:scale worker=1
 
 ### Day 5: 2017-01-04
 
-**Today's Progress**: 
+**Today's Progress**:
 
 AM: Still gawking at my twitter feed after getting the twitter bot working, decided to do a README for the twitter bot.
 
@@ -128,7 +129,7 @@ PM: Gawd! I spent some time on the twitter bot today, I have documented it all [
 
 **Up Next**: FreeCodeCamp(;fire:) Wikipedia viewer zipline!! Maybe I'll add my Twitter bot to @amandeepmittal's [awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots) repo first though! :smile:
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 [twitter-mctwitbot](https://spences10.github.io/2017/01/04/twitter-mctwitbot.html)
 
@@ -138,7 +139,7 @@ PM: Gawd! I spent some time on the twitter bot today, I have documented it all [
 
 ### Day 6: 2017-01-05
 
-**Today's Progress**: 
+**Today's Progress**:
 
 AM: Forked and pulled [awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots) added my bot folder to the repo, added with `git add . ` instead of `git add myfoldername/\\*` so the folder was added as a file, I spent the next hour or so trying to work out what I did :confused:
 
@@ -154,7 +155,7 @@ I made a post on the process here: [Git and GitHub](https://spences10.github.io/
 
 **Up Next**: Random @replies for my Twitter bot
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 [awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots)
 
@@ -164,7 +165,7 @@ I made a post on the process here: [Git and GitHub](https://spences10.github.io/
 
 ### Day 7: 2017-01-06
 
-**Today's Progress**: 
+**Today's Progress**:
 
 AM: Used my new Git skills to branch my Twitter bot so I could add to the canned response on a follow. Added random responses to twitter-bot
 
@@ -176,7 +177,7 @@ PM: Branched my changes for my #100DaysOfCode repo along with my [spences10-twit
 
 **Up Next**: Got a Cloud 9 pro licence, :smile: will have a play with that and experimenting with Node.js and probably automating my twitter bot more
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 [Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot)
 
@@ -184,7 +185,7 @@ PM: Branched my changes for my #100DaysOfCode repo along with my [spences10-twit
 
 ### Day 8: 2017-01-07
 
-**Today's Progress**: 
+**Today's Progress**:
 
 AM: Created twitter-bot-playground repo, found out how to identify my own Twitter user ID from the awesome :sparkles: [twit](https://www.npmjs.com/package/twit) :sparkles: documentation.
 
@@ -196,7 +197,7 @@ PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeC
 
 **Up Next**: More Twitter bot stuff
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 [Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot)
 
@@ -206,7 +207,7 @@ PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeC
 
 ### Day 9: 2017-01-08
 
-**Today's Progress**: 
+**Today's Progress**:
 
 AM: Looked at the [100DaysOfCode-twitter-bot issues/](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/) and decided to take a look at [#7](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/7) as bot the issues I was looking at yesterday were merged.
 
@@ -218,17 +219,17 @@ PM: Attempted fix on [Twitter-McTwitbot](https://github.com/spences10/spences10-
 
 ![](https://cloud.githubusercontent.com/assets/234708/21750402/2a686626-d5aa-11e6-9758-4d7494e63c89.png)
 
-**Thoughts**: 
+**Thoughts**:
 
 ~~I'm knackered, this challenge is taking up all my spare time and I don't think I have made any progress over the last few days :worried:~~ Jubilant now I have resolved twitter bot issues, hopeful that my PR for [FreeCodeCamp(:fire:) 100DaysOfCode-twitter-bot](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/pull/16) will be merged.
 
-**Up Next**: 
+**Up Next**:
 
 There is the [twitter-bot-playground](https://github.com/spences10/twitter-bot-playground) I was thinking about polaying with more and incorporating some of the great work I have seen going into the 100DoC tweet bot that I'd like to play around with.
 
 Then, I guess I should get back to my FreeCodeCamp(:fire:) work of Wikipedia viewer zipline.
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 [GitHub cheat sheet](https://gist.github.com/spences10/5c492e197e95158809a83650ff97fc3a)
 
@@ -240,11 +241,36 @@ Then, I guess I should get back to my FreeCodeCamp(:fire:) work of Wikipedia vie
 
 ### Day 10: 2017-01-09
 
-**Today's Progress**: 
+**Today's Progress**:
 
-**Thoughts**: 
+AM: Plan for the week, added all of my notes to a Trello board for project ideas. Played around with Atom edited this log commit in it I quite like it.
+
+PM: Played with the JavaScript30 files, added files to my GitHub account, did the Flex Panel Gallery and the Fun With HTML5 Canvas
+
+**Thoughts**:
+
+Really have to take a look at the @FreeCodeCamp(:fire:) Wikipedia zipline !!
+
+Not a great deal of stuff [it feels like] done today!
 
 **Up Next**: 
 
-**Link(s) to work**: 
+More JavaScript30??
 
+**Link(s) to work**:
+
+[05 - Flex Panel Gallery](https://github.com/spences10/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+
+[08 - Fun with HTML5 Canvas](https://github.com/spences10/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
+
+---
+
+### Day 11: 2017-01-10
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
