@@ -39,3 +39,13 @@
 **Thoughts:** Working on content together with my friend.
 
 **Link to work:** 
+
+### Day 5: January 08, 2017
+##### Web site for a friend on his native language
+
+**Today's Progress**: Almost done with the main page. Some problems with the footer. due ot in experience it takes time to look for solutions. In general only footer is left.
+
+**Thoughts:** Hopefully tomorrow will start working on next pages.
+
+**Link to work:** 
+
