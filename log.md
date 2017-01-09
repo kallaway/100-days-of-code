@@ -53,3 +53,12 @@
 **Thoughts:** I've added a bit more to my Hello World project. My goal is do add a little bit of code from each tutorial into this page so that I get a little bit of extra practice. I might skip the FCC tutorials today since last night's work actually counted for today. So didn't learn much new stuff today, but I worked with some new HTML classes and got better at creating images.
 
 **Link to work:** [New file in Hello World repo](https://github.com/cellojane/hello-world/blob/master/Codepen.html)
+
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: Lots of Bootstrap today, and practiced creating Branches in Github.
+
+**Thoughts:** My favorite thing I learned today was adding font awesome icons to my projects and also finally figuring out how bootstrap columns work (just make sure it all adds up to 12!) There are still some mysteries--there were two classes mentioned in a tutorial that made no sense and weren't explained: see "Style Text Inputs as Form Controls." I also got my husband coding too, which is pretty awesome. We've been watching antiques roadshow with our computers out. I can't wait to learn more stuff and work on my own projects.
+
+**Link to work:** [New file in Hello World repo](https://github.com/cellojane/hello-world/blob/master/Codepen.html)
