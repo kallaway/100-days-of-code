@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 8, 2017
+
+**Today's Progress**: I'm yet working in my FCC project, it is taking more time than I expected, but it is ok. Finally I handled the JSON from OpenWeather API using getJSON and acessing them as objects. I'm working with some functions, like to get the JSON and others to convert the data as temperature in C or F. Now, I need to display the data in the right place on the page, set some style following an UX. I found out a bootstrap toggle that's a bootstrap pluguin the converts checkboxes in toggles. I'll use to change the temperature to C or F.
+
+**Thoughts:** I read an article on the repository about get dark in code that helped me to come back to work and understand why sometimes it is difficult. I lost one day, so add more one in my track to follow the rules. Now, I see it is not easy to anyone finish or complete something. I get some troubles to understand functions, methods and objects again. I wanted to manipulate functions and methods more easy. The way it is showed or the statement it is a little difficult to get at some time.
+
+**Link to work:** https://github.com/kelvinmaues/weather-app.git.
+
 ### Day 2: January 6, 2017
 
 **Today's Progress**: Today I did a small progress in my web app project on FCC. I just set the openweather API correctly and getted the JSON that I'm displaying on my page. Now I need to handle the JSON to complete the user stories.
