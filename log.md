@@ -245,15 +245,23 @@ Then, I guess I should get back to my FreeCodeCamp(:fire:) work of Wikipedia vie
 
 AM: Plan for the week, added all of my notes to a Trello board for project ideas. Played around with Atom edited this log commit in it I quite like it.
 
+PM: Played with the JavaScript30 files, added files to my GitHub account, did the Flex Panel Gallery and the Fun With HTML5 Canvas
+
 **Thoughts**:
 
 Really have to take a look at the @FreeCodeCamp(:frie:) Wikipedia zipline !!
 
-Not a great deal of stuff [it feels like] done today, so far!
+Not a great deal of stuff [it feels like] done today!
 
-**Up Next**:
+**Up Next**: 
+
+More JavaScript30??
 
 **Link(s) to work**:
+
+[05 - Flex Panel Gallery](https://github.com/spences10/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+
+[08 - Fun with HTML5 Canvas](https://github.com/spences10/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
 
 ---
 
