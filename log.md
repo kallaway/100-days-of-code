@@ -50,6 +50,18 @@
 
 **Link(s) to work**: [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/)
 
+### Day 6: January 8, 2017
+
+**Today's Progress**: Worked on Odin Project Google homepage clone. I have all the elements in place. They just need to be positioned and styled.
+
+**Thoughts**: Today was a drag! I didn't feel great in the morning so I got nothing done then. I was more able to work on it in the evening.
+
+**Tutorials**: Watched part of CS50 Week 1. Struggled with their C library. I need to watch the videos on setting up the dev environment.
+
+**Time: 1 hour 15 minutes.
+
+**Link(s) to work**: [Project Odin Google Homepage Clone](https://larrytooley.github.io/google-homepage/)
+
 <!--
 ### Day 1: June 27, Monday
 
