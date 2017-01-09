@@ -39,6 +39,7 @@
 **Thoughts:** Working on content together with my friend.
 
 **Link to work:** 
+# 100 Days Of Code - Log
 
 ### Day 5: January 08, 2017
 ##### Web site for a friend on his native language
@@ -48,4 +49,5 @@
 **Thoughts:** Hopefully tomorrow will start working on next pages. had some problems with domain hosting. It took sometime to solve it. Hopefully max in 48 hours i will be able to load the current progress of my work to show off the UI :)
 
 **Link to work:** 
+# 100 Days Of Code - Log
 
