@@ -45,7 +45,7 @@
 
 **Today's Progress**: Almost done with the main page. Some problems with the footer. due ot in experience it takes time to look for solutions. In general only footer is left.
 
-**Thoughts:** Hopefully tomorrow will start working on next pages.
+**Thoughts:** Hopefully tomorrow will start working on next pages. had some problems with domain hosting. It took sometime to solve it. Hopefully max in 48 hours i will be able to load the current progress of my work to show off the UI :)
 
 **Link to work:** 
 
