@@ -80,4 +80,22 @@
 
 **Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
 
+###Day 10: Jan. 7, 2017
 
+**Today's Progress**: Saw Hidden Figures and was inspired to keep going with coding. Fortran, anyone?
+
+**Thoughts**: Why am I doing this? What are my motivators?
+
+**Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
+
+###Day 11: Jan. 8, 2017
+
+**Day Off**
+
+###Day 12: Jan. 9, 2017
+
+**Today's Progress**: Scrapped quotes API because I couldn't get it to randomize and return properly. Wrote JavaScript code for an array of quotes which are selected at random one at a time. Will use API for Twitter part of project instead.
+
+**Thoughts**: Frustrated by this project that seems simple but isn't turning out to be. Happy that I got a quote to return at random from an array. Sad that I can't bring it into the view on button click yet.
+
+**Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
