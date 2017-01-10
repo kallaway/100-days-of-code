@@ -77,7 +77,7 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 **Today's Progress**: FreeCodeCamp(:fire:) Wikipedia Viewer: Added a getJSON function to the js file, can console log the data but it's only one result at a time
 
-Twitter bot: Had a look at making a twitter bot with [twitter-bot-bootstrap](https://github.com/mobeets/twitter-bot-bootstrap) was quite interesting playing with Heroku and deploying my app, a broken app!
+Twitter bot: Had a look at making a twitter bot with [twitter-bot-bootstrap](https://github.com/mobeets/twitter-bot-bootstrap) was some what interesting playing with Heroku and deploying my app, a broken app!
 
 Git-it: I still use Git as ```git commit``` and ```git push origin master``` and struggle with branching and pull requests [Git-it](http://jlord.us/git-it/index.html) is really helpful in getting you comfortable with forking and PRs, I still need to play with it a lot more.
 
@@ -226,7 +226,7 @@ PM: Attempted fix on [Twitter-McTwitbot](https://github.com/spences10/spences10-
 
 **Up Next**:
 
-There is the [twitter-bot-playground](https://github.com/spences10/twitter-bot-playground) I was thinking about polaying with more and incorporating some of the great work I have seen going into the 100DoC tweet bot that I'd like to play around with.
+There is the [twitter-bot-playground](https://github.com/spences10/twitter-bot-playground) I was thinking about playing with more and incorporating some of the great work I have seen going into the 100DoC tweet bot that I'd like to play around with.
 
 Then, I guess I should get back to my FreeCodeCamp(:fire:) work of Wikipedia viewer zipline.
 
@@ -244,17 +244,17 @@ Then, I guess I should get back to my FreeCodeCamp(:fire:) work of Wikipedia vie
 
 **Today's Progress**:
 
-AM: Plan for the week, added all of my notes to a Trello board for project ideas. Played around with Atom edited this log commit in it I quite like it.
+AM: Plan for the week, added my notes to a Trello board for project ideas. Played around with Atom edited this log commit in it I quite like it.
 
-PM: Played with the JavaScript30 files, added files to my GitHub account, did the Flex Panel Gallery and the Fun With HTML5 Canvas
+PM: Played with the [#JavaScript30](https://javascript30.com/) files, added files to my GitHub account, did the Flex Panel Gallery and the Fun With HTML5 Canvas
 
 **Thoughts**:
 
 Really have to take a look at the @FreeCodeCamp(:fire:) Wikipedia zipline !!
 
-Not a great deal of stuff [it feels like] done today!
+Not a great deal of work [it feels like] done today!
 
-**Up Next**: 
+**Up Next**:
 
 More JavaScript30??
 
@@ -270,11 +270,15 @@ More JavaScript30??
 
 **Today's Progress**:
 
+AM: Tidy my FreeCodeCamp(:fire:) repo, removed/renamed files
+
 **Thoughts**:
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[FreeCodeCamp(:fire:)](https://github.com/spences10/FreeCodeCamp)
 
 ---
 
