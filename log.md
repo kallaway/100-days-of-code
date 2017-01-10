@@ -53,7 +53,7 @@
 
 ### Day 5:  January 8, 2017
 
-**Today's Progress as Published on Medium.com **: 
+**Today's Progress as Published on Medium.com **: https://medium.com/@Gretch/100daysofcode-day-5-give-and-git-237cef9daf6b#.d4ykgew05
 
 **Thoughts:** Today was a great day!  I was offered the opportunity to work with someone using GitHub, and did I ever accept that offer!  After an initial explanation of the different Git tools, and some examples of the power of Git, we then discussed workflows, code management, and a little bit about the relevant team management required as teams increase in their size. We then discussed the management principles of discipline and responsbility (for individuals and for teams).   The point was repeatedly made that Git is a set of tools, and that <i>how</i> Git is utilized resides with the individual user (or project manager) to discern according to the needs of a project or an organization.  Below are the links to the two suggested Git-related tools.
 
