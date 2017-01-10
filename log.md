@@ -19,4 +19,5 @@ This is a Markdown test:
 **Thoughts:** I host a bi-weekly Python meetup learn-along.  We are five meetings into this and I keep saying "I need to take notes on this".  Guess what.  I did.  It took more than an hour but was totally worth it because I now have these notes in Anki for spaced repetition.  Hooray.
 
 **Link to work:** https://github.com/SFoskitt/Learn-Python-the-Hard-Way
+
 **Link to blog:** http://stephanietech.net/2017/01/09/day-1-100-days-of-code/
