@@ -48,3 +48,11 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Thoughts**: I tried to be as productive after some lost time with a banquet meeting.. I giving myself a task to update my site to bootstrap 4 beta 6.
 
 **Link(s) to work**: Portfolio [CodePen](https://codepen.io/marvellousdesign/full/egmzvq)
+
+### Day 7: Jan 9, 2017 Monday
+
+**Today's Progress**: Finish Portfolio, and continuing learning JavaScript via FreeCodeCamp
+
+**Thoughts**: I spent the wee mornings reading the documentation for bootstrap 4 beta 6, and I can say it's much cleaner. I have less css overiding bootstrap's and less of a hacky nav.
+
+**Link(s) to work**: Portfolio [GitHub](https://github.com/marvellousdesign/fcc-projects/tree/master/02%20-%20Portfolio) | [CodePen](https://codepen.io/marvellousdesign/full/egmzvq)
