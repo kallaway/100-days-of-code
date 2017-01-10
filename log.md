@@ -68,6 +68,28 @@ Here's the other lesson beyond learning Git:  "Ask and ye shall receive, seek an
      
 **Link to work:** No separate code examples today as I worked on commenting/reviewing/pulling/pushing on GitHub!
 
+**From Medium:**  "Day 5 of this 100-day Coding Challenge was a great day! I learned all about Git-ing — and Giving. I am becoming more convinced that my daily lessons in programming are really just vehicles for life’s reminders, for life’s lessons.
+The remainder of Day 5’s log: tl:dr…
+Ostensibly the lesson I learned today regarded the use of GitHub. After Day 4’s post regarding courage to ask for help, I received a note from someone I knew via CodeNewbie (an amazing community of programmers on Twitter started by Saron Yitbarek) inquiring if I would like an additional explanation of GitHub? I answered ‘yes’ so fast, I’m surprised I did not flub my reply.
+Approximately 24 hours later, we had a Google hangout up and running, and I was so happy to be talking shop with someone. Talking shop is vitally important during the days when learning something is a struggle, and this is the reason why I constantly refer people to the #CodeNewbie Twitter-chat on Wednesdays at 9 pm and to the Free Code Camp forums. Find your people, and talk shop with them. The stories you read and hear will sustain you during the hours of frustration, disappointment, even failure.
+We dove right into the lesson by way of an overview of Git tools, and followed that with examples of the power of Git. We then discussed workflows, code management, and the relevant team-management tools required as teams increase in their size. From there, we moved to a discussion of the management principles of discipline and responsibility (for individuals and for teams). The point was repeatedly made that Git is a set of tools, and that how Git is utilized resides with the individual user (or project manager) to discern and decide according to the needs of a project, team, or an organization.
+Two Git-related tools were suggested and I share them now: Kdiff3 and TortoiseGit.
+
+Kdiff3 is a diff & merge program with many other utilities.
+kdiff3.sourceforge.net
+
+TortoiseGit is a Windows shell, and basically offers overlay functionality.
+TortoiseGit - Windows Shell Interface to Git
+
+TortoiseGit provides overlay icons showing the file status, a powerful context menu for Git and much more!
+tortoisegit.org
+
+We worked through different repositories in which each of us played different roles. The role one plays in a GitHub repository impacts one’s scope of authority on a collaborative project. From this one discussion, I have obtained a clearer view of what Git is, how I will be able track and manage code, and how I can better collaborate. I will continue exploring Git throughout this #100DaysofCode Challenge, and I am really honored and humbled that this person took the time on a Sunday afternoon to share this knowledge. As a means of thanks, I will be sharing this new-to-me knowledge with at least two other local freeCodeCampers who are working with Git.
+Here’s the other lesson beyond learning Git: “Ask and ye shall receive, seek and ye shall find, knock and the door shall be opened.” This is an ancient proverb that is still standing the test of time. Wherein is the rub, the difficulty? In having the courage to ask, to seek, and to knock. In other words, in not giving up.
+Thank you for all of your encouragement. Best wishes on your goals!
+--->Key Words:  Github, Coding, Engineering, 100daysofcode"
+
+
 
 
 ### Day :
