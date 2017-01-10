@@ -55,3 +55,15 @@
 **Thoughts:** I am excited that Angular was introduced as a new option for CSS and JS at the FCC local group, and we are building our project with it. Surprised me that Angular could be used as a CSS option as an alternative to Bootstrap.  Likely going to add it to my personal website, so that I can work with it some.
 
 **Link to work:** [aNewDev.io](https://anewdev.io)
+
+### Day 6: January 8, 2017.
+
+**Today's Progress**: 
+FreeCodeCamp: Completed tribute page.
+Hack Reactor Prep: No progress today.
+aNewDev.io Updates: Added some to vocab.  Added "2017 learning plan" section.  Added glyphicons for additional look.
+AWS Certified Developer Associate: Began acloud.guru training class.  
+
+**Thoughts:** Getting some energy around using HTML and Bootstrap.  It's nice to know that I have the ability to do something that looks decent.  Also, I can really see how applying the learning in real projects brings a lot of understanding.
+
+**Link to work:** [aNewDev.io](https://anewdev.io)  [FCC Tribute Page](https://codepen.io/anewdev/pen/apOXKa)
