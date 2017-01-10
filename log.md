@@ -28,3 +28,18 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+
+### Day 0: june 10, january
+
+**Todays progress** ive gone through lots of git documentation
+                    ive learnt how to revert changes, create repo and even sync project between
+                    local machine and my online repo
+
+**Thoughts** ive only used git for my local project and ive not really gotten the hang of it quite yet
+             but then ive read a few things today that i plan on practicing. ive only been able to used
+             the dektop version of github to sync my files remotely but i plan on learning the command line 
+             parameters
+
+**links to work** none yet
