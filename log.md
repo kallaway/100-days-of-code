@@ -2,6 +2,13 @@
 
 --------
 
+## Day 6: January 9, 2017
+#### Today's progress:
+played around html5 canvas
+
+--------
+
+
 ## Day 5: January 8, 2017
 #### Today's progress:
 Add some functionality to the game of life project.
