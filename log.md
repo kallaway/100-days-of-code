@@ -272,9 +272,15 @@ More JavaScript30??
 
 AM: Tidy my FreeCodeCamp(:fire:) repo, removed/renamed files
 
+PM: Created another Twitter bot this one themed on #Archer to quote back random archer quotes when matching keywords, I learned how to use the `requre(module-name)` to pass random strings to the bot.
+
 **Thoughts**:
 
+Inspired by [QuimperEmanuel](https://twitter.com/QuimperEmanuel) great Twitter bot [SuperHeroesTwitterBotCoding](https://github.com/EQuimper/MyOwnChallenge-SuperHeroesTwitterBotCoding)
+
 **Up Next**:
+
+More Twitter-bot!
 
 **Link(s) to work**:
 
