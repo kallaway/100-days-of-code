@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 9, 2017
+
+**Today's Progress**: Today, I handle all the data from JSON, but all my code is a confusion, and it is difficult to make some changes and update the HTML when it is necessary. I take off the bootstrap toggle plugin, because it was not working to set some text inside the toggle using JQuery. I deleted the convert temp functions and I'm doing in the variables, it's awful. But, I'm display the data on the page, so it's means I understand how it works, now. So, I will re-do my work creating especific funcionts and call them when necessary. I noticed the page was slow to update all the data. I need to know, why.
+
+**Thoughts:** Today I coded for more than a hour, I'm happy with my progress, it's being slow, but I like. I get stuck just for some minutes, besides, I was tired.
+
+**Link to work:** https://github.com/kelvinmaues/weather-app.git.
+
 ### Day 3: January 8, 2017
 
 **Today's Progress**: I'm yet working in my FCC project, it is taking more time than I expected, but it is ok. Finally I handled the JSON from OpenWeather API using getJSON and acessing them as objects. I'm working with some functions, like to get the JSON and others to convert the data as temperature in C or F. Now, I need to display the data in the right place on the page, set some style following an UX. I found out a bootstrap toggle that's a bootstrap pluguin the converts checkboxes in toggles. I'll use to change the temperature to C or F.
