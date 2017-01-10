@@ -21,12 +21,12 @@ This is a Markdown test:
 **Link to work:** https://github.com/SFoskitt/Learn-Python-the-Hard-Way
 **Link to blog:** http://stephanietech.net/2017/01/09/day-1-100-days-of-code/
 
-[//]### FOLLOWING IS THE TEMPLATE, DO NOT EDIT OR DELETE THIS PLEASE
-[//]### Day 0: February 30, 2016 (Example 1)
-[//]##### (delete me or comment me out)
-[//]
-[//]**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-[//]
-[//]**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-[//]
-[//]**Link to work:** [Calculator App](http://www.example.com)
+[//]: ### FOLLOWING IS THE TEMPLATE, DO NOT EDIT OR DELETE THIS PLEASE
+[//]: ### Day 0: February 30, 2016 (Example 1)
+[//]: ##### (delete me or comment me out)
+[//]:
+[//]: **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+[//]:
+[//]: **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+[//]:
+[//]: **Link to work:** [Calculator App](http://www.example.com)
