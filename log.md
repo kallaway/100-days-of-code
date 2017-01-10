@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day -3: Friday, January 6, 2017
-[//]: ##### (delete me or comment me out)
 
 **Today's Progress**: Forked and updated the repo, read the articles, updated my Twitter <-- in preparation to start this challenge on Monday.
 
@@ -20,8 +19,9 @@ This is a Markdown test:
 **Thoughts:** I host a bi-weekly Python meetup learn-along.  We are five meetings into this and I keep saying "I need to take notes on this".  Guess what.  I did.  It took more than an hour but was totally worth it because I now have these notes in Anki for spaced repetition.  Hooray.
 
 **Link to work:** https://github.com/SFoskitt/Learn-Python-the-Hard-Way
+**Link to blog:** http://stephanietech.net/2017/01/09/day-1-100-days-of-code/
 
-
+[/*]
 ### FOLLOWING IS THE TEMPLATE, DO NOT EDIT OR DELETE THIS PLEASE
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -31,3 +31,4 @@ This is a Markdown test:
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+[*/]
