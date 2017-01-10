@@ -22,6 +22,7 @@
 
 **Link to Work:** [https://ivesnoidea.github.io/](https://ivesnoidea.github.io/)
 
+
 ## Day 4 of 100: 6th January 2017
 
 **Today's Progress:** More work on stylesheet today. Added background image to page header (need to tweak image size / padding so it looks right) and background colours to the rest of the page. Not quite sure why my topnav isn't going right across the page, just the first column. Maybe it will stretch once I put stuff in the other columns...but that's a job for tomorrow.
@@ -46,7 +47,13 @@
 
 **Today's Progress:** A bit of a cop-out today. I'm generally using my coding time to consolidate what I've learned in FreeCodeCamp tutorials. But there comes a point where I need to learn some new stuff in order to consolidate it! So today (and probably the next couple of days), I'm working through the FCC tutorials on JavaScript. Then I will figure out how to combine that with my HTML and CSS in a web app. 
 
-It occurs to me that I haven't practiced using form fields yet, so maybe I can build some form fields into my web page, then put some JS behind them to return a result based on the input...hmm, I need to give this some thought.
+**Thoughts** It occurs to me that I haven't practiced using form fields yet, so maybe I can build some form fields into my web page, then put some JS behind them to return a result based on the input...hmm, I need to give this some thought.
+
+## Day 8 of 100: 10th January 2017
+
+**Today's Progress:** Just a bit of messing about, really. I've been reading up on how to incorporate JavaScript into an HTML webpage, so I've set up a simple HTML document that I can muck about with and try different stuff out.
+
+**Thoughts:** I really need to figure out how to get user input from a form field on my HTML document, into a JS function, and then display the output from the function. Even if it's just a case of inputting a number and getting JS to double it and return the result! Setting up a form field to accept a number is easy enough. And getting JS to take a variable, double it and return the result is easy enough. But how do I tie them together?!
 
 <!---
 
