@@ -58,6 +58,6 @@
 
 **Thoughts:** Need to think on further pages UI and start coding.
 
-**Link to work:** 
+**Link to work:** www.bilseydik.com 
 # 100 Days Of Code - Log
 
