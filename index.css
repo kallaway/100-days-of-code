@@ -64,7 +64,7 @@
         color: black;
         background-color: #FEF5ED;
         border: orange solid 10px;
-        
+        border-radius: 25px;
     }
     
     /*The CSS if I completed a day*/
