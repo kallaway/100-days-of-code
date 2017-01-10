@@ -51,3 +51,13 @@
 **Link to work:** 
 # 100 Days Of Code - Log
 
+### Day 6: January 09, 2017
+##### Web site for a friend on his native language
+
+**Today's Progress**: Done with Main Page. Used mainly Bootstrap.
+
+**Thoughts:** Need to think on further pages UI and start coding.
+
+**Link to work:** 
+# 100 Days Of Code - Log
+
