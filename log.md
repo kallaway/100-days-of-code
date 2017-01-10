@@ -56,7 +56,7 @@
 
 **Link to work:** [aNewDev.io](https://anewdev.io)
 
-### Day 6: January 8, 2017.
+### Day 7: January 9, 2017.
 
 **Today's Progress**: 
 FreeCodeCamp: Completed tribute page.
