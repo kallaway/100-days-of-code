@@ -62,6 +62,20 @@
 
 **Link(s) to work**: [Project Odin Google Homepage Clone](https://larrytooley.github.io/google-homepage/)
 
+### Day 7: January 9, 2017
+
+**Today's Progress**: Worked on Odin Project Google homepage clone again. I added the microphone image and got the footer 80% done.
+
+**Thoughts**: Tired. Looking forward to another long weekend. I need to brush up on CSS positioning. Things are not going where I want them.
+
+**Tutorials**: None.
+
+**Reading**: None.
+
+**Time: 1 hour 5 minutes.
+
+**Link(s) to work**: [Project Odin Google Homepage Clone](https://larrytooley.github.io/google-homepage/)
+
 <!--
 ### Day 1: June 27, Monday
 
