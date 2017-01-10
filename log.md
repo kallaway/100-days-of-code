@@ -13,6 +13,14 @@ This is a Markdown test:
 * should be a bullet point
 * should be another bullet point
 
+### Day 1: January 9, 2017
+
+**Today's Progress**: "Learn Python the Hard Way" notes and exercises through Chapter 20
+
+**Thoughts:** I host a bi-weekly Python meetup learn-along.  We are five meetings into this and I keep saying "I need to take notes on this".  Guess what.  I did.  It took more than an hour but was totally worth it because I now have these notes in Anki for spaced repetition.  Hooray.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
 
 ### FOLLOWING IS THE TEMPLATE, DO NOT EDIT OR DELETE THIS PLEASE
 ### Day 0: February 30, 2016 (Example 1)
