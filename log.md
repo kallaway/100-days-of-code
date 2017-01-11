@@ -66,4 +66,17 @@ AWS Certified Developer Associate: Began acloud.guru training class.
 
 **Thoughts:** Getting some energy around using HTML and Bootstrap.  It's nice to know that I have the ability to do something that looks decent.  Also, I can really see how applying the learning in real projects brings a lot of understanding.
 
-**Link to work:** [aNewDev.io](https://anewdev.io)  [FCC Tribute Page](https://codepen.io/anewdev/pen/apOXKa)
+**Link to work:** [aNewDev.io](https://anewdev.io) | [FCC Tribute Page](https://codepen.io/anewdev/pen/apOXKa)
+
+### Day 8: January 10, 2017.
+
+**Today's Progress**: 
+FreeCodeCamp: Began personal portfolio project.
+Hack Reactor Prep: Completed Module 0.  Working with object and array manipulation.
+aNewDev.io: No Progress.
+Personal Website: Changed site to Bootstrap including nav bar and jumbotron.
+AWS Certified Developer Associate: No progress.  
+
+**Thoughts:** Getting more proficient with Bootstrap.  Worked with objects and arrays, and getting better looping through thme. 
+
+**Link to work:** [FCC personal portfolio in progress](https://codepen.io/anewdev/pen/YNwGLx)
