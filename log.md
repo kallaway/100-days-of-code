@@ -2,6 +2,12 @@
 
 --------
 
+## Day 7: January 10, 2017
+#### Today's progress:
+Quick look at Redux & React Docs, add responsiveness to game of life project. 
+
+--------
+
 ## Day 6: January 9, 2017
 #### Today's progress:
 played around html5 canvas
