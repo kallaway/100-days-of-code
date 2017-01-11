@@ -29,3 +29,7 @@
 ### Day 5: January 9, 2017
 
 **Today's Progress**: Writing functions in JavaScript (using the Chrome console). 19% complete with Practical Javascript (watchandcode.com)
+
+### Day 6: January 10, 2017
+
+**Today's Progress**: Continued working through Practical Javascript. Finished version 2 of a todo list using functions (addTodo, deleteTodo, displayTodo, changeTodo). Moving on to version 3 using objects. 23% done.
