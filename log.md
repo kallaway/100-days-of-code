@@ -10,7 +10,7 @@
 //**Link to work:** [Calculator App](http://www.example.com)
 
 
-### Day 0: june 10, january
+### Day 0: january 10, 2017
 
 **Todays progress** ive gone through lots of git documentation
                     ive learnt how to revert changes, create repo and even sync project between
