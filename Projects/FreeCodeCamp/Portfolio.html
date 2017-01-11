@@ -1,5 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <!--Bootstrap loading in-->
@@ -57,29 +57,113 @@
     
         <h1 class="text-xs-center display-3">Hello, world!</h1><br>
         <p class="lead"> I'm Mathé Grievink, I'm 17 years old and I live in The Netherlands.</p>
-        <hr class="my-2" style="color:white;" size="100">
+        <hr class="my-2" style="color:white;">
         <p class="text-right">Learning Web Devloper - System Administrator Student  </p>
         <p class="lead"><br>
-            <a id="introbutton" class="btn btn-responsive text-center btn-secondary" href="#contact" role="button">Contact me</a>
+            <a id="introbutton" class="btn btn-responsive text-center btn-secondary" href="#contactme" role="button">Contact me</a>
         </p>
     </div>
     
     <!--portfolio-->
     <div id="portfolio" class="jumbotron container">
         <h1 id="portfoliotext" class="text-center">Portfolio</h1><br><br>
-        <img src="http://media.istockphoto.com/vectors/calculator-vector-id531633071?k=6&m=531633071&s=170667a&w=0&h=sxke8a5BC4o7o5vE3opXBKcA3X-UedEM92MQkKJ6KIU=" id="calculator" class="img-responsive center-block"/> <br><br><br>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA2qmkigKn5z1MzixXprOr8RQcbNHUT_CaejIU_-jwB1fF1idGuQ" class="img-responsive center-block" id="weather"/> <br><br><br>
-        <img src="http://www.wpclipart.com/recreation/games/Tic_tac_toe.png" class="img-responsive center-block" id="tictactoe"/> 
+        <img alt="project image" src="http://media.istockphoto.com/vectors/calculator-vector-id531633071?k=6&m=531633071&s=170667a&w=0&h=sxke8a5BC4o7o5vE3opXBKcA3X-UedEM92MQkKJ6KIU=" id="calculator" class="img-responsive center-block"/> <br><br><br>
+        <img alt="project image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA2qmkigKn5z1MzixXprOr8RQcbNHUT_CaejIU_-jwB1fF1idGuQ" class="img-responsive center-block" id="weather"/> <br><br><br>
+        <img alt="project image" src="http://www.wpclipart.com/recreation/games/Tic_tac_toe.png" class="img-responsive center-block" id="tictactoe"/> 
         
     </div>
     
     <!--ContactMe-->
-    <div id="contactme" class="jumbotron container">
-        <h1 id="contactmehead" class="text-center">Contact me</h1>
+    <div id="contact-me" class="jumbotron container">
+        
+        <h1 id="contact-me-head" class="text-center">Contact me</h1>
+        
+            <br>
+            <br>
+            <br>
+        
+        <div id="forum-and-text" class="row">
+            
+            <div  class="col-xs-6">
+                
+                <form>
+                    
+                    <div id="form-input" class="form-group">
+                        
+                        <input type="text" class="form-control form-input" placeholder="Your Name"> 
+                        
+                            <br>
+                        
+                        <input type="text" class="form-control form-input" placeholder="Email Address"> 
+                        
+                            <br>
+                        
+                        <input type="text" class="form-control form-input" placeholder="Your Message"> 
+                            
+                            <br>
+                        
+                        <input id="submitbutton" name="submit" type="submit" value="Send" class="btn btn-primary">
+                        
+                    </div>
+                
+                </form>
+            
+            </div>
+            
+            <div id="form-text" class="col-xs-6">
+                
+                <p>
+                    If you want to contact me, please send a message to me on the left.
+                    
+                        <br>
+                        <br>
+                    I reply A.S.A.P.
+                </p>
+                
+                    <br> 
+                    <br>
+                
+                <div id="social" class="row">
+                    
+                    <a href="http://twitter.com/Mathe_Grievink" target="_blank"> 
+                        
+                        <button id="twitter" class="btn btn-spacing col-xs-2"> 
+                            
+                            <i class="fa fa-twitter"></i>
+                        
+                        </button>
+                    
+                    </a>
+                
+                    <a href="https://github.com/Mathingss" target="_blank"> 
+                        
+                        <button id="github" class="btn btn-spacing col-xs-2"> 
+                            
+                            <i class="fa fa-github"></i>
+                        
+                        </button>
+                    
+                    </a>
+            
+                    <a href="https://codepen.io/Matheee" target="_blank">
+                        
+                        <button id="codepen" class="btn btn-spacing col-xs-2"> 
+                            
+                            <i class="fa fa-codepen"></i>
+                        
+                        </button>
+                
+                    </a>
+            
+                </div>
+            
+            </div>
+        
+        </div>
     
-    
-    
-    </div>
+    </div>   
+ 
+</body>
 
 
         <!--things loading in-->
@@ -89,12 +173,12 @@
 
     
  
-</body>
+
 <!--CSS-->
 <style>
     body {
         font-family: 'Open Sans', sans-serif;
-        background-color: #F0EBF5
+        background-color: #F0EBF5;
         
     }
     #navbar {
@@ -107,7 +191,7 @@
         
     }
     #introbutton {
-        background-color: 57A773;
+        background-color: #57A773;
         color: white;
 
         display: table;
@@ -126,10 +210,35 @@
     #tictactoe {
         width: 416px
     }
-    #contactme {
+    #contact-me {
         background-color: #e5e059;
     }
     
+    .form-input {
+        background-color: transparent;
+        border-color: black;
+    }
+    
+    #social {
+        font-size: 30px;
+    }
+    #twitter {
+        border-radius: 25px;
+        border-color: black;
+        background-color: transparent;
+    }
+    #codepen {
+        border-radius: 25px;
+        border-color: black;
+        background-color: transparent;
+        
+    }
+     #github {
+        border-radius: 25px;
+        border-color: black;
+        background-color: transparent;
+        
+    }
 
 </style>
 
