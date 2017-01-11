@@ -293,6 +293,8 @@ More Twitter-bot!
 
 **Today's Progress**:
 
+AM: Archer bot get random user
+
 **Thoughts**:
 
 **Up Next**:
