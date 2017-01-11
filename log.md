@@ -99,3 +99,19 @@
 **Thoughts**: Frustrated by this project that seems simple but isn't turning out to be. Happy that I got a quote to return at random from an array. Sad that I can't bring it into the view on button click yet.
 
 **Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
+
+###Day 13: Jan. 10, 2017
+
+**Today's Progress**: Code is working for random quotes displaying to view! Helpful advice from Free Code Camp forum.
+
+**Thoughts**: Getting quite an education by going through API documentation for Twitter. Very interesting. Taking notes.
+
+**Link to work**:Twitter API info here https://dev.twitter.com/basics/things-every-developer-should-know
+
+###Day 14: Jan. 11, 2017
+
+**Today's Progress**: Encouraged others and networked. Making notes on security for tweeting quotes.
+
+**Thoughts**: Glad to make friends online with other coders and developers. Networking is important although outside my comfort zone.
+
+**Link to work**: Twitter Security info: https://dev.twitter.com/basics/security-best-practices
