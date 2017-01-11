@@ -61,3 +61,14 @@
 **Link to work:** www.bilseydik.com 
 # 100 Days Of Code - Log
 
+# 100 Days Of Code - Log
+
+### Day 6: January 09, 2017
+##### Web site for a friend on his native language
+
+**Today's Progress**: Main page still needs some minor changesş Content is not ready therefore can not load itş Started to üork on About pageş 40% progressş
+
+**Thoughts:** Planning takes a lot of time. Proper planning is needed. 
+
+**Link to work:** www.bilseydik.com 
+# 100 Days Of Code - Log
