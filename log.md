@@ -55,6 +55,13 @@
 
 **Thoughts:** I really need to figure out how to get user input from a form field on my HTML document, into a JS function, and then display the output from the function. Even if it's just a case of inputting a number and getting JS to double it and return the result! Setting up a form field to accept a number is easy enough. And getting JS to take a variable, double it and return the result is easy enough. But how do I tie them together?!
 
+
+## Day 9 of 100: 11th January 2017
+
+**Today's Progress:** It may not look much, but I've managed to put a text field and submit button into my HTLM document, and set up the JavaScript so that when a user puts their name in the text field and clicks submit, it says 'Hello, (name)'. That took a lot of working out for a seemingly simple result!
+
+**Thoughts:** I obviously need to know a lot more JS to do anything useful with it, but it's nice to have an insight into how it can be applied to perform a real task in a real webpage, not just in an online tutorial's console. At least I'm in a position where I could start setting up a web form to take user input, and code the JS functions later.
+
 <!---
 
 # 100 Days Of Code - Log
