@@ -293,13 +293,19 @@ More Twitter-bot!
 
 **Today's Progress**:
 
-AM: Archer bot get random user
+AM: Archer bot get random user, Completed
+
+PM: Set up the [#301DaysOfCode](https://github.com/spences10/301-days-of-code) repo
 
 **Thoughts**:
+
+Not sure if setting up a repo could be classed as part of my hour of code, also I have one of my repos which is personal but also work related have several PRs to it
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[#301DaysOfCode](https://github.com/spences10/301-days-of-code)
 
 ---
 
