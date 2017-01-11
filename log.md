@@ -67,6 +67,42 @@ array.sort(function(a, b) {
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
 
+### Day 5: Jan 08, 2017 
+
+
+**Today's Progress**: Finished Title Case a Sentence.
+
+**Thoughts**: Method practicing is a good way to learn. 
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
+
+### Day 5: Jan 09, 2017 
+
+
+**Today's Progress**: Finished Title Case a Sentence and Return Largest Numbers in Arrays.
+
+**Thoughts**: Method practicing is a good way to learn. 
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
+
+
+
+### Day 6: Jan 09, 2017 
+
+
+**Today's Progress**: Finished Confirm the Ending, Repeat a string repeat a string.
+
+**Thoughts**: Method practicing is a good way to learn. 
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
+
+
+
+
+
 
 
 
