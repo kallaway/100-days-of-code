@@ -56,3 +56,11 @@
 
 **Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
 
+### Day 7&8: January 10th & 11th, 2017
+
+**Today's Progress**: I added links to key topics so I didn't have to explain more than a sentence.  Added Sections to mind and soul.  More organized with topics and how to sort them.    
+
+**Thoughts**: Writing out ideas first in a journal totally helps with organization not having to remember details.
+
+**Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
+
