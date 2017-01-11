@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day -3: Friday, January 6, 2017
-[//]: ##### (delete me or comment me out)
 
 **Today's Progress**: Forked and updated the repo, read the articles, updated my Twitter <-- in preparation to start this challenge on Monday.
 
