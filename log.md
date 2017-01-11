@@ -30,3 +30,14 @@ This is a Markdown test:
 **Thoughts:** Fun because this was work done with others.
 
 **Link to blog:** http://stephanietech.net/2017/01/11/day-2-100-days-of-code/
+
+
+### Day 3: Wednesday, January 11, 2017
+
+**Today's Progress**: More notes from "Learn Python the Hard Way" covering the new stuff we worked on last night.  Also, I poked at the HackerRank.com problem we couldn't finish last night.
+
+**Thoughts**: I'm tired and need to do this earlier in the day, rather than the last thing before bed.  It's keeping me up.
+
+**Link to work**: https://github.com/SFoskitt/Learn-Python-the-Hard-Way
+
+**Link to blog**: http://stephanietech.net/2017/01/11/day-3-100-days-of-code/
