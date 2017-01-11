@@ -27,3 +27,12 @@
 **Thoughts:** Spent the little time I had to code.  Geting best run time: discovered forEach loop might be slower than for loop in JS. Reduce function even faster when handling very very large arrays. Learnt alot
 
 **Link to work:** [Math Mode](https://gist.github.com/nfatah/a266e3df1ea1c687ea0416650a182220)
+
+### Day 5-7: Jan 9-11, 2017
+##### Cash Drawer 
+
+**Today's Progress**: Building a casdh drawer app
+
+**Thoughts:** A cash drawer app based on FCC's `Exact Change` Challenge
+
+**Link to work:** [Cash Drawer - JS](https://gist.github.com/nfatah/126eacd4bca5ac4a1d61b44e4bc57819)
