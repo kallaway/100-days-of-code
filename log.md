@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 10, 2017
+
+**Today's Progress**: I re-doing my work create a good code with functions. I have a functional code, but it is a big mess, dind't work when I need handle more. So, today it was more a day to understand the methods, objects e functions. I'm doing very well, for while my progress it is the same, but improving my code and my understanding.
+
+**Thoughts:** I'm ok, I'm like a newbie understand more again, and read, and read. It's better than just read, try it, if works, move forwad. No, I need hack the way I get the knowledge. It's the best way for in the future, DONT BACK AGAIN.
+
+**Link to work:** https://github.com/kelvinmaues/weather-app.git.
+
 ### Day 4: January 9, 2017
 
 **Today's Progress**: Today, I handle all the data from JSON, but all my code is a confusion, and it is difficult to make some changes and update the HTML when it is necessary. I take off the bootstrap toggle plugin, because it was not working to set some text inside the toggle using JQuery. I deleted the convert temp functions and I'm doing in the variables, it's awful. But, I'm display the data on the page, so it's means I understand how it works, now. So, I will re-do my work creating especific funcionts and call them when necessary. I noticed the page was slow to update all the data. I need to know, why.
