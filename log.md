@@ -23,3 +23,14 @@
 
 **links to work** none yet
 
+
+
+### Day 1: january 11, 2017
+
+**Todays progress** creating and initialising the repository id use for my tribute webpage
+                    *since* i want to use material design not bootstrap for the page, im working
+                    on getting materials on the use of material design by google.
+
+**Thoughts**        since im going out of my comfort zone for this tribute page,id like to learn 
+                    about mdl too
+
