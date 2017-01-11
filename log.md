@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
 
-### Day 12: January 9, 2017 
+### Day 13: January 10, 2017 
 
-**Today's Progress**: Created repo for Matching Game project from Coursera class. Worked on adding bootstrap. Moved css and js to separate files.
+**Today's Progress**: Took split check js into it's own file and tried to see where things were erroring out.
 
-**Thoughts:** With the absolute positioning, bootstrap did NOT work as planned. 
+**Thoughts:** I'm stuck, but determined. I need more time to figure this out.
 
 **Link to work:** 
-- [Tweet] (https://twitter.com/ScooterPhoenix/status/818680136522465281)
-- [Blog] (http://wp.me/p7rOpi-6M)
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/819027161269018625)
+
 
 ### Day 11: January 8, 2017 
 
