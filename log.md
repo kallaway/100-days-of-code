@@ -295,7 +295,7 @@ More Twitter-bot!
 
 AM: Archer bot get random user, Completed
 
-PM: Set up the [#301DaysOfCode](https://github.com/spences10/301-days-of-code) repo
+PM: Set up the [#301DaysOfCode](https://github.com/spences10/301-days-of-code) repo, added retweet function to archerbot
 
 **Thoughts**:
 
@@ -303,9 +303,13 @@ Not sure if setting up a repo could be classed as part of my hour of code, also 
 
 **Up Next**:
 
+More archerbot! Going to attempt to add [sentiment-3](https://market.mashape.com/vivekn/sentiment-3) and functionality to specific phrases. Add functionality for 'Phrasing?' :smile:
+
 **Link(s) to work**:
 
 [#301DaysOfCode](https://github.com/spences10/301-days-of-code)
+
+[archer-twitter-bot](https://github.com/spences10/archer-twitter-bot)
 
 ---
 
