@@ -13,7 +13,7 @@ This is a Markdown test:
 * should be a bullet point
 * should be another bullet point
 
-### Day 1: January 9, 2017
+### Day 1: Monday, January 9, 2017
 
 **Today's Progress**: "Learn Python the Hard Way" notes and exercises through Chapter 20
 
@@ -21,13 +21,13 @@ This is a Markdown test:
 
 **Link to work:** https://github.com/SFoskitt/Learn-Python-the-Hard-Way
 
+**Link to blog:** http://stephanietech.net/2017/01/09/day-1-100-days-of-code/
 
-### FOLLOWING IS THE TEMPLATE, DO NOT EDIT OR DELETE THIS PLEASE
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: Tuesday, January 10, 2017
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: "Learn Python the Hard Way" exercises Chapter 21, 22, 25
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Fun because this was work done with others.
+
+**Link to blog:** http://stephanietech.net/2017/01/11/day-2-100-days-of-code/
