@@ -56,3 +56,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Thoughts**: I spent the wee mornings reading the documentation for bootstrap 4 beta 6, and I can say it's much cleaner. I have less css overiding bootstrap's and less of a hacky nav.
 
 **Link(s) to work**: Portfolio [GitHub](https://github.com/marvellousdesign/fcc-projects/tree/master/02%20-%20Portfolio) | [CodePen](https://codepen.io/marvellousdesign/full/egmzvq)
+
+### Day 8: Jan 10, 2017 Tuesday
+
+**Today's Progress**: Finish more JavaScript challanges at FreeCodeCamp
+
+**Thoughts**: I feel like I learn better if it's more interactive like CodeCombat, there are a few concepts I already know such as if else statements, switchs was new, and the Counting Cards challange was hard.
