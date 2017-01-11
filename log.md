@@ -22,7 +22,7 @@
 
 ### Day 4: January 5, 2017
 
-**Today's Progress**: Working on title casing a sentence in JavaScript (FreeCodeCamp Basic Algorithm Scripting #252). The first letter of each word should be uppercase, and the rest of the word should be lowercase. I managed to change the entire string to lowercase (easy enough), but haven't been able to figure out how to make the first letter uppercase yet.
+**Today's Progress**: Hosted a 'Code + Coffee' event. Working on title casing a sentence in JavaScript (FreeCodeCamp Basic Algorithm Scripting #252). The first letter of each word should be uppercase, and the rest of the word should be lowercase. I managed to change the entire string to lowercase (easy enough), but haven't been able to figure out how to make the first letter uppercase yet.
 
 **Thoughts:** I feel like I just stared at the requirements for this project for about an hour. 
 
