@@ -58,7 +58,7 @@
 
 ### Day 7: January 9, 2017.
 
-**Today's Progress**: 
+**Today's Progress**:
 FreeCodeCamp: Completed tribute page.
 Hack Reactor Prep: No progress today.
 aNewDev.io Updates: Added some to vocab.  Added "2017 learning plan" section.  Added glyphicons for additional look.
@@ -70,26 +70,39 @@ AWS Certified Developer Associate: Began acloud.guru training class.
 
 ### Day 8: January 10, 2017.
 
-**Today's Progress**: 
+**Today's Progress**:
 FreeCodeCamp: Began personal portfolio project.
 Hack Reactor Prep: Completed Module 0.  Working with object and array manipulation.
 aNewDev.io: No Progress.
 Personal Website: Changed site to Bootstrap including nav bar and jumbotron.
 AWS Certified Developer Associate: No progress.  
 
-**Thoughts:** Getting more proficient with Bootstrap.  Worked with objects and arrays, and getting better looping through thme. 
+**Thoughts:** Getting more proficient with Bootstrap.  Worked with objects and arrays, and getting better looping through them.
 
 **Link to work:** [FCC personal portfolio in progress](https://codepen.io/anewdev/pen/YNwGLx)
 
 ### Day 9: January 11, 2017.
 
-**Today's Progress**: 
-FreeCodeCamp: Made significat progress on personal portfolio project using Bootstrap.
+**Today's Progress**:
+FreeCodeCamp: Made significant progress on personal portfolio project using Bootstrap.
 Hack Reactor Prep: No Progress.
-aNewDev.io: Added addtional definitions. Cleaned up formatting.  Started #aNewDevDefines on twitter.
+aNewDev.io: Added additional definitions. Cleaned up formatting.  Started #aNewDevDefines on twitter.
 Personal Website: No progress.
 AWS Certified Developer Associate: No progress.  
 
-**Thoughts:** Getting more proficient with Bootstrap. Able to interpret what was happening on the page, and was able to add some custom CSS on top of Bootstrap. 
+**Thoughts:** Getting more proficient with Bootstrap. Able to interpret what was happening on the page, and was able to add some custom CSS on top of Bootstrap.
 
 **Link to work:** [FCC personal portfolio in progress](https://codepen.io/anewdev/pen/YNwGLx)
+
+### Day 10: January 12, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed personal portfolio project.
+Hack Reactor Prep: Complete Module 1: Reading section.
+aNewDev.io: Added codeawesome allowing me to add icons for social media.
+Personal Website: Added codeawesome allowing me to add icons for social media.
+AWS Certified Developer Associate: Began the 10,000 ft overview section.  
+
+**Thoughts:** Codeawesome CDN was a good find to add social icons.  Ready to start on more .js with HR and FCC.
+
+**Link to work:** [aNewDev.io](https://anewdev.io) | [FCC personal portfolio project completed](https://codepen.io/anewdev/pen/YNwGLx) | [freecodecamp progress](https://www.freecodecamp.com/anewdev)
