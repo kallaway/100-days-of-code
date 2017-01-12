@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 11, 2017
+
+**Today's Progress**: I tried to use the ip-api instead to use geolocation API. It is good because I get the data by JSON.
+**Thoughts:** More onde day, I dind't finish yet, oh my oh my!
+
+**Link to work:** https://github.com/kelvinmaues/weather-app.git.
+
 ### Day 5: January 10, 2017
 
 **Today's Progress**: I re-doing my work create a good code with functions. I have a functional code, but it is a big mess, dind't work when I need handle more. So, today it was more a day to understand the methods, objects e functions. I'm doing very well, for while my progress it is the same, but improving my code and my understanding.
