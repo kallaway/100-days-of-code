@@ -76,6 +76,18 @@
 
 **Link(s) to work**: [Project Odin Google Homepage Clone](https://larrytooley.github.io/google-homepage/)
 
+### Day 8: January 11, 2017
+
+**Today's Progress**: Worked on FCC random quote machine. Got design plan and basic element into html.
+
+**Thoughts**: Lost a day yesterday. I feel good getting some good work done even though I started late.
+
+**Tutorials**: None.
+
+**Time: 1 hour 5 minutes.
+
+**Link(s) to work**: [Free Code Camp Random Quote Machine](https://larrytooley.github.io/random-quote-machine/)
+
 <!--
 ### Day 1: June 27, Monday
 
