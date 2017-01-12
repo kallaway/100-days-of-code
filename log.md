@@ -62,3 +62,19 @@
 **Thoughts:** My favorite thing I learned today was adding font awesome icons to my projects and also finally figuring out how bootstrap columns work (just make sure it all adds up to 12!) There are still some mysteries--there were two classes mentioned in a tutorial that made no sense and weren't explained: see "Style Text Inputs as Form Controls." I also got my husband coding too, which is pretty awesome. We've been watching antiques roadshow with our computers out. I can't wait to learn more stuff and work on my own projects.
 
 **Link to work:** [New file in Hello World repo](https://github.com/cellojane/hello-world/blob/master/Codepen.html)
+
+### Day 7(+1): January 10, 2017
+
+**Today's Progress**: Finished Bootstrap and started the jQuery tutorial!
+
+**Thoughts:** Sadly, I missed a day of code yesterday. I ended up having a very busy day at work and had committed to hanging out with friends for a while in the evening--and when I got home it would've been a bad call to start coding. What matters is that I got right back into it today. Not sure if I'm wrapping my mind around both of these languages yet, but I guess I'll revisit them in my personal projects.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 8(+1): January 11, 2017
+
+**Today's Progress**: Finished off jQuery tutorial!
+
+**Thoughts:** Today I coded with some Pride and Prejudice in the background to make up for the indecent dialogue happening at a certain press conference today. I made it pretty quickly through the tutorials, but I'm not sure if I would be able to apply everything I learned quickly. But I guess that's what practice is for.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
