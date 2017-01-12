@@ -2,6 +2,12 @@
 
 --------
 
+## Day 8: January 11, 2017
+#### Today's progress:
+Setup html5 canvas board for game of life project. 
+
+--------
+
 ## Day 7: January 10, 2017
 #### Today's progress:
 Quick look at Redux & React Docs, add responsiveness to game of life project. 
@@ -10,7 +16,7 @@ Quick look at Redux & React Docs, add responsiveness to game of life project.
 
 ## Day 6: January 9, 2017
 #### Today's progress:
-played around html5 canvas
+Played around html5 canvas
 
 --------
 
@@ -19,7 +25,7 @@ played around html5 canvas
 #### Today's progress:
 Add some functionality to the game of life project.
 #### Thought:
-raised a confident level. 
+Raised a confident level. 
 
 
 --------
