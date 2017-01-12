@@ -17,6 +17,7 @@
         - [Day 11: 2017-01-10](#day-11-2017-01-10)
         - [Day 12: 2017-01-11](#day-12-2017-01-11)
         - [Day 13: 2017-01-12](#day-13-2017-01-12)
+        - [Day 14: 2017-01-13](#day-14-2017-01-13)
 
 <!-- /TOC -->
 
@@ -314,6 +315,18 @@ More archerbot! Going to attempt to add [sentiment-3](https://market.mashape.com
 ---
 
 ### Day 13: 2017-01-12
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 14: 2017-01-13
 
 **Today's Progress**:
 
