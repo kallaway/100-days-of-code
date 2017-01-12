@@ -33,3 +33,11 @@ Day 4: January 9, 2017
 **Thoughts:** There are so many options now to create your website. It is kind of overwhelming. Our site will start with blogging so I'm looking at WordPress and how I can take advantage of what it has to offer. The project may change though depending on what else I may learn along the way
 
 **Link to work:**
+
+Day 5: January 11, 2017
+
+**Today's Progress**: Created a projects folder for this repo and started building animal_counter. Not yet finished, but at least the idea is outlined and I'm ready to finish it tomorrow. Had some fun learning git as well...
+
+**Thoughts:** I had to skip another day because I was sick. Thankfully I am feeling better now and I hope that I'll be 100% tomorrow. I started thinking about what I wanted to work on yesterday though and thought about an interview question I was given. It was a very simple programming question, but because I hadn't coded in a long time and I didn't expect it (it was for a support job, not developer) I did very poorly. It was that experience that really highlighted how important it is to practice coding regularly. So what better way to pay tribute to that moment, than to actually carry out the code. 
+
+**Link to work:** (coming soon)
