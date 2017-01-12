@@ -33,3 +33,9 @@
 ### Day 6: January 10, 2017
 
 **Today's Progress**: Continued working through Practical Javascript. Finished version 2 of a todo list using functions (addTodo, deleteTodo, displayTodo, changeTodo). Moving on to version 3 using objects. 23% done.
+
+### Day 7: January 12, 2017
+
+**Today's Progress**: Worked on objects in Practical Javascript. 27% done.
+
+**Thoughts:** A function inside an object is a method.. TI(re)L.
