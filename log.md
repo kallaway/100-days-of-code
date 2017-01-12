@@ -320,13 +320,15 @@ More archerbot! Going to attempt to add [sentiment-3](https://market.mashape.com
 
 AM: Added Archer Twitter bot favorite function with error handling
 
+PM: Added Phrasing? responses and post tweet media, I need to work out how to serve html images so I can attach to tweet
+
 **Thoughts**:
 
 I'm learning a lot about Archer doing this :fire:
 
 **Up Next**:
 
-Archer bot user interaction via Twitter.stream using callbacks :scream:
+Archer bot user interaction via Twitter.stream using callbacks :scream:, posting giph relating to query string :question:
 
 **Link(s) to work**:
 
