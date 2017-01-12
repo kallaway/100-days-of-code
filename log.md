@@ -80,3 +80,16 @@ AWS Certified Developer Associate: No progress.
 **Thoughts:** Getting more proficient with Bootstrap.  Worked with objects and arrays, and getting better looping through thme. 
 
 **Link to work:** [FCC personal portfolio in progress](https://codepen.io/anewdev/pen/YNwGLx)
+
+### Day 9: January 11, 2017.
+
+**Today's Progress**: 
+FreeCodeCamp: Made significat progress on personal portfolio project using Bootstrap.
+Hack Reactor Prep: No Progress.
+aNewDev.io: Added addtional definitions. Cleaned up formatting.  Started #aNewDevDefines on twitter.
+Personal Website: No progress.
+AWS Certified Developer Associate: No progress.  
+
+**Thoughts:** Getting more proficient with Bootstrap. Able to interpret what was happening on the page, and was able to add some custom CSS on top of Bootstrap. 
+
+**Link to work:** [FCC personal portfolio in progress](https://codepen.io/anewdev/pen/YNwGLx)
