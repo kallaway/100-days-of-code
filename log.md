@@ -318,11 +318,19 @@ More archerbot! Going to attempt to add [sentiment-3](https://market.mashape.com
 
 **Today's Progress**:
 
+AM: Added Archer Twitter bot favorite function with error handling
+
 **Thoughts**:
+
+I'm learning a lot about Archer doing this :fire:
 
 **Up Next**:
 
+Archer bot user interaction via Twitter.stream using callbacks :scream:
+
 **Link(s) to work**:
+
+[archer-twitter-bot](https://github.com/spences10/archer-twitter-bot)
 
 ---
 
