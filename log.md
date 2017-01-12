@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 12, 2017
+
+**Today's Progress**: I'm finally finishing the Weather App. I'm using to APIs, one for the location and another to get the weather. I handled the JSON data and I'm displaying on the page. It's good. Now, it's missing to set a toggle button to change the temperature between C or F and display an icon weather. In this case, I'm using the weather icons, but the problem is just increase the size of the icon to be more visible. And the style on the page I'll be a responsive card with the main data with shadows to give a UX different like material design.
+
+**Thoughts:** Working all these days have showed me we need be paciente when we are learning, and not to be so fast. I fail and tried many times, implement different stuffs in my application. Now, I have a good feeling!
+
+**Link to work:** https://github.com/kelvinmaues/weather-app.git.
+
 ### Day 6: January 11, 2017
 
 **Today's Progress**: I tried to use the ip-api instead to use geolocation API. It is good because I get the data by JSON.
