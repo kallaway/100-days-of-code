@@ -62,3 +62,9 @@ Tribute page for Kazuko Nakamura [GitHub](https://github.com/marvellousdesign/fc
 **Today's Progress**: Finish more JavaScript challanges at FreeCodeCamp
 
 **Thoughts**: I feel like I learn better if it's more interactive like CodeCombat, there are a few concepts I already know such as if else statements, switchs was new, and the Counting Cards challange was hard.
+
+### Day 9: Jan 11, 2017 Wednesday
+
+**Today's Progress**: Finished JavaScript challanges at FreeCodeCamp
+
+**Thoughts**: It seems I spent 4 days finishing this section, and probably not the most effective use my time since I get distracted easily. I still need a better understand of JavaScript by reading other resouces.
