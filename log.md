@@ -41,3 +41,18 @@ This is a Markdown test:
 **Link to work**: https://github.com/SFoskitt/Learn-Python-the-Hard-Way
 
 **Link to blog**: http://stephanietech.net/2017/01/11/day-3-100-days-of-code/
+
+
+### Day 4: Thursday, January 12, 2017
+
+**Today's Progress**: Today I looked at RxJS to use in a side (non-work) project.  This includes some short videos on Egghead.io
+
+**Thoughts**: It's the same problem I had yesterday - I started late in the evening.  I am resolved to at least start the daily hour of code within 30 minutes of getting home from work, or maybe just do this after work hours while I'm at the office sat in front of a laptop.
+
+**Link to work**: Not my work, but a couple articles, GitHub readme.md, and some Egghead.io videos on RxJS that I went through tonight:
+https://thinkster.io/tutorials/learn-rxjs-observables/what-is-rxjs
+https://rxjs.codeplex.com/
+https://github.com/Reactive-Extensions/RxJS
+https://egghead.io/search?q=rxjs
+
+**Link to blog**: http://stephanietech.net/2017/01/13/day-4-100-days-of-code/
