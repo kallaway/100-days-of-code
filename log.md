@@ -2,6 +2,12 @@
 
 --------
 
+## Day 9: January 12, 2017
+#### Today's progress:
+Add functionality to know clicked cell position of game of life project.  
+
+--------
+
 ## Day 8: January 11, 2017
 #### Today's progress:
 Setup html5 canvas board for game of life project. 
