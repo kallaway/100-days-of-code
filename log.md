@@ -105,7 +105,9 @@ Tonight I attempted to work on GitHub and FreeCodeCamp from my iPhone, with limi
 _later in the evening, after midnight, so now January 13th_
 
 
-I've been working with C's repo and trying to understand the many, many nuances of GitHub.  Wow.  The impression I have as of this moment is that there are many ways for me to save my work, but only one way to have it merged with the original repo _if_ I'm not the owner of the destination-repo.  In other words, I cannot break someone else's program by mistake or intention using GitHub _so long as_ I am not a co-owner on that repo, or possibly a collaborator.
+I've been working with C's repo and trying to understand the many, many nuances of GitHub. The impression I have as of this moment is that there are many ways for me to save my work, but only one way to have it merged with the original repo _if_ I'm not the owner of the destination-repo.  In other words, I cannot break someone else's program by mistake or intention using GitHub _so long as_ I am not a co-owner on that repo, or possibly a collaborator.
+
+Other:  Cleaned up my set of repos by deleting a couple of them.  I learned how to delete individual files and delete entire repositories.  I also created and deleted a pull request to Kallaway in order to practice that on another repo.
 
 
 **Link to work:** 
