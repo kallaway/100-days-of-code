@@ -34,3 +34,15 @@
 **Thoughts**        since im going out of my comfort zone for this tribute page,id like to learn 
                     about mdl too
 
+###Day 2: january 12, 2017###
+
+**Todays Progress** I ended up starting the project assignment i dropped for my coursera full stack web
+                    development course and it was basically about javascript.
+                    i wasnt really able to do much as i had to do a lot of research work and also reading.
+                    i was able to get throgh to the first and second stage of the work which is quite a big 
+                    progress for me
+
+**Thoughts** well i think i made good on my desire to code today as i spend more hours on github and in my ide 
+             than on watching tutorial videos.
+
+**link to work** id be available in a couple of Days
