@@ -114,8 +114,7 @@ Other Activity:
 3.  As a Collaborator on one of C's repos, I created a wiki for that project (_i.e._, repo) and I created a pull request back to the original repo which happened to be my repo.  I then merged the pull request and can see in my repo (the master repo) the file that C created a few days ago.
 
 
-
-**Link to work:** 
+**Link to work:** Here is my GitHub linK: https://github.com/gretchenmanco/100-days-of-code
 
 
 
