@@ -1,7 +1,32 @@
 # 100 Days Of Code - Log
 
 
-### Day 13: January 10, 2017 
+### Day 14: January 12, 2017 
+
+**Today's Progress**: Working on onchange. Using that to get each option to fire and save the value to a variable.
+
+**Thoughts:** Not much. Not a lot of time today to work on it. I did see an error in my code. No quotes around the ID in the getElementById.
+
+
+**Addendum**
+
+[Mozilla developer Network](href="https://developer.mozilla.org/en-US/docs/Web/Events/change">Mozilla Dev Network- Change Event)
+[Javascript Book] (http://www.javascriptbook.com/code/c06/event-listener.html)
+
+**Link to work:** 
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/819757064138395654)
+
+### Day 13: January 11, 2017 
+
+**Today's Progress**: None.
+
+**Thoughts:** I ran across an event in the JavaScript & jQuery book, called change. Still reading and learning more about events.
+
+**Link to work:** 
+
+
+
+### Day 12: January 10, 2017 
 
 **Today's Progress**: Took split check js into it's own file and tried to see where things were erroring out.
 
