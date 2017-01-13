@@ -45,4 +45,4 @@
 **Thoughts** well i think i made good on my desire to code today as i spend more hours on github and in my ide 
              than on watching tutorial videos.
 
-**link to work** id be available in a couple of Days
+**link to work** it'd be available in a couple of Days
