@@ -92,11 +92,21 @@ Thank you for all of your encouragement. Best wishes on your goals!
 
 
 
-### Day 6:  January 12, 2017
+### Day 6:  January 12 - 13, 2017  (Started late on Thursday, January 12th and just continued through the 13th-counting only as one day, though overlapped two calendar days)
 
 **Today's Progress as Published on Medium.com **: 
 
-**Thoughts:** Both laptop & tablet out of commission for a few more days.  I read some more Git documentation yesterday, reading quite a few blogs and updates from others participating in this challenge.  I took off a few days from programming because of the absent laptop.  Tonight I attempted to work on GitHub and FreeCodeCamp from my iPhone with limited success, and have borrowed a laptop to finish some things tonight.  Overall, a low-key, but happy week. 
+**Thoughts:** Both the laptop & tablet are out of commission for a few days.  I read some more Git documentation yesterday, and I have been reading quite a few blogs and updates from others participating in this challenge.  This is such an encouraging community.  Remember how people are helping to create this community of encouragement!  
+
+I took off a few days from programming because of the absent laptop and my new job.  
+
+Tonight I attempted to work on GitHub and FreeCodeCamp from my iPhone, with limited success, and have borrowed a laptop to work on some things tonight.  Overall, a low-key, but happy week. 
+
+_later in the evening, after midnight, so now January 13th_
+
+
+I've been working with C's repo and trying to understand the many, many nuances of GitHub.  Wow.  The impression I have as of this moment is that there are many ways for me to save my work, but only one way to have it merged with the original repo _if_ I'm not the owner of the destination-repo.  In other words, I cannot break someone else's program by mistake or intention using GitHub _so long as_ I am not a co-owner on that repo, or possibly a collaborator.
+
 
 **Link to work:** 
 
