@@ -71,3 +71,11 @@
 **Thoughts**: Working on things slowly and super small steps at a time with something like coding is amazing!  It keeps me challenged because it's review and I don't get ahead of my own knowledge and get frustrated and give up.
 
 **Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
+
+### Day 10 & 11: January 12th & 13th, 2017
+
+**Today's Progress**: I've on a PHP tutorial rampage and have been soaking it all in and then applying them to my projects!  On my incrementalgradualist.com site, I got all the navigation, side bar and footer all on the include function on php!  Hopefully I'm using the right terms.  On my other project that I started, I began making a footer just for shits and gigs.  I plan on phping that so I only have to type it out once and just use the php code.    
+
+**Thoughts**: Super confused about the dates but hey... I'm still coding everyday!  Learning languages for a key purpose makes things easier.
+
+**Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
