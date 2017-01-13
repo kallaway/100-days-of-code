@@ -3,25 +3,26 @@
 <!-- TOC -->
 
 - [100 Days Of Code - Log](#100-days-of-code---log)
-        - [Day 0: 2016-12-30](#day-0-2016-12-30)
-        - [Day 1: 2016-12-31](#day-1-2016-12-31)
-        - [Day 2: 2017-01-01](#day-2-2017-01-01)
-        - [Day 3: 2017-01-02](#day-3-2017-01-02)
-        - [Day 4: 2017-01-03](#day-4-2017-01-03)
-        - [Day 5: 2017-01-04](#day-5-2017-01-04)
-        - [Day 6: 2017-01-05](#day-6-2017-01-05)
-        - [Day 7: 2017-01-06](#day-7-2017-01-06)
-        - [Day 8: 2017-01-07](#day-8-2017-01-07)
-        - [Day 9: 2017-01-08](#day-9-2017-01-08)
-        - [Day 10: 2017-01-09](#day-10-2017-01-09)
-        - [Day 11: 2017-01-10](#day-11-2017-01-10)
-        - [Day 12: 2017-01-11](#day-12-2017-01-11)
-        - [Day 13: 2017-01-12](#day-13-2017-01-12)
-        - [Day 14: 2017-01-13](#day-14-2017-01-13)
+        - [Day 000: 2016-12-30](#day-000-2016-12-30)
+        - [Day 001: 2016-12-31](#day-001-2016-12-31)
+        - [Day 002: 2017-01-01](#day-002-2017-01-01)
+        - [Day 003: 2017-01-02](#day-003-2017-01-02)
+        - [Day 004: 2017-01-03](#day-004-2017-01-03)
+        - [Day 005: 2017-01-04](#day-005-2017-01-04)
+        - [Day 006: 2017-01-05](#day-006-2017-01-05)
+        - [Day 007: 2017-01-06](#day-007-2017-01-06)
+        - [Day 008: 2017-01-07](#day-008-2017-01-07)
+        - [Day 009: 2017-01-08](#day-009-2017-01-08)
+        - [Day 010: 2017-01-09](#day-010-2017-01-09)
+        - [Day 011: 2017-01-10](#day-011-2017-01-10)
+        - [Day 012: 2017-01-11](#day-012-2017-01-11)
+        - [Day 013: 2017-01-12](#day-013-2017-01-12)
+        - [Day 014: 2017-01-13](#day-014-2017-01-13)
+        - [Day 015: 2017-01-14](#day-015-2017-01-14)
 
 <!-- /TOC -->
 
-### Day 0: 2016-12-30
+### Day 000: 2016-12-30
 
 **Today's Progress**: I went through the FreeCodeCamp(:fire:) jQuery exercises again then started the 'Show the Local Weather' FreeCodeCamp(:fire:)  challenge.
 
@@ -41,7 +42,7 @@ I used [ip-api.com](http://ip-api.com/json) to get my geo data which I have stru
 
 ---
 
-### Day 1: 2016-12-31
+### Day 001: 2016-12-31
 
 **Today's Progress**: Looking at weather icons, still not sure on how to do this, I also had to change from using [ip-api.com](ip-api.com) to [freegeoip.net](freegeoip.net/) as [ip-api.com](ip-api.com) was showing me as ~100 miles away from my current location.
 
@@ -61,7 +62,7 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 ---
 
-### Day 2: 2017-01-01
+### Day 002: 2017-01-01
 
 **Today's Progress**: Set up repo for the FreeCodeCamp(:fire:) Zipline 'Build a Wikipedia Viewer', added HTML, CSS and JS files to the repo, added a search box and a random article button.
 
@@ -75,7 +76,7 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 ---
 
-### Day 3: 2017-01-02
+### Day 003: 2017-01-02
 
 **Today's Progress**: FreeCodeCamp(:fire:) Wikipedia Viewer: Added a getJSON function to the js file, can console log the data but it's only one result at a time
 
@@ -93,7 +94,7 @@ Git-it: I still use Git as ```git commit``` and ```git push origin master``` and
 
 ---
 
-### Day 4: 2017-01-03
+### Day 004: 2017-01-03
 
 **Today's Progress**:
 
@@ -120,7 +121,7 @@ heroku ps:scale worker=1
 
 ---
 
-### Day 5: 2017-01-04
+### Day 005: 2017-01-04
 
 **Today's Progress**:
 
@@ -140,7 +141,7 @@ PM: Gawd! I spent some time on the twitter bot today, I have documented it all [
 
 ---
 
-### Day 6: 2017-01-05
+### Day 006: 2017-01-05
 
 **Today's Progress**:
 
@@ -166,7 +167,7 @@ I made a post on the process here: [Git and GitHub](https://spences10.github.io/
 
 ---
 
-### Day 7: 2017-01-06
+### Day 007: 2017-01-06
 
 **Today's Progress**:
 
@@ -186,7 +187,7 @@ PM: Branched my changes for my #100DaysOfCode repo along with my [spences10-twit
 
 ---
 
-### Day 8: 2017-01-07
+### Day 008: 2017-01-07
 
 **Today's Progress**:
 
@@ -208,7 +209,7 @@ PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeC
 
 ---
 
-### Day 9: 2017-01-08
+### Day 009: 2017-01-08
 
 **Today's Progress**:
 
@@ -242,7 +243,7 @@ Then, I guess I should get back to my FreeCodeCamp(:fire:) work of Wikipedia vie
 
 ---
 
-### Day 10: 2017-01-09
+### Day 010: 2017-01-09
 
 **Today's Progress**:
 
@@ -268,7 +269,7 @@ More JavaScript30??
 
 ---
 
-### Day 11: 2017-01-10
+### Day 011: 2017-01-10
 
 **Today's Progress**:
 
@@ -290,7 +291,7 @@ More Twitter-bot!
 
 ---
 
-### Day 12: 2017-01-11
+### Day 012: 2017-01-11
 
 **Today's Progress**:
 
@@ -314,7 +315,7 @@ More archerbot! Going to attempt to add [sentiment-3](https://market.mashape.com
 
 ---
 
-### Day 13: 2017-01-12
+### Day 013: 2017-01-12
 
 **Today's Progress**:
 
@@ -336,7 +337,19 @@ Archer bot user interaction via Twitter.stream using callbacks :scream:, posting
 
 ---
 
-### Day 14: 2017-01-13
+### Day 014: 2017-01-13
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 015: 2017-01-14
 
 **Today's Progress**:
 
