@@ -100,14 +100,19 @@ Thank you for all of your encouragement. Best wishes on your goals!
 
 I took off a few days from programming because of the absent laptop and my new job.  
 
-Tonight I attempted to work on GitHub and FreeCodeCamp from my iPhone, with limited success, and have borrowed a laptop to work on some things tonight.  Overall, a low-key, but happy week. 
+Tonight I attempted to work on GitHub and FreeCodeCamp from my iPhone, with limited success, and have borrowed a laptop to continue to work on some things in GitHub tonight.  Overall, a low-key, but happy week. 
 
-_later in the evening, after midnight, so now January 13th_
+_later in the evening, after midnight, so now January 13th_:  I've been working with C's repo and trying to understand the many, many nuances of GitHub. The impression I have as of this moment is that there are many ways for me to save my work, but only one way to have it merged with the original repo _if_ I'm not the owner of the destination-repo.  In other words, I cannot break someone else's program by mistake or intention using GitHub _so long as_ I am not a co-owner on that repo, or possibly a collaborator.
+
+_A little bit later on the 13th_:  This is really cool how this system works!  AS a Collaborator on a project, however, there could be the chace to really mess up the program.  _TRUST is going to be vitally important among Collaborators._    This may be the lesson for yesterday and today's work in GitHub.
 
 
-I've been working with C's repo and trying to understand the many, many nuances of GitHub. The impression I have as of this moment is that there are many ways for me to save my work, but only one way to have it merged with the original repo _if_ I'm not the owner of the destination-repo.  In other words, I cannot break someone else's program by mistake or intention using GitHub _so long as_ I am not a co-owner on that repo, or possibly a collaborator.
+Other Activity:  
 
-Other:  Cleaned up my set of repos by deleting a couple of them.  I learned how to delete individual files and delete entire repositories.  I also created and deleted a pull request to Kallaway in order to practice that on another repo.
+1.  I learned how to delete individual files and delete entire repositories, so I removed a couple of repos.
+2.  I also created and deleted a pull request to Kallaway in order to practice that on another repo.
+3.  As a Collaborator on one of C's repos, I created a wiki for that project (_i.e._, repo) and I created a pull request back to the original repo which happened to be my repo.  I then merged the pull request and can see in my repo (the master repo) the file that C created a few days ago.
+
 
 
 **Link to work:** 
