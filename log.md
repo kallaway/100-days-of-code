@@ -106,3 +106,16 @@ AWS Certified Developer Associate: Began the 10,000 ft overview section.
 **Thoughts:** Codeawesome CDN was a good find to add social icons.  Ready to start on more .js with HR and FCC.
 
 **Link to work:** [aNewDev.io](https://anewdev.io) | [FCC personal portfolio project completed](https://codepen.io/anewdev/pen/YNwGLx) | [freecodecamp progress](https://www.freecodecamp.com/anewdev)
+
+### Day 11: January 13, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Began the .js section on FCC
+Hack Reactor Prep:
+aNewDev.io:
+Personal Website:
+AWS Certified Developer Associate:
+
+**Thoughts:** .js section going well so far.  Making good progress that will help me with HRR exercises.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
