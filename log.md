@@ -82,3 +82,13 @@
 
 **Link to work:** www.bilseydik.com 
 # 100 Days Of Code - Log
+
+### Day 9: January 12, 2017
+##### Web site for a friend on his native language
+
+**Today's Progress**: Still working on About page. there was no big progress. 
+
+**Thoughts:** Optimised the images on the website for web. Optmised some code.
+
+**Link to work:** www.bilseydik.com 
+# 100 Days Of Code - Log
