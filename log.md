@@ -64,3 +64,10 @@
 
 **Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
 
+### Day 9: January 11th, 2017
+
+**Today's Progress**: I started out with a bunch of php tutorials on how to make a blog and was on a roll... then got stuck only to find out it was outdated.  Took a break for a few hours and came back strong to keep working on my little project that I started.  I finished all three of my sections and got some example things in there so I don't forget what the pattern is.    
+
+**Thoughts**: Working on things slowly and super small steps at a time with something like coding is amazing!  It keeps me challenged because it's review and I don't get ahead of my own knowledge and get frustrated and give up.
+
+**Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
