@@ -39,3 +39,7 @@
 **Today's Progress**: Worked on objects in Practical Javascript. 27% done.
 
 **Thoughts:** A function inside an object is a method.. TI(re)L.
+
+### Day 8: January 13, 2017
+
+**Today's Progress**: Still working on objects in JS. Started using Plunker instead of just using the Chrome console. 30% complete.
