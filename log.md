@@ -92,11 +92,11 @@ Thank you for all of your encouragement. Best wishes on your goals!
 
 
 
-### Day :
+### Day 6:  January 12, 2017
 
 **Today's Progress as Published on Medium.com **: 
 
-**Thoughts:** 
+**Thoughts:** Both laptop & tablet out of commission for a few more days.  I read some more Git documentation yesterday, reading quite a few blogs and updates from others participating in this challenge.  I took off a few days from programming because of the absent laptop.  Tonight I attempted to work on GitHub and FreeCodeCamp from my iPhone with limited success, and have borrowed a laptop to finish some things tonight.  Overall, a low-key, but happy week. 
 
 **Link to work:** 
 
