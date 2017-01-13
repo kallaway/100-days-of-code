@@ -88,6 +88,18 @@
 
 **Link(s) to work**: [Free Code Camp Random Quote Machine](https://larrytooley.github.io/random-quote-machine/)
 
+### Day 9: January 12, 2017
+
+**Today's Progress**: Worked on navbar for FCC portfolio site. Fixed some classes and deleted some unnecessary lines. Attempted to move to Alpha 6 and decided it was too much work. I am very close to having the navbar looking and acting the way I want. 
+
+**Thoughts**: Working with alpha releases is a pain. There are less answers available to problems. I learned a lot about experimenting to get the look I want.
+
+**Tutorials**: None.
+
+**Time: 1 hour 40 minutes.
+
+**Link(s) to work**: [Free Code Camp Portfolio Page](https://larrytooley.github.io/larrytooley.com/)
+
 <!--
 ### Day 1: June 27, Monday
 
