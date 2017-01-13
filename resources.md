@@ -12,6 +12,8 @@
 
 ## Tools
 1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
+2. [TortoiseGit] (https://tortoisegit.org/):  A Windows Shell for Git
+3. [Kdiff3] (http://kdiff3.sourceforge.net/):  A Diff & Merge Program
 
 ## Books (both coding and non-coding)
 
