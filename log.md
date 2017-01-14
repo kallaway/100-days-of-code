@@ -365,11 +365,17 @@ Add reply to user for Phrasing with Archer bot
 AM: Looked into using [request](https://www.npmjs.com/package/request#star) on npm, got an example working `request('https://m.popkey.co/54f65e/YNzqV.gif').pipe(fs.createWriteStream('doodle.gif'));
 ` pretty straight forward so looking to get that working in Archer bot with replies [which aren't working]
 
+PM: Created PR for [100DaysOfCode-twitter-bot](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot) project of teh day functionality using unique random array. Played with getting the giphy api working, not much joy so far
+
 **Thoughts**:
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[archer-twitter-bot](https://github.com/spences10/archer-twitter-bot)
+
+[project-of-the-day](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/25/)
 
 ---
 
