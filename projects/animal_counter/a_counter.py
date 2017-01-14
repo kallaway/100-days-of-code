@@ -1,5 +1,19 @@
 #!/usr/bin/env python
 
-f = open("animals.txt","r")
+with open("animals.txt","r") as file:
 
-print f.readline()
+	i = 0
+
+	occurence = {}
+
+	for line in file:
+
+		
+		key = line.rstrip('\n')
+
+		if key in occurence:
+			occurence[key] += 1
+		else:
+			occurence[key] = 1
+
+	print occurence

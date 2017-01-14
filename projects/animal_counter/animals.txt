@@ -1,2 +1,12 @@
 cat
 dog
+cat
+cat
+elephant
+dog
+mouse
+bunny
+giraffe
+mouse
+turtle
+turtle
