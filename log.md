@@ -51,3 +51,15 @@
 
 ***progress*** no progress was made as i wasnt able to figure out the bug to the assignment i was doing
 
+###Day 4: january 14, 2017###
+
+**Today progress** ive been able to fix the bug to my code.
+                   i've been working through the node part of the project so by tomorrow i should have finished the assigment.
+                   i read more documentation on the way to use node element in the dom.
+                   i've updated my contributions online.
+
+**Thoughts**        not spelling the id to an html element can make your life hell.
+                    Note to self: always chec your spelling pls.
+
+**link to work**  [matching-game](https://www.github.com/ipaye/matching-game)
+
