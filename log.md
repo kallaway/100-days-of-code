@@ -13,6 +13,7 @@
 **Link to work**
 - [Tweet] (https://twitter.com/ScooterPhoenix/status/820107501299441665)
 - [Github Repo] (https://github.com/techmom215/java21)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/13/100-days-of-code-challenge-day-15/)
 
 ### Day 14: January 12, 2017 
 
