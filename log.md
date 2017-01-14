@@ -362,6 +362,9 @@ Add reply to user for Phrasing with Archer bot
 
 **Today's Progress**:
 
+AM: Looked into using [request](https://www.npmjs.com/package/request#star) on npm, got an example working `request('https://m.popkey.co/54f65e/YNzqV.gif').pipe(fs.createWriteStream('doodle.gif'));
+` pretty straight forward so looking to get that working in Archer bot with replies [which aren't working]
+
 **Thoughts**:
 
 **Up Next**:
