@@ -9,6 +9,17 @@ but rather to use smth like Bootstrap in the future.
 
 **Link to work**: [Personal Site](www.sarahaoun.com)
 
+### Day 1 : January 14, 2016
+
+**Today's Progress**: set up a new repo, and a node server. Starting a d3 project
+
+**Thoughts**: thinking about writing a quick guide / refresher on setting up a basic node server.
+Need to go back to GA slides.
+
+**Link to work**: repo [here](https://github.com/saoun/TRPtweets)
+
+
+
 <!-- ### Day 0 : January 13, 2016
 
 **Today's Progress**:
