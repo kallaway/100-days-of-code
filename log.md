@@ -46,3 +46,8 @@
              than on watching tutorial videos.
 
 **link to work** it'd be available in a couple of Days
+
+###Day 3:january 13, 2017###
+
+***progress*** no progress was made as i wasnt able to figure out the bug to the assignment i was doing
+
