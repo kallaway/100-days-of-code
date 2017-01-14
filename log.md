@@ -100,6 +100,18 @@
 
 **Link(s) to work**: [Free Code Camp Portfolio Page](https://larrytooley.github.io/larrytooley.com/)
 
+### Day 10: January 13, 2017
+
+**Today's Progress**: Continued work on navbar for FCC portfolio site. Fixed some styling issues.
+
+**Thoughts**: I am still not happy with the navbar. It is time to ask for help. Working on and knocking out other issues is a moral booster.
+
+**Tutorials**: https://www.youtube.com/watch?v=ZnRFerIP8aA&feature=youtu.be
+
+**Time: 1 hour.
+
+**Link(s) to work**: [Free Code Camp Portfolio Page](https://larrytooley.github.io/larrytooley.com/)
+
 <!--
 ### Day 1: June 27, Monday
 
