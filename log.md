@@ -1,24 +1,118 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through several user stories, features and bugs on portfolio.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Felt really good to break things into small pieces and knock them off one by one. Left with an issue getting image to hide on small displays with bootstrap. HTML is formatted terrible. Need to figure out linting I think.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Time: 1 hour 40 minutes
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: January 4, 2017
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Added image to portfolio and hid it when screens size is small. Added blurb in about section. These both need some improvement, but they are both there.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I really am enjoying this daily practice. I am going to read through all the Bootstrap 4 soon. There are a few changes in classes from Bootstrap 3. I am going to read some articles about getting hired as a developer. I am really tired today.
 
+**Time: 1 hour
 
+**Link(s) to work**: [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/)
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Styled footer for portfolio. Improved the social media link section of portfolio. Also, worked on reaction time game.
+
+**Thoughts**: Leave me alone. I just want to fix this one more thing...only one more issue...I can't feel my legs! Time to stand up!
+
+**Time: 1 hour 45 minutes.
+
+**Link(s) to work**: [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/), [Reaction Time Game](https://larrytooley.github.io/Reaction_Game/)
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: Added a sticky footer to my reaction game.
+
+**Thoughts**: Frustration abounds! I need a better plan for this project. Keep having to backtrack. Did learn how to create a sticky footer with pure CSS. Hoorah!
+
+**Time: 1 hour 15 minutes.
+
+**Link(s) to work**: [Reaction Time Game](https://larrytooley.github.io/Reaction_Game/)
+
+### Day 5: January 7, 2017
+
+**Today's Progress**: Made a lot of improvements to my FCC portfolio.
+
+**Thoughts**: Really enjoy the work I am doing. I am learning a ton!
+
+**Time: 2 hour 5 minutes.
+
+**Link(s) to work**: [Free Code Camp Portfolio Project](https://larrytooley.github.io/larrytooley.com/)
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: Worked on Odin Project Google homepage clone. I have all the elements in place. They just need to be positioned and styled.
+
+**Thoughts**: Today was a drag! I didn't feel great in the morning so I got nothing done then. I was more able to work on it in the evening.
+
+**Tutorials**: Watched part of CS50 Week 1. Struggled with their C library. I need to watch the videos on setting up the dev environment.
+
+**Time: 1 hour 15 minutes.
+
+**Link(s) to work**: [Project Odin Google Homepage Clone](https://larrytooley.github.io/google-homepage/)
+
+### Day 7: January 9, 2017
+
+**Today's Progress**: Worked on Odin Project Google homepage clone again. I added the microphone image and got the footer 80% done.
+
+**Thoughts**: Tired. Looking forward to another long weekend. I need to brush up on CSS positioning. Things are not going where I want them.
+
+**Tutorials**: None.
+
+**Reading**: None.
+
+**Time: 1 hour 5 minutes.
+
+**Link(s) to work**: [Project Odin Google Homepage Clone](https://larrytooley.github.io/google-homepage/)
+
+### Day 8: January 11, 2017
+
+**Today's Progress**: Worked on FCC random quote machine. Got design plan and basic element into html.
+
+**Thoughts**: Lost a day yesterday. I feel good getting some good work done even though I started late.
+
+**Tutorials**: None.
+
+**Time: 1 hour 5 minutes.
+
+**Link(s) to work**: [Free Code Camp Random Quote Machine](https://larrytooley.github.io/random-quote-machine/)
+
+### Day 9: January 12, 2017
+
+**Today's Progress**: Worked on navbar for FCC portfolio site. Fixed some classes and deleted some unnecessary lines. Attempted to move to Alpha 6 and decided it was too much work. I am very close to having the navbar looking and acting the way I want. 
+
+**Thoughts**: Working with alpha releases is a pain. There are less answers available to problems. I learned a lot about experimenting to get the look I want.
+
+**Tutorials**: None.
+
+**Time: 1 hour 40 minutes.
+
+**Link(s) to work**: [Free Code Camp Portfolio Page](https://larrytooley.github.io/larrytooley.com/)
+
+### Day 10: January 13, 2017
+
+**Today's Progress**: Continued work on navbar for FCC portfolio site. Fixed some styling issues.
+
+**Thoughts**: I am still not happy with the navbar. It is time to ask for help. Working on and knocking out other issues is a moral booster.
+
+**Tutorials**: https://www.youtube.com/watch?v=ZnRFerIP8aA&feature=youtu.be
+
+**Time: 1 hour.
+
+**Link(s) to work**: [Free Code Camp Portfolio Page](https://larrytooley.github.io/larrytooley.com/)
+
+<!--
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -28,3 +122,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
