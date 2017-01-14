@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 13, 2017
+
+**Today's Progress**: I'm done with the user stories of the weather app. I use JQuery to display the data, the user can choose between Celsius or Fahrein, and shows a weather icon. But, I need to give some effects or animations with JQuery and CSS. So, my goal is create a google card weather app and I need to set the right font-family, font-size, etc.
+
+**Thoughts:** Study design is superficial, it's our ideas with the others. And sometimes your forgot what you want.
+
+**Link to work:** http://codepen.io/kelvinmaues/pen/KNQYGw
+
 ### Day 7: January 12, 2017
 
 **Today's Progress**: I'm finally finishing the Weather App. I'm using to APIs, one for the location and another to get the weather. I handled the JSON data and I'm displaying on the page. It's good. Now, it's missing to set a toggle button to change the temperature between C or F and display an icon weather. In this case, I'm using the weather icons, but the problem is just increase the size of the icon to be more visible. And the style on the page I'll be a responsive card with the main data with shadows to give a UX different like material design.
