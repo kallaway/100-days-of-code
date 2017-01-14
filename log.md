@@ -339,13 +339,21 @@ Archer bot user interaction via Twitter.stream using callbacks :scream:, posting
 
 ### Day 014: 2017-01-13
 
-**Today's Progress**:
+**Today's Progress**: 
+
+AM: Used the npm package how-to-npm, couldn't get past dist tagging, probably me being thick.
+
+PM: Added 'Phrasing' replies to Archer bot, not great functionality as it just mentions user.
 
 **Thoughts**:
 
 **Up Next**:
 
+Add reply to user for Phrasing with Archer bot
+
 **Link(s) to work**:
+
+[archer-twitter-bot](https://github.com/spences10/archer-twitter-bot)
 
 ---
 
