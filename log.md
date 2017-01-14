@@ -7,8 +7,8 @@
 **Thoughts**: My Java class starts next week and this is a new language for me. I'll take this long weekend and learn some basics before the semester begins.
 
 **Addendum**
--[Java 21 book] (http://workbench.cadenhead.org/book/java-8-21-days/)
--[Git for Java in Netbeans] (https://netbeans.org/kb/docs/ide/git.html)
+- [Java 21 book] (http://workbench.cadenhead.org/book/java-8-21-days/)
+- [Git for Java in Netbeans] (https://netbeans.org/kb/docs/ide/git.html)
 
 **Link to work**
 - [Tweet] (https://twitter.com/ScooterPhoenix/status/820107501299441665)
