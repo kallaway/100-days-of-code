@@ -19,6 +19,7 @@
         - [Day 013: 2017-01-12](#day-013-2017-01-12)
         - [Day 014: 2017-01-13](#day-014-2017-01-13)
         - [Day 015: 2017-01-14](#day-015-2017-01-14)
+        - [Day 016: 2017-01-15](#day-016-2017-01-15)
 
 <!-- /TOC -->
 
@@ -358,6 +359,18 @@ Add reply to user for Phrasing with Archer bot
 ---
 
 ### Day 015: 2017-01-14
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 016: 2017-01-15
 
 **Today's Progress**:
 
