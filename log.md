@@ -56,3 +56,28 @@ https://github.com/Reactive-Extensions/RxJS
 https://egghead.io/search?q=rxjs
 
 **Link to blog**: http://stephanietech.net/2017/01/13/day-4-100-days-of-code/
+
+
+### Day 5: Friday, January 13, 2017
+
+**Today's Progress**: Light research on Python websocket servers, and how to import dependencies into Python.  Websocket, not a new concept to me.  But adding dependencies to Python is new, and as it turns out, not hard at all.
+
+**Thoughts**: Having one and a third languages under my belt has made learning Python easier.
+
+**Link to work**: None (this is a project for work)
+
+**Link to blog**: http://stephanietech.net/2017/01/11/day-5-100-days-of-code/
+
+
+
+### Day 6: Saturday, January 14, 2017
+
+**Today's Progress**: More Python today, but it's a websocket server and client - in the simplest form.  The server will say "hello" every two seconds and pass the message to the client.  Awesome!
+
+**Thoughts**: Just scratching the surface on Python wervers and it's kind of exciting.
+
+**Link to work**: None (it will be used for a work project)
+
+**Link to blog**: http://stephanietech.net/2017/01/11/day-6-100-days-of-code/
+
+
