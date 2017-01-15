@@ -119,3 +119,16 @@ AWS Certified Developer Associate:
 **Thoughts:** .js section going well so far.  Making good progress that will help me with HRR exercises.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 12: January 14, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Continued work on the .js section on FCC
+Hack Reactor Prep:
+aNewDev.io:
+Personal Website:
+AWS Certified Developer Associate:
+
+**Thoughts:** .js section going well so far.  Making good progress that will help me with HRR exercises.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
