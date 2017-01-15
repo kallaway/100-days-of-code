@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+### Day 16: January 14, 2017
+
+**Today's Progress:**
+Created 2 Java programs. Reviewed more on classes and objects.Ending the night watching a video on Java. I'm up to video 10- flow control.
+
+**Thoughts**
+Still working on gaining a solid understanding on when and where to put classes and object. Luckily, there was a review on things I was familiar with from JavaScript. 
+
+**Links to work**
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/14/100-days-of-code-challenge-day-16/ )
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/820475897660735488)
 
 ### Day 15: January 13, 2017
 
