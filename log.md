@@ -2,6 +2,25 @@
 
 --------
 
+## Day 11: January 14, 2017
+#### Today's progress:
+Finally finished game of life project. Restructure files and add 
+documentation of program flow. Pushed to github. 
+#### Thoughts:
+If you can start it, you can finish it. 
+
+#### Link: [Game of life](https://rameshsyangtan.com.np/fcc/data-biz/game-of-life)     
+
+--------
+
+## Day 10: January 13, 2017
+#### Today's progress:
+game of life project made to final, little bugs to be fixed.
+#### Thoughts: 
+feeling frustated, couldn't find out bug.   
+
+--------
+
 ## Day 9: January 12, 2017
 #### Today's progress:
 Add functionality to know clicked cell position of game of life project.  
