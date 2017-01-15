@@ -112,6 +112,20 @@
 
 **Link(s) to work**: [Free Code Camp Portfolio Page](https://larrytooley.github.io/larrytooley.com/)
 
+### Day 11: January 14, 2017
+
+**Today's Progress**: Fixed navbar and layout issues. I have the portfolio to the point I need to add some projects and fix a couple of bugs. I submitted it to FCC, Reddit, Facebook, and my Discord channels for feedback.
+
+**Thoughts**: Feeling pretty good about my ability to use certain tools to make stuff look the way I want. I am excited to start populating the projects section as I continue on.
+
+**Tutorials**: None.
+
+**Reading**: None.
+
+**Time: 1 hour 10 minutes.
+
+**Link(s) to work**: [Free Code Camp Portfolio Page](https://larrytooley.github.io/larrytooley.com/)
+
 <!--
 ### Day 1: June 27, Monday
 
