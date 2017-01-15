@@ -63,3 +63,16 @@
 
 **link to work**  [matching-game](https://www.github.com/ipaye/matching-game)
 
+
+###Day 5: january 15, 2017###
+
+**Todays progress** ive successful finished the javascript dom project and its ready for review.
+                    link to this project would be given.
+                    i was able to fix all the bugs in my code and hopefully the game works well.
+
+**Thoughts** its been really challenging working on all the parts of project but im thankful
+            for all the help i got towards achieving the final result.
+            i was able to learn more git commands during this process.
+
+**link to work**  [matching-game](https://www.github.com/ipaye/matching-game)
+
