@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 14, 2017
+
+**Today's Progress**: Today I studied minimalist design to design the style of my weather app as card, and I read the material documentation to implement a card with UX. It takes some hours, and now it's good. Also, the weather has the weather icons and material design lite as a toggle button. The app has two versions of JavaScripts files, the first one is using the geolocation API and openWeather API and the second is using the IP-API and openWeather API.
+
+**Thoughts:** It's important be opened to study what is necessary to implement and build anything. I never Thought one day study minimalist design a little deep and liked it. I'm tired for take many hours fixing design and code, testing it. Now, this weather is done and finished.
+
+**Link to work:** http://codepen.io/kelvinmaues/details/ZLpYLo/
+
 ### Day 8: January 13, 2017
 
 **Today's Progress**: I'm done with the user stories of the weather app. I use JQuery to display the data, the user can choose between Celsius or Fahrein, and shows a weather icon. But, I need to give some effects or animations with JQuery and CSS. So, my goal is create a google card weather app and I need to set the right font-family, font-size, etc.
