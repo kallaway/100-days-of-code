@@ -20,6 +20,7 @@
         - [Day 014: 2017-01-13](#day-014-2017-01-13)
         - [Day 015: 2017-01-14](#day-015-2017-01-14)
         - [Day 016: 2017-01-15](#day-016-2017-01-15)
+        - [Day 017: 2017-01-16](#day-017-2017-01-16)
 
 <!-- /TOC -->
 
@@ -380,6 +381,18 @@ PM: Created PR for [100DaysOfCode-twitter-bot](https://github.com/freeCodeCamp/1
 ---
 
 ### Day 016: 2017-01-15
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 017: 2017-01-16
 
 **Today's Progress**:
 
