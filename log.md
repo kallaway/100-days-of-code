@@ -79,3 +79,11 @@
 **Thoughts**: Super confused about the dates but hey... I'm still coding everyday!  Learning languages for a key purpose makes things easier.
 
 **Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
+
+### Day 12: January 14th, 2017
+
+**Today's Progress**: Changed all of the html tags to php. Set up xampp so I could work with the php files locally.   
+
+**Thoughts**: I'm foreseeing a road hump but I will do what I can to avoid it for face it.
+
+**Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
