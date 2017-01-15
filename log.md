@@ -72,6 +72,7 @@
 
 **Link to work**: https://github.com/Mmgfrog
 
+
 ###Day 9: Jan. 6, 2017
 
 **Today's Progress**: Got $.getJSON and jQuery somewhat working on Random Quote Machine, plus minor CSS changes.
@@ -79,6 +80,7 @@
 **Thoughts**: How to randomize quotes and not just pull one at a time? How to cycle through API's array? How to get Twitter functionality working?
 
 **Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
+
 
 ###Day 10: Jan. 7, 2017
 
@@ -88,9 +90,10 @@
 
 **Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
 
-###Day 11: Jan. 8, 2017
 
+###Day 11: Jan. 8, 2017
 **Day Off**
+
 
 ###Day 12: Jan. 9, 2017
 
@@ -100,6 +103,7 @@
 
 **Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
 
+
 ###Day 13: Jan. 10, 2017
 
 **Today's Progress**: Code is working for random quotes displaying to view! Helpful advice from Free Code Camp forum.
@@ -108,6 +112,7 @@
 
 **Link to work**:Twitter API info here https://dev.twitter.com/basics/things-every-developer-should-know
 
+
 ###Day 14: Jan. 11, 2017
 
 **Today's Progress**: Encouraged others and networked. Making notes on security for tweeting quotes.
@@ -115,3 +120,33 @@
 **Thoughts**: Glad to make friends online with other coders and developers. Networking is important although outside my comfort zone.
 
 **Link to work**: Twitter Security info: https://dev.twitter.com/basics/security-best-practices
+
+
+###Day 15: Jan 12, 2017
+
+**Today's Progress**: Searched for free wireframe tool, downloaded WinSCP to start learning about remote hosting, and read more about Twitter API usage.
+
+**Thoughts**: I need to prioritize. Finish Random Quote Machine in order to post to portfolio. Wireframe for possible part-time job. Both important.
+
+**Link to work**: Twitter documentation, took notes
+
+
+###Day 16: Jan. 13, 2017
+
+**Today's Progress**: Twitter API objects, more reading and note-taking. Fascinating!
+
+**Thoughts**: The Twitter database must be vast. So many object properties per account/tweet/entity etc.
+
+**Link to work**: API overview https://dev.twitter.com/overview/api and subsequent section
+
+
+###Day 17: Jan 14, 2017
+**Day Off**
+
+###Day 18: Jan. 15, 2017
+
+**Today's Progress**: Tweets, Users, Entities, etc. More with API usage.
+
+**Thoughts**: Concerned that it's going to be hard to capture the quote randomly generated and tweet it verbatim to a particular user's Twitter account. So much to think through and much to learn to execute this, probably.
+
+**Link to Work**:https://dev.twitter.com/overview/api/entities and similar sections
