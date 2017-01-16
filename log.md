@@ -43,3 +43,7 @@
 ### Day 8: January 13, 2017
 
 **Today's Progress**: Still working on objects in JS. Started using Plunker instead of just using the Chrome console. 30% complete.
+
+### Day 9: January 15, 2017
+
+**Today's Progress**: Created an 'addTodo' method on watchandcode.. 31%. Finished Title Case a Sentence on Free Code Camp.
