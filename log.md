@@ -2,6 +2,14 @@
 
 --------
 
+## Day 12: January 15, 2017
+#### Today's progress:
+organize game of life project in github freecodecamp repo. 
+
+#### Link: [Freecodecamp project](https://github.com/rameshsyn/fcc)
+
+--------
+
 ## Day 11: January 14, 2017
 #### Today's progress:
 Finally finished game of life project. Restructure files and add 
