@@ -126,6 +126,20 @@
 
 **Link(s) to work**: [Free Code Camp Portfolio Page](https://larrytooley.github.io/larrytooley.com/)
 
+### Day 11: January 14, 2017
+
+**Today's Progress**: Fixed some of the issues with the navbar. I looked really good, but it stopped working properly. I corrected an issue with my contact links that I got some feedback on Twitter about.
+
+**Thoughts**: I live streamed for the first time today. I think I am going to start live streaming all my work. The day had a stressful end when I found that I broke all my nav and footer. It has to be javascript related.
+
+**Tutorials**: [Webpack Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iTQ3J5oa6orDIMQKKxl8dC)
+
+**Reading**: None.
+
+**Time: 1 hour 30 minutes.
+
+**Link(s) to work**: [Free Code Camp Portfolio Page](https://larrytooley.github.io/larrytooley.com/)
+
 <!--
 ### Day 1: June 27, Monday
 
