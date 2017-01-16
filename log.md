@@ -409,7 +409,7 @@ Wikipedia viewer for FCC!!!!!!!
 
 AM: Read some really good node.js documentation the other night and decided to use what I had learned on my twitter bot, changing the file structure and adding Heroku environment variables instead of the config keys for the bot
 
-PM: 
+PM: FreeCodeCamp(:fire:) Wikipedia viewer zipline progress made
 
 **Thoughts**:
 
@@ -417,11 +417,17 @@ Deployment to Heroku was smooth with minimal issues
 
 **Up Next**:
 
+Use the Twitchtv JSON API?? Maybe something in node.js, the Archer bot is still broken
+
 **Link(s) to work**:
 
 [RisingStack node-hero](https://risingstack.com/resources/node-hero)
 
 [Twitter-McTwitbot](https://github.com/spences10/archer-twitter-bot/tree/dev)
+
+[Wikipedia viewer on GitHub :octocat:](https://github.com/spences10/FreeCodeCamp/tree/master/Wikipedia%20Viewer)
+
+[Wikipedia viewer on CodePen](http://codepen.io/spences10/full/GrjbXe/)
 
 ---
 
