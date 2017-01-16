@@ -22,6 +22,7 @@
         - [Day 016: 2017-01-15](#day-016-2017-01-15)
         - [Day 017: 2017-01-16](#day-017-2017-01-16)
         - [Day 018: 2017-01-17](#day-018-2017-01-17)
+        - [Day 019: 2017-01-18](#day-019-2017-01-18)
 
 <!-- /TOC -->
 
@@ -432,6 +433,18 @@ Use the Twitchtv JSON API?? Maybe something in node.js, the Archer bot is still 
 ---
 
 ### Day 018: 2017-01-17
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 019: 2017-01-18
 
 **Today's Progress**:
 
