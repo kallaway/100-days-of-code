@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 11: January 15, 2017
+### Day 12: January 15, 2017
 
 **Today's Progress:** Fixed some of the issues with the navbar. I looked really good, but it stopped working properly. I corrected an issue with my contact links that I got some feedback on Twitter about.
 
