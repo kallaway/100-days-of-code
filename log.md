@@ -87,3 +87,11 @@
 **Thoughts**: I'm foreseeing a road hump but I will do what I can to avoid it for face it.
 
 **Link to work:** https://github.com/MasayaTamegai/thingsThatKeepMeSane/tree/master/iNTERESTS
+
+### Day 14: January 16th, 2017
+
+**Today's Progress**: I've been watching a bunch of PHP tutorials and doing the examples.  I've been practicing what I've been learning and applying it to my own project.  ALso, learning on how to do github commits and pushing and pulling without logging in? 
+
+**Thoughts**: I'm glad I have to road maps to switch back and forth from and they are both doing the same thing with php but coming at it from different angles.
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
