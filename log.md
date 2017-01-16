@@ -436,6 +436,8 @@ Use the Twitchtv JSON API?? Maybe something in node.js, the Archer bot is still 
 
 **Today's Progress**:
 
+AM: Added README for my FreeCodeCamp(:fire:) repo
+
 **Thoughts**:
 
 **Up Next**:
