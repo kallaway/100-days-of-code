@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 15, 2017
+
+**Today's Progress**: I finished the Local Weather App and I getted some CORS problems that I decided to fix later, so I'm using the IP-API instead the geolocation API. I asked for reviews of the App, and people liked. Now, I started the new FCC project, Wikipedia Viewer. I finished an user story, now I need to study the wiki API and handle the data do display the information to the user. I'm working with bootstrap again, because it's easy to learn and apply.
+
+**Thoughts:** Today, I notice when you really make progress and study something new to implement in some project, you get fast to think more and have many ideas about how to implement a component, a style, etc. Don't stop, never!
+
+**Link to work:** http://codepen.io/kelvinmaues/full/ZLpYLo/
+
 ### Day 9: January 14, 2017
 
 **Today's Progress**: Today I studied minimalist design to design the style of my weather app as card, and I read the material documentation to implement a card with UX. It takes some hours, and now it's good. Also, the weather has the weather icons and material design lite as a toggle button. The app has two versions of JavaScripts files, the first one is using the geolocation API and openWeather API and the second is using the IP-API and openWeather API.
