@@ -407,11 +407,21 @@ Wikipedia viewer for FCC!!!!!!!
 
 **Today's Progress**:
 
+AM: Read some really good node.js documentation the other night and decided to use what I had learned on my twitter bot, changing the file structure and adding Heroku environment variables instead of the config keys for the bot
+
+PM: 
+
 **Thoughts**:
+
+Deployment to Heroku was smooth with minimal issues
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[RisingStack node-hero](https://risingstack.com/resources/node-hero)
+
+[Twitter-McTwitbot](https://github.com/spences10/archer-twitter-bot/tree/dev)
 
 ---
 
