@@ -150,3 +150,12 @@
 **Thoughts**: Concerned that it's going to be hard to capture the quote randomly generated and tweet it verbatim to a particular user's Twitter account. So much to think through and much to learn to execute this, probably.
 
 **Link to Work**:https://dev.twitter.com/overview/api/entities and similar sections
+
+
+###Day 19: Jan. 16, 2017
+
+**Today's Progress**: Typed up and submitted ideas about web design in general to potential employer. Tried to use Justinmind on lunch break but needed more time to do anything with it. Am considering whether Tweet Button could be used instead of REST API. Must keep moving forward and not over-think or overdo projects.
+
+**Thoughts**: "Done is better than perfect," as the saying goes.
+
+**Link to work**: https://dev.twitter.com/web/tweet-button
