@@ -81,3 +81,15 @@ https://egghead.io/search?q=rxjs
 **Link to blog**: http://stephanietech.net/2017/01/11/day-6-100-days-of-code/
 
 
+
+### Day 7: Monday, January 16, 2017
+
+**Today's Progress**: More Python today.  Exercise 22 from "Learn Pythong the Hard Way" which entails going back through the previous chapters and make a cheat sheet of terms.  I got through eleven chapters, here's the result so far.
+
+**Thoughts**: Surprised to find how dense this book is, there's a whole lot in there!
+
+**Link to work**: https://github.com/SFoskitt/Learn-Python-the-Hard-Way/blob/master/Exercise22.md
+
+**Link to blog**: http://stephanietech.net/2017/01/11/day-7-100-days-of-code/
+
+
