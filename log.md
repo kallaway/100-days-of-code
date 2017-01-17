@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 17, 2017
+
+**Today's Progress:** Fixed the issue with the nav and copyright not working. Still haven't cracked the collapse on click issue with the toggle on the portfolio page. Worked on adding some styles to my random quote machine as well.
+
+**Thoughts:** I am going to walk away from the portfolio page for a while. I may discover the solution to the nav issue as I work through other projects.
+
+**Tutorials:** [The Complete nodejs Developer Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/)
+
+**Reading:** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+
+**Time:** 2 hour 5 minutes.
+
+**Link(s) to work:** [Free Code Camp Portfolio Page](https://larrytooley.github.io/larrytooley.com/), [Free Code Camp Random Quote Machine](https://larrytooley.github.io/random-quote-machine/)
+
 ### Day 12: January 15, 2017
 
 **Today's Progress:** Fixed some of the issues with the navbar. I looked really good, but it stopped working properly. I corrected an issue with my contact links that I got some feedback on Twitter about.
