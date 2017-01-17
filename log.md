@@ -2,6 +2,13 @@
 
 --------
 
+## Day 13: January 16, 2017
+#### Today's progress:
+Today no coding, watched nodejs tutorial. 
+learned nodejs module patterns. 
+
+--------
+
 ## Day 12: January 15, 2017
 #### Today's progress:
 organize game of life project in github freecodecamp repo. 
