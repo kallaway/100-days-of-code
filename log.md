@@ -18,6 +18,22 @@ Need to go back to GA slides.
 
 **Link to work**: repo [here](https://github.com/saoun/TRPtweets)
 
+### Day 2 : January 15, 2016
+
+**Today's Progress**: wrote a command line shortcut for node
+
+**Thoughts**: I was frustrated by having to set up directories and files, so 
+thought of a solution and actually worked it out. Very happy to have done it
+
+**Link to work**: [QuickNodeServer](https://github.com/saoun/QuickNodeServer)
+
+ ### Day 3 : January 16, 2016
+
+**Today's Progress**: got back in the d3 project
+
+**Thoughts**: played around with d3 some more, read docs, refactored code 
+
+**Link to work**:  repo [here](https://github.com/saoun/TRPtweets)
 
 
 <!-- ### Day 0 : January 13, 2016
