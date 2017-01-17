@@ -1,30 +1,160 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 2, 2017.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Forked the 100 days of code repository, joined Free Code Camp, read everything in detail for the 100 days of code.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I am a very new dev, and this required quite of bit of learning, but I am excited for the challenge.  
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [GitHub](https://github.com/aNewDev)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started a Cloud Guru Github training. Installed Github for Mac. Developed first index page for aNewDev.io website using Github pages.  
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Some basic code work in HTML, and more working practice with Github.  
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [aNewDev.io](https://anewdev.io)
 
+### Day 2: January 4, 2017.
 
-### Day 1: June 27, Monday
+**Today's Progress**: Completed FreeCodeCamp Sections: Getting Started, HTML and CSS.  Began Hack Reactor Prep program: Introduction and Module 0: Reading.  Updated aNewDev.io with the tools I am already using on day 2.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** Good review of HTML fundamentals.  Start of the real work.  
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** [aNewDev.io](https://anewdev.io)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 3: January 5, 2017.
+
+**Today's Progress**: Completed FreeCodeCamp Sections: Responsive Design with Bootstrap.  
+
+**Thoughts:** Good expansion on CSS for me.    
+
+**Link to work:** [freecodecamp progress](https://www.freecodecamp.com/anewdev)
+
+### Day 4: January 6, 2017.
+
+**Today's Progress**: FreeCodeCamp Sections: jQuery.  Hack Reactor Prep program: Module 0: Greet Customers, Array to Object
+
+**Thoughts:** Reminder to me that I have a lot of fundamentals to commit to my mind.  I have a huge vocabulary ramp to get through.  I have a huge skill ramp to develop.    
+
+**Link to work:** [freecodecamp progress](https://www.freecodecamp.com/anewdev)
+
+### Day 5: January 7, 2017.
+
+**Today's Progress**: FreeCodeCamp Sections: Started Tribute Challenge.  
+
+**Thoughts:** Bootstrap has a lot of useful components.  I just have to find the right ones to use on this project.    
+
+**Link to work:** [tribute page in progress on codepen](https://codepen.io/anewdev/pen/apOXKa)
+
+### Day 6: January 8, 2017.
+
+**Today's Progress**: FreeCodeCamp: Attended local group meeting and worked on group project.  Added bootstrap CSS to anewdev.io and modified it to have a vocabulary section of terms I have come across as a new developer.
+
+**Thoughts:** I am excited that Angular was introduced as a new option for CSS and JS at the FCC local group, and we are building our project with it. Surprised me that Angular could be used as a CSS option as an alternative to Bootstrap.  Likely going to add it to my personal website, so that I can work with it some.
+
+**Link to work:** [aNewDev.io](https://anewdev.io)
+
+### Day 7: January 9, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed tribute page.
+Hack Reactor Prep: No progress today.
+aNewDev.io Updates: Added some to vocab.  Added "2017 learning plan" section.  Added glyphicons for additional look.
+AWS Certified Developer Associate: Began acloud.guru training class.  
+
+**Thoughts:** Getting some energy around using HTML and Bootstrap.  It's nice to know that I have the ability to do something that looks decent.  Also, I can really see how applying the learning in real projects brings a lot of understanding.
+
+**Link to work:** [aNewDev.io](https://anewdev.io) | [FCC Tribute Page](https://codepen.io/anewdev/pen/apOXKa)
+
+### Day 8: January 10, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Began personal portfolio project.
+Hack Reactor Prep: Completed Module 0.  Working with object and array manipulation.
+aNewDev.io: No Progress.
+Personal Website: Changed site to Bootstrap including nav bar and jumbotron.
+AWS Certified Developer Associate: No progress.  
+
+**Thoughts:** Getting more proficient with Bootstrap.  Worked with objects and arrays, and getting better looping through them.
+
+**Link to work:** [FCC personal portfolio in progress](https://codepen.io/anewdev/pen/YNwGLx)
+
+### Day 9: January 11, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Made significant progress on personal portfolio project using Bootstrap.
+Hack Reactor Prep: No Progress.
+aNewDev.io: Added additional definitions. Cleaned up formatting.  Started #aNewDevDefines on twitter.
+Personal Website: No progress.
+AWS Certified Developer Associate: No progress.  
+
+**Thoughts:** Getting more proficient with Bootstrap. Able to interpret what was happening on the page, and was able to add some custom CSS on top of Bootstrap.
+
+**Link to work:** [FCC personal portfolio in progress](https://codepen.io/anewdev/pen/YNwGLx)
+
+### Day 10: January 12, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed personal portfolio project.
+Hack Reactor Prep: Complete Module 1: Reading section.
+aNewDev.io: Added codeawesome allowing me to add icons for social media.
+Personal Website: Added codeawesome allowing me to add icons for social media.
+AWS Certified Developer Associate: Began the 10,000 ft overview section.  
+
+**Thoughts:** Codeawesome CDN was a good find to add social icons.  Ready to start on more .js with HR and FCC.
+
+**Link to work:** [aNewDev.io](https://anewdev.io) | [FCC personal portfolio project completed](https://codepen.io/anewdev/pen/YNwGLx) | [freecodecamp progress](https://www.freecodecamp.com/anewdev)
+
+### Day 11: January 13, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Began the .js section on FCC
+Hack Reactor Prep:
+aNewDev.io:
+Personal Website:
+AWS Certified Developer Associate:
+
+**Thoughts:** .js section going well so far.  Making good progress that will help me with HRR exercises.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 12: January 14, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Continued work on the .js section on FCC
+Hack Reactor Prep:
+aNewDev.io:
+Personal Website:
+AWS Certified Developer Associate:
+
+**Thoughts:** .js section going well so far.  Making good progress that will help me with HRR exercises.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 13: January 15, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Continued work on the .js section on FCC
+Hack Reactor Prep:
+aNewDev.io:
+Personal Website:
+AWS Certified Developer Associate:
+
+**Thoughts:** Almost done with the Basic JavaScript exercises
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 14: January 16, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed "Basic JavaScript" section
+Hack Reactor Prep: Started Module 1 Exercises completing first 3
+aNewDev.io: Updated style to use additional components
+Personal Website:
+AWS Certified Developer Associate: Completed "10,000 ft Overview" section of acloud.guru course
+
+**Thoughts:** Getting into more challenging JavaScript exercises.  This constant practice is helping me to solidify my understanding.  Still struggling a bit with object manipulation.  Adding and modifying them seems to still stump me.  I don't think it's that hard, so I probably just need more practice.
+
+**Link to work:** [aNewDev.io](https://anewdev.io) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
