@@ -1,4 +1,18 @@
 # 100 Days Of Code - Log
+
+### Day 17: January 16, 2016
+
+**Today's Progress**
+Making my way through Codeacademy's section on Java to bone up for class starting.
+
+**Thoughts**
+There is so much to know that. I'm trying to take notes and reiterated the terms in my own voice. Some things are coming together though.
+
+**Links to work:**
+
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/821182999639289857)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/16/100-days-of-code-challenge-day-17/)
+
 ### Day 16: January 14, 2017
 
 **Today's Progress:**
