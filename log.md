@@ -438,11 +438,14 @@ Use the Twitchtv JSON API?? Maybe something in node.js, the Archer bot is still 
 
 AM: Added README for my FreeCodeCamp(:fire:) repo
 
+
 **Thoughts**:
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[spences10 FreeCodeCamp(:fire:) on GitHub :octocat:](https://github.com/spences10/FreeCodeCamp)
 
 ---
 
