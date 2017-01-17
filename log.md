@@ -78,3 +78,35 @@
 **Thoughts:** Today I coded with some Pride and Prejudice in the background to make up for the indecent dialogue happening at a certain press conference today. I made it pretty quickly through the tutorials, but I'm not sure if I would be able to apply everything I learned quickly. But I guess that's what practice is for.
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 9(+1): January 12, 2017
+
+**Today's Progress**: Read Javascript
+
+**Thoughts:** I didn't really code today--but I did a lot of reading code and figuring out how Javascript works on one of the websites I manage (after hours, promise!) I'm proud to say it actually made sense for once--though I'd love to know more about how the responsive template works.
+
+**Link to work:** [Trumba Spuds](https://github.com/cellojane/trumba)
+
+### Day 10(+1): January 13, 2017
+
+**Today's Progress**: Testing Javascript
+
+**Thoughts:** I did some more testing on the Trumba spuds I am experimenting on at work. I need some help deploying them, but I look forward to doing it next week.
+
+**Link to work:** [Trumba Spuds](https://github.com/cellojane/trumba)
+
+### Day 11(+2): January 15, 2017
+
+**Today's Progress**: Started Tribute Page
+
+**Thoughts:** I started work on my tribute page. I was surprised to learn that the example page was mostly done in Bootstrap. I was excited to use HTML--I could viusalize it pretty easily that way, but Bootstrap is something else. I started work on the framework of the page, but I had to consult Bootstrap's documentation quite a bit. 
+
+**Link to work:** [Tribute Page](http://codepen.io/cellojane/pen/VPKYpZ)
+
+### Day 12(+2): January 16, 2017
+
+**Today's Progress**: Continued work on tribute page
+
+**Thoughts:** More wading through Bootstrap. I'm starting to use stuff that wasn't covered in the tutorials, and thinking maybe I should go back to basics and layout the page again.
+
+**Link to work:** [Tribute Page](http://codepen.io/cellojane/pen/VPKYpZ)
