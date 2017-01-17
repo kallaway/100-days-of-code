@@ -95,3 +95,53 @@
 **Thoughts**: I'm glad I have to road maps to switch back and forth from and they are both doing the same thing with php but coming at it from different angles.
 
 **Link to work:** https://github.com/MasayaTamegai/emptyCom
+
+### Day 15: January 17th, 2017
+
+**Today's Progress**: Added a very bacis navbar and footer to my interests project.  I went into phpmyadmin and made a few categories for a blog site.
+
+**Thoughts**: MINI GOALS AND PLANS ARE WHERE ITS AT! 
+
+**Link to work:** https://github.com/MasayaTamegai/iNTERESTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
