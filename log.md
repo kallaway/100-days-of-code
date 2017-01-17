@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 16, 2017
+
+**Today's Progress**: I get started in my Wikipedia Viewer, I made the sketch of the web app and I implemented with a search bar as a input-group in Bootstrap inside a container to fix in the screens size. I created a function to request the data in JSON, because it came as a first Thought in my head, saying create a function. I read a little bit of Wikipedia's API, and it has many options and paramets to choose the best one, and I think the action will be opensearch.
+
+**Thoughts:** Today, my progress it was small again, just reading the implementing UI. I noticed when I start so late in my challenge it is more difficult to study and code.
+
+**Link to work:** http://codepen.io/kelvinmaues/full/VPKzyw/
+
 ### Day 10: January 15, 2017
 
 **Today's Progress**: I finished the Local Weather App and I getted some CORS problems that I decided to fix later, so I'm using the IP-API instead the geolocation API. I asked for reviews of the App, and people liked. Now, I started the new FCC project, Wikipedia Viewer. I finished an user story, now I need to study the wiki API and handle the data do display the information to the user. I'm working with bootstrap again, because it's easy to learn and apply.
