@@ -438,14 +438,22 @@ Use the Twitchtv JSON API?? Maybe something in node.js, the Archer bot is still 
 
 AM: Added README for my FreeCodeCamp(:fire:) repo
 
+PM: Created twitter-bot-bootstrap for use with Node.js and `twit`
 
 **Thoughts**:
 
 **Up Next**:
 
+For the bootstrap I'll need to detail the following on the README.md:
+- Heroku CLI
+- Heroku Procfile
+- Heroku variables
+
 **Link(s) to work**:
 
 [spences10 FreeCodeCamp(:fire:) on GitHub :octocat:](https://github.com/spences10/FreeCodeCamp)
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
 
 ---
 
