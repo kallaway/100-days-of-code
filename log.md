@@ -145,3 +145,16 @@ AWS Certified Developer Associate:
 **Thoughts:** Almost done with the Basic JavaScript exercises
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 14: January 16, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed "Basic JavaScript" section
+Hack Reactor Prep: Started Module 1 Exercises completing first 3
+aNewDev.io: Updated style to use additional components
+Personal Website:
+AWS Certified Developer Associate: Completed "10,000 ft Overview" section of acloud.guru course
+
+**Thoughts:** Getting into more challenging JavaScript exercises.  This constant practice is helping me to solidify my understanding.  Still struggling a bit with object manipulation.  Adding and modifying them seems to still stump me.  I don't think it's that hard, so I probably just need more practice.
+
+**Link to work:** [aNewDev.io](https://anewdev.io) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
