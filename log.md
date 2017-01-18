@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
+### Day 18: January 17, 2017
 
-### Day 17: January 16, 2016
+**Today's Progress**
+A few short programs from my Java textbook and finished up the java section on CCodeacademy
+
+**Not much in the way of coding, but much more comprehension. Java Documentation is very helpful and most online docs from big vendors is undeniably horrible. I was so surprised and read as much as I could.
+
+**Addendum**
+- [Java Documentation] ()
+
+**Links to work:**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/821555724740390913)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/17/100-days-of-code-challenge-day-18/)
+- [Repo] (https://github.com/techmom215/Java111)
+
+
+
+
+### Day 17: January 16, 2017
 
 **Today's Progress**
 Making my way through Codeacademy's section on Java to bone up for class starting.
