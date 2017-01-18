@@ -158,3 +158,16 @@ AWS Certified Developer Associate: Completed "10,000 ft Overview" section of acl
 **Thoughts:** Getting into more challenging JavaScript exercises.  This constant practice is helping me to solidify my understanding.  Still struggling a bit with object manipulation.  Adding and modifying them seems to still stump me.  I don't think it's that hard, so I probably just need more practice.
 
 **Link to work:** [aNewDev.io](https://anewdev.io) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 15: January 17, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed "Object Oriented and Functional Programming" section
+Hack Reactor Prep: Completed 3 exercises in Module 1 Exercises
+aNewDev.io: Added new definition and fixed a typo
+Personal Website: 
+AWS Certified Developer Associate:
+
+**Thoughts:** JavaScript exercises getting harder, and require more thought to complete.
+
+**Link to work:** [aNewDev.io](https://anewdev.io) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
