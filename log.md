@@ -2,6 +2,12 @@
 
 --------
 
+## Day 14: January 17, 2017
+#### Today's progress:
+learned nodejs stream and buffer.  
+
+--------
+
 ## Day 13: January 16, 2017
 #### Today's progress:
 Today no coding, watched nodejs tutorial. 
