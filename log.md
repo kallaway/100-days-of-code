@@ -23,6 +23,7 @@
         - [Day 017: 2017-01-16](#day-017-2017-01-16)
         - [Day 018: 2017-01-17](#day-018-2017-01-17)
         - [Day 019: 2017-01-18](#day-019-2017-01-18)
+        - [Day 020: 2017-01-19](#day-020-2017-01-19)
 
 <!-- /TOC -->
 
@@ -458,6 +459,18 @@ For the bootstrap I'll need to detail the following on the README.md:
 ---
 
 ### Day 019: 2017-01-18
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 020: 2017-01-19
 
 **Today's Progress**:
 
