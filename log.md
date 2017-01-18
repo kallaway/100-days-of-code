@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 18, 2017
+
+**Today's Progress:** Added tweet button to random quote generator and started working on the CSS.
+
+**Thoughts:** The design of this particular project will probably only appeal to me. I don't care.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour
+
 ### Day 13: January 17, 2017
 
 **Today's Progress:** Fixed the issue with the nav and copyright not working. Still haven't cracked the collapse on click issue with the toggle on the portfolio page. Worked on adding some styles to my random quote machine as well.
@@ -8,7 +20,7 @@
 
 **Tutorials:** [The Complete nodejs Developer Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/)
 
-**Reading:** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+**Reading:** 
 
 **Time:** 2 hour 5 minutes.
 
