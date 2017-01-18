@@ -159,3 +159,12 @@
 **Thoughts**: "Done is better than perfect," as the saying goes.
 
 **Link to work**: https://dev.twitter.com/web/tweet-button
+
+
+###Day 20: Jan. 17, 2017
+
+**Today's Progress**:...was minimal. But also had a stressful evening and worked all day. Actually think I am almost there on figuring out how to tweet the quote. Some example projects have ideas that I can tweak to make mine work (I hope).
+
+**Thoughts**: Need a day off to work uninterrupted. If I am here I'm "available" to my kids, partner, etc. Good thing I love them so much. <3 LOL
+
+**Link to work**: https://dev.twitter.com/web/tweet-button
