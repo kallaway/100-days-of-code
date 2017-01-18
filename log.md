@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 17, 2017
+
+**Today's Progress**: I stopped for more than a hour to study and implement leaflet.js on codepen. I'll build a simple app to display point on the map to simulate some human actions to solve a simple problem. I'm doing it as part of a intership challenge.
+
+**Thoughts:** Happy! ;)
+
+**Link to work:** 
+
 ### Day 11: January 16, 2017
 
 **Today's Progress**: I get started in my Wikipedia Viewer, I made the sketch of the web app and I implemented with a search bar as a input-group in Bootstrap inside a container to fix in the screens size. I created a function to request the data in JSON, because it came as a first Thought in my head, saying create a function. I read a little bit of Wikipedia's API, and it has many options and paramets to choose the best one, and I think the action will be opensearch.
