@@ -104,6 +104,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/iNTERESTS
 
+### Day 16: January 18th, 2017
+
+**Today's Progress**: Made my first branch.  I added a sidebar, a header and a little area where the posts show up.
+
+**Thoughts**: I feel pretty good about the workflow and the amount of progress I'm having.  I don't feel overwhelmed by finishing the site before it's ready.  I feel good about applying the little things I know and when things get stuck I can go back and see what went wrong.  Googling things is getting easier again.
+
+**Link to work:** https://github.com/MasayaTamegai/iNTERESTS
+
 
 
 
