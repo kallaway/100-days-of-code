@@ -1,10 +1,36 @@
 # 100 Days Of Code - Log
+
+### Day 19: January 18, 2017
+
+** Today's Progress**
+Fixed the split check function. **win**
+```javascript
+var split = document.getElementById('splitCheck').value;
+```
+**Thoughts**
+I have been away from the Tipcalc for over a week and I came back with a new perspective, unclouded by past hangups and mistakes.I didn't have the `.value` after the variable declaration. That was the biggie, then the other issues where solved one by one. I took time to just look at each line, write down some notes and the mistakes made themselves know. I can check this off my list.
+
+**Task List**
+[x] Get split check option to work
+[] Add bootstrap or make responsive on mobile
+[] Media Query to remove slider div on mobile
+[] Create favicon
+[] Add comments to code
+[] create my own 404 page
+[x] Add a split check option
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/821935622722121728)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/18/100-days-of-code-challenge-day-19/)
+
+
 ### Day 18: January 17, 2017
 
 **Today's Progress**
 A few short programs from my Java textbook and finished up the java section on CCodeacademy
 
-**Not much in the way of coding, but much more comprehension. Java Documentation is very helpful and most online docs from big vendors is undeniably horrible. I was so surprised and read as much as I could.
+**Thoughts**
+Not much in the way of coding, but much more comprehension. Java Documentation is very helpful and most online docs from big vendors is undeniably horrible. I was so surprised and read as much as I could.
 
 **Addendum**
 - [Java Documentation] ()
