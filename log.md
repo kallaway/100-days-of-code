@@ -2,6 +2,12 @@
 
 --------
 
+## Day 15: January 18, 2017
+#### Today's progress:
+Learned node's and express's way to make a server.  
+
+--------
+
 ## Day 14: January 17, 2017
 #### Today's progress:
 learned nodejs stream and buffer.  
