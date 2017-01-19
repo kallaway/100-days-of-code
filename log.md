@@ -93,3 +93,20 @@ https://egghead.io/search?q=rxjs
 **Link to blog**: http://stephanietech.net/2017/01/11/day-7-100-days-of-code/
 
 
+### Day 8: Tuesday, January 17, 2017
+
+**Today's Progress**: Continuation of yesterday - more notes for Exercise 22 from "Learn Pythong the Hard Way".
+
+**Thoughts**: Still surprised to find how dense this book is, there's a whole lot in there!
+
+**Link to work**: https://github.com/SFoskitt/Learn-Python-the-Hard-Way/blob/master/Exercise22.md
+
+
+### Day 9: Wednesday, January 18, 2017
+
+**Today's Progress**: Python again, but it's some exercises from a random site here: http://www.ling.gu.se/~lager/python_exercises.html
+
+**Thoughts**: Happy to see I'm learning something.  I made it through three of these four exercises without referencing the PyDocs.org!
+
+**Link to work**: https://github.com/SFoskitt/python_extra
+**Link to blog**: http://stephanietech.net/2017/01/19/day-9-100-days-of-code/
