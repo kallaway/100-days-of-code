@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 14: January 18, 2017
+### Day 15: January 18, 2017
+
+**Today's Progress:** Worked on the Free Code Camp Timestamp Microservice project. Got the basic structure set up. It serves a static page so far.
+
+**Thoughts:** I wasn't feeling motivated to work on my random quote machine. Got interested in node and express so I started the timestamp project. I prefer to be learning something new.
+
+**Tutorials:** How-to-NPM and Git-It on Free Code Camp.
+
+**Reading:** None.
+
+**Time:** 1 hour 15 minutes
+
+### Day 14: January 17, 2017
 
 **Today's Progress:** Added tweet button to random quote generator and started working on the CSS.
 
@@ -12,7 +24,7 @@
 
 **Time:** 1 hour
 
-### Day 13: January 17, 2017
+### Day 13: January 16, 2017
 
 **Today's Progress:** Fixed the issue with the nav and copyright not working. Still haven't cracked the collapse on click issue with the toggle on the portfolio page. Worked on adding some styles to my random quote machine as well.
 
