@@ -168,3 +168,13 @@
 **Thoughts**: Need a day off to work uninterrupted. If I am here I'm "available" to my kids, partner, etc. Good thing I love them so much. <3 LOL
 
 **Link to work**: https://dev.twitter.com/web/tweet-button
+
+
+###Day 21: Jan. 18, 2017
+**Today's Progress**: Finally found helpful code examples of how to tweet the quote. Got a window to pop open. Still working on JS and HTML to get it right.
+
+**Thoughts**: Looking forward to my days off to get wireframe and other things done!
+
+**Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
+
+
