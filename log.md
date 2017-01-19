@@ -110,3 +110,20 @@
 **Thoughts:** More wading through Bootstrap. I'm starting to use stuff that wasn't covered in the tutorials, and thinking maybe I should go back to basics and layout the page again.
 
 **Link to work:** [Tribute Page](http://codepen.io/cellojane/pen/VPKYpZ)
+
+
+### Day 13(+2): January 17, 2017
+
+**Today's Progress**: Continued work on tribute page
+
+**Thoughts:** I started my tribute page over from scratch today. I went back to the tutorials and tried to build a better framework before dropping content in. I ended up with a similar mess. It's hard to put something down until you have it just the way you want it...
+
+**Link to work:** [Tribute Page](http://codepen.io/cellojane/pen/VPKYpZ)
+
+### Day 14(+2): January 18, 2017
+
+**Today's Progress**: Continued work on tribute page
+
+**Thoughts:** I added a lot of content to my tribute page today. I'm still having a lot of formatting issues, but I think I'll troubleshoot it all tomorrow. In my line of work, content is half the battle. So now I just need to make it look nicer.
+
+**Link to work:** [Tribute Page](http://codepen.io/cellojane/pen/VPKYpZ)
