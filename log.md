@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 18, 2017
+
+**Today's Progress**: I find the action to make the wikipedia Viewer works, and search for a value in the database! I defined the variables to each parameter and I'm using jQuery to get the input value. For now, I'm using only one function to handle it.
+
+**Thoughts:** With many for to do today, I get the minimum time to work on my challenge, it was a small step, but it's normal in unexpected days.
+
+**Link to work:**
+
 ### Day 12: January 17, 2017
 
 **Today's Progress**: I stopped for more than a hour to study and implement leaflet.js on codepen. I'll build a simple app to display point on the map to simulate some human actions to solve a simple problem. I'm doing it as part of a intership challenge.
 
 **Thoughts:** Happy! ;)
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 11: January 16, 2017
 
