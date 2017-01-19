@@ -12,6 +12,8 @@
 
 **Time:** 1 hour 15 minutes
 
+**Link(s) to work:** [Free Code Camp Timestamp Microservice](https://github.com/larrytooley/Free-Code-Camp-Timestamp-Microservice)
+
 ### Day 14: January 17, 2017
 
 **Today's Progress:** Added tweet button to random quote generator and started working on the CSS.
@@ -23,6 +25,8 @@
 **Reading:** None.
 
 **Time:** 1 hour
+
+**Link(s) to work:** [Free Code Camp Random Quote Machine](https://larrytooley.github.io/random-quote-machine/)
 
 ### Day 13: January 16, 2017
 
