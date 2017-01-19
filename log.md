@@ -165,9 +165,22 @@ AWS Certified Developer Associate: Completed "10,000 ft Overview" section of acl
 FreeCodeCamp: Completed "Object Oriented and Functional Programming" section
 Hack Reactor Prep: Completed 3 exercises in Module 1 Exercises
 aNewDev.io: Added new definition and fixed a typo
-Personal Website: 
+Personal Website:
 AWS Certified Developer Associate:
 
-**Thoughts:** JavaScript exercises getting harder, and require more thought to complete.
+**Thoughts:** JavaScript exercises are getting harder, and requiring more thought to complete.
 
 **Link to work:** [aNewDev.io](https://anewdev.io) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 16: January 18, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed 3 exercises in the Basic Algorithm Scripting section
+Hack Reactor Prep: Completed 3 exercises in Module 1 Exercises
+aNewDev.io:
+Personal Website: Updated with social icons, and new sections that allow for better communication about who I am.
+AWS Certified Developer Associate:
+
+**Thoughts:** The Algorithms in FCC are similar to the ones found in HRP.  I think I will begin to see some overlap.  Looking at ways to implement Github directory directly to S3 so that I do not have to manually update my files on AWS.  Seems pretty involved, but want to try it because it will develop my skills even more.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
