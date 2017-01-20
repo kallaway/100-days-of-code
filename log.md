@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 19, 2017
+
+**Today's Progress**: Today I was working in my Wikipedia Viewer, and I completed some tasks like get the string input, request to the WikiMedia API and get the JSON. The action I'm using is the opensearch, and it makes a search in the database and return some information. I will work with thumbnails and make them in cards, but I think I'll use a bootstrap plugin to display and fix the thumbs abroad the screen. I liked that, it is so cool! So, at the end I will see the lenght of the JSON and display the number of thumbnails on the screen with the size of the object. Now, I'm giving some style and probably I'll change the font-family too and apply some effects. Also, before all this I was trying to get the JSON from the WikiMedia API on codepen, but I get a problem with the CORS (Cross-Origin Resource Sharing), so I tried to solve using the cross-origin but at the same way it dind't work. And I found a solution talking about the WikiMedia make a CROS request. At the end, it was necessary just send a parameter as the origin.
+
+**Thoughts:** Good day, don't ask why but I feel improving my front-end skills! I get stuck in some parts, of course, normal, but I recover and I get more paciente to think and solve the problems.
+
+**Link to work:** https://codepen.io/kelvinmaues/full/VPKzyw/
+
 ### Day 13: January 18, 2017
 
 **Today's Progress**: I find the action to make the wikipedia Viewer works, and search for a value in the database! I defined the variables to each parameter and I'm using jQuery to get the input value. For now, I'm using only one function to handle it.
