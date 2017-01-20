@@ -178,3 +178,17 @@
 **Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
 
 
+###Day 22: Jan. 19th, 2017
+**Today's Progress**: Used Justinmind prototyping tool to finish and submit landing page mock-up to potential employer.
+
+**Thoughts**: I never lose. I win or I learn. :)
+
+**Link to work**: PrototypePBS.vp file downloaded. Uses Google Chrome Extension to render in browser.
+
+
+###Day 23: Jan. 20, 2017
+**Today's Progress**: Tried to get help online with Random Quote Machine. Can generate quotes randomly but not click Tweet button after. Or, can click Tweet button first to open a window, but no quote in tweet field (because I can't do that first and have button clickable). Argh.
+
+**Thoughts**: Speaking of Twitter, this whole exercise has totally upped my Twitter game and I am highly enjoying it. Great tool for professional networking and information.
+
+**Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
