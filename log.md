@@ -2,6 +2,13 @@
 
 --------
 
+## Day 16: January 19, 2017
+#### Today's progress:
+Started freecodecamp voting app project. 
+Setup webpack and file structure. 
+
+--------
+
 ## Day 15: January 18, 2017
 #### Today's progress:
 Learned node's and express's way to make a server.  
