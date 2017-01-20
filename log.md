@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 19, 2017
+
+**Today's Progress:** Worked on the Free Code Camp Timestamp Microservice project again. I deployed what I have to Heroku.
+
+**Thoughts:** I was mostly reading documentation, but it will come in handy going forward when deploying apps that require a back-end. I should be able to finish this project tomorrow night.
+
+**Tutorials:** The Complete Node.js Developer Course.
+
+**Reading:** None.
+
+**Time:** 1 hour
+
+**Link(s) to work:** [Free Code Camp Timestamp Microservice](https://github.com/larrytooley/Free-Code-Camp-Timestamp-Microservice) [Timestamp Microservice on Heroku](https://pacific-dusk-69279.herokuapp.com/)
+
 ### Day 15: January 18, 2017
 
 **Today's Progress:** Worked on the Free Code Camp Timestamp Microservice project. Got the basic structure set up. It serves a static page so far.
