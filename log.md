@@ -184,3 +184,17 @@ AWS Certified Developer Associate:
 **Thoughts:** The Algorithms in FCC are similar to the ones found in HRP.  I think I will begin to see some overlap.  Looking at ways to implement Github directory directly to S3 so that I do not have to manually update my files on AWS.  Seems pretty involved, but want to try it because it will develop my skills even more.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 17: January 19, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed multiple exercises in the Basic Algorithm Scripting section
+Hack Reactor Prep: Completed multiple exercises in Module 1 exercises
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+Other: Learned about Github issues so that I can use them to track changes on my projects.
+
+**Thoughts:** mind blown today after thinking so much about the multiple scenarios.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
