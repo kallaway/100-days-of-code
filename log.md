@@ -198,3 +198,17 @@ Other: Learned about Github issues so that I can use them to track changes on my
 **Thoughts:** mind blown today after thinking so much about the multiple scenarios.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 18: January 20, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed multiple exercises in the Basic Algorithm Scripting section
+Hack Reactor Prep:
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+Other:
+
+**Thoughts:** Generally feel that my solutions and code are not as elegant or clean as they should be.  Hoping I get better as I continue.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
