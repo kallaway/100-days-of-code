@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 20, 2017
+
+**Today's Progress:** Worked on the Free Code Camp Timestamp Microservice project again. I have the route for the api working and added javascript to dynamically change the url on the index.html.
+
+**Thoughts:** I was mostly reading documentation again. I didn't finish like I thought but I should tomorrow. I am down to understanding how to make moments parse the string returned by the routing.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 2 hour, 30 minutes.
+
+**Link(s) to work:** [Free Code Camp Timestamp Microservice](https://github.com/larrytooley/Free-Code-Camp-Timestamp-Microservice) [Timestamp Microservice on Heroku](https://pacific-dusk-69279.herokuapp.com/)
+
 ### Day 16: January 19, 2017
 
 **Today's Progress:** Worked on the Free Code Camp Timestamp Microservice project again. I deployed what I have to Heroku.
