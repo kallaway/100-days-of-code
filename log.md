@@ -127,3 +127,20 @@
 **Thoughts:** I added a lot of content to my tribute page today. I'm still having a lot of formatting issues, but I think I'll troubleshoot it all tomorrow. In my line of work, content is half the battle. So now I just need to make it look nicer.
 
 **Link to work:** [Tribute Page](http://codepen.io/cellojane/pen/VPKYpZ)
+
+### Day 15(+2): January 19, 2017
+
+**Today's Progress**: Wrapped up tribute page
+
+**Thoughts:** Finally figured out some of the issues I was having with my tribute page. I'm still having trouble with the margins--I think I don't fully comprehend the grid system in Bootstrap quite yet. But overall I think it was a good first attempt at a responsive page. And I'm also giving myself permission to not be a complete perfectionist. Maybe next week I'll even peek into the example code if the solution doesn't come to me in an Aha moment. Feels good to wrap a project though.
+
+**Link to work:** [Tribute Page](http://codepen.io/cellojane/pen/VPKYpZ)
+
+
+### Day 16(+2): January 20, 2017
+
+**Today's Progress**: Started Portfolio Page
+
+**Thoughts:** I got very deep into creating my profile project page while watching the Fellowship of the Ring this evening. It was about the shittiest day I could imagine so I was escaping into a cave of code. Or something like that. Anyways, I figured out how to build a navigation bar using Bootstrap. And I blocked out some other elements in the page. Tomorrow I want to figure out how to make background images, and maybe some thumbnails for projects.
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
