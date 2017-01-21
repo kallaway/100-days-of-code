@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 20, 2017
+
+** Today's Progress**
+Worked on short programs in Java from Pluralsight and Java in 21 days book. Finished the jQuery section of FCC
+
+**Thoughts**
+More reading and comprehension than usual. Since the Java class started, I have less time to just play and require more time to specifically focus. Not a bad thing, just not the best way to get some coding in.
+
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/822654580924223489)
+
 ### Day 19: January 18, 2017
 
 ** Today's Progress**
