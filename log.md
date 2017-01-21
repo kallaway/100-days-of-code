@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 20, 2017
+
+**Today's Progress**: Today I worked in the the style of the app.
+
+**Thoughts:** I dind't manage the time very well again!
+
+**Link to work:** https://codepen.io/kelvinmaues/full/VPKzyw/
+
 ### Day 14: January 19, 2017
 
 **Today's Progress**: Today I was working in my Wikipedia Viewer, and I completed some tasks like get the string input, request to the WikiMedia API and get the JSON. The action I'm using is the opensearch, and it makes a search in the database and return some information. I will work with thumbnails and make them in cards, but I think I'll use a bootstrap plugin to display and fix the thumbs abroad the screen. I liked that, it is so cool! So, at the end I will see the lenght of the JSON and display the number of thumbnails on the screen with the size of the object. Now, I'm giving some style and probably I'll change the font-family too and apply some effects. Also, before all this I was trying to get the JSON from the WikiMedia API on codepen, but I get a problem with the CORS (Cross-Origin Resource Sharing), so I tried to solve using the cross-origin but at the same way it dind't work. And I found a solution talking about the WikiMedia make a CROS request. At the end, it was necessary just send a parameter as the origin.
