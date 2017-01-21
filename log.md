@@ -120,6 +120,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/emptyCom
 
+### Day 19: January 21st, 2017
+
+**Today's Progress**: Made a branch on my emptyCom project with the incomplete template from the tutorial I have been doing.  I started making it more personal.
+
+**Thoughts**: I don't understand what constitutes a commit...  
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
+
 
 
 
