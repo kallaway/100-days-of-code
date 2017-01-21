@@ -1,4 +1,9 @@
 # 100 Days Of Code - Log
+--------
+
+## Day 17: January 20, 2017
+#### Today's progress:
+Played around with webpack dev middleware. 
 
 --------
 
