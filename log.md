@@ -533,3 +533,15 @@ Going to look at some form of logging for the #100DaysOfCode Twitter bot so user
 **Up Next**:
 
 **Link(s) to work**:
+
+---
+
+### Day 023: 2017-01-22
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
