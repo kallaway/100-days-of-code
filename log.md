@@ -112,6 +112,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/iNTERESTS
 
+### Day 17 & 18: January 19th & 20th, 2017
+
+**Today's Progress**: Haven't done actual coding but I've been on the PHP tutorials like crazy and I've been practicing what I'm learning and applying it to places where it's needed.
+
+**Thoughts**: I still have a healthy drive to get things done and having a few projects that needs the similar code is giving me more insight on how to make a blog a=from different angles of approach.  
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
+
 
 
 
