@@ -575,13 +575,17 @@ WTF??
 
 I want to be able to read the data that's in the db, I'm guessing I'm missing something really simple.
 
-
+PM: Did some [Intermediate Algorithm Scripting](https://github.com/spences10/FreeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
 
 **Thoughts**:
+
+Really struggling with [level](https://github.com/Level/level), something deemed really simple... don't know what I'm missing
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[Intermediate Algorithm Scripting](https://github.com/spences10/FreeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
 
 ---
 
