@@ -192,3 +192,14 @@
 **Thoughts**: Speaking of Twitter, this whole exercise has totally upped my Twitter game and I am highly enjoying it. Great tool for professional networking and information.
 
 **Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
+
+
+###Day 24: Jan. 21, 2017
+**Day Off**
+
+###Day 25: Jan. 22, 2017
+**Today's Progress**: 2+ hours at Free Code Camp Meetup. Shared my Random Quote Machine and got feedback/ideas for how to get unstuck on functionality.
+
+**Thoughts**: Met more coding friends which is always a plus. :)
+
+**Link to work**: This is the helpful Stack Overlow article Ash found that might fix my problems! http://stackoverflow.com/questions/10486354/dynamically-change-tweet-button-data-text-contents
