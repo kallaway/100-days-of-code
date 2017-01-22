@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 21, 2017
+
+**Today's Progress**: Today I worked study more one time the leaflet.js to implement a problem. I learn how to set a marker, a polygon and a circle in the map, and all these things are keep in one variable, it's awesome the power of javascript.
+
+**Thoughts:** I thought don't get into this day, but  I did my progress, a small, but it was ok!
+
+**Link to work:** 
+
 ### Day 15: January 20, 2017
 
 **Today's Progress**: Today I worked in the the style of the app.
