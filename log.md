@@ -594,7 +594,11 @@ Really struggling with [level](https://github.com/Level/level), something deemed
 
 **Today's Progress**:
 
+AM: LevelDB education continues, adjusted a commit for a PR to the 100DaysOfCode Twitter bot, learned more about using 
+
 **Thoughts**:
+
+WTF LevelDB!
 
 **Up Next**:
 
