@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 --------
 
+## Day 18: January 21, 2017
+#### Today's progress:
+Upgraded my 32 bit ubuntu to 64 bit. Pair programm with @eddyw in c9.io and 
+played with computer vision api. [here](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api)
+
+--------
+
 ## Day 17: January 20, 2017
 #### Today's progress:
 Played around with webpack dev middleware. 
