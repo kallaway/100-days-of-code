@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 21, 2017
+
+**Today's Progress:** Completed the FCC Timestamp Microservice.
+
+**Thoughts:** This is a pretty straight forward project once you understand the basics of express and moments.
+
+**Tutorials:** Complete Node.js Developer Course.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Timestamp Microservice on Heroku](https://pacific-dusk-69279.herokuapp.com/)
+
 ### Day 17: January 20, 2017
 
 **Today's Progress:** Worked on the Free Code Camp Timestamp Microservice project again. I have the route for the api working and added javascript to dynamically change the url on the index.html.
