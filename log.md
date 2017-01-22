@@ -110,3 +110,31 @@ https://egghead.io/search?q=rxjs
 
 **Link to work**: https://github.com/SFoskitt/python_extra
 **Link to blog**: http://stephanietech.net/2017/01/19/day-9-100-days-of-code/
+
+
+### Day 10: Thursday, January 19, 2017
+
+**Today's Progress**: Finally finished Exercise 22 of "Learn Python the Hard Way".
+
+**Thoughts**: Relief!
+
+**Link to work**: https://github.com/SFoskitt/Learn-Python-the-Hard-Way/blob/master/Exercise22.md
+
+**Link to blog**: http://stephanietech.net/2017/01/19/day-10-100-days-of-code/
+
+
+### Day xx: Friday, January 20, 2017
+
+** Today's progress**: None at all.  See the blog.
+
+** Link to blog**:  http://stephanietech.net/2017/01/21/day-xx-100-days-of-code/
+
+
+### Day 11: Saturday, January 21, 2017
+
+**Today's Progress**: Python problems today on [HackerRank.com](https://www.hackerrank.com/dashboard).
+
+**Thoughts**: There's absolutely no substitute for coding, in the process of learning to code.
+
+**Link to work**: https://www.hackerrank.com/dashboard
+**Link to blog**: http://stephanietech.net/2017/01/22/day-11-100-days-of-code/
