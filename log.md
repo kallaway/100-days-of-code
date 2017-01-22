@@ -226,3 +226,17 @@ Other:
 **Thoughts:** Search and Destroy destroyed me at first, but I finally figured out how to use filter appropriately.  Maybe that was the point.  
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 20: January 22, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed Basic Algorithm Scripting section
+Hack Reactor Prep: Completed exercises in Module 1 exercises
+AWS Certified Developer Associate:
+aNewDev.io: Definitions and tools updates
+Personal Website:
+Other:
+
+**Thoughts:** 20% done! Coding everyday has been very useful to keeping me learning and developing my skills.
+
+**Link to work:** [aNewDev.io](https://anewdev.io) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
