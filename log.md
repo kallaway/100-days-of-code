@@ -144,3 +144,11 @@
 **Thoughts:** I got very deep into creating my profile project page while watching the Fellowship of the Ring this evening. It was about the shittiest day I could imagine so I was escaping into a cave of code. Or something like that. Anyways, I figured out how to build a navigation bar using Bootstrap. And I blocked out some other elements in the page. Tomorrow I want to figure out how to make background images, and maybe some thumbnails for projects.
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+### Day 16(+2): January 20, 2017
+
+**Today's Progress**: Continued work on Portfolio Page
+
+**Thoughts:** Exhausted but still coding! Women's march today plus a concert, but still wanted to find some time to code today. I did a few hours yesterday, so I kinda shorted myself today. But my brain is pretty taxed. So it's bedtime.
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
