@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 21, 2017
+
+** Today's Progress **
+Started the FCC Tribute page.
+
+**Thoughts**
+Homework: reading up on Java and an end of chapter quiz. Lots of googling and searching through the Bootstap website to put the tribute page together. 
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/823032354633551873)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/21/100-days-of-code-challenge-day-21/)
+- [CodePen] (http://codepen.io/techmom/pen/zNwOzL)
+
 ### Day 20: January 20, 2017
 
 ** Today's Progress**
