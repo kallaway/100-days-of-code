@@ -33,7 +33,7 @@
 
 ### Day 000: 2016-12-30
 
-**Today's Progress**: I went through the FreeCodeCamp(:fire:) jQuery exercises again then started the 'Show the Local Weather' FreeCodeCamp(:fire:)  challenge.
+**Today's Progress**: I went through the freeCodeCamp(:fire:) jQuery exercises again then started the 'Show the Local Weather' freeCodeCamp(:fire:)  challenge.
 
 So far I have HTML file with a couple of div's and JavaScript file that fetches the [openweathermap](https://openweathermap.org/current#geo) data with ~~hard coded lat and long values~~
 
@@ -45,7 +45,7 @@ I used [ip-api.com](http://ip-api.com/json) to get my geo data which I have stru
 
 **Link(s) to work**:
 
-[My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Show%20the%20Local%20Weather)
+[My freeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/freeCodeCamp/tree/master/Show%20the%20Local%20Weather)
 
 [The CodePen pen](http://codepen.io/spences10/pen/WoVRNq)
 
@@ -65,7 +65,7 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 **Link(s) to work**:
 
-[My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Show%20the%20Local%20Weather)
+[My freeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/freeCodeCamp/tree/master/Show%20the%20Local%20Weather)
 
 [The CodePen pen](http://codepen.io/spences10/full/WoVRNq/)
 
@@ -73,7 +73,7 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 ### Day 002: 2017-01-01
 
-**Today's Progress**: Set up repo for the FreeCodeCamp(:fire:) Zipline 'Build a Wikipedia Viewer', added HTML, CSS and JS files to the repo, added a search box and a random article button.
+**Today's Progress**: Set up repo for the freeCodeCamp(:fire:) Zipline 'Build a Wikipedia Viewer', added HTML, CSS and JS files to the repo, added a search box and a random article button.
 
 **Thoughts**: @wesbos has a type ahead example I went through with the #JavaScript30 tutorials which may come in handy, or just use a jQuery/Ajax example
 
@@ -81,13 +81,13 @@ Added a [random image function](https://gist.github.com/spences10/d48af132d0fc3f
 
 **Link(s) to work**:
 
-[My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Wikipedia%20Viewer)
+[My freeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/freeCodeCamp/tree/master/Wikipedia%20Viewer)
 
 ---
 
 ### Day 003: 2017-01-02
 
-**Today's Progress**: FreeCodeCamp(:fire:) Wikipedia Viewer: Added a getJSON function to the js file, can console log the data but it's only one result at a time
+**Today's Progress**: freeCodeCamp(:fire:) Wikipedia Viewer: Added a getJSON function to the js file, can console log the data but it's only one result at a time
 
 Twitter bot: Had a look at making a twitter bot with [twitter-bot-bootstrap](https://github.com/mobeets/twitter-bot-bootstrap) was some what interesting playing with Heroku and deploying my app, a broken app!
 
@@ -99,7 +99,7 @@ Git-it: I still use Git as ```git commit``` and ```git push origin master``` and
 
 **Link(s) to work**:
 
-[My FreeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/FreeCodeCamp/tree/master/Wikipedia%20Viewer)
+[My freeCodeCamp(:fire:) repo on GitHub](https://github.com/spences10/freeCodeCamp/tree/master/Wikipedia%20Viewer)
 
 ---
 
@@ -140,7 +140,7 @@ PM: Gawd! I spent some time on the twitter bot today, I have documented it all [
 
 **Thoughts**: Node.js is pretty neat, I'm very close to buying a premium c9 account.
 
-**Up Next**: FreeCodeCamp(;fire:) Wikipedia viewer zipline!! Maybe I'll add my Twitter bot to @amandeepmittal's [awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots) repo first though! :smile:
+**Up Next**: freeCodeCamp(;fire:) Wikipedia viewer zipline!! Maybe I'll add my Twitter bot to @amandeepmittal's [awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots) repo first though! :smile:
 
 **Link(s) to work**:
 
@@ -186,7 +186,7 @@ I also had a look at starting again from scratch with Jekyll as I want some nice
 
 PM: Branched my changes for my #100DaysOfCode repo along with my [spences10-twitter-bot](https://github.com/spences10/spences10-twitter-bot/tree/master), set up another c9 workspace for twitter-bot-playground where I'm going to explore all the features available via [twit](https://www.npmjs.com/package/twit)
 
-**Thoughts**: Putting off that @FreeCodeCamp(:fire:) Wikipedia viewer Zipline, I don't know why :cold_sweat:
+**Thoughts**: Putting off that @freeCodeCamp(:fire:) Wikipedia viewer Zipline, I don't know why :cold_sweat:
 
 **Up Next**: Got a Cloud 9 pro licence, :smile: will have a play with that and experimenting with Node.js and probably automating my twitter bot more
 
@@ -204,7 +204,7 @@ AM: Created twitter-bot-playground repo, found out how to identify my own Twitte
 
 Added some logic to [Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot) so that it stops tweeting itself! Didn't work as I have no clue how to do callbacks :scream:
 
-PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/) to look at some of the issues logged. Attempted to tackle issues [#3](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/3) and [#4](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/4)
+PM: Forked the [freeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/) to look at some of the issues logged. Attempted to tackle issues [#3](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/issues/3) and [#4](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/issues/4)
 
 **Thoughts**: Blearugh!
 
@@ -222,11 +222,11 @@ PM: Forked the [FreeCodeCamp/100DaysOfCode-twitter-bot](https://github.com/FreeC
 
 **Today's Progress**:
 
-AM: Looked at the [100DaysOfCode-twitter-bot issues/](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/) and decided to take a look at [#7](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/issues/7) as bot the issues I was looking at yesterday were merged.
+AM: Looked at the [100DaysOfCode-twitter-bot issues/](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/issues/) and decided to take a look at [#7](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/issues/7) as bot the issues I was looking at yesterday were merged.
 
 I created a [GitHub cheat sheet](https://gist.github.com/spences10/5c492e197e95158809a83650ff97fc3a) Gist for my most commonly used git commands.
 
-Created a PR :octocat: for the [FreeCodeCamp(:fire:) 100DaysOfCode-twitter-bot](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/pull/16)
+Created a PR :octocat: for the [freeCodeCamp(:fire:) 100DaysOfCode-twitter-bot](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/16)
 
 PM: Attempted fix on [Twitter-McTwitbot](https://github.com/spences10/spences10-twitter-bot) self tweeting which I resolved by hard coding my user name into the tweet function :worried: [PR here](https://github.com/spences10/spences10-twitter-bot/pull/1)
 
@@ -234,13 +234,13 @@ PM: Attempted fix on [Twitter-McTwitbot](https://github.com/spences10/spences10-
 
 **Thoughts**:
 
-~~I'm knackered, this challenge is taking up all my spare time and I don't think I have made any progress over the last few days :worried:~~ Jubilant now I have resolved twitter bot issues, hopeful that my PR for [FreeCodeCamp(:fire:) 100DaysOfCode-twitter-bot](https://github.com/FreeCodeCamp/100DaysOfCode-twitter-bot/pull/16) will be merged.
+~~I'm knackered, this challenge is taking up all my spare time and I don't think I have made any progress over the last few days :worried:~~ Jubilant now I have resolved twitter bot issues, hopeful that my PR for [freeCodeCamp(:fire:) 100DaysOfCode-twitter-bot](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/16) will be merged.
 
 **Up Next**:
 
 There is the [twitter-bot-playground](https://github.com/spences10/twitter-bot-playground) I was thinking about playing with more and incorporating some of the great work I have seen going into the 100DoC tweet bot that I'd like to play around with.
 
-Then, I guess I should get back to my FreeCodeCamp(:fire:) work of Wikipedia viewer zipline.
+Then, I guess I should get back to my freeCodeCamp(:fire:) work of Wikipedia viewer zipline.
 
 **Link(s) to work**:
 
@@ -262,7 +262,7 @@ PM: Played with the [#JavaScript30](https://javascript30.com/) files, added file
 
 **Thoughts**:
 
-Really have to take a look at the @FreeCodeCamp(:fire:) Wikipedia zipline !!
+Really have to take a look at the @freeCodeCamp(:fire:) Wikipedia zipline !!
 
 Not a great deal of work [it feels like] done today!
 
@@ -282,7 +282,7 @@ More JavaScript30??
 
 **Today's Progress**:
 
-AM: Tidy my FreeCodeCamp(:fire:) repo, removed/renamed files
+AM: Tidy my freeCodeCamp(:fire:) repo, removed/renamed files
 
 PM: Created another Twitter bot this one themed on #Archer to quote back random archer quotes when matching keywords, I learned how to use the `requre(module-name)` to pass random strings to the bot.
 
@@ -296,7 +296,7 @@ More Twitter-bot!
 
 **Link(s) to work**:
 
-[FreeCodeCamp(:fire:)](https://github.com/spences10/FreeCodeCamp)
+[freeCodeCamp(:fire:)](https://github.com/spences10/freeCodeCamp)
 
 ---
 
@@ -395,7 +395,7 @@ AM: Worked on adding what I have learned on Archer bot into my spences10 twitter
 
 **Thoughts**:
 
-I need to stop dicking around with the Tweet-bot stuff and progress the FreeCodeCamp(:fire:) curriculum, it has been a learning experience in what I don't know about [node, npm, JavaScript...]
+I need to stop dicking around with the Tweet-bot stuff and progress the freeCodeCamp(:fire:) curriculum, it has been a learning experience in what I don't know about [node, npm, JavaScript...]
 
 **Up Next**:
 
@@ -415,7 +415,7 @@ Wikipedia viewer for FCC!!!!!!!
 
 AM: Read some really good node.js documentation the other night and decided to use what I had learned on my twitter bot, changing the file structure and adding Heroku environment variables instead of the config keys for the bot
 
-PM: FreeCodeCamp(:fire:) Wikipedia viewer zipline progress made
+PM: freeCodeCamp(:fire:) Wikipedia viewer zipline progress made
 
 **Thoughts**:
 
@@ -431,7 +431,7 @@ Use the Twitchtv JSON API?? Maybe something in node.js, the Archer bot is still 
 
 [Twitter-McTwitbot](https://github.com/spences10/archer-twitter-bot/tree/dev)
 
-[Wikipedia viewer on GitHub :octocat:](https://github.com/spences10/FreeCodeCamp/tree/master/Wikipedia%20Viewer)
+[Wikipedia viewer on GitHub :octocat:](https://github.com/spences10/freeCodeCamp/tree/master/Wikipedia%20Viewer)
 
 [Wikipedia viewer on CodePen](http://codepen.io/spences10/full/GrjbXe/)
 
@@ -441,7 +441,7 @@ Use the Twitchtv JSON API?? Maybe something in node.js, the Archer bot is still 
 
 **Today's Progress**:
 
-AM: Added README for my FreeCodeCamp(:fire:) repo
+AM: Added README for my freeCodeCamp(:fire:) repo
 
 PM: Created twitter-bot-bootstrap for use with Node.js and `twit`
 
@@ -456,7 +456,7 @@ For the bootstrap I'll need to detail the following on the README.md:
 
 **Link(s) to work**:
 
-[spences10 FreeCodeCamp(:fire:) on GitHub :octocat:](https://github.com/spences10/FreeCodeCamp)
+[spences10 freeCodeCamp(:fire:) on GitHub :octocat:](https://github.com/spences10/freeCodeCamp)
 
 [twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
 
@@ -476,7 +476,7 @@ Think I'm done with Twitter bots! :confused:
 
 **Up Next**:
 
-The FreeCodeCamp(:fire:) Intermediate Algorithm Scripting or Use the Twitch.tv JSON API
+The freeCodeCamp(:fire:) Intermediate Algorithm Scripting or Use the Twitch.tv JSON API
 
 **Link(s) to work**:
 
@@ -490,7 +490,7 @@ The FreeCodeCamp(:fire:) Intermediate Algorithm Scripting or Use the Twitch.tv J
 
 **Today's Progress**:
 
-AM: Added some more detail to the README on my Twitter bot bootstrap, did one of the Intermediate Algorithm Scripting FreeCodeCamp(:fire:) challenges
+AM: Added some more detail to the README on my Twitter bot bootstrap, did one of the Intermediate Algorithm Scripting freeCodeCamp(:fire:) challenges
 
 PM: Moar detail to the Twitter bot bootstrap README and some detail for a blog post.
 
@@ -576,7 +576,7 @@ WTF??
 
 I want to be able to read the data that's in the db, I'm guessing I'm missing something really simple.
 
-PM: Did some [Intermediate Algorithm Scripting](https://github.com/spences10/FreeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
+PM: Did some [Intermediate Algorithm Scripting](https://github.com/spences10/freeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
 
 **Thoughts**:
 
@@ -586,7 +586,7 @@ Really struggling with [level](https://github.com/Level/level), something deemed
 
 **Link(s) to work**:
 
-[Intermediate Algorithm Scripting](https://github.com/spences10/FreeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
+[Intermediate Algorithm Scripting](https://github.com/spences10/freeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
 
 ---
 
@@ -594,15 +594,21 @@ Really struggling with [level](https://github.com/Level/level), something deemed
 
 **Today's Progress**:
 
-AM: LevelDB education continues, adjusted a commit for a PR to the 100DaysOfCode Twitter bot, learned more about using 
+AM: LevelDB education continues, adjusted a commit for a PR to the 100DaysOfCode Twitter bot, learned more about using node.js
+
+PM: Testing LevelDB, the thing which is causing problems? `if (typeof(value) !== 'undefined')` either the user is there or not so return a string value or `undefined` 
+
+PR Submitted for 100DaysOfCode twitter bot
 
 **Thoughts**:
 
-WTF LevelDB!
+WTF LevelDB! Not really, well, ok wtf Scott!!
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[100DoC Twitter bot PR](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/30)
 
 ---
 
