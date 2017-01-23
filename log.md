@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 22, 2017
+
+**Today's Progress**: I implemented the solution using the leaflet.js. In this application I have static coordenates that are equivalent to the stations, and I need to simulate dynamic positions from the objects received by JSON or sent by the back end. So, I created an object, and I'm iterating in this object to show the objects on the map, but the problem is the iteration in the event. Each iteration is not displayed by parts, instead the loop run and show everything after that.
+
+**Thoughts:** I need to come back to the basic and think more about these loop or event.
+
+**Link to work:**
+
 ### Day 16: January 21, 2017
 
 **Today's Progress**: Today I worked study more one time the leaflet.js to implement a problem. I learn how to set a marker, a polygon and a circle in the map, and all these things are keep in one variable, it's awesome the power of javascript.
 
 **Thoughts:** I thought don't get into this day, but  I did my progress, a small, but it was ok!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 15: January 20, 2017
 
