@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 22, 2017
+
+**Today's Progress:** Added some bootstrap to the FCC Random Quote Generator.
+
+**Thoughts:** Got the quote generator looking close to what I need. I will begin adding javascript tomorrow.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour 20 minutes.
+
+**Link(s) to work:** [Free Code Camp Random Quote Generator](https://larrytooley.github.io/random-quote-machine/)
+
 ### Day 18: January 21, 2017
 
 **Today's Progress:** Completed the FCC Timestamp Microservice.
