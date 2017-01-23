@@ -28,6 +28,7 @@
         - [Day 022: 2017-01-21](#day-022-2017-01-21)
         - [Day 023: 2017-01-22](#day-023-2017-01-22)
         - [Day 024: 2017-01-23](#day-024-2017-01-23)
+        - [Day 025: 2017-01-24](#day-025-2017-01-24)
 
 <!-- /TOC -->
 
@@ -613,6 +614,18 @@ WTF LevelDB! Not really, well, ok wtf Scott!!
 ---
 
 ### Day 024: 2017-01-23
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 025: 2017-01-24
 
 **Today's Progress**:
 
