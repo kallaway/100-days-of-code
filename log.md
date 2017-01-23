@@ -107,7 +107,7 @@ planning on writing sum up doc about it all.
 
 **Thoughts**: need to review rails routes, models, config, etc. 
 
-**Link to work**: github
+**Link to work**: [myIRlog](www.github.com/saoun/myIRlog)
 
 <!-- ### Day 0 : January 13, 2016
 
