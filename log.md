@@ -36,6 +36,79 @@ thought of a solution and actually worked it out. Very happy to have done it
 **Link to work**:  repo [here](https://github.com/saoun/TRPtweets)
 
 
+### Day 0 : January 14, 2016
+
+**Today's Progress**: more d3
+
+**Thoughts**: see bottom
+
+**Link to work**:
+
+### Day 0 : January 15, 2016
+
+**Today's Progress**: more d3
+
+**Thoughts**: see bottom
+
+**Link to work**:
+
+### Day 0 : January 16, 2016
+
+**Today's Progress**: more d3
+
+**Thoughts**: see bottom
+
+**Link to work**:
+
+### Day 0 : January 17, 2016
+
+**Today's Progress**: more d3
+
+**Thoughts**: see bottom
+
+**Link to work**:
+
+### Day 0 : January 18, 2016
+
+**Today's Progress**: more d3
+
+**Thoughts**: see bottom
+
+**Link to work**:
+
+### Day 0 : January 19, 2016
+
+**Today's Progress**: more d3
+ 
+**Thoughts**: see bottom
+
+**Link to work**:
+
+### Day 0 : January 20, 2016
+
+**Today's Progress**: more d3
+
+**Thoughts**: see bottom
+
+**Link to work**:
+
+### Day 0 : January 21, 2016
+
+**Today's Progress**: more d3
+
+**Thoughts**: super satisfying project. it's been frustrating at times, but learned a lot.
+planning on writing sum up doc about it all. 
+
+**Link to work**: [TRPtweets](www.github.com/saoun/TRPtweets)
+
+### Day 0 : January 22, 2016
+
+**Today's Progress**: started a rails app for myIRLlog
+
+**Thoughts**: need to review rails routes, models, config, etc. 
+
+**Link to work**: github
+
 <!-- ### Day 0 : January 13, 2016
 
 **Today's Progress**:
