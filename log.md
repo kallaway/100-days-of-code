@@ -36,7 +36,7 @@ thought of a solution and actually worked it out. Very happy to have done it
 **Link to work**:  repo [here](https://github.com/saoun/TRPtweets)
 
 
-### Day 0 : January 14, 2016
+### Day 4 : January 14, 2016
 
 **Today's Progress**: more d3
 
@@ -44,7 +44,7 @@ thought of a solution and actually worked it out. Very happy to have done it
 
 **Link to work**:
 
-### Day 0 : January 15, 2016
+### Day 5 : January 15, 2016
 
 **Today's Progress**: more d3
 
@@ -52,7 +52,7 @@ thought of a solution and actually worked it out. Very happy to have done it
 
 **Link to work**:
 
-### Day 0 : January 16, 2016
+### Day 6 : January 16, 2016
 
 **Today's Progress**: more d3
 
@@ -60,7 +60,7 @@ thought of a solution and actually worked it out. Very happy to have done it
 
 **Link to work**:
 
-### Day 0 : January 17, 2016
+### Day 7 : January 17, 2016
 
 **Today's Progress**: more d3
 
@@ -68,7 +68,7 @@ thought of a solution and actually worked it out. Very happy to have done it
 
 **Link to work**:
 
-### Day 0 : January 18, 2016
+### Day 8 : January 18, 2016
 
 **Today's Progress**: more d3
 
@@ -76,7 +76,7 @@ thought of a solution and actually worked it out. Very happy to have done it
 
 **Link to work**:
 
-### Day 0 : January 19, 2016
+### Day 9 : January 19, 2016
 
 **Today's Progress**: more d3
  
@@ -84,7 +84,7 @@ thought of a solution and actually worked it out. Very happy to have done it
 
 **Link to work**:
 
-### Day 0 : January 20, 2016
+### Day 10 : January 20, 2016
 
 **Today's Progress**: more d3
 
@@ -92,7 +92,7 @@ thought of a solution and actually worked it out. Very happy to have done it
 
 **Link to work**:
 
-### Day 0 : January 21, 2016
+### Day 11 : January 21, 2016
 
 **Today's Progress**: more d3
 
@@ -101,7 +101,7 @@ planning on writing sum up doc about it all.
 
 **Link to work**: [TRPtweets](www.github.com/saoun/TRPtweets)
 
-### Day 0 : January 22, 2016
+### Day 12 : January 22, 2016
 
 **Today's Progress**: started a rails app for myIRLlog
 
