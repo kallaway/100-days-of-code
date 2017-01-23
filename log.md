@@ -617,11 +617,25 @@ WTF LevelDB! Not really, well, ok wtf Scott!!
 
 **Today's Progress**:
 
+AM: Followed along on the Node.js courses [here](https://www.youtube.com/watch?v=ioxgbkxIGwE&index=4&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR) with [Maximilian](https://twitter.com/maxedapps) 
+
+Set up a local page 'Hello World! learned more about `module.exports` good stuff
+
+PM: Started the [freeCodeCamp(:fire:) beta site](http://beta.freecodecamp.com/en/spences10)
+
 **Thoughts**:
+
+Learning so much about node :+1:
 
 **Up Next**:
 
+More node.js videos
+
 **Link(s) to work**:
+
+I'll add the node.js to GitHub soon
+
+[my freeCodeCamp(:fire:) beta site profile](http://beta.freecodecamp.com/en/spences10)
 
 ---
 
