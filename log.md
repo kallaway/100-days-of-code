@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 23, 2017
+
+**Today's Progress:** Added some quotes and created a basic plan for the app logic.
+
+**Thoughts:** I need to read the jQuery docs so I can choose the appropriate functions for the project.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Free Code Camp Random Quote Generator](https://larrytooley.github.io/random-quote-machine/)
+
 ### Day 19: January 22, 2017
 
 **Today's Progress:** Added some bootstrap to the FCC Random Quote Generator.
