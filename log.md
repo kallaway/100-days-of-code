@@ -128,6 +128,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/emptyCom
 
+### Day 20 & 21: January 22nd & 23rd, 2017
+
+**Today's Progress**: started consolidating my interests project because all the pages was making me confused.  so with all those pages gone i turned them all into categories on the database.  i also made the home page a little more dynamic in how it displays the data.
+
+**Thoughts**: im not sure if im using branches correctly but i figured a way to make it work for me  
+
+**Link to work:** https://github.com/MasayaTamegai/interests
+
 
 
 
