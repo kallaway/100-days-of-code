@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 23, 2017
+
+**Today's Progress**: I finish the prototype map app to present for an interview, it's a good solution at the end. Now I'm finishing my wikipedia viewer. I'm making some loops to iterate through the array and set the right information to each col in a row. ;)
+
+**Thoughts:** At the end of the day, I did my job and I'm on tracking.
+
+**Link to work:**
+
 ### Day 17: January 22, 2017
 
 **Today's Progress**: I implemented the solution using the leaflet.js. In this application I have static coordenates that are equivalent to the stations, and I need to simulate dynamic positions from the objects received by JSON or sent by the back end. So, I created an object, and I'm iterating in this object to show the objects on the map, but the problem is the iteration in the event. Each iteration is not displayed by parts, instead the loop run and show everything after that.
