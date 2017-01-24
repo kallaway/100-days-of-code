@@ -644,11 +644,21 @@ I'll add the node.js to GitHub soon
 
 **Today's Progress**:
 
+AM: Gawped at other users GitHub profiles :heart: [KingPixil](https://github.com/KingPixil) :heart:
+
+PM: Followed along with more [node.js basics](https://www.youtube.com/watch?v=tiMLxUKrB-g&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR&index=6)
+
 **Thoughts**:
+
+Tired, so, so tired
 
 **Up Next**:
 
+Going to take a look at my personal site
+
 **Link(s) to work**:
+
+[My GitHub repo](https://github.com/spences10/node-basics)
 
 ---
 
