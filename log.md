@@ -231,7 +231,7 @@ Other:
 
 **Today's Progress**:
 FreeCodeCamp: Completed Basic Algorithm Scripting section
-Hack Reactor Prep: Completed exercises in Module 1 exercises
+Hack Reactor Prep: Completed exercises in Module 1
 AWS Certified Developer Associate:
 aNewDev.io: Definitions and tools updates
 Personal Website:
@@ -240,3 +240,17 @@ Other:
 **Thoughts:** 20% done! Coding everyday has been very useful to keeping me learning and developing my skills.
 
 **Link to work:** [aNewDev.io](https://anewdev.io) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 21: January 23, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Completed exercises in Module 1
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+Other:
+
+**Thoughts:** I seem to make good progress, and then I get stuck on seemingly simple items.  Testing for exceptions should come to me more naturally.
+
+**Link to work:**
