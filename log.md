@@ -203,3 +203,11 @@
 **Thoughts**: Met more coding friends which is always a plus. :)
 
 **Link to work**: This is the helpful Stack Overlow article Ash found that might fix my problems! http://stackoverflow.com/questions/10486354/dynamically-change-tweet-button-data-text-contents
+
+
+###Day 26: Jan. 23, 2017
+**Today's Progress**: I think I'm going to abandon the widget idea and go back to hyperlink for TWEETING THE STINKIN' QUOTE.
+
+**Thoughts**: Worked at Starbucks on my lunch break. More reading and asking for help this evening. Sigh. Still doesn't work right.
+
+**Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq?editors=1010#0
