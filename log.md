@@ -145,10 +145,18 @@
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
 
-### Day 16(+2): January 20, 2017
+### Day 17(+2): January 21, 2017
 
 **Today's Progress**: Continued work on Portfolio Page
 
 **Thoughts:** Exhausted but still coding! Women's march today plus a concert, but still wanted to find some time to code today. I did a few hours yesterday, so I kinda shorted myself today. But my brain is pretty taxed. So it's bedtime.
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+### Day 18(+3): January 23, 2017
+
+**Today's Progress**: Continued work on Portfolio Page
+
+**Thoughts:** POOP I missed a day, but I did a lot of cool projects on the side, like reading and editing video and audio for one of my music ensembles. And I got a workout in too. Today I taught myself how to put a background image in my website, and then I treated the text with a shadow so that it would be readable.
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
