@@ -30,6 +30,7 @@
         - [Day 024: 2017-01-23](#day-024-2017-01-23)
         - [Day 025: 2017-01-24](#day-025-2017-01-24)
         - [Day 026: 2017-01-25](#day-026-2017-01-25)
+        - [Day 027: 2017-01-26](#day-027-2017-01-26)
 
 <!-- /TOC -->
 
@@ -663,6 +664,18 @@ Going to take a look at my personal site
 ---
 
 ### Day 026: 2017-01-25
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 027: 2017-01-26
 
 **Today's Progress**:
 
