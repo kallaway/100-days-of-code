@@ -152,9 +152,20 @@ https://egghead.io/search?q=rxjs
 
 ### Day 13: Monday, January 23, 2017
 
-**Today's Progress**: More of these lovely problems from [HackerRank.com](https://www.hackerrank.com/dashboard).
+**Today's Progress**: More of the Python exercises from 46 Simple Python Exercises (see above).
 
 **Thoughts**:  These exercises are starting to get hard and I'm really enjoying it!
 
 **Link to work**: https://github.com/SFoskitt/python_extra
 **Link to blog**:  http://stephanietech.net/2017/01/23/day-13-100-days-of-code/
+
+
+
+### Day 14: Tuesday, January 24, 2017
+
+**Today's Progress**: More of these lovely problems from [48 Simple Python Exercises](http://www.ling.gu.se/~lager/python_exercises.html).
+
+**Thoughts**:  These exercises harder and engaging.
+
+**Link to work**: https://github.com/SFoskitt/python_extra
+**Link to blog**:  http://stephanietech.net/2017/01/24/day-14-100-days-of-code/
