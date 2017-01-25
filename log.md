@@ -211,3 +211,11 @@
 **Thoughts**: Worked at Starbucks on my lunch break. More reading and asking for help this evening. Sigh. Still doesn't work right.
 
 **Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq?editors=1010#0
+
+
+###Day 27: Jan. 24, 2017
+**Today's Progress**: Hooray! Went to another Meetup through Girl Develop It and got feedback on RQM. I was so close to it populating the quote into the tweet field and two very nice developer mentors helped me get it working finally!
+
+**Thoughts**: Grateful for helpful input. Also it made me feel better that it took lots of people a while to figure out why it wasn't working - so it wasn't just me. JavaScript is challenging for many people.
+
+**Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
