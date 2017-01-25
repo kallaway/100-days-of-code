@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 24, 2017
+
+**Today's Progress:** Got the quote text updating when the shuffle button is pressed.
+
+**Thoughts:** Little by little this thing is coming together. I may finish this project tomorrow.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Free Code Camp Random Quote Generator](https://larrytooley.github.io/random-quote-machine/)
+
 ### Day 20: January 23, 2017
 
 **Today's Progress:** Added some quotes and created a basic plan for the app logic.
