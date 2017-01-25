@@ -667,6 +667,8 @@ Going to take a look at my personal site
 
 **Today's Progress**:
 
+AM: Looking into a bug on the #100DaysOfCode twitter bot
+
 **Thoughts**:
 
 **Up Next**:
