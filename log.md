@@ -246,11 +246,25 @@ Other:
 **Today's Progress**:
 FreeCodeCamp:
 Hack Reactor Prep: Completed exercises in Module 1
-AWS Certified Developer Associate:
+AWS Certified Developer Associate: Completed the IAM module on acloud.guru.
 aNewDev.io:
 Personal Website:
 Other:
 
 **Thoughts:** I seem to make good progress, and then I get stuck on seemingly simple items.  Testing for exceptions should come to me more naturally.
+
+**Link to work:**
+
+### Day 22: January 24, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: 30+ exercises completed in Module 1
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website: fixed some icon issues to bring additional consistency
+Other:
+
+**Thoughts:** The repetition of the exercises are really reinforcing my speed and ability to do js
 
 **Link to work:**
