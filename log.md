@@ -2,6 +2,13 @@
 
 --------
 
+## Day 20: January 24, 2017
+#### Today's progress:
+Learned React Router. 
+[Link](github.com/reactjs/react-router-tutorial)
+
+--------
+
 ## Day 19: January 23, 2017
 #### Today's progress:
 Setting up full stack project file structure based on [boilerplate](https://github.com/eddyw/mern-workflow)
