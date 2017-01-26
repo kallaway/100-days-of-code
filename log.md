@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 25, 2017
+
+**Today's Progress:** Found the answer to a tweet problem I was having on Free Code Camp. Almost have complete functionality. Also created a C64 image of Linus for the page.
+
+**Thoughts:** Sometime the simpler solution is the better solution. The Twitter implementation for the tweet button was to complicated to complicated to easily update.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Free Code Camp Random Quote Generator](https://larrytooley.github.io/random-quote-machine/)
+
 ### Day 21: January 24, 2017
 
 **Today's Progress:** Got the quote text updating when the shuffle button is pressed.
