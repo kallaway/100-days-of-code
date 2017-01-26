@@ -268,3 +268,16 @@ Other:
 **Thoughts:** The repetition of the exercises are really reinforcing my speed and ability to do js
 
 **Link to work:**
+
+### Day 23: January 25, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Multiple exercises completed in Module 1
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website: 
+
+**Thoughts:** The repetition of the exercises are really reinforcing my speed and ability to do js
+
+**Link to work:**
