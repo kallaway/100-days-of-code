@@ -682,7 +682,7 @@ Going to use `sparkai` on the @DroidScott twitter account
 
 **Link(s) to work**:
 
-https://github.com/spences10/twitter-bot-twit
+[https://github.com/spences10/twitter-bot-twit](https://github.com/spences10/twitter-bot-twit)
 
 ---
 
@@ -690,11 +690,23 @@ https://github.com/spences10/twitter-bot-twit
 
 **Today's Progress**:
 
+AM: Looked at incorporating [`sparkai`](https://www.npmjs.com/package/sparkai) into my @DroidScott twitter account
+
+PM: Made some changes on my Twitter bot repo, implemented WakaTime, got `sparkai` working but needs more added.
+
 **Thoughts**:
+
+Theres a fir bit to `sparkai` and Markov Chains :sweat_smile:
 
 **Up Next**:
 
+`sparkai` into twitter bot
+
 **Link(s) to work**:
+
+[twitter-bot-twit](https://github.com/spences10/twitter-bot-twit)
+
+[@DroidScott](https://twitter.com/droidscott)
 
 ---
 
