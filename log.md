@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 25, 2017
+
+**Today's Progress**: I finish the Wikipedia Viewer from freeCodeCamp, and learn how to use animate.cs and working more with the for loop logic. So I'm happy with my progress and with the UI of the application.
+
+**Thoughts:** I thought today I won't finish my Wikipedia Viewer today, but I did it. Now I was seeing my progress on FCC, and I'm close to finish my front end path. Oh, I lost a day in my challenge, so I'll add more one day at the end. It's the rules.
+
+**Link to work:** http://codepen.io/kelvinmaues/full/BpdjrO/
+
 ### Day 18: January 23, 2017
 
 **Today's Progress**: I finish the prototype map app to present for an interview, it's a good solution at the end. Now I'm finishing my wikipedia viewer. I'm making some loops to iterate through the array and set the right information to each col in a row. ;)
 
-**Thoughts:** At the end of the day, I did my job and I'm on tracking.
+**Thoughts:** At the end of the day, I did my job and I'm on tracking
 
 **Link to work:**
 
