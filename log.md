@@ -31,6 +31,7 @@
         - [Day 025: 2017-01-24](#day-025-2017-01-24)
         - [Day 026: 2017-01-25](#day-026-2017-01-25)
         - [Day 027: 2017-01-26](#day-027-2017-01-26)
+        - [Day 028: 2017-01-27](#day-028-2017-01-27)
 
 <!-- /TOC -->
 
@@ -686,6 +687,18 @@ https://github.com/spences10/twitter-bot-twit
 ---
 
 ### Day 027: 2017-01-26
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 028: 2017-01-27
 
 **Today's Progress**:
 
