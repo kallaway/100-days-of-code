@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+--------
+
+## Day 21: January 25, 2017
+#### Today's progress:
+Added Jest testing environment to my project 
+[Link](github.com/reactjs/react-router-tutorial)
 
 --------
 
