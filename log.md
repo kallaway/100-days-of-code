@@ -160,7 +160,6 @@ https://egghead.io/search?q=rxjs
 **Link to blog**:  http://stephanietech.net/2017/01/23/day-13-100-days-of-code/
 
 
-
 ### Day 14: Tuesday, January 24, 2017
 
 **Today's Progress**: More of these lovely problems from [48 Simple Python Exercises](http://www.ling.gu.se/~lager/python_exercises.html).
@@ -169,3 +168,12 @@ https://egghead.io/search?q=rxjs
 
 **Link to work**: https://github.com/SFoskitt/python_extra
 **Link to blog**:  http://stephanietech.net/2017/01/24/day-14-100-days-of-code/
+
+
+### Day 15: Wednesday, January 25, 2017
+
+**Today's Progress**: Playing with JavaScript closures.
+
+**Thoughts**:  Remember when you used to know what this was but currently find it confusing?  Time to brush up.
+
+**Link to blog**:  http://stephanietech.net/2017/01/26/day-15-100-days-of-code/
