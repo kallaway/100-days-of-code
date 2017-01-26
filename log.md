@@ -32,6 +32,7 @@
         - [Day 026: 2017-01-25](#day-026-2017-01-25)
         - [Day 027: 2017-01-26](#day-027-2017-01-26)
         - [Day 028: 2017-01-27](#day-028-2017-01-27)
+        - [Day 029: 2017-01-28](#day-029-2017-01-28)
 
 <!-- /TOC -->
 
@@ -711,6 +712,18 @@ Theres a fir bit to `sparkai` and Markov Chains :sweat_smile:
 ---
 
 ### Day 028: 2017-01-27
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 029: 2017-01-28
 
 **Today's Progress**:
 
