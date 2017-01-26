@@ -168,3 +168,11 @@
 **Thoughts:** Wow after a bit of frustration I realized i needed to add the jQuery library to my project in order to get the responsive nav to work properly. I fixed up the design a bit. I will have to revist my CSS--I'd like to be more consistent with the headers that I'm using. Right now I'm creating a lot of custom classes that could probably be repeated a bit more. Productive day, though! I'm glad I'm able to shut out the world a bit and focus on these projects. I'm having trouble doing that at my actual job. :P
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+### Day 20(+3): January 25, 2017
+
+**Today's Progress**: Continued work on Portfolio Page
+
+**Thoughts:** Filled out some more of my portfolio. I am going to have to tackle the form on my contact page tomorrow. 
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
