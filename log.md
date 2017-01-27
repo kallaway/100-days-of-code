@@ -219,3 +219,14 @@
 **Thoughts**: Grateful for helpful input. Also it made me feel better that it took lots of people a while to figure out why it wasn't working - so it wasn't just me. JavaScript is challenging for many people.
 
 **Link to work**: http://codepen.io/Mmgfrog/pen/egOxwq
+
+
+###Day 28: Jan. 25, 2017
+**Day Off**
+
+###Day 29: Jan. 26, 2017
+**Today's Progress**: Submitted RQM on Free Code Camp & got feedback on it. Went back into Coding Dojo's learning platform.
+
+**Thoughts**: Not much accomplished today. Picked up son early and really should remember that if he's home it's hard to get coding done. But that's no excuse. I didn't manage my time very well today.
+
+**Link to work**: http://learn.codingdojo.com/m/7/3728/25130 beginning assignment using Pokemon API for practice.
