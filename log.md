@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 26, 2017
+
+**Today's Progress:** Got tweets working, stuck footer to bottom, and got second cursor flashing.
+
+**Thoughts:** I am in the cleanup and improve phase now. I will probably come back and refactor my JS as I get more experience.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour and 30 minutes as least. The keyboard shortcut for my pomodoro timer is the same as hard reset in chrome. I kept stipping the timer.
+
+**Link(s) to work:** [Free Code Camp Random Quote Generator](https://larrytooley.github.io/random-quote-machine/)
+
 ### Day 22: January 25, 2017
 
 **Today's Progress:** Found the answer to a tweet problem I was having on Free Code Camp. Almost have complete functionality. Also created a C64 image of Linus for the page.
