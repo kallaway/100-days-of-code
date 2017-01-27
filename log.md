@@ -276,8 +276,21 @@ FreeCodeCamp:
 Hack Reactor Prep: Multiple exercises completed in Module 1
 AWS Certified Developer Associate:
 aNewDev.io:
-Personal Website: 
+Personal Website:
 
 **Thoughts:** The repetition of the exercises are really reinforcing my speed and ability to do js
 
 **Link to work:**
+
+### Day 24: January 26, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed 'JSON APIs and AJAX' section
+Hack Reactor Prep: Finished all 145 exercises of Module 1!!!!!!
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Getting past the basic stuff, and the work starts getting harder.  Game on!
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
