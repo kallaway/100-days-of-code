@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 --------
 
+## Day 22: January 26, 2017
+#### Today's progress:
+Integrated graphQL to my project. 
+--------
+
 ## Day 21: January 25, 2017
 #### Today's progress:
 Added Jest testing environment to my project 
