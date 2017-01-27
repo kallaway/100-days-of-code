@@ -176,3 +176,11 @@
 **Thoughts:** Filled out some more of my portfolio. I am going to have to tackle the form on my contact page tomorrow. 
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+### Day 21(+3): January 26, 2017
+
+**Today's Progress**: Built form on Portfolio Page
+
+**Thoughts:** Built a form for my portfolio page. Still not entirely sure how it works in practice, but the code is there. I'm still having issues with the bootstrap grid. I think I need to experiment more with the screen settings. Maybe there's a good tutorial video out there that i can watch. I am really close to finishing this though! I think all the elements are there, I just need to clean everything up.
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
