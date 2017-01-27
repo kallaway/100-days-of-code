@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 26, 2017
+
+**Today's Progress**: Today I decided to get started my project called De Bus, so I'm planning on the paper and how to start a open source project, so I'm searching about it. Also, I started to study React to make the application to solve a social problem, and I learned about const, let,a little bit about components and elements, so I have an overview. Let's go! First, I need to define the technology stack like database, libraries, frameworks, application, design, etc, etc. And, at the same time I'll keep my journey of FCC building the next project, Twitch TV.
+
+**Thoughts:** I'm tired but I keept study and focused!
+
+**Link to work:**
+
 ### Day 19: January 25, 2017
 
 **Today's Progress**: I finish the Wikipedia Viewer from freeCodeCamp, and learn how to use animate.cs and working more with the for loop logic. So I'm happy with my progress and with the UI of the application.
