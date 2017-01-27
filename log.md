@@ -109,6 +109,38 @@ planning on writing sum up doc about it all.
 
 **Link to work**: [myIRlog](www.github.com/saoun/myIRlog)
 
+### Day 13 : January 23, 2016
+
+**Today's Progress**: more d3
+
+**Thoughts**:
+
+**Link to work**:
+
+### Day 14 : January 24, 2016
+
+**Today's Progress**: more d3
+
+**Thoughts**:
+
+**Link to work**:
+
+### Day 15 : January 25, 2016
+
+**Today's Progress**: more d3
+
+**Thoughts**:
+
+**Link to work**:
+
+### Day 16 : January 26, 2016
+
+**Today's Progress**: just some readings on js
+
+**Thoughts**: too tired from life
+
+**Link to work**:
+
 <!-- ### Day 0 : January 13, 2016
 
 **Today's Progress**:
