@@ -294,3 +294,16 @@ Personal Website:
 **Thoughts:** Getting past the basic stuff, and the work starts getting harder.  Game on!
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 25: January 27, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Worked on random quote generator in intermediate front end dev projects
+Hack Reactor Prep:
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Everyday leads to having a larger revelation of what I don't know.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev) | [Random Quote Generator on Codepen](https://codepen.io/anewdev/pen/rjYOBy)
