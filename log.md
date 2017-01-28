@@ -230,3 +230,11 @@
 **Thoughts**: Not much accomplished today. Picked up son early and really should remember that if he's home it's hard to get coding done. But that's no excuse. I didn't manage my time very well today.
 
 **Link to work**: http://learn.codingdojo.com/m/7/3728/25130 beginning assignment using Pokemon API for practice.
+
+
+##Day 30: Jan. 27, 2017
+**Today's Progress**: Began writing code for Pokemon 1-156 images using PokeAPI assignment.
+
+**Thoughts**:Some days are more challenging than others to carve out an hour to do this. PLus it takes self-discipline.
+
+**Link to Work**: Have started a pokemonAPI.html file.
