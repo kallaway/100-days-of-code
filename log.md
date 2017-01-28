@@ -715,11 +715,19 @@ Theres a fir bit to `sparkai` and Markov Chains :sweat_smile:
 
 **Today's Progress**:
 
+AM: Worked on getting `sparkai` incorporated into twitter bot
+
+PM: Completed post on making your own Twitter bot
+
 **Thoughts**:
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[100DaysOfCode-twitter-bot/pull/36](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/36)
+
+[twitter-bot-twit](https://github.com/spences10/twitter-bot-twit)
 
 ---
 
