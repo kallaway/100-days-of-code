@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 27, 2017
+
+**Today's Progress:** Started Free Code Camp Weather App. I have an API key, an icon set and a rough draft of the UI.
+
+**Thoughts:** This is going remarkably fast so far. I might actually be getter better at this.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour and 15 minutes.
+
+**Link(s) to work:** [Free Code Camp Weather App](https://larrytooley.github.io/fcc-weather-app/)
+
 ### Day 23: January 26, 2017
 
 **Today's Progress:** Got tweets working, stuck footer to bottom, and got second cursor flashing.
