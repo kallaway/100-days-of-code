@@ -33,6 +33,7 @@
         - [Day 027: 2017-01-26](#day-027-2017-01-26)
         - [Day 028: 2017-01-27](#day-028-2017-01-27)
         - [Day 029: 2017-01-28](#day-029-2017-01-28)
+        - [Day 030: 2017-01-29](#day-030-2017-01-29)
 
 <!-- /TOC -->
 
@@ -732,6 +733,18 @@ PM: Completed post on making your own Twitter bot
 ---
 
 ### Day 029: 2017-01-28
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 030: 2017-01-29
 
 **Today's Progress**:
 
