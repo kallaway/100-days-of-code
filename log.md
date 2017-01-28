@@ -184,3 +184,11 @@
 **Thoughts:** Built a form for my portfolio page. Still not entirely sure how it works in practice, but the code is there. I'm still having issues with the bootstrap grid. I think I need to experiment more with the screen settings. Maybe there's a good tutorial video out there that i can watch. I am really close to finishing this though! I think all the elements are there, I just need to clean everything up.
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+### Day 22(+3): January 27, 2017
+
+**Today's Progress**: Cleaned up Portfolio Page
+
+**Thoughts:** Drunk cleaning! Nuff said.
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
