@@ -1,12 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 27, 2017
+
+**Today's Progress**: More onde day with React, reading and learning the documentation. I've seeing concepts like arrow functions, classes, elements, components, JSX. And, wow! We need to take a break.
+
+**Thoughts:** A small progress for some minutes. But, it's better than anything.
+
 ### Day 20: January 26, 2017
 
 **Today's Progress**: Today I decided to get started my project called De Bus, so I'm planning on the paper and how to start a open source project, so I'm searching about it. Also, I started to study React to make the application to solve a social problem, and I learned about const, let,a little bit about components and elements, so I have an overview. Let's go! First, I need to define the technology stack like database, libraries, frameworks, application, design, etc, etc. And, at the same time I'll keep my journey of FCC building the next project, Twitch TV.
 
 **Thoughts:** I'm tired but I keept study and focused!
 
-**Link to work:**
 
 ### Day 19: January 25, 2017
 
