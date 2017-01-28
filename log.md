@@ -136,6 +136,16 @@
 
 **Link to work:** https://github.com/MasayaTamegai/interests
 
+### Day 26: January 28th, 2017
+
+**Today's Progress**: WHOA! Didn;t realize i havent been logging stuff on this... but I have been working like crazy and pulling my hair out like crazy.  I added a bunch of functions that don't work at the moment and I gotta go back in thhere to see what's going on.  I also started on some pages that'll allow me to add, edit and delete categories.  Fixed up the admin nav bar to go to where it needs to go.  
+
+**Thoughts**: i'm getting the hang of php, kinda.  i feel like i need a few more reviews on the php course and take some notes and i should be up to par with it and be able to make a blog almost from memory.
+
+**Link to work:** https://github.com/MasayaTamegai/interests
+
+
+
 
 
 
