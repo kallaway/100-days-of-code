@@ -736,11 +736,21 @@ PM: Completed post on making your own Twitter bot
 
 **Today's Progress**:
 
+AM: More [twitter-bot-playground](https://github.com/spences10/twitter-bot-playground) was just refactoring, published the Twitter bot bootstrap [here](https://spences10.github.io/2017/01/28/twitter-bot-bootstrap.html) and [here](https://medium.com/@spences10/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.nkoek6dsy)
+
 **Thoughts**:
+
+:blue_heart::blue_heart: [WakaTime](https://wakatime.com/@spences10) :blue_heart::blue_heart: it appears that I spend more time doing markdown than anything else :flushed:
 
 **Up Next**:
 
+More changes to the Twitter bot bootstrap, better query strings with sub-queries
+
 **Link(s) to work**:
+
+[easily-set-up-your-own-twitter-bot](https://medium.com/@spences10/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.nkoek6dsy)
+
+[twitter-bot-playground](https://github.com/spences10/twitter-bot-playground)
 
 ---
 
