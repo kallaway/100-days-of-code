@@ -177,3 +177,26 @@ https://egghead.io/search?q=rxjs
 **Thoughts**:  Remember when you used to know what this was but currently find it confusing?  Time to brush up.
 
 **Link to blog**:  http://stephanietech.net/2017/01/26/day-15-100-days-of-code/
+
+
+### Day 16: Friday, January 27, 2017
+
+**Today's Progress**: Remembered the fantastic service Exercism.io and finished the first, second, and third Python exercises.
+
+**Thoughts**: So glad to start playing with unit tests in Python.  And these Exercism exercises dive right into Python classes, which I haven't touched yet.
+
+**Link to work**: Uploaded my work with Exercism to this new repository, both the Python work and previous Javascript work:
+                  https://github.com/SFoskitt/MyExercism/tree/master/python
+
+**Link to blog**: http://stephanietech.net/2017/01/28/day-16-100-days-of-code/
+
+
+### Day 17: Saturday, January 28, 2017
+
+**Today's Progress**: Started adding Pytest unit tests onto the previous "46 Simple Python Exercises" I was working on earlier this week.
+
+**Thoughts**: Struggles with Pytest in conjunction with sys.argv.  More in the blog.
+
+**Link to work**: https://github.com/SFoskitt/python_extra
+
+**Link to blog**: http://stephanietech.net/2017/01/28/day-17-100-days-of-code/
