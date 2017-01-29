@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 28, 2017
+
+**Today's Progress:** Added the day and time to the app. Added a toggle for the temperature units, but it is not hooked up yet. Working on getting the geoloaction and building the API call.
+
+**Thoughts:** This project is more complicated than I expected.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour and 40 minutes.
+
+**Link(s) to work:** [Free Code Camp Weather App](https://larrytooley.github.io/fcc-weather-app/)
+
 ### Day 24: January 27, 2017
 
 **Today's Progress:** Started Free Code Camp Weather App. I have an API key, an icon set and a rough draft of the UI.
