@@ -763,11 +763,28 @@ More changes to the Twitter bot bootstrap, better query strings with sub-queries
 
 **Today's Progress**:
 
+AM: Submitted another [PR](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/40) for the #100DaysOfCode Twitter bot, incorporated some [JS standard](https://github.com/feross/standard) in there too, badge time yo!
+
+If you haven't checked it out please do it's a great resource.
+
+[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/)
+
 **Thoughts**:
+
+I started coding on my MS Surface as I wanted to record WakaTime metrics and the c9 extension doesn't work, nice to have nodejs working from my local machine.
+
+Did a lot of debugging on the #100DoC bot and now want to start looking at getting some sort of system in there to control the project of the day tweets so the same project isn't tweeted again and again.
 
 **Up Next**:
 
+Do some LevelDB enhancements as mentioned in my thoughts section.
+
 **Link(s) to work**:
+
+[#100DoC Twitter bot PR](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/40)
+
+[spences10/100DaysOfCode-twitter-bot](https://github.com/spences10/100DaysOfCode-twitter-bot)
 
 ---
 
