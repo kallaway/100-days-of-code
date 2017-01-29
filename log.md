@@ -770,6 +770,8 @@ If you haven't checked it out please do it's a great resource.
 [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/)
 
+PM: Started playing around with LevelDB again, created project with some example code in there, still early stages.
+
 **Thoughts**:
 
 I started coding on my MS Surface as I wanted to record WakaTime metrics and the c9 extension doesn't work, nice to have nodejs working from my local machine.
