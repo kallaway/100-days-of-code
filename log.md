@@ -192,3 +192,12 @@
 **Thoughts:** Drunk cleaning! Nuff said.
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+
+### Day 23(+3): January 28, 2017
+
+**Today's Progress**: Wrapped up Portfolio Page
+
+**Thoughts:** Did some remedial tidying-up after yesterday's drunk coding session. I think I'm satisfied with where the portfolio page is at, so I posted it to Facebook and am going to move on to Javascript tutorials tomorrow. I'm also happy that I'm getting a nice streak going on my Github log. 
+
+**Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
