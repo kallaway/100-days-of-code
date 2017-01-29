@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 28, 2017
+
+**Today's Progress**: Today I designed by Twitch App, and now I'm working in this app, and I watched two videos of React.
+
+**Thoughts:** Without thoughts today!.
+
 ### Day 21: January 27, 2017
 
 **Today's Progress**: More onde day with React, reading and learning the documentation. I've seeing concepts like arrow functions, classes, elements, components, JSX. And, wow! We need to take a break.
