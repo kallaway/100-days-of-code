@@ -144,6 +144,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/interests
 
+### Day 27: January 29th, 2017
+
+**Today's Progress**: FOUND THE ERROR!!!! I didn't include some files to my admin-header file!  
+
+**Thoughts**: I think I'm going to have to add logging my 100daysofcode to my habitica app so I can keep logging
+
+**Link to work:** https://github.com/MasayaTamegai/interests
+
 
 
 
