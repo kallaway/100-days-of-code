@@ -307,3 +307,16 @@ Personal Website:
 **Thoughts:** Everyday leads to having a larger revelation of what I don't know.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev) | [Random Quote Generator on Codepen](https://codepen.io/anewdev/pen/rjYOBy)
+
+### Day 26: January 28, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Began Module 2
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Everyday leads to having a larger revelation of what I don't know.
+
+**Link to work:** 
