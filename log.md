@@ -2,8 +2,8 @@
 
 ### Day 23: January 29, 2017
 
-**Today's Progress**: I reading the twitch API and your boring problems to access the data.
-**Thoughts:** Without thoughts today!.
+**Today's Progress**: I reading the twitch API and your boring problems to access the data, a small progress and get stuck!
+**Thoughts:** Normal, but not everyday!
 
 ### Day 22: January 28, 2017
 
