@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 29, 2017
+
+**Today's Progress**: I reading the twitch API and your boring problems to access the data.
+**Thoughts:** Without thoughts today!.
+
 ### Day 22: January 28, 2017
 
 **Today's Progress**: Today I designed by Twitch App, and now I'm working in this app, and I watched two videos of React.
