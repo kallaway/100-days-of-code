@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 26: January 29, 2017
+
+**Today's Progress:** Worked on reaction time game. Added some scoring, a reset button, and some styling for the header. Also refactored some code to make the copyright dynamic.
+
+**Thoughts:** Had a hard time getting started but time flew once I got into working in something.
+
+**Tutorials:** Worked through some of The Complete Node Developer course this morning.
+
+**Reading:** Reread the first chapter of You Don't Know JS: Up and Running by Kyle Simpson in the evening.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Reaction Time Game](https://larrytooley.github.io/Reaction_Game/)
+
 ### Day 25: January 28, 2017
 
 **Today's Progress:** Added the day and time to the app. Added a toggle for the temperature units, but it is not hooked up yet. Working on getting the geoloaction and building the API call.
