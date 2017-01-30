@@ -319,4 +319,17 @@ Personal Website:
 
 **Thoughts:** Everyday leads to having a larger revelation of what I don't know.
 
-**Link to work:** 
+**Link to work:** [Random Quote Generator on Codepen](https://codepen.io/anewdev/pen/rjYOBy)
+
+### Day 27: January 29, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Making significant progress on Random Quote Generator.  API and Tweet functionality works.
+Hack Reactor Prep:
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** The API functionality was a big struggle, but I overcame.  It was good to get some practical experience.
+
+**Link to work:** [Random Quote Generator on Codepen](https://codepen.io/anewdev/pen/rjYOBy)
