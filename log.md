@@ -35,6 +35,7 @@
         - [Day 029: 2017-01-28](#day-029-2017-01-28)
         - [Day 030: 2017-01-29](#day-030-2017-01-29)
         - [Day 031: 2017-01-30](#day-031-2017-01-30)
+        - [Day 032: 2017-01-31](#day-032-2017-01-31)
 
 <!-- /TOC -->
 
@@ -791,6 +792,18 @@ Do some LevelDB enhancements as mentioned in my thoughts section.
 ---
 
 ### Day 031: 2017-01-30
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 032: 2017-01-31
 
 **Today's Progress**:
 
