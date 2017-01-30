@@ -795,11 +795,17 @@ Do some LevelDB enhancements as mentioned in my thoughts section.
 
 **Today's Progress**:
 
+AM: Familiarisation with LevelDB, created a batch operation for the 100DoC bot project of the day
+
 **Thoughts**:
+
+I thought I understood callbacks, I need to educate myself on them more
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[spences10/100DaysOfCode-twitter-bot](https://github.com/spences10/100DaysOfCode-twitter-bot)
 
 ---
 
