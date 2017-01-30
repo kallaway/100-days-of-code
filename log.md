@@ -201,3 +201,12 @@
 **Thoughts:** Did some remedial tidying-up after yesterday's drunk coding session. I think I'm satisfied with where the portfolio page is at, so I posted it to Facebook and am going to move on to Javascript tutorials tomorrow. I'm also happy that I'm getting a nice streak going on my Github log. 
 
 **Link to work:** [Portfolio](http://codepen.io/cellojane/pen/VPpJJM)
+
+
+### Day 24(+3): January 29, 2017
+
+**Today's Progress**: Started Javascript Tutorial 
+
+**Thoughts:** Made it through quite a few Javascript tutorials on operators. More tomorrow!
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
