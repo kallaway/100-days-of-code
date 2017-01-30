@@ -238,3 +238,21 @@
 **Thoughts**:Some days are more challenging than others to carve out an hour to do this. PLus it takes self-discipline.
 
 **Link to Work**: Have started a pokemonAPI.html file.
+
+
+##Day 31: Jan. 28, 2017
+**Day Off, my older two kids were in town!
+
+##Day 32: Jan. 29, 2017
+**Today's Progress**:...was minimal. Tried to work on Pokemon assignment in late evening. Bad idea.
+
+**Thoughts**: I need to use the mornings for best work time. Need to be coding by 8:30 a.m. each day.
+
+**Link to work**: http://pokeapi.co/ trying to use for loop to pull images from here.
+
+##Day 33: Jan. 29, 2017
+**Today's Progress**: actually wrote lines of code and got out old notebook to try to use for loop JS logic to get html img to show images 1-151 without hard coding.
+
+**Thoughts**: This sounded easy but it's not turning out to be that easy.
+
+**Link to work**: http://pokeapi.co/ still using this API. Getting a lot of 404 errors because I can't populate the correct number in the string yet.
