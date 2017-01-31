@@ -36,6 +36,7 @@
     - [Day 030: 2017-01-29](#day-030-2017-01-29)
     - [Day 031: 2017-01-30](#day-031-2017-01-30)
     - [Day 032: 2017-01-31](#day-032-2017-01-31)
+    - [Day 033: 2017-02-01](#day-033-2017-02-01)
 
 <!-- /TOC -->
 
@@ -816,6 +817,18 @@ Get the queries database up and running!!
 ---
 
 ### Day 032: 2017-01-31
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 033: 2017-02-01
 
 **Today's Progress**:
 
