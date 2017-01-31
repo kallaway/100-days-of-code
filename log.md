@@ -141,6 +141,42 @@ planning on writing sum up doc about it all.
 
 **Link to work**:
 
+### Day 17 : January 27, 2016
+
+**Today's Progress**: back on d3 !
+
+**Thoughts**: got a lot done, figured out logic for placing text on page
+in a way that's smart as nbs of tweets change
+
+**Link to work**:
+
+### Day 18 : January 28, 2016
+
+**Today's Progress**: some more tails and backend
+
+**Thoughts**: lots of styling and caspio work
+
+**Link to work**:
+
+### Day 19 : January 29, 2016
+
+**Today's Progress**: back to rails + backend
+
+**Thoughts**: rusty on rails, need to keep practicing backend logic. 
+i've made all these things before, but need to always revisit. 
+otherwise pretty frustrating.
+
+**Link to work**:
+
+### Day 20 : January 30, 2016
+
+**Today's Progress**: back to d3   
+
+**Thoughts**: did a lot more with the visualizations. still needs styling,
+but done with main parts. maybe just missing network map.
+
+**Link to work**:
+
 <!-- ### Day 0 : January 13, 2016
 
 **Today's Progress**:
