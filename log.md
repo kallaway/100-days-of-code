@@ -1,5 +1,106 @@
 # 100 Days Of Code - Log
 
+
+
+### Day 30: January 31, 2017
+** Today's Progress **
+Finished the Codecademy Droid project...
+
+
+**Thoughts**
+I didn't get the correct number for the last level. I went through the code again and I think I need another set of eyes. :-(
+
+**Links to Work**
+- [Tweet]
+### Day 29: January 30, 2017
+
+** Today's Progress **
+Java reading on Theory & Started droid project
+
+
+**Thoughts**
+Reading Java textbook chapters and made flash cards for terms. Diagrammed a class, method, constructor for future reference. I hope it comes in handy.
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/826390968375050240)
+
+### Day 28: January 29, 2017
+** Today's Progress **
+JavaScript 'use strict' & DOM code challenge
+
+
+**Thoughts**
+I went to a MeetUp today. We learned about 'use strict' and the implications and silent failures that can happen if you don't use it. There was a pure JS DOM manipulation code challenge and I froze. jQuery would have been easier, but that wasn't the challenge. I stillh haven't finished it. When I have time, I'm going to go over the DOM.
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/825844371882905606)
+
+### Day 27: January 27, 2017
+** Today's Progress **
+Java Codecademy calculator APP project
+
+
+**Thoughts**
+Learned a lot today. Made stupid mistakes and with any luck, I'll learn from them.
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/825197096055742464)
+
+### Day 26: January 26, 2017
+** Today's Progress **
+Java Codecademy Continent & Cities app, Loan calc app & OOP lesson
+
+
+**Thoughts**
+Today was a good day.
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/824700131895283712)
+
+### Day 25: January 25, 2017
+** Today's Progress **
+Java Celsius to Fahrenheit app for class
+
+
+**Thoughts**
+This was a good exercise. I read a lot in the Java docs that was most helpful. 
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/824594509430452224)
+
+### Day 24: January 24, 2017
+** Today's Progress **
+Still working on FCC bootstrap portfolio page. Java readings.
+
+**Thoughts**
+Continued playing in CodePen and moved the code the a text editor. Plenty of homework on reading Java.
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/824091945085661185)
+
+
+### Day 23: January 23, 2017
+
+** Today's Progress **
+Started FCC bootstrap portfolio. 
+
+**Thoughts**
+I did some reading on bootstrap and started watching a YouTube video on creating a portfolio page. I didn't get much accomplished, just tried some classes in codepen to see what things look like.
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/823742117604429828)
+
+### Day 22: January 22, 2017
+
+** Today's Progress **
+FCC Tribute page finished.
+
+**Thoughts**
+I need to work through more Bootstrap vis a vis, HTML & CSS. 
+
+**Links to Work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/823388052521357312)
+
 ### Day 21: January 21, 2017
 
 ** Today's Progress **
