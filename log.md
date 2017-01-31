@@ -92,7 +92,7 @@ array.sort(function(a, b) {
 ### Day 6: Jan 09, 2017 
 
 
-**Today's Progress**: Finished Confirm the Ending, Repeat a string repeat a string.
+**Today's Progress**: Finished Confirm the Ending.
 
 **Thoughts**: Method practicing is a good way to learn. 
 
@@ -101,9 +101,72 @@ array.sort(function(a, b) {
 
 
 
+### Day 7: Jan 10, 2017 
+
+
+**Today's Progress**: Finished Repeat a string repeat a string.
+
+**Thoughts**: Sad and regret for being lazy, i need to learn code.
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
 
 
 
+### Day 8: Jan 17, 2017 
 
+
+**Today's Progress**: Finished Truncate a string.
+
+**Thoughts**:  I have passion with coding and trying to stay strong enough to keep learning.
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
+
+
+
+### Day 9: Jan 24, 2017 
+
+
+**Today's Progress**: Finished Chunky Monkey.
+
+**Thoughts**: I have passion with coding and trying to stay strong enough to keep learning.
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
+
+
+
+### Day 10: Jan 25, 2017 
+
+
+**Today's Progress**: Finished Slasher Flick.
+
+**Thoughts**: I have passion with coding but can't stay strong enough to keep learning.
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
+
+
+
+### Day 11: Jan 27, 2017
+
+
+**Today's Progress**: Finished Mutations.
+
+**Thoughts**:  I have passion with coding and trying to stay strong enough to keep learning.
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
+
+
+
+### Day 12: Jan 30, 2017
+
+
+**Today's Progress**: Finished Falsy Bouncer.
+
+**Thoughts**: I have passion with coding and trying to stay strong enough to keep learning.
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
