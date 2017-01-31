@@ -152,6 +152,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/interests
 
+### Day 28: January 30th, 2017
+
+**Today's Progress**: Alright, today was a little different.  I was asked by my by a friend's landlord to make her a real estate site!  So, I started on coding the bare essentials of it. 
+
+**Thoughts**: Thinking about getting a template and customizing it from there ecause they need a site ASAP.
+
+**Link to work:** https://github.com/MasayaTamegai/interests
+
 
 
 
