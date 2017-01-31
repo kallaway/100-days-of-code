@@ -333,3 +333,16 @@ Personal Website:
 **Thoughts:** The API functionality was a big struggle, but I overcame.  It was good to get some practical experience.
 
 **Link to work:** [Random Quote Generator on Codepen](https://codepen.io/anewdev/pen/rjYOBy)
+
+### Day 28: January 30, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed Random Quote Generator, Began 'Show the local weather' project
+Hack Reactor Prep:
+AWS Certified Developer Associate: Started EC2 Section and took practice exams.
+aNewDev.io: Added definition for api, cleaned up header
+Personal Website: Cleaned up header
+
+**Thoughts:** Really impressed by the design work around me.  It inspires me, and I hope to see more beautiful work.
+
+**Link to work:** [aNewDev.io](https://anewdev.io) | [Random Quote Generator on Codepen](https://codepen.io/anewdev/pen/rjYOBy) | [Show the local weather on Codepen](http://codepen.io/anewdev/pen/VPyRbx) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
