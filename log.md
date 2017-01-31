@@ -820,6 +820,8 @@ Get the queries database up and running!!
 
 **Today's Progress**:
 
+AM: Spent trying to get a result back from a module with a callback, the callback did what it was meant to do but the mosule doesn't return the right result
+
 **Thoughts**:
 
 **Up Next**:
