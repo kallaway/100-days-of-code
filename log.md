@@ -824,9 +824,146 @@ AM: Spent trying to get a result back from a module with a callback, the callbac
 
 **Thoughts**:
 
+Fucking fuck you promises and your fucked up fucked upidness! 
+
+Fuck this shit!
+
+Pretty frustrated wit the whole thing right now
+
+> trying to use `query.js`
+
+```
+module.exports = function (paramQS) {
+  var ura = require('unique-random-array')
+  var strings = require('./strings')
+
+  var qs = ura(strings.queryString)
+  var qsSq = ura(strings.queryStringSubQuery)
+
+  var queryString = function () {
+    var param = qs() + qsSq()
+
+    var db = require('./helpers/queryDB')
+    // Check key isn't in db already, key being the param
+    db.get(param, function (err, value) {
+      if (typeof (value) !== 'undefined') {
+        console.log('ALREADY IN DB', param)
+        return
+      }else {
+        // Put a search query  
+        db.put(param, Date(), function (err) {
+          if (err) return console.log('Ooops!', err) // some kind of I/O error
+          console.log('LOGGED QUERY STRING', param)
+          return paramQS + ' YO!'
+        })
+      }
+    })
+  }
+}
+
+```
+
+Trying to do shit with it!
+
+`test.js`
+
+```
+// // having run npm install level 
+// var db = require('then-levelup')(require('level')('./mydb'));
+
+// // use like level-up except APIs return promises instead of taking callbacks 
+// db.put('foo', 'bar').then(function () {
+//   return db.get('foo');
+// }).then(function (value) {
+//   assert(value === 'bar');
+// }).done(function () {
+//   console.log('tests passed');
+// });
+
+
+// getData(fetchData)
+
+// function fetchData (callback) {
+//   var params = 'query to be returned'
+//   var s = require('./helpers/query')(params)
+//   callback(params)
+// }
+
+// function getData () {
+//   fetchData(function (params) { 
+//     console.log(params)
+//   })
+// }
+
+var ura = require('unique-random-array')
+var strings = require('./helpers/strings')
+
+var qs = ura(strings.queryString)
+var qsSq = ura(strings.queryStringSubQuery)
+
+var queryString = function() {
+  var param = qs() + qsSq()
+
+  var db = require('./helpers/queryDB')
+    // Check key isn't in db already, key being the param
+  db.get(param, function(err, value) {
+    if (typeof(value) !== 'undefined') {
+      console.log('ALREADY IN DB', param)
+      return
+    }
+    else {
+      // Put a search query  
+      db.put(param, Date(), function(err) {
+        if (err) return console.log('Ooops!', err) // some kind of I/O error
+        console.log('LOGGED QUERY STRING', param)
+        return param + ' YO!'
+      })
+    }
+  })
+
+}
+
+// console.log(queryString());
+
+// var promise = new Promise(function (resolve, reject) {
+//   get(queryString(), function (err, res) {
+//     if (err) reject(err);
+//     else resolve(res);
+//   });
+// });
+
+// console.log(promise)
+
+
+// var db = require('then-levelup')(require('level')('./helpers/queryDB'));
+
+// // use like level-up except APIs return promises instead of taking callbacks
+// var param = qs() + qsSq()
+
+// db.put(param).then(function () {
+//   return db.get(param);
+// }).then(function (value) {
+//   queryString(value === 'bar');
+// }).done(function () {
+//   console.log('tests passed');
+// });
+
+// db.put('foo', 'bar').then(function () {
+//   return db.get('foo');
+// }).then(function (value) {
+//   queryString(value === 'bar');
+// }).done(function () {
+//   console.log('tests passed');
+// });
+```
+
 **Up Next**:
 
+Don't care!
+
 **Link(s) to work**:
+
+[Check my fucking repo!](https://github.com/spences10/twitter-bot-twit)
 
 ---
 
