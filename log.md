@@ -210,3 +210,12 @@
 **Thoughts:** Made it through quite a few Javascript tutorials on operators. More tomorrow!
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+
+### Day 25(+4): January 31, 2017
+
+**Today's Progress**: More Javascript Tutorials!
+
+**Thoughts:** Today I learned about strings!
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
