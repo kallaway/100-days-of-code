@@ -972,6 +972,45 @@ Don't care!
 
 **Today's Progress**:
 
+AM: Got a promise working! 
+
+```
+var ura = require('unique-random-array')
+var strings = require('./helpers/strings')
+var qs = ura(strings.queryString)
+var qsSq = ura(strings.queryStringSubQuery)
+var query = qs() + qsSq()
+
+var promise = new Promise(function (resolve, reject) {
+  var db = require('./helpers/queryDB')
+  // Check key isn't in db already, key being the query
+  db.get(query, function (err, value) {
+    if (typeof (value) !== 'undefined') {
+      console.log('ALREADY IN DB', query)
+      return
+    }else {
+      // Put a search query  
+      db.put(query, Date(), function (err) {
+        if (err) return console.log('Ooops!', err) // some kind of I/O error
+        console.log('LOGGED QUERY STRING', query)
+        return query + ' YO!'
+      })
+    }
+  })
+
+  resolve(query, 'all good')
+})
+
+promise.then(function (result) {
+  console.log('was it good?', result)
+}).catch(function (err) {
+  console.error('ERR', err)
+})
+```
+
+I want to be able to get this into it's own module now, I'll leave that for the PM
+
+
 **Thoughts**:
 
 **Up Next**:
