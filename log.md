@@ -346,3 +346,16 @@ Personal Website: Cleaned up header
 **Thoughts:** Really impressed by the design work around me.  It inspires me, and I hope to see more beautiful work.
 
 **Link to work:** [aNewDev.io](https://anewdev.io) | [Random Quote Generator on Codepen](https://codepen.io/anewdev/pen/rjYOBy) | [Show the local weather on Codepen](http://codepen.io/anewdev/pen/VPyRbx) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 29: January 31, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: More work on 'Show the local weather' project
+Hack Reactor Prep:
+AWS Certified Developer Associate: Completed EC2 Section and took practice exams.
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** The intermediate fcc projects have proven to be more challenging that I expected.  Learning a ton.
+
+**Link to work:** [Show the local weather on Codepen](http://codepen.io/anewdev/pen/VPyRbx) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
