@@ -250,9 +250,18 @@
 
 **Link to work**: http://pokeapi.co/ trying to use for loop to pull images from here.
 
+
 ##Day 33: Jan. 29, 2017
 **Today's Progress**: actually wrote lines of code and got out old notebook to try to use for loop JS logic to get html img to show images 1-151 without hard coding.
 
 **Thoughts**: This sounded easy but it's not turning out to be that easy.
 
 **Link to work**: http://pokeapi.co/ still using this API. Getting a lot of 404 errors because I can't populate the correct number in the string yet.
+
+
+#Day 34: Jan 31, 2017
+**Today's Progress**: Worked in cafe before starting Starbucks shift. Researched and tried various approaches to getting Pokemon to display.
+
+**Thoughts**: Wasted a lot of time in traffic on my way to work. Wish there were more hours in the day. Looking forward to Thursday and Friday!
+
+**Link to work**: still working on pokemonAPI.html file.
