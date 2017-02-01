@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 27: January 31, 2017
+
+**Today's Progress:** Completed the FCC Request Header Parser Microservice project. Learned about ESLint.
+
+**Thoughts:** This was not too tough of a project. The difficulty was with formatting the data.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [FCC Request Header Parser Microservice](https://github.com/larrytooley/fcc-request-header-parser-microservice)
+
 ### Day 26: January 29, 2017
 
 **Today's Progress:** Worked on reaction time game. Added some scoring, a reset button, and some styling for the header. Also refactored some code to make the copyright dynamic.
