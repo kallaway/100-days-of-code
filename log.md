@@ -170,3 +170,27 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
+
+
+
+### Day 13: Jan 31, 2017
+
+
+**Today's Progress**: Finished Seek and Destroy.
+
+**Thoughts**: I have passion with coding and trying to stay strong enough to keep learning.
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
+
+
+
+### Day 14: Feb 1, 2017
+
+
+**Today's Progress**: Finished Caesars Cipher, Where do I belong.
+
+**Thoughts**: I have passion with coding and trying to stay strong enough to keep learning.
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
