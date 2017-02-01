@@ -1010,12 +1010,23 @@ promise.then(function (result) {
 
 I want to be able to get this into it's own module now, I'll leave that for the PM
 
+PM: Couldn't get the module to export, feel like I have wasted a lot of time, haven't really progressed, gone backwards if any.
+
+So, decided to move onto getting sentiment detection into the Twitter bot bootstrap
 
 **Thoughts**:
 
+Promises, promises, promises, you fucks!
+
 **Up Next**:
 
+Sentiment detection on tweets and re-tweets on the bot boot strap
+
 **Link(s) to work**:
+
+[Twitter bot bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+[Twitter bot twit](https://github.com/spences10/twitter-bot-twit)
 
 ---
 
