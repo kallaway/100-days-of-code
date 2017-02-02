@@ -160,6 +160,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/interests
 
+### Day 30: February 1st, 2017
+
+**Today's Progress**: Didn't "code" for the past two days but I was doing a lot of research on how to make a CMS site go live and how to get the database on a hosting site. 
+
+**Thoughts**: I'm getting more comfortable using PHP and scanning through code and getting a basic understanding of how the site looks and what it does.  I'm pretty excited about that because that means things are making sense and hopefully I'll be able to do some challenges on codewars.
+
+**Link to work:** https://github.com/MasayaTamegai/interests
+
 
 
 
