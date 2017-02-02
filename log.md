@@ -218,4 +218,14 @@
 
 **Thoughts:** Today I learned about strings!
 
+
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 26(+4): February 1, 2017
+
+**Today's Progress**: More Javascript Tutorials!
+
+**Thoughts:** Today I learned about arrays. That was totally new stuff for me. And also immutable and mutable manipulation. I think I got that right. I can't wait to use this stuff in challenges!
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
