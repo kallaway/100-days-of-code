@@ -1,6 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 32: February 2, 2017
 
+**Today's progress**
+More PHP practice. Introduced to Quanta+ and PhpStorm. Created a database for books.
+
+**Thoughts**
+Seems simple, until it isn't. T
+
+**Addendum**
+-[Pluralsight] (https://app.pluralsight.com/library/courses/build-dynamic-web-sites-mysql-php/table-of-contents)
+
+**Links to work**
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/827246235430039553)
+
+
+### Day 31: February 1, 2017
+** Today's progress**
+Worked on creating a simple HTML form and using PHP to dynamically change an validate it.
+
+**Thoughts**
+PHP seems beefy and I'm not sure this is the route this class will take. I'm not going to head down the rabbit hole until I get the syllabus and see where this course is heading. Got PHP and MySql installed on RHEL 6.8.
+Learned the difference between GET and POST.
+
+**Links to work
+-[Tweet] (https://twitter.com/ScooterPhoenix/status/827109369594650624)
 
 ### Day 30: January 31, 2017
 ** Today's Progress **
@@ -11,7 +35,8 @@ Finished the Codecademy Droid project...
 I didn't get the correct number for the last level. I went through the code again and I think I need another set of eyes. :-(
 
 **Links to Work**
-- [Tweet]
+- [Tweet] (https://twitter.com/ScooterPhoenix/status/826492008994844673)
+- [Blog] (https://learningtowebdevblog.wordpress.com/2017/01/31/100-days-of-code-challenge-day-30/)
 ### Day 29: January 30, 2017
 
 ** Today's Progress **
