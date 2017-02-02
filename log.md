@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 1, 2017
+
+**Today's Progress:** Worked on getting lat and lon with javascript. No changes to UI.
+
+**Thoughts:** I am having a hard time getting the sample code to work.
+
+**Tutorials:** None.
+
+**Reading:** You Don't Know JS: Up and Running - Chapter 2.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [FCC Weather App](https://larrytooley.github.io/fcc-weather-app/)
+
 ### Day 27: January 31, 2017
 
 **Today's Progress:** Completed the FCC Request Header Parser Microservice project. Learned about ESLint.
