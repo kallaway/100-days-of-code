@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 01, 2017
+
+**Today's Progress**: I'm working in my Twitch App yet, so what I did it was understand  more the DOC API to define how to get the JSON by the channels. So, first, I need to define which channels I want to get the informations, this is not a good deal (it could be interesting to ask for random online or offline channels and these to be sent), then see who is offline and online and work with the online data. I designed the app, what I need do is set the right data in the right place. I get stuck for some moment to iterate in the streamers array and get the JSON to each one, but it's not work because $.getJSON is asynchronous! So cool ¬¬ Now I need try some ways.
+
+**Thoughts:** Think more about JavaScript with asynchronous requests.
+
 ### Day 23: January 29, 2017
 
 **Today's Progress**: I reading the twitch API and your boring problems to access the data, a small progress and get stuck!
