@@ -194,3 +194,15 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
+
+
+
+### Day 15: Feb 2, 2017
+
+
+**Today's Progress**: Finished JSON APIs and Ajax.
+
+**Thoughts**: I think this was the weakest course on FFC. I'm not really sure it teaches much.
+
+**Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
+
