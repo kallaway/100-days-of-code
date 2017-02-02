@@ -38,6 +38,7 @@
     - [Day 032: 2017-01-31](#day-032-2017-01-31)
     - [Day 033: 2017-02-01](#day-033-2017-02-01)
     - [Day 034: 2017-02-02](#day-034-2017-02-02)
+    - [Day 035: 2017-02-03](#day-035-2017-02-03)
 
 <!-- /TOC -->
 
@@ -1031,6 +1032,28 @@ Sentiment detection on tweets and re-tweets on the bot boot strap
 ---
 
 ### Day 034: 2017-02-02
+
+**Today's Progress**:
+
+AM: Finish up Twitter bot bootstrap
+
+PM: Twitter bot bootstrap README update as I added sentiment but left it out of the README, changes it to `npm install`
+
+**Thoughts**:
+
+Think I'm done with Twitter bots for a while, levelDB and promises have totally fried my brain
+
+**Up Next**:
+
+Learn ES6 with Wes Bos
+
+**Link(s) to work**:
+
+[Twitter bot bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+---
+
+### Day 035: 2017-02-03
 
 **Today's Progress**:
 
