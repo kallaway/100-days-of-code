@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+
+--------
+
+## Day 24: Febraury 1, 2017
+#### Today's progress:
+Started working on layout and added default layout
+
+--------
+
+## Day 23: January 31, 2017
+#### Today's progress:
+Started a new project #aryes
+
 --------
 
 ## Day 22: January 26, 2017
