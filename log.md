@@ -259,9 +259,25 @@
 **Link to work**: http://pokeapi.co/ still using this API. Getting a lot of 404 errors because I can't populate the correct number in the string yet.
 
 
-#Day 34: Jan 31, 2017
+##Day 34: Jan 31, 2017
 **Today's Progress**: Worked in cafe before starting Starbucks shift. Researched and tried various approaches to getting Pokemon to display.
 
 **Thoughts**: Wasted a lot of time in traffic on my way to work. Wish there were more hours in the day. Looking forward to Thursday and Friday!
 
 **Link to work**: still working on pokemonAPI.html file.
+
+
+##Day 35: Feb. 1, 2017
+**Today's Progress**: Found helpful article on Stack Overflow http://stackoverflow.com/questions/16825964/create-and-load-images-using-a-loop-in-javascript. Still only able to work on coding about 1 hour before had to go to Starbucks.
+
+**Thoughts**: I am grateful for my day job and just am having to code at odd hours of the day or it doesn't get done.
+
+**Link to work**: http://pokeapi.co/ and above link.
+
+
+##Day 36: Feb. 2, 2017
+**Today's Progress**: Had a day off from day job and so went to Coding Dojo to code. Figured out using for loop to display images from Pokeapi and got my CodePen working. Created helpful JSFiddle account. Also attended free webinar "How to Be A No-Brainer Tech Hire".
+
+**Thoughts**: Feeling overwhelmed again. Must work more & harder at career reinvention. An hour or so per day isn't going to cut it.
+
+**Link to work**: My finished Pokemon display site http://codepen.io/Mmgfrog/pen/WRzbNv
