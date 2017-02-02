@@ -359,3 +359,16 @@ Personal Website:
 **Thoughts:** The intermediate fcc projects have proven to be more challenging than I expected.  Learning a ton.
 
 **Link to work:** [Show the local weather on Codepen](http://codepen.io/anewdev/pen/VPyRbx) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 30: February 1, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed the "show the local weather" project, and began work on "build a wikipedia viewer" project
+Hack Reactor Prep:
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Being able to use API's in practice is a nice skill set to add to my repertoire
+
+**Link to work:** [Build a wikipedia viewer on Codepen](https://codepen.io/anewdev/pen/dNmNKJ) | [Show the local weather on Codepen](http://codepen.io/anewdev/pen/VPyRbx) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
