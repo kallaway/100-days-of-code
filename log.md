@@ -372,3 +372,16 @@ Personal Website:
 **Thoughts:** Being able to use API's in practice is a nice skill set to add to my repertoire
 
 **Link to work:** [Build a wikipedia viewer on Codepen](https://codepen.io/anewdev/pen/dNmNKJ) | [Show the local weather on Codepen](http://codepen.io/anewdev/pen/VPyRbx) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 31: February 2, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed the "build a wikipedia viewer" project
+Hack Reactor Prep:
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** I was able to work through an API project much quicker.  It's coming together much quickly.
+
+**Link to work:** [Build a wikipedia viewer on Codepen](https://codepen.io/anewdev/pen/dNmNKJ) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
