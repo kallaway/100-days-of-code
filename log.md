@@ -229,3 +229,10 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
+### Day 26(+4): February 2, 2017
+
+**Today's Progress**: More Javascript Tutorials!
+
+**Thoughts:** Today I really learned about arrays. Or at least how to manipulate them. I finally ran into a FreeCodeCamp tutorial that was a challenge, "Stand in Line"--and it was fun. I'm glad I stuck with it.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
