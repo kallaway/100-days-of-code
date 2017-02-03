@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+
+### Day 33: February 3, 2017
+
+**Today's Progress**
+Working on a Java project in Codecademy.
+Read from PHP textbook for class.
+
+**Thoughts**
+I'm stuck on this project, so I'm taking a step back. Going to lay off coding for the rest of the day. 1/3 of the way through!! I'm pretty excited about that progress. 
+
+**Links to Work**
+-[Tweet] (https://twitter.com/ScooterPhoenix/status/827589986962784257)
+
+
 ### Day 32: February 2, 2017
 
 **Today's progress**
