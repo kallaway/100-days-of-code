@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 25: February 02, 2017
+
+**Today's Progress**: Today I stopped for a moment my Twitch App to study Noje.js and MongoDB. So it was necessary unsderstand some conceps like REST API and CRUD, and at my first time it was easy and hard to get the theory and compare with the practice. Also, I learned how to start with Node, basic commands, json package that's essencial for everything in a node project. Besides, MongoDB has the javascript essential as JSON, but when you just know relational database and see in a different way the data, it can be confuse.
+
+**Thoughts:** New stuffs to learn, it's cool!
+
 ### Day 24: February 01, 2017
 
 **Today's Progress**: I'm working in my Twitch App yet, so what I did it was understand  more the DOC API to define how to get the JSON by the channels. So, first, I need to define which channels I want to get the informations, this is not a good deal (it could be interesting to ask for random online or offline channels and these to be sent), then see who is offline and online and work with the online data. I designed the app, what I need do is set the right data in the right place. I get stuck for some moment to iterate in the streamers array and get the JSON to each one, but it's not work because $.getJSON is asynchronous! So cool ¬¬ Now I need try some ways.
