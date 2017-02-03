@@ -168,6 +168,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/interests
 
+### Day 32: February 3rd, 2017
+
+**Today's Progress**: Finally got the info I needed from a client and started coding the bare HTML and CSS stuff.
+
+**Thoughts**: Doing this little gig has got me thinking about how to make thing easier for me when I get other clients.  I was thinking of making some bare bones templates to show future clients that want a specifc type of web site and then from there start customizing it for them.
+
+**Link to work:** No links to this work just yet
+
 
 
 
