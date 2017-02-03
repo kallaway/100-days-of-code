@@ -1,0 +1,12 @@
+@import url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css');
+.top-row-delete
+
+.top-row-desc {
+  font-family: "Verdana";
+  }
+h1{
+  font-size: 40px;
+}
+p {
+  font-size: 25px;
+}
