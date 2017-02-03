@@ -76,3 +76,11 @@
 
 **link to work**  [matching-game](https://www.github.com/ipaye/matching-game)
 
+
+###Day 6: February 4th 2017
+
+**Todays progress** ive gotten the hang of linux operating system and id be using it for a while
+                    ive finaly installed ubuntu and id be using it for all my development work.
+                    wish me luck
+
+**Thoughts**        change is a good thing when youre willing to learn.
