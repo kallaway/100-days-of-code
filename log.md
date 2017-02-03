@@ -236,3 +236,11 @@
 **Thoughts:** Today I really learned about arrays. Or at least how to manipulate them. I finally ran into a FreeCodeCamp tutorial that was a challenge, "Stand in Line"--and it was fun. I'm glad I stuck with it.
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 26(+4): February 3, 2017
+
+**Today's Progress**: More Javascript Tutorials!
+
+**Thoughts:** Today I learned about booleans. And made a golf score interpretizer. That's about it. I finally got back to working on code over lunch, which is nice.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
