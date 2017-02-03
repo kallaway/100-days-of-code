@@ -1062,9 +1062,15 @@ AM: Add back blocked strings functionality I merged over in the last PR, sorry [
 
 Started with ES6 
 
+PM: Played around with `stream.on('tweet'` with `twit`, wow! Loads of fun :smile:
+
 **Thoughts**:
 
+Not done with Twitter bots yet!
+
 **Up Next**:
+
+More ES6, learning loads of great stuff with Wes Bos
 
 **Link(s) to work**:
 
