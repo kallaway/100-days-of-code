@@ -1,0 +1,13 @@
+<div class="whole-page">
+  <div class="top-row-desc">
+    <h1>RANDOM QUOTE MACHINE<h1>
+      <p>My random quote machine have two types of quotes. You can choose the type with pressing buttons. If you like the quote than you can tweet the quote with bird icon. Thank you for using. Feedbacks are appriciated. @nngrata</p>
+      </div>
+    <div class="quote-row">
+      <div class="quote-text-row">"QUOTE LOREM IPSUM BLABLA BLA"</div>
+      <div class="quote-owner-row">JOHN BALDMAN</div>
+      <div class="quote-button row">
+        <a class="btn btn-primary"></a>
+      </div>
+  </div>
+</div>
