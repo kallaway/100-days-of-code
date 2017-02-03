@@ -171,6 +171,7 @@
 
 
 ###Day 21: Jan. 18, 2017
+
 **Today's Progress**: Finally found helpful code examples of how to tweet the quote. Got a window to pop open. Still working on JS and HTML to get it right.
 
 **Thoughts**: Looking forward to my days off to get wireframe and other things done!
@@ -179,6 +180,7 @@
 
 
 ###Day 22: Jan. 19th, 2017
+
 **Today's Progress**: Used Justinmind prototyping tool to finish and submit landing page mock-up to potential employer.
 
 **Thoughts**: I never lose. I win or I learn. :)
@@ -187,6 +189,7 @@
 
 
 ###Day 23: Jan. 20, 2017
+
 **Today's Progress**: Tried to get help online with Random Quote Machine. Can generate quotes randomly but not click Tweet button after. Or, can click Tweet button first to open a window, but no quote in tweet field (because I can't do that first and have button clickable). Argh.
 
 **Thoughts**: Speaking of Twitter, this whole exercise has totally upped my Twitter game and I am highly enjoying it. Great tool for professional networking and information.
@@ -198,6 +201,7 @@
 **Day Off**
 
 ###Day 25: Jan. 22, 2017
+
 **Today's Progress**: 2+ hours at Free Code Camp Meetup. Shared my Random Quote Machine and got feedback/ideas for how to get unstuck on functionality.
 
 **Thoughts**: Met more coding friends which is always a plus. :)
@@ -206,6 +210,7 @@
 
 
 ###Day 26: Jan. 23, 2017
+
 **Today's Progress**: I think I'm going to abandon the widget idea and go back to hyperlink for TWEETING THE STINKIN' QUOTE.
 
 **Thoughts**: Worked at Starbucks on my lunch break. More reading and asking for help this evening. Sigh. Still doesn't work right.
@@ -214,6 +219,7 @@
 
 
 ###Day 27: Jan. 24, 2017
+
 **Today's Progress**: Hooray! Went to another Meetup through Girl Develop It and got feedback on RQM. I was so close to it populating the quote into the tweet field and two very nice developer mentors helped me get it working finally!
 
 **Thoughts**: Grateful for helpful input. Also it made me feel better that it took lots of people a while to figure out why it wasn't working - so it wasn't just me. JavaScript is challenging for many people.
@@ -225,6 +231,7 @@
 **Day Off**
 
 ###Day 29: Jan. 26, 2017
+
 **Today's Progress**: Submitted RQM on Free Code Camp & got feedback on it. Went back into Coding Dojo's learning platform.
 
 **Thoughts**: Not much accomplished today. Picked up son early and really should remember that if he's home it's hard to get coding done. But that's no excuse. I didn't manage my time very well today.
@@ -233,6 +240,7 @@
 
 
 ##Day 30: Jan. 27, 2017
+
 **Today's Progress**: Began writing code for Pokemon 1-156 images using PokeAPI assignment.
 
 **Thoughts**:Some days are more challenging than others to carve out an hour to do this. PLus it takes self-discipline.
@@ -244,6 +252,7 @@
 **Day Off, my older two kids were in town!
 
 ##Day 32: Jan. 29, 2017
+
 **Today's Progress**:...was minimal. Tried to work on Pokemon assignment in late evening. Bad idea.
 
 **Thoughts**: I need to use the mornings for best work time. Need to be coding by 8:30 a.m. each day.
@@ -252,6 +261,7 @@
 
 
 ##Day 33: Jan. 29, 2017
+
 **Today's Progress**: actually wrote lines of code and got out old notebook to try to use for loop JS logic to get html img to show images 1-151 without hard coding.
 
 **Thoughts**: This sounded easy but it's not turning out to be that easy.
@@ -260,6 +270,7 @@
 
 
 ##Day 34: Jan 31, 2017
+
 **Today's Progress**: Worked in cafe before starting Starbucks shift. Researched and tried various approaches to getting Pokemon to display.
 
 **Thoughts**: Wasted a lot of time in traffic on my way to work. Wish there were more hours in the day. Looking forward to Thursday and Friday!
@@ -268,6 +279,7 @@
 
 
 ##Day 35: Feb. 1, 2017
+
 **Today's Progress**: Found helpful article on Stack Overflow http://stackoverflow.com/questions/16825964/create-and-load-images-using-a-loop-in-javascript. Still only able to work on coding about 1 hour before had to go to Starbucks.
 
 **Thoughts**: I am grateful for my day job and just am having to code at odd hours of the day or it doesn't get done.
@@ -276,8 +288,18 @@
 
 
 ##Day 36: Feb. 2, 2017
+
 **Today's Progress**: Had a day off from day job and so went to Coding Dojo to code. Figured out using for loop to display images from Pokeapi and got my CodePen working. Created helpful JSFiddle account. Also attended free webinar "How to Be A No-Brainer Tech Hire".
 
 **Thoughts**: Feeling overwhelmed again. Must work more & harder at career reinvention. An hour or so per day isn't going to cut it.
 
 **Link to work**: My finished Pokemon display site http://codepen.io/Mmgfrog/pen/WRzbNv
+
+
+##Day 37: Feb. 3, 2017
+
+**Today's Progress**: At Coding Dojo again today. Began working on portfolio and had to iron out some Bootstrap template and theme ideas. Need to link own CSS to the file.
+
+**Thoughts**: Feeling better about having clarity and moving forward with portfolio as priority 1.
+
+**Link to work**: melissaPortfolio.html
