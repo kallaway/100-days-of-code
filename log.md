@@ -1058,11 +1058,17 @@ Learn ES6 with Wes Bos
 
 **Today's Progress**:
 
+AM: Add back blocked strings functionality I merged over in the last PR, sorry [@serginator](https://github.com/serginator)
+
+Started with ES6 
+
 **Thoughts**:
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[Twitter bot bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
 
 ---
 
