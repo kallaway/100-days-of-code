@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 29: February 2, 2017
+
+**Today's Progress:** Worked on basic HTML and CSS practice and setting up Python environments with conda.
+
+**Thoughts:** Didn't really write a lot of code tonight. Was more into learn some tools.
+
+**Tutorials:** Completed Lambda School Pre-work.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** None.
+
 ### Day 28: February 1, 2017
 
 **Today's Progress:** Worked on getting lat and lon with javascript. No changes to UI.
