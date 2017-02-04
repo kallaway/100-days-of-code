@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 30: February 3, 2017
+
+**Today's Progress:** Worked on learning test-driven development and django at the same time.
+
+**Thoughts:** This is what I need to focus on if I am going to get a job as a Python dev.
+
+**Tutorials:** Obey the Testing Goat.
+
+**Reading:** Obey the Testing Goat.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Test-Driven Development with Python](https://github.com/larrytooley/superlists) 
+
 ### Day 29: February 2, 2017
 
 **Today's Progress:** Worked on basic HTML and CSS practice and setting up Python environments with conda.
