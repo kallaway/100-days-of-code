@@ -382,6 +382,19 @@ AWS Certified Developer Associate:
 aNewDev.io:
 Personal Website:
 
-**Thoughts:** I was able to work through an API project much quicker.  It's coming together much quickly.
+**Thoughts:** I was able to work through an API project much quicker.  It's coming together much more quickly.
 
 **Link to work:** [Build a wikipedia viewer on Codepen](https://codepen.io/anewdev/pen/dNmNKJ) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 32: February 3, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Began the "Use the TwithTV JSON API" project
+Hack Reactor Prep:
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Getting more comfortable with API's and the use of JS interacting with HTML
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
