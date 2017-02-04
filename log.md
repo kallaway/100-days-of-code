@@ -244,3 +244,11 @@
 **Thoughts:** Today I learned about booleans. And made a golf score interpretizer. That's about it. I finally got back to working on code over lunch, which is nice.
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 27(+4): February 4, 2017
+
+**Today's Progress**: More Javascript Tutorials!
+
+**Thoughts:** The big challenge of the day was the card counter project. I learned how to use switch statements. I had everything right except for the fact that I like to use "console.log" when I should be using return. But I think I have that out of my system now. Lesson learned. I also learned a little more about booleans (how to return undefined--on purpose!)
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
