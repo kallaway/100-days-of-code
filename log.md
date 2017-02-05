@@ -398,3 +398,16 @@ Personal Website:
 **Thoughts:** Getting more comfortable with API's and the use of JS interacting with HTML
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 33: February 4, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Worked on the "Use the TwithTV JSON API" project
+Hack Reactor Prep:
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** It is clear to me that I have so much to learn.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
