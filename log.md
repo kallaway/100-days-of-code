@@ -303,3 +303,16 @@
 **Thoughts**: Feeling better about having clarity and moving forward with portfolio as priority 1.
 
 **Link to work**: melissaPortfolio.html
+
+
+##Day 38: Feb. 4, 2017 
+**Day Off**
+
+
+##Day 39: Feb. 5, 2017
+
+**Today's Progress**: Attended Free Code Camp Meetup and learned about React, Node and Express. Rethinking use of Bootstrap on portfolio. LOL
+
+**Thoughts**: So much to learn still but it's great and I'm not alone.
+
+**Link to work**: https://github.com/joshcode16/react-boilerplate.git cloned this and used during Meetup
