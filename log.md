@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 31: February 4, 2017
+
+**Today's Progress:** Worked on learning test-driven development and django at the same time.
+
+**Thoughts:** Chapter 5 is a bit of a slog. Not sure I still understand fully how TDD works and I need to read the Django docs.
+
+**Tutorials:** Obey the Testing Goat.
+
+**Reading:** Obey the Testing Goat.
+
+**Time:** 1 hours and 40 minutes.
+
+**Link(s) to work:** [Test-Driven Development with Python](https://github.com/larrytooley/superlists) 
+
 ### Day 30: February 3, 2017
 
 **Today's Progress:** Worked on learning test-driven development and django at the same time.
