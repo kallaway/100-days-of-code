@@ -252,3 +252,11 @@
 **Thoughts:** The big challenge of the day was the card counter project. I learned how to use switch statements. I had everything right except for the fact that I like to use "console.log" when I should be using return. But I think I have that out of my system now. Lesson learned. I also learned a little more about booleans (how to return undefined--on purpose!)
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 23(+4): February 5, 2017
+
+**Today's Progress**: More Javascript Tutorials!
+
+**Thoughts:** I didn't really have any specific roadblocks today, but I did learn about dot and bracket notation used to access data sets.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
