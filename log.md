@@ -411,3 +411,16 @@ Personal Website:
 **Thoughts:** It is clear to me that I have so much to learn.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 34: February 5, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Worked on the "Use the TwitchTV JSON API" project
+Hack Reactor Prep:
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** local and global variables are the name of today.  I have asked myself 20 times today "why isnt that variable working?"  Also, working on nested functions.  Seems to happen a lot when using jQuery to to pull from API's.
+
+**Link to work:** [Use the TwitchTV JSON API project on codepen](http://codepen.io/anewdev/pen/bgMMab) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
