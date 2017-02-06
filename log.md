@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 32: February 5, 2017
+
+**Today's Progress:** Built the FCC Request Header Parser project with python and flask. Deployed on Heroku.
+
+**Thoughts:** I started this project this morning with the idea that I could build it with only a few lines of python and no flask. I gave up and used flask. Tomorrow I will attempt to figure out how to do this without flask.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours and 40 minutes.
+
+**Link(s) to work:** [FCC Request Header Parser Microservice Python](https://github.com/larrytooley/fcc-request-header-parser-microservice-py)
+
 ### Day 31: February 4, 2017
 
 **Today's Progress:** Worked on learning test-driven development and django at the same time.
