@@ -316,3 +316,12 @@
 **Thoughts**: So much to learn still but it's great and I'm not alone.
 
 **Link to work**: https://github.com/joshcode16/react-boilerplate.git cloned this and used during Meetup
+
+
+##Day 40: Feb. 6, 2017
+
+**Today's Progress**: Scrapped using Bootstrap on portfolio and switched to Materialize instead. Wanted to try something different and came highly recommended by Coding Dojo buddies.
+
+**Thoughts**: While someday I would like to learn to do all of the CSS and so forth by hand, it definitely speeds up development of a portfolio page to use tools such as Materialize. I can customize it to be my own.
+
+**Link to work**: Here is the Materialize info http://materializecss.com/getting-started.html
