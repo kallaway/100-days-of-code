@@ -177,7 +177,82 @@ but done with main parts. maybe just missing network map.
 
 **Link to work**:
 
-<!-- ### Day 0 : January 13, 2016
+### Day 21 : January 31, 2016
+
+**Today's Progress**: rails backend
+
+**Thoughts**:
+
+**Link to work**:
+
+### Day 22 : February 1, 2016
+
+**Today's Progress**: rails backend
+
+**Thoughts**: did a lot of rails backend work
+on myIRlog. Better understanding of routes and 
+resources, and making custom routes. Definitely helpful.
+
+**Link to work**:
+
+### Day 23 : February 2, 2016
+
+**Today's Progress**: rails backend + CSS
+
+**Thoughts**: more rails backend, but also lots of 
+CSS editing. Getting more familiar with quick
+editing of style. All on myIRlog
+
+**Link to work**:
+
+### Day 24 : February 3, 2016
+
+**Today's Progress**: rails backend + javascript
+
+**Thoughts**: trying to make the CSS work with 
+javascript. Things has simple as changing the highlight
+on a menu bar. Frustrating to write so much code 
+for something that seems so simple. Is there a better way?
+
+**Link to work**:
+
+### Day 25 : February 4, 2016
+
+**Today's Progress**: new site + bootstrap
+
+**Thoughts**: trying to integrate a bootstrap template
+on rails. Copying files over didn't seem as easy as I figured 
+it would be. So found this gem 'front-end generators' that sets up
+some bootstrap templates with a few lines of code on rails. Super 
+useful. All for Rights Forward.
+
+**Link to work**:
+
+### Day 26 : February 5, 2016
+
+**Today's Progress**: rails backend and assets compiling
+
+**Thoughts**: deploying to heroku caused the CSS and JS files 
+not to show / compile properly. Spent hours debugging and trying 
+to figure out why. Threw a bunch of console.logs in the JS files to 
+see which ones worked and which ones didn't. Assets didn't compile properly
+and read every resource online. Not sure what did it in the end, since
+there were so many edits. But had to move around the require tree order, 
+and manually precompile assets before pushing up. 
+
+**Link to work**:
+
+### Day 27 : February 6, 2016
+
+**Today's Progress**: rails backend
+
+**Thoughts**:
+
+**Link to work**:
+
+
+
+<!-- ### Day 0 : February 13, 2016
 
 **Today's Progress**:
 
