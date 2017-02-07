@@ -206,3 +206,13 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
+
+
+### Day 16: Feb 3, 2017
+
+
+**Today's Progress**: Worked on Random Quote Machine.
+
+**Thoughts**: Not the easiest thing to do for me. Decided to design HTML first.
+
+**Link(s) to work**: http://codepen.io/nongrata/pen/EZpawN , https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine
