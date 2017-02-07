@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 26: February 06, 2017
+
+**Today's Progress**: From my Twitch App, I defined the streamers as a global variable, it is more easy to access. I improved the function to iterate in the array with forEach method, then it get the JSON for each value and store in a new array where I can access all data. I noticed the forEach method, it is a little crazy to iterate, because it does not save the data in the order. The media list for All, Online and Offline streamers was implemented and settled at the document.ready jquery. This is important when the user click in any option it will load the current streamers.
+
+**Thoughts:**
+
 ### Day 25: February 02, 2017
 
 **Today's Progress**: Today I stopped for a moment my Twitch App to study Noje.js and MongoDB. So it was necessary unsderstand some conceps like REST API and CRUD, and at my first time it was easy and hard to get the theory and compare with the practice. Also, I learned how to start with Node, basic commands, json package that's essencial for everything in a node project. Besides, MongoDB has the javascript essential as JSON, but when you just know relational database and see in a different way the data, it can be confuse.
