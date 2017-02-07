@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 6, 2017
+
+**Today's Progress:** Worked on Python version of FCC timestamp microservice. Completed all but the Unix timestamp case.
+
+**Thoughts:** Dates and times are hard. The number of formats causes lots of checking and formatting.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [FCC Timestamp Microservice Python](https://github.com/larrytooley/fcc-timestamp-microservice-py)
+
 ### Day 32: February 5, 2017
 
 **Today's Progress:** Built the FCC Request Header Parser project with python and flask. Deployed on Heroku.
