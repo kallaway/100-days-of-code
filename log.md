@@ -215,4 +215,4 @@ array.sort(function(a, b) {
 
 **Thoughts**: Not the easiest thing to do for me. Decided to design HTML first.
 
-**Link(s) to work**: http://codepen.io/nongrata/pen/EZpawN , https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/EZpawN) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine)
