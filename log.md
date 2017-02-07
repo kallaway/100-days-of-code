@@ -424,3 +424,16 @@ Personal Website:
 **Thoughts:** local and global variables are the name of today.  I have asked myself 20 times today "why isnt that variable working?"  Also, working on nested functions.  Seems to happen a lot when using jQuery to to pull from API's.
 
 **Link to work:** [Use the TwitchTV JSON API project on codepen](http://codepen.io/anewdev/pen/bgMMab) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 35: February 6, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed the "Use the TwitchTV JSON API" project
+Hack Reactor Prep: Completed evaluation 1 and 2, and tests 1-3 in module 2
+AWS Certified Developer Associate: Took practice exam over completed sessions scoring a 92
+aNewDev.io: general updates to aNewDev site.  
+Personal Website:
+
+**Thoughts:**
+
+**Link to work:** [github page for aNewDev](https://github.com/aNewDev/aNewDev.github.io) | [Use the TwitchTV JSON API project on codepen](http://codepen.io/anewdev/pen/bgMMab) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
