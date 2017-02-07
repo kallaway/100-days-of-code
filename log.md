@@ -260,3 +260,11 @@
 **Thoughts:** I didn't really have any specific roadblocks today, but I did learn about dot and bracket notation used to access data sets.
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 24(+4): February 6, 2017
+
+**Today's Progress**: Profile Lookup Challenge
+
+**Thoughts:** I definitely coded for over an hour working on the profile lookup challenge. I basically had it right, except I really confused the function of the dot operator and bracket notation when accessing object's properties. What i didn't realize was that the dot is only for accessing something you already know the name of the property for. I was using them interchangeably. The bracket should be used for variables. Also--I completely forgot about the .hasOwnProperty boolean test which allowed me to get a boolean by checking if a property exists. If it does, then you know you can return something. Sigh. Time for bed I think... but I gotta finish watch Goldfinger first.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
