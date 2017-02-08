@@ -176,6 +176,14 @@
 
 **Link to work:** No links to this work just yet
 
+### Day 36: February 7th, 2017
+
+**Today's Progress**: I have been working on the the little landing page.  I added a background picture styled some texts, added some info and a footer with some social media icons.  That was for the 4 plus days I haven't been here.  Tonight, I got started on the blank blog template.
+
+**Thoughts**: I figured I might as well solidify php in my brain more by just redoing a blank version of what I've been doing with Edwin Diaz.  It seems to be working becasue I'm starting to remember little things here and there and how things work and how they should look.
+
+**Link to work:** https://github.com/MasayaTamegai/_templates
+
 
 
 
