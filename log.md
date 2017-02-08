@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 7, 2017
+
+**Today's Progress:** Completed FCC Timstamp Microservice project in Python.
+
+**Thoughts:** The Lambda School started yesterday adn it looks like it is going to make me better at python.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [FCC Timestamp Microservice Python](https://github.com/larrytooley/fcc-timestamp-microservice-py)
+
 ### Day 33: February 6, 2017
 
 **Today's Progress:** Worked on Python version of FCC timestamp microservice. Completed all but the Unix timestamp case.
