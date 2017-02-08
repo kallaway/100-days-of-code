@@ -184,6 +184,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/_templates
 
+### Day 37: February 8th, 2017
+
+**Today's Progress**: I got back on the PHP course again and finally figured out what was wrong and got it fixed
+
+**Thoughts**: Even though I haven't done the course for some time, I'm glad I still know what I'm looking at.
+
+**Link to work:** https://github.com/MasayaTamegai/_templates
+
 
 
 
