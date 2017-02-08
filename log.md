@@ -325,3 +325,21 @@
 **Thoughts**: While someday I would like to learn to do all of the CSS and so forth by hand, it definitely speeds up development of a portfolio page to use tools such as Materialize. I can customize it to be my own.
 
 **Link to work**: Here is the Materialize info http://materializecss.com/getting-started.html
+
+
+#Day 41: Feb 7, 2017
+
+**Today's Progress**: My brother, Brandon, helped me with melissa.work and created a logo for me along with a theme.
+
+**Thoughts**: This saved me many steps and so I began implementing his suggestions. I love my logo!
+
+**Link to work**: file:///C:/Users/melis/OneDrive/Documents/Melissa's%20Portfolio/melissa.work/index.html
+
+
+**Day #42: Feb. 8, 2017
+
+**Today's Progress**: Downloaded melissa.work folder and began customizing.
+
+**Thoughts**: It takes time to write concisely about who I am, what I do, resize image to be 500x500 square, etc. But it's coming along.
+
+**Link to work**: file:///C:/Users/melis/OneDrive/Documents/Melissa's%20Portfolio/melissa.work/index.html
