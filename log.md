@@ -437,3 +437,16 @@ Personal Website:
 **Thoughts:**
 
 **Link to work:** [github page for aNewDev](https://github.com/aNewDev/aNewDev.github.io) | [Use the TwitchTV JSON API project on codepen](http://codepen.io/anewdev/pen/bgMMab) | [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 36: February 7, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed first of the intermediate algorithm scripts
+Hack Reactor Prep: Completed tests 4-8 in module 2
+AWS Certified Developer Associate: Completed about 1/2 of the S3 section
+aNewDev.io:
+Personal Website:
+
+**Thoughts:**
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
