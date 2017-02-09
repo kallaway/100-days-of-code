@@ -450,3 +450,16 @@ Personal Website:
 **Thoughts:**
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 37: February 8, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed diffArrays script
+Hack Reactor Prep: Completed skeleton 0-1 in module
+AWS Certified Developer Associate: Continued the S3 section
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** the level of difficulty is going up.  It is continuing to challenge me
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
