@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 35: February 8, 2017
+
+**Today's Progress:** Got fahrenheit temp working on the weather app.
+
+**Thoughts:** Finally figured out why my getJSON was not working. Bootstrap suggests a slim version of the library that does not have that function.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [Free Code Camp Weather App](https://larrytooley.github.io/fcc-weather-app/) 
+
 ### Day 34: February 7, 2017
 
 **Today's Progress:** Completed FCC Timstamp Microservice project in Python.
