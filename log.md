@@ -250,6 +250,34 @@ and manually precompile assets before pushing up.
 
 **Link to work**:
 
+### Day 28 : February 7, 2016
+
+**Today's Progress**: got stuck on debugging node
+
+**Thoughts**: having problems with node. Launched the server and 
+it keps crashing. Ran ``lsof -i tcp:8080`` to check what was running,
+and there were a bunch of connections open. Had to manually kill
+them with ``sudo kill <pid>``.
+
+**Link to work**:
+
+### Day 29 : February 8, 2016
+
+**Today's Progress**: same issues with node
+
+**Thoughts**: same thing happened, only ``sudo kill <pid>`` didn't work.
+Lots of connections opened had "CLOSE_WAIT" indicator. Only way I managed
+to kill them was with ``sudo kill -9 <pid>``. Need to look into that more.
+
+**Link to work**:
+
+### Day 30 : February 9, 2016
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
 
 
 <!-- ### Day 0 : February 13, 2016
