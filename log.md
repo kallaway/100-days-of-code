@@ -268,3 +268,19 @@
 **Thoughts:** I definitely coded for over an hour working on the profile lookup challenge. I basically had it right, except I really confused the function of the dot operator and bracket notation when accessing object's properties. What i didn't realize was that the dot is only for accessing something you already know the name of the property for. I was using them interchangeably. The bracket should be used for variables. Also--I completely forgot about the .hasOwnProperty boolean test which allowed me to get a boolean by checking if a property exists. If it does, then you know you can return something. Sigh. Time for bed I think... but I gotta finish watch Goldfinger first.
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 25(+4): February 7, 2017
+
+**Today's Progress**: Functional Programming
+
+**Thoughts:** I started the functional programming excercises. I love this stuff! This is the kind of problem solving that I really enjoy. Although it's kind of weird how I always thought of coding as basically having a tangible result (like a  webpage) but now I have a better understanding of what goes on behind the scences. Plus I realize how much there is to learn.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 26(+5): February 9, 2017
+
+**Today's Progress**: Starting Basic Algorithm challenges!
+
+**Thoughts:** I finished the the functional programming challenges and now I'm working my way through the basic algorithm challenges. I just finished the string reverse excercise. I might try one more today. I missed a day yesterday because work was a bit stressful; my boss was out due to a death in the family and we had to send out some messages regarding the snow day we are having now. And then I got a migrane. Bummer. But at least I get to sit at home and code all day now. Plus take breaks for actual "work" ;-)
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
