@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+--------
+
+## Day 25: Febraury 10, 2017
+#### Today's progress:
+Create mongoose schemas.
+#### Thought: 
+Feeling happy to code after 10 days and get mongoose schemas done. 
 
 --------
 
@@ -17,6 +24,7 @@ Started a new project #aryes
 ## Day 22: January 26, 2017
 #### Today's progress:
 Integrated graphQL to my project. 
+
 --------
 
 ## Day 21: January 25, 2017
