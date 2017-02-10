@@ -464,7 +464,7 @@ Personal Website:
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
 
-### Day 37: February 8, 2017.
+### Day 38: February 9, 2017.
 
 **Today's Progress**:
 FreeCodeCamp:
