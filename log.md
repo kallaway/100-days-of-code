@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 36: February 9, 2017
+
+**Today's Progress:** Still working on getting the temperature switch to work and determine which icons to display based on api response.
+
+**Thoughts:** Still struggling a bit with this app. Reminding myself I am doing this because I don't know how to do this.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [Free Code Camp Weather App](https://larrytooley.github.io/fcc-weather-app/)
+
 ### Day 35: February 8, 2017
 
 **Today's Progress:** Got fahrenheit temp working on the weather app.
