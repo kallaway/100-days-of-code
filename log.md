@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 37: February 10, 2017
+
+**Today's Progress:** Completed chapter 7 of Obey the Testing Goat.
+
+**Thoughts:** Django has a lot of tools but is also much more complicated than Flask.
+
+**Tutorials:** Obey the Testing Goat.
+
+**Reading:** Obey the Testing Goat.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [Obey the Testing Goat](https://github.com/larrytooley/superlists)
+
 ### Day 36: February 9, 2017
 
 **Today's Progress:** Still working on getting the temperature switch to work and determine which icons to display based on api response.
