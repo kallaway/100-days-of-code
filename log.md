@@ -343,3 +343,23 @@
 **Thoughts**: It takes time to write concisely about who I am, what I do, resize image to be 500x500 square, etc. But it's coming along.
 
 **Link to work**: file:///C:/Users/melis/OneDrive/Documents/Melissa's%20Portfolio/melissa.work/index.html
+
+
+**Day #43: Feb. 9, 2017
+
+**Today's Progress**: Continued work on portfolio. Used Loom to record a video walk-through of "Girl, STEAM Your Story!"
+
+**Thoughts**: I liked the video walk-through and just need someone to sign up for Loom to continue to access my video. Hopefully Brandon could help me out. LOL
+
+**Link to work**: videoWalkThruGSYS.mp4
+
+
+**Day #44: Feb. 10, 2017
+
+**Today's Progress**: Tried to pull in video into portfolio and it's not working. Also the video in the background stopped working. On the bright side, I visited Frederick Douglass Elementary in Dallas ISD today and learned more about how I might be able to help with volunteering and Code.org implementation.
+
+**Thoughts**: Inspired by Shaz and Jess, and really hopeful that I will get a job soon.
+
+**Link to work**: Still on index.html for Melissa.Work
+
+**Thoughts**: Goal is to finish portfolio project by Monday. Hoping to apply in earnest after that.
