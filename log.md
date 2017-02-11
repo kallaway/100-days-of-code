@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 --------
 
+## Day 26: Febraury 11, 2017
+#### Today's progress:
+Designed DCN member page.
+#### Link
+[here](https://dev-circle-np.github.io/)
+
+--------
+
 ## Day 25: Febraury 10, 2017
 #### Today's progress:
 Create mongoose schemas.
