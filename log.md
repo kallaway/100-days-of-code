@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 27: February 06, 2017
+
+**Today's Progress**: I'm still working in my Twitch Web App, I'm implementing new code to display the streamers media in the app, but it is not working as the first time, of course. I will see it!
+
+**Thoughts:** I stopped for some days again, I get stuck in my learning process for this reason. But, it happens when you don't handle your time very well, you get tired so fast and your energy go down.
+
 ### Day 26: February 06, 2017
 
 **Today's Progress**: From my Twitch App, I defined the streamers as a global variable, it is more easy to access. I improved the function to iterate in the array with forEach method, then it get the JSON for each value and store in a new array where I can access all data. I noticed the forEach method, it is a little crazy to iterate, because it does not save the data in the order. The media list for All, Online and Offline streamers was implemented and settled at the document.ready jquery. This is important when the user click in any option it will load the current streamers.
