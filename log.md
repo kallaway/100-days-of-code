@@ -476,3 +476,16 @@ Personal Website:
 **Thoughts:** working with prototypes and higher order functions
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 39: February 10, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Completed skeleton 4 in module 2
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** prototypes are handy
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
