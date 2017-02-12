@@ -1,8 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 37: February 10, 2017
+### Day 37: February 11, 2017
 
 **Today's Progress:** Completed chapter 7 of Obey the Testing Goat.
+
+**Thoughts:** This was a long chapter. I am still a little lost in Django. I am going to have to build something from scratch and read the docs to figure it out.
+
+**Tutorials:** Obey the Testing Goat.
+
+**Reading:** Obey the Testing Goat.
+
+**Time:** 3 hours.
+
+**Link(s) to work:** [Obey the Testing Goat](https://github.com/larrytooley/superlists)
+
+### Day 37: February 10, 2017
+
+**Today's Progress:** Completed chapter 6 of Obey the Testing Goat.
 
 **Thoughts:** Django has a lot of tools but is also much more complicated than Flask.
 
