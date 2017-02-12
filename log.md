@@ -358,8 +358,18 @@
 
 **Today's Progress**: Tried to pull in video into portfolio and it's not working. Also the video in the background stopped working. On the bright side, I visited Frederick Douglass Elementary in Dallas ISD today and learned more about how I might be able to help with volunteering and Code.org implementation.
 
-**Thoughts**: Inspired by Shaz and Jess, and really hopeful that I will get a job soon.
+**Thoughts**: Inspired by Shaz and Jess, and really hopeful that I will get a job soon. Goal is to finish portfolio project by Monday. Hoping to apply in earnest after that.
 
 **Link to work**: Still on index.html for Melissa.Work
 
-**Thoughts**: Goal is to finish portfolio project by Monday. Hoping to apply in earnest after that.
+
+**Day #45: Feb. 11, 2017
+Day Off
+
+
+**Day #46: Feb. 12, 2017
+**Today's Progress**: Worked on portfolio more before going to church. Meetup this afternoon.
+
+**Thoughts** Learning through error-driven-development.
+
+**Link to work**: Still on index.html for melissa.work. Trying out Pexels for free stock video backgrounds. 
