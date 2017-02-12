@@ -489,3 +489,16 @@ Personal Website:
 **Thoughts:** prototypes are handy
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 40: February 11, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Worked on Skeleton 5 in module 2
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** light day today
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
