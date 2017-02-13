@@ -8,10 +8,15 @@
 
 **Link**: -
 
-### Dia 1: 13 de Fevereiro de 2017, o primeiro dia.
+### Dia 1: 13 de Fevereiro de 2017, o primeiro dia com Hacking with Swift.
 
-**Progresso do dia**: -
+**Progresso do dia**: Cheguei até a parte dos Loops no livro, foi uma boa revisão dos conceitos básicos, amanhã pretendo terminar toda a parte introdutória a linguagem Swift para poder então dar início a criação de apps.
 
-**Considerações**: -
+**Considerações**: Até o momento o livro tem se mostrado interessante, pois apresenta uma abordagem bem explicativa dos conceitos.
 
-**Link**: -
+
+### Dia 2: 14 de Fevereiro de 2017.
+
+**Progresso do dia**:
+
+**Considerações**:
