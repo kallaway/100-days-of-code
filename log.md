@@ -284,3 +284,27 @@
 **Thoughts:** I finished the the functional programming challenges and now I'm working my way through the basic algorithm challenges. I just finished the string reverse excercise. I might try one more today. I missed a day yesterday because work was a bit stressful; my boss was out due to a death in the family and we had to send out some messages regarding the snow day we are having now. And then I got a migrane. Bummer. But at least I get to sit at home and code all day now. Plus take breaks for actual "work" ;-)
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 27(+5): February 10, 2017
+
+**Today's Progress**: Find the longest string challenge
+
+**Thoughts:** So I actually didn't do any computer coding today--it was actually a terrible day. But I definitely laid the ground work for the next two algorithm challenges. Whenever I had some downtime I was trying to wrap my brain around how I was going to attempt the problems, so I feel like that counts for something!
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 28(+5): February 11, 2017
+
+**Today's Progress**: Finished one challenge, started Title Case challenge
+
+**Thoughts:** I did my first work on pen and paper today. It really helped!
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 29(+5): February 12, 2017
+
+**Today's Progress**: Finished Title Case Challenge!
+
+**Thoughts:** Not gonna go into this. But I spent way more than an hour on this today. And it finally worked!
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
