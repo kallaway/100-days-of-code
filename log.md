@@ -501,4 +501,17 @@ Personal Website:
 
 **Thoughts:** light day today
 
-**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+**Link to work:**
+
+### Day 41: February 12, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Completed Skeleton 5 in module 2, reviewed problem 1-4
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** light day today
+
+**Link to work:**
