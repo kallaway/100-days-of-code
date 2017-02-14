@@ -515,3 +515,16 @@ Personal Website:
 **Thoughts:** light day today
 
 **Link to work:**
+
+### Day 42: February 13, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep:
+AWS Certified Developer Associate: Completed database section on acloud.guru
+aNewDev.io:
+Personal Website: Built a valentine's site for my other.  
+
+**Thoughts:** Lot's of work on a personal project today.  It was fun to do something personal with my new skills.
+
+**Link to work:**
