@@ -192,6 +192,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/_templates
 
+### Day 43: February 14th, 2017
+
+**Today's Progress**: Finished up the posting content part of the tutorials and moved onto the comments section.
+
+**Thoughts**: Excited to say that I'm able to know what is coming next in the tutorials.  Honestly, it's just a lot of the same stuff happening over and over again and i can finally see the process and being able to recognize it.
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
+
 
 
 
