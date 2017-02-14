@@ -327,7 +327,7 @@
 **Link to work**: Here is the Materialize info http://materializecss.com/getting-started.html
 
 
-#Day 41: Feb 7, 2017
+##Day 41: Feb 7, 2017
 
 **Today's Progress**: My brother, Brandon, helped me with melissa.work and created a logo for me along with a theme.
 
@@ -336,7 +336,7 @@
 **Link to work**: file:///C:/Users/melis/OneDrive/Documents/Melissa's%20Portfolio/melissa.work/index.html
 
 
-**Day #42: Feb. 8, 2017
+##Day 42: Feb. 8, 2017
 
 **Today's Progress**: Downloaded melissa.work folder and began customizing.
 
@@ -345,7 +345,7 @@
 **Link to work**: file:///C:/Users/melis/OneDrive/Documents/Melissa's%20Portfolio/melissa.work/index.html
 
 
-**Day #43: Feb. 9, 2017
+##Day 43: Feb. 9, 2017
 
 **Today's Progress**: Continued work on portfolio. Used Loom to record a video walk-through of "Girl, STEAM Your Story!"
 
@@ -354,7 +354,7 @@
 **Link to work**: videoWalkThruGSYS.mp4
 
 
-**Day #44: Feb. 10, 2017
+##Day 44: Feb. 10, 2017
 
 **Today's Progress**: Tried to pull in video into portfolio and it's not working. Also the video in the background stopped working. On the bright side, I visited Frederick Douglass Elementary in Dallas ISD today and learned more about how I might be able to help with volunteering and Code.org implementation.
 
@@ -363,13 +363,21 @@
 **Link to work**: Still on index.html for Melissa.Work
 
 
-**Day #45: Feb. 11, 2017
+##Day 45: Feb. 11, 2017
 Day Off
 
 
-**Day #46: Feb. 12, 2017
-**Today's Progress**: Worked on portfolio more before going to church. Meetup this afternoon.
+##Day 46: Feb. 12, 2017
+**Today's Progress**: Worked on portfolio more before going to church. Meetup this afternoon. Made a simple JavaScript quiz app.
 
 **Thoughts** Learning through error-driven-development.
 
 **Link to work**: Still on index.html for melissa.work. Trying out Pexels for free stock video backgrounds. 
+
+
+##Day 47: Feb. 13, 2017
+**Today's Progress**: I spent about two hours redoing my resume and then applying to Texas Instruments Digital Learning position, and also as a web content specialist with Ivie.
+
+**Thoughts**: Back to my portfolio tomorrow!
+
+**Link to work**: GuerreroResume2017.pdf
