@@ -229,7 +229,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 26(+4): February 2, 2017
+### Day 27(+4): February 2, 2017
 
 **Today's Progress**: More Javascript Tutorials!
 
@@ -237,7 +237,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 26(+4): February 3, 2017
+### Day 28(+4): February 3, 2017
 
 **Today's Progress**: More Javascript Tutorials!
 
@@ -245,7 +245,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 27(+4): February 4, 2017
+### Day 29(+4): February 4, 2017
 
 **Today's Progress**: More Javascript Tutorials!
 
@@ -253,7 +253,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 23(+4): February 5, 2017
+### Day 30(+4): February 5, 2017
 
 **Today's Progress**: More Javascript Tutorials!
 
@@ -261,7 +261,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 24(+4): February 6, 2017
+### Day 31(+4): February 6, 2017
 
 **Today's Progress**: Profile Lookup Challenge
 
@@ -269,7 +269,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 25(+4): February 7, 2017
+### Day 32(+4): February 7, 2017
 
 **Today's Progress**: Functional Programming
 
@@ -277,7 +277,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 26(+5): February 9, 2017
+### Day 33(+5): February 9, 2017
 
 **Today's Progress**: Starting Basic Algorithm challenges!
 
@@ -285,7 +285,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 27(+5): February 10, 2017
+### Day 34(+5): February 10, 2017
 
 **Today's Progress**: Find the longest string challenge
 
@@ -293,7 +293,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 28(+5): February 11, 2017
+### Day 35(+5): February 11, 2017
 
 **Today's Progress**: Finished one challenge, started Title Case challenge
 
@@ -301,7 +301,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 29(+5): February 12, 2017
+### Day 36(+5): February 12, 2017
 
 **Today's Progress**: Finished Title Case Challenge!
 
@@ -309,7 +309,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 30(+5): February 13, 2017
+### Day 37(+5): February 13, 2017
 
 **Today's Progress**: Started Return Largest Number Challenge
 
@@ -317,7 +317,7 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
-### Day 31(+5): February 14, 2017
+### Day 38(+5): February 14, 2017
 
 **Today's Progress**: Challenge Wizard
 
