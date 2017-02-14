@@ -1,6 +1,34 @@
 # 100 Days Of Code - Log
 
-### Day 37: February 11, 2017
+### Day 40: February 13, 2017
+
+**Today's Progress:** Built some basic Python apps to get back into the swing of Python. Built the first three apps for Python Jumpstart course.
+
+**Thoughts:** I really like Python, but at the same time Javascript is really important for building great web apps. Pycharm doesn't imporess me.
+
+**Tutorials:** Python Jumpstart by Building 10 Apps.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Python Jumpstart with 10 Apps](https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
+
+### Day 39: February 12, 2017
+
+**Today's Progress:** Completed chapter 7 of Obey the Testing Goat.
+
+**Thoughts:** This was a long chapter. I am still a little lost in Django. I am going to have to build something from scratch and read the docs to figure it out.
+
+**Tutorials:** Obey the Testing Goat.
+
+**Reading:** Obey the Testing Goat.
+
+**Time:** 3 hours.
+
+**Link(s) to work:** [Obey the Testing Goat](https://github.com/larrytooley/superlists)
+
+### Day 38: February 11, 2017
 
 **Today's Progress:** Completed chapter 7 of Obey the Testing Goat.
 
