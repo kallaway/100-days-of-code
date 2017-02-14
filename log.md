@@ -316,3 +316,11 @@
 **Thoughts:** ARGH this is frustrating. I think I am close to getting this to work, but then everything breaks. I think I just need help manipulating arrays more. I will take a break and pick it up tomorrow. SIGH.
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 31(+5): February 14, 2017
+
+**Today's Progress**: Challenge Wizard
+
+**Thoughts:** Ok so either these challenges are easier, or drinking wine and coding late at night is not productive. It's probably a mix of both. I recovered quickly from my issue last night, and knocked off two more challenges today.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
