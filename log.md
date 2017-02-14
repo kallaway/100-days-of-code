@@ -308,3 +308,11 @@
 **Thoughts:** Not gonna go into this. But I spent way more than an hour on this today. And it finally worked!
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 30(+5): February 13, 2017
+
+**Today's Progress**: Started Return Largest Number Challenge
+
+**Thoughts:** ARGH this is frustrating. I think I am close to getting this to work, but then everything breaks. I think I just need help manipulating arrays more. I will take a break and pick it up tomorrow. SIGH.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
