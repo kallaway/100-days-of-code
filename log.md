@@ -528,3 +528,16 @@ Personal Website: Built a valentine's site for my other.
 **Thoughts:** Lot's of work on a personal project today.  It was fun to do something personal with my new skills.
 
 **Link to work:**
+
+### Day 43: February 14, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep:
+AWS Certified Developer Associate: Completed DynamoDB section on acloud.guru
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Light day due to Valentine's festivities.
+
+**Link to work:**
