@@ -200,6 +200,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/emptyCom
 
+### Day 44: February 15th, 2017
+
+**Today's Progress**: Started on the comments and so far you can create a comment.
+
+**Thoughts**: still pretty excited about the project and its making me think about how i can use it to finally start thinking about how to make this fitness app that works for what i do!
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
+
 
 
 
