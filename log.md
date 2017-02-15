@@ -23,7 +23,14 @@
 
 ### Dia 3: 15 de Fevereiro de 2017.
 
+**Progresso do dia**: Comecei com o Projeto 1 do livro, aprendi bastante sobre viewDidLoad, ViewController, tableView, UIKit e dentre outras coisas, uma que me deixou bastante interessado que foi o método dequeueReusableCell, pois até então eu não tinha conhecimento sobre ele.
+
+**Considerações**: Certamente passei da 1hr diária hoje, mal vi a hora passar lendo o livro e praticando o código. Amanhã tenho compromisso somente pela manhã, então espero conseguir terminar o Projeto 1 e avançar bastante/terminar o Projeto 2.
+
+### Dia 4: 16 de Fevereiro de 2017.
+
 **Progresso do dia**:
 
 **Considerações**:
+
 
