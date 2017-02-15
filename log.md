@@ -15,8 +15,15 @@
 **Considerações**: Até o momento o livro tem se mostrado interessante, pois apresenta uma abordagem bem explicativa dos conceitos.
 
 
-### Dia 2: 14 de Fevereiro de 2017.
+### Dia 2: 14 de Fevereiro de 2017, antes tarde do que nunca.
+
+**Progresso do dia**: Consegui terminar toda a revisão da linguagem Swift, agora acredito que esteja pronto para começar com a criação dos apps e ver como que a linguagem de fato é utilizada no XCode.
+
+**Considerações**: O dia foi longo, acabei me atrasando para terminar essa parte do livro, tecnicamente terminei apenas no dia 15, mas como ainda não dormi, vamos considerar como sendo dia 14. Amanhã, com compromisso apenas pela manhã será bem mais fácil me dedicar ao projeto.
+
+### Dia 3: 15 de Fevereiro de 2017.
 
 **Progresso do dia**:
 
 **Considerações**:
+
