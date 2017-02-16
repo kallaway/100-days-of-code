@@ -27,13 +27,13 @@
     </div>
       <div class="container">
       <div class="quote-button-row col-sm-12 col-sm-offset-6">
-         <a class="twitter-share-button btn btn-primary "
-  href="javascript.void(0)" onclick="tweetQuote()">
-Tweet</a>
+         
               
         <a id="sportButton"class="btn btn-primary btn-sports">Sports</a>
         <button id="techButton" class="btn btn-primary">Technology</button>
-       
+       <a class="icon-twitter btn btn-primary "
+  href="javascript.void(0)" onclick="tweetQuote()">
+</a>
         </div>
       </div>
   </div>
