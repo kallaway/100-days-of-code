@@ -332,3 +332,12 @@
 **Thoughts:** I made it pretty quickly through a few challenges, and then got held up by the Mutations challenge. I am getting it to run the proper test, but for some reason my boolean always turns up true. I think I need to add the results of my index statements. But I"m super tired so my brain is shutting down...
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 40(+5): February 16, 2017
+
+**Today's Progress**: Mutations
+
+**Thoughts:** I solved the mutations challenge, but the resolution is pretty clunky. There must be a more elegant way to do it. I basically sorted the strings alphabetically (not sure if it's necessary) and then split up the array so I could test if it actually appeared in the string by creating an array of the index output. Now that I'm writing this out I realize the alpha order stuff may be redundant. And I was correct-completely redundant. But anyways, basically I test the array to see if there's any negative numbers in it by stripping the 0's from the array and then multiplying the remaining array elements. If negative, false, and positive, true. And that passed the test. But still, it's a bit ridiculous. For example I have an array just to hold the zeroes I shifted off of the index array. I'll revisit sometime. It might be good review to come back to these challenges in a month and see what I do differently.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
