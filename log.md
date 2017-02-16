@@ -217,10 +217,49 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/EZpawN) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine)
 
+
+
 ### Day 17: Feb 4, 2017
 
-**Today's Progress**: Worked on Random Quote Machine.
 
-**Thoughts**: Added Bootstrap and used twitter icon on the tweet button. Worked on JS codes.
+**Today's Progress**: Worked on Random Quote Machine. (Added Bootstrap and used twitter icon on the tweet button. Worked on JS codes.)
+
+**Thoughts**: Progress is a progress. Once you passed the hard part things flaws.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/EZpawN) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine)
+
+
+
+### Day 18: Feb 5, 2017
+
+
+**Today's Progress**: Worked on Random Quote Machine. Javascript part almost finished. It was a bit copy paste but i believe i understand the code.
+
+**Thoughts**: There are some gaps in my mind with the code but i still think i learned a lot.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/EZpawN) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine)
+
+
+
+### Day 18: Feb 5, 2017
+
+
+**Today's Progress**: Worked on Random Quote Machine. Javascript part almost finished. It was a bit copy paste but i believe i understand the code.
+
+**Thoughts**: There are some gaps in my mind with the code but i still think i learned a lot.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/EZpawN) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine)
+
+
+
+### Day 19: Feb 6, 2017
+
+
+**Today's Progress**: Finished Random Quote Machine project. 
+
+**Thoughts**: This project is my first project that i create something real in this 100days of code challenge. My project has a bug which is you click tweet button first it takes you twitter page and tries to tweet some part of my code. Other than it works good. 
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/EZpawN) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine)
+
+
+
