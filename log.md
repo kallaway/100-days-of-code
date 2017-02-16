@@ -270,4 +270,45 @@ array.sort(function(a, b) {
 
 **Thoughts**: I begin to work with Html and CSS. 
 
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/full/LxJmNG/) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Local%20Weather%20App)### Day 21: Feb 13, 2017
+
+
+**Today's Progress**: Worked on Local Weather App. 
+
+**Thoughts**: This is harder than i thought. I know the path i should follow but it seems i dont know how to walk..
+
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/full/LxJmNG/) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Local%20Weather%20App)
+
+
+
+### Day 22: Feb 14, 2017
+
+
+**Today's Progress**: Worked on Local Weather App. 
+
+**Thoughts**: Get some help from a co-worker and made real progress.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/full/LxJmNG/) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Local%20Weather%20App)
+
+
+
+### Day 23: Feb 15, 2017
+
+
+**Today's Progress**: Worked on Local Weather App. 
+
+**Thoughts**: Well creating img urls was nice.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/full/LxJmNG/) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Local%20Weather%20App)
+
+
+
+### Day 24: Feb 16, 2017
+
+
+**Today's Progress**: Finished Local Weather App.
+
+**Thoughts**: When i was doing some researches for random quote machine i find a CSS builder named skeleton and used on this app for scale button. Looks nice. Also used bootsrap grid structure. I dont became a pro on it but really learned something useful for responsive design.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/full/LxJmNG/) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Local%20Weather%20App)
+
