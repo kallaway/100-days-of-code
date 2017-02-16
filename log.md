@@ -216,3 +216,11 @@ array.sort(function(a, b) {
 **Thoughts**: Not the easiest thing to do for me. Decided to design HTML first.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/EZpawN) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine)
+
+### Day 17: Feb 4, 2017
+
+**Today's Progress**: Worked on Random Quote Machine.
+
+**Thoughts**: Added Bootstrap and used twitter icon on the tweet button. Worked on JS codes.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/EZpawN) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine)
