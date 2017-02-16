@@ -27,10 +27,14 @@
 
 **Considerações**: Certamente passei da 1hr diária hoje, mal vi a hora passar lendo o livro e praticando o código. Amanhã tenho compromisso somente pela manhã, então espero conseguir terminar o Projeto 1 e avançar bastante/terminar o Projeto 2.
 
-### Dia 4: 16 de Fevereiro de 2017.
+### Dia 4: 16 de Fevereiro de 2017, projeto Storm Viewer concluído!
+
+**Progresso do dia**: Projeto 1 terminado, consegui iniciar o projeto 2, no entanto o término do mesmo será apenas amanhã.
+
+**Considerações**: O projeto 1 foi realmente muito útil, consegui aprender um pouco sobre o gerenciamento de arquivos no iOS, sobre auto layout, storyboards etc. 
+
+### Dia 5: 17 de Fevereiro de 2017
 
 **Progresso do dia**:
 
 **Considerações**:
-
-
