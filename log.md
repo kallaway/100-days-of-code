@@ -263,3 +263,11 @@ array.sort(function(a, b) {
 
 
 
+### Day 20: Feb 10, 2017
+
+
+**Today's Progress**: Worked on Local Weather App. 
+
+**Thoughts**: I begin to work with Html and CSS. 
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/full/LxJmNG/) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Local%20Weather%20App)
