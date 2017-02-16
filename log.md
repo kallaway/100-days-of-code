@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 41: February 14, 2017
+
+**Today's Progress:** Started a Python clone of the TODOtxt app.
+
+**Thoughts:** Working on Python for a while. Ultimately, I want to be working on Python projects with a side of Javascript. Going to start job hunting again.
+
+**Tutorials:** Python Jumpstart by Building 10 Apps.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [Python Jumpstart with 10 Apps](https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
+
 ### Day 40: February 13, 2017
 
 **Today's Progress:** Built some basic Python apps to get back into the swing of Python. Built the first three apps for Python Jumpstart course.
