@@ -312,5 +312,3 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/full/LxJmNG/) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Local%20Weather%20App)
 
-
-#ALOOO
