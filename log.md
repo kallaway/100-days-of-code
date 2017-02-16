@@ -541,3 +541,16 @@ Personal Website:
 **Thoughts:** Light day due to Valentine's festivities.
 
 **Link to work:**
+
+### Day 44: February 15, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Continued work on Module 2.  Completed problem 1 and 2.
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** One of the most difficult days I have faced.  The problems required a lot of mental exercise.  Good practice.
+
+**Link to work:**
