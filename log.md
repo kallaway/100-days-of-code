@@ -281,7 +281,7 @@ array.sort(function(a, b) {
 
 
 
-### Day 22: Feb 14, 2017
+### Day 21: Feb 14, 2017
 
 
 **Today's Progress**: Worked on Local Weather App. 
@@ -292,7 +292,7 @@ array.sort(function(a, b) {
 
 
 
-### Day 23: Feb 15, 2017
+### Day 22: Feb 15, 2017
 
 
 **Today's Progress**: Worked on Local Weather App. 
@@ -303,7 +303,7 @@ array.sort(function(a, b) {
 
 
 
-### Day 24: Feb 16, 2017
+### Day 23: Feb 16, 2017
 
 
 **Today's Progress**: Finished Local Weather App.
