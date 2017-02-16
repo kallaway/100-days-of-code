@@ -1,24 +1,101 @@
-<div class="container">
-  <div class="row ">
-    <div class='explain col-md-8 col-xs-6 '>I am a weather app. I work based on your browser location data. If you want to make me work you need to allow me to learn your location. It uses <a rel="nofollow" rel="noreferrer"href="http://www.openweathermap.org">Open Weather Map</a> data.
-    </div>
-  </div>
-  <div class="row">
-    <div class='loading col-md-12 col-xs-12 '>
-      <h1 id='weatherFeed' >Loading...</h1>
-    </div>
-  </div>
-  <div class="row ">
-    <div id='iconImg' class='rowIcon col-md-8 col-xs-6 '>
-    </div>
-  </div>
-  <div class="row ">
-    <div class='rowDegree col-md-8 col-xs-6 '>
-      <h1 id='celciusFeed'> 
-    </h1>
-      <h1 id='fahreneitFeed' style="display: none;"> 
-    </h1>
-      <button class='button button-primary' onclick="changeDegree();">Change Scale</button>
-    </div>
-  </div>
-</div>
+.explain {
+  top: 200px;
+  font-family: Oswald;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+}
+.loading  {
+  top: 200px;
+  font-family: Oswald;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+}
+.rowIcon {
+  top: 200px;
+  }
+
+.rowDegree {
+  top: 200px;
+  }
+.weatherState {
+  font-family: Oswald;
+  font-size: 100px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 25px;
+}
+
+/*
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  display: inline-block;
+  height: 38px;
+  padding: 0 30px;
+  color: #555;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: transparent;
+  border-radius: 4px;
+  border: 1px solid #bbb;
+  cursor: pointer;
+  box-sizing: border-box; }
+.button:hover,
+button:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover,
+.button:focus,
+button:focus,
+input[type="submit"]:focus,
+input[type="reset"]:focus,
+input[type="button"]:focus {
+  color: #333;
+  border-color: #888;
+  outline: 0; }
+.button.button-primary,
+button.button-primary,
+input[type="submit"].button-primary,
+input[type="reset"].button-primary,
+input[type="button"].button-primary {
+  color: #FFF;
+  background-color: #33C3F0;
+  border-color: #33C3F0; }
+.button.button-primary:hover,
+button.button-primary:hover,
+input[type="submit"].button-primary:hover,
+input[type="reset"].button-primary:hover,
+input[type="button"].button-primary:hover,
+.button.button-primary:focus,
+button.button-primary:focus,
+input[type="submit"].button-primary:focus,
+input[type="reset"].button-primary:focus,
+input[type="button"].button-primary:focus {
+  color: #FFF;
+  background-color: #1EAEDB;
+  border-color: #1EAEDB; }
+
+
