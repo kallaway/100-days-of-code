@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 42: February 15, 2017
+
+**Today's Progress:** Built Weather app from Python Jumpstart. Learned about named tuples.
+
+**Thoughts:** This app was not overly complex and learned a couple of things I can use to build my TODOtxt clone.
+
+**Tutorials:** Python Jumpstart by Building 10 Apps.
+
+**Reading:** None.
+
+**Time:** 1 hours and 30 minutes.
+
+**Link(s) to work:** [Python Jumpstart with 10 Apps](https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
+
 ### Day 41: February 14, 2017
 
 **Today's Progress:** Started a Python clone of the TODOtxt app.
