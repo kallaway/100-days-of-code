@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 43: February 16, 2017
+
+**Today's Progress:** Worked on todo.py. Have basic add function started.
+
+**Thoughts:** Need to figure out the best way to plan out an app. Seems like jumping into writing code is not the best idea.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [todo.py](https://github.com/larrytooley/todo.py)
+
 ### Day 42: February 15, 2017
 
 **Today's Progress:** Built Weather app from Python Jumpstart. Learned about named tuples.
