@@ -394,7 +394,7 @@ Day Off
 ##Day 49: Feb. 15th, 2017
 **Today's Progress**: Redid Ninja Gold Game (the view, and the Pylot version) to make it cute for portfolio.
 
-**Thoughts**: Need to record video walkth-through of it now that it looks better. Also only had about 1 hour today to work.
+**Thoughts**: Need to record video walk-through of it now that it looks better. Also only had about 1 hour today to work.
 
 **Link to work**: Pylot_Ninja_Gold folder on desktop 
 
@@ -402,3 +402,10 @@ Day Off
 ##Day 50: Feb. 16th, 2017
 Day Off
 
+
+##Day 51: Feb. 17th, 2017
+**Today's Progress**: Revisited Ruby on Rails. Contacted by recruiter for job in Ft. Worth which I declined to pursue due to distance. Gave self pep talk. Will not get much or any coding done this weekend because I am going out of town. Made major revisions and edits to melissa.work and saved resume as .docx and .doc files.
+
+**Thoughts**: CSS stylesheets are a blessing and a curse, because I have to figure out how to overcome inheritance, etc when styling the certain areas of my portfolio page without breaking other areas. 
+
+**Link to work**: mainly still on melissa.work
