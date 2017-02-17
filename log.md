@@ -208,6 +208,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/emptyCom
 
+### Day 46: February 17th, 2017
+
+**Today's Progress**: BOOM! I can now create users to this!
+
+**Thoughts**: I think my brain has almost grasped the concent of developing with php, not saying im good at it but definitely understanding more
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
+
 
 
 
