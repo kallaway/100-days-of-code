@@ -554,3 +554,16 @@ Personal Website:
 **Thoughts:** One of the most difficult days I have faced.  The problems required a lot of mental exercise.  Good practice.
 
 **Link to work:**
+
+### Day 45: February 16, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Continued work on Module 2.  Completed problem 3.
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Each of these HR problems have really stretched me.  They require me to really think.
+
+**Link to work:**
