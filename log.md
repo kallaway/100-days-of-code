@@ -381,3 +381,24 @@ Day Off
 **Thoughts**: Back to my portfolio tomorrow!
 
 **Link to work**: GuerreroResume2017.pdf
+
+
+##Day 48: Feb. 14th, 2017
+**Today's Progress**: Got video background of portfolio working again, among other small things. Only had about 1 hour to code.
+
+**Thoughts**: Coding takes time.
+
+**Link to work**: melissa.work is coming together!
+
+
+##Day 49: Feb. 15th, 2017
+**Today's Progress**: Redid Ninja Gold Game (the view, and the Pylot version) to make it cute for portfolio.
+
+**Thoughts**: Need to record video walkth-through of it now that it looks better. Also only had about 1 hour today to work.
+
+**Link to work**: Pylot_Ninja_Gold folder on desktop 
+
+
+##Day 50: Feb. 16th, 2017
+Day Off
+
