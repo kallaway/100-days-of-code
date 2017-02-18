@@ -567,3 +567,16 @@ Personal Website:
 **Thoughts:** Each of these HR problems have really stretched me.  They require me to really think.
 
 **Link to work:**
+
+### Day 46: February 17, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed 'Roman Numerals' Exercise
+Hack Reactor Prep:
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** I have a constant feeling that I should be simplifying my code more than I currently have the ability too.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
