@@ -216,6 +216,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/emptyCom
 
+### Day 47: February 18th, 2017
+
+**Today's Progress**: CRUD is DONE.  I can now create, read, update and delete users.
+
+**Thoughts**: I think my brain has almost grasped the concent of developing with php, not saying im good at it but definitely understanding more
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
+
 
 
 
