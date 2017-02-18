@@ -341,3 +341,13 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
+### Day 41(+5): February 17, 2017
+
+**Today's Progress**: Falsy Destroy
+
+**Thoughts:** 
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+
+
