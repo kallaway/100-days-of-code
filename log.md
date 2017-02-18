@@ -33,8 +33,16 @@
 
 **Considerações**: O projeto 1 foi realmente muito útil, consegui aprender um pouco sobre o gerenciamento de arquivos no iOS, sobre auto layout, storyboards etc. 
 
-### Dia 5: 17 de Fevereiro de 2017
+### Dia 5: 17 de Fevereiro de 2017, projeto GuessTheFlag concluído!
+
+**Progresso do dia**: Finalizado o projeto 2, commit e push realizados para o github.
+
+**Considerações**: Projeto 2 trabalhou com arrays e randomização de números com o GameplayKit, além disso pude aprender a criar conexões entre os variados botões (bandeiras) e verificar se a bandeira tocada é a correta ou não.
+
+### Dia 6: 18 de Fevereiro de 2017,
 
 **Progresso do dia**:
 
 **Considerações**:
+
+
