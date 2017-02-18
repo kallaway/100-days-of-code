@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 44: February 17, 2017
+
+**Today's Progress:** Worked on todo.py. Have basic add function started.
+
+**Thoughts:** Learning argparse. Need to understand TDD. I want to integrate tests from the start.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [todo.py](https://github.com/larrytooley/todo.py)
+
 ### Day 43: February 16, 2017
 
 **Today's Progress:** Worked on todo.py. Have basic add function started.
