@@ -39,10 +39,15 @@
 
 **Considerações**: Projeto 2 trabalhou com arrays e randomização de números com o GameplayKit, além disso pude aprender a criar conexões entre os variados botões (bandeiras) e verificar se a bandeira tocada é a correta ou não.
 
-### Dia 6: 18 de Fevereiro de 2017,
+### Dia 6: 18 de Fevereiro de 2017, #import Social.
+
+**Progresso do dia**: Projeto 1 atualizado com botões para compartilhamento via rede social. Utilizando a biblioteca #import Social. Iniciado o Projeto 3 - Easy Browser
+
+**Considerações**: O dia foi muito produtivo, aprendi sobre a biblioteca Social e o quão fácil é adicionar um botão para compartilhamento pelas mídias sociais.
+
+### Dia 7: 19 de Fevereiro de 2017,
 
 **Progresso do dia**:
 
 **Considerações**:
-
 
