@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 46: February 19, 2017
+
+**Today's Progress:** Worked through Wizard Battle app with Python Jumpstart. Also, worked on todo.py
+
+**Thoughts:** I am learning/relearning some things that will help me with more complex applictions. I am learning the standard library as well.
+
+**Tutorials:** Python Jumpstart by Building 10 Apps.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [[todo.py](https://github.com/larrytooley/todo.py)
+
 ### Day 45: February 18, 2017
 
 **Today's Progress:** Worked through lolcat app with Python Jumpstart.
