@@ -224,6 +224,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/emptyCom
 
+### Day 48: February 19th, 2017
+
+**Today's Progress**: Started on the login part of the course
+
+**Thoughts**: Not in the mood today but got something in
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
+
 
 
 
