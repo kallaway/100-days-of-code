@@ -580,3 +580,16 @@ Personal Website:
 **Thoughts:** I have a constant feeling that I should be simplifying my code more than I currently have the ability too.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 47: February 18, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed 'Wherefore Art Thou' Exercise
+Hack Reactor Prep:
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Every algorithm I work on FreeCodeCamp requires me to learn something new.  I like it.  Learn all the code.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
