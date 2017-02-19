@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 45: February 18, 2017
+
+**Today's Progress:** Worked through lolcat app with Python Jumpstart.
+
+**Thoughts:** I am learning/relearning some things that will help me with more complex applictions. I am learning the standard library as well.
+
+**Tutorials:** Python Jumpstart by Building 10 Apps.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [Python Jumpstart](https://bitbucket.org/larrytooley/python-jumpstart)
+
 ### Day 44: February 17, 2017
 
 **Today's Progress:** Worked on todo.py. Have basic add function started.
