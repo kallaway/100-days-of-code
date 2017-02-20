@@ -593,3 +593,16 @@ Personal Website:
 **Thoughts:** Every algorithm I work on FreeCodeCamp requires me to learn something new.  I like it.  Learn all the code.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 48: February 19, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed 'Search and Replace' and 'Pig Latin' Exercise
+Hack Reactor Prep:
+AWS Certified Developer Associate: Completed SQS, SNS, SWF, and Cloudformation sections on acloud.guru training.
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Significant progress on FCC and AWS work today.  Pushed through the strong desire to nap.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
