@@ -349,5 +349,13 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
+### Day 42(+6): February 19, 2017
+
+**Today's Progress**: One more algorithm to go!
+
+**Thoughts:** I missed a day yesterday due to hardcore vacationing. I think that's acceptable, right? I definitely made up for it today. Plus I'm surrounded by professional developers so that keeps things interesting. Tomorrow I'll start work on the Ceasar's Cipher challenge.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
 
 
