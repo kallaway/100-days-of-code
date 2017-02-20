@@ -41,11 +41,17 @@
 
 ### Dia 6: 18 de Fevereiro de 2017, #import Social.
 
-**Progresso do dia**: Projeto 1 atualizado com botões para compartilhamento via rede social. Utilizando a biblioteca #import Social. Iniciado o Projeto 3 - Easy Browser
+**Progresso do dia**: Projeto 1 atualizado com botões para compartilhamento via rede social. Utilizando a biblioteca #import Social. Iniciado o Projeto 4 - Easy Browser
 
 **Considerações**: O dia foi muito produtivo, aprendi sobre a biblioteca Social e o quão fácil é adicionar um botão para compartilhamento pelas mídias sociais.
 
-### Dia 7: 19 de Fevereiro de 2017,
+### Dia 7: 19 de Fevereiro de 2017, Easy Browser concluído!
+
+**Progresso do dia**: Projeto 4 concluído, aprendi bastante sobre como trabalhar com o WKWebView além de ter utilizado o método loadView() e UIToolBar.
+
+**Considerações**: Possuo algumas ideias de como melhorar o app, e isso me faz querer voltar a trabalhar nele posteriormente.
+
+### Dia 8: 20 de Fevereiro de 2017,
 
 **Progresso do dia**:
 
