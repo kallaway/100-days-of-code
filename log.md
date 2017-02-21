@@ -409,3 +409,15 @@ Day Off
 **Thoughts**: CSS stylesheets are a blessing and a curse, because I have to figure out how to overcome inheritance, etc when styling the certain areas of my portfolio page without breaking other areas. 
 
 **Link to work**: mainly still on melissa.work
+
+
+##Day 52, 53, 54: Feb 18-20, 2017
+Out of town in Arkansas visiting my kids - took time off for quality time with them!
+
+
+##Day 55: Feb. 21, 2017
+**Today's Progress**: Loom didn't work to record NInja Gold walk-through. Tried screen shot approach instead. Image distorted after I resized. Will continue figuring out making it look good at full page later. Frustrating.
+
+**Thoughts** If things would work as planned the first time (non working Chrome extension!?) I wouldn't waste time inventing work-arounds.
+
+**Link to work**: melissa.work still
