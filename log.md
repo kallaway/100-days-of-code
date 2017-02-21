@@ -2,13 +2,11 @@
 
 ### Day 1: February 21, 2017, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through my Twitch App Project on FreeCodeCamp. I get stuck applying the same solution for a different problem. So, I tried a different solution and it is working. Next, I'll use jQuery to activatethe nav-tabs and filter the streamers channels.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Try different solutions for problems you think that same solution it'll works!
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Twitch App](http://codepen.io/kelvinmaues/full/zNEWYP/)
 
 ### Day 0: February 20, 2017, Monday
 
