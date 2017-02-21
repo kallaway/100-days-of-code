@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 47: February 20, 2017
+
+**Today's Progress:** Worked through the file search app from Python Jumpstart. Learned generators!
+
+**Thoughts:** Generators seem like they would be super useful in some of my past apps. I think I am going to try and refactor some of my web apps.
+
+**Tutorials:** Python Jumpstart by Building 10 Apps.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [todo.py](https://github.com/larrytooley/todo.py)
+
 ### Day 46: February 19, 2017
 
 **Today's Progress:** Worked through Wizard Battle app with Python Jumpstart. Also, worked on todo.py
@@ -12,7 +26,7 @@
 
 **Time:** 2 hours.
 
-**Link(s) to work:** [[todo.py](https://github.com/larrytooley/todo.py)
+**Link(s) to work:** [todo.py](https://github.com/larrytooley/todo.py)
 
 ### Day 45: February 18, 2017
 
