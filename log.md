@@ -51,9 +51,14 @@
 
 **Considerações**: Possuo algumas ideias de como melhorar o app, e isso me faz querer voltar a trabalhar nele posteriormente.
 
-### Dia 8: 20 de Fevereiro de 2017,
+### Dia 8: 20 de Fevereiro de 2017, ScrambleWords.
+
+**Progresso do dia**: Consegui realizar o primeiro commit para o projeto ScrambleWords, 5° projeto do livro.
+
+**Considerações**: Amanhã buscarei terminar o projeto 5 e começar o 6°, hoje o dia foi muito cansativo e infelizmente isso impactou a minha produtividade.
+
+### Dia 9: 21 de Fevereiro de 2017,
 
 **Progresso do dia**:
 
 **Considerações**:
-
