@@ -357,5 +357,18 @@
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
 
+### Day 43(+6): February 20, 2017
 
+**Today's Progress**: Worked on the Ceasar's Cipher
 
+**Thoughts:** I got pretty far into the Cipher problem. It actually works, but it's not passing the challenge for some reason. I'll address that tomorrow.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 44(+6): February 21, 2017
+
+**Today's Progress**: CodeWars and Pair Programming
+
+**Thoughts:** I worked with Max today doing some pair programming for the first time as well as starting some challenges on Codewars. It was fun! I leanred way more than I probably will be able to remember tomorrow, but at least I'll be able to recognize the concepts later on. Also interesting--I wasn't passing the last challenge because my variable was defined outside of my function. But it works now! The version saved on FCC is a very reduced version that Max showed me of the original resolution I came up with.
+
+**Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
