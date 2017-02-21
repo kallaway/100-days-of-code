@@ -606,3 +606,16 @@ Personal Website:
 **Thoughts:** Significant progress on FCC and AWS work today.  Pushed through the strong desire to nap.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 49: February 20, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed multiple exercises in intermediate algorithm section
+Hack Reactor Prep:
+AWS Certified Developer Associate: Took practice exam. Completed Elastic Beanstalk and Shared Responsibility sections on acloud.guru training.
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Knocked out 9 exercises on FCC today. Things were flowing today.  
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
