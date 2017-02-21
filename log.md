@@ -232,6 +232,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/emptyCom
 
+### Day 49: February 20th, 2017
+
+**Today's Progress**: Got the login page started you can input a username and password and php can check the db for it
+
+**Thoughts**: Got as much as i can in before i go sleepy, hopefully this new workout and diet will level out soon if nnot theres coffee
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
+
 
 
 
