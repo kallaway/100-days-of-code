@@ -240,6 +240,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/emptyCom
 
+### Day 50: February 21st, 2017
+
+**Today's Progress**: finished up the login process you can now login and log out the cms recognizes the difference between admin and subscriber
+
+**Thoughts**: back at it and feeling goooooooooooood
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
+
 
 
 
