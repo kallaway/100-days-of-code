@@ -619,3 +619,16 @@ Personal Website:
 **Thoughts:** Knocked out 9 exercises on FCC today. Things were flowing today.  
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 50: February 21, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed intermediate algorithm section
+Hack Reactor Prep:
+AWS Certified Developer Associate: Started VPC section on acloud.guru training.
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Day 50!  Half way!  Grateful to be done with the intermediate algorithm section from FCC.  I was challenged multiple times, but made it through.  
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
