@@ -57,7 +57,13 @@
 
 **Considerações**: Amanhã buscarei terminar o projeto 5 e começar o 6°, hoje o dia foi muito cansativo e infelizmente isso impactou a minha produtividade.
 
-### Dia 9: 21 de Fevereiro de 2017,
+### Dia 9: 21 de Fevereiro de 2017, avançando com o projeto ScrambleWords.
+
+**Progresso do dia**: Consegui avançar com o projeto ScrambleWords e tive a primeira interação com Closures, foi uma bela pancada, muita coisa para absorver ainda! Me deparei também com um compile error @ linha 79 do ViewController.swift
+
+**Considerações**: Gostaria de ter avançado mais hoje mas aprender sobre Closures tem sido bem mais complicado do que imaginei que seria, além disso estou com erro de compilação ainda a ser resolvido.
+
+### Dia 10: 22 de Fevereiro de 2017,  .
 
 **Progresso do dia**:
 
