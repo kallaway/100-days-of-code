@@ -421,3 +421,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts** If things would work as planned the first time (non working Chrome extension!?) I wouldn't waste time inventing work-arounds.
 
 **Link to work**: melissa.work still
+
+
+##Day 56, 57: Feb. 22-23, 2017
+**Today's Progress**: I used morning coding time to apply for software developer jobs. These didn't list a portfolio requirement, so I applied now, and will keep working on my portfolio of course.
+
+**Thoughts**: Thinking of going back to original works section and just highly modifying to fit their template because nothing is working and in the CSS the inheritance and styling can't be changed without breaking something else I like.
+
+**Link to work**: applied to about 8 jobs in two mornings.
