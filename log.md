@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 48: February 21, 2017
+
+**Today's Progress:** Worked on app to scrape wikiquotes to gather data for my Linus Quote API.
+
+**Thoughts:** 
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [wikiquote scraper](https://github.com/larrytooley/quote-scraper)
+
 ### Day 47: February 20, 2017
 
 **Today's Progress:** Worked through the file search app from Python Jumpstart. Learned generators!
