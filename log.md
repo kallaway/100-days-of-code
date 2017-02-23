@@ -632,3 +632,16 @@ Personal Website:
 **Thoughts:** Day 50!  Half way!  Grateful to be done with the intermediate algorithm section from FCC.  I was challenged multiple times, but made it through.  
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 51: February 22, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep:
+AWS Certified Developer Associate: Completed the acloud.guru training class.
+aNewDev.io: Updated to show completed training class.
+Personal Website:
+
+**Thoughts:** It was great to finish my AWS training.  Test scheduled!
+
+**Link to work:** [aNewDev.io](https://anewdev.io)
