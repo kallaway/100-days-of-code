@@ -1,0 +1,29 @@
+<div class="container">
+  <div class="row">
+    <div class="explain">
+      <h1 class="col-md-12">This is a wikipedia search and random page application</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="randomWiki col-md-12">
+      <button class="btn btn-primary" onclick='randomWiki()'>Random Wiki <span class="icon-random"></span></button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="searchWiki">
+      <div id="custom-search-input">
+        <div class="input-group col-md-12">
+          <input type="text" id='search-box' class="search-query form-control" placeholder="Wiki Search" />
+          <span class="input-group-btn">
+            <button class="btn btn-danger" type="button" onclick='getSearch()'>
+              <span class="icon-search">
+              </span>
+          </button>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row" id="resultRow">
+  </div>
+</div>
