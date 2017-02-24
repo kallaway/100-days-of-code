@@ -323,3 +323,14 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
 
+
+
+### Day 25: Feb 21, 2017
+
+
+**Today's Progress**: Begin to work on wikipedia viewer.
+
+**Thoughts**: Well, wiki api need to some work on it. It is not that simple beacuse it has a alot of options. I found examples on stackoverflow.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
+
