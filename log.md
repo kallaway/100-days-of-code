@@ -68,3 +68,21 @@
 **Progresso do dia**:
 
 **Considerações**:
+
+### Dia 11: 23 de Fevereiro de 2017,  .
+
+**Progresso do dia**:
+
+**Considerações**:
+
+### Dia 12: 24 de Fevereiro de 2017,  .
+
+**Progresso do dia**:
+
+**Considerações**:
+
+### Dia 13: 25 de Fevereiro de 2017,  .
+
+**Progresso do dia**:
+
+**Considerações**:
