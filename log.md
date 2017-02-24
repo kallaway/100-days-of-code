@@ -372,3 +372,18 @@
 **Thoughts:** I worked with Max today doing some pair programming for the first time as well as starting some challenges on Codewars. It was fun! I leanred way more than I probably will be able to remember tomorrow, but at least I'll be able to recognize the concepts later on. Also interesting--I wasn't passing the last challenge because my variable was defined outside of my function. But it works now! The version saved on FCC is a very reduced version that Max showed me of the original resolution I came up with.
 
 **Link to work:** [Camper Page](https://www.freecodecamp.com/cellojane)
+
+### Day 45(+6): February 22, 2017
+
+**Today's Progress**: JSON
+
+**Thoughts:** Today, I completed the JSON and AJAX tutorials and began work on my Random Quote Generator. I felt pretty confident about it until I attempted to my a API call to a library of quotes, and it didn't work. I messed around with it for a while but no dice. But I did lay out the framework for the elements of the page.
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 46(+6): February 23, 2017
+
+**Today's Progress**: Random Quote Generator Work
+
+**Thoughts:** I did some more reading of ze forums and discovered that this is the first challenge that people attempt and really feel like they don't have the skills to complete the assignment using JSON or AJAX and end up having to do a lot of research in order to make it happen. I decided that I am going to build a version of the page where I pull quotes from a random library that I created, and then see if I can make API calls later. Because doing the project twice can't hurt, right? So I created a variable in JS with a bunch of feminist quotes and tomorrow I'm going to see if I can get them to display randomly.
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
