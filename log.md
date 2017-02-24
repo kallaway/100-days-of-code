@@ -645,3 +645,16 @@ Personal Website:
 **Thoughts:** It was great to finish my AWS training.  Test scheduled!
 
 **Link to work:** [aNewDev.io](https://anewdev.io)
+
+### Day 52: February 23, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep:
+AWS Certified Developer Associate: Took practice exams and studied the AWS resources available.
+aNewDev.io:
+Personal Website:
+
+**Thoughts:** Study time for upcoming test
+
+**Link to work:** [aNewDev.io](https://anewdev.io)
