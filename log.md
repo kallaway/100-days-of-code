@@ -429,3 +429,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: Thinking of going back to original works section and just highly modifying to fit their template because nothing is working and in the CSS the inheritance and styling can't be changed without breaking something else I like.
 
 **Link to work**: applied to about 8 jobs in two mornings.
+
+
+##Day 58: Feb. 24, 2017
+**Today's Progress**: Brought back the Works section. 
+
+**Thoughts**: Sometimes templates save time and sometimes they make things harder than they have to be.
+
+**Link to work**: file:///C:/Users/melis/OneDrive/Documents/Melissa's%20Portfolio/melissa.work/index.html
