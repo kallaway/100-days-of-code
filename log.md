@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 50: February 23, 2017
+
+**Today's Progress:** Still working on the parsing of the wikiquotes text with BeautifulSoup4.
+
+**Thoughts:** Still reading the docs to get up to speed on what I need to do to extract the quotes and citations.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [wikiquote scraper](https://github.com/larrytooley/quote-scraper)
+
 ### Day 49: February 22, 2017
 
 **Today's Progress:** Worked on the parsing of the wikiquotes text with BeautifulSoup4.
