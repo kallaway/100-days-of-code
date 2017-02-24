@@ -248,6 +248,14 @@
 
 **Link to work:** https://github.com/MasayaTamegai/emptyCom
 
+### Day 53: February 24st, 2017
+
+**Today's Progress**: You can now update user profiles and see charts on the admin page displaying data dynamically from the db
+
+**Thoughts**: went through a little resistance from the past couple days but i finally got some work in 
+
+**Link to work:** https://github.com/MasayaTamegai/emptyCom
+
 
 
 
