@@ -658,3 +658,17 @@ Personal Website:
 **Thoughts:** Study time for upcoming test
 
 **Link to work:** [aNewDev.io](https://anewdev.io)
+
+### Day 53: February 24, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Began advanced algorithm section
+Hack Reactor Prep: Began reading in Module 3
+AWS Certified Developer Associate:
+aNewDev.io:
+Personal Website:
+Project: Began work on a new side project.
+
+**Thoughts:** Varied items today.  
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
