@@ -437,3 +437,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: Sometimes templates save time and sometimes they make things harder than they have to be.
 
 **Link to work**: file:///C:/Users/melis/OneDrive/Documents/Melissa's%20Portfolio/melissa.work/index.html
+
+
+##Day 59: Feb. 25, 2017
+**Today's Progress**: Melissa.work is done! But I was so excited to push it up to the remote host that I screwed something up by deleting the previous file and possibly placing a directory within a directory by mistake.
+
+**Thoughts**: Gotta slow down and do things right. I should've asked Brandon for help before, and now he is helping me fix things after the fact.
+
+**Link to work**: http://melissa.work
