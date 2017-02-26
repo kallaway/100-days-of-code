@@ -387,3 +387,19 @@
 **Thoughts:** I did some more reading of ze forums and discovered that this is the first challenge that people attempt and really feel like they don't have the skills to complete the assignment using JSON or AJAX and end up having to do a lot of research in order to make it happen. I decided that I am going to build a version of the page where I pull quotes from a random library that I created, and then see if I can make API calls later. Because doing the project twice can't hurt, right? So I created a variable in JS with a bunch of feminist quotes and tomorrow I'm going to see if I can get them to display randomly.
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 47(+6): February 24, 2017
+
+**Today's Progress**: Random Quote Generator Work
+
+**Thoughts:** I had to do a lot of debugging with my quote database. Sometimes I feel I have the correct sytax but it's not working in codepen. For example, I rewrote the database and for some reason it started working... so yeah. But now I have it correctly displaying a quote on the click of a button.
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 48(+7): February 26, 2017
+
+**Today's Progress**: Random Quote Generator Work
+
+**Thoughts:** I missed a day due to an internet outage yesterday. I need to come up with a good back up plan when I don't have access to internet. But oh well. Anyways I'm trying to get a random code to generate on the click of a button, but for some reason it's not working. I think it has to do with local v. global variables. I'm going to do some research and figure it out tomorrow.
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
