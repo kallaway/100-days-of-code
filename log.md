@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 52: February 25, 2017
+
+**Today's Progress:** Worked through the movie search app from Python Jumpstart.
+
+**Thoughts:** I need to make a list of the concepts I need to review and understand better. I found that most of the Python for Entrepreneurs course is not for me. I will move on to writing Pythonic Code.
+
+**Tutorials:** Python Jumpstart.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** 
+
+### Day 51: February 24, 2017
+
+**Today's Progress:** Worked through the real estate analyzer from Python Jumpstart.
+
+**Thoughts:** I am going to need to review generator expressions and stitic methods again. I didn't quite understand what was going on there.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** 
+
 ### Day 50: February 23, 2017
 
 **Today's Progress:** Still working on the parsing of the wikiquotes text with BeautifulSoup4.
