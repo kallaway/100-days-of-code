@@ -345,3 +345,14 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
 
+
+
+### Day 27: Feb 23, 2017
+
+
+**Today's Progress**: Begin to work on wikipedia viewer.
+
+**Thoughts**: I get some useful data now and i can print it on the screen with search button.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
+
