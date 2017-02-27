@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 53: February 26, 2017
+
+**Today's Progress:** Went to a hack-a-thon today and built an app to vote on top gaming clips. I created the starter code and worked on adding buttons and header logos.
+
+**Thoughts:** Had a good time today. I haven't been working on front-end stuff for a couple of weeks. Really enjoyed working on this stuff again.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 4 hours.
+
+**Link(s) to work:** [Game Clips](https://larrytooley.github.io/game-clips/)
+
 ### Day 52: February 25, 2017
 
 **Today's Progress:** Worked through the movie search app from Python Jumpstart.
