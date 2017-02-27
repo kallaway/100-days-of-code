@@ -328,7 +328,7 @@ array.sort(function(a, b) {
 ### Day 25: Feb 21, 2017
 
 
-**Today's Progress**: Begin to work on wikipedia viewer.
+**Today's Progress**: Worked on wikipedia viewer.
 
 **Thoughts**: Well, wiki api need to some work on it. It is not that simple beacuse it has a alot of options. I found examples on stackoverflow.
 
@@ -339,7 +339,7 @@ array.sort(function(a, b) {
 ### Day 26: Feb 22, 2017
 
 
-**Today's Progress**: Begin to work on wikipedia viewer.
+**Today's Progress**: Worked on wikipedia viewer.
 
 **Thoughts**: Still working on api. Managed to get some simple data but not the one i need it.
 
@@ -350,9 +350,41 @@ array.sort(function(a, b) {
 ### Day 27: Feb 23, 2017
 
 
-**Today's Progress**: Begin to work on wikipedia viewer.
+**Today's Progress**: Worked on wikipedia viewer.
 
 **Thoughts**: I get some useful data now and i can print it on the screen with search button.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
 
+
+
+### Day 28: Feb 24, 2017
+
+
+**Today's Progress**: Worked on wikipedia viewer.
+
+**Thoughts**: Managed to print all data that i need but architecture is not that good. Need to work on it.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
+
+
+
+### Day 29: Feb 26, 2017
+
+
+**Today's Progress**: Worked on wikipedia viewer.
+
+**Thoughts**: Took some action with design decided to print title and extract in one div. I gave \<h3> tag to title and \<p> tag to extract.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
+
+
+
+### Day 30: Feb 27, 2017
+
+
+**Today's Progress**: Today i worked on a zabbix project. 
+
+**Thoughts**: Decided to make some useful project for my job so it is win win. Using fiddler to make fast progress with API because it is not easy to understand an API for a beginner like me.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
