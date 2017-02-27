@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 5 : February 26, 2017, Sunday
+
+**Today's Progress**: Today I finished the Twitch Web App giving some style but I'm not satisfied yet, so before I finish my Front End Curriculum I'll improve that.
+
+**Thoughts** Design requires experience and creativity, so it is necessary to read more, learn with other different projects, get new ideas and apply it.
+
+**Link to work:** [Twitch Web App](http://codepen.io/kelvinmaues/full/zNEWYP/)
+
+### Day 4 : February 24, 2017, Friday
+
+**Today's Progress**: Learning more from React.js fundamentals, how to create components, to implement it and create child components with their parents. I learned how to change and execute the programm in production and not, ran webpack to bundle everything in one file to be transformed by Babel.
+
+**Thoughts** I was motivated but I need to handle the time and set especific time.
+
+**Link to work:** [React.js Fundamentals Course](https://online.reacttraining.com/)
+
 ### Day 3: February 23, 2017, Thursday
 
 **Today's Progress**: Today I finished the functional part of my Twitch App. It required to think more about to get the data for each case like all streamers, only online and offline. The first two cases it was easy to complete, but the offline case I needed to think more, and I solved get a json value, replacing part of a string for a string I wanted and send it as an URL with getJSON function. It WORKED! Now, I need to improve and UX and UI giving style, testing in different devices with Google Developer Tools, etc.
