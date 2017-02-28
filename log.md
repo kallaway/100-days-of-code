@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 54: February 27, 2017
+
+**Today's Progress:** Started working on flask app to combine portfolio and blog. Create the basic file structure and routes.
+
+**Thoughts:** Still need to get the design and figure out how to import my blogger site.
+
+**Tutorials:** Lambda School.
+
+**Reading:** None.
+
+**Time:** 1 hours and 30 minutes.
+
+**Link(s) to work:** [blog](https://github.com/larrytooley/blog)
+
 ### Day 53: February 26, 2017
 
 **Today's Progress:** Went to a hack-a-thon today and built an app to vote on top gaming clips. I created the starter code and worked on adding buttons and header logos.
