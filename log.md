@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 6 : February 27, 2017, Monday
+
+**Today's Progress**: Today I get started my Intermediate Algorithm Scripting on freeCodeCamp working to sum all numbers in a range by arrays as arguments. I get stuck in some parts because I was thinking about some solutions to solve it, but I didn't get success. I read and implemented some javascript functions like 'Math.max()' and 'Math.min()' to get the minimum and maximum values.
+
+**Thoughts** Withou success at this day I kept going forward!
+
 ### Day 5 : February 26, 2017, Sunday
 
 **Today's Progress**: Today I finished the Twitch Web App giving some style but I'm not satisfied yet, so before I finish my Front End Curriculum I'll improve that.
