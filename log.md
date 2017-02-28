@@ -686,3 +686,17 @@ Project: Setup Github and file structure for a project site
 **Thoughts:** working on Module 3, last one for HRPrep.  
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 55: February 27, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Completed first 3 exercises in Module 3
+AWS Certified Developer Associate: Took practice exams
+aNewDev.io:
+Personal Website:
+Project:
+
+**Thoughts:** working on Module 3, last one for HRPrep.  
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
