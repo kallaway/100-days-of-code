@@ -241,17 +241,6 @@ array.sort(function(a, b) {
 
 
 
-### Day 18: Feb 5, 2017
-
-
-**Today's Progress**: Worked on Random Quote Machine. Javascript part almost finished. It was a bit copy paste but i believe i understand the code.
-
-**Thoughts**: There are some gaps in my mind with the code but i still think i learned a lot.
-
-**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/EZpawN) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine)
-
-
-
 ### Day 19: Feb 6, 2017
 
 
@@ -386,5 +375,15 @@ array.sort(function(a, b) {
 **Today's Progress**: Today i worked on a zabbix project. 
 
 **Thoughts**: Decided to make some useful project for my job so it is win win. Using fiddler to make fast progress with API because it is not easy to understand an API for a beginner like me.
+
+
+
+
+### Day 31: Feb 28, 2017
+
+
+**Today's Progress**: Today i worked on a zabbix project and also on wikipedia viewer.
+
+**Thoughts**: Zabbix api is not going well i'm looking other projects about Zabbix with API. Wikipedia viewer user story side is done but i need to make more visual changes.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
