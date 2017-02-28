@@ -403,3 +403,11 @@
 **Thoughts:** I missed a day due to an internet outage yesterday. I need to come up with a good back up plan when I don't have access to internet. But oh well. Anyways I'm trying to get a random code to generate on the click of a button, but for some reason it's not working. I think it has to do with local v. global variables. I'm going to do some research and figure it out tomorrow.
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 49(+7): February 27, 2017
+
+**Today's Progress**: Random Quote Generator Work
+
+**Thoughts:** Crap. No progress made, but I did some research on JSON and AJAX. to be continued...
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
