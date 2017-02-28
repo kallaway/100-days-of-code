@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 7 : February 28, 2017, Thursday
+
+**Today's Progress**: Two algorithms solved in one day, in less than 90 minutes. First I solved the 'Sum All Numbers in a Range' getting the max and min value in an array, then I made a while loop to sum in each iteration the values. Second algorithm was 'Diff Two Arrays' and I solved using some If Else conditions to see the largest array and find for values in each array, 'indexOf' function it was a good deal to loop through the arrays.
+
+**Link to work:** -[Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range)
+ -[Diff Two Arrays](https://www.freecodecamp.com/challenges/diff-two-arrays)
+
 
 ### Day 6 : February 27, 2017, Monday
 
