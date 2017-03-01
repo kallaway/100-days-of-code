@@ -445,3 +445,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: Gotta slow down and do things right. I should've asked Brandon for help before, and now he is helping me fix things after the fact.
 
 **Link to work**: http://melissa.work
+
+
+##Day 60, 61: Feb. 26-28, 2017
+**Today's Progress**: Melissa.work is up and live! Got feedback, will consider and edit accordingly. Interview-type thing tomorrow at Creative Circle and internship follow up possibly too.
+
+**Thoughts**: Bad cold Sunday, trying to get well, not much coding done, more job hunting instead.
+
+**Link to work** http://melissa.work/
