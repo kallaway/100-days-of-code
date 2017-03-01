@@ -453,3 +453,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: Bad cold Sunday, trying to get well, not much coding done, more job hunting instead.
 
 **Link to work** http://melissa.work/
+
+
+##Day 62: March 1, 2017
+**Today's Progress**: Went for interview, applied for job, ran 5.2 miles, and started Free Code Camp's "Show the Local Weather" challenge. Have an internship interview Friday with a startup.
+
+**Thoughts**: Have read that this is a tough challenge. Trying to plan carefully. Using geolocation and Open Weather API.
+
+**Link to work**: http://codepen.io/Mmgfrog/pen/VpeQJa
