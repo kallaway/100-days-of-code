@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 55: February 28, 2017
+
+**Today's Progress:** Worked on blog. Exported data from Blogger to determine what the db model should be.
+
+**Thoughts:** XML is horrible to try and read. I may actually import the data into a Wordpress instance to convert to SQL.
+
+**Tutorials:** Lambda School.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [blog](https://github.com/larrytooley/blog)
+
 ### Day 54: February 27, 2017
 
 **Today's Progress:** Started working on flask app to combine portfolio and blog. Create the basic file structure and routes.
