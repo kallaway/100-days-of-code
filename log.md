@@ -700,3 +700,17 @@ Project:
 **Thoughts:** working on Module 3, last one for HRPrep.  
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 56: February 28, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Completed 2 more exercises in Module 3
+AWS Certified Developer Associate: Took practice exams
+aNewDev.io:
+Personal Website:
+Project:
+
+**Thoughts:** Getting ready for the AWS dev associate test 
+
+**Link to work:**
