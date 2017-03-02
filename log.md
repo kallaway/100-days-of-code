@@ -461,3 +461,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: Have read that this is a tough challenge. Trying to plan carefully. Using geolocation and Open Weather API.
 
 **Link to work**: http://codepen.io/Mmgfrog/pen/VpeQJa
+
+
+##Day 63: March 2, 2017
+**Today's Progress**: More with Weather App - specifically, reading through posts on forum about nightmares others have had and planning accordingly. Console is logging latitude and longitude as the value in a key-value pair, which I will have to split, capture, and then plug into the API call somehow.
+
+**Thoughts**: This could get very tricky very quickly.
+
+**Link to work**:http://codepen.io/Mmgfrog/pen/VpeQJa?editors=1111
