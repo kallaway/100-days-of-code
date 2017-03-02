@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 56: March 1, 2017
+
+**Today's Progress:** Worked on flask blog again. Added a bootstrap template. Working on connecting it. Evaluated Flask admin. I think i will create my own admin function.
+
+**Thoughts:** Hopefully, this project is the first of many with flask. I like having the abitlity to see how everything works with flask.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [blog](https://github.com/larrytooley/blog)
+
 ### Day 55: February 28, 2017
 
 **Today's Progress:** Worked on blog. Exported data from Blogger to determine what the db model should be.
