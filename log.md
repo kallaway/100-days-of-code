@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 7 : February 28, 2017, Thursday
+### Day 8 : March 02, 2017, Thursday
+
+**Today's Progress**: I'm working in a second algorithm to convert numbers in roman numbers. It's a little complicated in this moment to understand a better way to convert. What I'm doing is to create functions using functional programming to convert numbers in string(s) and split this string in caracters, then create a new array with for each number with its decimal place and return it.
+
+**Link to work:** - [Roman Numeral Converter](https://www.freecodecamp.com/challenges/roman-numeral-converter)
+
+### Day 7 : February 28, 2017, Tuesday
 
 **Today's Progress**: Two algorithms solved in one day, in less than 90 minutes. First I solved the 'Sum All Numbers in a Range' getting the max and min value in an array, then I made a while loop to sum in each iteration the values. Second algorithm was 'Diff Two Arrays' and I solved using some If Else conditions to see the largest array and find for values in each array, 'indexOf' function it was a good deal to loop through the arrays.
 
