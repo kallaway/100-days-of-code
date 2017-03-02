@@ -411,3 +411,11 @@
 **Thoughts:** Crap. No progress made, but I did some research on JSON and AJAX. to be continued...
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 50(+8): March 5, 2017
+
+**Today's Progress**: Random Quote Generator Work
+
+**Thoughts:** I got it to work! I realized it had to do with global objects. I had my quote library appearing after the button function, so it wasn't working. But it's working now. I'm so happy--I was getting a little depressed because I missed a day and I felt like I was not makeing progress at all. Tomorrow I will investigate the tweet button, and then I'll get to do the fun styling stuff.
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
