@@ -711,6 +711,20 @@ aNewDev.io:
 Personal Website:
 Project:
 
-**Thoughts:** Getting ready for the AWS dev associate test 
+**Thoughts:** Getting ready for the AWS dev associate test
+
+**Link to work:**
+
+### Day 57: March 1, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep:
+AWS Certified Developer Associate: Took and passed AWS CDA Exam!!!!
+aNewDev.io: Added check mark to CDA exam!  
+Personal Website:
+Project:
+
+**Thoughts:** Did I mention that I took and passed the exam? Another check box on the newdev site!  Tomorrow, I will remove the status area for AWS Certified Dev Assoc.
 
 **Link to work:**
