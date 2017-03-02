@@ -412,10 +412,18 @@
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
 
-### Day 50(+8): March 5, 2017
+### Day 50(+8): March 1, 2017
 
 **Today's Progress**: Random Quote Generator Work
 
 **Thoughts:** I got it to work! I realized it had to do with global objects. I had my quote library appearing after the button function, so it wasn't working. But it's working now. I'm so happy--I was getting a little depressed because I missed a day and I felt like I was not makeing progress at all. Tomorrow I will investigate the tweet button, and then I'll get to do the fun styling stuff.
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 51(+8): March 2, 2017
+
+**Today's Progress**: Random Quote Generator Work
+
+**Thoughts:** Today I was able to get the twitter button functioning to the extent that a twitter window pops up when you click the "tweet" button. I"m working out how to actually populate the tweet into the URL, so today I started working on a function that takes a string and converts it into a URL that twitter understands (basically adding "20%" where all spaces appear). I need to figure out how to shorten that to 140 characters, and then I also need to figure out how to use [JSON to update the href](http://stackoverflow.com/questions/1629285/how-to-use-jquery-click-event-to-change-href-value-asyncronously-based-on-a-jso) attribute on the click of the button. Sounds like a good project for tommorrow.
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
