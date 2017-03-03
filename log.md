@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 57: March 2, 2017
+
+**Today's Progress:** Worked on flask blog again. Added some imports I will be needing. Loosely following the flaskr example with more functionality and better asthetics.
+
+**Thoughts:** This project should push my skill forward. I want to beging writing tests, both functional and unit, tomorrow.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [blog](https://github.com/larrytooley/blog)
+
 ### Day 56: March 1, 2017
 
 **Today's Progress:** Worked on flask blog again. Added a bootstrap template. Working on connecting it. Evaluated Flask admin. I think i will create my own admin function.
