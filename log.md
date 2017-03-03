@@ -387,3 +387,15 @@ array.sort(function(a, b) {
 **Thoughts**: Zabbix api is not going well i'm looking other projects about Zabbix with API. Wikipedia viewer user story side is done but i need to make more visual changes.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
+
+
+
+
+### Day 32: March 01, 2017
+
+
+**Today's Progress**: Today i worked on a zabbix project.
+
+**Thoughts**: Zabbix API is not well documented asked a question on forums waiting for answer.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
