@@ -728,3 +728,16 @@ Project:
 **Thoughts:** Did I mention that I took and passed the exam? Another check box on the newdev site!  Tomorrow, I will remove the status area for AWS Certified Dev Assoc.
 
 **Link to work:**
+
+### Day 58: March 2, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep: Completed Hack Reactor online prep program!
+aNewDev.io: Added check mark to Hack Reactor Prep!  
+Personal Website: Updated look and feel of the site.  Added background picture.  Added google font.
+Project:
+
+**Thoughts:** Completed the Hack Reactor prep program!
+
+**Link to work:** [aNewDev.io](https://anewdev.io)
