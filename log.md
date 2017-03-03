@@ -411,3 +411,15 @@ array.sort(function(a, b) {
 **Thoughts**: I got my answer and found a great app with it on github [Zapix](https://github.com/monitoringartist/zapix). Making progress.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
+
+
+
+
+### Day 34: March 03, 2017
+
+
+**Today's Progress**: Today i worked on a zabbix project.
+
+**Thoughts**: I reduced the data o size of API which i pulled about 90% with help of Zapix (see the day before this one). Looking to solve how to push in to two dimenstional array.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
