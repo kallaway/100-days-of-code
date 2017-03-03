@@ -399,3 +399,15 @@ array.sort(function(a, b) {
 **Thoughts**: Zabbix API is not well documented asked a question on forums waiting for answer.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
+
+
+
+
+### Day 33: March 02, 2017
+
+
+**Today's Progress**: Today i worked on a zabbix project.
+
+**Thoughts**: I got my answer and found a great app with it on github [Zapix](https://github.com/monitoringartist/zapix). Making progress.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
