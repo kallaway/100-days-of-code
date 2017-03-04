@@ -741,16 +741,3 @@ Project:
 **Thoughts:** Completed the Hack Reactor prep program!
 
 **Link to work:** [aNewDev.io](https://anewdev.io)
-
-### Day 59: March 3, 2017.
-
-**Today's Progress**:
-FreeCodeCamp:
-Hack Reactor Prep:
-aNewDev.io:
-Personal Website:
-Project:
-
-**Thoughts:** Worked on Git training.
-
-**Link to work:** 
