@@ -755,7 +755,7 @@ Project:
 
 **Link to work:** [Traversy video on git](https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=youtu.be)
 
-### Day 59: March 3, 2017.
+### Day 60: March 4, 2017.
 
 **Today's Progress**:
 FreeCodeCamp:
