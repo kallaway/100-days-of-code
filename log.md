@@ -427,3 +427,12 @@
 **Thoughts:** Today I was able to get the twitter button functioning to the extent that a twitter window pops up when you click the "tweet" button. I"m working out how to actually populate the tweet into the URL, so today I started working on a function that takes a string and converts it into a URL that twitter understands (basically adding "20%" where all spaces appear). I need to figure out how to shorten that to 140 characters, and then I also need to figure out how to use [JSON to update the href](http://stackoverflow.com/questions/1629285/how-to-use-jquery-click-event-to-change-href-value-asyncronously-based-on-a-jso) attribute on the click of the button. Sounds like a good project for tommorrow.
 
 **Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
+### Day 51(+8): March 2, 2017
+
+**Today's Progress**: Random Quote Generator Work
+
+**Thoughts:** My link builder function is working great. I just need to figure out how to make the button work. And also shorten the tweet if needed...but I was hoping to test it to see what happens when the tweet is too long. I guess we'll find out!
+
+**Link to work:** [Random Quote Generator](http://codepen.io/cellojane/pen/jBNXEZ)
+
