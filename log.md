@@ -751,6 +751,19 @@ aNewDev.io:
 Personal Website:
 Project:
 
-**Thoughts:** Worked on Git training.
+**Thoughts:** Worked on Git training from traversy media.
 
-**Link to work:**
+**Link to work:** [Traversy video on git](https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=youtu.be)
+
+### Day 59: March 3, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep:
+aNewDev.io:
+Personal Website:
+Project:
+
+**Thoughts:** Worked on Git training from acloud.guru.
+
+**Link to work:** [acloud.guru git training](https://acloud.guru/learn/github-devops)
