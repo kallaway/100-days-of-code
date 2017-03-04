@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 57: March 2, 2017
+### Day 58: March 3, 2017
 
-**Today's Progress:** Worked on flask blog again. Added some imports I will be needing. Loosely following the flaskr example with more functionality and better asthetics.
+**Today's Progress:** Worked on some more flask stuff. Reading docs and getting back up to speed.
 
-**Thoughts:** This project should push my skill forward. I want to beging writing tests, both functional and unit, tomorrow.
+**Thoughts:** I am realizing how little I know about flask. Luckly the docs are free to read.
 
 **Tutorials:** None.
 
