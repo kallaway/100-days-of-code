@@ -767,3 +767,16 @@ Project:
 **Thoughts:** Worked on Git training from acloud.guru.
 
 **Link to work:** [acloud.guru git training](https://acloud.guru/learn/github-devops)
+
+### Day 61: March 5, 2017.
+
+**Today's Progress**:
+FreeCodeCamp:
+Hack Reactor Prep:
+aNewDev.io:
+Personal Website:
+Project:
+
+**Thoughts:** Worked on Git training from acloud.guru.
+
+**Link to work:** [acloud.guru git training](https://acloud.guru/learn/github-devops)
