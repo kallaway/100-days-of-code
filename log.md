@@ -469,3 +469,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: This could get very tricky very quickly.
 
 **Link to work**:http://codepen.io/Mmgfrog/pen/VpeQJa?editors=1111
+
+
+##Day 64, 65, 66: March 3-5, 2017
+**Today's Progress**: More work on Weather App, job hunting, tookSaturday off, and attended 2 hours Free Code Camp Meetup.
+
+**Thoughts**: Trying not to be afraid or get discouraged!
+
+**Link to work**: same as above.
