@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9 : March 06, 2017, Sunday
+
+**Today's Progress**: I'm solving the Roman Numeral Converter algorithm using functional programming, so in this time I created more one functional to fill the numbers in an array with their respective decimal value. This is important to take each value to convert.
+
+**Thoughts** Sometimes take a break in a problem you are trying to solve and then come back and try it again. Your ideas will flow up.
+
+**Link to work:** - [Roman Numeral Converter](https://www.freecodecamp.com/challenges/roman-numeral-converter)
+
 ### Day 8 : March 02, 2017, Thursday
 
 **Today's Progress**: I'm working in a second algorithm to convert numbers in roman numbers. It's a little complicated in this moment to understand a better way to convert. What I'm doing is to create functions using functional programming to convert numbers in string(s) and split this string in caracters, then create a new array with for each number with its decimal place and return it.
