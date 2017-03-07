@@ -477,3 +477,19 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: Trying not to be afraid or get discouraged!
 
 **Link to work**: same as above.
+
+
+##Day 67: March 6, 2017
+**Today's Progress**: no code written, but had follow-ups from Digital Alchemy, Cineparty.co, and Creative Circle
+
+**Thoughts**: DA is keeping me on file but no current openings, accepted Cineparty.co for part-time contract work, and will study for and take the three Creative Circle tests on HTML5, CSS3, and Ruby on Rails
+
+**Link to work**: NA for today
+
+
+##Day 68: March 7, 2017
+**Today's Progress**: Applied for internship, wrote cover letter for internship oppotunities. More following up with above.
+
+**Thoughts**: Off Wednesday and Thursday, so will be able to get much more done, although I am so grateful for Starbucks which helps pay the bills and has benefits
+
+**Link to work**; InternshipCoverLetter.pdf
