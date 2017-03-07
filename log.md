@@ -423,3 +423,15 @@ array.sort(function(a, b) {
 **Thoughts**: I reduced the data o size of API which i pulled about 90% with help of Zapix (see the day before this one). Looking to solve how to push in to two dimenstional array.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
+
+
+
+
+### Day 35: March 06, 2017
+
+
+**Today's Progress**: Today i worked on a zabbix project.
+
+**Thoughts**: It was a rough day to work how to push into two dimensional array which i found out buut i think using objects would be a better idea.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
