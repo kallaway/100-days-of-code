@@ -624,10 +624,7 @@ Personal Website:
 
 **Today's Progress**:
 FreeCodeCamp: Completed intermediate algorithm section
-Hack Reactor Prep:
 AWS Certified Developer Associate: Started VPC section on acloud.guru training.
-aNewDev.io:
-Personal Website:
 
 **Thoughts:** Day 50!  Half way!  Grateful to be done with the intermediate algorithm section from FCC.  I was challenged multiple times, but made it through.  
 
@@ -636,11 +633,8 @@ Personal Website:
 ### Day 51: February 22, 2017.
 
 **Today's Progress**:
-FreeCodeCamp:
-Hack Reactor Prep:
 AWS Certified Developer Associate: Completed the acloud.guru training class.
 aNewDev.io: Updated to show completed training class.
-Personal Website:
 
 **Thoughts:** It was great to finish my AWS training.  Test scheduled!
 
@@ -649,11 +643,7 @@ Personal Website:
 ### Day 52: February 23, 2017.
 
 **Today's Progress**:
-FreeCodeCamp:
-Hack Reactor Prep:
 AWS Certified Developer Associate: Took practice exams and studied the AWS resources available.
-aNewDev.io:
-Personal Website:
 
 **Thoughts:** Study time for upcoming test
 
@@ -664,9 +654,6 @@ Personal Website:
 **Today's Progress**:
 FreeCodeCamp: Began advanced algorithm section
 Hack Reactor Prep: Began reading in Module 3
-AWS Certified Developer Associate:
-aNewDev.io:
-Personal Website:
 Project: Began work on a new side project.
 
 **Thoughts:** Varied items today.  
@@ -676,11 +663,8 @@ Project: Began work on a new side project.
 ### Day 54: February 26, 2017.
 
 **Today's Progress**:
-FreeCodeCamp:
 Hack Reactor Prep: Completed Module 3 reading
-AWS Certified Developer Associate:
 aNewDev.io: worked on some code cleanup
-Personal Website:
 Project: Setup Github and file structure for a project site
 
 **Thoughts:** working on Module 3, last one for HRPrep.  
@@ -690,12 +674,8 @@ Project: Setup Github and file structure for a project site
 ### Day 55: February 27, 2017.
 
 **Today's Progress**:
-FreeCodeCamp:
 Hack Reactor Prep: Completed first 3 exercises in Module 3
 AWS Certified Developer Associate: Took practice exams
-aNewDev.io:
-Personal Website:
-Project:
 
 **Thoughts:** working on Module 3, last one for HRPrep.  
 
@@ -704,12 +684,8 @@ Project:
 ### Day 56: February 28, 2017.
 
 **Today's Progress**:
-FreeCodeCamp:
 Hack Reactor Prep: Completed 2 more exercises in Module 3
 AWS Certified Developer Associate: Took practice exams
-aNewDev.io:
-Personal Website:
-Project:
 
 **Thoughts:** Getting ready for the AWS dev associate test
 
@@ -718,12 +694,9 @@ Project:
 ### Day 57: March 1, 2017.
 
 **Today's Progress**:
-FreeCodeCamp:
-Hack Reactor Prep:
 AWS Certified Developer Associate: Took and passed AWS CDA Exam!!!!
 aNewDev.io: Added check mark to CDA exam!  
-Personal Website:
-Project:
+
 
 **Thoughts:** Did I mention that I took and passed the exam? Another check box on the newdev site!  Tomorrow, I will remove the status area for AWS Certified Dev Assoc.
 
@@ -732,11 +705,9 @@ Project:
 ### Day 58: March 2, 2017.
 
 **Today's Progress**:
-FreeCodeCamp:
 Hack Reactor Prep: Completed Hack Reactor online prep program!
 aNewDev.io: Added check mark to Hack Reactor Prep!  
 Personal Website: Updated look and feel of the site.  Added background picture.  Added google font.
-Project:
 
 **Thoughts:** Completed the Hack Reactor prep program!
 
@@ -745,11 +716,7 @@ Project:
 ### Day 59: March 3, 2017.
 
 **Today's Progress**:
-FreeCodeCamp:
-Hack Reactor Prep:
-aNewDev.io:
-Personal Website:
-Project:
+Project: Git hub training.
 
 **Thoughts:** Worked on Git training from traversy media.
 
@@ -758,11 +725,7 @@ Project:
 ### Day 60: March 4, 2017.
 
 **Today's Progress**:
-FreeCodeCamp:
-Hack Reactor Prep:
-aNewDev.io:
-Personal Website:
-Project:
+Project: Git hub training.
 
 **Thoughts:** Worked on Git training from acloud.guru.
 
@@ -771,12 +734,19 @@ Project:
 ### Day 61: March 5, 2017.
 
 **Today's Progress**:
-FreeCodeCamp:
-Hack Reactor Prep:
-aNewDev.io:
-Personal Website:
-Project:
+Project: Git hub training.
 
 **Thoughts:** Worked on Git training from acloud.guru.
 
 **Link to work:** [acloud.guru git training](https://acloud.guru/learn/github-devops)
+
+### Day 62: March 6, 2017.
+
+**Today's Progress**:
+AWS Certified Solutions Architect associate: Completed first 3 sections of acloud.guru CSA training
+FreeCodeCamp: Completed first 3 algorithms in the advanced algorithm section.
+Project: Continued Github training from acloud.guru
+
+**Thoughts:** Good well rounded day of code work and training
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
