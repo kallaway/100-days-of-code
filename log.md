@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 59: March 4, 2017
+
+**Today's Progress:** Worked on my blog again. Added my portfolio as the index page. Got all the static resources working. Also worked on my fishbowl app. Also in flask. Plan on using React on the front-end.
+
+**Thoughts:** I am slowly but surely getting back up to speed with Flask. My goal is to spend the remainder of my 100 days working on flask related projects so I become proficient in its use.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 3 hours.
+
+**Link(s) to work:** [blog](https://github.com/larrytooley/blog)
+
 ### Day 58: March 3, 2017
 
 **Today's Progress:** Worked on some more flask stuff. Reading docs and getting back up to speed.
