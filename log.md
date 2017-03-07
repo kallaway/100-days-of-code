@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 61: March 6, 2017
+
+**Today's Progress:** Worked on deploying the new blog to Heroku.
+
+**Thoughts:** I do not totally understand the configuration steps. I will need to play with them more to understand them.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [blog](https://github.com/larrytooley/blog)
+
 ### Day 60: March 5, 2017
 
 **Today's Progress:** Worked on learning TDD again. This time with Flask. I am planning on adding test and using TDD on all my flask projects.
