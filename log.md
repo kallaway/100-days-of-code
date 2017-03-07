@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 60: March 5, 2017
+
+**Today's Progress:** Worked on learning TDD again. This time with Flask. I am planning on adding test and using TDD on all my flask projects.
+
+**Thoughts:** Learning TDD with flask is a little easier than with Django since I am more familar with it.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [flaskr-tdd](https://github.com/mjhea0/flaskr-tdd)
+
 ### Day 59: March 4, 2017
 
 **Today's Progress:** Worked on my blog again. Added my portfolio as the index page. Got all the static resources working. Also worked on my fishbowl app. Also in flask. Plan on using React on the front-end.
