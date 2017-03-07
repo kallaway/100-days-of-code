@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 9 : March 06, 2017, Sunday
+### Day 10 : March 06, 2017, Tuesday
+
+**Today's Progress**: Keep going in my Intermediate algorithms. This time I added more key-values on romanSymbols objetcs to iterate through the conditions and return it to the array. Now I need test it and concat.
+
+**Thoughts** I read-search this time. The feeling is like jump some rules,but I think is normal and it is ok!
+
+**Link to work:** - [Roman Numeral Converter](https://www.freecodecamp.com/challenges/roman-numeral-converter)
+
+### Day 9 : March 05, 2017, Sunday
 
 **Today's Progress**: I'm solving the Roman Numeral Converter algorithm using functional programming, so in this time I created more one functional to fill the numbers in an array with their respective decimal value. This is important to take each value to convert.
 
