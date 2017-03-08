@@ -750,3 +750,12 @@ Project: Continued Github training from acloud.guru
 **Thoughts:** Good well rounded day of code work and training
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 63: March 7, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Worked on the next problem in the advanced algorithm section.
+
+**Thoughts:** Worked a solid 4 hours on one problem today.  It was challenging me.  I like the challenge.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
