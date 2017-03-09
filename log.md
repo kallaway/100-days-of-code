@@ -759,3 +759,12 @@ FreeCodeCamp: Worked on the next problem in the advanced algorithm section.
 **Thoughts:** Worked a solid 4 hours on one problem today.  It was challenging me.  I like the challenge.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 64: March 8, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Finished 1 and started another problem in the advanced algorithm section.
+
+**Thoughts:** Finally finished my toughest problem yet.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
