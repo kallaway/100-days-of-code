@@ -493,3 +493,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: Off Wednesday and Thursday, so will be able to get much more done, although I am so grateful for Starbucks which helps pay the bills and has benefits
 
 **Link to work**; InternshipCoverLetter.pdf
+
+
+##Day 69 and 70: March 8-9, 2017
+**Today's Progress**: Worked on FCC Kahoot game for Sunday's Meetup and was made an admin for the group :D. Met Mohamed at Starbucks to download necessary components to begin working on Samsung TV app. Spent time reading through Samsung Dev UX info and making notes, joined Slack channel, joined Bitbucket for this project.
+
+**Thoughts**: So much to do! Also need to study for and take HTML5, CSS# and Ruby on Rails tests for Creative Circle. Job hunting and replying/applying also needs attention. Need tomake images into links on melissa.work based on feedback from three different ppl.
+
+**Link to work**:http://developer.samsung.com/tv/design/design-principles
