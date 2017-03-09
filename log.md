@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 62: March 7, 2017
+
+**Today's Progress:** Worked on Flask blog stuff. Worked on connecting database to app.
+
+**Thoughts:** This is a very good tutorial I am following. Very thorough.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [blog](https://github.com/larrytooley/blog)
+
 ### Day 61: March 6, 2017
 
 **Today's Progress:** Worked on deploying the new blog to Heroku.
