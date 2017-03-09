@@ -435,3 +435,25 @@ array.sort(function(a, b) {
 **Thoughts**: It was a rough day to work how to push into two dimensional array which i found out buut i think using objects would be a better idea.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
+
+
+
+
+### Day 36: March 09, 2017
+
+
+**Today's Progress**: Today i worked on a zabbix project.
+
+**Thoughts**: After finding how to push to multi dimensional array i sort the array for its secondary objects with something likethis:
+
+```javascript
+myArray.sort(function(a, b) {
+    return a[1] - b[1];
+});
+
+```
+and it is worked. Then I print the array in a bootstrap table on the page.
+
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
+
