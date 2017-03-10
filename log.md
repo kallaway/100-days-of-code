@@ -11,16 +11,16 @@
 
 --->
 
-### Day 0: Jan 03, 2017 
+### Day 0: Jan 03, 2017
 
 
 **Today's Progress**: Not really focused on a project. My progress is about getting near to Freecodecamp intermediate front end projects and 1.5 hours spent on it!
 
-**Thoughts**: I begin Object Oriented and Functional Programming course on Free Code Camp. It was not that hard but there were a point that i struggled. It was about using *reduce* method. 
+**Thoughts**: I begin Object Oriented and Functional Programming course on Free Code Camp. It was not that hard but there were a point that i struggled. It was about using *reduce* method.
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet)
 
-### Day 1: Jan 04, 2017 
+### Day 1: Jan 04, 2017
 
 
 **Today's Progress**: Worked with FCC courses not much progress but it was a busy day and i'm glad i could make some progress!
@@ -37,17 +37,17 @@ array.sort(function(a, b) {
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have fun --->
 
-### Day 2: Jan 05, 2017 
+### Day 2: Jan 05, 2017
 
 
-**Today's Progress**: Finished Object Oriented and Functional Programming course and begin to algorithms. 
+**Today's Progress**: Finished Object Oriented and Functional Programming course and begin to algorithms.
 
 **Thoughts**: Object oriented side is a bit complicated for me there are some gaps with how stuff work. Algorithms are a bit hard but it feels like doing something with coding. When i succesfully code the first algorithm it was very satisfying.   
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
 
-### Day 3: Jan 06, 2017 
+### Day 3: Jan 06, 2017
 
 
 **Today's Progress**: Finished Check for Palindromes.
@@ -57,51 +57,51 @@ array.sort(function(a, b) {
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
 
-### Day 4: Jan 07, 2017 
+### Day 4: Jan 07, 2017
 
 
 **Today's Progress**: Finished Find the Longest Word in a String Complete.
 
-**Thoughts**: I was thinking that you could only learn the length of arrays but in this course i learnt there is a method that you can find length of strings! 
+**Thoughts**: I was thinking that you could only learn the length of arrays but in this course i learnt there is a method that you can find length of strings!
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
 
-### Day 5: Jan 08, 2017 
+### Day 5: Jan 08, 2017
 
 
 **Today's Progress**: Finished Title Case a Sentence.
 
-**Thoughts**: Method practicing is a good way to learn. 
+**Thoughts**: Method practicing is a good way to learn.
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
 
-### Day 5: Jan 09, 2017 
+### Day 5: Jan 09, 2017
 
 
 **Today's Progress**: Finished Title Case a Sentence and Return Largest Numbers in Arrays.
 
-**Thoughts**: Method practicing is a good way to learn. 
+**Thoughts**: Method practicing is a good way to learn.
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
 
 
 
-### Day 6: Jan 09, 2017 
+### Day 6: Jan 09, 2017
 
 
 **Today's Progress**: Finished Confirm the Ending.
 
-**Thoughts**: Method practicing is a good way to learn. 
+**Thoughts**: Method practicing is a good way to learn.
 
 **Link(s) to work**: [Free Code Camp Link](https://www.freecodecamp.com/mikailseremet) <!--- Have more fun --->
 
 
 
 
-### Day 7: Jan 10, 2017 
+### Day 7: Jan 10, 2017
 
 
 **Today's Progress**: Finished Repeat a string repeat a string.
@@ -113,7 +113,7 @@ array.sort(function(a, b) {
 
 
 
-### Day 8: Jan 17, 2017 
+### Day 8: Jan 17, 2017
 
 
 **Today's Progress**: Finished Truncate a string.
@@ -125,7 +125,7 @@ array.sort(function(a, b) {
 
 
 
-### Day 9: Jan 24, 2017 
+### Day 9: Jan 24, 2017
 
 
 **Today's Progress**: Finished Chunky Monkey.
@@ -137,7 +137,7 @@ array.sort(function(a, b) {
 
 
 
-### Day 10: Jan 25, 2017 
+### Day 10: Jan 25, 2017
 
 
 **Today's Progress**: Finished Slasher Flick.
@@ -244,9 +244,9 @@ array.sort(function(a, b) {
 ### Day 19: Feb 6, 2017
 
 
-**Today's Progress**: Finished Random Quote Machine project. 
+**Today's Progress**: Finished Random Quote Machine project.
 
-**Thoughts**: This project is my first project that i create something real in this 100days of code challenge. My project has a bug which is you click tweet button first it takes you twitter page and tries to tweet some part of my code. Other than it works good. 
+**Thoughts**: This project is my first project that i create something real in this 100days of code challenge. My project has a bug which is you click tweet button first it takes you twitter page and tries to tweet some part of my code. Other than it works good.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/EZpawN) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Random%20Quote%20Machine)
 
@@ -255,14 +255,14 @@ array.sort(function(a, b) {
 ### Day 20: Feb 10, 2017
 
 
-**Today's Progress**: Worked on Local Weather App. 
+**Today's Progress**: Worked on Local Weather App.
 
-**Thoughts**: I begin to work with Html and CSS. 
+**Thoughts**: I begin to work with Html and CSS.
 
 **Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/full/LxJmNG/) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Local%20Weather%20App)### Day 21: Feb 13, 2017
 
 
-**Today's Progress**: Worked on Local Weather App. 
+**Today's Progress**: Worked on Local Weather App.
 
 **Thoughts**: This is harder than i thought. I know the path i should follow but it seems i dont know how to walk..
 
@@ -273,7 +273,7 @@ array.sort(function(a, b) {
 ### Day 21: Feb 14, 2017
 
 
-**Today's Progress**: Worked on Local Weather App. 
+**Today's Progress**: Worked on Local Weather App.
 
 **Thoughts**: Get some help from a co-worker and made real progress.
 
@@ -284,7 +284,7 @@ array.sort(function(a, b) {
 ### Day 22: Feb 15, 2017
 
 
-**Today's Progress**: Worked on Local Weather App. 
+**Today's Progress**: Worked on Local Weather App.
 
 **Thoughts**: Well creating img urls was nice.
 
@@ -372,7 +372,7 @@ array.sort(function(a, b) {
 ### Day 30: Feb 27, 2017
 
 
-**Today's Progress**: Today i worked on a zabbix project. 
+**Today's Progress**: Today i worked on a zabbix project.
 
 **Thoughts**: Decided to make some useful project for my job so it is win win. Using fiddler to make fast progress with API because it is not easy to understand an API for a beginner like me.
 
@@ -447,3 +447,15 @@ myArray.sort(function(a, b) {
 
 ```
 and it is worked. Then I print the array in a bootstrap table on the page.
+
+
+
+
+### Day 37: March 10, 2017
+
+
+**Today's Progress**: Today i worked on a zabbix project and finished wiki viewer project.
+
+**Thoughts**: Find out how to refresh the function without refreshing page and stucked on fixing the bootstrap table to the certain max-width next one will be this. Finished the wikipedia viewer project after a few touches.
+
+**Link(s) to work**: [Codepen Link](http://codepen.io/nongrata/pen/KajrOr) , [Git Hub Repo Link](https://github.com/MikailSeremet/100-days-of-code/tree/master/Projects/Wikipedia%20Viewer)
