@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 63: March 8, 2017
+
+**Today's Progress:** Worked on blog. Started getting db error.
+
+**Thoughts:** The problem is very frustrating. It seems to be common and no really good answers on Stack Overflow.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [blog](https://github.com/larrytooley/blog)
+
 ### Day 62: March 7, 2017
 
 **Today's Progress:** Worked on Flask blog stuff. Worked on connecting database to app.
