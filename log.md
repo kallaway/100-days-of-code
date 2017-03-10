@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 63: March 8, 2017
+
+**Today's Progress:** Read the docs and created some flask sample code.
+
+**Thoughts:** Trying to RTFM.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [blog](https://github.com/larrytooley/blog)
+
 ### Day 62: March 7, 2017
 
 **Today's Progress:** Worked on Flask blog stuff. Worked on connecting database to app.
