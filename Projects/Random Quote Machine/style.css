@@ -1,0 +1,34 @@
+@import url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css');
+
+
+.top-row-desc {
+  font-family: "Verdana";
+  }
+.top-row-desc h1{
+  font-size: 40px;
+}
+.top-row-desc p {
+  font-size: 25px;
+}
+
+.quote-text-row{
+  font-size: 40px;
+  top: 150px;
+ }
+.quote-owner-row{
+  font-size: 30px;
+  top: 160px;
+ }
+
+
+.quote-button-row{
+  top:300px;
+}
+.btn-primary.raised {
+	box-shadow: 0 3px 0 0 #007299;
+}
+
+.icon-quote-left{
+  top:160px;
+  right:50px;
+}
