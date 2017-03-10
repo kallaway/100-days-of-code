@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 64: March 9, 2017
+
+**Today's Progress:** Worked on flask stuff. Read some docs. Wrote some code.
+
+**Thoughts:** Trying to RTFM.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [blog](https://github.com/larrytooley/blog)
+
 ### Day 63: March 8, 2017
 
 **Today's Progress:** Worked on blog. Started getting db error.
