@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 65: March 10, 2017
+
+**Today's Progress:** Worked on flask stuff again. Read some docs. Wrote some code. Also started tweaking my portfolio page so I can get a job.
+
+**Thoughts:** Trying to RTFM. Working on HTML and CSS again. It is hard to walk away from something for a while and remeber how to do things.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours and 30 minutes.
+
+**Link(s) to work:** [larrytooley.com](https://github.com/larrytooley/larrytooley.com)
+
 ### Day 64: March 9, 2017
 
 **Today's Progress:** Worked on flask stuff. Read some docs. Wrote some code.
