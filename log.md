@@ -498,6 +498,14 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 ##Day 69 and 70: March 8-9, 2017
 **Today's Progress**: Worked on FCC Kahoot game for Sunday's Meetup and was made an admin for the group :D. Met Mohamed at Starbucks to download necessary components to begin working on Samsung TV app. Spent time reading through Samsung Dev UX info and making notes, joined Slack channel, joined Bitbucket for this project.
 
-**Thoughts**: So much to do! Also need to study for and take HTML5, CSS# and Ruby on Rails tests for Creative Circle. Job hunting and replying/applying also needs attention. Need tomake images into links on melissa.work based on feedback from three different ppl.
+**Thoughts**: So much to do! Also need to study for and take HTML5, CSS# and Ruby on Rails tests for Creative Circle. Job hunting and replying/applying also needs attention. Need to make images into links on melissa.work based on feedback from three different ppl.
 
 **Link to work**:http://developer.samsung.com/tv/design/design-principles
+
+
+##Day 71: March 10, 2017
+**Today's Progress**: Kept working my way through Samsung Dev Design seciton of documentation. Just want to make sure I am considering these things before I write any code and start getting into layouts, etc that won't work for this project/Smart TV.
+
+**Thoughts**: Woke up really early for some reason, worked all day at Starbucks, went running, and then started coding stuff at the end of the day - not ideal
+
+**Link to work**: same as above, Design Principles section
