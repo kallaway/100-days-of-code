@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 66: March 11, 2017
+
+**Today's Progress:** Started a hangman game. Created a reminder app.
+
+**Thoughts:** Practiced mostly python today. It was nice to see that I could pretty much create some basic apps from scratch.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [hangman](https://github.com/larrytooley/hangman)
+
 ### Day 65: March 10, 2017
 
 **Today's Progress:** Worked on flask stuff again. Read some docs. Wrote some code. Also started tweaking my portfolio page so I can get a job.
