@@ -517,3 +517,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: So much information, so much to do and follow up with!
 
 **Link to work**: getkahoot.com for the Data Types/Structures and Algorithms game. Finishing it tomorrow.
+
+
+##Day 73: March 12, 2017
+**Today's Progress**: Finished and presented the Kahoot at FCC Meetup (fun!). More notes and study of Samsun Design section.
+
+**Thoughts**: Really grateful for my coding "tribe".
+
+**Link to work**:http://developer.samsung.com/tv/design/media-player
