@@ -509,3 +509,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: Woke up really early for some reason, worked all day at Starbucks, went running, and then started coding stuff at the end of the day - not ideal
 
 **Link to work**: same as above, Design Principles section
+
+
+##Day 72: March 11, 2017
+**Today's Progress**: More reading and note-taking on Samsung Dev Design in the morning, plus more study of JavaScript data types and subsequently making the Kahoot for Sunday's Free Code Camp Meetup.
+
+**Thoughts**: So much information, so much to do and follow up with!
+
+**Link to work**: getkahoot.com for the Data Types/Structures and Algorithms game. Finishing it tomorrow.
