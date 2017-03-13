@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 12 : March 13, 2017, Sunday
+
+**Today's Progress**: Solving the algorithms on freecodecamp challenges. It is necessary remember some stuffs and learn anothers.
+
+**Thoughts** Some problems it is necessary think more, take a time, and keep with the solutions.
+
+**Link to work:** [Roman Numeral Converter](https://www.freecodecamp.com/challenges/roman-numeral-converter)
+
+### Day 11 : March 06, 2017, Tuesday
+
+**Today's Progress**: React.js
+
+**Thoughts** Keep going to learn more about React.js and improve my skills.
+
+**Link to work:**
+
 ### Day 10 : March 06, 2017, Tuesday
 
 **Today's Progress**: Keep going in my Intermediate algorithms. This time I added more key-values on romanSymbols objetcs to iterate through the conditions and return it to the array. Now I need test it and concat.
