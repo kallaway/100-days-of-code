@@ -4,9 +4,9 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-February 21th, 2017. [PUT YOUR DATE HERE]
+February 21th, 2017.
 #### Finish Date
-April 03th, 2017. [PUT YOUR DATE HERE]
+April 10th, 2017.
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
