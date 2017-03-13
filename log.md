@@ -795,3 +795,12 @@ FreeCodeCamp: Continued problems in the advanced algorithm section.
 **Thoughts:** Only one advanced algorithm left.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 68: March 12, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Completed the advanced algorithm section.  Started the advanced projects.
+
+**Thoughts:** Back over to doing project work which I enjoy.  It will be nice to do some application again.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
