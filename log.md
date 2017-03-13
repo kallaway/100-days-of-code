@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 67: March 12, 2017
+
+**Today's Progress:** Completed the main logic for the hangman game. Also got the Real Python Flask by Example tutorial working including getting PostgrSQL working well on my Mac.
+
+**Thoughts:** Still need to fix a few issues and clean up the code.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 3 hours.
+
+**Link(s) to work:** [hangman](https://github.com/larrytooley/hangman)
+
 ### Day 66: March 11, 2017
 
 **Today's Progress:** Started a hangman game. Created a reminder app.
