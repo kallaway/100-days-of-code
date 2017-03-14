@@ -520,8 +520,16 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 
 
 ##Day 73: March 12, 2017
-**Today's Progress**: Finished and presented the Kahoot at FCC Meetup (fun!). More notes and study of Samsun Design section.
+**Today's Progress**: Finished and presented the Kahoot at FCC Meetup (fun!). More notes and study of Samsung Design section.
 
 **Thoughts**: Really grateful for my coding "tribe".
 
 **Link to work**:http://developer.samsung.com/tv/design/media-player
+
+
+##Day 74: March 13, 2017
+**Today's Progress**: More notes aboutSamsung SmartTV design. Almost done with design section, then onto Develop which I hope talks a lot about Tizen.
+
+**Thoughts**: I am procratinating moving the files but I don't want to dive into a project without TV App info in my mind. I want to take the time to do it right.
+
+**Link to work**: Same Samsung Developer docs
