@@ -804,3 +804,13 @@ FreeCodeCamp: Completed the advanced algorithm section.  Started the advanced pr
 **Thoughts:** Back over to doing project work which I enjoy.  It will be nice to do some application again.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 69: March 13, 2017.
+
+**Today's Progress**:
+AWS Certified Solutions Architect associate: Completed the S3, CDN, and Glacier section of acloud.guru training.
+FreeCodeCamp: Working on the calculator project.
+
+**Thoughts:** Took a practice exam for SA exam.  Still have a ways to go to be comfortable with the exam.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
