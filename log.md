@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 12 : March 13, 2017, Sunday
+### Day 14 : March 14, 2017, Tuesday
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link to work:** [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
+
+### Day 13 : March 13, 2017, Monday
+
+**Today's Progress**: Solving the algorithms on freecodecamp challenges yet, and I finished the Roman Numeral Converter. It was necessary more lines of code to complete this challenge.
+
+**Thoughts** I'm fine with my solution, but I think can be better.
+
+**Link to work:** [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
+
+### Day 12 : March 12, 2017, Sunday
 
 **Today's Progress**: Solving the algorithms on freecodecamp challenges. It is necessary remember some stuffs and learn anothers.
 
