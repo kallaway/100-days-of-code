@@ -533,3 +533,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: I am procratinating moving the files but I don't want to dive into a project without TV App info in my mind. I want to take the time to do it right.
 
 **Link to work**: Same Samsung Developer docs
+
+
+##Day 75: March 14, 2017
+**Today's Progress**: Went ahead and looked closely at the 4 file folders within the Samsung Samrt TV app. Realized there are many duplicates. Asked about this, confirmed, and will begin refactoring project tomorrow.
+
+**Thoughts**: This week is going to be out of whack because of Spring Break and schedule craziness.
+
+**Link to work**: project folder(s)
