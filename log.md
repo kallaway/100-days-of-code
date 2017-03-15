@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 15 : March 15, 2017, Wednesday
+
+**Today's Progress**: I'm making some mistake in my logical to see if there is the key-value in the object collection to add to a new array. What I'm doing it is right, however, each time add the same key-value if the second or the third one exist. What I need to do first, tough, it's compare the object lenghts with the 'Object.keys(object)' and verify, then add it.
+
+**Thoughts** If I struggle, I'll ask for help on FreeCodeCamp javascript help chat.
+
+**Link to work:** [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
+
 ### Day 14 : March 14, 2017, Tuesday
 
-**Today's Progress**:
+**Today's Progress**: This Wherefore Art Thou algorithm is taking a little of time, I solved part of the problems, but the other is not working very well. I'm using methods to improve and fix the logical problems.
 
-**Thoughts**
+**Thoughts** Try different thoughts and solutions, it works!
 
 **Link to work:** [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
 
