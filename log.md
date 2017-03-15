@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 69: March 14, 2017
+
+**Today's Progress:** Worked on todo.py. Basic add and list functions working.
+
+**Thoughts:** Might use click for command line interface. Figured out that I have to strip the new line off of a file line to print to command line.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [todo.py](https://github.com/larrytooley/todo.py)
+
 ### Day 68: March 13, 2017
 
 **Today's Progress:** Got hangman game working with header animation.
