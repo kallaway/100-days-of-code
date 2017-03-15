@@ -814,3 +814,13 @@ FreeCodeCamp: Working on the calculator project.
 **Thoughts:** Took a practice exam for SA exam.  Still have a ways to go to be comfortable with the exam.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 70: March 14, 2017.
+
+**Today's Progress**:
+AWS Certified Solutions Architect associate: Started the EC2 section of acloud.guru training.
+FreeCodeCamp: Working on the calculator project.
+
+**Thoughts:** Calculator has been a fun project
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
