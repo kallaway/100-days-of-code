@@ -824,3 +824,13 @@ FreeCodeCamp: Working on the calculator project.
 **Thoughts:** Calculator has been a fun project
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+### Day 71: March 15, 2017.
+
+**Today's Progress**:
+AWS Certified Solutions Architect associate: Continued the EC2 section of acloud.guru training.
+FreeCodeCamp: Completed the calculator project.
+
+**Thoughts:** Glad to have completed the calculator project.  It is amazing how many requirements a calculator has.  Who knew?
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
