@@ -541,3 +541,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: This week is going to be out of whack because of Spring Break and schedule craziness.
 
 **Link to work**: project folder(s)
+
+
+##Day 76, 77: March 15-16, 2017
+**Today's Progress**: Wednesday, I finished reading through and taking notes on the Design section of the Samsung Developer documentation, and from 7-9 pm I attended a Women Who Code Meetup (it's Spring Break, Gabriel came with me and stayed up later than normal since we don't have school). Thursday, I got up early and attacked the file refactoring! I will Loom record my changes and send to Mohamed later for approval, plus to make sure that he doesn't need the .DS_Store files in the CSS subfolders before I delete the duplicate info. So now there is one CSS folder, one Views folder with the .html files in it, one Img folder, one JS folder, etc and deleted duplicated stuff because we don't need multiple copies of the same files in this project.
+
+**Thoughts**: I know I am lacking confidence on this project but I think I just gotta go for it, sometimes. If I was wrong, I will work to fix any mistakes. But I think I am on the right track.
+
+**Link to work**: project folders and Samsung documentation
