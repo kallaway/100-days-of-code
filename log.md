@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16 : March 16, 2017, Friday
+
+**Today's Progress**: Today, I was again trying to solve the Wherefore Art Thou algorithm, but I get struggle because I'm making a mistake in my logical to compare the key-value from the objects. Then, I studied React.js, and learn about Router with components, how to make it.
+
+**Thoughts** It is necessary more practice with React.js to to understand the functional programming.
+
+**Link to work:** [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
+
 ### Day 15 : March 15, 2017, Wednesday
 
 **Today's Progress**: I'm making some mistake in my logical to see if there is the key-value in the object collection to add to a new array. What I'm doing it is right, however, each time add the same key-value if the second or the third one exist. What I need to do first, tough, it's compare the object lenghts with the 'Object.keys(object)' and verify, then add it.
