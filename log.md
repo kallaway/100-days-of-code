@@ -549,3 +549,11 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: I know I am lacking confidence on this project but I think I just gotta go for it, sometimes. If I was wrong, I will work to fix any mistakes. But I think I am on the right track.
 
 **Link to work**: project folders and Samsung documentation
+
+
+##Day 78: March 17, 2017
+**Today's Progress**: Git commit-ed my changes on my local branch to the Samsung Smart TV app! On Bitbucket!
+
+**Thoughts**: I feel like a legit coder. This is a milestone. 
+
+**Link to work**: Bitbucket repo, command line
