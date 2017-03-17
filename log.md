@@ -834,3 +834,13 @@ FreeCodeCamp: Completed the calculator project.
 **Thoughts:** Glad to have completed the calculator project.  It is amazing how many requirements a calculator has.  Who knew?
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev)
+
+## Day 72: March 16, 2017.
+
+**Today's Progress**:
+AWS Certified Solutions Architect associate: Completed the EC2 section of acloud.guru training.
+FreeCodeCamp: Started the pomodoro clock project.
+
+**Thoughts:** Starting a new project is fun.  I enjoy the puzzle.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev) | [Pomodoro Clock](https://codepen.io/anewdev/full/pedepo)
