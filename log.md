@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 70: March 16, 2017
+
+**Today's Progress:** Created wedding invite page as part of #30Days30Site.
+
+**Thoughts:** Decided to take yesterday off. Was feeling rundown. Started back up today by tackling a single page site.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours 30 minutes.
+
+**Link(s) to work:** [Wedding Invite](https://codepen.io/larrytooley/full/KWyqex/)
+
 ### Day 69: March 14, 2017
 
 **Today's Progress:** Worked on todo.py. Basic add and list functions working.
