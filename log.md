@@ -844,3 +844,13 @@ FreeCodeCamp: Started the pomodoro clock project.
 **Thoughts:** Starting a new project is fun.  I enjoy the puzzle.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev) | [Pomodoro Clock](https://codepen.io/anewdev/full/pedepo)
+
+## Day 73: March 17, 2017.
+
+**Today's Progress**:
+AWS Certified Solutions Architect associate: Started the Route 53 section of acloud.guru training.
+FreeCodeCamp: Continued work on the pomodoro clock project.
+
+**Thoughts:** got a timer working.  Now for something to demonstrate progress... lot's of design tricks to learn.
+
+**Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev) | [Pomodoro Clock](https://codepen.io/anewdev/full/pedepo)
