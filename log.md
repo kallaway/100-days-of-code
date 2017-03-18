@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 71: March 17, 2017
+
+**Today's Progress:** Added first click command to todo.py. Still reading the docs to understand how I need to structure my app.
+
+**Thoughts:** Click should make interacting with the app much easier.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours 30 minutes.
+
+**Link(s) to work:** [todo.py](https://github.com/larrytooley/todo.py/tree/click_test)
+
 ### Day 70: March 16, 2017
 
 **Today's Progress:** Created wedding invite page as part of #30Days30Site.
