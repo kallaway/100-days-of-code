@@ -855,7 +855,7 @@ FreeCodeCamp: Continued work on the pomodoro clock project.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev) | [Pomodoro Clock](https://codepen.io/anewdev/full/pedepo)
 
-## Day 73: March 17, 2017.
+## Day 74: March 18, 2017.
 
 **Today's Progress**:
 FreeCodeCamp: Continued work on the pomodoro clock project.
