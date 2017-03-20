@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17 : March 19, 2017, Sunday
+
+**Today's Progress**: I'm still try to solve this algorithm applying for...lops, etc.
+
+**Thoughts**
+
+**Link to work:** [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
+
 ### Day 16 : March 16, 2017, Friday
 
 **Today's Progress**: Today, I was again trying to solve the Wherefore Art Thou algorithm, but I get struggle because I'm making a mistake in my logical to compare the key-value from the objects. Then, I studied React.js, and learn about Router with components, how to make it.

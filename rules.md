@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-February 21th, 2017.
+February 24th, 2017.
 #### Finish Date
 April 10th, 2017.
 
