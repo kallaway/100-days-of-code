@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 72: March 18, 2017
+
+**Today's Progress:** Started working on Django app. Working through tutorial.
+
+**Thoughts:** Django tutorial is better than following TDD with Python. Easier to see the power.
+
+**Tutorials:** Django tutorial and Write Pythonic Code Like a Seasoned Developer.
+
+**Reading:** None.
+
+**Time:** 2 hours 30 minutes.
+
+**Link(s) to work:** [Write Python Code Like a Seasoned Developer](https://training.talkpython.fm/courses/details/write-pythonic-code-like-a-seasoned-developer).
+
 ### Day 71: March 17, 2017
 
 **Today's Progress:** Added first click command to todo.py. Still reading the docs to understand how I need to structure my app.
