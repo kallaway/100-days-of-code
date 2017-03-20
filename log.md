@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 73: March 19, 2017
+
+**Today's Progress:** Continued work on Django app. Working through tutorial. Worked through some basic code challenges.
+
+**Thoughts:** Django will be what I use for my blog. So much easier than creating it with Flask. I will probably continue using it for my H.O.L.D(Hall of Legenday Developers) API also. The job prospects seem to be better than Flask also.
+
+**Tutorials:** Django tutorial.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Django Tutorial](https://docs.djangoproject.com/en/1.10/intro/tutorial01/)
+
 ### Day 72: March 18, 2017
 
 **Today's Progress:** Started working on Django app. Working through tutorial.
