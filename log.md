@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18 : March 20, 2017, Monday
+
+**Today's Progress**: Finally I solved the Wherefore Art Thou algorithm using the filter method that return if each value or object in this case is true or false to the applyed condition. So, it works very well. Now I need to solve the Search Replace algorithm using specific methods. I getted to replace the match strings value, but it is necessary replace correctly if the letter is higher or lower case.
+
+**Thoughts** Reach-Search-Ask are the secrets to go foward!
+
+**Link to work:** [Search And Replace](https://www.freecodecamp.com/challenges/search-and-replace)
+
 ### Day 17 : March 19, 2017, Sunday
 
 **Today's Progress**: I'm still try to solve this algorithm applying for...lops, etc.
