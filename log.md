@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 74: March 20, 2017
+
+**Today's Progress:** Organized my #30Days30sites code into a repo on Github.
+
+**Thoughts:** For some reason my main nav page is not loading in github pages. I'll fix it later.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [#30Days30Sites](https://larrytooley.github.io/30-day-30-sites/index.html)
+
 ### Day 73: March 19, 2017
 
 **Today's Progress:** Continued work on Django app. Working through tutorial. Worked through some basic code challenges.
