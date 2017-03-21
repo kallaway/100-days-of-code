@@ -557,3 +557,15 @@ Out of town in Arkansas visiting my kids - took time off for quality time with t
 **Thoughts**: I feel like a legit coder. This is a milestone. 
 
 **Link to work**: Bitbucket repo, command line
+
+
+##Days 79, 80, 81: March 18-20
+Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so little to no coding progress made.
+
+
+##Day 82: March 21, 2017
+**Today's Progress**: Although my pull request couldn't be merged :(, the changes were mostly accepted and now we're onto the issue of HTML5 video tag and customizing it. Took a little time to straighten out/rebase using git and Bitbucket. Also, signed up for free MongoDB course, and using Lynda account to learn more about HTML5 video.
+
+**Thoughts**: So much to do, and I am grateful for Starbucks but need to carve out more coding time.
+
+**Link to work**: Here is the Lynda course https://www.lynda.com/HTML-5-tutorials/HTML5-Video-and-Audio-in-Depth/80781-2.html
