@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 75: March 21, 2017
+
+**Today's Progress:** Added flexbox and formatting to #30Day30Sites page.
+
+**Thoughts:** Using this as an opportunity to practice flexbox.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [#30Days30Sites](https://larrytooley.github.io/30-day-30-sites/index.html)
+
 ### Day 74: March 20, 2017
 
 **Today's Progress:** Organized my #30Days30sites code into a repo on Github.
