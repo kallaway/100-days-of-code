@@ -885,8 +885,17 @@ FreeCodeCamp: Continued work on the pomodoro clock project.
 ## Day 77: March 21, 2017.
 
 **Today's Progress**:
-FreeCodeCamp: Continued work on the pomodoro clock project.
+FreeCodeCamp: Completed the pomodoro clock project.
 
 **Thoughts:** continued to make progress, but still have many things to work out.
 
 **Link to work:** [FCC Progress Page](https://www.freecodecamp.com/anewdev) | [Pomodoro Clock](https://codepen.io/anewdev/full/pedepo)
+
+## Day 78: March 22, 2017.
+
+**Today's Progress**:
+AWS Certified Solutions Architect associate: Completed the VPC and Databases section of acloud.guru training.  Scheduled the test.
+
+**Thoughts:** Getting ready for this test.  
+
+**Link to work:** 
