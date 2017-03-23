@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 76: March 22, 2017
+
+**Today's Progress:** Finished flexbox layout of #30Days30Sites page.
+
+**Thoughts:** Used a javascript object to store information about each day.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [#30Days30Sites](https://larrytooley.github.io/30-day-30-sites/index.html)
+
 ### Day 75: March 21, 2017
 
 **Today's Progress:** Added flexbox and formatting to #30Day30Sites page.
