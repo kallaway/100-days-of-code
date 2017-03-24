@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 77: March 23, 2017
+
+**Today's Progress:** Started day 3 tourism site.
+
+**Thoughts:** Boy this thing is a real eye sore. I am using a carousel for the first time.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours 30 minutes.
+
+**Link(s) to work:** [#30Days30Sites](https://larrytooley.github.io/30-day-30-sites/day03/index.html)
+
 ### Day 76: March 22, 2017
 
 **Today's Progress:** Finished flexbox layout of #30Days30Sites page.
