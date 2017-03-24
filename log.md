@@ -898,4 +898,14 @@ AWS Certified Solutions Architect associate: Completed the VPC and Databases sec
 
 **Thoughts:** Getting ready for this test.  
 
-**Link to work:** 
+**Link to work:**
+
+## Day 79: March 23, 2017.
+
+**Today's Progress**:
+AWS Certified Solutions Architect associate: Completed the Application Services, and 2 more section of acloud.guru training.
+Hack Reactor Bootcamp: Applied for new Hack Reactor Remote Part Time Bootcamp program
+
+**Thoughts:** Excited that HR has a remote part time program now.  Applied today.  Hope I get in.    
+
+**Link to work:** [Hack Reactor Remote Part-Time](http://getcoding.hackreactor.com/remote-part-time/)
