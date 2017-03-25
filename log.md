@@ -909,3 +909,13 @@ Hack Reactor Bootcamp: Applied for new Hack Reactor Remote Part Time Bootcamp pr
 **Thoughts:** Excited that HR has a remote part time program now.  Applied today.  Hope I get in.    
 
 **Link to work:** [Hack Reactor Remote Part-Time](http://getcoding.hackreactor.com/remote-part-time/)
+
+## Day 80: March 24, 2017.
+
+**Today's Progress**:
+AWS Certified Solutions Architect associate: Completed the acloud.guru AWS CSA training.
+aNewDev website: Updates for changes to the part time HR program and CSA training.
+
+**Thoughts:** Training program completed for the AWS CSA.  Now continued practice tests until test day.      
+
+**Link to work:** [Hack Reactor Remote Part-Time](http://getcoding.hackreactor.com/remote-part-time/)
