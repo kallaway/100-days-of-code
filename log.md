@@ -1,10 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 20 : March 22, 2017, Thursday
+
+**Today's Progress**: Continue learning the React.js and React Natice concepts and fundamentals things.
+
+**Thoughts** I don't remember what I did, and I'm late in this fuck shit of my mind.
+
+**Link to work:**
+
+### Day 19 : March 22, 2017, Wednesday
+
+**Today's Progress**: Learning the React.js and React Natice concepts and fundamentals things.
+
+**Thoughts** I don't remember what I did, and I'm late.
+
+**Link to work:**
+
 ### Day 18 : March 20, 2017, Monday
 
 **Today's Progress**: Finally I solved the Wherefore Art Thou algorithm using the filter method that return if each value or object in this case is true or false to the applyed condition. So, it works very well. Now I need to solve the Search Replace algorithm using specific methods. I getted to replace the match strings value, but it is necessary replace correctly if the letter is higher or lower case.
 
-**Thoughts** Reach-Search-Ask are the secrets to go foward!
+**Thoughts** Reach-Search-Ask are the secrets to go foward.
 
 **Link to work:** [Search And Replace](https://www.freecodecamp.com/challenges/search-and-replace)
 

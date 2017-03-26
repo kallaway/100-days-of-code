@@ -6,7 +6,7 @@
 #### Start Date
 February 24th, 2017.
 #### Finish Date
-April 10th, 2017.
+April 13th, 2017.
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
