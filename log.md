@@ -919,3 +919,12 @@ aNewDev website: Updates for changes to the part time HR program and CSA trainin
 **Thoughts:** Training program completed for the AWS CSA.  Now continued practice tests until test day.      
 
 **Link to work:** [Hack Reactor Remote Part-Time](http://getcoding.hackreactor.com/remote-part-time/)
+
+## Day 81: March 25, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Started the 'Tic Tac Toe' project
+
+**Thoughts:** Lot's of challenge with starting a new project.  I enjoy the mental puzzle.   
+
+**Link to work:** [Tic Tac Toe on Codepen](https://codepen.io/anewdev/full/KWBaWO/)
