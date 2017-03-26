@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 78: March 25, 2017
+
+**Today's Progress:** Refactored #30Days30Sites code based on Jared's review. Add directories and files for remaining days.
+
+**Thoughts:** Learned some new tricks with my editor. Need to learn some more.
+
+**Tutorials:** Treehouse Python Collections.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [#30Days30Sites](https://larrytooley.github.io/30-day-30-sites/index.html)
+
 ### Day 77: March 23, 2017
 
 **Today's Progress:** Started day 3 tourism site.
