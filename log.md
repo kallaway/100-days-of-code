@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 21 : March 22, 2017, Sunday
+
+**Today's Progress**: Today for an hour I spent coding with React Native, understand components, how React is called and create components with React, React Native to be render in the mobile device. And I had some problems to config and run.
+
+**Thoughts**
+
+**Link to work:** [React Native](https://facebook.github.io/react-native/)
+
+
 ### Day 20 : March 22, 2017, Thursday
 
 **Today's Progress**: Continue learning the React.js and React Natice concepts and fundamentals things.
