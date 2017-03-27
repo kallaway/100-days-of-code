@@ -928,3 +928,12 @@ FreeCodeCamp: Started the 'Tic Tac Toe' project
 **Thoughts:** Lot's of challenge with starting a new project.  I enjoy the mental puzzle.   
 
 **Link to work:** [Tic Tac Toe on Codepen](https://codepen.io/anewdev/full/KWBaWO/)
+
+## Day 82: March 26, 2017.
+
+**Today's Progress**:
+FreeCodeCamp: Continued work the 'Tic Tac Toe' project
+
+**Thoughts:** Started work on the flow of the problem, but there is still much to figure out for the computer play.
+
+**Link to work:** [Tic Tac Toe on Codepen](https://codepen.io/anewdev/full/KWBaWO/)
