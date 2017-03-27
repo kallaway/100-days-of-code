@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 79: March 26, 2017
+
+**Today's Progress:** Finished reading the Django Girls tutorial. Watched some Treehouse videos on HTTP and REST. Started the Treehouse Django course. Looked into which Javascript build tool to use.
+
+**Thoughts:** I am going to take Dain's advise and concentrate on reading and completing Django tutorials and immersing myself in the Django ecosystem.
+
+**Tutorials:** Treehouse Django and Django Girls.
+
+**Reading:** Django Girls.
+
+**Time:** 3 hours 45 minutes.
+
+**Link(s) to work:** [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+
 ### Day 78: March 25, 2017
 
 **Today's Progress:** Refactored #30Days30Sites code based on Jared's review. Add directories and files for remaining days.
