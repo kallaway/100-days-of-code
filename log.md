@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 21 : March 22, 2017, Sunday
+### Day 22 : March 26, 2017, Sunday
+
+**Today's Progress**: I solved the search-and-replace algorithm so fast in less minutes with less lines of code. Awesome! It was necessary just two methods to solve it. Now I'm working in the next challenge Pig Latin, but it requires more ideas, I think.
+
+**Thoughts** Refresh your mind, relax and come back to it.
+
+**Link to work:** [Search and Replace](https://www.freecodecamp.com/challenges/search-and-replace)
+
+### Day 21 : March 26, 2017, Sunday
 
 **Today's Progress**: Today for an hour I spent coding with React Native, understand components, how React is called and create components with React, React Native to be render in the mobile device. And I had some problems to config and run.
 
@@ -9,7 +17,7 @@
 **Link to work:** [React Native](https://facebook.github.io/react-native/)
 
 
-### Day 20 : March 22, 2017, Thursday
+### Day 20 : March 23, 2017, Thursday
 
 **Today's Progress**: Continue learning the React.js and React Natice concepts and fundamentals things.
 
