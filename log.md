@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 80: March 27, 2017
+
+**Today's Progress:** Worked through two-thirds of the Treehouse Django basics.
+
+**Thoughts:** Alot of this is repition; however, I am stuck on a static file issue and may need to seek help.
+
+**Tutorials:** Treehouse Django.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Treehouse Django Basics](https://teamtreehouse.com/library/Django-basics)
+
 ### Day 79: March 26, 2017
 
 **Today's Progress:** Finished reading the Django Girls tutorial. Watched some Treehouse videos on HTTP and REST. Started the Treehouse Django course. Looked into which Javascript build tool to use.
