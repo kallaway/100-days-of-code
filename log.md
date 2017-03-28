@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 23 : March 27, 2017, Sunday
+
+**Today's Progress**: Solving a new algorithm from freeCodeCamp, Pig Latin. I'm trying to solve that with string and array methods to split a word, see if it is a consonant or a vowel and apply the neessary changes.
+
+**Thoughts** I'm trying to be present, think more about the problem, how it works, how I can solve that, etc.
+
+**Link to work:** [Pig Latin](https://www.freecodecamp.com/challenges/pig-latin)
+
 ### Day 22 : March 26, 2017, Sunday
 
 **Today's Progress**: I solved the search-and-replace algorithm so fast in less minutes with less lines of code. Awesome! It was necessary just two methods to solve it. Now I'm working in the next challenge Pig Latin, but it requires more ideas, I think.
