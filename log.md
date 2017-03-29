@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 81: March 28, 2017
+
+**Today's Progress:** Worked through all but last exercise of Django Basic.
+
+**Thoughts:** I conquered m static file issue. I had a directory in the wrong location.
+
+**Tutorials:** Treehouse Django.
+
+**Reading:** None.
+
+**Time:** 3 hours and 30 minutes.
+
+**Link(s) to work:** [Treehouse Django Basics](https://teamtreehouse.com/library/Django-basics)
+
 ### Day 80: March 27, 2017
 
 **Today's Progress:** Worked through two-thirds of the Treehouse Django basics.
