@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 82: March 29, 2017
+
+**Today's Progress:** Completed Treehouse's Customizing Django Templates.
+
+**Thoughts:** This stuff is super powerful.
+
+**Tutorials:** Treehouse Django.
+
+**Reading:** None.
+
+**Time:** 3 hours and 30 minutes.
+
+**Link(s) to work:** [Treehouse Django Basics](https://teamtreehouse.com/library/customizing-django-templates)
+
 ### Day 81: March 28, 2017
 
 **Today's Progress:** Worked through all but last exercise of Django Basic.
