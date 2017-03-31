@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 24 : March 29, 2017, Sunday
+
+**Today's Progress**: In this day, I solved the Pig Latin algorithm using a function to check if a consonant is a vowel or not, and return true of false. Then, I implemented a for loop to iterate through the string withou split it in an separate array. I created some conditions to check each letter and apply methods. Also, I came back to the De Bus application, so I learn how to change the APK icon in the app with React Native.
+
+**Thoughts** Sometimes many ideas come from, so it's nice to write the ideas on paper and apply it, instead go directly to code.
+
+**Link to work:** [Pig Latin](https://www.freecodecamp.com/challenges/pig-latin)
+
 ### Day 23 : March 27, 2017, Sunday
 
 **Today's Progress**: Solving a new algorithm from freeCodeCamp, Pig Latin. I'm trying to solve that with string and array methods to split a word, see if it is a consonant or a vowel and apply the neessary changes.
