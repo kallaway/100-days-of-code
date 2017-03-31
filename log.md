@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 83: March 30, 2017
+
+**Today's Progress:** Started work on the official Django Tutorial.
+
+**Thoughts:** There are some slight differences in the offial tutorial and the Treehouse course.
+
+**Tutorials:** Official Django.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Django Tutorial](https://github.com/larrytooley/django-tutorial)
+
 ### Day 82: March 29, 2017
 
 **Today's Progress:** Completed Treehouse's Customizing Django Templates.
