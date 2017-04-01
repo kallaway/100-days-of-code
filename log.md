@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 84: March 31, 2017
+
+**Today's Progress:** Completed the beginner tutorial for Django.
+
+**Thoughts:** Once again, learned something new even though the majority of the tutorial is redundant.
+
+**Tutorials:** Official Django.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Django Tutorial](https://github.com/larrytooley/django-tutorial)
+
 ### Day 83: March 30, 2017
 
 **Today's Progress:** Started work on the official Django Tutorial.
