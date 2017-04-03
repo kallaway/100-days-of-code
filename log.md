@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 85: April 2, 2017
+
+**Today's Progress:** Completed about half of the Django tutorial in Python Crash Course.
+
+**Thoughts:** Ran into a bug with the logout process. I am sure I will be able to overcome it tomorrow.
+
+**Tutorials:** Python Crash Course Learning Log app.
+
+**Reading:** None.
+
+**Time:** 3 hours.
+
+**Link(s) to work:** [Python Crash Course Learning Log](https://github.com/larrytooley/learning-log-django)
+
 ### Day 84: March 31, 2017
 
 **Today's Progress:** Completed the beginner tutorial for Django.
