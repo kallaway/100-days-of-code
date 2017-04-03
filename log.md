@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 25 : April 01, 2017, Saturday
+
+**Today's Progress**: I solved the DNA Pairing Algorithm spliting the string in an array and using a switch else case to check the DNA letter and match the right combination or pair as a new array to be returned.
+
+**Thoughts** That time it was easy and fast the solution I made it.
+
+**Link to work:** [DNA Pairing](https://www.freecodecamp.com/challenges/dna-pairing)
+
 ### Day 24 : March 29, 2017, Sunday
 
 **Today's Progress**: In this day, I solved the Pig Latin algorithm using a function to check if a consonant is a vowel or not, and return true of false. Then, I implemented a for loop to iterate through the string withou split it in an separate array. I created some conditions to check each letter and apply methods. Also, I came back to the De Bus application, so I learn how to change the APK icon in the app with React Native.
