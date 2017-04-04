@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 86: April 3, 2017
+
+**Today's Progress:** Completed main functionality of learning log from Python Crash Course.
+
+**Thoughts:** Overcame the bug that I inflicted on myself. I entered the url in the wrong app.
+
+**Tutorials:** Python Crash Course Learning Log app.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Python Crash Course Learning Log](https://github.com/larrytooley/learning-log-django)
+
 ### Day 85: April 2, 2017
 
 **Today's Progress:** Completed about half of the Django tutorial in Python Crash Course.
