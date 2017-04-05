@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 87: April 4, 2017
+
+**Today's Progress:** Completed Python Crash Course Django app up to deploying on Heroku.
+
+**Thoughts:** Ran into another problem. Can't deploy on Heroku. I will be able to overcome this on Thursday. Tomorrow I work on the coding challenge for the LSA job.
+
+**Tutorials:** Python Crash Course Learning Log app.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Python Crash Course Learning Log](https://github.com/larrytooley/learning-log-django)
+
 ### Day 86: April 3, 2017
 
 **Today's Progress:** Completed main functionality of learning log from Python Crash Course.
