@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 88: April 5, 2017
+
+**Today's Progress:** Completed all but the tests for an address book written in Django.
+
+**Thoughts:** Completed the LSA coding test. Was able to recycle ideas from the learning log app and the official Django tutorial.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 4 hours.
+
+**Link(s) to work:** [Django Address Book](https://github.com/larrytooley/address-book-django)
+
 ### Day 87: April 4, 2017
 
 **Today's Progress:** Completed Python Crash Course Django app up to deploying on Heroku.
