@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 89: April 6, 2017
+
+**Today's Progress:** Worked on some test for the address book app in the morning. Completed the Django Girls tutorial again this afternoon.
+
+**Thoughts:** The interview today was less technical than I thought it would be. Not sure why that was. Hopefully, it was a good thing.
+
+**Tutorials:** Django Girls.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Django Girls Tutorial](https://github.com/larrytooley/blog-django)
+
 ### Day 88: April 5, 2017
 
 **Today's Progress:** Completed all but the tests for an address book written in Django.
