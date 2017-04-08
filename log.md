@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 90: April 7, 2017
+
+**Today's Progress:** Started HOLD API project. Created first view, template and test.
+
+**Thoughts:** As I get more familiar with Django and web development in general, these sort of projects become easier.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [HOLD API](https://github.com/larrytooley/H.O.L.D.-API)
+
 ### Day 89: April 6, 2017
 
 **Today's Progress:** Worked on some test for the address book app in the morning. Completed the Django Girls tutorial again this afternoon.
