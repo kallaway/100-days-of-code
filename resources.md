@@ -4,8 +4,14 @@
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 
 ## Projects and Ideas
-1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+1. [VikingCodeSchoolPrep](https://www.vikingcodeschool.com/web-development-basics)
+2. [Udacity](https://www.udacity.com/)
+3. [KhanAcademy](https://www.khanacademy.org)
+4. [FreeCodeCamp](https://www.freecodecamp.com/)
+5. [TreeHouse](https://teamtreehouse.com/)
+6. [The Odin Project](http://www.theodinproject.com/)
+7. [Coursera](https://www.coursera.org/)
+8. [Edx](https://www.edx.org/)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
