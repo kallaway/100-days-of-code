@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 26 : April 10, 2017, Monday
+
+**Today's Progress**:Today I finish a new algorithm, the Sorted Union that takes arrays from an object arguments in a function and sort the values in it. Before this algorithm I solved new ones using differents JavaScript methods.
+
+**Thoughts** I'm come backing again to the challenge, I lost some days and I'm sure about what I did, but I'll keep going day by day. Futhermore, I'm so close to finish my Front End Curriculum.
+
+**Link to work:** [DNA Pairing](https://www.freecodecamp.com/challenges/dna-pairing)
+
 ### Day 25 : April 01, 2017, Saturday
 
 **Today's Progress**: I solved the DNA Pairing Algorithm spliting the string in an array and using a switch else case to check the DNA letter and match the right combination or pair as a new array to be returned.
