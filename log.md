@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 92, April 10, 2017
+
+**Today's Progress:** Worked through the first chapter of Lightweight Django. Almost completed the single page app.
+
+**Thoughts:** Back at it today. Still sick. I am learning a ton from this book. I am learning what is absolutely neccesary for a django app.
+
+**Tutorials:** None.
+
+**Reading:** Lightweight Django.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** []()
+
 ### Day 91: April 8, 2017
 
 **Today's Progress:** Little progress on anything. Starting to get a cold. Hard to think. Did work on Treehouse django course.
@@ -12,7 +26,7 @@
 
 **Time:** 1 hours 30 minutes.
 
-**Link(s) to work:** [HOLD API](https://github.com/larrytooley/H.O.L.D.-API)
+**Link(s) to work:** []()
 
 ### Day 90: April 7, 2017
 
