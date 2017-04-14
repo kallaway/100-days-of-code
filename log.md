@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 93, April 13, 2017
+
+**Today's Progress:** Worked on the second chapter of Lightweight Django. Creating a placeholder image app.
+
+**Thoughts:** Took a couple of days off due to busy networking schedule. Like riding a bike.
+
+**Tutorials:** None.
+
+**Reading:** Lightweight Django.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Placeholder Image App](https://github.com/larrytooley/placeholder-django)
+
 ### Day 92, April 10, 2017
 
 **Today's Progress:** Worked through the first chapter of Lightweight Django. Almost completed the single page app.
