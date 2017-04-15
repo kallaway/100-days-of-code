@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 94, April 14, 2017
+
+**Today's Progress:** Completed second and third chapter of Lightweight Django. Created a static site generator and an placeholder image server.
+
+**Thoughts:** This is some completely different stuff that the basic tutorials teach. I love it. Didn't quote hit the four hours I was hoping for today.
+
+**Tutorials:** None.
+
+**Reading:** Lightweight Django.
+
+**Time:** 2 hours and 55 minutes.
+
+**Link(s) to work:** [Placeholder Image App](https://github.com/larrytooley/placeholder-django)
+
 ### Day 93, April 13, 2017
 
 **Today's Progress:** Worked on the second chapter of Lightweight Django. Creating a placeholder image app.
