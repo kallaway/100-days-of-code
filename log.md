@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 97, April 17, 2017
+
+**Today's Progress:** Worked on Treehouse Django ORM material.
+
+**Thoughts:** I am super impressed with Django Debug Toolbar.
+
+**Tutorials:** Treehouse Django ORM.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** []()
+
 ### Day 96, April 16, 2017
 
 **Today's Progress:** Finished the Treehouse Djanog Forms material.
