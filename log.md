@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 95, April 15, 2017
+
+**Today's Progress:** Watched and worked through Treehouse Django forms material.
+
+**Thoughts:** Treehouse is beating the life out of the forms material.
+
+**Tutorials:** Treehouse Django Forms.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** []()
+
 ### Day 94, April 14, 2017
 
 **Today's Progress:** Completed second and third chapter of Lightweight Django. Created a static site generator and an placeholder image server.
