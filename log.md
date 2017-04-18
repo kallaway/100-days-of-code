@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 96, April 16, 2017
+
+**Today's Progress:** Finished the Treehouse Djanog Forms material.
+
+**Thoughts:** Treehouse is still beating the life out of the forms material.
+
+**Tutorials:** Treehouse Django Forms.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** []()
+
 ### Day 95, April 15, 2017
 
 **Today's Progress:** Watched and worked through Treehouse Django forms material.
