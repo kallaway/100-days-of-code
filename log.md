@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 99, April 20, 2017
+
+**Today's Progress:** Worked on FCC Remote Hack site.
+
+**Thoughts:** My CSS is still rusty.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour and 30 minutes.
+
+**Link(s) to work:** [FCC Remote Hack](https://github.com/Free-Code-Camp-Indy/FCC-Remote-Hack)
+
 ### Day 98, April 19, 2017
 
 **Today's Progress:** Watched some Treehouse Django ORM videos and worked on FCC Remote Hack site.
