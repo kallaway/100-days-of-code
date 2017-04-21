@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 100, April 21, 2017
+
+**Today's Progress:** Worked on the the H.O.L.D. api. Added JSON response. Finishing the day with the start of a hackathon.
+
+**Thoughts:** Can't wait to get started with my first real hackathon.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 30 minutes.
+
+**Link(s) to work:** [HOLD API](https://github.com/larrytooley/H.O.L.D.-API)
+
 ### Day 99, April 20, 2017
 
 **Today's Progress:** Worked on FCC Remote Hack site.
