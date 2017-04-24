@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 102, April 23, 2017
+
+**Today's Progress:** Worked on learning how to modify Django's admin.
+
+**Thoughts:** I am still tired. Can't bring myself to do any real coding today. Just watched videos and read the docs.
+
+**Tutorials:** Treehouse Django Customizing Admin.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** []()
+
 ### Day 101, April 22, 2017
 
 **Today's Progress:** Build a map with Leaflet using geojson data.
