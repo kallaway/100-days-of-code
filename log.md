@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 103, April 24, 2017
+
+**Today's Progress:** Studied Django admin customization and worked on the H.O.L.D. API.
+
+**Thoughts:** Watched some videos and was not motivated to write any real code. Got my second wind and started working on the API.
+
+**Tutorials:** Treehouse Django Customizing Admin.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [H.O.L.D. API](https://github.com/larrytooley/H.O.L.D.-API)
+
 ### Day 102, April 23, 2017
 
 **Today's Progress:** Worked on learning how to modify Django's admin.
