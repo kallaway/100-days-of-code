@@ -2,6 +2,18 @@
 
 ### Day 103, April 24, 2017
 
+**Today's Progress:** Watched some videos about Django views.
+
+**Thoughts:** Didn't get any real coding done. I am almost done with the series on views.
+
+**Tutorials:** Treehouse Django Veiws.
+
+**Reading:** None.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** []()
+
 **Today's Progress:** Studied Django admin customization and worked on the H.O.L.D. API.
 
 **Thoughts:** Watched some videos and was not motivated to write any real code. Got my second wind and started working on the API.
