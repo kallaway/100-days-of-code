@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 103, April 24, 2017
+### Day 105, April 26, 2017
+
+**Today's Progress:** Worked through some Free Code Camp to refresh my knowledge.
+
+**Thoughts:** I have a HTML, CSS, Javascript hackathon coming up. Need to bone up to compete.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Free Code Camp](http://freecodecamp.com)
+
+### Day 104, April 25, 2017
 
 **Today's Progress:** Watched some videos about Django views.
 
@@ -13,6 +27,8 @@
 **Time:** 1 hours.
 
 **Link(s) to work:** []()
+
+### Day 103, April 24, 2017
 
 **Today's Progress:** Studied Django admin customization and worked on the H.O.L.D. API.
 
