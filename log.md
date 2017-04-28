@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 106, April 27, 2017
+
+**Today's Progress:** Worked on Free Code Camp again. Passed 200 brownie points.
+
+**Thoughts:** I will complete the basics tomorrow. I will start solving the challenges this weekend and working on projects next week. Still going to work on Django as well. I want to specialize in Django/Angular.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Free Code Camp](http://freecodecamp.com)
+
 ### Day 105, April 26, 2017
 
 **Today's Progress:** Worked through some Free Code Camp to refresh my knowledge.
