@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 107, April 28, 2017
+
+**Today's Progress:** Worked on Free Code Camp. Started working through the basic algorithm challenges.
+
+**Thoughts:** I am taking my time to complete the algorithms and look at other's solutions. There is an interesting balance between short solutions and readability.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Free Code Camp](http://freecodecamp.com)
+
 ### Day 106, April 27, 2017
 
 **Today's Progress:** Worked on Free Code Camp again. Passed 200 brownie points.
