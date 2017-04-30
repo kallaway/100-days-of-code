@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 108, April 29, 2017
+
+**Today's Progress:** Worked on Django Class Based Views in the morning and Webpack configuration in the evening.
+
+**Thoughts:** I am jumping back into Lightweight Django tomorrow. I have a basic webpack setup for my front-end projects and now I will work on Django again. I need to stay the course on Django. Once I have the 50 tutorials read and 10 tutorials built I will start into Angular 4. I want to specialize in Django/Angular full stack development.
+
+**Tutorials:** Treehouse Class Based Views.
+
+**Reading:** None.
+
+**Time:** 4 hours.
+
+**Link(s) to work:** []()
+
 ### Day 107, April 28, 2017
 
 **Today's Progress:** Worked on Free Code Camp. Started working through the basic algorithm challenges.
