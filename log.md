@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 109, April 30, 2017
+
+**Today's Progress:** Started reading about and building some Django-REST-Framework stuff. I also worked on some FCC Javascript challenges.
+
+**Thoughts:** I found what I needed for my HOLD API. I will have to scrap what I have I think, but DRF is really cool and useful. Worked some more on Free Code Camp. I want to get my Front-end cert before day 200. I need to create a log of my projects and progress and publish it somewhere. Particularly, against the Advanced Beginner Challenge.
+
+**Tutorials:** Lightwieght Django: Django REST Framework.
+
+**Reading:** Lightweight Django.
+
+**Time:** 4 hours.
+
+**Link(s) to work:** [Free Code Camp](https://www.freecodecamp.com/larrytooley)
+
 ### Day 108, April 29, 2017
 
 **Today's Progress:** Worked on Django Class Based Views in the morning and Webpack configuration in the evening.
