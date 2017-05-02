@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 110, May 1, 2017
+
+**Today's Progress:** Worked on Lightweight Django's Django Rest Framework. Finished up by working on a FCC code challenge and a CSS only version of my tribute page.
+
+**Thoughts:** I need help with CSS.
+
+**Tutorials:** Lightwieght Django: Django REST Framework.
+
+**Reading:** Lightweight Django.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Free Code Camp](https://www.freecodecamp.com/larrytooley)
+
 ### Day 109, April 30, 2017
 
 **Today's Progress:** Started reading about and building some Django-REST-Framework stuff. I also worked on some FCC Javascript challenges.
