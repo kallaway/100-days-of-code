@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 112, May 4, 2017
+
+**Today's Progress:** Watched some more videos on CSS basics and completed associated exercises.
+
+**Thoughts:** Job market is looking much more interesting in the area of HTML, CSS, and Javascript/Node than Python. I am going to beef up my Node project portfolio.
+
+**Tutorials:** Web Developer Bootcamp.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
 ### Day 111, May 3, 2017
 
 **Today's Progress:** Watched some videos on HTML and CSS basics and completed associated exercises. Also completed a FCC Javascript challenge.
