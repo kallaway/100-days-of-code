@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 113, May 5, 2017
+
+**Today's Progress:** Watched some more videos on CSS basics and completed associated exercises.
+
+**Thoughts:** I am really enjoying working on this front-end stuff. It is very gratifying to put something attractive on the screen.
+
+**Tutorials:** Web Developer Bootcamp.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
 ### Day 112, May 4, 2017
 
 **Today's Progress:** Watched some more videos on CSS basics and completed associated exercises.
