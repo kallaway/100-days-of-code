@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 114, May 6, 2017
+
+**Today's Progress:** Worked through material on bootstrap. I am beginning to gain some confidence with using it.
+
+**Thoughts:** I had an issue with some of my images not clearing properly. A user on the gitter helped me and man it was great. I am not sure I could have ever figured it out my self.
+
+**Tutorials:** Web Developer Bootcamp.
+
+**Reading:** None.
+
+**Time:** 4 hours.
+
+**Link(s) to work:** [Stormtrooper Minifig Gallery](https://larrytooley.github.io/bootstrap-photo-grid/)
+
 ### Day 113, May 5, 2017
 
 **Today's Progress:** Watched some more videos on CSS basics and completed associated exercises.
