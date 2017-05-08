@@ -271,13 +271,19 @@ to kill them was with ``sudo kill -9 <pid>``. Need to look into that more.
 
 **Link to work**:
 
-### Day 30 : February 9, 2016
+### Day 30 : May 7, 2017
 
-**Today's Progress**:
+**Today's Progress**: Long ass break, I know.
 
 **Thoughts**:
+Something I finally figured out, with scenaio:
+When rendering different navbars for certain pages, in layouts/application,
+you can write conditionals a few different ways. You can use:
+current_page? or something like controller_name == "home" && action_name == "index"
+[Some more examples](http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html#method-i-current_page-3F) for current_page?
 
 **Link to work**:
+check the rad site, and myirlog
 
 
 <!-- ### Day 0 : February 13, 2016
