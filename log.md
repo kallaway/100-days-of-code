@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 115, May 7, 2017
+
+**Today's Progress:** Worked on updating portfolio site to something I can use publicly.
+
+**Thoughts:** Converting from Bootstrap 4 back to Bootstrap 3 is a mess.
+
+**Tutorials:** Web Developer Bootcamp.
+
+**Reading:** None.
+
+**Time:** 4 hours.
+
+**Link(s) to work:** [FCC Portfolio Site](https://github.com/larrytooley/fcc-portfolio-site)
+
 ### Day 114, May 6, 2017
 
 **Today's Progress:** Worked through material on bootstrap. I am beginning to gain some confidence with using it.
