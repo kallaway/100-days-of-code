@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 116, May 8, 2017
+
+**Today's Progress:** Did some work on my reaction time game. Also started trying to understand angular.
+
+**Thoughts:** I am having a hard time understanding what on earth is going on in the getting started angular code. Wow!
+
+**Tutorials:** Angular getting started.
+
+**Reading:** The Pragmatic Programmer.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** [Reaction Time Game](https://github.com/larrytooley/reaction-time-game)
+
 ### Day 115, May 7, 2017
 
 **Today's Progress:** Worked on updating portfolio site to something I can use publicly.
