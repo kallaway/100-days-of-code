@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 117, May 9, 2017
+
+**Today's Progress:** Got the basic Angular app started and made stuff appear on the screen!
+
+**Thoughts:** Turns out I bought a popular Angular Udemy course and it looks like it will be good. Should complete it in about a week. I will then start converting/createing my FCC apps in Angular.
+
+**Tutorials:** Angular Udemy Course.
+
+**Reading:** The Pragmatic Programmer.
+
+**Time:** 1 hours.
+
+**Link(s) to work:** []()
+
 ### Day 116, May 8, 2017
 
 **Today's Progress:** Did some work on my reaction time game. Also started trying to understand angular.
