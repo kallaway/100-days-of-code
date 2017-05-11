@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 118, May 10, 2017
+
+**Today's Progress:** Created my first Angular components.
+
+**Thoughts:** I like the way Angular seperates the styles from the HTML. React's JSX doesn't make as much since to me.
+
+**Tutorials:** Angular Udemy Course.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Angular Basics Exercise 1](https://github.com/larrytooley/angular-basics-1/)
+
 ### Day 117, May 9, 2017
 
 **Today's Progress:** Got the basic Angular app started and made stuff appear on the screen!
