@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 119, May 11, 2017
+
+**Today's Progress:** Learned about string interpolation in Angular. Started color picker app.
+
+**Thoughts:** I should be able to finish the color picker app tomorrow.
+
+**Tutorials:** Angular Udemy Course.
+
+**Reading:** None.
+
+**Time:** 2 hours.
+
+**Link(s) to work:** [Color Picker](https://github.com/larrytooley/color-picker-angular/)
+
 ### Day 118, May 10, 2017
 
 **Today's Progress:** Created my first Angular components.
