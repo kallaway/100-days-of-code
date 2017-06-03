@@ -16,8 +16,9 @@ https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string
 ### Day 1: June 3, 2017
 
 
-**Today's Progress**: 
+**Today's Progress**: today i learned how to generate prime numbers and turncate the string using slice method.
 
-**Thoughts:** 
+**Thoughts:** today i was trying to solve problem from projecteuler.com, the problem looks easy but i couldn't solve today but i almost reached the result only one step is required to finish the problem i hope tommorow i finish this, and i also solved one problem from freecodecamp it was so easy not took much time.
 
-**Link to work:** 
+
+**Link to work:** https://www.freecodecamp.com/challenges/truncate-a-string
