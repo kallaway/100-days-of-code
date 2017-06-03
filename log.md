@@ -13,3 +13,11 @@ https://www.freecodecamp.com/challenges/confirm-the-ending
 https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string
 
 
+### Day 1: June 3, 2017
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
