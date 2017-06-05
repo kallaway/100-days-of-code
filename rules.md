@@ -31,4 +31,4 @@ June 26th, 2017
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Rules mostly taken from @kallaway, I changed couple for myself.
+### Rules mostly taken from @ka11away, I changed couple for myself.
