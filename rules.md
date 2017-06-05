@@ -1,4 +1,4 @@
-# Rules of the 100 Days Of Code Challenge
+# Rules of my "100 Days Of Code Challenge"
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
@@ -13,6 +13,10 @@ June 26th, 2017
 4. I will work with skillsuccess.com where I recently started Java course.
 5. I will focus mostly on Java, altough I want to learn bash scripting aside and I will count this time into it.
 
+## Extra Points
+1. If I do more than 100 hours of coding.
+2. If I get any certification for finished course.
+3. If I create my first Android app.
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
@@ -26,3 +30,5 @@ June 26th, 2017
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+## Rules mostly taken from @kallaway, I changed couple for myself.
