@@ -12,7 +12,6 @@
 
 ## Tools
 1. [1hdoc](https://github.com/domcorvasce/1hdoc): A command-line progress tracker in Ruby.
-2. [Prometheus](https://github.com/Francescopaolo44/Prometheus): A command-line progress tracker in Python.
 
 ## Books (both coding and non-coding)
 
