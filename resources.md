@@ -1,6 +1,6 @@
 # Primary Resources on the #100DaysOfCode
 
-Our official site is: [FreeCodeCamp](https://www.freecodecamp.com)
+[The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
 ### Articles
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
