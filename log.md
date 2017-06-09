@@ -3,7 +3,7 @@
 ### Day 0: 9 June, 2017
 
 
-**Today's Progress**: Learnt how to fork and push request on github.Icompleted the git setup, i will commence coding tomorrow
+**Today's Progress**: Learnt how to fork and push request on github.I completed the git setup, i will commence coding tomorrow
 
 **Thoughts:** I know it sounds weird(and  maybe stupid) but i found it hard to fork and push a git repo
 
