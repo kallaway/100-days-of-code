@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
 ### Day 0: 9 June, 2017
-##### (delete me or comment me out)
 
-**Today's Progress**: Learnt how to fork and push request on github.
+
+**Today's Progress**: Learnt how to fork and push request on github.Icompleted the git setup, i willcommence coding tomorrow
 
 **Thoughts:** I know it sounds weird(and  maybe stupid) but i found it hard to fork and push a git repo
 
-**Link to work:** [Calculator App](http://www.example.com)
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
