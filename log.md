@@ -22,6 +22,6 @@ So far 240 mins.
 ## Day 4
 ### Progress
 Finished watching methods and functions. First app created - simple calc performing math operations on two valueas + design + debug. That was long day, 4 hours.
-Time total
+https://github.com/kaliciecki/Day4_Simple_Calc_Android_Studio
 #### Total time
 8 hours.
