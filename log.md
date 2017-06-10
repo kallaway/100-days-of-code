@@ -22,6 +22,11 @@ So far 240 mins.
 ## Day 4
 ### Progress
 Finished watching methods and functions. First app created - simple calc performing math operations on two valueas + design + debug. That was long day, 4 hours.
-Time total
 #### Total time
 8 hours.
+
+## Day 5
+### Progress
+Another application written with skillsuccess - savings calculator. Created constraint design, built .apk, run on my own phone. :)
+#### Total time
+11 hours.
