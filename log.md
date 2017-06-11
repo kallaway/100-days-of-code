@@ -2,7 +2,7 @@
 
 ## Day 1
 ### Progress
-Working with Skillsuccess.com online course, today`s topic: Arrays, Basic functions.
+Working with Skillsuccess.com online course, today's topic: Arrays, Basic functions.
 Currently on section 4, video nr 4.
 Written few lines, nothing important, just to memorize.
 
@@ -30,3 +30,11 @@ Finished watching methods and functions. First app created - simple calc perform
 Another application written with skillsuccess - savings calculator. Created constraint design, built .apk, run on my own phone. :)
 #### Total time
 11 hours.
+
+## Day 6
+### Progress
+And another application - tip calculator. Created design, built .apk to run on my phone, shared with world. :)
+#### Total time
+14 hours
+#### Thoughts
+There is so much stuff to learn... Also it is only 6th day and I did so much. :) 
