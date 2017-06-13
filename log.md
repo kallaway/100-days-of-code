@@ -38,3 +38,16 @@ And another application - tip calculator. Created design, built .apk to run on m
 14 hours
 #### Thoughts
 There is so much stuff to learn... Also it is only 6th day and I did so much. :) 
+
+## Day 7
+### Progress
+Aside of AndroidStudio started JavaFX application, as it will be required next week at my Uni classes and exam.
+Basic desing, layout, scenes, fields. Started on my first, fully functional app - GUI calculator.
+#### Total time
+17 hours
+
+## Day 8
+### Progress
+Going further with JavaFX, struggling a bit to make a communication between input - tex field - and storing it...
+### Total time
+19,5 hours
