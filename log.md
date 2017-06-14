@@ -51,3 +51,9 @@ Basic desing, layout, scenes, fields. Started on my first, fully functional app 
 Going further with JavaFX, struggling a bit to make a communication between input - tex field - and storing it...
 ### Total time
 19,5 hours
+
+## Day 9
+### Progress
+Yesterday's issues solved. Finally got the expected effect so now my Simple_Calculator for two Integers works well with GUI.
+### Total time
+23 hours
