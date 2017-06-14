@@ -28,3 +28,9 @@
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/create-bootstrap-wells
 2.http://www.learncs.org/en/Variables_and_Types
+
+## Day 3: June 12, Monday
+Today's progress: I just started JQuery
+Thoughts:  i am now coming  to grasp with JQuery. I am able to clone, append and style elements using JQuery.
+Link(s) to work:
+1. https://www.freecodecamp.com/challenges/clone-an-element-using-jquery
