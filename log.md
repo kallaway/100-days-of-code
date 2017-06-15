@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+### Day 3, June 14, 2017
+
+**Today's Progress:** Continued work on weather app. Removed bootstrap and improved styles.
+
+**Thoughts:** I toyed with using Amazon Lambdas to serve the key for the weather api. No evidence of improved security so I abandoned the idea.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Weather App](https://larrytooley.github.io/fcc-weather-app/)
+
+
 ### Day 2, June 13, 2017
 
 **Today's Progress:** Worked on Free Code Camp Weather App. Added updating icon from Open Weather API.
