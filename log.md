@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+### Day 4, June 16, 2017
+
+**Today's Progress:** Continued work on weather app. Removed tinytools toggle for something simpler.
+
+**Thoughts:** Busy evening. I didn't think I was going to get my hour in, but I got focused and time flew.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Weather App](https://larrytooley.github.io/fcc-weather-app/)
+
+
 ### Day 3, June 14, 2017
 
 **Today's Progress:** Continued work on weather app. Removed bootstrap and improved styles.
