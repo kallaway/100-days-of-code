@@ -13,6 +13,9 @@ all.
 
 **Link to work:** [portfolio page](http://bradleyhop.github.io)
 
+**Update**: Tried to push my own master branch to the actual master branch.
+Totally embaressed. Well, it's all roses from here, haha.
+
 
 <!--
    -# 100 Days Of Code - Log
