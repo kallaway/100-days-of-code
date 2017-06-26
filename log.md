@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 1, June 24, 2017
+### Day 1, June 25, 2017
 
-**Today's Progress:** Worked on Free Code Camp Weather App.
+**Today's Progress:** Worked on Free Code Camp Weather App. Wrote some code to switch the temp display. Not quite done yet.
 
-**Thoughts:** It fell off the wagon and am getting back on track. Yesterday's Pythology reminded me how much you can forget if you are not working on simething daily.
+**Thoughts:** It fell off the wagon and am getting back on track. Friday's Pythology reminded me how much you can forget if you are not working on simething daily.
 
-**Tutorials:** Wes Bos Command Line Power User Youtube playlist.
+**Tutorials:** None.
 
 **Reading:** None.
 
