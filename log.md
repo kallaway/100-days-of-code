@@ -32,6 +32,25 @@ the pomodoro timer. That timer is what keeps me going, as long as I can start.
 
 **Link to work:** [weather app](http://bradleyhop.github.io/weatherApp/weather.html)
 
+### Day 2: June 26, 2017
+
+**Today's Progress**: Worked on twitch app for freecodcamp front end project.
+
+**Thoughts** : I've been able to get data from the twitch api, but now I'm
+working through iterating through a list of users. Moreso, I want to define
+actions, namely building a html status box, based on a user's online status. So
+ far, not successful.
+
+Did learn about ajax deferred callbacks, .done .error, and .then (which seems to
+be a catchall). All learned that api's can block you for too many calls. Need to
+figure out how to pause codepen.io's autorefresh. Codepen is useful for getting
+these object calls and seeing how they return.
+
+Was also very tired tonight. Full day of work, and then teaching, and then
+coding. Almost feel asleep.
+
+**Link to work:** [twitch app js only](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+
 
 <!--
    -# 100 Days Of Code - Log
