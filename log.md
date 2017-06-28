@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+
+### Day 3, June 27, 2017
+
+**Today's Progress:** Wrapped up the user stories for the weather app.
+
+**Thoughts:** Need to improve the looks and UX of the app.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Weather App](https://larrytooley.github.io/fcc-weather-app/)
+
+
 ### Day 2, June 26, 2017
 
 **Today's Progress:** Worked on Free Code Camp Weather App. Finished the temp unit toggle. Removed old tinytools toggle.
