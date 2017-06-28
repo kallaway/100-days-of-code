@@ -51,7 +51,16 @@ coding. Almost feel asleep.
 
 **Link to work:** [twitch app js only](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
+### Day 3: June 27, 2017
 
+**Today's Progress**: Continue work on twitch app for fCC
+
+**Thoughts** : Still having trouble getting online status for each channel. I
+can get the json's from the api one at a time, but when I check to see if status
+returns an object with stream:null... blarg. I'm testing with a function call
+using ajax, but the test completes before the function call does. Async. Blarg.
+
+**Link to work:** [twitch app js only](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 <!--
    -# 100 Days Of Code - Log
    -
