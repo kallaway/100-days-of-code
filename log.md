@@ -1,30 +1,47 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 3, June 27, 2017
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress:** Wrapped up the user stories for the weather app.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Need to improve the looks and UX of the app.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Tutorials:** None.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Reading:** None.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Time:** 1 hour.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work:** [Weather App](https://larrytooley.github.io/fcc-weather-app/)
 
 
-### Day 1: June 27, Monday
+### Day 2, June 26, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress:** Worked on Free Code Camp Weather App. Finished the temp unit toggle. Removed old tinytools toggle.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** Felt very productive tonight. Still need to style and finish a couple of other functions.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Weather App](https://larrytooley.github.io/fcc-weather-app/)
+
+
+### Day 1, June 25, 2017
+
+**Today's Progress:** Worked on Free Code Camp Weather App. Wrote some code to switch the temp display. Not quite done yet.
+
+**Thoughts:** I fell off the wagon and am getting back on track. Friday's Pythology reminded me how much you can forget if you are not working on simething daily.
+
+**Tutorials:** None.
+
+**Reading:** None.
+
+**Time:** 1 hour.
+
+**Link(s) to work:** [Weather App](https://larrytooley.github.io/fcc-weather-app/)
+
