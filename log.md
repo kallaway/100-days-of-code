@@ -61,6 +61,17 @@ returns an object with stream:null... blarg. I'm testing with a function call
 using ajax, but the test completes before the function call does. Async. Blarg.
 
 **Link to work:** [twitch app js only](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+
+### Day 3: June 28, 2017
+
+**Today's Progress**: Continue work on twitch app for fCC. Start to add json for
+projects for portfolio page.
+
+**Thoughts** : Having troubles with javascript's async behavior. Going to ask
+the fCC forum.
+
+**Link to work:** [twitch app js only](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+
 <!--
    -# 100 Days Of Code - Log
    -
