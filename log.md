@@ -72,6 +72,21 @@ the fCC forum.
 
 **Link to work:** [twitch app js only](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
+### Day 4: June 29, 2017
+
+**Today's Progress**: Learning much about javascripts asynchronus behavior.
+Finally found a resource to help me understand. Refactored weather app's js to
+try out new skills. No more nested ajax calls! But still, not perfect. Onto
+learning about promises!
+
+**Thoughts** : fCC forum is great. Its the stackoverflow for code noobs like me.
+Going foward, I'll try to avoid callback hell. It will also help me pass data
+around.
+
+**Helpful Resource of the Day**: [net ninja async-js tutorial](https://www.thenetninja.co.uk/courses/asynchronous-javascript-tutorial)
+
+**Link to work:** [twitch app js only](http://bradleyhop.github.io/weatherApp/weather.js)
+
 <!--
    -# 100 Days Of Code - Log
    -
