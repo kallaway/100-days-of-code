@@ -85,7 +85,21 @@ around.
 
 **Helpful Resource of the Day**: [net ninja async-js tutorial](https://www.thenetninja.co.uk/courses/asynchronous-javascript-tutorial)
 
-**Link to work:** [twitch app js only](http://bradleyhop.github.io/weatherApp/weather.js)
+**Link to work:** [weather javascript without callback hell](http://bradleyhop.github.io/weatherApp/weather.js)
+
+### Day 5: June 30, 2017
+
+**Today's Progress**: Replaced large switch statement in weather app with object
+literal, which is easier to read and less code.
+Finally getting consistant info on channel online status in twitch app. Now to
+design and code based on this info. Also, need to check if valid channel!
+
+**Thoughts** : I think I return to old projects and refine the old code when I'm
+trying to avoid the current project I'm supposed to be focusing on. I feel kinda
+guilty, but also I'm still learning and applying -- using what I learn now to
+fix old messes.
+
+**Link to work:** [weather app with object literal](http://bradleyhop.github.io/weatherApp/weather.js) [twitch app js getting online status](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
 <!--
    -# 100 Days Of Code - Log
