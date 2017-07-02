@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+Example
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -18,6 +19,21 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
+
+### Day 1: July 1, Saturday 2017
+
+**Today's Progress**: 
+1. Attempted to get Pycharm to work with selenium. Did not resolve
+2. Read over Github on how to create a branch and merge pull request.
+3. Completed 4 freeCodeCamp assignment under the jQuery portion.  
+
+**Thoughts** 
+Glad that I finally get to spend my days working on coding. Classes and bs have really gotten in the way. Going to start the Simon Game on freeCodeCamp.
+
+
+**Link(s) to work**
+1. [Left off at freeCodeCamp](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)
+2. [Title Case a Sentence]
 
 ### Day 1: June 27, Monday
 
