@@ -99,7 +99,17 @@ trying to avoid the current project I'm supposed to be focusing on. I feel kinda
 guilty, but also I'm still learning and applying -- using what I learn now to
 fix old messes.
 
-**Link to work:** [weather app with object literal](http://bradleyhop.github.io/weatherApp/weather.js) [twitch app js getting online status](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+**Link to work:** [weather app with object literal](http://bradleyhop.github.io/weatherApp/weather.js) [  twitch app js getting online status](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+
+### Day 6: July 1, 2017
+
+**Today's Progress**: Dug into twitch's api to find the info that I need.
+
+**Thoughts** : I'm really not digging twitch. There's a lot of info to dig
+through, even though I don't need it all. Taking time to design how I want to
+display the results and structure the code is helping me not feel overwhelmed.
+
+**Link to work:** [twitch app](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
 <!--
    -# 100 Days Of Code - Log
