@@ -111,6 +111,19 @@ display the results and structure the code is helping me not feel overwhelmed.
 
 **Link to work:** [twitch app](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
+### Day 7: July 2, 2017
+
+**Today's Progress**: Learned more about promises, and how to use them via
+jquery. Building my own object based on user with the info I want from two
+different getJSON requests. Mostly working, except no currently streaming
+results, yet.
+
+**Thoughts**: If you can't request the object you need, build one from the
+objects you can get. With an array of these object, it should be straightforward
+to build the html to display the info required for this project.
+
+**Link to work:** [twitch app](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+
 <!--
    -# 100 Days Of Code - Log
    -
