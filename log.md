@@ -35,12 +35,19 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 1. [Left off at freeCodeCamp](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)
 2. [Title Case a Sentence]
 
-### Day 1: June 27, Monday
+### Day 2: July 2, Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
+1. Created Code Pen Account
+2. Looked over requirements for User Story Project on freeCodeCamp
+3. Started User Story on Akira Toriyama DB and Dragon Ball Z creator. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
+1. I had to look at the code that stated do not look at the code. 
+2. Kind of need to go back an re-understand what Bootstrap is and how to use it. 
+3. During the examples I understood what I had to be done, but need more examples on how to use it.
+4. Will probably spend time at work (not actually doing work work) and read over examples from W3schools and other sites.s
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [User Story-Akira Toriyama](https://codepen.io/rogercodes/pen/dRmEKX)
+2. [Build a Tribute](https://www.freecodecamp.com/challenges/build-a-tribute-page)
