@@ -124,6 +124,14 @@ to build the html to display the info required for this project.
 
 **Link to work:** [twitch app](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
+### Day 8: July 3, 2017
+
+**Today's Progress**: Learned about the materialize css framework. Works very
+much like bootstrap -- just with more design theory overhead. Also, continue to
+refine my understanding of making objects.
+
+**Link to work:** [twitch app](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+
 <!--
    -# 100 Days Of Code - Log
    -
