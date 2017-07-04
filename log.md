@@ -51,3 +51,18 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 **Link(s) to work**
 1. [User Story-Akira Toriyama](https://codepen.io/rogercodes/pen/dRmEKX)
 2. [Build a Tribute](https://www.freecodecamp.com/challenges/build-a-tribute-page)
+
+### Day 3: July 3, Monday
+
+**Today's Progress**: 
+1. Worked on Tribute Page for Akira
+2. Used codepen to add missing history. 
+3. Research Bootstrap on w3schools to understand how the columns and rows work. 
+
+**Thoughts** 
+1. Making good progress. Should be done within the next 2 days.
+2. having an issue with the last column appearing how I want it to. 
+
+**Link(s) to work**
+1. [User Story-Akira Toriyama](https://codepen.io/rogercodes/pen/dRmEKX)
+2. [Build a Tribute](https://www.freecodecamp.com/challenges/build-a-tribute-page)
