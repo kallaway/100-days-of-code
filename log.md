@@ -66,3 +66,22 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 **Link(s) to work**
 1. [User Story-Akira Toriyama](https://codepen.io/rogercodes/pen/dRmEKX)
 2. [Build a Tribute](https://www.freecodecamp.com/challenges/build-a-tribute-page)
+
+
+### Day 4: July 4, Tuesday
+
+**Today's Progress**: 
+1. Completed Tribute to Akira. Link below
+2. Started building my website portfolio.
+3. Research Bootstrap on w3schools to understand how the nav bar works.
+4. Attempted to add link icons to my outside social pages. In progress
+
+**Thoughts** 
+1. Understanding the nav var was a little hard. had to test a few items. 
+2. Getting nav var items to alight horizontally 
+
+**Link(s) to work**
+1. [User Story-Akira Toriyama](https://codepen.io/rogercodes/pen/dRmEKX)
+2. [Build a Tribute](https://www.freecodecamp.com/challenges/build-a-tribute-page)
+3. [CodePen Portfolio Website] (https://codepen.io/rogercodes/pen/NgzaLa)
+4. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
