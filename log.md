@@ -132,6 +132,21 @@ refine my understanding of making objects.
 
 **Link to work:** [twitch app](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
+### Day 9: July 4, 2017
+
+**Today's Progress**: Finished local object. I now have a local object with all 
+the info I need to display the result the project calls for. Local object is
+built with the objects called via twitch.tv api.
+Also started html, setup for materialize framework.
+
+**Thoughts**: Hard to code on a holiday, but I had to work today anyway. I'm 
+excited for the materialize framework, but I wonder if its going to be too much
+of a distraction.
+
+**Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+[ twitch html setup](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
+
+
 <!--
    -# 100 Days Of Code - Log
    -
