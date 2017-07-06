@@ -134,18 +134,32 @@ refine my understanding of making objects.
 
 ### Day 9: July 4, 2017
 
-**Today's Progress**: Finished local object. I now have a local object with all 
+**Today's Progress**: Finished local object. I now have a local object with all
 the info I need to display the result the project calls for. Local object is
 built with the objects called via twitch.tv api.
 Also started html, setup for materialize framework.
 
-**Thoughts**: Hard to code on a holiday, but I had to work today anyway. I'm 
+**Thoughts**: Hard to code on a holiday, but I had to work today anyway. I'm
 excited for the materialize framework, but I wonder if its going to be too much
 of a distraction.
 
 **Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 [ twitch html setup](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
 
+### Day 10: July 5, 2017
+
+**Today's Progress**: Totally finished local global object. Decided I didn't
+need a key with a object value to id what user the object's info belongs to.
+Just set another key for username and used the passed array element to set value.
+Having trouble actually getting to those values, tho...
+
+**Thoughts**: Decide to use an accordian to display user and channel information.
+That way, I can use a slide to show certain users.
+I fell asleep before pushing to git last night, so I'm updating what I did then
+now. Still falls w/in the rules, right?
+This twitch app is taking me so long...
+
+**Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
 <!--
    -# 100 Days Of Code - Log
