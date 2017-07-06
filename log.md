@@ -85,3 +85,22 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 2. [Build a Tribute](https://www.freecodecamp.com/challenges/build-a-tribute-page)
 3. [CodePen Portfolio Website](https://codepen.io/rogercodes/pen/NgzaLa)
 4. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+### Day 5: July 5, Wednesday
+
+**Today's Progress**: 
+1. Changed the layout of my webpage. 
+2. Content are scrollable rather than a new webpage link.
+3. Managed to get the navbar brand to display as I wanted, but having issues with smaller scale devices.
+4. Spent an hour on trying to get the navbar to display as I wanted. Still work in progress. 
+
+**Thoughts** 
+1. Having issues with the navbar displaying in smaller scale. Drop-down not working.
+2. Need to begin adding links and a picture of myself. 
+3. W3schools was helpful in getting ideas and understanding the differences in navbar class options. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+
