@@ -161,6 +161,19 @@ This twitch app is taking me so long...
 
 **Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
+### Day 11: July 6, 2017
+
+**Today's Progress**: More lessons in javascripts async behavior. Finally can
+call display functions after assembling a temp object. Pass the the temp object
+to the display function based on valid, offline, or online. Had to do the
+conditional statements *within* the last .then promise. Anything outside that
+scope *may* or *may not* execute before the getJSON's finish.
+
+**Thoughts**: My procrastination now consists of finding new vim plugins to be
+more productive with...
+
+**Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+
 <!--
    -# 100 Days Of Code - Log
    -
