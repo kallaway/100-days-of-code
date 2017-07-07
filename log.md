@@ -103,4 +103,19 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
 2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 
+### Day 6: July 6, Thursday
 
+**Today's Progress**: 
+1. Figured out how to make the webpage scrollable and have a background and color change.
+2. Spent 30 minutes going over HTML & CSS tutorial on Udemy
+3. Added pic of myself. Havings issues turning the image into a full circle. Appears oval. 
+4. 
+
+**Thoughts** 
+1. Still figuring out the "rows" class and "col-*-*".  .
+2. Figurign out how to turn image circular. 
+3. Making progress and glad bootstap is around. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
