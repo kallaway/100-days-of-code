@@ -174,6 +174,12 @@ more productive with...
 
 **Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
+### Day 12: July 7, 2017
+
+**Today's Progress**: Starting building the html for twitch app. Using tabs for
+the first time. Having trouble sorting into tabs...
+
+**Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 <!--
    -# 100 Days Of Code - Log
    -
