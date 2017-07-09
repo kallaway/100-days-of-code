@@ -119,3 +119,35 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 **Link(s) to work**
 1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
 2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+### Day 7: July 7, Friday
+
+**Today's Progress**: 
+1. Read over some w3schools on how to make the image appear round. 
+2. Udemy course for HTML & CSS 
+
+**Thoughts** 
+1. Researched how to make a circle. No Successful yet.
+2. Changed photo of gif to a regualr jpeg. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+### Day 8: July 8, Saturday
+
+**Today's Progress**: 
+1. Figured out how to turn image circualar. You need a square pic to do so.
+2. Attempted some "fancy css" to make the pic border replay and change color. Not successful
+3. Changed pic to circular and some added border. 
+
+**Thoughts** 
+1. Making great progress in my opinion. 
+2. Changed photo circular and added border. Need to work on my about. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
