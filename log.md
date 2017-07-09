@@ -62,7 +62,7 @@ using ajax, but the test completes before the function call does. Async. Blarg.
 
 **Link to work:** [twitch app js only](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
-### Day 3: June 28, 2017
+### Day 4: June 28, 2017
 
 **Today's Progress**: Continue work on twitch app for fCC. Start to add json for
 projects for portfolio page.
@@ -72,7 +72,7 @@ the fCC forum.
 
 **Link to work:** [twitch app js only](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
-### Day 4: June 29, 2017
+### Day 5: June 29, 2017
 
 **Today's Progress**: Learning much about javascripts asynchronus behavior.
 Finally found a resource to help me understand. Refactored weather app's js to
@@ -87,7 +87,7 @@ around.
 
 **Link to work:** [weather javascript without callback hell](http://bradleyhop.github.io/weatherApp/weather.js)
 
-### Day 5: June 30, 2017
+### Day 6: June 30, 2017
 
 **Today's Progress**: Replaced large switch statement in weather app with object
 literal, which is easier to read and less code.
@@ -101,7 +101,7 @@ fix old messes.
 
 **Link to work:** [weather app with object literal](http://bradleyhop.github.io/weatherApp/weather.js) [  twitch app js getting online status](http://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
-### Day 6: July 1, 2017
+### Day 7: July 1, 2017
 
 **Today's Progress**: Dug into twitch's api to find the info that I need.
 
@@ -111,7 +111,7 @@ display the results and structure the code is helping me not feel overwhelmed.
 
 **Link to work:** [twitch app](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
-### Day 7: July 2, 2017
+### Day 8: July 2, 2017
 
 **Today's Progress**: Learned more about promises, and how to use them via
 jquery. Building my own object based on user with the info I want from two
@@ -124,7 +124,7 @@ to build the html to display the info required for this project.
 
 **Link to work:** [twitch app](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
-### Day 8: July 3, 2017
+### Day 9: July 3, 2017
 
 **Today's Progress**: Learned about the materialize css framework. Works very
 much like bootstrap -- just with more design theory overhead. Also, continue to
@@ -132,7 +132,7 @@ refine my understanding of making objects.
 
 **Link to work:** [twitch app](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
-### Day 9: July 4, 2017
+### Day 10: July 4, 2017
 
 **Today's Progress**: Finished local object. I now have a local object with all
 the info I need to display the result the project calls for. Local object is
@@ -146,7 +146,7 @@ of a distraction.
 **Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 [ twitch html setup](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
 
-### Day 10: July 5, 2017
+### Day 11: July 5, 2017
 
 **Today's Progress**: Totally finished local global object. Decided I didn't
 need a key with a object value to id what user the object's info belongs to.
@@ -161,7 +161,7 @@ This twitch app is taking me so long...
 
 **Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
-### Day 11: July 6, 2017
+### Day 12: July 6, 2017
 
 **Today's Progress**: More lessons in javascripts async behavior. Finally can
 call display functions after assembling a temp object. Pass the the temp object
@@ -174,12 +174,30 @@ more productive with...
 
 **Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 
-### Day 12: July 7, 2017
+### Day 13: July 7, 2017
 
 **Today's Progress**: Starting building the html for twitch app. Using tabs for
 the first time. Having trouble sorting into tabs...
 
 **Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+
+
+### Day 14: July 8, 2017
+
+**Today's Progress**: Finished the tab html and javascript. Using Materialize
+template. Gave results the correct class and appended them to the correct html
+id for sorting. Essentially, done with the challenge.
+Started working on a preloader progress bar via Materialize. Have to figure out
+how to update, or to eliminate an indeterminate bar.
+
+**Thoughts**: Sometimes sleeping on a problem helps. I've coded until I've
+fallen asleep, laptop still in lap. There's a point where my brain shuts down,
+and I can't make sense of code anymore. I shouldn't keep pressing myself to
+that point. There's a long road ahead...
+
+**Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+[ twitch html setup](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
+
 <!--
    -# 100 Days Of Code - Log
    -
