@@ -151,3 +151,19 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
 2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 
+### Day 8: July 8, Saturday
+
+**Today's Progress**: 
+1. Created the portfolio portion.  
+2. Added div's for project info, title, description, and type of work involved.
+3. Added about me description. 
+4. Added thumbnails fillers and tweaked the layout. 
+
+**Thoughts** 
+1. Making good progress. Need to configure the title, description, and html type used.  
+2. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
