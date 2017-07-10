@@ -198,6 +198,25 @@ that point. There's a long road ahead...
 **Link to work:**[twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 [ twitch html setup](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
 
+### Day 15: July 9, 2017
+
+**Today's Progress**: Lots. Added css, using a Material design color pallette,
+using my own for additional colors based on pallete design. Added Materialize
+card component to display the not online accoutns. Fixed preloader bar: using
+indeterminate and setting height so the rest of the page doesn't pop around when
+it disappears.
+
+**Thoughts**: Dug deep into the Materialize framework today. I'm liking it
+better than bootstrap. With a stronger design framework built into the css
+framework, my page actually looks like it has some design!
+
+**Link to work:**[ twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+[ twitch html](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
+[ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
+
+**Todo**: Finish composing the card compoents for the non-existing accounts and
+the online accounts. Maybe pick some different channels.
+
 <!--
    -# 100 Days Of Code - Log
    -
