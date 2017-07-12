@@ -217,6 +217,14 @@ framework, my page actually looks like it has some design!
 **Todo**: Finish composing the card compoents for the non-existing accounts and
 the online accounts. Maybe pick some different channels.
 
+### Day 16: July 10, 2017
+
+**Today's Progress**: Finished the Online and Not Existing User cards.
+
+**Link to work:**[ twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+[ twitch html](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
+[ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
+
 <!--
    -# 100 Days Of Code - Log
    -
