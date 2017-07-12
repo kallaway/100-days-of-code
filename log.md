@@ -167,3 +167,21 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 **Link(s) to work**
 1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
 2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+### Day 10: July 10, Monday
+
+**Today's Progress**: 
+1. Removed unnessary examples. 
+2. Added hover change for portfolio images. Used w3schools for help
+3. Attempted to wrap text around myphoto. No success.
+4. tweaked layout.  
+
+**Thoughts** 
+1. Having a difficult time trying to wrap text around a rounded image. 
+2. Still trying to understand how the hover animation works. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
