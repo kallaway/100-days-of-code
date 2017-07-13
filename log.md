@@ -225,6 +225,23 @@ the online accounts. Maybe pick some different channels.
 [ twitch html](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
 [ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
 
+### Day 17: July 11, 2017
+
+**Today's Progress**: Tweaked the styles of the various cards so that the info
+is obvious and the layout is clear. Lots of css work today.
+
+**Thoughts**: Annoyed that the cards don't align veritcally. Also, tried finding
+more channels that regualaryly stream. The biggy is that my display functions 
+are really hard to maintain. I think I'm writing components, but I don't know
+react or angular or vue or whatever yet, so I feel that I'm doing writing the
+html to insert into the DOM the hard way. I'll make that my next step before I 
+start another web project.
+
+**Link to work:**[ twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+[ twitch html](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
+[ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
+
+
 <!--
    -# 100 Days Of Code - Log
    -
