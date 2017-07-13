@@ -231,16 +231,32 @@ the online accounts. Maybe pick some different channels.
 is obvious and the layout is clear. Lots of css work today.
 
 **Thoughts**: Annoyed that the cards don't align veritcally. Also, tried finding
-more channels that regualaryly stream. The biggy is that my display functions 
+more channels that regualaryly stream. The biggy is that my display functions
 are really hard to maintain. I think I'm writing components, but I don't know
 react or angular or vue or whatever yet, so I feel that I'm doing writing the
-html to insert into the DOM the hard way. I'll make that my next step before I 
+html to insert into the DOM the hard way. I'll make that my next step before I
 start another web project.
 
 **Link to work:**[ twitch app js](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 [ twitch html](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
 [ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
 
+### Day 18: July 12, 2017
+**Today's Progress**: Still annoyed that the card don't align vertically. Researched
+and found that the Materialize CSS framework won't do that for me. That is, the
+card will not stack so that large vertical gaps appear randomly between the
+cards. So - I tweeted my delima. The Materialize Twitter account got back to me
+in less than 15 minutes! Told me to look at the Masonry framework.
+
+**Thoughts**: I feel that I'm really starting to find a community in Twitter.
+I feel so inspired and encouraged, if if the likes are just people trying to push
+their account or their website. I'm still getting access to the pulse of web
+development! I need to hit the fCC forums more, tho.
+
+
+**Link to work:**[ twitch app js, ](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+[ twitch html, ](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
+[ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
 
 <!--
    -# 100 Days Of Code - Log
