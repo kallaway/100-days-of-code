@@ -185,3 +185,38 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
 2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 
+### Day 11: July 11, Tuesday 2017
+
+**Today's Progress**: 
+1. Worked on learning html on Lynda.com and udemy
+2. 
+3. tweaked layout.
+4.   
+
+**Thoughts** 
+1. Trying to find colors that match and fit together well. 
+2. Still trying to understand how the hover animation works. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+### Day 12: July 12, Wednesday 2017
+
+**Today's Progress**: 
+1. Removed unnessary examples. 
+2. Changed the color scheme
+3. 
+4. tweaked layout.  
+
+**Thoughts** 
+1. Trying to find colors that match and fit together well.  
+2. Still trying to understand how the hover animation works. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+
