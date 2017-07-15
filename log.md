@@ -242,6 +242,7 @@ start another web project.
 [ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
 
 ### Day 18: July 12, 2017
+
 **Today's Progress**: Still annoyed that the card don't align vertically. Researched
 and found that the Materialize CSS framework won't do that for me. That is, the
 card will not stack so that large vertical gaps appear randomly between the
@@ -257,6 +258,28 @@ development! I need to hit the fCC forums more, tho.
 **Link to work:**[ twitch app js, ](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 [ twitch html, ](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
 [ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
+
+### Day 19: July 13, 2017
+
+**Today's Progress**: Through CSS Wizardry I was able to get the cards to stack
+nicely in two columns! No Masonry framework needed. However - there does seem to
+be some wonkiness in alignment, and the solution (and the page overall) isn't
+very responsive. Though, responsiveness is not a requirement for the project, I
+would like a bit closer to it.
+
+Also, I had my first git merge conflict. I think it was when I worked on the
+master branch and went ahead and commited it. The next day, committing the
+working branch gave the conflict error. I had to look up the help on github,
+which lead me manually edit some files. Finally got it resolved and the repro up
+to date. I did cheat tho: I copied the most recent change to a different
+directory not in the local repo and then copied it back over once I resolved the
+conflict. At any rate, fixed it.
+
+**Link to work:**[ twitch app js, ](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
+[ twitch html, ](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
+[ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
+[, git hub repro](https://github.io/bradleyhop)
+
 
 <!--
    -# 100 Days Of Code - Log
