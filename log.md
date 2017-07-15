@@ -278,7 +278,22 @@ conflict. At any rate, fixed it.
 **Link to work:**[ twitch app js, ](https://bradleyhop.github.io/twitchOnline/onlineTwitch.js)
 [ twitch html, ](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
 [ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
-[, git hub repro](https://github.io/bradleyhop)
+[, git hub repro](https://github.com/bradleyhop)
+
+### Day 20: July 14, 2017
+
+**Today's Progress**: Acutally fixed the merge conflit that I started the night
+before. Tried stackoverflow, but really help.github was the best resource.
+
+Fixed bugs in twitch javascript. Played with column setting to maximize pretty
+flow. I think I have it as good as its going to get. The whole page isn't very
+responsive now, though. Not sure I care enough at this point to fix it. Cards
+within the columns now have proper widths and boders, etc.
+
+
+**Link to work:**[ twitch app ](https://bradleyhop.github.io/twitchOnline/)
+[, git hub repro](https://github.com/bradleyhop)
+[, weather app](https://bradleyhop.github.io/weatherApp/)
 
 
 <!--
