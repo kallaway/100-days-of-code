@@ -219,4 +219,96 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
 2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 
+### Day 13: July 13, Thurs 2017
+
+**Today's Progress**: 
+1. Obtained a domain name and hosting service.
+2. Uploaded my website to the hosting service. 
+3. 
+4. 
+
+**Thoughts** 
+1.  Many issues came up with trying to get my website to load like I have it in code pen.
+2. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3.[Personal Website](http://www.iamroger.us/index.html/)
+
+### Day 14: July 14, Friday 2017
+
+**Today's Progress**: 
+1. Worked on getting a text editor and downloaded github desktop
+2. Attempted to change the cols xs to md hoping it would help.
+3. 
+4. 
+
+**Thoughts** 
+1.  Realized that font awesome and bootstrap can conflict when using css.
+2. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3.[Personal Website](http://www.iamroger.us/index.html/)
+
+
+### Day 15: July 15, Sat 2017
+
+**Today's Progress**: 
+1. Worked on getting social icons to fit together
+2. Researched icons and posted on stacksocial
+3. 
+4. 
+
+**Thoughts** 
+1. Once I think I have something going for me something new conflicts. 
+2. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+
+### Day 16: July 16, Sunday 2017
+
+**Today's Progress**: 
+1. Fixed social icons. 
+2. Upadted the contact me information. 
+3. 
+4. 
+
+**Thoughts** 
+1. Starting to reach a rut. Have to keep going. 
+2. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3.[Personal Website](http://www.iamroger.us/index.html/)
+
+
+### Day 1: July 1,  2017
+
+**Today's Progress**: 
+1. 
+2. 
+3. 
+4. 
+
+**Thoughts** 
+1.  
+2. 
+3. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3.[Personal Website](http://www.iamroger.us/index.html/)
+
 
