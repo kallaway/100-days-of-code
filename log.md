@@ -295,6 +295,32 @@ within the columns now have proper widths and boders, etc.
 [, git hub repro](https://github.com/bradleyhop)
 [, weather app](https://bradleyhop.github.io/weatherApp/)
 
+### Day 21: July 15, 2017
+
+**Today's Progress**: Tweaked CSS further on twitch app. Adjusted colors,
+margins, etc. Big lesson learned is the use of columns with just css. The app
+renders just fine on mobile (chrome dev responsive tool wouldn't render
+correctly - may have to do with on load vs resize).
+
+Finished the Twitch app! (basically, haha) I still want to fixe the twitch logo
+image (tends to run into text on smaller sizes), and am tempted to add a search
+bar. (Keep telling myself it won't take that long...). Finally, added twitch app
+to project landing page.
+
+
+**Link to work:**[ twitch app ](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
+
+### Day 22: July 16, 2017
+
+**Today's Progress**: Going back to portfolio page and tweaking CSS. Seriously
+considering switching to materialize from bootstrap. Used phantomjs to take
+screenshots of apps using its server. They don't plug in well to bootstrap's
+card component. Also, tried to get twitch img logo to flow around the text
+next to it. I'm guessing I need to use seperate columns rather than the same.
+(pushed but didn't merge)
+
+**Link to work:** [ portfolio page ](htts://bradleyhop.github.io)
+
 
 <!--
    -# 100 Days Of Code - Log
