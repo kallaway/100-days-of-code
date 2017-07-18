@@ -310,6 +310,17 @@ to project landing page.
 
 **Link to work:**[ twitch app ](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
 
+### Day 22: July 16, 2017
+
+**Today's Progress**: Going back to portfolio page and tweaking CSS. Seriously
+considering switching to materialize from bootstrap. Used phantomjs to take
+screenshots of apps using its server. They don't plug in well to bootstrap's
+card component. Also, tried to get twitch img logo to flow around the text
+next to it. I'm guessing I need to use seperate columns rather than the same.
+(pushed but didn't merge)
+
+**Link to work:** [ portfolio page ](htts://bradleyhop.github.io)
+
 
 <!--
    -# 100 Days Of Code - Log
