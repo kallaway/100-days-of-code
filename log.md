@@ -10,14 +10,7 @@ Example
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: July 1, Saturday 2017
@@ -293,22 +286,22 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 3.[Personal Website](http://www.iamroger.us/index.html/)
 
 
-### Day 1: July 1,  2017
+### Day 17: July 17, Monday 2017
 
 **Today's Progress**: 
-1. 
-2. 
-3. 
+1. Spent about an hour looking at Lynda.com bootstrap 3 tutorials. 
+2. Managed to fix the width issue on my image when it gets too large, but not when it gets small.
+3. Continued on freecode camp since technically I have completed what the task asked of me.
 4. 
 
 **Thoughts** 
-1.  
+1.  the scrollpy is not working now. ugh. 
 2. 
 3. 
 
 **Link(s) to work**
 1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
 2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
-3.[Personal Website](http://www.iamroger.us/index.html/)
+3. [Personal Website](http://www.iamroger.us/index.html/)
 
 
