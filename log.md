@@ -321,6 +321,21 @@ next to it. I'm guessing I need to use seperate columns rather than the same.
 
 **Link to work:** [ portfolio page ](htts://bradleyhop.github.io)
 
+### Day 23: July 17, 2017
+
+**Today's Progress**: Fun with regular expressions. Glad to have nodeschool to
+help. Most cases solved, tryting to get the last few esp. unmatched parens.
+
+**Link to work:**[ validateUSPhoneNumber.js ](https://github.io/bradleyhop/freecodecamp/advancedAlgoScript)
+
+### Day 24: July 18, 2017
+
+**Today's Progress**: Finished a adv algorithm challenge ala fCC. Used [regexr](regexr.com)
+to write a regular expression to validate us phone numbers. Also, started the
+React course on codeccademy. Wanna learn some components!
+
+**Link to work:**[ validateUSPhoneNumber.js ](https://github.io/bradleyhop/freecodecamp/advancedAlgoScript)
+[codeccademy react](codeccademy.com)
 
 <!--
    -# 100 Days Of Code - Log
