@@ -1,30 +1,59 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 1
+### Progress
+Working with Skillsuccess.com online course, today's topic: Arrays, Basic functions.
+Currently on section 4, video nr 4.
+Written few lines, nothing important, just to memorize.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+First day done!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+## Day 2
+### Progress
+No code today. Watching and learning about methods in Java. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+## Day 3
+### Progress
+A little bit of code today, playing around with methods and classes. Watched more than 60 mins of course, I am currently on 15% of it. Another 60 and will start building first app?
+// During work today, succesfully set up tomcat with SSL - maybe not much but little victories keep me happy make me happy.
+#### Time
+So far 240 mins.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+## Day 4
+### Progress
+Finished watching methods and functions. First app created - simple calc performing math operations on two valueas + design + debug. That was long day, 4 hours.
+#### Total time
+8 hours.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+## Day 5
+### Progress
+Another application written with skillsuccess - savings calculator. Created constraint design, built .apk, run on my own phone. :)
+#### Total time
+11 hours.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+## Day 6
+### Progress
+And another application - tip calculator. Created design, built .apk to run on my phone, shared with world. :)
+#### Total time
+14 hours
+#### Thoughts
+There is so much stuff to learn... Also it is only 6th day and I did so much. :) 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+## Day 7
+### Progress
+Aside of AndroidStudio started JavaFX application, as it will be required next week at my Uni classes and exam.
+Basic desing, layout, scenes, fields. Started on my first, fully functional app - GUI calculator.
+#### Total time
+17 hours
 
+## Day 8
+### Progress
+Going further with JavaFX, struggling a bit to make a communication between input - tex field - and storing it...
+### Total time
+19,5 hours
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+## Day 9
+### Progress
+Yesterday's issues solved. Finally got the expected effect so now my Simple_Calculator for two Integers works well with GUI.
+### Total time
+23 hours
