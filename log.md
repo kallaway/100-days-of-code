@@ -305,3 +305,20 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 3. [Personal Website](http://www.iamroger.us/index.html/)
 
 
+### Day 18: July 18, Tuesday 2017
+
+**Today's Progress**: 
+1. Finished Portfolio webpage (Technnically)
+2. Continued on FreeCodecamp assignments for Javascript
+3. 
+4. 
+
+**Thoughts** 
+1.  the scrollpy is not working now. ugh. 
+2. Profile looking good. 
+3. Not sure why it works on certain portions and not others. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3. [Personal Website](http://www.iamroger.us/index.html/)
