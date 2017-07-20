@@ -322,3 +322,21 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
 2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 3. [Personal Website](http://www.iamroger.us/index.html/)
+
+### Day 18: July 18, Tuesday 2017
+
+**Today's Progress**: 
+1. Fixed the breakpoint when the scren changes size
+2. added information regarding education background
+3. Completed a few other javascrip assignments on freeCodeCamp
+4. 
+
+**Thoughts** 
+1. understanding how CSS works and how it affects. 
+2. Profile looking good. 
+3. Trying to change profile title, but may need to wait until I complete the javascript course. 
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3. [Personal Website](http://www.iamroger.us/index.html/)
