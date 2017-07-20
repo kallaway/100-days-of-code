@@ -334,8 +334,21 @@ help. Most cases solved, tryting to get the last few esp. unmatched parens.
 to write a regular expression to validate us phone numbers. Also, started the
 React course on codeccademy. Wanna learn some components!
 
+Revisted Twitch app: wrapped twitch logo link in a div so no overflow on smaller
+screen sizes.
+
 **Link to work:**[ validateUSPhoneNumber.js ](https://github.io/bradleyhop/freecodecamp/advancedAlgoScript)
 [codeccademy react](codeccademy.com)
+
+### Day 25: July 19, 2017
+
+**Today's Progress**: Started the exact change and the symmetric difference
+advanced algorithm challenges. Exact change is set for equal or insufficient
+funds, but need to start stepping through the cid array and construct a given
+change array. For the sym diff, can only check the first given array against the
+second, not the other way around as well.
+
+**Link to work:**[ advanced algo challenges ](github.com/bradleyhop/freeCodeCamp/advancedAlgoChallenges)
 
 <!--
    -# 100 Days Of Code - Log
