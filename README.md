@@ -6,13 +6,13 @@ Hopefully starting the #100DaysOfCode challenge will help me to work on projects
 
 I've got a couple of bigger projects that I want to start work on, but I'm gonna start off small and see where I end up.
 
-## Logs
+## 📔  Logs
 
-••📔 [Round 1 Log - click here to see my progress](log.md) 💯••
+**[Round 1 Log: Click here to see my progress](log.md) 💯**
 
 ---
 
-## Rules of the 100 Days Of Code Challenge
+## 🛑 Rules of the 100 Days Of Code Challenge
 
 ### Main Commitment
 #### *I will code for at least an hour every day for the next 100 days.*
@@ -32,7 +32,7 @@ July 22nd, 2017.
 
 ---
 
-## Resources I Have Used
+## ℹ️ Resources I Have Used
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
