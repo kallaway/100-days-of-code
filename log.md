@@ -1,30 +1,23 @@
-# 100 Days Of Code - Log
+# My #100DaysOfCode Challenge Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+There are a number of projects and goals I've had in my head or on the back-burner for some time. These are what I am hoping to work on.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Projects
+ - Personal website
+ - Pokémon Trading Card App
+ 
+ ### Goals
+ - Improve my understanding of core features of ES2015, ES2016, ES2017, and ES2018.
+ - Gain a working understanding of Angular 4.
+ - Gain a working understanding of ReactJS and its eco-system.
+ - Gain a working understanding of Typescript
+ 
+They seem like some heavy goals to achieve in just over 3 months of coding. But you need to stay positive!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+---
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+## Round 1 - Started on July 17, Monday, 2017.
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 1
+I didn't really achieve much of what I set out to do today because I spent most of my time setting up this bloody #100DaysOfCode thing! But, I've gone over a couple of things in Angular 4 and generated a new project, with components using `angular-cli` - you can [see it here](https://github.com/jacobwarduk/jacobwarduk.github.io). 
