@@ -350,6 +350,42 @@ second, not the other way around as well.
 
 **Link to work:**[ advanced algo challenges ](github.com/bradleyhop/freeCodeCamp/advancedAlgoChallenges)
 
+### Day 26: July 20, 2017
+
+**Today's Progress**: Worked on the exact change fCC algorithm.
+Tweaked fCC projects: Added image wrapper to twitch logo on twitch app. Improved
+scoping in weather app. Upadate materialize cdn release for twitch app.
+
+**Link to work:**[ landing page ](https://bradleyhop.github.io)
+
+### Day 27: July 21, 2017
+
+**Today's Progress**: Start to work on symmetrical differance in earnest. Can
+only get the differance from one array, but not from both.
+
+
+**Link to work:**[ sym diff ](https://github.com/bradleyhop/freeCodeCamp/advancedAlgoChallenges/)
+
+### Day 28: July 22, 2017
+
+**Today's Progress**: None.
+
+**Thoughts**: I've decided I'm not going to stress out about it. According to
+the FAQ, I'm allowed to miss one day (but not two) so long as I add another. So,
+Day 28 shall be repeated. Got to keep my eye on the goal that I'm developing a
+habit.
+
+### Day 28: July 23, 2017
+
+**Today's Progress**: Finished symmetrical difference algorithm challenge! I was
+not clearly understanding the mathmatical def of a sym diff. Once I understood,
+was able to get the sym diff of two sets (arrays), and from that set get the sym
+diff of another set (array), if given, etc. Had to trim doubles, so added helper
+function.
+
+**Link to work:**[ sym diff ](https://github.com/bradleyhop/freeCodeCamp/advancedAlgoChallenges/)
+
+
 <!--
    -# 100 Days Of Code - Log
    -
