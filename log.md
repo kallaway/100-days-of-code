@@ -340,3 +340,77 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
 2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 3. [Personal Website](http://www.iamroger.us/index.html/)
+
+
+### Day 19: July 19, Wednesday 2017
+
+**Today's Progress**: 
+1. Fixed presentation cols*
+2. Spent time completing the Javascript portion in freeCodeCamp
+3. 
+4. 
+
+**Thoughts** 
+1. understanding how CSS works and how it affects. 
+2. Profile looking good. 
+3.  
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3. [Personal Website](http://www.iamroger.us/index.html/)
+
+### Day 20: July 20, Thursday 2017
+
+**Today's Progress**: 
+1. Website completed for now. 
+2. Watched videos on lynda.com
+3. 
+4. 
+
+**Thoughts** 
+1. 
+2. 
+3.  
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3. [Personal Website](http://www.iamroger.us/index.html/)
+
+
+### Day 21: July 24, Monday 2017
+
+**Today's Progress**: 
+1. freeCodecamp  
+2. Watched videos on lynda.com
+3. 
+4. 
+
+**Thoughts** 
+1. 
+2. 
+3.  
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3. [Personal Website](http://www.iamroger.us/index.html/)
+
+### Day 22: July 25, Monday 2017
+
+**Today's Progress**: 
+1. freeCodecamp lessons completed     
+2. 
+3. 
+4. 
+
+**Thoughts** 
+1. Similar to python, but a little different.
+2. 
+3.  
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3. [Personal Website](http://www.iamroger.us/index.html/)
