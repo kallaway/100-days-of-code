@@ -414,3 +414,39 @@ Glad that I finally get to spend my days working on coding. Classes and bs have 
 1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
 2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 3. [Personal Website](http://www.iamroger.us/index.html/)
+
+### Day 23: July 25, Tuesday 2017
+
+**Today's Progress**: 
+1. freeCodecamp lessons completed for javascript  
+2. wathced Lynda.com videos 
+3. 
+4. 
+
+**Thoughts** 
+1. Similar to python, but a little different.
+2. 
+3.  
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [Build a Personal Portfolio Website](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+3. [Personal Website](http://www.iamroger.us/index.html/)
+
+### Day 24: July 25, Wednesday 2017
+
+**Today's Progress**: 
+1. 10 freeCodecamp lessons completed for javascript. 
+2. wathced Lynda.com videos on Bootstrap Essentials.
+3. 
+4. 
+
+**Thoughts** 
+1. Similar to python, but a little different.
+2. Some parts of the lynda vids can be boring. 
+3.  
+
+**Link(s) to work**
+1. [CodePen Portfolio Website](https://codepen.io/rogercodes/full/NgzaLa)
+2. [freeCodeCamp Currently on Assignment](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
+3. [Personal Website](http://www.iamroger.us/index.html/)
