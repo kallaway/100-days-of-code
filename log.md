@@ -385,6 +385,29 @@ function.
 
 **Link to work:**[ sym diff ](https://github.com/bradleyhop/freeCodeCamp/advancedAlgoChallenges/)
 
+### Day 29: July 24, 2017
+
+**Today's Progress**: Moddified styling for portfolio page: Changed the colors
+of the card components so it won't match the screenshot of the project (esp the
+twitch app). Fixed broken links to screenshots. Using codepen's screenshot
+feature to grab png for assests.
+
+**Link to work:**[ landing page ](https://bradleyhop.github.io)
+
+### Day 30: July 25, 2017
+
+**Todays' Progress**: Started the 'no repeats please' fCC challenge. Added
+ 100 Days Of Code section to the prortfolio/landing page. Styled section,
+cleaned up the css file. Added google analytics tracker, tho not sure if it's
+working. (No visits yet)
+
+**Link to work:**[ landing page, ](https://bradleyhop.github.io)[ no repeats please ](https://github.com/bradleyhop/freeCodeCamp)
+
+**Thoughts**: I'm scared to share my commitment and portfolio page to facebook.
+I want to present a finished product, not a work in process. However, its about
+the journey, right? Maybe instead of giving daily updates, I can share one
+project a week? It can only help to get my name out there.
+
 
 <!--
    -# 100 Days Of Code - Log
