@@ -14,7 +14,7 @@ all.
 **Link to work:** [portfolio page](http://bradleyhop.github.io)
 
 **Update**: Tried to push my own master branch to the actual master branch.
-Totally embaressed. Well, it's all roses from here, haha.
+Totally embarrassed. Well, it's all roses from here, haha.
 
 ### Day 1: June 25, 2017
 
@@ -37,7 +37,7 @@ the pomodoro timer. That timer is what keeps me going, as long as I can start.
 **Today's Progress**: Worked on twitch app for freecodcamp front end project.
 
 **Thoughts** : I've been able to get data from the twitch api, but now I'm
-working through iterating through a list of users. Moreso, I want to define
+working through iterating through a list of users. More so, I want to define
 actions, namely building a html status box, based on a user's online status. So
  far, not successful.
 
@@ -80,7 +80,7 @@ try out new skills. No more nested ajax calls! But still, not perfect. Onto
 learning about promises!
 
 **Thoughts** : fCC forum is great. Its the stackoverflow for code noobs like me.
-Going foward, I'll try to avoid callback hell. It will also help me pass data
+Going forward, I'll try to avoid callback hell. It will also help me pass data
 around.
 
 **Helpful Resource of the Day**: [net ninja async-js tutorial](https://www.thenetninja.co.uk/courses/asynchronous-javascript-tutorial)
@@ -91,7 +91,7 @@ around.
 
 **Today's Progress**: Replaced large switch statement in weather app with object
 literal, which is easier to read and less code.
-Finally getting consistant info on channel online status in twitch app. Now to
+Finally getting consistent info on channel online status in twitch app. Now to
 design and code based on this info. Also, need to check if valid channel!
 
 **Thoughts** : I think I return to old projects and refine the old code when I'm
@@ -153,7 +153,7 @@ need a key with a object value to id what user the object's info belongs to.
 Just set another key for username and used the passed array element to set value.
 Having trouble actually getting to those values, tho...
 
-**Thoughts**: Decide to use an accordian to display user and channel information.
+**Thoughts**: Decide to use an accordion to display user and channel information.
 That way, I can use a slide to show certain users.
 I fell asleep before pushing to git last night, so I'm updating what I did then
 now. Still falls w/in the rules, right?
@@ -200,9 +200,9 @@ that point. There's a long road ahead...
 
 ### Day 15: July 9, 2017
 
-**Today's Progress**: Lots. Added css, using a Material design color pallette,
-using my own for additional colors based on pallete design. Added Materialize
-card component to display the not online accoutns. Fixed preloader bar: using
+**Today's Progress**: Lots. Added css, using a Material design color palette,
+using my own for additional colors based on pallet design. Added Materialize
+card component to display the not online accounts. Fixed preloader bar: using
 indeterminate and setting height so the rest of the page doesn't pop around when
 it disappears.
 
@@ -214,7 +214,7 @@ framework, my page actually looks like it has some design!
 [ twitch html](https://bradleyhop.github.io/twitchOnline/onlineTwitch.html)
 [ twitch css](http://bradleyhop.github.io/twitchOnline/styleTwitch.css)
 
-**Todo**: Finish composing the card compoents for the non-existing accounts and
+**Todo**: Finish composing the card components for the non-existing accounts and
 the online accounts. Maybe pick some different channels.
 
 ### Day 16: July 10, 2017
@@ -230,8 +230,8 @@ the online accounts. Maybe pick some different channels.
 **Today's Progress**: Tweaked the styles of the various cards so that the info
 is obvious and the layout is clear. Lots of css work today.
 
-**Thoughts**: Annoyed that the cards don't align veritcally. Also, tried finding
-more channels that regualaryly stream. The biggy is that my display functions
+**Thoughts**: Annoyed that the cards don't align vertically. Also, tried finding
+more channels that regularly stream. The biggy is that my display functions
 are really hard to maintain. I think I'm writing components, but I don't know
 react or angular or vue or whatever yet, so I feel that I'm doing writing the
 html to insert into the DOM the hard way. I'll make that my next step before I
@@ -268,7 +268,7 @@ very responsive. Though, responsiveness is not a requirement for the project, I
 would like a bit closer to it.
 
 Also, I had my first git merge conflict. I think it was when I worked on the
-master branch and went ahead and commited it. The next day, committing the
+master branch and went ahead and committed it. The next day, committing the
 working branch gave the conflict error. I had to look up the help on github,
 which lead me manually edit some files. Finally got it resolved and the repro up
 to date. I did cheat tho: I copied the most recent change to a different
@@ -282,13 +282,13 @@ conflict. At any rate, fixed it.
 
 ### Day 20: July 14, 2017
 
-**Today's Progress**: Acutally fixed the merge conflit that I started the night
+**Today's Progress**: Actually fixed the merge conflict that I started the night
 before. Tried stackoverflow, but really help.github was the best resource.
 
 Fixed bugs in twitch javascript. Played with column setting to maximize pretty
 flow. I think I have it as good as its going to get. The whole page isn't very
 responsive now, though. Not sure I care enough at this point to fix it. Cards
-within the columns now have proper widths and boders, etc.
+within the columns now have proper widths and borders, etc.
 
 
 **Link to work:**[ twitch app ](https://bradleyhop.github.io/twitchOnline/)
@@ -302,7 +302,7 @@ margins, etc. Big lesson learned is the use of columns with just css. The app
 renders just fine on mobile (chrome dev responsive tool wouldn't render
 correctly - may have to do with on load vs resize).
 
-Finished the Twitch app! (basically, haha) I still want to fixe the twitch logo
+Finished the Twitch app! (basically, haha) I still want to fix the twitch logo
 image (tends to run into text on smaller sizes), and am tempted to add a search
 bar. (Keep telling myself it won't take that long...). Finally, added twitch app
 to project landing page.
@@ -316,7 +316,7 @@ to project landing page.
 considering switching to materialize from bootstrap. Used phantomjs to take
 screenshots of apps using its server. They don't plug in well to bootstrap's
 card component. Also, tried to get twitch img logo to flow around the text
-next to it. I'm guessing I need to use seperate columns rather than the same.
+next to it. I'm guessing I need to use separate columns rather than the same.
 (pushed but didn't merge)
 
 **Link to work:** [ portfolio page ](htts://bradleyhop.github.io)
@@ -324,7 +324,7 @@ next to it. I'm guessing I need to use seperate columns rather than the same.
 ### Day 23: July 17, 2017
 
 **Today's Progress**: Fun with regular expressions. Glad to have nodeschool to
-help. Most cases solved, tryting to get the last few esp. unmatched parens.
+help. Most cases solved, trying to get the last few esp. unmatched parens.
 
 **Link to work:**[ validateUSPhoneNumber.js ](https://github.io/bradleyhop/freecodecamp/advancedAlgoScript)
 
@@ -334,7 +334,7 @@ help. Most cases solved, tryting to get the last few esp. unmatched parens.
 to write a regular expression to validate us phone numbers. Also, started the
 React course on codeccademy. Wanna learn some components!
 
-Revisted Twitch app: wrapped twitch logo link in a div so no overflow on smaller
+Revisited Twitch app: wrapped twitch logo link in a div so no overflow on smaller
 screen sizes.
 
 **Link to work:**[ validateUSPhoneNumber.js ](https://github.io/bradleyhop/freecodecamp/advancedAlgoScript)
@@ -354,14 +354,14 @@ second, not the other way around as well.
 
 **Today's Progress**: Worked on the exact change fCC algorithm.
 Tweaked fCC projects: Added image wrapper to twitch logo on twitch app. Improved
-scoping in weather app. Upadate materialize cdn release for twitch app.
+scoping in weather app. Update materialize cdn release for twitch app.
 
 **Link to work:**[ landing page ](https://bradleyhop.github.io)
 
 ### Day 27: July 21, 2017
 
-**Today's Progress**: Start to work on symmetrical differance in earnest. Can
-only get the differance from one array, but not from both.
+**Today's Progress**: Start to work on symmetrical difference in earnest. Can
+only get the difference from one array, but not from both.
 
 
 **Link to work:**[ sym diff ](https://github.com/bradleyhop/freeCodeCamp/advancedAlgoChallenges/)
@@ -378,7 +378,7 @@ habit.
 ### Day 28: July 23, 2017
 
 **Today's Progress**: Finished symmetrical difference algorithm challenge! I was
-not clearly understanding the mathmatical def of a sym diff. Once I understood,
+not clearly understanding the mathematical def of a sym diff. Once I understood,
 was able to get the sym diff of two sets (arrays), and from that set get the sym
 diff of another set (array), if given, etc. Had to trim doubles, so added helper
 function.
@@ -387,27 +387,61 @@ function.
 
 ### Day 29: July 24, 2017
 
-**Today's Progress**: Moddified styling for portfolio page: Changed the colors
+**Today's Progress**: Modified styling for portfolio page: Changed the colors
 of the card components so it won't match the screenshot of the project (esp the
 twitch app). Fixed broken links to screenshots. Using codepen's screenshot
-feature to grab png for assests.
+feature to grab png for assets.
 
 **Link to work:**[ landing page ](https://bradleyhop.github.io)
 
 ### Day 30: July 25, 2017
 
 **Todays' Progress**: Started the 'no repeats please' fCC challenge. Added
- 100 Days Of Code section to the prortfolio/landing page. Styled section,
-cleaned up the css file. Added google analytics tracker, tho not sure if it's
+ 100 Days Of Code section to the portfolio/landing page. Styled section,
+cleaned up the css file. Added Google analytics tracker, tho not sure if it's
 working. (No visits yet)
 
-**Link to work:**[ landing page, ](https://bradleyhop.github.io)[ no repeats please ](https://github.com/bradleyhop/freeCodeCamp)
+**Link to work:**[ landing page, ](https://bradleyhop.github.io)[ no repeats please ](https://github.com/bradleyhop/freeCodeCampAlgorithms)
 
 **Thoughts**: I'm scared to share my commitment and portfolio page to facebook.
 I want to present a finished product, not a work in process. However, its about
 the journey, right? Maybe instead of giving daily updates, I can share one
 project a week? It can only help to get my name out there.
 
+
+### Day 31: July 26, 2017
+
+**Today's Progress**: Finished the 'no repeats please' fcc challenge! Looked up
+the algorithm for finding permutations in pseudo-code. Wrote the javascript from
+that. I had more trouble getting the regular expression to work. Just when you
+think you know something...
+
+**Link to work:**[ no repeats please ](https://github.com/bradleyhop/freeCodeCampAlgorithms)
+
+### Day 32: July 27, 2017
+
+**Today's Progress**: Finished two advanced algorithm challenges!! 'Make A
+Person' and 'Map the Debris'!!! For makeAPerson.js, reading through Eloquent
+Javascript was a huge help. I want to solve the problem in a different way, but
+it was good to code it to fCC's specs. For mapTheDebris.js, once I figured out
+which equation to use, it became much easier. First, I computed the orbital
+period for one input. From there, I just looped through the rest only changing
+the arr element access. Also, the delete keyword was new to me. So simple.
+
+**Link to work:**[ map the debris ][, makeAPerson ](https://github.com/bradleyhop/freeCodeCampAlgorithms)
+
+### Day 33: July 28, 2017
+
+**Today's Progress**: Finished the Inventory Update adv algorithm challenge for
+fCC. I was trying to solve the problem all in one go. What happened instead was
+that I kept adding elements to an array and never stopped! Once I broke the
+problem down into the right chucnks, it was much easier. Upadating the stock on
+an item present in both arrays was easy. Seeing if an item in the new stock was
+in the old stock was more difficult. I used a couple of intermediary arrays to
+store names of items, then checked for indeces of names in the old stock.
+Frustrating, but satisfying!
+
+**Link to work:**[inventoryUpdate](https://github.com/bradleyhop/freeCodeCampAlgorithms)
 
 <!--
    -# 100 Days Of Code - Log
