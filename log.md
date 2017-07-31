@@ -443,6 +443,16 @@ Frustrating, but satisfying!
 
 **Link to work:**[inventoryUpdate](https://github.com/bradleyhop/freeCodeCampAlgorithms)
 
+### Day 34: July 29, 2017
+
+**Today's Progress**: Continue to work on Exact Change fCC adv algorithm. Not
+getting very far. I think that I'm trying to do everything 'in place'. Calculate,
+then immediately use. That might be the hard way. At any rate, resorted to pencil
+and paper method. It helped me plan things out. And replan...
+
+**Link to work:**[inventoryUpdate](https://github.com/bradleyhop/freeCodeCampAlgorithms)
+
+
 <!--
    -# 100 Days Of Code - Log
    -
