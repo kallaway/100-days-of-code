@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 1 August 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started again with my FreeCodeCamp learning from the very beginning with the emphasis on completing my Front-End Developer Certification.
+Had to also learn how to use Github and I think I may have it down.
+After going through the learning again and realising that my progress on fCC was not being altered on the graph due to my previous attempt, I opted to have it all erased in order for me to see my actual progress, as I am a visual person. So I now wait for the team at fCC to respond and then I will begin again.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It was a lot easier to begin again with fCC and feel I will accomplish more with it now than I did in the past. I also saw that I started on fCC exactly 8 months ago and never completed my Front-End Developer Certification but now I am not only determined to achieve that but to be good enough at JavaScript by the end of the 100 Days to get interviewed for a few jobs. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+I feel more confident in myself now.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
