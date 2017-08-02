@@ -452,7 +452,28 @@ and paper method. It helped me plan things out. And replan...
 
 **Link to work:**[inventoryUpdate](https://github.com/bradleyhop/freeCodeCampAlgorithms)
 
+### Day 35: July 30, 2017
 
+**Today's Progress**: Little. Looked at exact change algorithm, but not long
+enough. Today counts as a skip day.
+
+### Day 35: July 31, 2017
+
+**Today's Progress**: Actually made headway on exact change. I can get an array
+to return with the proper amounts based on the value of the denomination. But.
+The cash in the drawer doesn't always have the full amount of that denomination
+to subtract before going on to the next.
+
+**Link to work:**[inventoryUpdate](https://github.com/bradleyhop/freeCodeCampAlgorithms)
+
+### Day 36: July 31, 2017
+
+**Today's Progress**: Hacking away at the same problem. Took a break for a while
+and worked on the portfolio site. Improved readability and added a button on
+contacts for twitter.
+
+**Link to work:**[inventoryUpdate](https://github.com/bradleyhop/freeCodeCampAlgorithms)
+[ portfolio ](https://bradleyhop.github.io)
 <!--
    -# 100 Days Of Code - Log
    -
