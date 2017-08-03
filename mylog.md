@@ -19,3 +19,11 @@ I feel more confident in myself now.
 **Thoughts:** I think it would definitely be to my advantage to wake up an hour earlier and code in the morning, but I will have to see how that goes. Was not feeling motivated at all and that's due to all the stuff going but I will have to soldier-on, despite how I feel or how tired I am.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 3: 3 August 2017
+
+**Today's Progress:** Completed the *HTML5 and CSS* section on fCC after 2 and a half days which makes me feel pretty good.
+
+**Thoughts:** I am definitely feeling better especially after yesterday and I am looking forward to starting my projects pretty soon. I am going to be looking for additional projects outside of those on fCC to complete as well as some pages I can use as a reference point to redo and style as they are, in order to start doing more and not just read theory.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
