@@ -22,7 +22,7 @@ I feel more confident in myself now.
 
 ### Day 3: 3 August 2017
 
-**Today's Progress:** Completed the *HTML5 and CSS* section on fCC after 2 and a half days which makes me feel pretty good.
+**Today's Progress:** I finally removed ALL of my previous fCC progress as I wanted to see my progress graphically on a daily basis. It was getting to me and I finally decided to just erase it all and I was amazingly happy about it. I completed the *HTML5 and CSS* section on fCC after 2 and a half days which makes me feel pretty good.
 
 **Thoughts:** I am definitely feeling better especially after yesterday and I am looking forward to starting my projects pretty soon. I am going to be looking for additional projects outside of those on fCC to complete as well as some pages I can use as a reference point to redo and style as they are, in order to start doing more and not just read theory.
 
