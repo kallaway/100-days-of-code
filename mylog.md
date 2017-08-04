@@ -27,3 +27,12 @@ I feel more confident in myself now.
 **Thoughts:** I am definitely feeling better especially after yesterday and I am looking forward to starting my projects pretty soon. I am going to be looking for additional projects outside of those on fCC to complete as well as some pages I can use as a reference point to redo and style as they are, in order to start doing more and not just read theory.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 4: 4 August 2017
+
+**Today's Progress:** I just learn a valauble lesson that I should always copy my entry to a work document before committing it as it may diappear completely. I have successully complete the *Responsive Design with Bootstrap* on fCC. Tomorrow I tackle *jQuery* and then into *JavaScript*.
+
+**Thoughts:** I feel a lot better that I did yesterday. Coding every day for at least an hour does really boost one's morale and confidence and will certainly be setting myself up for success in the future. I also know that building extra projects will push me out of my comfort zone and will force me to learn at a faster pace than just reading about a particular framework or library. Exciting time lie ahead.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
