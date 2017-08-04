@@ -285,6 +285,31 @@ current_page? or something like controller_name == "home" && action_name == "ind
 **Link to work**:
 check the rad site, and myirlog
 
+### Day 31 : Aug 4, 2017
+
+**Today's Progress**: want to save this code snipped
+
+**Thoughts**:
+``    <% if controller_name == "sir" %>
+      <%= render "sir/navbar"%>
+    <%elsif controller_name == "siradmin" %>
+      <%= render "siradmin/navbar" %>
+    <% elsif current_page?(controller: 'home', action: 'eula') %>
+      <%= render "home/navbar-eula" %>
+    <% else %>
+      <%= render "home/navbar"%>
+    <%end%>
+    ``
+
+**Link to work**:
+used to be on myirlog
+
+
+
+
+
+
+
 
 <!-- ### Day 0 : February 13, 2016
 
