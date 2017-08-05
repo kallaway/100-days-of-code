@@ -40,7 +40,8 @@ I feel more confident in myself now.
 
 **Today's Progress:** Today I  successully complete the *jQuery* on fCC. From tomorrow I will be tackling the *Tribute Page* as well as my personal *Portfolio page* which will in-turn become my porfolio website.
 
-**Thoughts:** Today was a busy day. I learned that you have to be disciplined in your time and let **NOTHING** distract you or disturb you during your time. I also learned that making notes helps with retaining the knowledge as well as helping me understand the syntax a lot better. i feel good with how this week went and I cannot wait for the new week to learn all I can and to apply it. 
+**Thoughts:** Today was a busy day. I learned that you have to be disciplined in your time and let **NOTHING** distract you or disturb you during your time. I am surprised that I was able to code especially on a Saturday with all that is going on during weekend. This gives me the confidence that I will be able to code at least one hour a day no matter what. I also learned that making notes helps with retaining the knowledge as well as helping me understand the syntax a lot better. i feel good with how this week went and I cannot wait for the new week to learn all I can and to apply it.
+
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 
