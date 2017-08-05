@@ -30,9 +30,17 @@ I feel more confident in myself now.
 
 ### Day 4: 4 August 2017
 
-**Today's Progress:** I just learn a valauble lesson that I should always copy my entry to a work document before committing it as it may diappear completely. I have successully complete the *Responsive Design with Bootstrap* on fCC. Tomorrow I tackle *jQuery* and then into *JavaScript*.
+**Today's Progress:** I just learn a valauble lesson that I should always copy my entry to a work document before committing it as it may disappear completely. I have successully complete the *Responsive Design with Bootstrap* on fCC. Tomorrow I tackle *jQuery* and then into *JavaScript*.
 
 **Thoughts:** I feel a lot better that I did yesterday. Coding every day for at least an hour does really boost one's morale and confidence and will certainly be setting myself up for success in the future. I also know that building extra projects will push me out of my comfort zone and will force me to learn at a faster pace than just reading about a particular framework or library. Exciting time lie ahead.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 5: 5 August 2017
+
+**Today's Progress:** Today I  successully complete the *jQuery* on fCC. From tomorrow I will be tackling the *Tribute Page* as well as my personal *Portfolio page* which will in-turn become my porfolio website.
+
+**Thoughts:** Today was a busy day. I learned that you have to be disciplined in your time and let **NOTHING** distract you or disturb you during your time. I also learned that making notes helps with retaining the knowledge as well as helping me understand the syntax a lot better. i feel good with how this week went and I cannot wait for the new week to learn all I can and to apply it. 
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 
