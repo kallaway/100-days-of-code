@@ -474,6 +474,43 @@ contacts for twitter.
 
 **Link to work:**[inventoryUpdate](https://github.com/bradleyhop/freeCodeCampAlgorithms)
 [ portfolio ](https://bradleyhop.github.io)
+
+### Day 37: August 1, 2017
+
+**Today's Progress**: Portfolio Site: changed styling for readablity; added
+Twitter button. Exact Change challenge: can get change based on value of
+denomination, but not on what's actually available in drawer.
+
+**Link to work:**[exact change](https://github.com/bradleyhop/freeCodeCampAlgorithms)
+[ portfolio ](https://bradleyhop.github.io)
+
+### Day 38: August 2, 2017
+
+**Today's Progress**: Finished Exact Change challenge! Part of my problem was 
+in not converting the cash-in-drawer array to pennies. Added function to mapping
+earlier in program.
+
+**Link to work:**[exact change](https://github.com/bradleyhop/freeCodeCampAlgorithms)
+
+### Day 38: August 3, 2017
+
+**Today's Progress**: Acutally started a new job today. Its a better gig, and
+I'll be happier here. Too excited; ended up not coding long enough to count :(
+
+### Day 39: August 4, 2017
+
+**Today's Progress**: Fixed broken links in card component builder function. (I
+really need to learn React...). Did research in React vs Vue. I'm going to learn
+React b/c I see more job opening for that than I do Vue. I found a tutorial on
+youtube and I'm going to give that a go.
+
+Also started the last algorithm challenge for fCC's front end program: Pairwise.
+I see recursion as a possible tool, but I really need to sit down and plan this
+bit by bit.
+
+**Link to work:**[ portfolio ](https://bradleyhop.github.io)
+
+
 <!--
    -# 100 Days Of Code - Log
    -
