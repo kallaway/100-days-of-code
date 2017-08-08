@@ -63,3 +63,10 @@ I feel more confident in myself now.
 1. [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 2. [Tribute Page](https://codepen.io/GabeLep/pen/dzNxaN)
 
+### Day 8: 8 August 2017
+
+**Today's Progress:** I am currently working on my personal page. Not looking for perfection at the moment as I can always work on it and improve on it as time goes on and add some new functionality as I learn new skills.
+
+**Thoughts:** You have to plan a site before beginning it as you will flounder around a lot if you don't. A great design is important as a guide and will **GREATLY** reduce your time. I have heard it being said that it all starts on paper.
+
+
