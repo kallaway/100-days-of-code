@@ -45,3 +45,21 @@ I feel more confident in myself now.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 
+### Day 6: 6 August 2017
+
+**Today's Progress:** Today not much coding was done but I had to learn about AUTO_INCREMENT in MySQL for an interview tomorrow. I have not used a database to that extent and it was fun learning how you can change table entries like that.
+
+**Thoughts:** I definitely have a lot to learn but I am definitely ready to learn to that I can make myself an asset anywhere I go. I will be looking to begin my first personal project soon and I cannot wait to begin.
+
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 7: 7 August 2017
+
+**Today's Progress:** I completed my *Tribute Page* for fCC and I decided to use former President of South Africa **Thabo Mbeki** as mysubject and I am pleased with the results.
+**Thoughts:** It is good to see the progress I am making and learaning as I make mistake and learn how to rectify them and how to add my own chararcter to my work.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+2. [Tribute Page](https://codepen.io/GabeLep/pen/dzNxaN)
+
