@@ -486,7 +486,7 @@ denomination, but not on what's actually available in drawer.
 
 ### Day 38: August 2, 2017
 
-**Today's Progress**: Finished Exact Change challenge! Part of my problem was 
+**Today's Progress**: Finished Exact Change challenge! Part of my problem was
 in not converting the cash-in-drawer array to pennies. Added function to mapping
 earlier in program.
 
@@ -510,6 +510,50 @@ bit by bit.
 
 **Link to work:**[ portfolio ](https://bradleyhop.github.io)
 
+### Day 40: August 5, 2017
+
+**Today's Progress**: Switched to more reliable cors proxy on weather app. Also
+refined, add template literals to code.
+
+**Link to work:**[ portfolio ](https://bradleyhop.github.io)
+
+### Day 41: August 6, 2017
+
+**Today's Progress**: Worked on pairwise fCC algorithm script. About half done.
+Can solve most cases except when there is more than one pair of the same number.
+Pushed but didn't pull request.
+
+**Link to work:**[exact change](https://github.com/bradleyhop/freeCodeCampAlgorithms)
+
+### Day 42: August 7, 2017
+
+**Today's Progress**: Finished Pairwise algrorithm script! Achievement unlocked:
+
+# Finished All of freecodecamp's JavaScript Algorithm Scripting Challenges!!! #
+
+**Link to work:**[exact change](https://github.com/bradleyhop/freeCodeCampAlgorithms)
+
+### Day 43: August 8, 2017 ###
+
+**Today's Progress**: Returned to Twitch app. It really bothers me that I don't
+have a search field for this app. I really want to use materialize's form input,
+so I've started to add a search form. Having trouble getting to style (change
+colors) of the elements I want. Apparently, using the SASS code makes it easy,
+but I'm using the ole CSS so I have to do a bit of digging to see what to change.
+
+### Day 43: August 9, 2017 ###
+
+**Thoughts**: Missed today. Job training, actual job, band gig made for a very
+long day. Trying not to get down on myself.
+
+### Day 44: August 10, 2017 ###
+
+**Today's Progress**: Finished styling the search bar for the Twitch app. Swtiched
+from string literals to template literals. Besides actually using React or similar,
+template literals seem to be my best bet on keeping my html code straight when
+constructing components.
+
+**Link to work:**[ portfolio ](https://bradleyhop.github.io)
 
 <!--
    -# 100 Days Of Code - Log
