@@ -1,12 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: Wednesday, October 4, 2017
+### Day 0: Wednesday, October 4th, 2017
 
-**Today's Progress**: Resturant analogy. Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Review the Resturant analogy and the section 3 - introduction to HTML.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with creating my portfolio website via github.io. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 ### Day 1: June 27, Monday
 
