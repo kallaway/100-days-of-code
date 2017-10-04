@@ -7,7 +7,7 @@
 **Thoughts:** I really struggled with creating my portfolio website via github.io. 
 
 **Link to work:** 
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [my prototype website](https://happyzhanls.io)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 ### Day 1: June 27, Monday
