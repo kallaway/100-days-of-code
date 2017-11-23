@@ -7,3 +7,6 @@ The log of my #100DaysOfCode challenge. Started on [November 22, Wednesday, 2017
 ### R1D1 
 Started with Refresher on Advanced CSS Tricks
 
+### R1D2 
+Peep into Algorithms and Data Structures
+
