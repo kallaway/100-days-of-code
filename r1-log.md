@@ -10,3 +10,6 @@ Started with Refresher on Advanced CSS Tricks
 ### R1D2 
 Peep into Algorithms and Data Structures
 
+### R1D3 
+The whole day spent on ElectronJS
+
