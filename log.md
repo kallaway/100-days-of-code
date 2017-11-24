@@ -16,4 +16,13 @@
 
 **Link to work:** [CS Fundamentals](http://cs-fundamentals.com/data-structures/introduction-to-data-structures.php)
 
+### Day 3: November 24, 2017
+
+**Today's Progress**: The whole day spent on ElectronJS
+
+**Thoughts:** Just inquisitive and curious to know if I can develope desktop apps with JavaScript, just like the way I can develop it with tkinter in python. I come across ElectronJS
+
+**Link to work:** [ElectronJS](https://electronjs.org/)
+
+
 
