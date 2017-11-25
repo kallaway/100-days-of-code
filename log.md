@@ -24,5 +24,13 @@
 
 **Link to work:** [ElectronJS](https://electronjs.org/)
 
+### Day 4: November 25, 2017
+
+**Today's Progress**: Software Development Life Cycle (SDLC) Revisited
+
+**Thoughts:** My burning aspiration of becoming a world-class developer, leads me to this SDLC concept. I have learned a lot!
+
+**Link to work:** [SDLC Overview](http://www.tutorialspoint.com/sdlc/sdlc_quick_guide.htm)
+
 
 
