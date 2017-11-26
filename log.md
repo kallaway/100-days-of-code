@@ -32,5 +32,14 @@
 
 **Link to work:** [SDLC Overview](http://www.tutorialspoint.com/sdlc/sdlc_quick_guide.htm)
 
+### Day 5: November 26, 2017
+
+**Today's Progress**: HTTP Protocol's in depth using ExpressJS
+
+**Thoughts:** A must know for every web developer, this material is quite educative 
+
+**Link to work:** [HTTP In Depth 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) and [HTTP In Depth 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+
 
 
