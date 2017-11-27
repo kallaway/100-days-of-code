@@ -18,3 +18,6 @@ Software Development Life Cycle (SDLC) Revisited
 
 ### R1D5
 HTTP Protocol's in-depth using ExpressJS
+
+### R1D6
+Today I use MochaJS. All codes written were automatically tested with it!
