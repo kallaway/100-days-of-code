@@ -40,6 +40,14 @@
 
 **Link to work:** [HTTP In Depth 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) and [HTTP In Depth 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
+### Day 6: November 27, 2017
+
+**Today's Progress**: Today I use MochaJS. All codes written were automatically tested with it!
+
+**Thoughts:** This Mocha is quite handy. Before, I use to test my code manually for all the expected conditions that it needs to be met, for it to pass. Mocha simplifies it all!
+
+**Link to work:** [Mocha Docs](https://mochajs.org/) and [An awesome tutorial](https://javascript.info/testing-mocha)
+
 
 
 
