@@ -48,6 +48,11 @@
 
 **Link to work:** [Mocha Docs](https://mochajs.org/) and [An awesome tutorial](https://javascript.info/testing-mocha)
 
+### Day 7: November 28, 2017
 
+**Today's Progress**: Material Design was quite awesome.. Thanks to Google!
 
+**Thoughts:** As a self-taught developer, I did my UI all by myself due to unavailability of designer and it looks rough, lacking all the industry best practices. I'm gonna change the status quo! Google is here to help out!
+
+**Link to work:** [Material Design Docs](https://material.io/guidelines/material-design/introduction.html#) 
 
