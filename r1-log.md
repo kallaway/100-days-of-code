@@ -21,3 +21,6 @@ HTTP Protocol's in-depth using ExpressJS
 
 ### R1D6
 Today I use MochaJS. All codes written were automatically tested with it!
+
+### R1D7
+Material Design was quite awesome.. Thanks to Google!
