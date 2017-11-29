@@ -10,5 +10,5 @@
 
 ### Day 2: November 29, 2017(Yeah, the same day)
 ### I begin my second day of code 
-
+###Another hour of code completed. More excercises from codecademy and reprinted UDP client from book.
 
