@@ -56,3 +56,10 @@
 
 **Link to work:** [Material Design Docs](https://material.io/guidelines/material-design/introduction.html#) 
 
+### Day 8: November 29, 2017
+
+**Today's Progress**: More of Object Oriented Programming OOP in JavaScript.
+
+**Thoughts:** I realise that thinking in objects makes coding way more fun,more productive. And the learning curve is just awesome!
+
+**Link to work:** [JavaScript Resource](https://javascript.info/) 
