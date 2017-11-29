@@ -8,3 +8,7 @@
 #also comitted basic tcp client, reprinted from Black Hat Python book, just to commit something, cause I can't commit excercises from codecademy. It doesn't seem to work, "Socket is not connected", but I am too tired to find a reason.
 
 
+### Day 2: November 29, 2017(Yeah, the same day)
+### I begin my second day of code 
+
+
