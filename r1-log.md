@@ -24,3 +24,6 @@ Today I use MochaJS. All codes written were automatically tested with it!
 
 ### R1D7
 Material Design was quite awesome.. Thanks to Google!
+
+### R1D8
+More of Object Oriented Programming OOP in JavaScript.
