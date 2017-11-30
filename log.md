@@ -63,3 +63,11 @@
 **Thoughts:** I realise that thinking in objects makes coding way more fun,more productive. And the learning curve is just awesome!
 
 **Link to work:** [JavaScript Resource](https://javascript.info/) 
+
+### Day 9: November 30, 2017
+
+**Today's Progress**: Working with Pleaaase. An awesome css processor!
+
+**Thoughts:** No need to waste time on vendors prefixes. Pleeease will takes care of it automatically! It can also minifies the code for faster loading
+
+**Link to work:** [Pleeease Docs](http://pleeease.io/docs/)
