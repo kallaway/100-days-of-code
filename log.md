@@ -13,5 +13,6 @@
 ###Another hour of code completed. More excercises from codecademy and reprinted UDP client from book.
 
 ### Day 3: November 30, 2017
-Day 3 begins
+Day 3 begins. 
+Day 3 ended.Too tired to write something interesting.
 
