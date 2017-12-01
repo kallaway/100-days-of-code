@@ -13,6 +13,9 @@
 ###Another hour of code completed. More excercises from codecademy and reprinted UDP client from book.
 
 ### Day 3: November 30, 2017
-Day 3 begins. 
-Day 3 ended.Too tired to write something interesting.
+### Day 3 begins. 
+### Day 3 ended.Too tired to write something interesting.
+
+### Day 4: November 31, 2017
+instead of 1 hour of Python 2 hours of PHP excercises and 3 hoursof reading PHP code just to solve one CTF task
 
