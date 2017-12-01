@@ -30,3 +30,6 @@ More of Object Oriented Programming OOP in JavaScript.
 
 ### R1D9
 Working with Pleaaase. An awesome css processor!
+
+### R1D10
+More on css animations revisited!
