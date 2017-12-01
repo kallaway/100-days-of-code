@@ -76,6 +76,6 @@
 
 **Today's Progress**: More on css animations revisited!
 
-**Thoughts:** No need to waste time on vendors prefixes. Pleeease will takes care of it automatically! It can also minifies the code for faster loading
+**Thoughts:** Lot of hidden concepts in css animations needs to be revisited in minute details. I started with css transitions.
 
-**Link to work:** [Pleeease Docs](http://pleeease.io/docs/
+**Link to work:** [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
