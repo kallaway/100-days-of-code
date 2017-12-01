@@ -71,3 +71,11 @@
 **Thoughts:** No need to waste time on vendors prefixes. Pleeease will takes care of it automatically! It can also minifies the code for faster loading
 
 **Link to work:** [Pleeease Docs](http://pleeease.io/docs/)
+
+### Day 10: December 1, 2017
+
+**Today's Progress**: More on css animations revisited!
+
+**Thoughts:** No need to waste time on vendors prefixes. Pleeease will takes care of it automatically! It can also minifies the code for faster loading
+
+**Link to work:** [Pleeease Docs](http://pleeease.io/docs/
