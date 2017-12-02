@@ -79,3 +79,11 @@
 **Thoughts:** Lot of hidden concepts in css animations needs to be revisited in minute details. I started with css transitions.
 
 **Link to work:** [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+
+### Day 11: December 2, 2017
+
+**Today's Progress**: Integrating Semantic UI and ReactJS
+
+**Thoughts:** JavaScript can't manipulate the virtual DOM elements in React. The Semantic UI React makes it possible
+
+**Link to work:** [Semantic UI React Library](https://react.semantic-ui.com/introduction)
