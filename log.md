@@ -17,5 +17,9 @@
 ### Day 3 ended.Too tired to write something interesting.
 
 ### Day 4: November 31, 2017
-instead of 1 hour of Python 2 hours of PHP excercises and 3 hoursof reading PHP code just to solve one CTF task
+##instead of 1 hour of Python 2 hours of PHP excercises and 3 hoursof reading PHP code just to solve one CTF task
+### Day 5: November 31, 2017
+##some data loss
 
+###### Day 6: November 31, 2017
+#Another few hours of thinkful reading and debugging of PHP code. Had some help from my colleague, I think tomorrow this Flag will be mine.
