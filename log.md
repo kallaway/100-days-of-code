@@ -87,3 +87,11 @@
 **Thoughts:** JavaScript can't manipulate the virtual DOM elements in React. The Semantic UI React makes it possible
 
 **Link to work:** [Semantic UI React Library](https://react.semantic-ui.com/introduction)
+
+### Day 12: December 3, 2017
+
+**Today's Progress**: More on semantic-ui-react! Implementing various semantic styles with it.
+
+**Thoughts:** I really needs to dive deeper into this semantic-ui-react!
+
+**Link to work:** [Accordion using semantic-ui-react](https://react.semantic-ui.com/modules/accordion)
