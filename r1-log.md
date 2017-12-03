@@ -36,3 +36,6 @@ More on css animations revisited!
 
 ### R1D11
 Integrating Semantic UI and ReactJS
+
+### R1D12
+More on semantic-ui-react! Implementing various semantic styles with it.
