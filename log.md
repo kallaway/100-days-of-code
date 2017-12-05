@@ -5,9 +5,14 @@
 **Today's Progress**: 
 I'm building an RGB color game. There will be six squares that will have random colors. Based on the RGB color code shown at the top of the page, the player will be able to guess which is the correct color. The user feedback will inform them if they chose the right color, if not, they can try again. For now the colors are hard coded. Eventually, a random color will be chosen and the player will be able to chose the color. 
 
-- [] In HTML, there are six divs with different background colors for each square.
-- [] In CSS, each div is styled with background, padding-bottom, float, margin and width properties.
-- [] IN JS:
+- [x] In HTML, there are six divs with different background colors for each square.
+- [x] In CSS, each div is styled with the following properties:
+  - background color
+  - padding-bottom
+  - float
+  - margin
+  - width
+- [x] In JS:
   - An array of six hard coded colors.
   - A hard coded default RGB color (for now) in the header.
   - Click event listeners that alerts the player of the color that was clicked on and whether or not it's the right color.
