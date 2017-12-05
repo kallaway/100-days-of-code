@@ -103,3 +103,11 @@
 **Thoughts:** Its quite encouraging to the kids!
 
 **Link to work:** [Google Doodle](https://www.google.com/doodles/celebrating-50-years-of-kids-coding)
+
+### Day 14: December 5, 2017
+
+**Today's Progress**: Using create-react-app to generate React boiler plate.
+
+**Thoughts:** It really simplifies react development.. An awesome boiler plate with all the necessary setups!
+
+**Link to work:** [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
