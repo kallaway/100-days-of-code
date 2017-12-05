@@ -42,3 +42,6 @@ More on semantic-ui-react! Implementing various semantic styles with it.
 
 ### R1D13
 I participate in Google Doodle to celebrate 50 years of kids coding. Hour of code also started today.
+
+### R1D14
+Using create-react-app to generate React boiler plate.
