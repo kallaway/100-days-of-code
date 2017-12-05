@@ -3,7 +3,7 @@
 ### Day 0: December 4, 2017 
 
 **Today's Progress**: 
-I'm building an RGB color game. There will be six squares that will have random colors. Based on the RGB color code shown at the top of the page, the player will be able to guess which is the correct color. The user feedback will inform them if they chose the right color, if not, they can try again. For now the colors are hard coded. Eventually, a random color will be chosen and the player will be able to chose the color. 
+I'm building an RGB color game. There will be six squares that will have random colors. Based on the RGB color code shown at the top of the page, the player will be able to guess which is the correct color. The player will be informed whether or not they chose the right color and will hav the option to try again. For now the colors are hard coded. Eventually, a random color will be given the player will be able to chose which is the correct color of the six colors shown. 
 
 - [x] In HTML, there are six divs with different background colors for each square.
 - [x] In CSS, each div is styled with the following properties:
