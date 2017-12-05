@@ -95,3 +95,11 @@
 **Thoughts:** I really needs to dive deeper into this semantic-ui-react!
 
 **Link to work:** [Accordion using semantic-ui-react](https://react.semantic-ui.com/modules/accordion)
+
+### Day 13: December 4, 2017
+
+**Today's Progress**: I participated in GoogleDoodle to participate 50 years of kids coding. One hour of code also started today!
+
+**Thoughts:** Its quite encouraging to the kids!
+
+**Link to work:** [Google Doodle](https://www.google.com/doodles/celebrating-50-years-of-kids-coding)
