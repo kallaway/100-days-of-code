@@ -3,8 +3,17 @@
 ### Day 0: December 4, 2017 
 
 **Today's Progress**: 
+I'm building an RGB color game. There will be six squares that will have random colors. Based on the RGB color code shown at the top of the page, the player will be able to guess which is the correct color. The user feedback will inform them if they chose the right color, if not, they can try again. For now the colors are hard coded. Eventually, a random color will be chosen and the player will be able to chose the color. 
 
+- [] In HTML, there are six divs with different background colors for each square.
+- [] In CSS, each div is styled with background, padding-bottom, float, margin and width properties.
+- [] IN JS:
+  - An array of six hard coded colors.
+  - A hard coded default RGB color (for now) in the header.
+  - Click event listeners that alerts the player of the color that was clicked on and whether or not it's the right color.
+ 
 **Thoughts:** 
+I'm glad I was able to start building a color game. However, working in Cloud9 is challenging. I spent quite a bit of time looking for errors when it turns out c9 was the issue.  I may have to go back to using Caret as the text editor on my Chromebook.
 
-**Link to work:** 
+
 
