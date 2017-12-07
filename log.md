@@ -28,3 +28,14 @@ I need variety, so I decided to take a break from the color game and try to get 
 
 **Thoughts:**
 I had a hard time understanding the basics when I tried learning Docker in the past. This time around it was easier. Containers and automation are very interesting to me. I’m glad I took the time to work through a lesson.
+
+
+### Day 2: December 6, 2017
+
+**Today's Progress**:
+This was an interesting day. I spent most of it running from one appointment to the next so I didn't code as much as I wanted to. As the day comes to an end, I'm getting in _at least_ an hour to code.
+Here's what I worked on:
+- [x] If the wrong color is clicked, the color fades to the background color leaving only the remaining possible answers.
+- [x] Notification to the player for whether or not the correct color was chosen.
+- [x] Changed span color
+- [x] Wrote random number function to generate a random RGB color for each game.
