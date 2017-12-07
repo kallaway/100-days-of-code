@@ -45,3 +45,6 @@ I participate in Google Doodle to celebrate 50 years of kids coding. Hour of cod
 
 ### R1D14
 Using create-react-app to generate React boiler plate.
+
+### R1D15
+In-depth exploration of Actual DOM and React's Virtual DOM
