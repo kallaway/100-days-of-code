@@ -33,7 +33,8 @@ I had a hard time understanding the basics when I tried learning Docker in the p
 ### Day 2: December 6, 2017
 
 **Today's Progress**:
-This was an interesting day. I spent most of it running from one appointment to the next so I didn't code as much as I wanted to. As the day comes to an end, I'm getting in _at least_ an hour to code.
+This was an interesting day. I spent most of it running from one appointment to the next so I didn't code as much as I wanted to. As the day comes to an end and the fairies temp me with sleep by sprinkling sleepy dust on me, I had to stay focused and code for at least an hour. I did it!
+
 Here's what I worked on:
 - [x] If the wrong color is clicked, the color fades to the background color leaving only the remaining possible answers.
 - [x] Notification to the player for whether or not the correct color was chosen.
