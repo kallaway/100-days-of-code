@@ -111,3 +111,11 @@
 **Thoughts:** It really simplifies react development.. An awesome boiler plate with all the necessary setups!
 
 **Link to work:** [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+### Day 15: December 6, 2017
+
+**Today's Progress**: In-depth exploration of Actual DOM and React's Virtual DOM.
+
+**Thoughts:** Knowing the differences between the actual DOM and the virtual one created by React, is central to the proper understanding of React!
+
+**Link to work:** [React Docs](http://devdocs.io/react/)
