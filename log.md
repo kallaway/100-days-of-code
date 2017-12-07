@@ -37,5 +37,5 @@ This was an interesting day. I spent most of it running from one appointment to 
 Here's what I worked on:
 - [x] If the wrong color is clicked, the color fades to the background color leaving only the remaining possible answers.
 - [x] Notification to the player for whether or not the correct color was chosen.
-- [x] Changed span color
+- [x] Changed span color.
 - [x] Wrote random number function to generate a random RGB color for each game.
