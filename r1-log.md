@@ -51,3 +51,6 @@ In-depth exploration of Actual DOM and React's Virtual DOM
 
 ### R1D16
 A deeper look into React Components
+
+### R1D17
+More on React's state and props
