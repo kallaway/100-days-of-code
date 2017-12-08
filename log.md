@@ -33,10 +33,22 @@ I had a hard time understanding the basics when I tried learning Docker in the p
 ### Day 2: December 6, 2017
 
 **Today's Progress**:
-This was an interesting day. I spent most of it running from one appointment to the next so I didn't code as much as I wanted to. As the day comes to an end and the fairies temp me with sleep by sprinkling sleepy dust on me, I had to stay focused and code for at least an hour. I did it!
-
 Here's what I worked on:
 - [x] If the wrong color is clicked, the color fades to the background color leaving only the remaining possible answers.
 - [x] Notification to the player for whether or not the correct color was chosen.
 - [x] Changed span color.
 - [x] Wrote random number function to generate a random RGB color for each game.
+
+**Thoughts**
+This was an interesting day. I spent most of it running from one appointment to the next so I didn't code as much as I wanted to. As the day comes to an end and the fairies temp me with sleep by sprinkling sleepy dust on me, I had to stay focused and code for at least an hour. I did it!
+
+### Day 3: december 7, 2017
+
+**Today's Progress**
+- [x] Changed background color for h1.
+- [x] Created random number function and removed hard coded RGB color values.
+- [x] Wrote a for loop that pushes random color into an empy array.
+- [x] Wrote randomColor function that generates random color for each value of RGB.
+
+**Thoughts**
+The more I work ont his project the more fun I have and I'm learning a lot.
