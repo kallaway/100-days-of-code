@@ -42,7 +42,7 @@ Here's what I worked on:
 **Thoughts**
 This was an interesting day. I spent most of it running from one appointment to the next so I didn't code as much as I wanted to. As the day comes to an end and the fairies temp me with sleep by sprinkling sleepy dust on me, I had to stay focused and code for at least an hour. I did it!
 
-### Day 3: december 7, 2017
+### Day 3: December 7, 2017
 
 **Today's Progress**
 - [x] Changed background color for h1.
