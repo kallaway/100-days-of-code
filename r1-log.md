@@ -48,3 +48,6 @@ Using create-react-app to generate React boiler plate.
 
 ### R1D15
 In-depth exploration of Actual DOM and React's Virtual DOM
+
+### R1D16
+A deeper look into React Components
