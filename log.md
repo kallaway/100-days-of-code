@@ -127,3 +127,11 @@
 **Thoughts:** I have to dive deeper into this React Components.. Its what React really offers!
 
 **Link to work:** [React Docs](http://devdocs.io/react/)
+
+### Day 17: December 8, 2017
+
+**Today's Progress**: More on React's state and props.
+
+**Thoughts:** I have to dive deeper into this concept of React!
+
+**Link to work:** [React Docs](http://devdocs.io/react/)
