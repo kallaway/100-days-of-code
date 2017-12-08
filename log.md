@@ -119,3 +119,11 @@
 **Thoughts:** Knowing the differences between the actual DOM and the virtual one created by React, is central to the proper understanding of React!
 
 **Link to work:** [React Docs](http://devdocs.io/react/)
+
+### Day 16: December 7, 2017
+
+**Today's Progress**: A deeper look into React Components.
+
+**Thoughts:** I have to dive deeper into this React Components.. Its what React really offers!
+
+**Link to work:** [React Docs](http://devdocs.io/react/)
