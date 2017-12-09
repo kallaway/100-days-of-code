@@ -135,3 +135,11 @@
 **Thoughts:** I have to dive deeper into this concept of React!
 
 **Link to work:** [React Docs](http://devdocs.io/react/)
+
+### Day 18: December 9, 2017
+
+**Today's Progress**: Immutability of objects in React.
+
+**Thoughts:** Even though, one can treat objects in React as mutable. It's generally a good practice to treat it as immutable.
+
+**Link to work:** [React Docs](http://devdocs.io/react/)
