@@ -54,3 +54,6 @@ A deeper look into React Components
 
 ### R1D17
 More on React's state and props
+
+### R1D18
+Immutability of objects in React
