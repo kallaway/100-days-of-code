@@ -44,11 +44,39 @@ This was an interesting day. I spent most of it running from one appointment to 
 
 ### Day 3: December 7, 2017
 
-**Today's Progress**
+**Today's Progress**:
 - [x] Changed background color for h1.
 - [x] Created random number function and removed hard coded RGB color values.
 - [x] Wrote a for loop that pushes random color into an empy array.
 - [x] Wrote randomColor function that generates random color for each value of RGB.
 
 **Thoughts**
-The more I work ont his project the more fun I have and I'm learning a lot.
+The more I work on this project the more fun I have and I'm getting a better understanding of VanillaJS.
+
+
+### Day 4: December 8, 2017
+
+**Today's Progress**:
+
+- [x] Worked through some algorthms on [freeCodeCamp](https://www.freecodecamp.org)
+- [x] Watched a freeCodeCamp [video](https://www.youtube.com/watch?v=fsCjFHuMXj0) on how to build a Node.js API.
+
+**Thoughts** 
+API's are fascinating! The more I learn, the more I wonder about how I can use API's to access data and how I can build my own. 
+
+
+
+### Day 5: December 9, 2017
+
+**Today's Progress**:
+- [x] Created a button that displays the text "Play Again or New Colors" 
+  - If the player wins the text displays "Play Again"
+  - If the player hasn't won but, would like a new set of random colors the text displays "New Colors" to start a new game   with six new random colors.
+- [x] Color display resets to default color when game is won.
+- [x] Functioning buttons for "Easy" and "Hard" mode.
+  - Easy/Hard mode button have selected class to show current player mode.
+- [x] Wrote logic to display three random colors when "Easy" mode is selected.
+- [x] Wrote logic to display six random colors when "Hard" mode is selected.
+
+**Thoughts**:
+It took me a while to get started today. Once I got going it was hard to stop. Learning Vanilla JS is fun so far. It's more code to write but, I'm learning so much! I was reading through the API documentation on [coinbase.com](https://developers.coinbase.com/) and now I want to learn how to build API's to access my account information. I have no idea how to do that yet, but, I'll learn.
