@@ -143,3 +143,12 @@
 **Thoughts:** Even though, one can treat objects in React as mutable. It's generally a good practice to treat it as immutable.
 
 **Link to work:** [React Docs](http://devdocs.io/react/)
+
+
+### Day 19: December 10, 2017
+
+**Today's Progress**: Working with GatsbyJS, a blazing-fast static site generator for React.
+
+**Thoughts:** How awesome! This GatsbyJS is making development work way more easier!
+
+**Link to work:** [GatsbyJS Docs](https://www.gatsbyjs.org/docs/)
