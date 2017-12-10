@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Ismail ElFadli]
 
-The log of my #100DaysOfCode challenge. Started on [December 12, Sunday, 2017].
+The log of my #100DaysOfCode challenge. Started on [December 10, Sunday, 2017].
 
 ## Log
 
