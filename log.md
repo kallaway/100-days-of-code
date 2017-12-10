@@ -50,7 +50,7 @@ This was an interesting day. I spent most of it running from one appointment to 
 - [x] Wrote a for loop that pushes random color into an empy array.
 - [x] Wrote randomColor function that generates random color for each value of RGB.
 
-**Thoughts**
+**Thoughts**:
 The more I work on this project the more fun I have and I'm getting a better understanding of VanillaJS.
 
 
@@ -61,7 +61,7 @@ The more I work on this project the more fun I have and I'm getting a better und
 - [x] Worked through some algorithms on [freeCodeCamp](https://www.freecodecamp.org)
 - [x] Watched a freeCodeCamp [video](https://www.youtube.com/watch?v=fsCjFHuMXj0) on how to build a Node.js API.
 
-**Thoughts** 
+**Thoughts**: 
 API's are fascinating! The more I learn, the more I wonder about how I can use API's to access data and how I can build my own. 
 
 
