@@ -57,7 +57,7 @@ The more I work on this project the more fun I have and I'm getting a better und
 
 **Today's Progress**:
 - [x] Worked through some algorithms on [freeCodeCamp](https://www.freecodecamp.org)
-- [x] Watched a freeCodeCamp [video](https://www.youtube.com/watch?v=fsCjFHuMXj0) on how to build a Node.js API.
+- [x] Watched a freeCodeCamp [video](https://www.youtube.com/watch?v=fsCjFHuMXj0) on "How to build a Node.js API".
 
 **Thoughts**: 
 API's are fascinating! The more I learn, the more I wonder about how I can use API's to access data and how I can build my own. 
