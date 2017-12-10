@@ -33,7 +33,6 @@ I had a hard time understanding the basics when I tried learning Docker in the p
 ### Day 2: December 6, 2017
 
 **Today's Progress**:
-Here's what I worked on:
 - [x] If the wrong color is clicked, the color fades to the background color leaving only the remaining possible answers.
 - [x] Notification to the player for whether or not the correct color was chosen.
 - [x] Changed span color.
@@ -57,13 +56,11 @@ The more I work on this project the more fun I have and I'm getting a better und
 ### Day 4: December 8, 2017
 
 **Today's Progress**:
-
 - [x] Worked through some algorithms on [freeCodeCamp](https://www.freecodecamp.org)
 - [x] Watched a freeCodeCamp [video](https://www.youtube.com/watch?v=fsCjFHuMXj0) on how to build a Node.js API.
 
 **Thoughts**: 
 API's are fascinating! The more I learn, the more I wonder about how I can use API's to access data and how I can build my own. 
-
 
 
 ### Day 5: December 9, 2017
