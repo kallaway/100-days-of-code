@@ -144,7 +144,6 @@
 
 **Link to work:** [React Docs](http://devdocs.io/react/)
 
-
 ### Day 19: December 10, 2017
 
 **Today's Progress**: Working with GatsbyJS, a blazing-fast static site generator for React.
@@ -152,3 +151,11 @@
 **Thoughts:** How awesome! This GatsbyJS is making development work way more easier!
 
 **Link to work:** [GatsbyJS Docs](https://www.gatsbyjs.org/docs/)
+
+### Day 20: December 11, 2017
+
+**Today's Progress**: Started developing an awesome RESTful API
+
+**Thoughts:** Developing an API has become way much easier using NodeJS
+
+**Link to work:** [RESTful API with Node](https://www.youtube.com/watch?v=0oXYLzuucwE)
