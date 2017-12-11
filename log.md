@@ -77,3 +77,19 @@ API's are fascinating! The more I learn, the more I wonder about how I can use A
 
 **Thoughts**:
 It took me a while to get started today. Once I got going it was hard to stop. Learning Vanilla JS is fun so far. It's more code to write but, I'm learning so much! I was reading through the API documentation on [coinbase.com](https://developers.coinbase.com/) and now I want to learn how to build API's to access my account information. I have no idea how to do that yet, but, I'll learn.
+
+
+### Day 6: Decembe 10, 2017
+
+**Today's Progress**: Styling
+- [x] Added border radius to change squares to circles.
+- [x] Added the text-transform property to make text uppercase
+- [x] Added padding, spacing and margins in header and stripe containing text for colors and game mode.
+- [x] Added hover and animation effect to buttons and squares
+- [x] Changed font
+- [x] Changed font-weight on h1 
+- [x] Changed font-size for span
+
+**Thoughts**:
+Margins and padding were a little tricky but, overall, I enjoy working woth CSS.
+
