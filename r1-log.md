@@ -60,3 +60,6 @@ Immutability of objects in React
 
 ### R1D19
 Working with GatsbyJS, a blazing-fast static site generator for React.
+
+### R1D20
+Started developing an awesome RESTful API
