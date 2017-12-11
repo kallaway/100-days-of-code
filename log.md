@@ -24,7 +24,7 @@ I'm glad I was able to start building a color game. However, working in Cloud9 i
 ### Day 1: December 5, 2017
 
 **Today's Progress**:
-I need variety, so I decided to take a break from the color game and try to get a basic understanding of Docker. The lesson I worked through introduced me to containers, images, dockerfiles and volumes.
+I need variety, so I decided to take a break from the color game and try to get a basic understanding of Docker. The course I worked through on [CodeSchool](https://www.codeschool.com/courses/try-docker) introduced me to containers, images, dockerfiles and volumes.
 
 **Thoughts:**
 I had a hard time understanding the basics when I tried learning Docker in the past. This time around it was easier. Containers and automation are very interesting to me. I’m glad I took the time to work through a lesson.
