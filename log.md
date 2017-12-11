@@ -101,6 +101,7 @@ Margins and padding was a little tricky but, overall, I enjoy working with CSS.
 - [x] Finished game!
 
 **Thoughts**:
-Refactoring was challenging. I'm glad I broke up larger sections of code into smaller functions. The code is easier to read. Now that I finished the game. I'll go back and change some styling and maybe add an additional game mode.
+Refactoring was challenging. I’m glad I broke up larger sections of code into smaller functions. The code is easier to read. Now that I finished the game, I’ll go back and change some styling and maybe add an additional game mode in a couple days.
 
+**Next up**: A More in-depth understanding of Docker!
 
