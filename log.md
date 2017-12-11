@@ -79,7 +79,7 @@ API's are fascinating! The more I learn, the more I wonder about how I can use A
 It took me a while to get started today. Once I got going it was hard to stop. Learning Vanilla JS is fun so far. It's more code to write but, I'm learning so much! I was reading through the API documentation on [coinbase.com](https://developers.coinbase.com/) and now I want to learn how to build API's to access my account information. I have no idea how to do that yet, but, I'll learn.
 
 
-### Day 6: Decembe 10, 2017
+### Day 6: December 10, 2017
 
 **Today's Progress**: Styling
 - [x] Added border radius to change squares to circles.
@@ -92,4 +92,15 @@ It took me a while to get started today. Once I got going it was hard to stop. L
 
 **Thoughts**:
 Margins and padding was a little tricky but, overall, I enjoy working with CSS.
+
+
+### Day 7: December 11, 2017
+
+**Today's Progress**:
+- [x] Refactored code!
+- [x] Finished game!
+
+**Thoughts**:
+Refactoring was challenging. I'm glad I broke up larger sections of code into smaller functions. The code is easier to read. Now that I finished the game. I'll go back and change some styling and maybe add an additional game mode.
+
 
