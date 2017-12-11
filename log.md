@@ -91,5 +91,5 @@ It took me a while to get started today. Once I got going it was hard to stop. L
 - [x] Changed font-size for span
 
 **Thoughts**:
-Margins and padding were a little tricky but, overall, I enjoy working with CSS.
+Margins and padding was a little tricky but, overall, I enjoy working with CSS.
 
