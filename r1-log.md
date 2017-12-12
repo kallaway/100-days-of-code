@@ -63,3 +63,6 @@ Working with GatsbyJS, a blazing-fast static site generator for React.
 
 ### R1D20
 Started developing an awesome RESTful API
+
+### R1D21
+Working on Code Drive 17 coding challenges on Flat Iron School
