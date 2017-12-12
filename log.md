@@ -159,3 +159,11 @@
 **Thoughts:** Developing an API has become way much easier using NodeJS
 
 **Link to work:** [RESTful API with Node](https://www.youtube.com/watch?v=0oXYLzuucwE)
+
+### Day 21: December 12, 2017
+
+**Today's Progress**: Working on Code Drive 17 coding challenges on Flat Iron School
+
+**Thoughts:** It is an initiative aimed at raising money for refugees through code
+
+**Link to work:** [Code Drive 2017 Sign Up](http://go.flatironschool.com/code-drive-2017)
