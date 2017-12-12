@@ -13,5 +13,7 @@ I start coding at night with **R**.
 Get started with *Bioconductor* package in *R*, *BSgenome* package to work with whole-genome sequence data, using **seqnames** function to find the names of each chromosome on the genome : ```seqnames(BSgenome.Hsapiens.UCSC.hg19)```. wanna know the length of the chromosome, just write: ```length(hg19[["chr22"]]).```
 The **alphabetFrequency** function is a very useful and eficient tool provided by Biostrings for calculating the number of occurences of each DNA base within a given DNAString. ```alphabetFrequency(hg19[["chr22"]],baseOnly=TRUE)``` using baseOnly to tell the function to use only valid DNA bases.
 Finding the occurs of seq:
-```s1 <- "aaaatgcagtaacccatgccc"
-matchPattern("atg", s1)```
+```
+s1 <- "aaaatgcagtaacccatgccc"
+matchPattern("atg", s1)
+```
