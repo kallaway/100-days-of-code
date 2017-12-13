@@ -66,3 +66,6 @@ Started developing an awesome RESTful API
 
 ### R1D21
 Working on Code Drive 17 coding challenges on Flat Iron School
+
+### R1D22
+A deeper look at ES2015, ES2016 and ES2017 features.
