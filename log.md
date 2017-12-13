@@ -1,4 +1,10 @@
-# 100 Days Of Code - Log
+### Day 0: December 12, 2017
+
+**Today's Progress:** Added Log!
+
+**Thoughts:** Yes, weak sauce is weak. Right now I'm trying to avoid coasting on Github, and hopefully this will encourage that. I have some stuff I've been meaning to work on with Interactive Fiction and Data Analytics -- really, an excuse to play in R - and if nothing else I could use the kick in the pants.
+
+<!--- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -28,3 +34,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+--> 
