@@ -167,3 +167,11 @@
 **Thoughts:** It is an initiative aimed at raising money for refugees through code
 
 **Link to work:** [Code Drive 2017 Sign Up](http://go.flatironschool.com/code-drive-2017)
+
+### Day 22: December 13, 2017
+
+**Today's Progress**: A deeper look at ES2015, ES2016 and ES2017 features.
+
+**Thoughts:** I realise that its high time for me to start exploiting the new features offered by JS
+
+**Link to work:** [Tutorial on Scotch.io by Codebeast](https://scotch.io/courses/10-need-to-know-javascript-concepts)
