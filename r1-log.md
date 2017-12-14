@@ -69,3 +69,6 @@ Working on Code Drive 17 coding challenges on Flat Iron School
 
 ### R1D22
 A deeper look at ES2015, ES2016 and ES2017 features.
+
+### R1D23
+Learning Emmet plugin syntax.. Just discovered it!
