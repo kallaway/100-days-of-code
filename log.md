@@ -175,3 +175,11 @@
 **Thoughts:** I realise that its high time for me to start exploiting the new features offered by JS
 
 **Link to work:** [Tutorial on Scotch.io by Codebeast](https://scotch.io/courses/10-need-to-know-javascript-concepts)
+
+### Day 23: December 14, 2017
+
+**Today's Progress**: Learning Emmet plugin syntax.. Just discovered it!
+
+**Thoughts:** Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow, I can't forgive myself for not discovering this plugin earlier enough :)
+
+**Link to work:** [Emmet Cheat Sheet](https://docs.emmet.io/cheatsheet-a5.pdf)
