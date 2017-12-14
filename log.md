@@ -1,5 +1,4 @@
-### Day 0
-##### December 12, 2017
+### Day 0: December 12, 2017
 
 **Today's Progress:** Added Log!
 
@@ -7,8 +6,7 @@
 
 *****
 
-### Day 1
-##### December 13, 2017
+### Day 1: December 13, 2017
 
 **Today's Progress:** Started! 
 
