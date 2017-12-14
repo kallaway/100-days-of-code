@@ -21,3 +21,7 @@ matchPattern("atg", s1)
 Even I was tired, I traveled from Rabat to Marrakech, I didn't want to sleep until done my work.
 I continue my progress on Python Course (codeacademy) **if, elif, else**, and then I move to Linux with **H3ABioNet** course ( I did the first assignment), how to move throgh linux environment (absolute path, relative path, pwd, ls, mkdir, rmdir).
 https://training.h3abionet.org/IBT_2017/?page_id=915
+
+### R1D4
+Go on with linux commands, use ```touch``` to create file, ```nano``` to ediText, other commands to manipulate files ```cat,less,tail..```, Copy,	move	and	remove files ```cp mv rm```and ```wget```.
+[wget advance](https://www.labnol.org/software/wget-command-examples/28750/)
