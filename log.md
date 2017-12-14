@@ -1,8 +1,18 @@
-### Day 0: December 12, 2017
+### Day 0
+##### December 12, 2017
 
 **Today's Progress:** Added Log!
 
 **Thoughts:** Yes, weak sauce is weak. Right now I'm trying to avoid coasting on Github, and hopefully this will encourage that. I have some stuff I've been meaning to work on with Interactive Fiction and Data Analytics -- really, an excuse to play in R - and if nothing else I could use the kick in the pants.
+
+*****
+
+### Day 1
+##### December 13, 2017
+
+**Today's Progress:** Started! 
+
+**Thoughts:** Working on debugging the header on the Last Res0rt comic site. Caching issues at Cloudflare seem to be affecting my ability to make changes, though.
 
 <!--- # 100 Days Of Code - Log
 
