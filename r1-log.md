@@ -31,4 +31,4 @@ I start the second assignement (question N5).
 I didn't have the time last night to write what I did. I still with linux.
 * how to extract information from files, ```wc``` for word count, ```sort, join, diff, uniq, grep```.
 * Redirection	of	the	output	result	to	a	file	is	possible.	```command options	filename.in > filename.out```.
-* command1 optioons1	filename1.in |command2 options2	> filename.out.
+*  Combining	several	commands	is	done	thanks	to	the	use	of	a	“|”	character. ```command1 optioons1	filename1.in |command2 options2	> filename.out.```
