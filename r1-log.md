@@ -72,3 +72,6 @@ A deeper look at ES2015, ES2016 and ES2017 features.
 
 ### R1D23
 Learning Emmet plugin syntax.. Just discovered it!
+
+### R1D24
+A peep into MEAN stack!
