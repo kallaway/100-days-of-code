@@ -26,3 +26,9 @@ https://training.h3abionet.org/IBT_2017/?page_id=915
 Go on with linux commands, use ```touch``` to create file, ```nano``` to ediText, other commands to manipulate files ```cat,less,tail..```, Copy,	move	and	remove files ```cp mv rm```and ```wget```.
 [wget advance](https://www.labnol.org/software/wget-command-examples/28750/).
 I start the second assignement (question N5).
+
+### R1D4
+I didn't have the time last night to write what I did. I still with linux.
+• how to extract information from files, ```wc``` for word count, ```sort, join, diff, uniq, grep```.
+• Redirection	of	the	output	result	to	a	file	is	possible.	```command options	filename.in > filename.out```.
+• command1 optioons1	filename1.in |command2 options2	> filename.out.
