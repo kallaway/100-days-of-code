@@ -183,3 +183,11 @@
 **Thoughts:** Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow, I can't forgive myself for not discovering this plugin earlier enough :)
 
 **Link to work:** [Emmet Cheat Sheet](https://docs.emmet.io/cheatsheet-a5.pdf)
+
+### Day 24: December 15, 2017
+
+**Today's Progress**: A peep into MEAN stack!
+
+**Thoughts:** Just an exploration of development stacks!
+
+**Link to work:** [MEAN.IO](http://mean.io)
