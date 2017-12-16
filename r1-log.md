@@ -75,3 +75,6 @@ Learning Emmet plugin syntax.. Just discovered it!
 
 ### R1D24
 A peep into MEAN stack!
+
+### R1D25
+Some JS algorithm scripting!
