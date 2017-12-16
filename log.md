@@ -191,3 +191,11 @@
 **Thoughts:** Just an exploration of development stacks!
 
 **Link to work:** [MEAN.IO](http://mean.io)
+
+### Day 25: December 16, 2017
+
+**Today's Progress**: Some JS algorithm scripting
+
+**Thoughts:** Just for fun and to solidify my JS knowledge
+
+**Link to work:** [UDACITY](https://www.udacity.com)
