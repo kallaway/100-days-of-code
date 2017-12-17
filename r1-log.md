@@ -32,3 +32,7 @@ I didn't have the time last night to write what I did. I still with linux.
 * how to extract information from files, ```wc``` for word count, ```sort, join, diff, uniq, grep```.
 * Redirection	of	the	output	result	to	a	file	is	possible.	```command options	filename.in > filename.out```.
 *  Combining	several	commands	is	done	thanks	to	the	use	of	a	“|”	character. ```command1 optioons1	filename1.in |command2 options2	> filename.out.```
+
+### R1D4
+I'm not happy, two days ago I didn't code a lot, just few minitues, but today [17-12-2017] I started **Regular Expression** using python
+based on this book [Chapter 7 – Pattern Matching with Regular Expressions](http://automatetheboringstuff.com/chapter7/).
