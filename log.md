@@ -1,6 +1,6 @@
 # Round 0: The Phantom Programmer
 
-![https://img.shields.io/badge/round-failed-red.svg]
+![Commitments are like pancakes. Everyone fucks up the first one.](https://img.shields.io/badge/round-failed-red.svg)
 
 ### Day 0: December 12, 2017
 
