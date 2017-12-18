@@ -1,3 +1,7 @@
+# Round 0: The Phantom Programmer
+
+![https://img.shields.io/badge/round-failed-red.svg]
+
 ### Day 0: December 12, 2017
 
 **Today's Progress:** Added Log!
@@ -11,6 +15,12 @@
 **Today's Progress:** Started! 
 
 **Thoughts:** Working on debugging the header on the Last Res0rt comic site. Caching issues at Cloudflare seem to be affecting my ability to make changes, though.
+
+*****
+
+### Day 5: December 17, 2017
+
+... Darn. I'm pretty sure this counts as a "failed round", but I'd rather keep going anyway and use it as a practice run. Part of what I'm dealing with / working on is issues of perfectionism, so the last thing I want to do is throw in the towel just because things fucked up a little. 😤
 
 <!--- # 100 Days Of Code - Log
 
