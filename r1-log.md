@@ -78,3 +78,6 @@ A peep into MEAN stack!
 
 ### R1D25
 Some JS algorithm scripting!
+
+### R1D26
+Walk into CSS grids
