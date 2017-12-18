@@ -199,3 +199,11 @@
 **Thoughts:** Just for fun and to solidify my JS knowledge
 
 **Link to work:** [UDACITY](https://www.udacity.com)
+
+### Day 26: December 17, 2017
+
+**Today's Progress**: Walk into CSS grids
+
+**Thoughts:** Its just another better way of designing two-dimensional layouts, instead of resorting to CSS frameworks
+
+**Link to work:** [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
