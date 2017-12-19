@@ -84,3 +84,6 @@ Walk into CSS grids
 
 ### R1D27
 Completed #CodeDrive17 challenges!
+
+### R1D28
+Building chrome extension
