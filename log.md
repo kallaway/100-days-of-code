@@ -215,3 +215,11 @@
 **Thoughts:** In a bid to raise fund for refugees through code. $1 will be awarded for each challenge completed!
 
 **Link to work:** [LEARN.CO](https://learn.co/tracks/bootcamp-prep)
+
+### Day 28: December 19, 2017
+
+**Today's Progress**: Building chrome extension
+
+**Thoughts:** Just to solidify my understanding of DOM manipulation
+
+**Link to work:** [CODECADEMY MEDIUM POST](https://medium.com/@codecademy/javascript-tips-tab-4e9081b4132)
