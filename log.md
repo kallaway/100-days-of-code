@@ -207,3 +207,11 @@
 **Thoughts:** Its just another better way of designing two-dimensional layouts, instead of resorting to CSS frameworks
 
 **Link to work:** [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
+
+### Day 27: December 18, 2017
+
+**Today's Progress**: Completed #CodeDrive17 challenges!
+
+**Thoughts:** In a bid to raise fund for refugees through code. $1 will be awarded for each challenge completed!
+
+**Link to work:** [LEARN.CO](https://learn.co/tracks/bootcamp-prep)
