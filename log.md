@@ -223,3 +223,12 @@
 **Thoughts:** Just to solidify my understanding of DOM manipulation
 
 **Link to work:** [CODECADEMY MEDIUM POST](https://medium.com/@codecademy/javascript-tips-tab-4e9081b4132)
+
+### Day 29: December 20, 2017
+
+**Today's Progress**: Look into JavaScript specials
+
+**Thoughts:** To learn more about 'em
+
+**Link to work:** [JS Specials](http://javascript.info/javascript-specials)
+
