@@ -87,3 +87,6 @@ Completed #CodeDrive17 challenges!
 
 ### R1D28
 Building chrome extension
+
+### R1D29
+Look into JavaScript specials
