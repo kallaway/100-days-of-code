@@ -232,3 +232,10 @@
 
 **Link to work:** [JS Specials](http://javascript.info/javascript-specials)
 
+### Day 30: December 21, 2017
+
+**Today's Progress**: Deeper look at JavaScript array methods
+
+**Thoughts:** To learn more about 'em
+
+**Link to work:** [JS Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
