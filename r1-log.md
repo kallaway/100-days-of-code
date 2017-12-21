@@ -90,3 +90,6 @@ Building chrome extension
 
 ### R1D29
 Look into JavaScript specials
+
+### R1D30
+Deeper look at various JavaScript array methods
