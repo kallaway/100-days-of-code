@@ -93,3 +93,6 @@ Look into JavaScript specials
 
 ### R1D30
 Deeper look at various JavaScript array methods
+
+### R1D31
+A deeper look at JavaScript objects
