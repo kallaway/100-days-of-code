@@ -239,3 +239,11 @@
 **Thoughts:** To learn more about 'em
 
 **Link to work:** [JS Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+### Day 31: December 22, 2017
+
+**Today's Progress**: A deeper look at JavaScript objects
+
+**Thoughts:** To learn more about 'em
+
+**Link to work:** [JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
