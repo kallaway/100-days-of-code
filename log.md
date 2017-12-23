@@ -247,3 +247,11 @@
 **Thoughts:** To learn more about 'em
 
 **Link to work:** [JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+
+### Day 32: December 23, 2017
+
+**Today's Progress**: Peep into React Native!
+
+**Thoughts:** Just the basics of it
+
+**Link to work:** [React Native Tutorial](https://www.youtube.com/watch?v=mkualZPRZCs)
