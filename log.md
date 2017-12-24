@@ -255,3 +255,11 @@
 **Thoughts:** Just the basics of it
 
 **Link to work:** [React Native Tutorial](https://www.youtube.com/watch?v=mkualZPRZCs)
+
+### Day 33: December 24, 2017
+
+**Today's Progress**: Working with #mootools a compact JavaScript framework.
+
+**Thoughts:** An alternative to a popular jQuery library
+
+**Link to work:** [MooTools Docs](https://mootools.net/core/docs/1.6.0#MooTools-API-Documentation)
