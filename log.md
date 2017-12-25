@@ -263,3 +263,11 @@
 **Thoughts:** An alternative to a popular jQuery library
 
 **Link to work:** [MooTools Docs](https://mootools.net/core/docs/1.6.0#MooTools-API-Documentation)
+
+### Day 34: December 25, 2017
+
+**Today's Progress**: Back to beloved #jQuery :)
+
+**Thoughts:** Most popular DOM manipulation library
+
+**Link to work:** [jQuery Docs](http://api.jquery.com/)
