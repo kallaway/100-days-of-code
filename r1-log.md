@@ -102,3 +102,6 @@ Peep into React Native!
 
 ### R1D33
 Working with #mootools a compact JavaScript framework.
+
+### R1D34
+Back to beloved #jQuery :)
