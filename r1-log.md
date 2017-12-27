@@ -108,3 +108,6 @@ Back to beloved #jQuery :)
 
 ### R1D35
 Deeper look at jQuery methods
+
+### R1D36
+Day spent on CSS animation performance
