@@ -271,3 +271,11 @@
 **Thoughts:** Most popular DOM manipulation library
 
 **Link to work:** [jQuery Docs](http://api.jquery.com/)
+
+### Day 35: December 26, 2017
+
+**Today's Progress**: Deeper look at jQuery methods
+
+**Thoughts:** This library is very powerful.. I should understand all the core technicalities behind its marvelous power!
+
+**Link to work:** [jQuery Docs](http://api.jquery.com/)
