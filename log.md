@@ -279,3 +279,11 @@
 **Thoughts:** This library is very powerful.. I should understand all the core technicalities behind its marvelous power!
 
 **Link to work:** [jQuery Docs](http://api.jquery.com/)
+
+### Day 36: December 27, 2017
+
+**Today's Progress**: Day spent on CSS animation performance
+
+**Thoughts:** Just four things to be animated cheaply.. I can't value this knowledge highly!
+
+**Link to work:** [html5rocks.com](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/#toc-animating-layout-properties)
