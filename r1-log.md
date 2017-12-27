@@ -105,3 +105,6 @@ Working with #mootools a compact JavaScript framework.
 
 ### R1D34
 Back to beloved #jQuery :)
+
+### R1D35
+Deeper look at jQuery methods
