@@ -287,3 +287,11 @@
 **Thoughts:** Just four things to be animated cheaply.. I can't value this knowledge highly!
 
 **Link to work:** [html5rocks.com](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/#toc-animating-layout-properties)
+
+### Day 37: December 28, 2017
+
+**Today's Progress**: Deeper look at CSS grids
+
+**Thoughts:** This will definitely becomes central to front-end development carrier in the nearest future.
+
+**Link to work:** [CSS Grids FREE course at Scrimba.com](https://scrimba.com/g/gR8PTE)
