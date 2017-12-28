@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: November 29, 2017 
+##### Today, or rather let me say, tonight, starts my 100 days of code. I't is 01:22 a.m., I am pretty  tired, and really want to postpone for tomorrow. But there is no time like the present.
+#So I begin.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+##### Just ended my first hour(and 15 minutes:) of code. Made 15 excercises on codecademy: booleans. Like what is the result of "not not True or False and not True". Looks scary, but in fact just basic logic and math.
+#also comitted basic tcp client, reprinted from Black Hat Python book, just to commit something, cause I can't commit excercises from codecademy. It doesn't seem to work, "Socket is not connected", but I am too tired to find a reason.
 
 
-### Day 1: June 27, Monday
+### Day 2: November 29, 2017(Yeah, the same day)
+### I begin my second day of code 
+###Another hour of code completed. More excercises from codecademy and reprinted UDP client from book.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 3: November 30, 2017
+### Day 3 begins. 
+### Day 3 ended.Too tired to write something interesting.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 4: November 31, 2017
+##instead of 1 hour of Python 2 hours of PHP excercises and 3 hoursof reading PHP code just to solve one CTF task
+### Day 5: December 1, 2017
+##some data loss
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 6: December 2, 2017
+#Another few hours of thinkful reading and debugging of PHP code. Had some help from my colleague, I think tomorrow this Flag will be mine.
+### Day 7: December 3, 2017
+##
