@@ -295,3 +295,11 @@
 **Thoughts:** This will definitely becomes central to front-end development carrier in the nearest future.
 
 **Link to work:** [CSS Grids FREE course at Scrimba.com](https://scrimba.com/g/gR8PTE)
+
+### Day 38: December 29, 2017
+
+**Today's Progress**: Deeper look at jQuery events
+
+**Thoughts:** Re-inforcing the already built foundation.
+
+**Link to work:** [jQuery API Docs](http://api.jquery.com/category/events/)
