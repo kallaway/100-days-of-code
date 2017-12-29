@@ -114,3 +114,6 @@ Day spent on CSS animation performance
 
 ### R1D37
 Deeper look at CSS grids
+
+### R1D38
+Deeper look at jQuery events
