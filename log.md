@@ -303,3 +303,11 @@
 **Thoughts:** Re-inforcing the already built foundation.
 
 **Link to work:** [jQuery API Docs](http://api.jquery.com/category/events/)
+
+### Day 39: December 30, 2017
+
+**Today's Progress**: Advanced CSS grids.
+
+**Thoughts:** Re-inforcing the already built foundation.
+
+**Link to work:** [CSS Grids FREE course at Scrimba.com](https://scrimba.com/g/gR8PTE)
