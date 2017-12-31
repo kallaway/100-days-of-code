@@ -311,3 +311,11 @@
 **Thoughts:** Re-inforcing the already built foundation.
 
 **Link to work:** [CSS Grids FREE course at Scrimba.com](https://scrimba.com/g/gR8PTE)
+
+### Day 40: December 31, 2017
+
+**Today's Progress**: Implementing web authentication module in NodeJS
+
+**Thoughts:** A simplified approach, that just demystified everything
+
+**Link to work:** [Everything You Ever Wanted to Know About Authentication](https://signal.twilio.com/2017/sf/sessions/1UzhmvTke0miKgOYayc2iC/everything-you-ever-wanted-to-know-about-authentication)
