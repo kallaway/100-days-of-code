@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 28, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Deleted unnecessary files in one of my repos.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with deciding to nuke this project where it was at, and start from scratch in other languages (was PHP/MySQL stack, now going to be creating it in Node, React, Express, and MongoDB), getting GitHub up and running, organizing files into a folder structure that would work, and overall just not being a newb. It's hard not to feel like a newb. lol
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Deleted create-dashboard-page branch](https://github.com/MafiaRealm/MafiaRealm/pull/6)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: December 29, 2017
+**Today's Progress:** I finished five of the Basic Algorithm Scripting challenges on [freeCodeCamp](https://www.freecodecamp.org).
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: These took a little longer than I thought they would! I struggled a lot on the Title Case challenge. Eventually I was able to complete it in a really awkward and seemingly inelegant way, and then when I checked the solution, I was right: there was a much more elegant solution... in fact, all of the solutions were far more elegant. I learned about the charAt() function in JavaScript.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- 01 ✅ Reverse a String
+- 02 ✅ Factorialize a Number
+- 03 ✅ Check for Palindromes
+- 04 ✅ Find the Longest Word in a String
+- 05 ✅ Title Case a Sentence
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [JosephWeaver/freeCodeCamp - merged Basic-Algorithms](https://github.com/JosephWeaver/freeCodeCamp/commit/850296712e43922447740e7b6cd1bcea61d67072)
 
+### Day 2: December 30, 2017
+**Today's Progress:** I finished five of the Basic Algorithm Scripting challenges on [freeCodeCamp](https://www.freecodecamp.org).
 
-### Day 1: June 27, Monday
+**Thoughts**: Some of the solutions varied widely from my implementations. I learned about the .repeat() function on the JavaScript String prototype. Interestingly, each of the solutions was harder to get right than I thought it'd be. I think I need to start planning more thoroughly before I begin, that'd probably save me a decent amount of time.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+- 06 ✅ Return Largest Numbers in Arrays
+- 07 ✅ Confirm the Ending
+- 08 ✅ Repeat a String
+- 09 ✅ Truncate a String
+- 10 ✅ Chunky Monkey
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [JosephWeaver/freeCodeCamp - merged Basic-Algorithms](https://github.com/JosephWeaver/freeCodeCamp/commit/c635e13fd7284035e3ffd8b4d75f6b4621a288a1)
