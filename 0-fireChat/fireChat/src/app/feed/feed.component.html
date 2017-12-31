@@ -1,3 +1,5 @@
-<p>
-  feed works!
-</p>
+<div class="feed">
+  <div *ngFor="let message of feed | async" class="message">
+    <app-message [chatMessage]=message></app-message>
+  </div>
+</div>

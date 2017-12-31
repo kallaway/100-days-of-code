@@ -1,3 +1,5 @@
-<p>
-  user-list works!
-</p>
+<div class="userList">
+  <app-user-item
+    [user]=user *ngFor="let user of users">
+  </app-user-item>
+</div>

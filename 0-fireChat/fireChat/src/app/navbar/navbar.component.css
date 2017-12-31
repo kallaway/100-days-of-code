@@ -1,0 +1,54 @@
+.navBar{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: #EAEAEB;
+}
+
+#logo{
+  display: inline-block;
+  background: url('../../assets/img/logo.svg') no-repeat;
+  background-size: cover;
+  margin: 12px 10px 12px 32px;
+  width: 60px;
+  height: 60px;
+  min-width: 60px;
+}
+
+#heading{
+  flex: 4;
+  padding: 24px 0px 8px 10px;
+  height: 60px;
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+.links{
+  padding-top: 32px;
+  padding-right: 30px;
+  white-space: nowrap;
+  display: block;
+}
+
+#heading > a{
+  text-decoration: none;
+  color: black;
+}
+
+.links a{
+  color: #555;
+  text-decoration: none;
+  transition: ease-in 0.2s;
+  padding-right: 12px;
+  overflow: hidden;
+}
+
+.links a:hover {
+  color: #1E88E5;
+  transition: ease-in 0.2s;
+}
+
+#userEmail {
+  padding-right: 16px;
+  font-weight: bold;
+}

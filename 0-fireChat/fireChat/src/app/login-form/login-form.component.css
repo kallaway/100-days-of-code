@@ -1,0 +1,77 @@
+.container{
+  height: 100%;
+  overflow:hidden;
+  background:
+    linear-gradient(45deg, rgba(255,103,0,0.3), rgba(0, 0, 80, 0.9)),;
+    /*url('../../assets/img/login-5.png') center center no-repeat;;*/
+}
+
+.loginCard{
+  display: block;
+  border: 1px solid #000;
+  border-radius: 4px;
+  background-color: rgba(255,255,255,0.85);
+  width: 700px;
+  height: 420px;
+  margin: auto;
+  margin-top: 40px;
+  text-align: center;
+  padding: 80px 30px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.17), 0 1px 2px rgba(0,0,0,0.24);
+  overflow: hidden;
+}
+
+.formInput{
+  margin: auto;
+  margin-top: 16px;
+  display: block;
+  width: 60%;
+  height: 40px;
+  border-radius:4px;
+  background:#ecf0f1;
+  border: #ccc 1px solid;
+  padding: 8px;
+  font-size:1em;
+}
+
+.btn{
+  height: 54px;
+  width: 60%;
+  margin: auto;
+  margin-top: 16px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.17), 0 1px 2px rgba(0,0,0,0.24);
+  transition: ease-in 0.2s;
+}
+
+#btn-signUp{
+  background-color:#2A2845;
+}
+
+#btn-signUp:hover{
+  background-color:#4A4865;
+  transition: ease-in 0.2s;
+}
+
+#btn-login{
+  background-color:#4A4875;
+}
+
+#btn-login:hover{
+  background-color:#5A5895;
+  transition: ease-in 0.2s;
+}
+
+h2{
+  height: 2em;
+}
+
+a {
+  text-decoration: none;
+}

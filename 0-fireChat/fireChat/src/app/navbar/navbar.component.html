@@ -1,3 +1,18 @@
-<p>
-  navbar works!
-</p>
+<div class="navBar">
+  <div id="logo"></div>
+  <div id="heading"><a routerLink="/">fireChat</a></div>
+  <div class="links">
+    <span>
+      <a *ngIf="!(user|async)?.uid" href="#" (click)="login()">Login</a>
+    </span>
+    <span>
+      <a *ngIf="!(user|async)?.uid" routerLink="/signup">Sign Up</a>
+    </span>
+    <span>
+      <span id="userEmail" *ngIf="(user|async)?.uid">Hello, {{userEmail}}</span>
+    </span>
+    <span>
+      <a *ngIf="(user|async)?.uid" href="#" (click)="logout()">Logout</a>
+    </span>
+  </div>
+</div>

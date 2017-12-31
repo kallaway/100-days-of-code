@@ -1,0 +1,74 @@
+.container{
+  overflow:hidden;
+  background:
+    linear-gradient(45deg, rgba(0,103, 255, 0.3), rgba(0, 150, 80, 0.9));
+    /*url('../../assets/img/login-3.png') center center no-repeat;*/
+}
+
+.signUpCard{
+  display: block;
+  border: 1px solid #000;
+  border-radius: 4px;
+  background-color: rgba(255,255,255,0.85);
+  width: 700px;
+  height: 520px;
+  margin: auto;
+  margin-top: 30px;
+  padding: 80px 30px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.17), 0 1px 2px rgba(0,0,0,0.24);
+  overflow: hidden;
+}
+
+.formInput{
+  display: block;
+  width: 100%;
+  height: 40px;
+  border-radius:4px;
+  background:#ecf0f1;
+  border: #ccc 1px solid;
+  padding: 8px;
+  font-size:1em;
+  margin-bottom: 18px;
+}
+
+.btn{
+  height: 54px;
+  margin-top: 32px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.17), 0 1px 2px rgba(0,0,0,0.24);
+  transition: ease-in 0.2s;
+  width: 100%;
+}
+
+#btn-signUp{
+  background-color:#2A2845;
+}
+
+#btn-signUp:hover{
+  background-color:#4A4865;
+  transition: ease-in 0.2s;
+}
+
+#btn-signUp:disabled{
+  background-color:#eee;
+  color: #999;
+}
+
+h2{
+  text-align: center;
+  height: 2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.label{
+  font-size: 0.9em;
+}
