@@ -10,3 +10,12 @@
 
 **Link to work:** N/A
 
+### Day 2: December 31, 2017
+
+**Today's Progress**: More Javascript FreeCodeCamp lessons.
+
+**Thoughts:** Feeling a little weird about doing lessons instead of working on my codepen projects, especially given that I have not finished one of the projects.  But getting back into the swing of daily coding is important, and it's what I can do right now.  Should feel good about that.  I know I'll return to codepen to finish at some point soon.
+
+**Tweet:** R1D2 of @_100DaysOfCode is all about the Basic JavaScript module of @freeCodeCamp.  Lessons, not project building, but many project activities loom just over the horizon.
+
+**Link to work:** N/A
