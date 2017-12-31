@@ -117,3 +117,6 @@ Deeper look at CSS grids
 
 ### R1D38
 Deeper look at jQuery events
+
+### R1D39
+Advanced CSS grids.
