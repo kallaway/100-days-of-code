@@ -120,3 +120,6 @@ Deeper look at jQuery events
 
 ### R1D39
 Advanced CSS grids.
+
+### R1D40
+Implementing web authentication module in NodeJS
