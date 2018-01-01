@@ -319,3 +319,11 @@
 **Thoughts:** A simplified approach, that just demystified everything
 
 **Link to work:** [Everything You Ever Wanted to Know About Authentication](https://signal.twilio.com/2017/sf/sessions/1UzhmvTke0miKgOYayc2iC/everything-you-ever-wanted-to-know-about-authentication)
+
+### Day 41: January 1, 2018
+
+**Today's Progress**: Working with Pug template engine.
+
+**Thoughts:** This *pug* is quite awesome.. But I prefer *ejs*, its much easier for me :)
+
+**Link to work:** [Codeburst Post](https://codeburst.io/getting-started-with-pug-template-engine-e49cfa291e33)
