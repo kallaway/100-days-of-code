@@ -1,34 +1,38 @@
 <div class="container">
-  <div class="signUpCard">
-    <form #signupForm="ngForm">
-      <h2 class="heading">Sign Up</h2>
+  <mat-card class="signUpCard">
+    <mat-card-header>
+      <mat-card-title>Sign Up</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <form #signupForm="ngForm" id="signUpForm">
+        <mat-form-field class="full-width">
+          <input matInput [(ngModel)]="email"
+                 type="email"
+                 name="email"
+                 class="formInput" required autocomplete="off"/>
+          <mat-hint align="start"><strong>Your e-mail address</strong> </mat-hint>
+        </mat-form-field>
 
-      <label class="label">Email</label>
-      <input
-        type="email" name="email"
-        placeholder="Enter your email address"
-        [(ngModel)]="email" class="formInput"
-        maxlength="60" required/>
+        <mat-form-field class="full-width">
+          <input matInput type="password"
+                 [(ngModel)]="password"
+                 name="password"
+                 class="formInput" required autocomplete="off"/>
+          <mat-hint align="start"><strong>Your preferred password</strong> </mat-hint>
+        </mat-form-field>
 
-      <label class="label">Password</label>
-      <input
-        type="password" name="password"
-        placeholder="Choose a password"
-        [(ngModel)]="password" class="formInput"
-        required/>
-
-      <label class="label">Display Name</label>
-      <input
-        name="displayName"
-        placeholder="Enter a display name"
-        [(ngModel)]="displayName" class="formInput"
-        maxlength="12" required/>
-
-      <button [disabled]="!signupForm.form.valid"
-              type="submit" (click)="signUp()"
-              class="btn" id="btn-signUp">
-        Sign Up
-      </button>
-    </form>
-  </div>
+        <mat-form-field class="full-width">
+          <input matInput name="displayName"
+                 [(ngModel)]="displayName" class="formInput"
+                 maxlength="12" required autocomplete="off"/>
+          <mat-hint align="start"><strong>Your name for chat</strong> </mat-hint>
+        </mat-form-field>
+      </form>
+    </mat-card-content>
+    <mat-card-actions>
+      <button mat-raised-button color="primary" class="btn" id="btn-signUp"
+              [disabled]="!signupForm.form.valid"
+              type="submit" (click)="signUp()">Log In</button>
+    </mat-card-actions>
+  </mat-card>
 </div>

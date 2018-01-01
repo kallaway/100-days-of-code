@@ -1,13 +1,13 @@
-<div class="messageContainer">
-  <div class="messageData">
-    <span class="sender">
-      {{ userName }}
-    </span>
-    <span class="timestamp">
-      {{ timeStamp | date: 'medium' }}
-    </span>
-  </div>
-  <div class="messageContent">
-    {{ messageContent }}
-  </div>
-</div>
+<mat-card class="message horizontalCard">
+  <mat-card-header>
+    <mat-card-title class="sender">
+      {{ userName }}</mat-card-title>
+    <mat-card-subtitle class="timestamp">
+      {{ timeStamp | date: 'medium' }}</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content class="messageContent">
+    <p>
+      {{ messageContent }}
+    </p>
+  </mat-card-content>
+</mat-card>

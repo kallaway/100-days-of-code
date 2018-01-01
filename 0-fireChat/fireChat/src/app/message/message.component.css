@@ -1,14 +1,31 @@
-.messageContainer{
-  display: flex;
+.horizontalCard{
   height: auto;
-  width: 70%;
-  min-width: 400px;
-  border-radius: 5px;
-  align-items:stretch;
-  background-color: #eee;
-  box-shadow: 0 3px 6px rgba(0,0,0,0.26), 0 3px 6px rgba(0,0,0,0.23);
+  width: 60%;
+  min-width: 240px;
+  display: flex;
+  flex-direction: row;
+  padding: 0;
 }
-
+.horizontalCard mat-card-header {
+  padding: 24px;
+  width: 20%;
+  height: auto;
+  background-color: #212121;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.horizontalCard mat-card-header .mat-card-header-text {
+  height: auto;
+}
+.horizontalCard mat-card-content {
+  padding: 24px;
+}
+.horizontalCard mat-card-content p {
+  word-break: break-all;
+  word-wrap: break-word;
+}
 .isOwnMessageContainer{
   background-color: #01579B;
 }
@@ -21,8 +38,9 @@
 
 .sender{
   display: block;
-  color: #222;
+  color: #7b1fa2;
   font-weight: bold;
+  height: auto;
 }
 
 .isOwnSender{
@@ -31,6 +49,7 @@
 
 .timestamp {
   color: #555;
+  font-size: 0.7rem;
   font-style: italic;
 }
 
@@ -41,10 +60,7 @@
 .messageContent{
   height: auto;
   flex: 9;
-  background-color: #fff;
   padding: 10px;
-  border-top-right-radius: 5px;
-  border-bottom-right-radius: 5px;
 }
 
 .isOwnMessageContent{

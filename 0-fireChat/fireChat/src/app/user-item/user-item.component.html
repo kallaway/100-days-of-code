@@ -1,7 +1,9 @@
-<div class="userItem">
-  <span class="status" [ngClass]=(user.status)>
+<mat-card class="userItem">
+  <mat-card-content>
+    <span class="status" [ngClass]=(user.status)>
   </span>
-  <span class="userName">
+    <span class="userName">
     {{user.displayName}}
   </span>
-</div>
+  </mat-card-content>
+</mat-card>

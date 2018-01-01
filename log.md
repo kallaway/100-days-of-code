@@ -16,3 +16,13 @@ Also, struggling from unbuildable error atm (stopped at 20:01) - how it possible
  Finished up all tutorial parts, spent some time to solve problems with firebase2 (latest was 4.8.1, was need to downgrade it to 4.6.0 as mentioned here https://github.com/angular/angularfire2/issues/234#issuecomment-353481937), and a bunch of time to figure out all uncovered in tutorial whitespaces. Project works, but looks slightly odd. Think, some angular-material and infinite scroll fix this) but this will be implemented tomorrow, not now
 
 and yeah, logo was found at freepik <a href="https://www.freepik.com/free-photos-vectors/logo">Logo vector created by Freepik</a> https://www.freepik.com/free-vector/flat-collection-of-fire-logos_1079897.htm
+
+### Day 2: December 31, 2017
+
+Unfortunately, have absolutely no time for coding, cause I've complitely broken my day mode and new year celebration happened.
+
+### Day 3, January 1, 2018
+
+### fireChat project
+
+Implemented angular-material into app, refactored all components. Infinite scroll still pending for implementation

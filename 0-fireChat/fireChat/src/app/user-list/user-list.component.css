@@ -1,0 +1,14 @@
+.userList{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+}
+app-user-item {
+  width: 90%;
+  flex: 0 0 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+}

@@ -1,4 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
@@ -24,6 +25,8 @@ import { AuthService } from './services/auth.service';
 import { appRoutes } from '../routes';
 import { environment } from '../environments/environment';
 
+import {MaterialModule } from './material.module';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -39,6 +42,8 @@ import { environment } from '../environments/environment';
   ],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
+    MaterialModule,
     RouterModule.forRoot(appRoutes),
     FormsModule,
     AngularFireModule,
