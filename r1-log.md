@@ -123,3 +123,6 @@ Advanced CSS grids.
 
 ### R1D40
 Implementing web authentication module in NodeJS
+
+### R1D41
+Working with Pug template engine.
