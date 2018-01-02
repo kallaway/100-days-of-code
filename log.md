@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+<!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -9,22 +10,25 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+-->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+<!--
+Template for logs
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+## Day 0: , 2018
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: 
 
+**Thoughts**: 
 
-### Day 1: June 27, Monday
+**Link(s) to work**: 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+-->
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+## Day 0: 02 January, 2018
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: I worked on the resume project and added the resume data in JSON format.
+
+**Thoughts**: Structuring the resume data in JSON format has thought me about the advantages of managing data in object literal notation in Javascript.
+
+**Link(s) to work**: [frontend-nanodegree-resume](https://github.com/akarsh/frontend-nanodegree-resume)
