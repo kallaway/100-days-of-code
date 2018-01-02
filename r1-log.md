@@ -126,3 +126,6 @@ Implementing web authentication module in NodeJS
 
 ### R1D41
 Working with Pug template engine.
+
+### R1D42
+Some JS algorithm challenges on CodeWars.
