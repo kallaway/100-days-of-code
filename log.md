@@ -327,3 +327,11 @@
 **Thoughts:** This *pug* is quite awesome.. But I prefer *ejs*, its much easier for me :)
 
 **Link to work:** [Codeburst Post](https://codeburst.io/getting-started-with-pug-template-engine-e49cfa291e33)
+
+### Day 42: January 2, 2018
+
+**Today's Progress**: Some JS algorithm challenges on CodeWars.
+
+**Thoughts:** Just for fun.. It chills me up!
+
+**Link to work:** [CodeWars](https://www.codewars.com/)
