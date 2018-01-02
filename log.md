@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 1, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+<b>Today's Progress</b>: Started working through Free Code Camp’s Front End Certification Projects. I've finished 23 challenges so far.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I've also spent the last 3 days learning about git and github. On the recommentdation of @TheCooperMan (https://github.com/TheCooperMan) I watched https://www.youtube.com/watch?v=Z9fIBT2NBGY. I actually did pretty much everything @ssaunier (https://github.com/ssaunier) did in the video rather than just watching.
 
-**Link to work:** [Calculator App](http://www.example.com)
+<b>Thoughts</b>: I learned a few new interesting things particully about CSS, but although I'm excited about this journey I've started, as usaul I'm worried I will forget what I've learned just as quickly.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Putting that aside, what I've taken away most from these first few days is that the actual writing of code is only one task in series of potential tasks required in development: version control being another.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Looking forward to day 2!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+<b>Links(s) to work</b>:
+https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
