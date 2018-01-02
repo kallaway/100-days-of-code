@@ -1,30 +1,37 @@
-# I've joined the #100DaysOfCode Challenge.
+# 100 Days Of Code - Log
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+Find out this challenge interesting, why decided to join it.
+My main goals is to extend and improve my basic knowledge around modern javascript frameworks and tools, which are currently using across many companies, despite they are basicly build above vanila javascript). I mean React, Angular, Vue, Ember, Ionic and probably not from this list - Electron (found a tutorial on Corsetro, want to try it some time later) and in other side, I want to become a self-taught full-stack developer, which means, that I must make my knowledge in PHP (at least) deeper. But ideally I would to learn other backend language, for example Ruby/RoR.
 
-## If you've decided to join:
-0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
-Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) is a invite link to the 100DaysOfCode Slack channel
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2. Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3. **Code minimum an hour every day for the next 100 days.**
-4. **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5. Change the date in [Rules](rules.md) to the day you've started the challenge.
-6. Delete the examples in the log, or comment them out, and start filling it with your own content.
-7. **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9. Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+### Day 0: December 29, 2017
 
-## Want to change other habits? 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+### fireChat project
+tutorial from https://www.youtube.com/watch?v=-j0LVc-zLh0
+Created project from scratch via Angular CLI, set up services and a buch of components, which are will be a skeleton for chat. added necessary components from firebase and set firebase db up.
+Also, struggling from unbuildable error atm (stopped at 20:01) - how it possible to build up app if my command line throw out error linked to empty (unmodified) services? also, Google recently updated their FireBase again, so all information in this tutorial is lightly outdated, so I must dig into google again to figure out how to make all DB requests up to date, like it was already with another app builded by Gary Simon from coursetro (https://coursetro.com/posts/code/31/How-to-Make-an-Angular-Firebase-Chat-App) which I tried some time ago
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more! 
+### Day 1: December 30, 2017
 
-## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+### fireChat project
+ Finished up all tutorial parts, spent some time to solve problems with firebase2 (latest was 4.8.1, was need to downgrade it to 4.6.0 as mentioned here https://github.com/angular/angularfire2/issues/234#issuecomment-353481937), and a bunch of time to figure out all uncovered in tutorial whitespaces. Project works, but looks slightly odd. Think, some angular-material and infinite scroll fix this) but this will be implemented tomorrow, not now
+
+and yeah, logo was found at freepik <a href="https://www.freepik.com/free-photos-vectors/logo">Logo vector created by Freepik</a> https://www.freepik.com/free-vector/flat-collection-of-fire-logos_1079897.htm
+
+### Day 2: December 31, 2017
+
+Unfortunately, have absolutely no time for coding, cause I've complitely broken my day mode and new year celebration happened.
+
+### Day 3, January 1, 2018
+
+### fireChat project
+
+Implemented angular-material into app, refactored all components. Infinite scroll still pending for implementation
+
+
+### Day 4, January 2, 2018
+
+### JavaScript DrumKit project
+
+Joined to parallel challenge #JavaScript30, and easily finished off first project to build native javascript script, which emulate drum machine. Found couple of interesting things, for example .addClass/.removeClass/.toggleClass functions without jQuery wrappers) 
+
+Live demo of this excercise can be found here https://codepen.io/spirit-infernal/pen/PEjLer
