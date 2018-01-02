@@ -26,3 +26,12 @@ Unfortunately, have absolutely no time for coding, cause I've complitely broken 
 ### fireChat project
 
 Implemented angular-material into app, refactored all components. Infinite scroll still pending for implementation
+
+
+### Day 4, January 2, 2018
+
+### JavaScript DrumKit project
+
+Joined to parallel challenge #JavaScript30, and easily finished off first project to build native javascript script, which emulate drum machine. Found couple of interesting things, for example .addClass/.removeClass/.toggleClass functions without jQuery wrappers) 
+
+Live demo of this excercise can be found here https://codepen.io/spirit-infernal/pen/PEjLer
