@@ -16,4 +16,4 @@
 **Thoughts**: Today I felt a slight tug not to do the challenges because I'm a little tired and Winter break with the wife and kids is starting to come to a close. In addition to that I ended up checking my work e-mail before starting so I began my hour somewhat distracted; not a good idea. Maybe tomorrow I'll try to give myself a few minutes to sort of reset my focus before starting.
 
 **Link(s) to progress map**
-1. [Completed Challenges] (https://www.freecodecamp.org/slandsaw)
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
