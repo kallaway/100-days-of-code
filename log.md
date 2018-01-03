@@ -23,3 +23,11 @@
 **Thoughts:** Did an hour of FreeCodeCamp while Maggie drove from VA to NC.  Felt good to do the work.  But I also realize that, for someone like me with a background in C and C++, this stuff is a good refresher but remedial.  The hard part will be writing actual code.  Also, after an hour in the car looking at a computer screen, followed by 4 hours of driving, I'm kind of feeling car sick.
 
 **Link to work:** N/A
+
+### Day 4: January 2, 2018
+
+**Today's Progress**: More Javascript FreeCodeCamp lessons.  Investigated boilerplate code based on freecodecamp blog post.
+
+**Thoughts:** Did less than an hour of exercises in FreeCodeCamp, plus some reading and reviewing of boilerplate for bootstrap.  I keep looking for the shortcut, but I think the answer is to go back to my codepen project and really work on it.  I'm feeling like I'm kind of making progress by doing lessons instead of finishing the Bootstrap program, but really I'm wasting time because I'm not really focusing on making my code work.
+
+**Link to work:** N/A
