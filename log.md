@@ -335,3 +335,11 @@
 **Thoughts:** Just for fun.. It chills me up!
 
 **Link to work:** [CodeWars](https://www.codewars.com/)
+
+### Day 43: January 3, 2018
+
+**Today's Progress**: Working with jsPDF. The leading HTML5 client solution for generating PDFs.
+
+**Thoughts:** I'm going to start a new project that will use it.
+
+**Link to work:** [jsPDF](https://parall.ax/products/jspdf)ƴ
