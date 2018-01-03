@@ -129,3 +129,6 @@ Working with Pug template engine.
 
 ### R1D42
 Some JS algorithm challenges on CodeWars.
+
+### R1D43
+Working with jsPDF. The leading HTML5 client solution for generating PDFs
