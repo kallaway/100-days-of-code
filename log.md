@@ -14,3 +14,18 @@ Looking forward to day 2!
 
 <b>Links(s) to work</b>:
 https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
+
+### Day 2: January 2, 2018
+
+<b>Today's Progress</b>: I'm now on challenge 56, which is about using hex for colors.
+
+I'm continuing to use Git from the bash command line (in VS Code) to update my log. Yesterday, I when I tried to commit my changed it opened up Vi editor and I tried just issuing the SHIFT+ZZ command to save and quit but I got an error. I then had to run 'git commit' again to finish the commit but there was a duplicate file, which I had to delete.
+
+I then realised I had merged changes into the local master branch of the repository, and that the remote master branch (origin) was behind. 'git push origin master' resolved that.
+
+It seems I should have pushed the child branch I made the changes in to origin, merged it into the master branch on GitHub and then pulled origin back to local master. (Feel free to comment this log. I'm keen on getting the nomenclature and process right.)
+
+<b>Thoughts</b>: After looking at the amount of challenges to get through, I'm pushing myself to finish 'Basic JavaScript' by the end of January. On an hour/day basis that should normally be 73 days, not the 31 I'm attempting it in.
+
+<b>Links(s) to work</b>:
+https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
