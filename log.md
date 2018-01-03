@@ -32,3 +32,11 @@ Template for logs
 **Thoughts**: Structuring the resume data in JSON format has thought me about the advantages of managing data in object literal notation in Javascript.
 
 **Link(s) to work**: [frontend-nanodegree-resume](https://github.com/akarsh/frontend-nanodegree-resume)
+
+## Day 1: 03 January, 2018
+
+**Today's Progress**: I worked further on the resume project and updated the contacts section.
+
+**Thoughts**: The append and prepend methods in JQuery has been tricky in the resume project. I finished the resume project today.
+
+**Link(s) to work**: [frontend-nanodegree-resume](https://github.com/akarsh/frontend-nanodegree-resume)
