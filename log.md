@@ -17,3 +17,12 @@
 
 **Link(s) to progress map**
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+
+### Day 3: January 3, 2018, Wednesday
+
+**Today's Progress**: Completed the remaining Responsive Design with Bootstrap challenges and got through about half of jQuery section.
+
+**Thoughts**: Once again felt a slight resistance to starting the challenges, but I pushed through it. I didn't make the same mistake as yesterday by reading work e-mail. Nevertheless I was still somewhat distracted. The jQuery section is proving to be slightly more difficult than previous challenges mostly because I'm not that familiar with JavaScript syntax. On the upside, I do feel like I'm actually learning with these challenges so that's exciting.
+
+**Link(s) to progress map**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
