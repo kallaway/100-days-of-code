@@ -35,3 +35,14 @@ Implemented angular-material into app, refactored all components. Infinite scrol
 Joined to parallel challenge #JavaScript30, and easily finished off first project to build native javascript script, which emulate drum machine. Found couple of interesting things, for example .addClass/.removeClass/.toggleClass functions without jQuery wrappers) 
 
 Live demo of this excercise can be found here https://codepen.io/spirit-infernal/pen/PEjLer
+
+
+### Day 5, January 3, 2018
+
+### fireApp project
+
+Took two attempts to improve app: tried to make CRUD to edit users (based on that tut: http://www.dotnetmob.com/angular-5-tutorial/angular-5-crud-operations-with-firebase/) but really only one function was working - to delete users. Then falled all back and tried to make an infinite scroll based on that tut https://www.youtube.com/watch?v=Cy5MjeXZobE and failed again, cause messed up with already maked function getMessage.
+also revealed, that registration function is now broken for some reasons. will fix up it later(
+
+Finished up #day2 from #JavaScript30
+All here https://codepen.io/spirit-infernal/pen/JMymZG

@@ -25,6 +25,7 @@ import { AuthService } from './services/auth.service';
 import { appRoutes } from '../routes';
 import { environment } from '../environments/environment';
 
+import { InfiniteScrollModule } from 'ngx-infinite-scroll';
 import {MaterialModule } from './material.module';
 
 @NgModule({
@@ -44,6 +45,7 @@ import {MaterialModule } from './material.module';
     BrowserModule,
     BrowserAnimationsModule,
     MaterialModule,
+    InfiniteScrollModule,
     RouterModule.forRoot(appRoutes),
     FormsModule,
     AngularFireModule,
