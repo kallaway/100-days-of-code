@@ -132,3 +132,6 @@ Some JS algorithm challenges on CodeWars.
 
 ### R1D43
 Working with jsPDF. The leading HTML5 client solution for generating PDFs
+
+### R1D44
+CSS animation keyframes.
