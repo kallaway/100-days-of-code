@@ -342,4 +342,12 @@
 
 **Thoughts:** I'm going to start a new project that will use it.
 
-**Link to work:** [jsPDF](https://parall.ax/products/jspdf)ƴ
+**Link to work:** [jsPDF](https://parall.ax/products/jspdf)
+
+### Day 44: January 4, 2018
+
+**Today's Progress**: CSS animation keyframes.
+
+**Thoughts:** A build on CSS transforms and transitions.
+
+**Link to work:** [CSS Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
