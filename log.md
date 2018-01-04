@@ -25,7 +25,20 @@ I then realised I had merged changes into the local master branch of the reposit
 
 It seems I should have pushed the child branch I made the changes in to origin, merged it into the master branch on GitHub and then pulled origin back to local master. (Feel free to comment this log. I'm keen on getting the nomenclature and process right.)
 
-<b>Thoughts</b>: After looking at the amount of challenges to get through, I'm pushing myself to finish 'Basic JavaScript' by the end of January. On an hour/day basis that should normally be 73 days, not the 31 I'm attempting it in.
+<b>Thoughts</b>: After looking at the amount of challenges to get through, I'm pushing myself to finish 'Basic JavaScript' by the end of January. On an hour/day basis that should mean 73 days (remaining). I'm going start to 'Basic JavaScript' in 31 days!
 
 <b>Links(s) to work</b>:
 https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
+
+### Day 3: January 3, 2018
+
+<b>Today's Progress</b>: I'm now on challenge 92 - the start of the jQuery challenges.
+
+<b>Thoughts</b>: I'm looking forward to doing the jQuery work. I'm happy with my progress. So far I haven't found the challenges particularly difficult, but they have definitely engaged me. I'm happy with my current rate.
+
+I was struggling with naming my branches and concluded I would use the R<round_number>D<day_number> format everyday when I update my logs. I then remembered ssaunier saying that a good approach is one branch/feature. So, rather than using the format above I will use something that meaningfully describes what I'm doing - and just for the practice, I will only focus on making changes specific to the branch. However, for general progress updates I will use: R<round_number>D<day_number>-LogUpdate.
+
+<b>Links(s) to work</b>:
+https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
+https://en.wikipedia.org/wiki/Hexadecimal
+https://en.wikipedia.org/wiki/RGB_color_model

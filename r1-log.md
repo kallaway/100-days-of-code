@@ -9,3 +9,6 @@ Started working through Free Code Camp’s Front End Certification Projects: htt
 
 ### R1D2
 Have worked my way up to challenge 56: 'Use Hex Codes for Specific Colors'
+
+### R1D3
+Have worked my way up to challenge 92: 'Learn how Script Tags and Document Ready Work'
