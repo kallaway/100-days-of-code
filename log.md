@@ -7,4 +7,4 @@
 
 **Thoughts:** I haven't really coded in a few weeks so i'm a little rusty, I'd like to get better at being able to figure things out quicker
 
-**Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
+**Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/) 
