@@ -33,6 +33,6 @@
 
 **Thoughts**: Didn't feel as much resistence today as I did in the previous couple of days. I've been switched from Tron Legacy to Inception for my music to code by; I think Tron is better. :) The jQuery exercises were pretty straight forward, but I'm a little fuzzy on targeting child elements. I don't quite understand how the .target class with nth-child(n) magically finds the right element. That's just something I'll have to research a little more. 
 
-**Link(s) to progress map**
+**Link(s) to progress map and CodePin projects**
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
