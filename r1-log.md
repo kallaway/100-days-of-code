@@ -12,3 +12,6 @@ Have worked my way up to challenge 56: 'Use Hex Codes for Specific Colors'
 
 ### R1D3
 Have worked my way up to challenge 92: 'Learn how Script Tags and Document Ready Work'
+
+### R1D4
+Have worked my way up to challenge 105: 'Target the Parent of an Element Using jQuery'
