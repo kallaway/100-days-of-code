@@ -351,3 +351,11 @@
 **Thoughts:** A build on CSS transforms and transitions.
 
 **Link to work:** [CSS Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+
+### Day 45: January 5, 2018
+
+**Today's Progress**: Peep into JAMstack.. A Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
+
+**Thoughts:** Will this stack renders traditional developement stacks obsolete?!
+
+**Link to work:** [JAMstack](https://jamstack.org/)
