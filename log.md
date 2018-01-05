@@ -42,3 +42,12 @@ I was struggling with naming my branches and concluded I would use the R<round_n
 https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
 https://en.wikipedia.org/wiki/Hexadecimal
 https://en.wikipedia.org/wiki/RGB_color_model
+
+### Day 4: January 4, 2018
+
+<b>Today's Progress</b>: I'm now on challenge 105 doing more jQuery.
+
+<b>Thoughts</b>: jQuery is amazing! But then I may just be easily pleased. Looking forward to learning more.
+
+<b>Links(s) to work</b>:
+https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
