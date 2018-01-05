@@ -51,3 +51,12 @@ https://en.wikipedia.org/wiki/RGB_color_model
 
 <b>Links(s) to work</b>:
 https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
+
+### Day 5: January 5, 2018
+
+<b>Today's Progress</b>:I'm now on challenge 111: 'Build a Tribute Page'.
+
+<b>Thoughts</b>: I feel like I've already forgotten what I've learned! So far I don't even know where to start. Tommorrow I'll just start with a heading, and image and an unordered list - relatively simple HTML stuff. Then I will add Bootstrap elements and flesh it out.
+
+<b>Links(s) to work</b>:
+https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
