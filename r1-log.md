@@ -135,3 +135,6 @@ Working with jsPDF. The leading HTML5 client solution for generating PDFs
 
 ### R1D44
 CSS animation keyframes.
+
+### R1D45
+Peep into JAMstack.. A Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
