@@ -40,3 +40,15 @@ Template for logs
 **Thoughts**: The append and prepend methods in JQuery has been tricky in the resume project. I finished the resume project today.
 
 **Link(s) to work**: [frontend-nanodegree-resume](https://github.com/akarsh/frontend-nanodegree-resume)
+
+## Day 2: 04 January, 2018
+
+**Today's Progress**: Reading interview book
+
+**Thoughts**: I am able to understand how the interview process goes on in a company
+
+## Day 3: 05 January, 2018
+
+**Today's Progress**: Chapter 5 from Book 1 of Android Application Development
+
+**Thoughts**: I understood how to debug in Android Studio using debugger tool and reading logs from Logcat
