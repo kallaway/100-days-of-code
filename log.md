@@ -60,3 +60,12 @@ https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
 
 <b>Links(s) to work</b>:
 https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
+
+### Day 5: January 6, 2018
+
+<b>Today's Progress</b>:I have started the 'Build a Tribute Page' challenge and have added an html outline on codepen.io
+
+<b>Thoughts</b>: The most important thing I learned today was how keeping the initial requirements simple is important. I added a set of requirements to the 2 user stories given in the challenge, but then I realised I was being unnecessarily specific and that the detail was more a hindrance than a help at this point. Therefore, I've focussed on an outline that meets the 2 user stories. Once I've done this I will flesh out the page with some as I see fit.
+
+<b>Links(s) to work</b>:
+https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
