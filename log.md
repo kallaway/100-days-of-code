@@ -36,3 +36,12 @@
 **Link(s) to progress map and CodePin projects**
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+
+### Day 5: January 5, 2018, Friday
+
+**Today's Progress**: Nearly completed the Tribute Page project.
+
+**Thoughts**: Had a couple of interruption during my coding session so I spent a few addition minutes working on the tribute page project. Coming up with an idea for this project was a little difficult because I'm not that creative. I finaly came to the conclusion (right or wrong, but hopefully right) that the content of the tribute page is not what matters, it's demonstrating the ability to use what has been learned up to this point. Now I did have to google a couple of bootstrappy things, like block quotes and rounded corners for my main "header" image. Hopefully tomorrow I'll have this baby wrapped up and be on to the next thing. 
+
+**Link(s) to CodePin projects**
+1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
