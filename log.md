@@ -39,3 +39,20 @@
 **Thoughts:** The JavaScript exercises were good. They required actual coding.  Still kind of review but at least it was real coding.  The BootStrap course from Safari was interesting.  Showed some good concepts, but I'm still not sure I can replicate the capability in CodePen.  I need to either design up front, then implement in CodePen, or dramatically simplify my CodePen design.  I think it's too early to try to use Atom and the browser developer tools.  Need to learn the simplified CodePen environment first.  I'm happy that I gave myself permission to code during work hours today.  But I need to commit to more significant project coding if I'm really going to get enything out of this.
 
 **Link to work:** N/A
+
+### Day 6: January 4, 2018
+
+**Today's Progress**: More Javascript FreeCodeCamp lessons.  Only a half hour.
+
+**Thoughts:** I got a lot done today, but I didn't get a full hour in.
+
+**Link to work:** N/A
+
+### Day 7: January 5, 2018
+
+**Today's Progress**: More Javascript FreeCodeCamp lessons.  Getting into dynamically creating and managing large data objects.  This is really cool stuff, there's a lot I can do with it.
+
+**Thoughts:** First, these data objects are great.  I never really got good enough with C++ to use them, but I love the idea based on what I'm learning in JavaScript.  I'm getting inspired to create the data models for my chat bot.  The deal chat bot should be implementable straight from these coding principles.  Also, listening to some of my old coding tunes while coding was fun.  Brought back memories and got me pumped.
+
+**Link to work:** N/A
+
