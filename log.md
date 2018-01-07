@@ -52,3 +52,15 @@ Template for logs
 **Today's Progress**: Chapter 5 from Book 1 of Android Application Development
 
 **Thoughts**: I understood how to debug in Android Studio using debugger tool and reading logs from Logcat
+
+## Day 4: 06 January, 2018
+
+**Today's Progress**: Read few pages from Chapter 6 of Android Application Development and completed 1 chapter from ASmarterWayToLearnJavaScript.
+
+**Thoughts**: I solved a stackoverflow question; which was related to the section from the Android Application Development book.
+
+## Day 5: 07 January, 2018
+
+**Today's Progress**: Completed 1 chapter from ASmarterWayToLearnJavaScript and finished the udacity JavaScript Basics course.
+
+**Thoughts**: The last optional quiz in the udacity JavaScript Basics course was tricky. It looked simple to iterate around the JSON results and add numbers which are presented in string format and also conactenate strings to show an array of strings.
