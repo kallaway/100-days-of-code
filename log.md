@@ -56,3 +56,19 @@
 
 **Link to work:** N/A
 
+### Day 8: January 6, 2018
+
+**Today's Progress**: Did a lot of stuff today, but none of it was coding.
+
+**Thoughts:** Thought about coding all day but had a lot to do and ran out of gas before I got to coding.
+
+**Link to work:** N/A
+
+### Day 9: January 7, 2018
+
+**Today's Progress**: Finished a couple of FreeCodeCamp exercises, but got stuck on the syntax for accessing multi-dimensional arrays.  
+
+**Thoughts:** I learned a lot and it was a good experience to work my way through the exercise, but it was also very frustrating because I've made such great progress in the past with these exercises.  I know this is a new capability that I don't have a background in, so I can't rely as much on past experience, but it's still frustrating knowing I didn't get all the way there.  I didn't look at the answer (assuming it's written somewhere in the hint section, like it often is).  But if I can't get some help I'll peek so that I can move on.  I know I'm close enough that my logic is sound, and once I learn the syntax I likely won't forget it.
+
+**Link to work:** N/A
+
