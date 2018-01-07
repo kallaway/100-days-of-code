@@ -359,3 +359,11 @@
 **Thoughts:** Will this stack renders traditional developement stacks obsolete?!
 
 **Link to work:** [JAMstack](https://jamstack.org/)
+
+### Day 46: January 6, 2018
+
+**Today's Progress**: Advanced CSS layout with flexbox.
+
+**Thoughts:** Very cool.. But a bit harder than CSS grids!
+
+**Link to work:** [Flexbox Tutorial](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
