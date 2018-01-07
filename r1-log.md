@@ -141,3 +141,6 @@ Peep into JAMstack.. A Modern web development architecture based on client-side 
 
 ### R1D46
 Advanced CSS layout with flexbox.
+
+### R1D47
+Some coding games on codepip.com
