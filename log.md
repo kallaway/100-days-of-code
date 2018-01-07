@@ -19,7 +19,7 @@
 **Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
 
 
-### Day 1: January 6th, 2018
+### Day 2: January 6th, 2018
 
 **Today's Progress**: Pretty much wrapped up the portfolio exercise, just have to add it to code pen and submit it.
 
