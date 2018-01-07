@@ -17,3 +17,12 @@
 **Thoughts:** Today I felt a lot better about figuring things out, everything flowed a bit better once I talked myself through things.
 
 **Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
+
+
+### Day 1: January 6th, 2018
+
+**Today's Progress**: Pretty much wrapped up the portfolio exercise, just have to add it to code pen and submit it.
+
+**Thoughts:** Things ran pretty smoothly, had no problem figuring things out. Satisfied.
+
+**Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
