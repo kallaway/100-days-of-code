@@ -1,30 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 0: January 3rd, 2018
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Started a new FCC project (personal portfolio)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** I haven't really coded in a few weeks so i'm a little rusty, I'd like to get better at being able to figure things out quicker
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 1: January 4th, 2018
+
+**Today's Progress**: Added a bit of styling to the header and nav portions of the site, also added a few image placeholders for the work section
+
+**Thoughts:** Today I felt a lot better about figuring things out, everything flowed a bit better once I talked myself through things.
+
+**Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
+
+
+### Day 2: January 6th, 2018
+
+**Today's Progress**: Pretty much wrapped up the portfolio exercise, just have to add it to code pen and submit it.
+
+**Thoughts:** Things ran pretty smoothly, had no problem figuring things out. Satisfied.
+
+**Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
