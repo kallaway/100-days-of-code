@@ -367,3 +367,11 @@
 **Thoughts:** Very cool.. But a bit harder than CSS grids!
 
 **Link to work:** [Flexbox Tutorial](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+### Day 47: January 7, 2018
+
+**Today's Progress**: Some coding games on codepip.com
+
+**Thoughts:** Its time to have fun!
+
+**Link to work:** [Codepip.com](https://codepip.com)
