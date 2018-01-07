@@ -45,3 +45,13 @@
 
 **Link(s) to CodePin projects**
 1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+
+### Day 6: January 6, 2018, Saturday
+
+**Today's Progress**: Completed the Tribute Page and started the Personal Portfolio Webpage project.
+
+**Thoughts**: Ok, so now I'm starting to feel the burn. The creative aspect of these projects is still getting in the way. Surely this will ease up as I progress and I'll over-think things a little less. Tomorrow I'm going to get out a piece of paper and sketch the portfolio page based on the user stories. I think it'll help quite a bit if I can get an idea on paper so I can actually see it. That should give me a little better aim.
+
+**Link(s) to CodePin projects**
+1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
