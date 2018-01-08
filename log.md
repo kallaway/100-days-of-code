@@ -55,3 +55,13 @@
 **Link(s) to CodePin projects**
 1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 7: January 7, 2018, Sunday
+
+**Today's Progress**: Focused on the Personal Portfolio Webpage project. Almost completed the first iteration of the navbar.
+
+**Thoughts**: I sketched out on paper what I think the portfolio page should look like. That has helped quite a bit as I don't think putting ideas from brain to keyboard works well for me. On a slightly different note, it looks like I'll have quite a few placeholders for work since I don't have much to showcase. I should put the tribute page on there. Ended up spending most of the coding session struggling with the navbar. The bootstrap docs are ok, but I need it explained to me like I'm a 5 year old. :) I feel like I cheated a bit by "borrowing" some navbar code from the bootstrap site. Now that I have the portfolio site laid out, I'll dig to the navbar just to make sure I understand it. 
+
+**Link(s) to CodePin projects**
+1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
