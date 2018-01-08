@@ -7,7 +7,7 @@
 January 10th Tuesday, 2017
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode.
+1. I will tweet about my progress every day [here](https://twitter.com/heathercoraje18)-> using the hashtag #100DaysOfCode. 
 2. I will encourage at least 2 people on twitter in the challenge everyday.
 2. If I study on books, this time does not count.
 3. I will push code to GitHub every day so that anyone can see my progress.
