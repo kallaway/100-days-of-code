@@ -144,3 +144,6 @@ Advanced CSS layout with flexbox.
 
 ### R1D47
 Some coding games on codepip.com
+
+### R1D48
+Another awesome coding game!
