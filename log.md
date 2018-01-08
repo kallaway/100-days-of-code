@@ -375,3 +375,11 @@
 **Thoughts:** Its time to have fun!
 
 **Link to work:** [Codepip.com](https://codepip.com)
+
+### Day 48: January 8, 2018
+
+**Today's Progress**: Another awesome coding game!
+
+**Thoughts:** I like having fun! It relieves me from worries as a result of weird bugs in my code.
+
+**Link to work:** [Flexbox Zombies by Geddski](https://geddski.teachable.com/)
