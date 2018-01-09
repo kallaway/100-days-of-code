@@ -72,3 +72,11 @@
 
 **Link to work:** N/A
 
+### Day 10: January87, 2018
+
+**Today's Progress**: Finished @FreeCodeCamp JavaScript exercises and made good headway into Object Oriented and Functional programming.  Kids started interrupting me and I got to a point where I was guessing at syntax from context clues rather than learning the material to pass the tests.  So I'm giving it a rest for tonight. 
+
+**Thoughts:** I feel really good about what I've learned for JavaScript and the OOP stuff.  It's really compelling to me and very energizing.  I also watched a video series on Bootstrap today while riding my bike.  All of the stuff makes sense, and I'm sure with adequate time to learn the tools and concepts, I'll be able to do some really interesting stuff.  So I'll focus on using Bootstrap to upgrade my basic portfolio site to get practice with Bootstrap.  My goal will be to get a basic mastery of simple, functional front-end UI design.  Then I'll focus on algorithms.  I keep getting drawn to deep learning and AI, and specifically the study group.  Tney meet weekly on Sundays, and at other times as well.  Socially and content-wise, it really looks compelling.  The basic coursework includes setting up AWS server images, so I'm also intrigued with the notion that I can learn how to set up AWS environments.
+
+**Link to work:** N/A
+
