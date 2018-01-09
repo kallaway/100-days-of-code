@@ -65,3 +65,13 @@
 **Link(s) to CodePin projects**
 1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 8: January 8, 2018, Monday
+
+**Today's Progress**: Still working on the Personal Portfolio Webpage project. The navvbar is functional including the abilitly collapse on smaller screen sizes. I've added filler text for all sections of the site and started work on smooth scrolling. Tomorrow I plan to finish the smooth scrolling stuff and start building out the first section of the site.
+
+**Thoughts**: I have a little better handle on how the navbar works in bootstrap thanks to a couple of YouTube videos. I'm not a huge fan of the way bootstrap requires the use of the navbar class; there must be a better way! :) 
+
+**Link(s) to CodePin projects**
+1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
