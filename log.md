@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
-
+## rule 10:90
 ### Day 0: January 9, 2017
-I am choosing a simple vanilla Javascript project in Eloquent Javascript textbook as first project for 1st round of 100DaysofCode
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
