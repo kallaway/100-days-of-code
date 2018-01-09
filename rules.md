@@ -12,8 +12,8 @@ January 10th Tuesday, 2017
 2. If I study on books, this time does not count.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will divide 100 days into 30:70. The first 30 portion will be spent on reading textbooks(Eloquent Javascript and YDKJS).
-Ane the other 70 days, I will work on *real projects*, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+5. I will divide 100 days into 20:80. The first 10 days (griding bassic) will be spent on reading textbooks(Eloquent Javascript) along with completeting materials covered during Founders & Coders. I will be adding interesting codes/solutions on excercises. 
+And the other 80 days, I will work on *real projects*, facing real challenges, along with the book YDKJS. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 
 ## Ideas to make this challenge more effective
