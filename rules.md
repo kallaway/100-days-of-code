@@ -7,12 +7,13 @@
 January 10th Tuesday, 2017
 
 ## Additional Rules
-1. I will tweet about my progress every day [here](https://twitter.com/heathercoraje18)-> using the hashtag #100DaysOfCode. 
+1. I will tweet about my progress every day [here](https://twitter.com/heathercoraje18)-> using the hashtag #100DaysOfCode.
 2. I will encourage at least 2 people on twitter in the challenge everyday.
 2. If I study on books, this time does not count.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on *real projects*, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+5. I will divide 100 days into 30:70. The first 30 portion will be spent on reading textbooks(Eloquent Javascript and YDKJS).
+Ane the other 70 days, I will work on *real projects*, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 
 ## Ideas to make this challenge more effective
