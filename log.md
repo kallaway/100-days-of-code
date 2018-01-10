@@ -383,3 +383,11 @@
 **Thoughts:** I like having fun! It relieves me from worries as a result of weird bugs in my code.
 
 **Link to work:** [Flexbox Zombies by Geddski](https://geddski.teachable.com/)
+
+### Day 49: January 9, 2018
+
+**Today's Progress**: Asynchronous Programming in JavaScript
+
+**Thoughts:** I've heard a lot of this term, lets just dive into it!
+
+**Link to work:** [Async Events](https://stackoverflow.com/questions/4559032/easy-to-understand-definition-of-asynchronous-event)
