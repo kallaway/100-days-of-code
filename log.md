@@ -391,3 +391,11 @@
 **Thoughts:** I've heard a lot of this term, lets just dive into it!
 
 **Link to work:** [Async Events](https://stackoverflow.com/questions/4559032/easy-to-understand-definition-of-asynchronous-event)
+
+### Day 50: January 10, 2018
+
+**Today's Progress**: Started my database courses at MongoDB University.
+
+**Thoughts:** Lets introduce some persistence to my application's data.. It's high time, half of the journey
+
+**Link to work:** [MongoDB University](https://university.mongodb.com/)
