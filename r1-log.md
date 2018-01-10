@@ -150,3 +150,6 @@ Another awesome coding game!
 
 ### R1D49
 Asynchronous Programming in JavaScript
+
+### R1D50
+Started my database courses at MongoDB University.
