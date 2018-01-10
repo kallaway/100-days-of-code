@@ -147,3 +147,6 @@ Some coding games on codepip.com
 
 ### R1D48
 Another awesome coding game!
+
+### R1D49
+Asynchronous Programming in JavaScript
