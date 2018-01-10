@@ -75,3 +75,14 @@
 **Link(s) to CodePin projects**
 1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 9: January 9, 2018, Tuesday
+
+**Today's Progress**: Ended up spending about 1.25 hours in this session. Continuing to work on the Personal Portfolio Webpage project. I did manage to complete the smooth scrolling and implement the javascript necessary to make the nav links appear active. This works when clicking a nav link or scrolling down to a give section of the page. With that out of the way, I should be able to start building out the first section of the site.
+
+**Thoughts**: Arrggghhh! The navbar smooth scrolling stuff really killed my productivity today. I feel like I understand about %25 percent of what I've coded up thus far which is a little discouraging. Today is probably the first day I've actually felt beaten up by code. lol I'll try and get a good nights sleep tonight and be more refreshed tomorrow. 
+
+**Link(s) to CodePin projects**
+1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
