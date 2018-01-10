@@ -9,6 +9,15 @@
 
 **Link to work:** [Eloquent Javascript repo](https://github.com/Heathercoraje/Eloquent-Javascript), [Pure function ws](https://github.com/Heathercoraje/ws-pure-functions-easy-testing), [Traffic light repo](https://github.com/Heathercoraje/morning-challenge-traffic-lights)
 
+### Day 1: January 10, 2017
+**Today's Progress:** Today, first I finished traffic light workshop. Then I worked on 3 workshops on API. I learned XMLHttpRequest is Javascript's way to make http to use http methods to communicate with a server. I installed postman. I could not finish third workshop.
+
+**Thoughts:** I hardly remembered the materials so it is take a quite of efforts to catch up. I should focus more on learning in-depth rather than speed.
+
+**Improvements:** Writing down codes on paper helps a lot. Also, I need to understand callbacks better
+
+**Link to work:**  [workshop-api](https://github.com/Heathercoraje/workshop-APIs)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
