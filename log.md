@@ -103,3 +103,11 @@
 **Thoughts:** It felt good to get through the code today.  This was, by far, the most complex code I'd done to date, and the first coding exercise that required me to do research and use the debugger.  So it was satisfying to get to the end.  My biggest problem (as it was when I was younger) is that I don't remember to be 100% consistent when I fix my code.  So I end up leaving bugs.  I don't update every instance of a variable when I make a change, or I have off-by-one errors.  Other people seem to be able to keep track of everything in their heads and write down what they need.  I make small mistakes that create big problems.  I'll need to think about code quality at some point.
 
 **Link to work:** N/A
+
+### Day XX: January YY, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** N/A
