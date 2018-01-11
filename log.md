@@ -95,3 +95,19 @@
 **Thoughts:** The training I did is a little past my current skill level, but very useful to know once I get a little farther down the learning path.  It was definitely inspiring to see that these frameworks exist, and I'm confident (maybe overconfident?) that I'll be well enough trained to use them soon.  The coding went exceptionally well.  I had expected to hit some stumbling blocks as I went through the last OOP exercises and got into the coding exercises, but things went very smoothly.  I really need to commit a little more time by coding every day.  I'm feeling  confident that I'll be able to start doing project work if I keeo at this.
 
 **Link to work:** N/A
+
+### Day 13: January 11, 2018
+
+**Today's Progress**: Spent some time on a coding exercise to see if a string was a Palindrome.  I spent a lot more time than technically necessary because I really wanted to explore different ways of solving the problem, rather than falling back on my non-OOP thinking. But I ended up using a couple of JavaScript methods and a for loop.  Ho hum.
+
+**Thoughts:** It felt good to get through the code today.  This was, by far, the most complex code I'd done to date, and the first coding exercise that required me to do research and use the debugger.  So it was satisfying to get to the end.  My biggest problem (as it was when I was younger) is that I don't remember to be 100% consistent when I fix my code.  So I end up leaving bugs.  I don't update every instance of a variable when I make a change, or I have off-by-one errors.  Other people seem to be able to keep track of everything in their heads and write down what they need.  I make small mistakes that create big problems.  I'll need to think about code quality at some point.
+
+**Link to work:** N/A
+
+### Day XX: January YY, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** N/A
