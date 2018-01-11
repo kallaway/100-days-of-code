@@ -86,3 +86,13 @@
 1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
+
+### Day 10: January 10, 2018, Wednesday
+
+**Today's Progress**: Work on the portfolio page continues. The about section is nearly complete. I'd like to add a better profile pic and a nice background image tomorrow. Once that's done I'll be ready to start the "work" section.
+
+**Thoughts**: Today was a pretty productive day. I did run into a little blocker when using the img-responsive class and padding on an image. This [StackOverflow answer](https://stackoverflow.com/questions/9409632/border-radius-and-padding-not-playing-nice#) helped me resolve the issue. Also discovered the [lead class](https://bootstrapdocs.com/v3.3.5/docs/css/#lead-body-copy) which is working well for the text in my about section. Definitely putting the read, search part of read, search, ask to good use. 
+
+**Link(s) to CodePin projects**
+1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
