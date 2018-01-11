@@ -72,7 +72,7 @@
 
 **Link to work:** N/A
 
-### Day 10: January87, 2018
+### Day 10: January 8, 2018
 
 **Today's Progress**: Finished @FreeCodeCamp JavaScript exercises and made good headway into Object Oriented and Functional programming.  Kids started interrupting me and I got to a point where I was guessing at syntax from context clues rather than learning the material to pass the tests.  So I'm giving it a rest for tonight. 
 
@@ -80,3 +80,18 @@
 
 **Link to work:** N/A
 
+### Day 11: January 9, 2018
+
+**Today's Progress**: Got some things done today, but too many to-dos and I didn't get to do any coding.   
+
+**Thoughts:** I feel like I've done zero hours, then 2+ hours for a couple of cycles now.  I'm not overly concerned, and I've certainly stayed with the commitment.  But I don't want to make this a habit.  There was no emergency that kept me from coding.
+
+**Link to work:** N/A
+
+### Day 12: January 10, 2018
+
+**Today's Progress**: Spent several hours on training and coding.  Great progress and more than made up for no coding yesterday.  I watched a coding course on FaceBook Analytics.  It has a full project write-up on Jupyter, with code on GitHub.  I also researched Jupyter, and some of the other architectural patterns that the presenting team pointed me to.  I also finished the Object Oriented and Functional Programming lessons in FreeCodeCamp and did several coding exercises.  I also looked up how to use console.log and got it working so that I could debug my code.
+
+**Thoughts:** The training I did is a little past my current skill level, but very useful to know once I get a little farther down the learning path.  It was definitely inspiring to see that these frameworks exist, and I'm confident (maybe overconfident?) that I'll be well enough trained to use them soon.  The coding went exceptionally well.  I had expected to hit some stumbling blocks as I went through the last OOP exercises and got into the coding exercises, but things went very smoothly.  I really need to commit a little more time by coding every day.  I'm feeling  confident that I'll be able to start doing project work if I keeo at this.
+
+**Link to work:** N/A
