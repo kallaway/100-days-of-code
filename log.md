@@ -18,6 +18,13 @@
 
 **Link to work:**  [workshop-api](https://github.com/Heathercoraje/workshop-APIs)
 
+### Day 2: January 11, 2017
+**Today's Progress:** First, I finished a workshop on getting data using Github api. I like chapter 5. higher-order functions on Eloquent JS and examples on filter,map,reduce and bind were interesting. Also I've made a plan for next week.
+
+**Thoughts:** Writing many helper functions and passing functions as values/arguments is relatively new but very neat.
+
+**Improvements:** I would like to share a quote I saw yesterday.Most people quit because they look how far they have to go, not how far they have come.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
