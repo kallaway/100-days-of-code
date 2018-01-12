@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 ## rule 10:90
+
 ### Day 0: January 9, 2017
 **Today's Progress:** finished 4 chapters on Eloquent Javascript adding several interesting codes on exercises, digested 2 workshops of Founder & Coders on week2.
 
@@ -25,6 +26,10 @@
 
 **Improvements:** I would like to share a quote I saw yesterday.Most people quit because they look how far they have to go, not how far they have come.
 
+### Day 3: January 12, 2017
+**Today's Progress:** I slightly grasped the concept of making instance of object and setting it's own property. (I plan to do another tutorial on object then go back to this chapter later and rather move on for now). After hitting the wall too much with my head, I worked on node girl workshop. There I finally understood that node is an environment which offers a large set of modules which enable Javascript to be written to communicate with a server.
+
+**Thoughts:** It was a day of frustration but I came out better. I must admit that I am in a very good circumstance in no position to complain to learn new skills for a career shift. I will integrate the attitude of 'challenge fucking accepted'
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
