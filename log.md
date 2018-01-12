@@ -407,3 +407,11 @@
 **Thoughts:** A build on Asynchronous JS
 
 **Link to work:** [jQuery AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+
+### Day 52: January 12, 2018
+
+**Today's Progress**: Peep into PhysicsJS - A modular, extendable, and easy-to-use physics engine for javascript!
+
+**Thoughts:** Feeling scientific today :)
+
+**Link to work:** [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/)
