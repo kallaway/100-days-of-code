@@ -399,3 +399,11 @@
 **Thoughts:** Lets introduce some persistence to my application's data.. It's high time, half of the journey
 
 **Link to work:** [MongoDB University](https://university.mongodb.com/)
+
+### Day 51: January 11, 2018
+
+**Today's Progress**: Walk into AJAX!
+
+**Thoughts:** A build on Asynchronous JS
+
+**Link to work:** [jQuery AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
