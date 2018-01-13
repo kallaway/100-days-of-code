@@ -415,3 +415,11 @@
 **Thoughts:** Feeling scientific today :)
 
 **Link to work:** [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/)
+
+### Day 53: January 13, 2018
+
+**Today's Progress**: Working with Compass, a MongoDB GUI client
+
+**Thoughts:** Back to NoSQL databases..
+
+**Link to work:** [MongoDB University Course](https://university.mongodb.com/)
