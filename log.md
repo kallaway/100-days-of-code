@@ -30,6 +30,12 @@
 **Today's Progress:** I slightly grasped the concept of making instance of object and setting it's own property. (I plan to do another tutorial on object then go back to this chapter later and rather move on for now). After hitting the wall too much with my head, I worked on node girl workshop. There I finally understood that node is an environment which offers a large set of modules which enable Javascript to be written to communicate with a server.
 
 **Thoughts:** It was a day of frustration but I came out better. I must admit that I am in a very good circumstance in no position to complain to learn new skills for a career shift. I will integrate the attitude of 'challenge fucking accepted'
+
+### Day 4: January 13, 2017
+**Today's Progress:** Today, I finished node girl workshop and learn GET and POST method to implement communication between server and client. node is really smart.
+
+**Thoughts:** I found a pattern that I find a workshop which is to create a small working program much more fun than writing codes for learning a concept itself. I should start building a small program after 10 days.
+**Link to work** [Content Management System](https://github.com/Heathercoraje/workshop-cms)
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
