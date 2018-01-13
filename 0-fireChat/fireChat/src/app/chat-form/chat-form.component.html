@@ -1,0 +1,10 @@
+<mat-toolbar class="matToolbarBottom">
+    <mat-form-field class="chat-input">
+      <input matInput class="chatInput formInput"
+             [(ngModel)]="message"
+             (keydown)="handleSubmit($event)"/>
+    </mat-form-field>
+
+    <button mat-raised-button color="primary" class="btn chatButton"
+            (click)=send()>Send</button>
+</mat-toolbar>

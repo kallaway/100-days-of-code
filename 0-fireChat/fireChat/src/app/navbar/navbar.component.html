@@ -1,0 +1,12 @@
+<mat-toolbar color="primary" class="navBar">
+  <mat-toolbar-row>
+    <div id="logo"></div>
+    <div id="heading"><a routerLink="/" color="primary">fireChat</a></div>
+    <span class="example-spacer"></span>
+      <button mat-button *ngIf="!(user|async)?.uid" href="#" (click)="login()">Login</button>
+      <button mat-button *ngIf="!(user|async)?.uid" routerLink="/signup">Sign Up</button>
+      <span id="userEmail" *ngIf="(user|async)?.uid">Hello, {{userEmail}}</span>
+      <button mat-button *ngIf="(user|async)?.uid" href="#" (click)="logout()">Logout</button>
+
+  </mat-toolbar-row>
+</mat-toolbar>

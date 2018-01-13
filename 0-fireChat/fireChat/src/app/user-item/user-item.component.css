@@ -1,0 +1,40 @@
+.userItem{
+  height: auto;
+  padding: 10px;
+  width: 90%;
+  margin-top: 10px;
+  align-items:flex-start;
+  flex: 0 0 100%;
+  transition: ease-in 0.2s;
+}
+
+.userItem:hover{
+  background-color: #453968;
+  color: #ddd;
+  transition: ease-in 0.1s;
+}
+
+.online{
+  background-color: #0FA;
+}
+
+.busy{
+  background-color: #FB0;
+}
+
+.offline{
+  background-color: #888;
+}
+
+.status{
+  border: 1px solid black;
+  display: inline-block;
+  min-width: 10px;
+  min-height: 10px;
+  border-radius: 50%;
+  margin: 10px 12px 0px 10px;
+}
+
+.userName{
+  display: inline-block;
+}

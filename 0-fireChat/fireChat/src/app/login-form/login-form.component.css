@@ -1,0 +1,44 @@
+.container{
+  height: calc(100vh - 64px);
+  overflow:hidden;
+}
+
+.loginCard{
+  display: block;
+  width: 700px;
+  height: 420px;
+  margin: auto;
+  margin-top: 40px;
+}
+.mat-card-content {
+  height: auto;
+}
+.loginForm {
+  width: 100%;
+  min-height: 240px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.mat-card-header{
+  height: auto;
+}
+.mat-form-field {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.formInput{
+  display: block;
+  width: 100%;
+  position: relative;
+  margin-top: 16px;
+  height: 40px;
+  font-size:1em;
+}
+mat-card-actions {
+  text-align: center;
+  height: auto;
+}
+

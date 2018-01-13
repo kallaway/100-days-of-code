@@ -1,0 +1,37 @@
+.mainContent{
+  display: flex;
+}
+
+.userListWrapper {
+  /*background-color: #2A2845;*/
+  /*color: #fff;*/
+  display: flex;
+  /*font-family: "Open Sans", sans-serif;*/
+  /*font-size: 1.2em;*/
+  flex: 1;
+  order: 1;
+  padding:20px 0px 40px 30px;
+  border-right: 1px solid #222;
+}
+
+.feedWrapper {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2em;
+  flex: 5;
+  order: 2;
+  overflow-y: scroll;
+  /*margin-left: 0 !important;*/
+  padding:20px 0px 0px 24px;
+}
+
+.chatFormWrapper {
+  display: flex;
+  height: 64px;
+  background-color: #eee;
+  z-index: 3;
+}
+
+
+.mat-drawer {
+  width: 240px;
+}
