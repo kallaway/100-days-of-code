@@ -99,10 +99,21 @@
 
 ### Day 11: January 11, 2018, Thursday
 
-**Today's Progress**: Work on the portfolio page continues. Instead of sprucing up the about section I just went ahead and started to build the work section of the site. In the work section I'm just using the bootstrap [thumbnail class](https://bootstrapdocs.com/v3.3.6/docs/components/#thumbnails-default) along with a little extra html for a parahraph and button. I tried this neat little utiltiy from [holderjs](http://holderjs.com/)to add placeholder image for one of the project pages. I just made color blocks for the rest because the sizing behavior is a little strange. For example, a 400x400px png file displays as the same size as a 400x275 placeholder from holderjs; it's odd. Switched to azure blob storage to host all my images. 
+**Today's Progress**: Work on the portfolio page continues. Instead of sprucing up the about section I just went ahead and started to build the work section of the site. In the work section I'm just using the bootstrap [thumbnail class](https://bootstrapdocs.com/v3.3.6/docs/components/#thumbnails-default) along with a little extra html for a parahraph and button. I tried this neat little utiltiy from [holderjs](http://holderjs.com/) to add placeholder image for one of the project pages. I just made color blocks for the rest because the sizing behavior is a little strange. For example, a 400x400px png file displays as the same size as a 400x275 placeholder from holderjs; it's odd. Switched to azure blob storage to host all my images. 
 
 
 **Thoughts**: Another focused and productive day, I'd say. I find myself spending about 1.5 - 2 hours a night on this project including github and twitter updates. Feeling like I should reign that in and stick with 1 hour and just stop no matter where I am in my coding session. I'll try that tomorrow night. 
+
+**Link(s) to CodePin projects**
+1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 12: January 12, 2018, Friday
+
+**Today's Progress**: Work on the portfolio page continues. Today I worked on the contact page and messed around with two sites that allow you to send e-mail without any server side code. There are issues with this approach because of CodePen. I may dive into this a bit more at some point in the future. Also added glyphicons to the "view" and "submit" buttons. Tomorrow I'll work on the footer. 
+
+
+**Thoughts**: Ok, so, real talk... today felt a lot like a cheat day. A LOT. I lifted waaay too much code from the bootstrap site because I couldn't remember the syntax for a component I wanted to use. I'm going to be more dilligent about not doing that because I don't want to cheat myself out of this learning experience. Perhaps I'll go through tutorials on the stuff I'm unfamiliar with as opposed to taking the easy way out. On the upside, I kept my word about stopping at 1-hour. Today I did that and it just felt right. :) Tomorrow is another day to get it right. 
 
 **Link(s) to CodePin projects**
 1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
