@@ -159,3 +159,6 @@ Walk into AJAX!
 
 ### R1D52
 Peep into PhysicsJS - A modular, extendable, and easy-to-use physics engine for javascript!
+
+### R1D53
+Working with Compass, a MongoDB GUI client
