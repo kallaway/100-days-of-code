@@ -104,6 +104,14 @@
 
 **Link to work:** N/A
 
+### Day 14: January 12, 2018
+
+**Today's Progress**: Made huge progress on freecodecamp basic algorithm programming.  I spent a fair amount of time really testing and debugging my code to understand the context and syntax of the commands.  I went through something like 10 exercises, which is great progress.  They took me anywhere from 5 minutes to over an hour per exercise.  There was one that involved complex string manipulation in which I understood the context but couldn't get the code syntax right.  That one was the only one where I pasted in code.
+
+**Thoughts:** I'm feeling very motivated and very productive.  I know I've just scratched the surface, and when I get to the projects I'll need to dig more into the methods and properties that I've missed or skimmed.  But I feel like I'm knocking the rust off my logic skills, and I'm learning syntax and structure in Javascript.  I'm looking forward to getting to the front end development projecdts.  I know I have a lot of work to do to get there, but with consistent effort to retain what I've learned and make steady progress, I think I'll be able to start becoming productive in creating web apps.
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
@@ -111,3 +119,4 @@
 **Thoughts:** 
 
 **Link to work:** N/A
+
