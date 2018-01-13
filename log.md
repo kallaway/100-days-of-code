@@ -112,6 +112,14 @@
 
 **Link to work:** N/A
 
+### Day 15: January 13, 2018
+
+**Today's Progress**: I did a couple of exercises, but I got bogged down in "higher order" functions and "callback functions".  Specifically, filter, map, and reduce functions.  It's an amazing capability that I need to slow down and master.  
+
+**Thoughts:** I got fairly frustrated with learning filter, map, and reduce.  I couldn't make sense of the supporting material on the web because there are several ways to implement higher order functions and I couldn't tie them together.  Also, the descriptions were very jargony.  I could solve the exercises with cumbersome for loops, and I've succeeded at that, but I decided really need to slow down and master this stuff the right way before moving on.  Partly because these functions are very powerful and I can picture using them a lot.  And partly because JSON and AJAX are coming up next, and I know they make a lot of use of higher order functions.  So I'd rather slow down a little now to avoid getting much more slowed down when I move forward.
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
