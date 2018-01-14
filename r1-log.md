@@ -162,3 +162,6 @@ Peep into PhysicsJS - A modular, extendable, and easy-to-use physics engine for 
 
 ### R1D53
 Working with Compass, a MongoDB GUI client
+
+### R1D54
+Deeper look at JavaScript closures!
