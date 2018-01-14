@@ -118,3 +118,12 @@
 **Link(s) to CodePin projects**
 1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+**Today's Progress**: The footer is starting to take shape. I found some interesting examples on the [Material Design for Bootstrap site](https://mdbootstrap.com/) and ended up incorporating it into the site. Hopefully I'll have the footer complete tomorrow and then start working on the styling and fix any bugs I encounter. 
+
+
+**Thoughts**: Today felt a little better than yesterday in terms of "borrowing" code from other sites. I started looking to YouTube for some instruction as well as docs on the material design site. I'll try to continue that trend and maybe do some reading or watching videos when I'm not coding. 
+
+**Link(s) to CodePin projects**
+1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
