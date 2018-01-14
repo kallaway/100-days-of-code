@@ -423,3 +423,11 @@
 **Thoughts:** Back to NoSQL databases..
 
 **Link to work:** [MongoDB University Course](https://university.mongodb.com/)
+
+### Day 54: January 14, 2018
+
+**Today's Progress**: Deeper look at JavaScript closures!
+
+**Thoughts:** I've to nail down all such trickier concepts
+
+**Link to work:** [JavaScript Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
