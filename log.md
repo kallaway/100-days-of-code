@@ -108,7 +108,7 @@
 1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 12: January 12, 2018, Friday
+### Day 13: January 13, 2018, Saturday
 
 **Today's Progress**: Work on the portfolio page continues. Today I worked on the contact page and messed around with two sites that allow you to send e-mail without any server side code. There are issues with this approach because of CodePen. I may dive into this a bit more at some point in the future. Also added glyphicons to the "view" and "submit" buttons. Tomorrow I'll work on the footer. 
 
