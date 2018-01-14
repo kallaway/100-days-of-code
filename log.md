@@ -36,6 +36,14 @@
 
 **Thoughts:** I found a pattern that I find a workshop which is to create a small working program much more fun than writing codes for learning a concept itself. I should start building a small program after 10 days.
 **Link to work** [Content Management System](https://github.com/Heathercoraje/workshop-cms)
+
+### Day 5: January 14, 2018
+**Today's Progress:** Learning about modularization and refactoring. I refactored a small CMS app workshop which I did yesterday. Server is by default at root level and backend logic is in index or app.js inside src file.  
+
+**Thoughts:** I took an easy day today. After days of frustration in row, I had difficulty being focused on learning. Though think about this whole process as a module. You are building a small building block to create a big program every single day.
+
+**Link to work** [modules-challenge](https://github.com/Heathercoraje/modules-challenge)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
