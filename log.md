@@ -431,3 +431,11 @@
 **Thoughts:** I've to nail down all such trickier concepts
 
 **Link to work:** [JavaScript Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+
+### Day 55: January 15, 2018
+
+**Today's Progress**: More on JavaScript unit testing
+
+**Thoughts:** I just dive deeper into Mocha and Chai
+
+**Link to work:** [JavaScript Unit Testing](https://www.sitepoint.com/unit-test-javascript-mocha-chai/)
