@@ -129,3 +129,15 @@
 **Link(s) to CodePin projects**
 1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 14: January 14, 2018, Sunday
+
+**Today's Progress**: The overall portfolio page is complete. Tomorrow I'll wrap it up with a little bit of fit and finish work. I'd like to make it so that each section fills an entire page height.
+
+
+**Thoughts**: Today felt just... meh. I wasn't motivated at all so I feel like I wasn't too productive. I'll have to think about ways to stay focused for the future. Today is also one of those days where I feel like I'm not learning anything; I feel like I'm just copy and pasting. That's something I'll continue to do better at as well. 
+
+**Link(s) to CodePin projects**
+1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
