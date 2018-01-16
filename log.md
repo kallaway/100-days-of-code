@@ -120,6 +120,22 @@
 
 **Link to work:** N/A
 
+### Day 16: January 14, 2018
+
+**Today's Progress**: Spent the day studying object oriented programming (OOP).  Watched a 2 hour video series on OOP for JavaScript, which was very detailed and technical.  First hour I rode my bike while watching, which helped me get some exercise.  I spent several hours studying this stuff, and it seems to be coming to me slowly.  But I still don't understand the syntax yet.
+
+**Thoughts:** It's less frustrating as I start to understand how complex and new this way of thinking is.  I get the complexity of writing code this way, and that the advantages and pitfalls of coding this way are very different from the procedural coding I'm used to.  I realize I need to take this slowly, work through it, and use it for all the freeCodeCamp exercises moving forward.  I may have to do some training on the side to understand the advantages and pitfalls of specicific approaches as I go.  I can't rely on my past experience because it's procedural in nature.
+
+**Link to work:** N/A
+
+### Day 17: January 15, 2018
+
+**Today's Progress**: I happened across an open browser tab that had the answer to my original question on OOP syntax.  I didn't understand OOP when I first did the search, so I didn't recognize the answer when I saw it.  Having spent most of the last couple of days studying, and coming fresh after a good night's sleep today, it made sense.  I'm still writing my notes but will apply this answer to my exercises and see if I can start moving forward on the FreeCodeCamp Exercises.
+
+**Thoughts:** I'm excited by the possibilities but still a bit overwhelmed trying to make progress.  I can see the potential of OOP for JavaScript for what I'm trying to do, and I'm definitely out of my comfort zone.  But I can tell I'm learning, meaning that the potential I see is valid, and eventually I'll master it.  As frustrating as it is to be taking so much time to learn, I'm making progress and I feel good about my ability to ask myself good questions and direct my inquiry to get to good answers.  Instead of simply trying to find the correct syntax to complete an exercise, I'm taking the time to understand the context and committing to using it going forward.
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
