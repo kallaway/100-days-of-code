@@ -439,3 +439,11 @@
 **Thoughts:** I just dive deeper into Mocha and Chai
 
 **Link to work:** [JavaScript Unit Testing](https://www.sitepoint.com/unit-test-javascript-mocha-chai/)
+
+### Day 56: January 16, 2018
+
+**Today's Progress**: JS algorithm scripting at #flatironschool
+
+**Thoughts:** Just skills honing
+
+**Link to work:** [Learn Bootcamp Prep](https://learn.co/tracks/bootcamp-prep/)
