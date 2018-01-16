@@ -44,6 +44,16 @@
 
 **Link to work** [modules-challenge](https://github.com/Heathercoraje/modules-challenge)
 
+Day6: January15, 2018
+Progress: understanding client-server and fs modules. Also trying return object with methods to reuse.
+Thoughts: I was overwhelmed and frustrated by Eloquent JS but sometimes, let's just take one step back to go further. #100DaysOfCode
+
+### Day 6: January 14, 2018
+**Today's Progress:** understanding client-server and fs modules. Also trying return object with methods to reuse. Worked on refactoring for hours but it has not finished.
+
+**Thoughts:** I was overwhelmed and frustrated by Eloquent JS. I am leaving the book after chap7 then come back later. Coding is more fun late at night.
+
+**Link to work** [modules-challenge](https://github.com/Heathercoraje/modules-challenge)
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
