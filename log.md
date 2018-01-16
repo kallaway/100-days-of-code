@@ -77,10 +77,48 @@ Template for logs
 
 **Thoughts**: I reworked on my resume project and made changes to it; following feedback from the slack channel of 100DaysOfCode.
 
-## Day 7: 10 January, 2018
+## Day 8: 10 January, 2018
 
 **Today's Progress**: Completed 1 chapter from ASmarterWayToLearnJavaScript and continued working on the udacity course - HTML and CSS Syntax
 
 **Thoughts**: I finished the website project and replaced with the resume project.
 
 **Link(s) to work**: [sakarsh.com](https://sakarsh.com)
+
+## Day 9: 11 January, 2018
+
+**Today's Progress**: I started the android application carrom board score keeper.
+
+**Thoughts**: The design of UI for the application is completed. I started coding. But, it was too slow. Due to my law of android practise.
+
+**Link(s) to work**: [CarromBoardScoreKeeper](https://github.com/akarsh/CarromBoardScoreKeeper)
+
+## Day 10: 12 January, 2018
+
+**Today's Progress**: I completed the udacity course - HTML and CSS Syntax
+
+**Thoughts**: I practised the HTML and CSS syntaxes. I discovered the CSS tricks website and Mozilla Developer Network reference website for CSS.
+
+## Day 11: 13 January, 2018
+
+**Today's Progress**: Started new udacity course - Responsive Images
+
+**Thoughts**: I completed few lessons from the udacity course - Responsive Images. I worked further on the Android App. for Dummies book.
+
+## Day 12: 14 January, 2018
+
+**Today's Progress**: Started new udacity course - Responsive Web Design Fundamentals
+
+**Thoughts**: I completed few parts from the second lesson. I completed 1 chapter from the JS book.
+
+## Day 13: 15 January, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book and completed pending chapter from Android App. Dev. book.
+
+**Thoughts**: Understanding the features of Android Studio has been helpful. Especially, the tab completion and alt+enter shortcuts.
+
+## Day 14: 16 January, 2018
+
+**Today's Progress**: I completed 1 chapter JS book and completed 1 chapter from book 2 of Android App. Dev. book.
+
+**Thoughts**: I learned about the usage of refactoring patterns in android. Apart from the several refactoring patterns; two refactoring patterns were covered i.e. rename, extract mehtod by generating code.
