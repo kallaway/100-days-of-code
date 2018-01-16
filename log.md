@@ -141,3 +141,14 @@
 1. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 2. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
+### Day 15: January 15, 2018, Monday
+
+**Today's Progress**: I decided to call the portfolio page complete. I hope to revisit the page later and to do some refactoring and polishing up, but for now it meets the requirements of the challenge. Now I'm back on the code camp challenges; today was basic Javascript. 
+
+
+**Thoughts**: Feeling very tired today and a bit rundown. The kids are battling sickness and I think I might be the next victim. I'm gonna try to get a good nights rest tonight and hopefully I'll feel better in the morning. Onward!
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
