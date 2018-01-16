@@ -168,3 +168,6 @@ Deeper look at JavaScript closures!
 
 ### R1D55
 More on JavaScript unit testing
+
+### R1D56
+JS algorithm scripting at #flatironschool
