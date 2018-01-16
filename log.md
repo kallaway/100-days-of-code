@@ -58,8 +58,6 @@ Thoughts: I was overwhelmed and frustrated by Eloquent JS but sometimes, let's j
 ### Day 7: January 16, 2018
 **Today's Progress:** A program practicing api client-server/node.js basics. Finished refactoring by adding routes/handlers. 
 **Thoughts:** Because of fail on Ubuntu, work pace has been interrupted. 100Daysofcode is definitely helps me stay motivated.
-
-
-**Link to work** [modules-challenge](https://github.com/Heathercoraje/modules-challenge)
+**Link to work** [Route-challenge](https://github.com/Heathercoraje/router-challenge-)
 
 
