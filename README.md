@@ -2,12 +2,14 @@
 This is a fork from [https://github.com/Kallaway/100-days-of-code](https://github.com/Kallaway/100-days-of-code)
 
 My current aim/scope for this challenge is to:
+- Write Python3 all the way
 - Build a FB messenger bot which automates things for me
 - Complete atleast 20 challenges from [pybit.es](https://pybit.es/pages/challenges.html)
 - Build a song discovery service for me using Youtube and Spotify history
 - Assignments of ML courses on Coursera
 - Some Data Science/Engineering projects
 - Write an automation to post to twitter and gitter room with my 100DaysofCode updates
+- Write some devops/infrastructure scripts for hosting above projects
 
 
 ## Contents
