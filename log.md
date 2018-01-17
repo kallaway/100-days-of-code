@@ -444,6 +444,14 @@
 
 **Today's Progress**: JS algorithm scripting at #flatironschool
 
-**Thoughts:** Just skills honing
+**Thoughts:** Just skills honing 
+
+**Link to work:** [Learn Bootcamp Prep](https://learn.co/tracks/bootcamp-prep/)
+
+### Day 57: January 17, 2018
+
+**Today's Progress**: Completed #BackToCode challenge
+
+**Thoughts:** Another coding challenge at flatironschool
 
 **Link to work:** [Learn Bootcamp Prep](https://learn.co/tracks/bootcamp-prep/)
