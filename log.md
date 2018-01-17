@@ -152,3 +152,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 16: January 16, 2018, Tuesday
+
+**Today's Progress**: Today I focused on the basic javscript challenges at free code camp. 
+
+
+**Thoughts**: These basic js challenges are way more difficult for me than the previous ones around HTML and CSS. Still feeling a little bit icky today, but the code must go on! Tomorrow is another day to get after it.
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
