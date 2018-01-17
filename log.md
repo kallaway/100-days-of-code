@@ -61,3 +61,9 @@ Thoughts: I was overwhelmed and frustrated by Eloquent JS but sometimes, let's j
 **Link to work** [Route-challenge](https://github.com/Heathercoraje/router-challenge-)
 
 
+### Day 8: January 17, 2018
+**Today's Progress:** Building a basic random quote machine. Learning properties of Date, setInterval and basic DOM. Tweet text from my own code :) "Short cuts make long delays.”   J.R.R. Tolkien, The Fellowship of the Ring. Getting used to write css and html. 
+**Thoughts:** Though it was small, building something kept me motivated throughout the day. I've realized the importance of reading text line by line when googling.
+**Link to work** [random quote machine](https://github.com/Heathercoraje/random-quote-bg)
+
+
