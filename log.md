@@ -164,3 +164,16 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 17: January 17, 2018, Wednesday
+
+**Today's Progress**: Today I continued to focus on the basic javscript challenges at free code camp. I plan to carry on with the challenges tomorrow. 
+
+
+**Thoughts**: The javascript challenges today were a bit more fun that yesterday. Learning a bit about functions and manipulating arrays with things like push() and shift() has been my favorite part thus far. Completely random thought... tomorrow I'm going to take a sort of scrum approach on the days progress. What I mean is, I'll state what I worked on that day and what I plan to work on the next day. I'll use the thoughts section to maybe outline any impediments or blockers to my progress. This way the log will lean out and be a litte more readable, I think.
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
