@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Jan 16, 2018
+### Day 0: Jan 18, 2018
 
 **Today's Progress**:
 
@@ -11,5 +11,5 @@
 
 **Link to work:**
 
-- [API endpoint:=> /brain/api/v1.0/logs/is_updated_today] (https://6kvjel14vk.execute-api.us-east-1.amazonaws.com/dev/brain/api/v1.0/logs/is_updated_today)
+- [API endpoint:=> /brain/api/v1.0/logs/is_updated_today](https://6kvjel14vk.execute-api.us-east-1.amazonaws.com/dev/brain/api/v1.0/logs/is_updated_today)
 
