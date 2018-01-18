@@ -174,3 +174,6 @@ JS algorithm scripting at #flatironschool
 
 ### R1D57
 Completed #BackToCode challenge
+
+### R1D58
+Working with an Atlas Sandbox Cluster.
