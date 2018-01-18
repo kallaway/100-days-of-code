@@ -30,3 +30,4 @@ build
 
 *.ini
 .idea*
+*zappa_settings.json
