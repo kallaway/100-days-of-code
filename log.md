@@ -136,6 +136,22 @@
 
 **Link to work:** N/A
 
+### Day 18: January 16, 2018
+
+**Today's Progress**: I did some thinking about my project but I didn't code.  Got busy with other things.  I think I was also a little mentally exhausted because of all the hours I've spent recently learning about OOP concepts.  I just needed a break, and to focus on some other priorities.
+
+**Thoughts:** Coding seems daunting today.  I'm still very motivated to continue, but realizing how much I have to learn in order to feel good about moving forward just feels like a lot.  I also recognize that I have to reset my priorities and expectations in order to do this right.  I can try to "brute force" my way through the freeCodeCamp lessons and coding exercises, trying to rely on my procedural coding skills, but I know that approach will ultimately fail.  I need the mental energy to take on this new learning experience, and I don't have it today.
+
+**Link to work:** N/A
+
+### Day 19: January 17, 2018
+
+**Today's Progress**: I decided to go back through all the freeCodeCamp exercises that I've completed, and study the "get a hint" solutions in detail for the exercises I've already completed.  The first exercise I looked at, I had the same solution but the "get a hint" code was more optimal.  I learned a good lesson there, and it was quick.  The second exercise was written as a recursive function instead of a loop.  I spent a lot of time researching this approach, and I really need to spend enough time that I can make good use of it.  It may take a long time to get through these exercises.
+
+**Thoughts:** I feel great about the learning I'm doing.  I really feel like it's useful, and it's stuff that I'm good at and passionate about.  But I worry that I'll get bogged down, and that I won't be able to produce anything useful for years.  I have so many other commitments that I can't focus on this full time.  I need to stay focused on the good feeling of learning and growing, and set shorter term goals, and let the long term work itself out.  
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
