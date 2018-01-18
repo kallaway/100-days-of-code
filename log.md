@@ -63,7 +63,16 @@ Thoughts: I was overwhelmed and frustrated by Eloquent JS but sometimes, let's j
 
 ### Day 8: January 17, 2018
 **Today's Progress:** Building a basic random quote machine. Learning properties of Date, setInterval and basic DOM. Tweet text from my own code :) "Short cuts make long delays.”   J.R.R. Tolkien, The Fellowship of the Ring. Getting used to write css and html. 
+
 **Thoughts:** Though it was small, building something kept me motivated throughout the day. I've realized the importance of reading text line by line when googling.
+
+**Link to work** [random quote machine](https://github.com/Heathercoraje/random-quote-bg)
+
+### Day 9: January 18, 2018
+**Today's Progress:** Fixed critial bugs in Random quote bg project related to recursive function/setInterval/clearInterval and also Immediate Invoking Function Expression (IIFE). Read YDKJS first book: Up and Going. Learned on Surge a free and simple deployment for frontend projects. Objects are cool.
+
+**Thoughts:** I didn't get to do much today but fixing bugs was very interesting and also I feel like I understand a lot more while reading YDKJS compared to 6 months ago.
+
 **Link to work** [random quote machine](https://github.com/Heathercoraje/random-quote-bg)
 
 
