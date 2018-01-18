@@ -455,3 +455,11 @@
 **Thoughts:** Another coding challenge at flatironschool
 
 **Link to work:** [Learn Bootcamp Prep](https://learn.co/tracks/bootcamp-prep/)
+
+### Day 58: January 18, 2018
+
+**Today's Progress**: Working with an Atlas Sandbox Cluster.
+
+**Thoughts:** Its MongoDB.. I've started realising how scalable it is
+
+**Link to work:** [MongoDB University](https://university.mongodb.com/)
