@@ -57,9 +57,10 @@ Thoughts: I was overwhelmed and frustrated by Eloquent JS but sometimes, let's j
 
 ### Day 7: January 16, 2018
 **Today's Progress:** A program practicing api client-server/node.js basics. Finished refactoring by adding routes/handlers. 
-**Thoughts:** Because of fail on Ubuntu, work pace has been interrupted. 100Daysofcode is definitely helps me stay motivated.
-**Link to work** [Route-challenge](https://github.com/Heathercoraje/router-challenge-)
 
+**Thoughts:** Because of fail on Ubuntu, work pace has been interrupted. 100Daysofcode is definitely helps me stay motivated.
+
+**Link to work** [Route-challenge](https://github.com/Heathercoraje/router-challenge-)
 
 ### Day 8: January 17, 2018
 **Today's Progress:** Building a basic random quote machine. Learning properties of Date, setInterval and basic DOM. Tweet text from my own code :) "Short cuts make long delays.”   J.R.R. Tolkien, The Fellowship of the Ring. Getting used to write css and html. 
