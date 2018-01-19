@@ -177,3 +177,14 @@
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
+### Day 18: January 18, 2018, Thursday
+
+**Today's Progress**: Another day with the basic javascript challenges at free code camp. The challenges covered things like logical operators, conditionals (i.e. if, if/else, switch, etc.), and objects. There are slightly more than a dozen javascript challenges ahead of me, so I aim to finish those tomorrow. 
+
+
+**Thoughts**: The progress I made today has been encouraging. Up to this point I've managed to complete two projects and 200 challenges. While the challenges have been difficult at times, I haven't had the feeling of complete hopelessness yet. lol 
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
