@@ -177,3 +177,6 @@ Completed #BackToCode challenge
 
 ### R1D58
 Working with an Atlas Sandbox Cluster.
+
+### R1D59
+Deeper look at JavaScript Regular Expressions.
