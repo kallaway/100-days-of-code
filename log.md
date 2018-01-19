@@ -76,4 +76,12 @@ Thoughts: I was overwhelmed and frustrated by Eloquent JS but sometimes, let's j
 
 **Link to work** [random quote machine](https://github.com/Heathercoraje/random-quote-bg)
 
+### Day 10: January 19, 2018
+**Today's Progress:** Working on second intermeidate project on fcc. Learning Fetch and Promises to replace xhrhttprequest with GIPHY and MAP API. Liking promises far more than callback hell. 
+
+**Thoughts:** Quality sleep matters for programmers xP. Also I felt relieved that I have my fingers intact to code to calm myself down(?) or distract myself when storm happens inside my heart. 
+
+**Link to work** [Weather matters](https://github.com/Heathercoraje/weather-matters )
+
+
 
