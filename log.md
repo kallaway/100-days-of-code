@@ -25,6 +25,4 @@
 
 **Link to work:**
 
-![Stackbot][img]
-
-[img]: https://imgur.com/a/U9oXz
+![Stackbot](https://imgur.com/a/U9oXz)
