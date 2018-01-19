@@ -463,3 +463,11 @@
 **Thoughts:** Its MongoDB.. I've started realising how scalable it is
 
 **Link to work:** [MongoDB University](https://university.mongodb.com/)
+
+### Day 59: January 19, 2018
+
+**Today's Progress**: Deeper look at JavaScript Regular Expressions.
+
+**Thoughts:** I need to write clean code and simplify things man.. Matching is just so good!
+
+**Link to work:** [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
