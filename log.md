@@ -13,3 +13,18 @@
 
 - [API endpoint:=> /brain/api/v1.0/logs/is_updated_today](https://6kvjel14vk.execute-api.us-east-1.amazonaws.com/dev/brain/api/v1.0/logs/is_updated_today)
 
+
+### Day 2: Jan 19, 2018
+
+**Today's Progress**:
+
+- Created webhook for messenger bot to talk to
+- Connected messenger bot, need to setup get started mechanism for fb messenger api
+
+**Thoughts:** Need to spend more time reading fb messenger api. Should not be that hard. Github example repo was super helpful to quickly get things up and running. Will need to refactor brain.py soon.
+
+**Link to work:**
+
+![Stackbot][img]
+
+[img]: https://imgur.com/a/U9oXz
