@@ -152,6 +152,14 @@
 
 **Link to work:** N/A
 
+### Day 20: January 18, 2018
+
+**Today's Progress**: Spent some time watching a video course on Immutability.  Very cool, opened my eyes to approaches that are way past my procedural code background.  Also went through a couple of the freeCodeCamp exercises that I'd completed procecdurally and tried to them functionally.  I got a few bits right, mostly wrong, but I learned some things by trying before I looked at the answers.
+
+**Thoughts:** The question is how to proceed from here.  I really love the concepts I'm learning, but how best to retain and appluy them?  Do a bunch of short programs and hope I use them?  Take good notes and develop a style guide?  Pseudocode a project big enough to take into account all of the concepts and code, then refactor over time as I learn more?  I was really impressed with MineSweeper, maybe I should design a game to test my skills.  Or a game that simulates my deal model.  I really need to figure out how to capture this stuff.  I also feel like work is getting in the way of this stuff, but at the same time, I don't want to take time off and spend 8 hours a day on this stuff.  I need to learn in smaller bites and process the knowledge.
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
