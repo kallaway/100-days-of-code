@@ -2,9 +2,9 @@
     "dev": {
         "app_function": "brain.app",
         "aws_region": "us-east-1",
-        "profile_name": "default",
+        "profile_name": "personal",
         "project_name": "brain",
         "runtime": "python3.6",
-        "s3_bucket": "zappa-7r0xy2qi9"
+        "s3_bucket": "100daysofcode-brain"
     }
 }
