@@ -160,6 +160,16 @@
 
 **Link to work:** N/A
 
+### Day 21: January 19, 2018
+
+**Today's Progress**: Wrote my first exercise using functional programming!  I've been going back through my procedural programs and trying to convert them to functional programs.  I've partially succeeded, but always ended up looking at the "get a hint" answer in freeCodeCamp to get to the working answer.  I've done several and it's helping me learn, but it feels really good to get one without looking at the hint.
+
+**Thoughts:** I'm spending a lot of time on just learning rather than pure coding, but I'm seeing the promise of OOP and functional programming.  It's exactly what I need for what I'm trying to accomplish.  So I'm going to spend the time. My hope is to refactor all of my freeCodeCamp procedural code, and finish the algorithm programming section, in the next few days.  I also hope to capture some of the rules of creating functional programs so that I can take a standard approach to coding these things until I internalize the structure and can think in functional programming terms the way I think in procedural code terms.
+
+**Link to work:** N/A
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
