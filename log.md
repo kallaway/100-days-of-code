@@ -19,7 +19,7 @@
 **Today's Progress**:
 
 - Created webhook for messenger bot to talk to
-- Connected messenger bot, need to setup get started mechanism for fb messenger api
+- Connected messenger bot to api, simple bot set-up
 
 **Thoughts:** Need to spend more time reading fb messenger api. Should not be that hard. Github example repo was super helpful to quickly get things up and running. Will need to refactor brain.py soon.
 
