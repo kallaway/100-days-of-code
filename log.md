@@ -83,5 +83,11 @@ Thoughts: I was overwhelmed and frustrated by Eloquent JS but sometimes, let's j
 
 **Link to work** [Weather matters](https://github.com/Heathercoraje/weather-matters )
 
+### Day 11: January 20, 2018
+**Today's Progress:** It took me awhile to understand .then returns another promise and if promise is pending, it isn't that data streaming has completed. It took another while to click how to have access to variables inside functions. 
+
+**Thoughts:** It is taking quite a long time to finish this project. It could be also because I am not being able to focus for a couple of days. Tomorrow is another day.
+
+**Link to work** [Weather matters](https://github.com/Heathercoraje/weather-matters )
 
 
