@@ -188,3 +188,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 19: January 19, 2018, Friday
+
+**Today's Progress**: Today I put in quadruple the amount of time that I should have and still didn't complete the basic javascript challenges. There are approximately 8 more to go, so _hopefully_ I'll get it wrapped up tomorrow.
+
+
+**Thoughts**: Extremely long day both coding and at work. I joined codewars and completed a javascript challenge. Going through free code camp helped to prepare me; even though it was difficult, I wasn't completely lost. 
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
