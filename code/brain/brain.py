@@ -59,7 +59,8 @@ def get_logs(today_str):
   return jsonify({'result': is_progress_updated(today_str),
                   'today': today_str})
 
-def send_no_progress_update_notification(recipient_id=1559656084121864):
+def send_no_progress_update_notification():
+  my_recipient_id = 1559656084121864
   try:
     today = datetime.now(timezone(_TIMEZONE)).date()
     today_str = today.strftime('%b %d, %Y')
@@ -69,11 +70,11 @@ def send_no_progress_update_notification(recipient_id=1559656084121864):
     hrs_til_eod = time_until_eod.seconds//3600
     logging.info('Datetime problem {}'.format(today, tomorrow, time_until_eod))
     if not is_progress_updated(today_str):
-      page.send(recipient_id, "No progress update for #100DaysOfCode Challenge yet! 😰~{time_left} hrs left".format(
+      page.send(my_recipient_id, "No progress update for #100DaysOfCode Challenge yet! 😰~{time_left} hrs left".format(
           time_left=hrs_til_eod
       ))
       if hrs_til_eod < 2:
-        page.send(recipient_id, "Hurry Up")
+        page.send(my_recipient_id, "Hurry Up")
     return "ok"
   except Exception as e:
     logging.exception('Couldnt send message')
