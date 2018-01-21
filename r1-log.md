@@ -183,3 +183,6 @@ Deeper look at JavaScript Regular Expressions.
 
 ### R1D60
 JavaScript Promises..
+
+### R1D61
+Inheritance in JS with the prototype chain.
