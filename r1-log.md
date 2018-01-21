@@ -180,3 +180,6 @@ Working with an Atlas Sandbox Cluster.
 
 ### R1D59
 Deeper look at JavaScript Regular Expressions.
+
+### R1D60
+JavaScript Promises..
