@@ -64,7 +64,7 @@ def send_no_progress_update_notification(recipient_id=1559656084121864):
     today = datetime.now(timezone(_TIMEZONE)).date()
     today_str = today.strftime('%b %d, %Y')
     tomorrow = today + timedelta(days=1)
-    time_until_eod = (datetime.combine(tomorrow, datetime.min.time())\
+    time_until_eod = (datetime.combine(tomorrow, datetime.min.time()).replace(tzinfo=timezone(_TIMEZONE)) \
                       - datetime.now(timezone(_TIMEZONE)))
     hrs_til_eod = time_until_eod.seconds//3600
     logging.info('Datetime problem {}'.format(today, tomorrow, time_until_eod))
@@ -74,10 +74,10 @@ def send_no_progress_update_notification(recipient_id=1559656084121864):
       ))
       if hrs_til_eod < 2:
         page.send(recipient_id, "Hurry Up")
-    return jsonify({'result': True})
+    return "ok"
   except Exception as e:
     logging.exception('Couldnt send message')
-  return "ok"
+    return "not ok"
 
 if __name__ == '__main__':
   app.run(debug=True, threaded=True)
