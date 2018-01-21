@@ -1,6 +1,8 @@
 from config import config
 from fbmq import Page
 import logging
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
 
 page = Page(config['FACEBOOK']['PAGE_TOKEN'])
 page.greeting("Welcome!")
