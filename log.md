@@ -200,3 +200,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 20: January 20, 2018, Saturday
+
+**Today's Progress**: Today, once again, I put in way more time than I should have, but I just could not let go of the profile lookup challenge. Hoping that I'll get back on track with time-boxing these coding sessions. 
+
+
+**Thoughts**: The entire session was spent thrashing around on the profile lookup challenge, but I finally got it. Only needed some small hints, but I was on the right track which feels pretty awesome. The challenges are difficult for me now, but I'm trying to remain tenacious and not give up.
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
