@@ -479,3 +479,11 @@
 **Thoughts:** An Alien concept to me.. Knows a bit of callbacks before
 
 **Link to work:** [JavaScript Promises](http://javascript.info/promise-basics)
+
+### Day 61: January 21, 2018
+
+**Today's Progress**: Inheritance in JS with the prototype chain.
+
+**Thoughts:** An ancient programming methodology and a core concept
+
+**Link to work:** [Inheritance](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
