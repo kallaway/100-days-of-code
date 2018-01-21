@@ -91,8 +91,8 @@ Thoughts: I was overwhelmed and frustrated by Eloquent JS but sometimes, let's j
 **Link to work** [Weather matters](https://github.com/Heathercoraje/weather-matters )
 
 ### Day 12: January 21, 2018
-**Today's Progress:** Reading until chapter3 of YDKJS 2nd book:Scope and Closure. Using upspanish turns out that it requires transpiler because unsplash-js library is in ES6. I read on polyfill and transpiler. I am going to watch video on webpack and babel to integrate unsplash-js into project
+**Today's Progress:** Reading until chapter3 of YDKJS 2nd book:Scope and Closure. Overshadowing/hoisting sounded familiar but still fuzzy. Using unsplash turns out that it requires transpiler because entire unsplash-js library is in ES6. I read on polyfill and transpiler. I am finally done with 2nd project of intermidiate FE projects on FreeCodeCamp(weather app). Learnt fetch, promises, webpack, babel and also little more improvement on reading api docs.
 
-**Thoughts:** I really don't feel like coding today. but then what have I ever achieve by doing things only when I feel like doing it? I am finishing the project tonight.
+**Thoughts:** I really don't feel like coding today. but then what have I ever achieved by doing things only when I feel like doing? Personally I was not a fan of weather app. I am rather more excited for the next project on wiki search.
 
-**Link to work** [Weather matters](https://github.com/Heathercoraje/weather-matters )
+**Link to work** [Weather matters](https://weather-matters.surge.sh/) (It has been deployed on surge)
