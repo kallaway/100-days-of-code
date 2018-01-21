@@ -56,14 +56,14 @@ Thoughts: I was overwhelmed and frustrated by Eloquent JS but sometimes, let's j
 **Link to work** [modules-challenge](https://github.com/Heathercoraje/modules-challenge)
 
 ### Day 7: January 16, 2018
-**Today's Progress:** A program practicing api client-server/node.js basics. Finished refactoring by adding routes/handlers. 
+**Today's Progress:** A program practicing api client-server/node.js basics. Finished refactoring by adding routes/handlers.
 
 **Thoughts:** Because of fail on Ubuntu, work pace has been interrupted. 100Daysofcode is definitely helps me stay motivated.
 
 **Link to work** [Route-challenge](https://github.com/Heathercoraje/router-challenge-)
 
 ### Day 8: January 17, 2018
-**Today's Progress:** Building a basic random quote machine. Learning properties of Date, setInterval and basic DOM. Tweet text from my own code :) "Short cuts make long delays.”   J.R.R. Tolkien, The Fellowship of the Ring. Getting used to write css and html. 
+**Today's Progress:** Building a basic random quote machine. Learning properties of Date, setInterval and basic DOM. Tweet text from my own code :) "Short cuts make long delays.”   J.R.R. Tolkien, The Fellowship of the Ring. Getting used to write css and html.
 
 **Thoughts:** Though it was small, building something kept me motivated throughout the day. I've realized the importance of reading text line by line when googling.
 
@@ -77,17 +77,22 @@ Thoughts: I was overwhelmed and frustrated by Eloquent JS but sometimes, let's j
 **Link to work** [random quote machine](https://github.com/Heathercoraje/random-quote-bg)
 
 ### Day 10: January 19, 2018
-**Today's Progress:** Working on second intermeidate project on fcc. Learning Fetch and Promises to replace xhrhttprequest with GIPHY and MAP API. Liking promises far more than callback hell. 
+**Today's Progress:** Working on second intermeidate project on fcc. Learning Fetch and Promises to replace xhrhttprequest with GIPHY and MAP API. Liking promises far more than callback hell.
 
-**Thoughts:** Quality sleep matters for programmers xP. Also I felt relieved that I have my fingers intact to code to calm myself down(?) or distract myself when storm happens inside my heart. 
+**Thoughts:** Quality sleep matters for programmers xP. Also I felt relieved that I have my fingers intact to code to calm myself down(?) or distract myself when storm happens inside my heart.
 
 **Link to work** [Weather matters](https://github.com/Heathercoraje/weather-matters )
 
 ### Day 11: January 20, 2018
-**Today's Progress:** It took me awhile to understand .then returns another promise and if promise is pending, it isn't that data streaming has completed. It took another while to click how to have access to variables inside functions. 
+**Today's Progress:** It took me awhile to understand .then returns another promise and if promise is pending, it isn't that data streaming has completed. It took another while to click how to have access to variables inside functions.
 
 **Thoughts:** It is taking quite a long time to finish this project. It could be also because I am not being able to focus for a couple of days. Tomorrow is another day.
 
 **Link to work** [Weather matters](https://github.com/Heathercoraje/weather-matters )
 
+### Day 12: January 21, 2018
+**Today's Progress:** Reading until chapter3 of YDKJS 2nd book:Scope and Closure. Using upspanish turns out that it requires transpiler because unsplash-js library is in ES6. I read on polyfill and transpiler. I am going to watch video on webpack and babel to integrate unsplash-js into project
 
+**Thoughts:** I really don't feel like coding today. but then what have I ever achieve by doing things only when I feel like doing it? I am finishing the project tonight.
+
+**Link to work** [Weather matters](https://github.com/Heathercoraje/weather-matters )
