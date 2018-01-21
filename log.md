@@ -471,3 +471,11 @@
 **Thoughts:** I need to write clean code and simplify things man.. Matching is just so good!
 
 **Link to work:** [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+### Day 60: January 20, 2018
+
+**Today's Progress**: JavaScript Promises..
+
+**Thoughts:** An Alien concept to me.. Knows a bit of callbacks before
+
+**Link to work:** [JavaScript Promises](http://javascript.info/promise-basics)
