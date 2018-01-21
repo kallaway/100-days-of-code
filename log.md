@@ -168,6 +168,12 @@
 
 **Link to work:** N/A
 
+### Day 22: January Y20, 2018
+
+**Today's Progress**: Finished refactoring all of my freeCodeCamp simple algorithms and finished one that I hadn't yet solved. I'm starting to get a few of them without using the debugging console.  That's huge if I can get good at it.  The promise is that I'll be able to create error-free code quickly, which will make me very productive.
+
+**Thoughts:** I'm getting excited, realizing that one week ago yesterday I was using procedural code to solve these problems and struggling to understand object oriented functional and OOP programming.  I'm far from fluent but feeling more and more like I can learn to "speak" functional language fluently over time.  I'm excited to learn it because I seem to be getting closer every day.  The fact that I was able to do a couple of very complex lines of functional code perfectly suggests that this is something I'll be good at.
+
 **Link to work:** N/A
 
 ### Day XX: January YY, 2018
