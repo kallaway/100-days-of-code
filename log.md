@@ -26,3 +26,17 @@
 **Link to work:**
 
 ![Stackbot](images/screenshot_19_01_18.png)
+
+
+### Day 3: Jan 20, 2018
+
+**Today's Progress**:
+
+- Refactored code
+- Fixed Timezone bug
+- Added notification for no progress
+
+**Thoughts:** Need to start writing tests
+
+**Link to work:** Nothing to show yet
+

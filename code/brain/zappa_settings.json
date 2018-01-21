@@ -5,6 +5,10 @@
         "profile_name": "personal",
         "project_name": "brain",
         "runtime": "python3.6",
-        "s3_bucket": "100daysofcode-brain"
+        "s3_bucket": "100daysofcode-brain",
+        "events": [{
+          "function": "brain.send_no_progress_update_notification", // The function to execute
+          "expression": "rate(1 minute)" // When to execute it (in cron or rate format)
+        }]
     }
 }
