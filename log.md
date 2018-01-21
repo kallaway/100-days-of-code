@@ -32,11 +32,11 @@
 
 **Today's Progress**:
 
-- Refactored code
+- Refactored code, more to go
 - Fixed Timezone bug
-- Added notification for no progress
+- Added notification for no progress update
 
-**Thoughts:** Need to start writing tests
+**Thoughts:** Need to start writing tests. Weekends should be heavier than couple 100 lines of push. Push Push Push!!
 
 **Link to work:** Nothing to show yet
 
