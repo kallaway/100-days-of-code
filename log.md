@@ -40,3 +40,15 @@
 
 **Link to work:** Nothing to show yet
 
+
+### Day 4: Jan 21, 2018
+
+**Today's Progress**:
+
+- Refactored logging code, more to go
+- Bot notifies me if the weather is very cold (feels like < -10) or plesant in winter (feels like > 0)
+- New Name, New Logo
+
+**Thoughts:** Need to start writing tests. Push Push Push to write heavier pieces!!
+
+**Link to work:** ![JainBot](images/screenshot_21_01_18.png)

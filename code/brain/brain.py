@@ -88,7 +88,7 @@ def send_morning_weather_update():
   try:
     assert isinstance(temp, float)
     if temp < -10 or temp > 0:
-      page.send(_MY_RECIPIENR_ID, "It feels like {} outside".format(temp))
+      page.send(_MY_RECIPIENR_ID, "It feels like {}°C outside. Be Careful".format(temp))
       return "weather_report_sent"
     return "no_weather_report_sent"
   except:
