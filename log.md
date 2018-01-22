@@ -212,3 +212,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 21: January 21, 2018, Sunday
+
+**Today's Progress**: Today I completed the basic javascript challenges and started on the object oriented and functional programming challenges. Tomorrow I plan finish that out and begin on the next set.
+
+
+**Thoughts**: I started a bit earlier this time around and stuck to my 1-hour time-box. That may sound silly, but time boxing like that really helps me focused and I feel like I can get more done. Overall I'm still feeling pretty positive about this challenge; coding 1-hour a night almost feels natural now. 
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
