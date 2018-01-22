@@ -487,3 +487,11 @@
 **Thoughts:** An ancient programming methodology and a core concept
 
 **Link to work:** [Inheritance](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+
+### Day 62: January 22, 2018
+
+**Today's Progress**: Connecting and Working with MySQL, Node and Express
+
+**Thoughts:** Applying my old knowledge of the stack with MongoDB
+
+**Link to work:** [YouTube Tutorial](https://www.youtube.com/watch?v=hGZX_SA7lYg)
