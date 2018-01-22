@@ -6,9 +6,15 @@
         "project_name": "brain",
         "runtime": "python3.6",
         "s3_bucket": "100daysofcode-brain",
-        "events": [{
-          "function": "brain.send_no_progress_update_notification",
-          "expression": "cron(0 0-6 * * ? *)"
-        }]
+        "events": [
+            {
+                "function": "brain.send_no_progress_update_notification",
+                "expression": "cron(0 0-6 * * ? *)"
+            },
+            {
+                "function": "brain.send_morning_weather_update",
+                "expression": "cron(0 13 * * ? *)"
+            },
+        ]
     }
 }
