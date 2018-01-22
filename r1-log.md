@@ -186,3 +186,6 @@ JavaScript Promises..
 
 ### R1D61
 Inheritance in JS with the prototype chain.
+
+### R162
+Connecting and Working with MySQL, Node and Express
