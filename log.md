@@ -176,6 +176,22 @@
 
 **Link to work:** N/A
 
+### Day 23: January 21, 2018
+
+**Today's Progress**: Didn't get much coding done. I was very busy with family stuff and was a little burnt out on coding after long hours of coding over the prior few days.
+
+**Thoughts:** I needed the break and plan to get back at it tomorrow.
+
+**Link to work:** N/A
+
+### Day 24: January 22, 2018
+
+**Today's Progress**: Finiahed all of the basic algorithm scripting in freeCodeCamp!  The last few exercises were done in functional code.  Now it's on to JSON and Ajax, then building a bunch of site portfolio projects.  I never really mastered Bootstrap, so I'm guessing after this unit I'm really going to have to focus on being able to produce projects.  Not sure if that will require tools (like Git and Atom on Mac) or I can get by with CodePen.
+
+**Thoughts:** I'm far from fluent or natural at functional programming, but I do believe I'll get there with practice and the opportunity to ask some questions.  I'm still not sure how the syntax of some of these fucntions work.  I use examples to show me the syntax, and they work when I try them, but I still don't understand them.  I need to talk to the Learn to Code RDU leaders.  I'm sure they can explain it to me.  Overall, it's taken significant time to get through those exercises but I feel like I've learne a tremendous amount.
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
