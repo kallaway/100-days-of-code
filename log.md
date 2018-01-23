@@ -52,3 +52,12 @@
 **Thoughts:** Need to start writing tests. Push Push Push to write heavier pieces!!
 
 **Link to work:** ![JainBot](images/screenshot_21_01_18.png)
+
+### Day 5: Jan 22, 2018
+
+- Solved Programming assignment for [Classification Course](https://www.coursera.org/learn/ml-classification)
+- Warming up to sklearn functions and skills
+
+**Thoughts:** Making and evaluating simple baseline models is quite easy. I should practice it more often. That way I will not have to relearn the scipy api over and over again.
+
+**Link to work:** [Binder Notebook for Programming Assingment 60% complete](https://hub.mybinder.org/user/nehiljain-uw_ml-gk1gxx07/notebooks/classification/week_1.ipynb)
