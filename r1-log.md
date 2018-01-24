@@ -192,3 +192,6 @@ Connecting and Working with MySQL, Node and Express
 
 ### R1D63
 Full CRUD operation with MySQL database on Node
+
+### R1D64
+Working with Google Maps JavaScript API
