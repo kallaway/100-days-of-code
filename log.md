@@ -503,3 +503,11 @@
 **Thoughts:** I'm still using Express framework
 
 **Link to work:** [YouTube Tutorial](https://www.youtube.com/watch?v=SG3GGpQH3VU&t=60s)
+
+### Day 64: January 24, 2018
+
+**Today's Progress**: Working with Google Maps JavaScript API
+
+**Thoughts:** Just trying to access street view data
+
+**Link to work:** [Docs](https://developers.google.com/maps/documentation/javascript/)
