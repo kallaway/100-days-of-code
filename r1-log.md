@@ -189,3 +189,6 @@ Inheritance in JS with the prototype chain.
 
 ### R162
 Connecting and Working with MySQL, Node and Express
+
+### R163
+Full CRUD operation with MySQL database on Node
