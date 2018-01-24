@@ -192,6 +192,14 @@
 
 **Link to work:** N/A
 
+### Day 25: January 23, 2018
+
+**Today's Progress**: I didn't code today, but I worked on designing the model I want to build, I watched a one hour presentation using Alexa to drive Watson conversations, I took notes and gathered questions from my recent coding experiences, I attended a Meetup on a code school being launched in Durham by one of the Learn to Code RDU meetup leaders, and I got invited to the local Meetup Slack channel.  I didn't get to ask my questions so I hope I can put them on Slack
+
+**Thoughts:** The next part of freeCodeCamp is jQuery.  I've looked at it already and I hope it comes easily to me.  It's another front-end technology to learn, and I need to learn node.js and some back-end stuff.  It looks pretty short, and then it's more development projects and coding algorithms.  I'm guessing if I can complete those sections, I'll be done with freeCodeCamp.  I'll have to see, but there's a lot of work there and I want to get to learning Node, Watson, and building skills with developer tools.  I'll have to figure it out as I go.  But I'm making good progress and if I can get some good experience developing a freeCodeCamp portfolio, and then switch over to IBM Code, I should be able to transition from learning to code into building my ideas reasonably quickly.  According to the site, the intermediate algorithm scripting and development projects take about 150 hours.  So a few months of dedication to coding and learning the ropes and I should have a great working knowledge.  And I'm sure I can short-cut the process using IBM code and input from Aaron or Sean.
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
