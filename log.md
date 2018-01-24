@@ -52,3 +52,22 @@
 **Thoughts:** Need to start writing tests. Push Push Push to write heavier pieces!!
 
 **Link to work:** ![JainBot](images/screenshot_21_01_18.png)
+
+### Day 5: Jan 22, 2018
+
+- Solved Programming assignment for [Classification Course](https://www.coursera.org/learn/ml-classification)
+- Warming up to sklearn functions and skills
+
+**Thoughts:** Making and evaluating simple baseline models is quite easy. I should practice it more often. That way I will not have to relearn the scipy api over and over again.
+
+**Link to work:** [Binder Notebook for Programming Assingment 60% complete](https://hub.mybinder.org/user/nehiljain-uw_ml-gk1gxx07/notebooks/classification/week_1.ipynb)
+
+### Day 6: Jan 23, 2018
+
+- Completed Assignment 1 and Quiz
+- Started on Hypothesis Testing
+
+**Thoughts:** Working throught it
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_1.ipynb)
+
