@@ -495,3 +495,11 @@
 **Thoughts:** Applying my old knowledge of the stack with MongoDB
 
 **Link to work:** [YouTube Tutorial](https://www.youtube.com/watch?v=hGZX_SA7lYg)
+
+### Day 63: January 23, 2018
+
+**Today's Progress**: Full CRUD operation with MySQL database on Node
+
+**Thoughts:** I'm still using Express framework
+
+**Link to work:** [YouTube Tutorial](https://www.youtube.com/watch?v=SG3GGpQH3VU&t=60s)
