@@ -119,6 +119,60 @@ Template for logs
 
 ## Day 14: 16 January, 2018
 
-**Today's Progress**: I completed 1 chapter JS book and completed 1 chapter from book 2 of Android App. Dev. book.
+**Today's Progress**: I completed 1 chapter from JS book and completed 1 chapter from book 2 of Android App. Dev. book.
 
 **Thoughts**: I learned about the usage of refactoring patterns in android. Apart from the several refactoring patterns; two refactoring patterns were covered i.e. rename, extract mehtod by generating code.
+
+## Day 15: 17 January, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned about using indexOf and lastIndexOf in the JS book.
+
+## Day 16: 18 January, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book and few lessons from Basic Javascript in freeCodeCamp.
+
+**Thoughts**: I learned how the regular expressions are used in JavaScript.
+
+## Day 17: 19 January, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book.
+
+**Thoughts**: I learned about the usage of index and slicing.
+
+## Day 18: 20 January, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book and 1 lesson from udacity course - Responsive Web Design Fundamentals.
+
+**Thoughts**: I learned about the usage of replace method, grid fluid system, flexbox, and media queies.
+
+## Day 19: 21 January, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book and few sections from udacity course - Responsive Web Design Fundamentals.
+
+**Thoughts**: I learned about different layouts and their usage.
+
+## Day 20: 22 January, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book.
+
+**Thoughts**: I learned about the usage of Math functions i.e. floor(), round(), ceil().
+
+## Day 21: 23 January, 2018
+
+**Today's Progress**: I started learning about React framework from EDX course
+
+**Thoughts**: Learning about how react works in manipulating virtual dom and layer based approach of rendering is interesting.
+
+## Day 22: 24 January, 2018
+
+**Today's Progress**: I finished few sections from udacity course - Responsive Web Design Fundamentals.
+
+**Thoughts**: Understood about the offCanvas navigation i.e. burger menu.
+
+## Day 23: 25 January, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book and few from freeCodeCamp course.
+
+**Thoughts**: I learned about the random numbers generation and array methods.
