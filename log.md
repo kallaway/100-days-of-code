@@ -519,3 +519,11 @@
 **Thoughts:** About to complete my course from MongoDB University
 
 **Link to work:** [MongoDB University](https://university.mongodb.com/)
+
+### Day 66: January 26, 2018
+
+**Today's Progress**: Peep into NodeBots
+
+**Thoughts:** Looking at the possibility of controlling robots with JS
+
+**Link to work:** [Sitepoint Blogpost](https://www.sitepoint.com/an-introduction-to-nodebots/)
