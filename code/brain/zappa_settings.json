@@ -1,5 +1,7 @@
 {
     "dev": {
+        "api_key_required": true,
+        "api_key": "xd8fh1tgvi",
         "app_function": "brain.app",
         "aws_region": "us-east-1",
         "profile_name": "personal",
