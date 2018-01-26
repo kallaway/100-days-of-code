@@ -198,3 +198,6 @@ Working with Google Maps JavaScript API
 
 ### R1D65
 Deeper dive into MongoDB Query Language
+
+### R1D66
+Peep into NodeBots
