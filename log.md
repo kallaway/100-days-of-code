@@ -511,3 +511,11 @@
 **Thoughts:** Just trying to access street view data
 
 **Link to work:** [Docs](https://developers.google.com/maps/documentation/javascript/)
+
+### Day 65: January 25, 2018
+
+**Today's Progress**: Deeper dive into MongoDB Query Language
+
+**Thoughts:** About to complete my course from MongoDB University
+
+**Link to work:** [MongoDB University](https://university.mongodb.com/)
