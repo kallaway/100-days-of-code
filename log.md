@@ -200,6 +200,22 @@
 
 **Link to work:** N/A
 
+### Day 26: January 24, 2018
+
+**Today's Progress**: Didn't code at all today.  Looked at the jQuery section a couple of times but just got busy with work stuff.  Thought about my programming goals and thought through some of the projects I want to build.
+
+**Thoughts:** I'm finding I need mental breaks where I think more conceptually rather than learn new lessons or write new code.  So far it's been a healthy thing, because I come back to coding refreshed and ready to go.  There was one point early on (before my 100DaysOfCode commitment) where the lapse in coding caused me to stop for a week.  But I'm much more motivated now.
+
+**Link to work:** N/A
+
+### Day 27: January 25, 2018
+
+**Today's Progress**: I travelled and had meetings for work all day.  So no coding.  But I did talk to one of the execs that I ran into about my work doing full developer stack coding.  And I spent some time in the car thinking through my goals and how I describe what I'm trying to do.
+
+**Thoughts:** I really wanted to code today, I'm back in the mindset.  But I knew I'd be traveling for many hours, and in meetings when not in the car, so it wasn't going to happen. But I'll make some time tomorrow, and I have the weekend coming up.  Time to get through jQuery and into building my portfolio and doing intermediate coding challenges.  Then I have to decide whether to stick with freeCodeCamp through advanced portfolio and algorithms vs learning tools and coding my deal model.  It's exciting because it's still January and I can see the path to that decision point.
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
