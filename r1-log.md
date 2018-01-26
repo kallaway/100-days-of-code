@@ -195,3 +195,6 @@ Full CRUD operation with MySQL database on Node
 
 ### R1D64
 Working with Google Maps JavaScript API
+
+### R1D65
+Deeper dive into MongoDB Query Language
