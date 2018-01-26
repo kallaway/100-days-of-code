@@ -82,7 +82,7 @@
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2.ipynb)
 
 
-### Day 7: Jan 24, 2018
+### Day 8: Jan 25, 2018
 
 - Assignment 1 Week 2 complete. Implemented logistic regression and gradient ascent by hand.
 
