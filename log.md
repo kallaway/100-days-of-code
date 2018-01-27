@@ -527,3 +527,11 @@
 **Thoughts:** Looking at the possibility of controlling robots with JS
 
 **Link to work:** [Sitepoint Blogpost](https://www.sitepoint.com/an-introduction-to-nodebots/)
+
+### Day 67: January 27, 2018
+
+**Today's Progress**: Advanced SVG manipulations.
+
+**Thoughts:** Feeling graphic tonight
+
+**Link to work:** [Awesome Site](https://svgontheweb.com/)
