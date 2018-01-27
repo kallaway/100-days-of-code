@@ -36,3 +36,4 @@ build
 #Terraform stuff
 
 *hosts
+*.retry
