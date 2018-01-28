@@ -90,3 +90,13 @@
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2.ipynb)
 
+
+### Day 10: Jan 27, 2018
+
+- Devops code completed to spin a EC2 instance to provision it to run jupyterhub where I can host my ipython notebooks.
+
+**Thoughts:** This is a piece of Infra as code I want to build, for data teams in fast growing companies. There are still some tweaks left and clean up is required to ship it properly.
+
+**Link to work:**  /code/datascience-infra of this repository
+
+
