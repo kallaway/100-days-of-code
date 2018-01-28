@@ -216,6 +216,30 @@
 
 **Link to work:** N/A
 
+### Day 28: January 26, 2018
+
+**Today's Progress**: Did freeCodeCamp jQuery exercises.  They seemed very straightforward and I got through them quickly.  
+
+**Thoughts:** The concept and code make perfect sense so far.  But I'm sure, like the other things I've done, it will be tricky making it work in actual code.
+
+**Link to work:** N/A
+
+### Day 29: January 27, 2018
+
+**Today's Progress**: House full of guests today.  I did some planning on the right approach to all the portfolio projects I've teed up.  Decided to work on all of the front-end HTML, CSS, and Bootstrap first, and then work on the JavaScript and jQuery parts later.  I watched a video on Bootstrap to get supplemental training.
+
+**Thoughts:** I didn't get familiar enough with Bootstrap to have a working knowledge.  I wanted to do supplemental training with a Safari Media course, but it requires setup of Atom and configuration of the CSS and Javascript environment, as well as Bootstrap.  I'm not sure I'm advanced enough to get all that set up, and I don't want to derail my progress in pure Bootstrap, which is supported with no configuration in CodePen.
+
+**Link to work:** N/A
+
+### Day 30: January 28, 2018
+
+**Today's Progress**: Decided to do the Safari Media Bootstrap 4 course, and risk the idea that I can get it configured properly.  When I looked yesterday, it seemed somewhat straightforward.  
+
+**Thoughts:** I have been able to get the environment established and the basic code working, which the training video says gives me a template for all future Bootstrap projects.  That will be useful down the road, when I build standalone front end components.  I had to do some configuring to get things working properly (fist pump when I solved the problems) but my code is working along with the training code so far.  And I think I'm done with configuring, and now it's all about coding up the sample site.  So maybe I'm in decent shape.  If so, that's a major victory.  I still need to 1) move Atom out of the downloads folder and into the applications folder, 2) save the template code, and 3) identify the non-template code that will run in CodePen so that I can move code between CodePen and the Atom environment.  I also need to learn the Bootstrap Lint (code examiner), but I'm guessing I won't do that yet because it seems complex to implement and run, and it doesn't help with CodePen as far as I can tell.  Maybe get some help with using it at some point in the future.  IF I have trouble with Bootstrap, I may use it to help get guidance on my code.  I hope my code will be simple enough that it won't matter for the time being.
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
