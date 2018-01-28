@@ -31,3 +31,9 @@ build
 *.ini
 .idea*
 *zappa_settings.json
+
+
+#Terraform stuff
+
+*hosts
+*.retry
