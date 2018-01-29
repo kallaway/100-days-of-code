@@ -107,5 +107,5 @@
 
 **Thoughts:** Sunday was a good day for consuming lectures and spending time understand the concepts. Happy with my progress on it. Assignment and L2 next.
 
-**Link to work:** ![Quiz](images/quiz2.png) ![Derivation Result](images/loglikelihood_proof.jpeg)
+**Link to work:** ![Quiz](images/quiz2.png| width=250) ![Derivation Result](images/loglikelihood_proof.jpeg| width=250)
 
