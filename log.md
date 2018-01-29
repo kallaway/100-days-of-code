@@ -100,3 +100,12 @@
 **Link to work:**  /code/datascience-infra of this repository
 
 
+### Day 11: Jan 28, 2018
+
+- Completed Quiz 2 and Derived derivative of log likelihood for gradient ascent.
+- Worked through lectures till overfitting, L@ regularisation left
+
+**Thoughts:** Sunday was a good day for consuming lectures and spending time understand the concepts. Happy with my progress on it. Assignment and L2 next.
+
+**Link to work:** ![Quiz](images/quiz2.png) ![Derivation Result](images/loglikelihood_proof.jpeg)
+
