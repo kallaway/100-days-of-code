@@ -1,30 +1,102 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Jan 18, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- Started setting up the lambda server for brain of my bot.
+- Created an endpoint to return true or false if progress log.md (this file) was updated with today's progress.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Setup Python3 env, Zappa and basic Flask App. Feels like it took 1.5 hrs to just setup and play with simple github API, need to improve my speed. Refactored logic and simplified requirements in second pass
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:**
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+- [API endpoint:=> /brain/api/v1.0/logs/is_updated_today](https://6kvjel14vk.execute-api.us-east-1.amazonaws.com/dev/brain/api/v1.0/logs/is_updated_today)
 
 
-### Day 1: June 27, Monday
+### Day 2: Jan 19, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+- Created webhook for messenger bot to talk to
+- Connected messenger bot to api, simple bot set-up
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** Need to spend more time reading fb messenger api. Should not be that hard. Github example repo was super helpful to quickly get things up and running. Will need to refactor brain.py soon.
+
+**Link to work:**
+
+![Stackbot](images/screenshot_19_01_18.png)
+
+
+### Day 3: Jan 20, 2018
+
+**Today's Progress**:
+
+- Refactored code, more to go
+- Fixed Timezone bug
+- Added notification for no progress update
+
+**Thoughts:** Need to start writing tests. Weekends should be heavier than couple 100 lines of push. Push Push Push!!
+
+**Link to work:** Nothing to show yet
+
+
+### Day 4: Jan 21, 2018
+
+**Today's Progress**:
+
+- Refactored logging code, more to go
+- Bot notifies me if the weather is very cold (feels like < -10) or plesant in winter (feels like > 0)
+- New Name, New Logo
+
+**Thoughts:** Need to start writing tests. Push Push Push to write heavier pieces!!
+
+**Link to work:** ![JainBot](images/screenshot_21_01_18.png)
+
+### Day 5: Jan 22, 2018
+
+- Solved Programming assignment for [Classification Course](https://www.coursera.org/learn/ml-classification)
+- Warming up to sklearn functions and skills
+
+**Thoughts:** Making and evaluating simple baseline models is quite easy. I should practice it more often. That way I will not have to relearn the scipy api over and over again.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_1.ipynb)
+
+### Day 6: Jan 23, 2018
+
+- Completed Assignment 1 and Quiz
+- Started on Hypothesis Testing
+
+**Thoughts:** Working throught it
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_1.ipynb)
+
+
+### Day 7: Jan 24, 2018
+
+- Completed creating Feature Matrix for Assignment 1 Week 2
+- Added security for APIGateway Endpoint
+
+**Thoughts:** I love the habit of accomplishing something everyday :)
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2.ipynb)
+
+
+### Day 8: Jan 25, 2018
+
+- Assignment 1 Week 2 complete. Implemented logistic regression and gradient ascent by hand.
+
+**Thoughts:** Working through it is fun. Try and work on assingments with blank slate instead of pre-filled template in coursera as it makes things easier/spood fed. :)
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2.ipynb)
+
+
+### Day 10: Jan 27, 2018
+
+- Devops code completed to spin a EC2 instance to provision it to run jupyterhub where I can host my ipython notebooks.
+
+**Thoughts:** This is a piece of Infra as code I want to build, for data teams in fast growing companies. There are still some tweaks left and clean up is required to ship it properly.
+
+**Link to work:**  /code/datascience-infra of this repository
+
+
