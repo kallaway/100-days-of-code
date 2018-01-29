@@ -543,3 +543,11 @@
 **Thoughts:** Back to basics
 
 **Link to work:** [Tutplus](https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520)
+
+### Day 69: January 29, 2018
+
+**Today's Progress**: Setting up and running Alpine container on Docker.
+
+**Thoughts:** I need to start writing code anywhere using Docker
+
+**Link to work:** [Docker Guide](https://docs.docker.com/engine/userguide/)
