@@ -204,3 +204,6 @@ Peep into NodeBots
 
 ### R1D67
 Advanced SVG manipulations.
+
+### R1D68
+Some cool html5 tricks
