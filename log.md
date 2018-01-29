@@ -535,3 +535,11 @@
 **Thoughts:** Feeling graphic tonight
 
 **Link to work:** [Awesome Site](https://svgontheweb.com/)
+
+### Day 68: January 28, 2018
+
+**Today's Progress**: Some cool html5 tricks
+
+**Thoughts:** Back to basics
+
+**Link to work:** [Tutplus](https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520)
