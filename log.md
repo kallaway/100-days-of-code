@@ -109,3 +109,13 @@
 
 **Link to work:** ![Quiz](images/quiz2.png) ![Derivation Result](images/loglikelihood_proof.jpeg)
 
+
+
+### Day 12: Jan 29, 2018
+
+- Assignment 3 50% complete. Finished lecture content on L2 Regularisation for Logistic Regression.
+
+Try and work on assingments with blank slate instead of pre-filled template in coursera as it makes things easier/spood fed. :)
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_2.ipynb)
+
