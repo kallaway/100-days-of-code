@@ -240,6 +240,14 @@
 
 **Link to work:** N/A
 
+### Day 31: January 28, 2018
+
+**Today's Progress**: Slammed with work, didn't code.  I really didn't even do much related to coding, like training or research.  Too busy.  I have to make up for it tomorrow.
+
+**Thoughts:** I'll be traveling Wednesday, so with any luck I'll be able to code on the road a little.  I really don't want to get stuck not coding for days when I get busy with work.  I'm making great progress when I can give my time and focus to the work.
+
+**Link to work:** N/A
+
 ### Day XX: January YY, 2018
 
 **Today's Progress**: 
