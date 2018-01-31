@@ -551,3 +551,11 @@
 **Thoughts:** I need to start writing code anywhere using Docker
 
 **Link to work:** [Docker Guide](https://docs.docker.com/engine/userguide/)
+
+### Day 70: January 30, 2018
+
+**Today's Progress**: Completed one course at MongoDB University
+
+**Thoughts:** Its the MongoDB basics
+
+**Link to work:** [MongoDB University Course](https://university.mongodb.com/)
