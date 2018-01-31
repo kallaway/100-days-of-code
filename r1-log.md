@@ -210,3 +210,6 @@ Some cool html5 tricks
 
 ### R1D69
 Setting up and running Alpine container on Docker.
+
+### R1D70
+Completed one course at MongoDB University
