@@ -240,11 +240,35 @@
 
 **Link to work:** N/A
 
-### Day 31: January 28, 2018
+### Day 31: January 29, 2018
 
 **Today's Progress**: Slammed with work, didn't code.  I really didn't even do much related to coding, like training or research.  Too busy.  I have to make up for it tomorrow.
 
 **Thoughts:** I'll be traveling Wednesday, so with any luck I'll be able to code on the road a little.  I really don't want to get stuck not coding for days when I get busy with work.  I'm making great progress when I can give my time and focus to the work.
+
+**Link to work:** N/A
+
+### Day 32: January 30, 2018
+
+**Today's Progress**: Slammed with work again, didn't code.  Same as yesterday.  
+
+**Thoughts:** My trip got cancelled and I got past my deadline today so tomorrow I make up for lost time.
+
+**Link to work:** N/A
+
+### Day 33: January 31, 2018
+
+**Today's Progress**: Decided to use the Bootstrap training video and template code to design all of the FreeCodeCamp layouts.  So I got the training template working in CodePen (it was already working in Atom), and designed the front end layout for all of the FreeCodeCamp coding exercises.  It took several hours to get through all the design work, but I have a very clear idea of what I need to design for most of the interfaces.  
+
+**Thoughts:** I only got through a minute or two of the training video, and spent a bit of time getting my environment working across CodePen and Atom, and spent hours designing my web interface frameworks for all the front ends.  It feels a little weird to do all that work and not have any front-end code to show for it.  On the other hand, I have solid designs across a range of interfaces.  So when I go through the next few minutes of the video (coding up my rows and columns) I should be generating lots of lines of code.  Some good consistency across interfaces, but also some interesting variations.  So it should be interesting to get the code working for all of them.
+
+**Link to work:** N/A
+
+### Day XX: January YY, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
 
 **Link to work:** N/A
 
