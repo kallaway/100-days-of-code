@@ -567,3 +567,11 @@
 **Thoughts:** Just updating my JS knowledge base
 
 **Link to work:** [Eloquent JS](http://eloquentjavascript.net)
+
+### Day 72: February 1, 2018
+
+**Today's Progress**: Using Grunt and Gulp for workflow automation
+
+**Thoughts:** Manual task is daunting, I need to automate em!
+
+**Link to work:** [Grunt and Gulp](https://www.sitepoint.com/how-to-grunt-and-gulp-your-way-to-workflow-automation/)
