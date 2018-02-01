@@ -559,3 +559,11 @@
 **Thoughts:** Its the MongoDB basics
 
 **Link to work:** [MongoDB University Course](https://university.mongodb.com/)
+
+### Day 71: January 31, 2018
+
+**Today's Progress**: Readings from Eloquent JavaScript
+
+**Thoughts:** Just updating my JS knowledge base
+
+**Link to work:** [Eloquent JS](http://eloquentjavascript.net)
