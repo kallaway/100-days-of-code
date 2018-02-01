@@ -138,7 +138,7 @@
 
 **Thoughts:** Jupyter notebook post-save hook is major key for version control and peer-reviewed workflow. Correlation is a basic tool and I want to learn to become good at finding variables that are correlated. It can directly help make business decision when data is present.
 
-**Link to work:** Coming soon
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=%2Fcode%2Fdatascience%2F)
 
 
 
