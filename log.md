@@ -119,3 +119,17 @@
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2.ipynb)
 
+
+### Day 13: Jan 30, 2018
+
+- Assignment 3 completed and associated quiz submitted.
+- Did some reading to write a new blog post on aws cost saving.
+
+**Thoughts:** Working through it.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2.ipynb)
+
+
+
+
+
