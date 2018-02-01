@@ -216,3 +216,6 @@ Completed one course at MongoDB University
 
 ### R1D71
 Readings from Eloquent JavaScript
+
+### R1D72
+Using Grunt and Gulp for workflow automation
