@@ -32,7 +32,7 @@ build
 .idea*
 *zappa_settings.json
 
-
+*.ipynb_checkpoints
 #Terraform stuff
 
 *hosts
