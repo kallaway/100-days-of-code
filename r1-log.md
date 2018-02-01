@@ -213,3 +213,6 @@ Setting up and running Alpine container on Docker.
 
 ### R1D70
 Completed one course at MongoDB University
+
+### R1D71
+Readings from Eloquent JavaScript
