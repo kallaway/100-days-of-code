@@ -79,7 +79,7 @@
 
 **Thoughts:** I love the habit of accomplishing something everyday :)
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2.ipynb)
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_1.ipynb)
 
 
 ### Day 8: Jan 25, 2018
@@ -88,7 +88,7 @@
 
 **Thoughts:** Working through it is fun. Try and work on assingments with blank slate instead of pre-filled template in coursera as it makes things easier/spood fed. :)
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2.ipynb)
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_1.ipynb)
 
 
 ### Day 10: Jan 27, 2018
@@ -117,7 +117,7 @@
 
 **Thoughts:** Working through it. Late night math can be hard to digest and takes more time.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2.ipynb)
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_2.ipynb)
 
 
 ### Day 13: Jan 30, 2018
@@ -127,8 +127,18 @@
 
 **Thoughts:** Working through it.
 
-**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2.ipynb)
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_2_2.ipynb)
 
+
+### Day 14: Jan 31, 2018
+
+- [Things I dont know Gist](https://gist.github.com/nehiljain/714ab790cb6774ecc71d39a24e222081)
+- Seaborn heatmap to learn about quick correlation analysis on datasets
+- Added [Post-Save Hook for jupyter workflow](https://towardsdatascience.com/version-control-for-jupyter-notebook-3e6cef13392d).
+
+**Thoughts:** Jupyter notebook post-save hook is major key for version control and peer-reviewed workflow. Correlation is a basic tool and I want to learn to become good at finding variables that are correlated. It can directly help make business decision when data is present.
+
+**Link to work:** Coming soon
 
 
 
