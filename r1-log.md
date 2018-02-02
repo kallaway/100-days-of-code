@@ -219,3 +219,6 @@ Readings from Eloquent JavaScript
 
 ### R1D72
 Using Grunt and Gulp for workflow automation
+
+### R1D73
+Peep into Hyperapp.. A 1kb JavaScript library for building feature-rich web apps.
