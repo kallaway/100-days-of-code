@@ -264,15 +264,15 @@
 
 **Link to work:** N/A
 
-### Day XX: January YY, 2018
+### Day 34: February 1, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Created my template file in Atomn for all user interfaces.  Also created a version in CodePen and made it a template.
 
-**Thoughts:** 
+**Thoughts:** I didn't create Pens for all projects based on the template because I have a feeling I may add to the template before I'm done.  I may end up going through the tutorial and personal portfolio before projects prior to committing to all the templating so that I have some headlights on what comes next in each step so that I can understand whether I'll be duplicating a lot of effort by templating my projects too soon.
 
 **Link to work:** N/A
 
-### Day XX: January YY, 2018
+### Day XX: February YY, 2018
 
 **Today's Progress**: 
 
