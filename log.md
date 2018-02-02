@@ -575,3 +575,11 @@
 **Thoughts:** Manual task is daunting, I need to automate em!
 
 **Link to work:** [Grunt and Gulp](https://www.sitepoint.com/how-to-grunt-and-gulp-your-way-to-workflow-automation/)
+
+### Day 73: February 2, 2018
+
+**Today's Progress**: Peep into Hyperapp.. A 1kb JavaScript library for building feature-rich web apps.
+
+**Thoughts:** Much similar with React!
+
+**Link to work:** [Hyperapp](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
