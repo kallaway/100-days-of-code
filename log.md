@@ -149,3 +149,11 @@
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
 
+### Day 15: Feb 1, 2018
+
+- Assignment 4 60% complete. One Hot encoding for categorical variables and some reading about sklearn decision trees
+
+**Thoughts:** Working through it.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
+
