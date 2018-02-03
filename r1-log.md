@@ -222,3 +222,6 @@ Using Grunt and Gulp for workflow automation
 
 ### R1D73
 Peep into Hyperapp.. A 1kb JavaScript library for building feature-rich web apps.
+
+### R1D74
+Simulating multi-threaded process in JS using Web Worker.
