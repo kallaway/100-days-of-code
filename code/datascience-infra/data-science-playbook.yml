@@ -1,0 +1,7 @@
+---
+- hosts: aws
+  become: yes
+  remote_user: root
+  roles:
+    - { role: alexander-laughlin.jupyterhub }
+
