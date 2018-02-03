@@ -583,3 +583,11 @@
 **Thoughts:** Much similar with React!
 
 **Link to work:** [Hyperapp](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
+
+### Day 74: February 3, 2018
+
+**Today's Progress**: Simulating multi-threaded process in JS using Web Worker.
+
+**Thoughts:** I love this html5 API
+
+**Link to work:** [Web Worker](https://mobile.htmlgoodies.com/html5/tutorials/introducing-html-5-web-workers-bringing-multi-threading-to-javascript.html)
