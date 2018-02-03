@@ -272,6 +272,14 @@
 
 **Link to work:** N/A
 
+### Day 35: February 2, 2018
+
+**Today's Progress**: Set up the Bootstrap scaffolding for all my user interfaces.  Some required custom scaffolding.  Moved on to Typography in the tutorial, but haven't extended that code into the other projects yet.
+
+**Thoughts:** This plan of doing all of the UIs for my freecodecamp projects is working very well so far. Hoping it continues to be productive.  I also today came up with the idea of putting to-do lists in my freeCodeCamp Trello entry so that I could just do one specific task at a time.  I used that method today and got through all the scaffolding of all my UIs, and checked all the boxes. I have another checklist (Trello lets me copy the prior list) named Typography.  I'm glad I came up with this, it makes it easier to code without thinking I need hours to focus. I can just do a little at a time and keep moving forward.
+
+**Link to work:** N/A
+
 ### Day XX: February YY, 2018
 
 **Today's Progress**: 
