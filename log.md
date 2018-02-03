@@ -280,6 +280,14 @@
 
 **Link to work:** N/A
 
+### Day 36: February 3, 2018
+
+**Today's Progress**: Did most of the typography lesson in BootStrap 4.  I'm learning a tremendous amount by following a logn and coding with the tutorial.
+
+**Thoughts:**   This is really helping.  Coded the tutorial but not any of my UIs.  I need to finish this typeography part of the tutorial before I try to apply any of what I learned to my UI projects.  But looking forward to the point where I can actually update my UIs for FreeCodeCamp.
+
+**Link to work:** N/A
+
 ### Day XX: February YY, 2018
 
 **Today's Progress**: 
