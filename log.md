@@ -176,3 +176,39 @@ Template for logs
 **Today's Progress**: I completed 1 chapter from JS book and few from freeCodeCamp course.
 
 **Thoughts**: I learned about the random numbers generation and array methods.
+
+## Day 24: 26 January, 2018
+
+**Today's Progress**: Completed personal logo using CSS
+
+**Thoughts**: I attended CSSclasses workshop and learned how to work with text shadow in CSS
+
+## Day 25: 31 January, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book 
+
+**Thoughts**: I learned about converting numbers to strings and fixing them decimal values by using toFixed().
+
+## Day 26: 1 February, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned about date objects.
+
+## Day 27: 2 February, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I used the date objects to get time, date, day, month, year, milliseconds.
+
+## Day 28: 3 February, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned how to specify date and time. Understood how the reference time in milliseconds since January 1, 1970 using getTime() method.
+
+## Day 29: 4 February, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
