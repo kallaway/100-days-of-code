@@ -288,6 +288,14 @@
 
 **Link to work:** N/A
 
+### Day 37: February 4, 2018
+
+**Today's Progress**: Completed typography, including the footer.  This will help, as I have problems with my footer for my portfolio and the typography successfully did exactly the things I had problems with.
+
+**Thoughts:** I realize that Bootstrap has a bunch of capabilities that are built-in, and I really need to learn to use them rather than add content and try to format it.  I'll need to find a reference and try to use them in my projeccts.
+
+**Link to work:** N/A
+
 ### Day XX: February YY, 2018
 
 **Today's Progress**: 
