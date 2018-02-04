@@ -209,6 +209,12 @@ Template for logs
 
 ## Day 29: 4 February, 2018
 
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned how to change parts of date and time. I used setMinutes(), setHours(), setFullYear(), setMonth(), setSeconds() and setMilliseconds().
+
+## Day 30: 5 February, 2018
+
 **Today's Progress**: 
 
 **Thoughts**: 
