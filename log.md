@@ -149,7 +149,7 @@
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
 
-### Day 15: Feb 1, 2018
+### Day 16: Feb 2, 2018
 
 - Assignment 4 60% complete. One Hot encoding for categorical variables and some reading about sklearn decision trees
 
@@ -157,3 +157,12 @@
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
 
+
+### Day 17: Feb 3, 2018
+
+- Assignment 4 99% complete. Finished making decision trees and calculating error metrics for the same.
+- TODO: need to fix a big in spliting the train and validation data for assignment.
+
+**Thoughts:** It was fun to see how I can easily play with Decision Trees and visualise them using graphviz.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
