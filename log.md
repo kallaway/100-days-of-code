@@ -591,3 +591,11 @@
 **Thoughts:** I love this html5 API
 
 **Link to work:** [Web Worker](https://mobile.htmlgoodies.com/html5/tutorials/introducing-html-5-web-workers-bringing-multi-threading-to-javascript.html)
+
+### Day 75: February 4, 2018
+
+**Today's Progress**: Peep into Sass, a css preprocessor.
+
+**Thoughts:** Another scripting language that compiles to CSS
+
+**Link to work:** [Sass Basics](http://sass-lang.com/guide)
