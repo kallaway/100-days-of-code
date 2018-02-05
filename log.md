@@ -296,6 +296,14 @@
 
 **Link to work:** N/A
 
+### Day 38: February 5, 2018
+
+**Today's Progress**: Built a table in the Tutorial web page, including significant content and formatting.  I also reviewed the sections on browser compatibility and mobile-first.
+
+**Thoughts:** It's making sense and I'm starting to understand the Bootstrap approach and value proposition.  I didn't code the mobile-first but watched the videos and will do the coding next.  I'm getting a sense for how to think about approaching UIs with Bootstrap.  I like that it seems to be focused on building a device-independent functional framework, then filling in the content.  That's the way I'm sure I'll be developing UIs.  Not especially aesthetically-focused, but more focused on functional management of the back-end models.
+
+**Link to work:** N/A
+
 ### Day XX: February YY, 2018
 
 **Today's Progress**: 
