@@ -228,3 +228,6 @@ Simulating multi-threaded process in JS using Web Worker.
 
 ### R1D75
 Peep into Sass, a css preprocessor.
+
+### R1D76
+Started learning IoT with NodeJS.
