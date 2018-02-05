@@ -599,3 +599,11 @@
 **Thoughts:** Another scripting language that compiles to CSS
 
 **Link to work:** [Sass Basics](http://sass-lang.com/guide)
+
+### Day 76: February 5, 2018
+
+**Today's Progress**: Started learning IoT with NodeJS.
+
+**Thoughts:** I really loves Internet of Things.. This might be a gentle start!
+
+**Link to work:** [Thinglabs Tutorial](http://thinglabs.io/workshop/js/weather/)
