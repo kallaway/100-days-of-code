@@ -166,3 +166,13 @@
 **Thoughts:** It was fun to see how I can easily play with Decision Trees and visualise them using graphviz.
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_1.ipynb)
+
+
+### Day 18: Feb 4, 2018
+
+- Assignment 5 50% complete for building my own decision tree algorithm to get a better understanding.
+- Also fixed the splitting of training and val data for assignment 1
+
+**Thoughts:** Visualisation of a making of Decision Tree looks much like KD-Trees. Also implementing simple version of decision tree gives a deeper intuition of what might be happening inside the model and how i can understand a leaf is formed and do feature engineering to change it for lower error
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_2.ipynb)
