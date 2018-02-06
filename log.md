@@ -186,3 +186,14 @@
 **Thoughts:** Trying the experiment of working in the morning instead of night after work. Feels good to do it in the morning. Lets see how sustainable this is :)
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_3_2.ipynb)
+
+
+
+### Day 20: Feb 6, 2018
+
+- Week 4 : Decision Tree overfitting strategies started. Still working through lectures
+- WIP: Numpy library tutorial to understand np.array and the fundamentals better
+
+**Thoughts:** Some libraries need special attention and love. Numpy is high on my list because it can improve speed and memory performance of python lists in my code.
+
+**Link to work:** Still to come.
