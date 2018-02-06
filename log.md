@@ -181,7 +181,7 @@
 ### Day 19: Feb 5, 2018
 
 - Assignment 2 week 3 completed.
-- TODO: have to still finish the associated quiz to verify results.
+- Completed the associated quiz to work verify results.
 
 **Thoughts:** Trying the experiment of working in the morning instead of night after work. Feels good to do it in the morning. Lets see how sustainable this is :)
 
