@@ -304,11 +304,11 @@
 
 **Link to work:** N/A
 
-### Day XX: February YY, 2018
+### Day 39: February 6, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Recoded my portfolio page from scratch using what I learned in Bootstrap.  Got a solid draft complete.  It needs some formatting, mobile awareness, and some icons and forms functionality.  Sort of works in CodePen too.
 
-**Thoughts:** 
+**Thoughts:** I've made great progress and gotten as far as I can.  Now I need to continue with the Bootstrap tutorial and learn forms, buttons, and formatting so that I can finish the portfolio.  I'm also ready to start on the other UIs, at least the layout like I did with the Portfolio. Making good progress overall.  Will be good to have a day or two off this week.
 
 **Link to work:** N/A
 
