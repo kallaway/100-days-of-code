@@ -607,3 +607,11 @@
 **Thoughts:** I really loves Internet of Things.. This might be a gentle start!
 
 **Link to work:** [Thinglabs Tutorial](http://thinglabs.io/workshop/js/weather/)
+
+### Day 77: February 6, 2018
+
+**Today's Progress**: Deep dive into TypeScript 2
+
+**Thoughts:** I want to start Angular!
+
+**Link to work:** [Typescript 2 edX](https://courses.edx.org/courses/course-v1:Microsoft+DEV273x+1T2018/course/)
