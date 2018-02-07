@@ -231,3 +231,6 @@ Peep into Sass, a css preprocessor.
 
 ### R1D76
 Started learning IoT with NodeJS.
+
+### R1D77
+Deep dive into TypeScript 2
