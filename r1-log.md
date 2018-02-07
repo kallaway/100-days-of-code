@@ -234,3 +234,6 @@ Started learning IoT with NodeJS.
 
 ### R1D77
 Deep dive into TypeScript 2
+
+### R1D78
+Using D3.js for data manipulation
