@@ -615,3 +615,11 @@
 **Thoughts:** I want to start Angular!
 
 **Link to work:** [Typescript 2 edX](https://courses.edx.org/courses/course-v1:Microsoft+DEV273x+1T2018/course/)
+
+### Day 78: February 7, 2018
+
+**Today's Progress**: Using D3.js for data manipulation
+
+**Thoughts:** Thinking about all the amazing data visualisations on the web..
+
+**Link to work:** [D3.js](https://d3js.org/)
