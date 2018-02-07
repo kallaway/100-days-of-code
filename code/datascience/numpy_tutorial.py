@@ -129,3 +129,30 @@ print(ar.nbytes)
 # ### NumPy Broadcasting 
 # 
 # (very important in practical datascience)
+
+# In[2]:
+
+
+l = [{
+    'a': 1,
+    'b': 2
+}, {
+    'a': 2,
+    'b': 'asd'
+}
+]
+a = np.array(l, dtype=np.object)
+
+
+# In[7]:
+
+
+for c,i in enumerate(a):
+    print(i['a'])
+
+
+# In[11]:
+
+
+print(a)
+
