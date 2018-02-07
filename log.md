@@ -189,32 +189,32 @@ Template for logs
 
 **Thoughts**: I learned about converting numbers to strings and fixing them decimal values by using toFixed().
 
-## Day 26: 1 February, 2018
+## Day 26: 01 February, 2018
 
 **Today's Progress**: I completed 1 chapter from JS book
 
 **Thoughts**: I learned about date objects.
 
-## Day 27: 2 February, 2018
+## Day 27: 02 February, 2018
 
 **Today's Progress**: I completed 1 chapter from JS book
 
 **Thoughts**: I used the date objects to get time, date, day, month, year, milliseconds.
 
-## Day 28: 3 February, 2018
+## Day 28: 03 February, 2018
 
 **Today's Progress**: I completed 1 chapter from JS book
 
 **Thoughts**: I learned how to specify date and time. Understood how the reference time in milliseconds since January 1, 1970 using getTime() method.
 
-## Day 29: 4 February, 2018
+## Day 29: 04 February, 2018
 
 **Today's Progress**: I completed 1 chapter from JS book
 
 **Thoughts**: I learned how to change parts of date and time. I used setMinutes(), setHours(), setFullYear(), setMonth(), setSeconds() and setMilliseconds().
 
-## Day 30: 5 February, 2018
+## Day 30: 07 February, 2018
 
-**Today's Progress**: 
+**Today's Progress**: I completed 1 chapter from JS book
 
-**Thoughts**: 
+**Thoughts**: I learned how to declare functions. How does a endless function loop break a program code.
