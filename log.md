@@ -218,3 +218,9 @@ Template for logs
 **Today's Progress**: I completed 1 chapter from JS book
 
 **Thoughts**: I learned how to declare functions. How does a endless function loop break a program code.
+
+## Day 31: 08 February, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned on how to pass data to functions in form of parameters and arguments.
