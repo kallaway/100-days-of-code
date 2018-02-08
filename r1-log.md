@@ -237,3 +237,6 @@ Deep dive into TypeScript 2
 
 ### R1D78
 Using D3.js for data manipulation
+
+### R1D79
+Enrolled in JavaScript30
