@@ -623,3 +623,11 @@
 **Thoughts:** Thinking about all the amazing data visualisations on the web..
 
 **Link to work:** [D3.js](https://d3js.org/)
+
+### Day 79: February 8, 2018
+
+**Today's Progress**: Enrolled in JavaScript30
+
+**Thoughts:** An amazing course created by Wes Bos
+
+**Link to work:** [JavaScript30](https://javascript30.com/)
