@@ -312,3 +312,19 @@
 
 **Link to work:** N/A
 
+### Day 40: February 7, 2018
+
+**Today's Progress**: Developed the Random Quote Generator framework and typography.  Everything is pretty much functioning exept the Javascript.  Looks good, though plain.  
+
+**Thoughts:** I need to learn more of the features of Bootstrap if I want to expand the UI design.  But I have to say I'm picking up speed, which is key for me.  I don't want to be a UI designer, because my feeling is that chat bots and tool integration is the future, at least for what I want to do.  I want to get through this front-end stuff as quickly as possible, while learning how to create usable, functional interfaces, and then move to server stuff so I can start building my model.
+
+**Link to work:** N/A
+
+### Day X: February X, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** N/A
+
