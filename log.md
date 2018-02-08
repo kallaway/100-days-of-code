@@ -320,11 +320,11 @@
 
 **Link to work:** N/A
 
-### Day X: February X, 2018
+### Day 41: February 8, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Finished first draft (and some follow-up drafts) of all HTML in all 10 projects!  And it's not even 4:30 yet.
 
-**Thoughts:** 
+**Thoughts:** My goal was to finish drafting the HTML for all 10 projects over the weekend.  So I'm way ahead.  That means I can either continue with the Bootstrap tutorial, work to finish the personal portfolio (HTML/CSS only, no Javascript required), do Javascript algorithm exercises, or do Javascript coding of the 10 projects.  I feel like I should get the portfolio done and do some more Bootstrap tutorial work, then hit the Javascript project work hard.  Get as many projects complete as I can.  I can always do Javascript algorithm exercises later on.
 
-**Link to work:** N/A
+**Link to work:** https://codepen.io/Spaloss/pen/paJrGg
 
