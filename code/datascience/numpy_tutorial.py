@@ -27,13 +27,13 @@
 # 
 # 
 
-# In[1]:
+# In[3]:
 
 
 import numpy as np
 
 
-# In[2]:
+# In[4]:
 
 
 ar = np.array([1,2,3,4,5])
@@ -50,7 +50,7 @@ print(ar.dtype)
 print(ar.strides)
 
 
-# In[7]:
+# In[5]:
 
 
 st_ar = np.array(['aaasdf','ab','gdf'], dtype=np.string_)
@@ -67,39 +67,39 @@ print(st_ar.dtype)
 print(st_ar.strides)
 
 
-# In[17]:
+# In[6]:
 
 
 np.ones((2,3,1,3),dtype=np.string_)
 
 
-# In[18]:
+# In[7]:
 
 
 np.full((2,2),7)
 
 
-# In[21]:
+# In[8]:
 
 
 # Create an array of evenly-spaced values like a range function
 np.arange(10,65,5)
 
 
-# In[24]:
+# In[9]:
 
 
 # Create an array of evenly-spaced values
 np.linspace(1,9,9)
 
 
-# In[27]:
+# In[10]:
 
 
 np.eye(21,6)
 
 
-# In[39]:
+# In[11]:
 
 
 np.identity(10) 
@@ -107,7 +107,7 @@ np.identity(10)
 
 # **NOTE:** When working with larger dataset following functions can be handy to understand the limitations
 
-# In[42]:
+# In[12]:
 
 
 # Print the number of `my_array`'s dimensions
@@ -130,29 +130,70 @@ print(ar.nbytes)
 # 
 # (very important in practical datascience)
 
-# In[2]:
+# 1. to make sure that the broadcasting is successful, the dimensions of your arrays need to be compatible. Two dimensions are compatible when they are equal. 
+
+# In[20]:
 
 
-l = [{
-    'a': 1,
-    'b': 2
-}, {
-    'a': 2,
-    'b': 'asd'
-}
-]
-a = np.array(l, dtype=np.object)
+# During addition the dimensions should be same NxM + NxM or NxM + Mx1 
+x = np.ones((3,4))
+print(x.shape)
+print(x)
+y = np.random.random((4,))
+print(y)
+
+print(x + y)
 
 
-# In[7]:
+# In[21]:
 
 
-for c,i in enumerate(a):
-    print(i['a'])
+x = np.ones((3,4))
+print(x.shape)
+y = np.arange(4)
+print(y.shape)
+
+print(x - y)
 
 
-# In[11]:
+# In[23]:
 
 
-print(a)
+x = np.ones((3,4))
+print(x)
+y = np.random.random((5,1,4))
+print(y)
+
+print(x + y)
+
+
+# **The maximum size along each dimension of x and y is taken to make up the shape of the new, resulting array.**
+
+# In[29]:
+
+
+y = np.ones((5,1,4))
+print("STD: {}".format(np.std(y)))
+print("MEAN: {}".format(np.mean(y)))
+
+
+# In[32]:
+
+
+x = np.zeros((3,5))
+z = np.zeros((3,5))
+
+
+# In[40]:
+
+
+print(x)
+print(z)
+
+
+# In[38]:
+
+
+print(np.array_equal(x,y))
+print(np.array_equal(x,z))
 
