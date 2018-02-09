@@ -631,3 +631,11 @@
 **Thoughts:** An amazing course created by Wes Bos
 
 **Link to work:** [JavaScript30](https://javascript30.com/)
+
+### Day 80: February 9, 2018
+
+**Today's Progress**: An SPA using jQuery Ajax
+
+**Thoughts:** Diving deeper into asynchronous scripting
+
+**Link to work:** [jQuery Ajax](https://github.com/nax3t/ajax-jquery-tutorial)
