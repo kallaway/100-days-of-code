@@ -240,3 +240,6 @@ Using D3.js for data manipulation
 
 ### R1D79
 Enrolled in JavaScript30
+
+### R1D80
+An SPA using jQuery Ajax
