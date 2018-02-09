@@ -197,3 +197,11 @@
 **Thoughts:** Some libraries need special attention and love. Numpy is high on my list because it can improve speed and memory performance of python lists in my code.
 
 **Link to work:** Still to come.
+
+### Day 22: Feb 8, 2018
+
+- Numpy work continues. Learnt about access and reshaping arrays.
+
+**Thoughts:** Some libraries need special attention and love. Numpy is high on my list because it can improve speed and memory performance of python lists in my code. Its already proving useful in my data analysis work to know about numpy arrays.
+
+**Link to work:** Still to come.
