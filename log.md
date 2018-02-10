@@ -336,6 +336,15 @@
 
 **Link to work:** 
 
+### Day 43: February 10, 2018
+
+**Today's Progress**: Finished the Bootstrap tutorial.  Now I have lots of components of working HTML, CSS, and Javascript.  
+
+
+**Thoughts:** I typed out most of the code samples by hand. It takes a lot of time but I get much better undersatanding of the code and what each element does.  I integrated them into my code files and debugged using the developer tools on the Crhome browser.  I used Git for images and to find related files.  Very rudimentary use of all the tools, but the fact that I'm using them is very helpful to get me into the context of using a development environment.  I can build on the code by using and modifying components, and I can build on the tools by using them to streamline my development process now that I have the basic steps working.
+
+**Link to work:** 
+
 ### Day X: February X, 2018
 
 **Today's Progress**: 
