@@ -11805,7 +11805,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[3]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
@@ -11818,7 +11818,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[4]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">ar</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">5</span><span class="p">])</span>
@@ -11849,7 +11849,7 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>&lt;memory at 0x112273a70&gt;
+<pre>&lt;memory at 0x112144e58&gt;
 (5,)
 int64
 (8,)
@@ -11863,7 +11863,7 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[5]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">st_ar</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="s1">&#39;aaasdf&#39;</span><span class="p">,</span><span class="s1">&#39;ab&#39;</span><span class="p">,</span><span class="s1">&#39;gdf&#39;</span><span class="p">],</span> <span class="n">dtype</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">string_</span><span class="p">)</span>
@@ -11894,7 +11894,7 @@ int64
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>&lt;memory at 0x112273a70&gt;
+<pre>&lt;memory at 0x112144e58&gt;
 (3,)
 |S6
 (6,)
@@ -11908,7 +11908,7 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="prompt input_prompt">In&nbsp;[5]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">((</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">3</span><span class="p">),</span><span class="n">dtype</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">string_</span><span class="p">)</span>
@@ -11924,7 +11924,7 @@ int64
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[6]:</div>
+<div class="prompt output_prompt">Out[5]:</div>
 
 
 
@@ -11952,10 +11952,45 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">np</span><span class="o">.</span><span class="n">full</span><span class="p">((</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">),</span><span class="mi">7</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt output_prompt">Out[6]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>array([[7, 7],
+       [7, 7]])</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Create an array of evenly-spaced values like a range function</span>
+<span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="mi">65</span><span class="p">,</span><span class="mi">5</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -11974,41 +12009,6 @@ int64
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>array([[7, 7],
-       [7, 7]])</pre>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Create an array of evenly-spaced values like a range function</span>
-<span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="mi">65</span><span class="p">,</span><span class="mi">5</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt output_prompt">Out[12]:</div>
-
-
-
-
-<div class="output_text output_subarea output_execute_result">
 <pre>array([10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60])</pre>
 </div>
 
@@ -12020,7 +12020,7 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[13]:</div>
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Create an array of evenly-spaced values</span>
@@ -12037,7 +12037,7 @@ int64
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[13]:</div>
+<div class="prompt output_prompt">Out[8]:</div>
 
 
 
@@ -12054,7 +12054,7 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[14]:</div>
+<div class="prompt input_prompt">In&nbsp;[9]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">np</span><span class="o">.</span><span class="n">eye</span><span class="p">(</span><span class="mi">21</span><span class="p">,</span><span class="mi">6</span><span class="p">)</span>
@@ -12070,7 +12070,7 @@ int64
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[14]:</div>
+<div class="prompt output_prompt">Out[9]:</div>
 
 
 
@@ -12107,7 +12107,7 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[15]:</div>
+<div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">np</span><span class="o">.</span><span class="n">identity</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> 
@@ -12123,7 +12123,7 @@ int64
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[15]:</div>
+<div class="prompt output_prompt">Out[10]:</div>
 
 
 
@@ -12158,7 +12158,7 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[16]:</div>
+<div class="prompt input_prompt">In&nbsp;[11]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print the number of `my_array`&#39;s dimensions</span>
@@ -12232,7 +12232,7 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[17]:</div>
+<div class="prompt input_prompt">In&nbsp;[12]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># During addition the dimensions should be same NxM + NxM or NxM + Mx1 </span>
@@ -12263,10 +12263,10 @@ int64
 [[1. 1. 1. 1.]
  [1. 1. 1. 1.]
  [1. 1. 1. 1.]]
-[0.67650912 0.68641352 0.2545159  0.03510218]
-[[1.67650912 1.68641352 1.2545159  1.03510218]
- [1.67650912 1.68641352 1.2545159  1.03510218]
- [1.67650912 1.68641352 1.2545159  1.03510218]]
+[0.9896045  0.9797751  0.53072316 0.02486912]
+[[1.9896045  1.9797751  1.53072316 1.02486912]
+ [1.9896045  1.9797751  1.53072316 1.02486912]
+ [1.9896045  1.9797751  1.53072316 1.02486912]]
 </pre>
 </div>
 </div>
@@ -12277,7 +12277,7 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[18]:</div>
+<div class="prompt input_prompt">In&nbsp;[13]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">((</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">))</span>
@@ -12317,7 +12317,7 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[19]:</div>
+<div class="prompt input_prompt">In&nbsp;[14]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">((</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">))</span>
@@ -12345,34 +12345,34 @@ int64
 <pre>[[1. 1. 1. 1.]
  [1. 1. 1. 1.]
  [1. 1. 1. 1.]]
-[[[0.64793619 0.55161763 0.32451983 0.6573008 ]]
+[[[0.92321665 0.6032173  0.92580685 0.40925918]]
 
- [[0.49788504 0.81419078 0.40037163 0.00802156]]
+ [[0.32469598 0.56402704 0.6733959  0.54923978]]
 
- [[0.67742213 0.23179372 0.97921388 0.27007601]]
+ [[0.84314744 0.17186993 0.8464866  0.98456172]]
 
- [[0.77126904 0.17052468 0.36788458 0.79872071]]
+ [[0.18326566 0.42389117 0.29537753 0.90654263]]
 
- [[0.22436072 0.81219015 0.0505713  0.96430516]]]
-[[[1.64793619 1.55161763 1.32451983 1.6573008 ]
-  [1.64793619 1.55161763 1.32451983 1.6573008 ]
-  [1.64793619 1.55161763 1.32451983 1.6573008 ]]
+ [[0.66850438 0.22081408 0.60667567 0.70779376]]]
+[[[1.92321665 1.6032173  1.92580685 1.40925918]
+  [1.92321665 1.6032173  1.92580685 1.40925918]
+  [1.92321665 1.6032173  1.92580685 1.40925918]]
 
- [[1.49788504 1.81419078 1.40037163 1.00802156]
-  [1.49788504 1.81419078 1.40037163 1.00802156]
-  [1.49788504 1.81419078 1.40037163 1.00802156]]
+ [[1.32469598 1.56402704 1.6733959  1.54923978]
+  [1.32469598 1.56402704 1.6733959  1.54923978]
+  [1.32469598 1.56402704 1.6733959  1.54923978]]
 
- [[1.67742213 1.23179372 1.97921388 1.27007601]
-  [1.67742213 1.23179372 1.97921388 1.27007601]
-  [1.67742213 1.23179372 1.97921388 1.27007601]]
+ [[1.84314744 1.17186993 1.8464866  1.98456172]
+  [1.84314744 1.17186993 1.8464866  1.98456172]
+  [1.84314744 1.17186993 1.8464866  1.98456172]]
 
- [[1.77126904 1.17052468 1.36788458 1.79872071]
-  [1.77126904 1.17052468 1.36788458 1.79872071]
-  [1.77126904 1.17052468 1.36788458 1.79872071]]
+ [[1.18326566 1.42389117 1.29537753 1.90654263]
+  [1.18326566 1.42389117 1.29537753 1.90654263]
+  [1.18326566 1.42389117 1.29537753 1.90654263]]
 
- [[1.22436072 1.81219015 1.0505713  1.96430516]
-  [1.22436072 1.81219015 1.0505713  1.96430516]
-  [1.22436072 1.81219015 1.0505713  1.96430516]]]
+ [[1.66850438 1.22081408 1.60667567 1.70779376]
+  [1.66850438 1.22081408 1.60667567 1.70779376]
+  [1.66850438 1.22081408 1.60667567 1.70779376]]]
 </pre>
 </div>
 </div>
@@ -12392,7 +12392,7 @@ int64
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[20]:</div>
+<div class="prompt input_prompt">In&nbsp;[15]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">y</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">((</span><span class="mi">5</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">4</span><span class="p">))</span>
@@ -12426,7 +12426,7 @@ MEAN: 1.0
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[21]:</div>
+<div class="prompt input_prompt">In&nbsp;[16]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">((</span><span class="mi">3</span><span class="p">,</span><span class="mi">5</span><span class="p">))</span>
@@ -12440,7 +12440,7 @@ MEAN: 1.0
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[22]:</div>
+<div class="prompt input_prompt">In&nbsp;[17]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
@@ -12477,7 +12477,7 @@ MEAN: 1.0
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[23]:</div>
+<div class="prompt input_prompt">In&nbsp;[18]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">array_equal</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">))</span>
@@ -12510,7 +12510,7 @@ True
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[24]:</div>
+<div class="prompt input_prompt">In&nbsp;[19]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">scalar</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">50</span><span class="p">)</span>
@@ -12525,7 +12525,7 @@ True
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[25]:</div>
+<div class="prompt input_prompt">In&nbsp;[20]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">ar</span>
@@ -12541,7 +12541,7 @@ True
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[25]:</div>
+<div class="prompt output_prompt">Out[20]:</div>
 
 
 
@@ -12606,7 +12606,7 @@ True
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[31]:</div>
+<div class="prompt input_prompt">In&nbsp;[21]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#QUICK Review if subsetting</span>
@@ -12679,7 +12679,7 @@ element at row 1 column 2 [ 1.  2.  3.  4.  5.  6.  7.  8.  9. 10. 11. 12. 13. 1
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[38]:</div>
+<div class="prompt input_prompt">In&nbsp;[22]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">ar</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">])</span>
@@ -12717,10 +12717,11 @@ row 0 and 1, column 1 [[ 1.  2.  3.  4.  5.  6.  7.  8.  9. 10. 11. 12. 13. 14. 
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[42]:</div>
+<div class="prompt input_prompt">In&nbsp;[24]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">ar_transpose</span> <span class="o">=</span> <span class="n">ar</span><span class="o">.</span><span class="n">T</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">ar</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">random</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">])</span>
+<span class="n">ar_transpose</span> <span class="o">=</span> <span class="n">ar</span><span class="o">.</span><span class="n">T</span>
 <span class="nb">print</span><span class="p">(</span><span class="n">ar_transpose</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span>
 </pre></div>
 
@@ -12738,7 +12739,7 @@ row 0 and 1, column 1 [[ 1.  2.  3.  4.  5.  6.  7.  8.  9. 10. 11. 12. 13. 14. 
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>(49, 10, 49)
+<pre>(3, 2, 1)
 </pre>
 </div>
 </div>

@@ -27,13 +27,13 @@
 # 
 # 
 
-# In[3]:
+# In[2]:
 
 
 import numpy as np
 
 
-# In[4]:
+# In[3]:
 
 
 ar = np.array([1,2,3,4,5])
@@ -50,7 +50,7 @@ print(ar.dtype)
 print(ar.strides)
 
 
-# In[5]:
+# In[4]:
 
 
 st_ar = np.array(['aaasdf','ab','gdf'], dtype=np.string_)
@@ -67,39 +67,39 @@ print(st_ar.dtype)
 print(st_ar.strides)
 
 
-# In[6]:
+# In[5]:
 
 
 np.ones((2,3,1,3),dtype=np.string_)
 
 
-# In[7]:
+# In[6]:
 
 
 np.full((2,2),7)
 
 
-# In[12]:
+# In[7]:
 
 
 # Create an array of evenly-spaced values like a range function
 np.arange(10,65,5)
 
 
-# In[13]:
+# In[8]:
 
 
 # Create an array of evenly-spaced values
 np.linspace(1,9,9)
 
 
-# In[14]:
+# In[9]:
 
 
 np.eye(21,6)
 
 
-# In[15]:
+# In[10]:
 
 
 np.identity(10) 
@@ -107,7 +107,7 @@ np.identity(10)
 
 # **NOTE:** When working with larger dataset following functions can be handy to understand the limitations
 
-# In[16]:
+# In[11]:
 
 
 # Print the number of `my_array`'s dimensions
@@ -132,7 +132,7 @@ print(ar.nbytes)
 
 # 1. to make sure that the broadcasting is successful, the dimensions of your arrays need to be compatible. Two dimensions are compatible when they are equal. 
 
-# In[17]:
+# In[12]:
 
 
 # During addition the dimensions should be same NxM + NxM or NxM + Mx1 
@@ -145,7 +145,7 @@ print(y)
 print(x + y)
 
 
-# In[18]:
+# In[13]:
 
 
 x = np.ones((3,4))
@@ -156,7 +156,7 @@ print(y.shape)
 print(x - y)
 
 
-# In[19]:
+# In[14]:
 
 
 x = np.ones((3,4))
@@ -169,7 +169,7 @@ print(x + y)
 
 # **The maximum size along each dimension of x and y is taken to make up the shape of the new, resulting array.**
 
-# In[20]:
+# In[15]:
 
 
 y = np.ones((5,1,4))
@@ -177,28 +177,28 @@ print("STD: {}".format(np.std(y)))
 print("MEAN: {}".format(np.mean(y)))
 
 
-# In[21]:
+# In[16]:
 
 
 x = np.zeros((3,5))
 z = np.zeros((3,5))
 
 
-# In[22]:
+# In[17]:
 
 
 print(x)
 print(z)
 
 
-# In[23]:
+# In[18]:
 
 
 print(np.array_equal(x,y))
 print(np.array_equal(x,z))
 
 
-# In[24]:
+# In[19]:
 
 
 scalar = np.arange(1,50)
@@ -206,14 +206,14 @@ ones = np.ones((49,10,49))
 ar = np.multiply(scalar, ones)
 
 
-# In[25]:
+# In[20]:
 
 
 
 ar
 
 
-# In[31]:
+# In[21]:
 
 
 #QUICK Review if subsetting
@@ -226,16 +226,17 @@ print("element at row 1 column 2", ar[1][2])
 print("element at row 1 column 2", ar[1,2])
 
 
-# In[38]:
+# In[22]:
 
 
 print(ar[1,1,2])
 print("row 0 and 1, column 1", ar[0:2,1])
 
 
-# In[42]:
+# In[24]:
 
 
+ar = np.random.random([1,2,3])
 ar_transpose = ar.T
 print(ar_transpose.shape)
 
