@@ -328,3 +328,20 @@
 
 **Link to work:** https://codepen.io/Spaloss/pen/paJrGg
 
+### Day 42: February 9, 2018
+
+**Today's Progress**: Continued with the Bootstrap tutorial.  Spent several hours going through the steps and learned a ton.  I also have good reference based on the code I built with the tutorial.
+
+**Thoughts:** I spent from late morning to evening coding to the Bootstrap tutorial, with breaks only for lunch and to talk to a friend and attend a work meeting.  I can finish up tomorrow and then work on polishing my personal portfolio project to complete the submission.  I really need to learn how to use GitHub, save my code there, and commit my coding changes.  I need to demonstrate that I'm doing commits every day.
+
+**Link to work:** 
+
+### Day X: February X, 2018
+
+**Today's Progress**: 
+
+
+**Thoughts:** 
+
+**Link to work:** 
+
