@@ -205,3 +205,11 @@
 **Thoughts:** Some libraries need special attention and love. Numpy is high on my list because it can improve speed and memory performance of python lists in my code. Its already proving useful in my data analysis work to know about numpy arrays.
 
 **Link to work:** Still to come.
+
+### Day 23: Feb 9, 2018
+
+- Week 4 Early Stopping for Decision Trees in progress. 70% complete.
+
+**Thoughts:** This week of the course seems light/easy on the programttic side and concept side. Its interesting to see how close decision tree algorithm resembles the kd-tree algorithm.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_4_1.ipynb)
