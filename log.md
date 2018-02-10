@@ -224,3 +224,15 @@ Template for logs
 **Today's Progress**: I completed 1 chapter from JS book
 
 **Thoughts**: I learned on how to pass data to functions in form of parameters and arguments.
+
+## Day 32: 09 February, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned on how to pass functions as data to functions and perform arithmetic, if-else operations on them.
+
+## Day 32: 10 February, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned about the difference between global and local variables. How global and local variables are used in functions.
