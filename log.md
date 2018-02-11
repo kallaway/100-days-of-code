@@ -345,6 +345,14 @@
 
 **Link to work:** 
 
+### Day 44: February 11, 2018
+
+**Today's Progress**: Spent my time starting a Git Video training series.  It's a little complicated but I think I can master it.  I made decent progress.  
+
+**Thoughts:** The tricky thing about Git is that it has a web interface, command line interfaces for Mac, Windows, and Linux terminals, a Git app, and integration into tools I use like Atom (and maybe other stuff).  So searching Google for answers to config questions may come up with answers for any of those.  So it's kind of hard to discern how to use it.  My hope is that the tutorial, which uses the command line interface, will allow me to understand the flow.  However, my preference is going to be to use Atom, unless there's some reason why that won't work.  Or at least use the app.  I'm not big on command line interfaces unless I'm scripting something.
+
+**Link to work:** 
+
 ### Day X: February X, 2018
 
 **Today's Progress**: 
