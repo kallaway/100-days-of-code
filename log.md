@@ -639,3 +639,11 @@
 **Thoughts:** Diving deeper into asynchronous scripting
 
 **Link to work:** [jQuery Ajax](https://github.com/nax3t/ajax-jquery-tutorial)
+
+### Day 81: February 10, 2018
+
+**Today's Progress**: An SPA using jQuery Ajax (cont'd)
+
+**Thoughts:** Diving deeper into asynchronous scripting
+
+**Link to work:** [jQuery Ajax](https://github.com/nax3t/ajax-jquery-tutorial)
