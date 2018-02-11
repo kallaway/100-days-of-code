@@ -236,3 +236,9 @@ Template for logs
 **Today's Progress**: I completed 1 chapter from JS book
 
 **Thoughts**: I learned about the difference between global and local variables. How global and local variables are used in functions.
+
+## Day 33: 11 February, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned how to use a switch statement.
