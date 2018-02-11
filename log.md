@@ -213,3 +213,12 @@
 **Thoughts:** This week of the course seems light/easy on the programttic side and concept side. Its interesting to see how close decision tree algorithm resembles the kd-tree algorithm.
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_4_1.ipynb)
+
+### Day 24: Feb 10, 2018
+
+- Week 4 Early Stopping for Decision Trees in progress. 90% complete.
+- Some bug in my build decision tree function. Will work on it tomorrow.
+
+**Thoughts:** Need to find this bug but too tired. Will come back to it tomorrow.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_4_1.ipynb)
