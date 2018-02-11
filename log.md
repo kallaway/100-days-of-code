@@ -222,3 +222,11 @@
 **Thoughts:** Need to find this bug but too tired. Will come back to it tomorrow.
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek_4_1.ipynb)
+
+### Day 24: Feb 10, 2018
+
+- Did week 4 part 2 lectures. Handling missing data with Decision Trees
+
+**Thoughts:** Snaptravel Work and recovery from DB practice last night decreased efficiency
+
+**Link to work:** NTS(Nothing to show)
