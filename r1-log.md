@@ -246,3 +246,6 @@ An SPA using jQuery Ajax
 
 ### R1D81
 An SPA using jQuery Ajax (cont'd)
+
+### R1D82
+Implementing search functionality with Ajax.
