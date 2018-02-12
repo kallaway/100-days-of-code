@@ -647,3 +647,11 @@
 **Thoughts:** Diving deeper into asynchronous scripting
 
 **Link to work:** [jQuery Ajax](https://github.com/nax3t/ajax-jquery-tutorial)
+
+### Day 82: February 11, 2018
+
+**Today's Progress**: Implementing search functionality with Ajax.
+
+**Thoughts:** Implementation of a simple search
+
+**Link to work:** [Tutorial](https://github.com/nax3t/ajax-jquery-tutorial/blob/completed-app/search.md)
