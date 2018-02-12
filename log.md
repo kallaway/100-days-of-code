@@ -4,7 +4,7 @@
 
 **Today's Progress**: Did a GitHub tutorial, did some Javascript FreeCodeCamp lessons.
 
-**Thoughts:** I wasn't going to commit to #100DaysOfCode right away because I had other things I wanted to do first.  But if not now, when?  I feel pretty good about what I learned in GitHub and FreeCodeCamp. 
+**Thoughts:** I wasn't going to commit to #100DaysOfCode right away because I had other things I wanted to do first.  But if not now, when?  I feel pretty good about what I learned in GitHub and FreeCodeCamp.
 
 **Link to work:** N/A
 
@@ -74,7 +74,7 @@
 
 ### Day 10: January 8, 2018
 
-**Today's Progress**: Finished @FreeCodeCamp JavaScript exercises and made good headway into Object Oriented and Functional programming.  Kids started interrupting me and I got to a point where I was guessing at syntax from context clues rather than learning the material to pass the tests.  So I'm giving it a rest for tonight. 
+**Today's Progress**: Finished @FreeCodeCamp JavaScript exercises and made good headway into Object Oriented and Functional programming.  Kids started interrupting me and I got to a point where I was guessing at syntax from context clues rather than learning the material to pass the tests.  So I'm giving it a rest for tonight.
 
 **Thoughts:** I feel really good about what I've learned for JavaScript and the OOP stuff.  It's really compelling to me and very energizing.  I also watched a video series on Bootstrap today while riding my bike.  All of the stuff makes sense, and I'm sure with adequate time to learn the tools and concepts, I'll be able to do some really interesting stuff.  So I'll focus on using Bootstrap to upgrade my basic portfolio site to get practice with Bootstrap.  My goal will be to get a basic mastery of simple, functional front-end UI design.  Then I'll focus on algorithms.  I keep getting drawn to deep learning and AI, and specifically the study group.  Tney meet weekly on Sundays, and at other times as well.  Socially and content-wise, it really looks compelling.  The basic coursework includes setting up AWS server images, so I'm also intrigued with the notion that I can learn how to set up AWS environments.
 
@@ -334,7 +334,7 @@
 
 **Thoughts:** I spent from late morning to evening coding to the Bootstrap tutorial, with breaks only for lunch and to talk to a friend and attend a work meeting.  I can finish up tomorrow and then work on polishing my personal portfolio project to complete the submission.  I really need to learn how to use GitHub, save my code there, and commit my coding changes.  I need to demonstrate that I'm doing commits every day.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 43: February 10, 2018
 
@@ -343,7 +343,7 @@
 
 **Thoughts:** I typed out most of the code samples by hand. It takes a lot of time but I get much better undersatanding of the code and what each element does.  I integrated them into my code files and debugged using the developer tools on the Crhome browser.  I used Git for images and to find related files.  Very rudimentary use of all the tools, but the fact that I'm using them is very helpful to get me into the context of using a development environment.  I can build on the code by using and modifying components, and I can build on the tools by using them to streamline my development process now that I have the basic steps working.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 44: February 11, 2018
 
@@ -351,14 +351,22 @@
 
 **Thoughts:** The tricky thing about Git is that it has a web interface, command line interfaces for Mac, Windows, and Linux terminals, a Git app, and integration into tools I use like Atom (and maybe other stuff).  So searching Google for answers to config questions may come up with answers for any of those.  So it's kind of hard to discern how to use it.  My hope is that the tutorial, which uses the command line interface, will allow me to understand the flow.  However, my preference is going to be to use Atom, unless there's some reason why that won't work.  Or at least use the app.  I'm not big on command line interfaces unless I'm scripting something.
 
-**Link to work:** 
+**Link to work:**
+
+### Day 45: February 12, 2018
+
+**Today's Progress**: Studied Git on Mac on the command line and in Atom.
+
+
+**Thoughts:** I did a bunch of Youtube videos as well as a tutorial to figure this out.  It seems a bit cumbersome but I'm sure that's simply because I'm not yet used to working with it.  I think once I have a few commits and syncs underway, and have all my local and GitHub repositories synched up it will all make a lot more sense.
+
+**Link to work:**
 
 ### Day X: February X, 2018
 
-**Today's Progress**: 
+**Today's Progress**:
 
 
-**Thoughts:** 
+**Thoughts:**
 
-**Link to work:** 
-
+**Link to work:**
