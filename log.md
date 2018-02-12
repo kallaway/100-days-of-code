@@ -370,3 +370,12 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day X: February X, 2018
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+**Link to work:**
