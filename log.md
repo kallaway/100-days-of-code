@@ -655,3 +655,11 @@
 **Thoughts:** Implementation of a simple search
 
 **Link to work:** [Tutorial](https://github.com/nax3t/ajax-jquery-tutorial/blob/completed-app/search.md)
+
+### Day 83: February 12, 2018
+
+**Today's Progress**: Peep into Microservice Architecture Pattern.
+
+**Thoughts:** Learned the basics of migrating from Monolithic pattern to Microservice pattern
+
+**Link to work:** [Microservice](http://microservices.io/), [Example](https://github.com/AminuSufi585/jquery-ajax-spa)
