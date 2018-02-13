@@ -252,3 +252,6 @@ Implementing search functionality with Ajax.
 
 ### R1D83
 Peep into Microservice Architecture Pattern.
+
+### R1D84
+Basics of Axios, Promise based HTTP client for the browser and Node.js
