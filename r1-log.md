@@ -249,3 +249,6 @@ An SPA using jQuery Ajax (cont'd)
 
 ### R1D82
 Implementing search functionality with Ajax.
+
+### R1D83
+Peep into Microservice Architecture Pattern.
