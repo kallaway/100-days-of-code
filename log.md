@@ -663,3 +663,11 @@
 **Thoughts:** Learned the basics of migrating from Monolithic pattern to Microservice pattern
 
 **Link to work:** [Microservice](http://microservices.io/), [Example](https://github.com/AminuSufi585/jquery-ajax-spa)
+
+### Day 84: February 13, 2018
+
+**Today's Progress**: Basics of Axios, Promise based HTTP client for the browser and Node.js
+
+**Thoughts:** Advanced Ajax stuff
+
+**Link to work:** [Docs](https://github.com/axios/axios)
