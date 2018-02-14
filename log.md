@@ -240,3 +240,13 @@
 **Link to work:**
 
 ![KaggleEnrty](images/kaggle_submission.png)
+
+
+### Day 27: Feb 13, 2018
+
+- Kaggle entry for (House Prices Competition)[https://www.kaggle.com/c/house-prices-advanced-regression-techniques]. Spent time understanding data better.
+
+**Thoughts:** Good Kaggle kernels is exactly what I was looking for. They help me learn with practical context.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2Fkaggle-house-prices-competition.ipynb)
+

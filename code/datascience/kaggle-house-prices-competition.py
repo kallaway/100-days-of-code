@@ -7,6 +7,11 @@
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
+import seaborn as sns
+import matplotlib.pyplot as plt
+import warnings
+warnings.filterwarnings('ignore')
+get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # In[2]:
@@ -26,6 +31,88 @@ train_df.head()
 
 
 train_df.columns.values
+
+
+# ### Data Analysis and understanding
+# 
+# This kernel in kaggles seems to be relevant to the problem I have picked up and an opportunity to learn a lot.
+# https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+
+# Variables analysis @ https://docs.google.com/spreadsheets/d/1GEHcJFNE-pE-UZscw0GGjjkCAZnsmrJnoz1L5j4K09U/edit?usp=sharing
+
+# Analysing Salesprice, our dependent target variable
+
+# In[5]:
+
+
+train_df['SalePrice'].describe()
+
+
+# In[6]:
+
+
+sns.distplot(train_df['SalePrice']);
+
+
+# Descriptive Stats 
+# Skewness and Kurtosis
+# https://www.r-bloggers.com/measures-of-skewness-and-kurtosis/
+
+# In[8]:
+
+
+print("Skewness: %f" % train_df['SalePrice'].skew())
+print("Kurtosis: %f" % train_df['SalePrice'].kurt())
+
+
+# In[10]:
+
+
+var = 'GrLivArea'
+data = pd.concat([train_df['SalePrice'], train_df[var]], axis=1)
+data.plot.scatter(x=var, y='SalePrice', ylim=(0,800000));
+
+
+# In[11]:
+
+
+var = 'LotArea'
+data = pd.concat([train_df['SalePrice'], train_df[var]], axis=1)
+data.plot.scatter(x=var, y='SalePrice', ylim=(0,800000));
+
+
+# In[12]:
+
+
+var = 'MasVnrArea'
+data = pd.concat([train_df['SalePrice'], train_df[var]], axis=1)
+data.plot.scatter(x=var, y='SalePrice', ylim=(0,800000));
+
+
+# In[13]:
+
+
+var = '3SsnPorch'
+data = pd.concat([train_df['SalePrice'], train_df[var]], axis=1)
+data.plot.scatter(x=var, y='SalePrice', ylim=(0,800000));
+
+
+# In[14]:
+
+
+var = 'TotalBsmtSF'
+data = pd.concat([train_df['SalePrice'], train_df[var]], axis=1)
+data.plot.scatter(x=var, y='SalePrice', ylim=(0,800000));
+
+
+# In[15]:
+
+
+var = 'OverallQual'
+data = pd.concat([train_df['SalePrice'], train_df[var]], axis=1)
+f, ax = plt.subplots(figsize=(8, 6))
+fig = sns.boxplot(x=var, y="SalePrice", data=data)
+fig.axis(ymin=0, ymax=800000);
 
 
 # In[5]:
