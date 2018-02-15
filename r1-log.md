@@ -255,3 +255,6 @@ Peep into Microservice Architecture Pattern.
 
 ### R1D84
 Basics of Axios, Promise based HTTP client for the browser and Node.js
+
+### R1D85
+On busy end, only few Python scripts were written.
