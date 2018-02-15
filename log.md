@@ -679,3 +679,11 @@
 **Thoughts:** I just wake up with a strange drive for Python
 
 **Link to work:** [Python Tutorials](https://pythonprogramming.net)
+
+### Day 86: February 15, 2018
+
+**Today's Progress**: Working with SOAP based API.. Travelling backward in time :)
+
+**Thoughts:** A pretty old SOAP, I prefer JSON based.. But this one is not too bad!
+
+**Link to work:** API used [here](http://thecatapi.com/api/images/get?format=xml&results_per_page=1)
