@@ -671,3 +671,11 @@
 **Thoughts:** Advanced Ajax stuff
 
 **Link to work:** [Docs](https://github.com/axios/axios)
+
+### Day 85: February 14, 2018
+
+**Today's Progress**: On busy end, only few Python scripts were written.
+
+**Thoughts:** I just wake up with a strange drive for Python
+
+**Link to work:** [Python Tutorials](https://pythonprogramming.net)
