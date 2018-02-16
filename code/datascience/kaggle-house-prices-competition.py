@@ -1,7 +1,10 @@
 
 # coding: utf-8
 
-# In[33]:
+# ## Housing Price Prediction Challenge
+# https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+# In[1]:
 
 
 import pandas as pd
@@ -14,7 +17,7 @@ warnings.filterwarnings('ignore')
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 
-# In[41]:
+# In[2]:
 
 
 train_df = pd.read_csv('data/kaggle/house-prices/train.csv', index_col='Id')
@@ -186,7 +189,7 @@ missing_data = pd.concat([total, percent], axis=1, keys=['Total', 'Percent'])
 missing_data.head(20)
 
 
-# In[ ]:
+# In[20]:
 
 
 train_df_cleaned = train_df.drop((missing_data[missing_data['Total'] > 1]).index,1)
@@ -194,20 +197,69 @@ train_df_cleaned = train_df_cleaned.drop(train_df_cleaned.loc[train_df_cleaned['
 train_df_cleaned.isnull().sum().max()
 
 
-# In[ ]:
+# In[21]:
 
 
 train_df_cleaned.columns.values
 
 
-# In[190]:
+# In[26]:
+
+
+from scipy.stats import norm
+from scipy import stats
+
+
+# In[30]:
+
+
+#histogram and QQ plot
+
+sns.distplot(train_df['SalePrice'], fit=norm);
+fig = plt.figure()
+res = stats.probplot(train_df['SalePrice'], plot=plt)
+
+
+# In[31]:
+
+
+# log transformations!! 
+train_df['SalePrice'] = np.log(train_df['SalePrice'])
+
+
+# In[32]:
+
+
+sns.distplot(train_df['SalePrice'], fit=norm);
+fig = plt.figure()
+res = stats.probplot(train_df['SalePrice'], plot=plt)
+
+
+# In[33]:
+
+
+sns.distplot(train_df['GrLivArea'], fit=norm);
+fig = plt.figure()
+res = stats.probplot(train_df['GrLivArea'], plot=plt)
+
+
+# In[34]:
+
+
+#histogram and normal probability plot
+sns.distplot(train_df['TotalBsmtSF'], fit=norm);
+fig = plt.figure()
+res = stats.probplot(train_df['TotalBsmtSF'], plot=plt)
+
+
+# In[67]:
 
 
 train_df = pd.read_csv('data/kaggle/house-prices/train.csv', index_col='Id')
 test_df = pd.read_csv('data/kaggle/house-prices/test.csv',index_col='Id')
 
 
-# In[191]:
+# In[68]:
 
 
 target = 'SalePrice'
@@ -218,19 +270,19 @@ test_df['training_set'] = False
 full_df = pd.concat([train_df, test_df])
 
 
-# In[192]:
+# In[69]:
 
 
 full_df = full_df.copy().drop((missing_data[missing_data['Total'] > 1]).index,1)
 
 
-# In[193]:
+# In[70]:
 
 
 full_df.loc[full_df['Electrical'].isnull()].index[0]
 
 
-# In[194]:
+# In[71]:
 
 
 target_series = target_series.drop(full_df.loc[full_df['Electrical'].isnull()].index[0])
@@ -238,26 +290,33 @@ full_df = full_df.drop(full_df.loc[full_df['Electrical'].isnull()].index)
 full_df.isnull().sum().max()
 
 
-# In[195]:
+# In[72]:
+
+
+selected_features = ['OverallQual', 'GrLivArea', 'GarageCars', 'TotalBsmtSF', 'FullBath', 'YearBuilt', 'training_set']
+full_df = full_df[selected_features]
+
+
+# In[73]:
 
 
 full_df = full_df.interpolate()
 full_df = pd.get_dummies(full_df)
 
 
-# In[196]:
+# In[74]:
 
 
 train_df.shape
 
 
-# In[197]:
+# In[75]:
 
 
 target_series.shape
 
 
-# In[198]:
+# In[76]:
 
 
 train_df = full_df[full_df['training_set']].drop('training_set', axis=1)
@@ -265,38 +324,38 @@ test_df = full_df[~full_df['training_set']].drop('training_set', axis=1)
 train_df.head()
 
 
-# In[199]:
+# In[77]:
 
 
 print(train_df.shape, target_series.shape)
 
 
-# In[200]:
+# In[78]:
 
 
 rf2 = RandomForestRegressor(n_estimators=100, n_jobs=-1)
 rf2.fit(train_df, target_series)
 
 
-# In[201]:
+# In[79]:
 
 
-predictions = rf1.predict(test_df)
+predictions = rf2.predict(test_df)
 
 
-# In[202]:
+# In[80]:
 
 
 my_submission = pd.DataFrame({'Id': test_df.index, 'SalePrice': predictions})
 
 
-# In[203]:
+# In[81]:
 
 
-my_submission.to_csv('data/kaggle/house-prices/submission2.csv', index=False)
+my_submission.to_csv('data/kaggle/house-prices/submission3.csv', index=False)
 
 
-# In[204]:
+# In[82]:
 
 
 my_submission.shape
