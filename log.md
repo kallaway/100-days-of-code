@@ -357,15 +357,38 @@
 
 **Today's Progress**: Studied Git on Mac on the command line and in Atom.
 
-
 **Thoughts:** I did a bunch of Youtube videos as well as a tutorial to figure this out.  It seems a bit cumbersome but I'm sure that's simply because I'm not yet used to working with it.  I think once I have a few commits and syncs underway, and have all my local and GitHub repositories synched up it will all make a lot more sense.
 
-**Link to work:**
+### Day 46: February 13, 2018
+
+**Today's Progress**: Did some Git reading, I understand it slightly better and have a better sense of what projects are.  But no coding today either.
+
+
+**Thoughts:** Frustrating that I didn't code and that I'm not making real progress with Git.  I did come to the realization that I should create my Hello World ideal template with base.css and main.js, and then clone that to create the other projects.  Once I do that I can replace the HTML files for my FreeCodeCamp projects and save back to GitHub.  Will take some time to work through it all, though, and I didn't have that time today.
+
+**Link to work:** 
+
+### Day 47: February 14, 2018
+
+**Today's Progress**: Valentine's day.  We usually don't make a big deal about it but Maggie did this year.  I was busy with work during the day and did Valentine's day stuff in the evening.  So no coding.  Just more reading.
+
+
+**Thoughts:** I get that I'm busy, but I'm not THAT busy.  I'm intimidated that I don't know Git well enough.  I need to power through.  I've done some reading every day, and that's something, but it's not coding.  I need to re-engage.  Pushe myself to get something done.  I know I can do it, I just need to do it.
+
+**Link to work:** 
+
+### Day 48: February 15, 2018
+
+**Today's Progress**: Watched some videos and read some blog posts.  I'm getting valid input and context and I'm learning.  But I'm not coding.
+
+
+**Thoughts:** Several things came up unexpectedly today.  Work related.  I thought I'd have a few hours to code, but I didn't.  And then in the evening, had to be a taxi driver for the kids.  So no coding.  I was really excited that I took time off from work and got a ton done.  But not sure it paid off in the long run, since I coded four straight days and then didn't code for four straight days.
+
+**Link to work:** 
 
 ### Day X: February X, 2018
 
 **Today's Progress**:
-
 
 **Thoughts:**
 
