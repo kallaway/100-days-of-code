@@ -260,3 +260,14 @@
 
 ![KaggleEnrty](images/kaggle_submission2.png)
 
+### Day 29: Feb 15, 2018
+
+- QQ plots and normality exploration on features for [House Prices Competition Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+- Created another submission with feawer more relevant features but the score was lower.
+
+**Thoughts:** Learnt a bunch of pandas tricks, seaborn usage and feature selection.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2Fkaggle-house-prices-competition.ipynb)
+
+
+
