@@ -395,6 +395,14 @@
 **Link to work:**
 
 
+### Day 50: February 17, 2018
+
+**Today's Progress**: Made tweaks to portfolio, searched for appropriate images for my video games.  Redesigned page to eliminate the contact section and add a video game section to represent my old coding experience.
+
+**Thoughts:** I was frustrated at first that I didn't do much actual coding, but then I realized that managing images is a critical part of front-end development and this is important work.  I learned a lot and will require less time to manage the images next time around.
+
+**Link to work:**
+
 ### Day X: February X, 2018
 
 **Today's Progress**:
