@@ -687,3 +687,11 @@
 **Thoughts:** A pretty old SOAP, I prefer JSON based.. But this one is not too bad!
 
 **Link to work:** API used [here](http://thecatapi.com/api/images/get?format=xml&results_per_page=1)
+
+### Day 87: February 16, 2018
+
+**Today's Progress**: Working with fetch API.
+
+**Thoughts:** Looking for an alternative to XHR! Fetch is great but not supported by IE
+
+**Link to work:** [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
