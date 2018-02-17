@@ -261,3 +261,6 @@ On busy end, only few Python scripts were written.
 
 ### R1D86
 Working with SOAP based API.. Travelling backward in time :)
+
+### R1D87
+Working with fetch API.
