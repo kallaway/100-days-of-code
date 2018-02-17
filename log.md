@@ -386,6 +386,15 @@
 
 **Link to work:** 
 
+### Day 49: February 16, 2018
+
+**Today's Progress**: Got Git working in Atom.  Set up my portfolio and my Bootstrap projects in Github.  Updated the header HTML and CSS for my portfolio.  Researched images I could use on my personal portfolio page.
+
+**Thoughts:** Feels great to have the system up and running.  I'm still not very disciplined about pulling from templates because I don't have enough experience yet.  I have to get into a flow and then clean up my environment.  But the great news is that I can create projects on GitHub, clone them, add my files locally, and update back to the server.  Then I can create branches, commit changes, and merge pull requests.  Great stuff once I get into a flow.  I've also put my code from Git/Atom into CodePen.  Just need to smooth out my process and keep cranking away at each project.  I'll get there.
+
+**Link to work:**
+
+
 ### Day X: February X, 2018
 
 **Today's Progress**:
@@ -393,3 +402,4 @@
 **Thoughts:**
 
 **Link to work:**
+
