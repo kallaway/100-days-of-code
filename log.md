@@ -695,3 +695,11 @@
 **Thoughts:** Looking for an alternative to XHR! Fetch is great but not supported by IE
 
 **Link to work:** [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
+### Day 88: February 17, 2018
+
+**Today's Progress**: Deeper look at Axios.
+
+**Thoughts:** Diving deeper to know more about asynchronous request
+
+**Link to work:** [Docs](https://github.com/axios/axios)
