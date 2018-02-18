@@ -242,3 +242,21 @@ Template for logs
 **Today's Progress**: I completed 1 chapter from JS book
 
 **Thoughts**: I learned how to use a switch statement.
+
+## Day 34: 16 February, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned about the usage of default in switch satements
+
+## Day 35: 17 February, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned about the while loops
+
+## Day 36: 18 February, 2018
+
+**Today's Progress**: I completed 1 chapter from JS book
+
+**Thoughts**: I learned abot the difference between do...while and while loops.
