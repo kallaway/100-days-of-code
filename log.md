@@ -703,3 +703,11 @@
 **Thoughts:** Diving deeper to know more about asynchronous request
 
 **Link to work:** [Docs](https://github.com/axios/axios)
+
+### Day 89: February 18, 2018
+
+**Today's Progress**: Unit testing with Jasmine.
+
+**Thoughts:** Another nice alternative to Mocha and Chai
+
+**Link to work:** [Docs](https://jasmine.github.io/setup/nodejs.html)
