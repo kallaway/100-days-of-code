@@ -1,4 +1,5 @@
 # I've joined the #100DaysOfCode Challenge.
+**But I modified it my way**, instead of tweeting, I'm sharing news with friends in a WhatsApp group (who are also in).
 
 ## Contents
 * [Rules](rules.md)
