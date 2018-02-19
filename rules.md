@@ -4,14 +4,14 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+**Round 1**: February 19th, 2018.
 
-## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
+## Additional Rules (R1)
+1. I will message in whatsapp group about my progress every day
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+4. I will update the (Log)[r1-log.md] with the day's progress and provide a link so that others can see my progress (if possible).
+5. I will work on learning new technologies or real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources that I ALREADY KNOW will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 
 ## Ideas to make this challenge more effective
