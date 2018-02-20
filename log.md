@@ -719,3 +719,11 @@
 **Thoughts:** Feeling theoretical today
 
 **Link to work:** [MDN Docs](https://developer.mozilla.org/en-US/docs/Learn)
+
+### Day 91: February 20, 2018
+
+**Today's Progress**: Manipulating Google Apps using Apps Script.
+
+**Thoughts:** Thinking about programmatic manipulation of Google Apps
+
+**Link to work:** [Apps Script Launchpad Videos](https://developers.google.com/apps-script/guides/videos)
