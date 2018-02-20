@@ -711,3 +711,11 @@
 **Thoughts:** Another nice alternative to Mocha and Chai
 
 **Link to work:** [Docs](https://jasmine.github.io/setup/nodejs.html)
+
+### Day 90: February 19, 2018
+
+**Today's Progress**: Readings from MDN docs.
+
+**Thoughts:** Feeling theoretical today
+
+**Link to work:** [MDN Docs](https://developer.mozilla.org/en-US/docs/Learn)
