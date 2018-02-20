@@ -273,3 +273,6 @@ Unit testing with Jasmine.
 
 ### R1D90
 Readings from MDN docs.
+
+### R1D91
+Manipulating Google Apps using Apps Script
