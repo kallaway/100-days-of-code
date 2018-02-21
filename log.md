@@ -275,3 +275,15 @@
 - Played and understood itertools. It seems to be the missing tools I needed for my data pipeline work. Efficient way to read data without reading it in memory at once and cycling through with multiple times without multiple copies.
 
 **Link to work:** NTS
+
+
+
+ ~~~~~~~~~~~~Took a 3 Day Break in Provincial Park Algonquin~~~~~~~~~~~~
+
+### Day 31: Feb 20, 2018
+
+- Started working on linear programming to write some optimisizers given a dataset. I think it can be a simple and a neat way to solve personal problems everyday :)
+
+Thougths: ** Back from vacay and refreshed.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
