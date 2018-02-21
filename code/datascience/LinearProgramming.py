@@ -7,12 +7,15 @@
 # 2. http://benalexkeen.com/linear-programming-with-python-and-pulp-part-1/
 # 
 
-# In[10]:
+# In[24]:
 
 
 import numpy as np
 import matplotlib.pyplot as plt
 import pulp
+import pandas as pd
+import re 
+
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 
@@ -88,4 +91,10 @@ for variable in lp_problem.variables():
 
 
 print(pulp.value(lp_problem.objective))
+
+
+# In[28]:
+
+
+books_df = pd.read_csv('data/goodreads_bestsellers.csv')
 
