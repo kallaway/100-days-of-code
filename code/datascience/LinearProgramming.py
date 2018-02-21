@@ -7,11 +7,12 @@
 # 2. http://benalexkeen.com/linear-programming-with-python-and-pulp-part-1/
 # 
 
-# In[1]:
+# In[10]:
 
 
 import numpy as np
 import matplotlib.pyplot as plt
+import pulp
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 
@@ -47,8 +48,44 @@ plt.fill_between(x, y5, y6, where=y5>y6, color='grey', alpha=0.5)
 plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
 
 
-# In[9]:
+# In[13]:
 
 
+# Now the same thing as pulp
+lp_problem = pulp.LpProblem("My LP Problem", pulp.LpMaximize)
+x = pulp.LpVariable('x', lowBound=0, cat='Continuous')
+y = pulp.LpVariable('y', lowBound=2, cat='Continuous')
+# Objective function
+lp_problem += 4 * x + 3 * y, "Z"
 
+# Constraints
+lp_problem += 2 * y <= 25 - x
+lp_problem += 4 * y >= 2 * x - 8
+lp_problem += y <= 2 * x - 5
+
+
+# In[14]:
+
+
+lp_problem
+
+
+# In[16]:
+
+
+lp_problem.solve()
+pulp.LpStatus[lp_problem.status]
+
+
+# In[21]:
+
+
+for variable in lp_problem.variables():
+    print("{} = {}".format(variable.name, variable.varValue))
+
+
+# In[22]:
+
+
+print(pulp.value(lp_problem.objective))
 
