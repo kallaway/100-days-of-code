@@ -270,4 +270,8 @@
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2Fkaggle-house-prices-competition.ipynb)
 
 
+### Day 30: Feb 16, 2018
 
+- Played and understood itertools. It seems to be the missing tools I needed for my data pipeline work. Efficient way to read data without reading it in memory at once and cycling through with multiple times without multiple copies.
+
+**Link to work:** NTS
