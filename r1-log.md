@@ -276,3 +276,6 @@ Readings from MDN docs.
 
 ### R1D91
 Manipulating Google Apps using Apps Script
+
+### R1D92
+Working on react-native app.
