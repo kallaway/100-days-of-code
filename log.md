@@ -276,9 +276,7 @@
 
 **Link to work:** NTS
 
-
-
- ~~~~~~~~~~~~Took a 3 Day Break in Provincial Park Algonquin~~~~~~~~~~~~
+~~~~~~~~~~~~ Took a 3 Day Break in Provincial Park Algonquin ~~~~~~~~~~~~
 
 ### Day 31: Feb 20, 2018
 
@@ -287,3 +285,12 @@
 Thougths: ** Back from vacay and refreshed.
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
+
+
+### Day 32: Feb 21, 2018
+
+- Scrapy bot for collecting goodreads book data from book list.
+
+Thougths: ** Scrapy is quick, great and effective way to collect personal data. Enjoyed working with it.
+
+**Link to work:** Nothing To Show. Code in repo.
