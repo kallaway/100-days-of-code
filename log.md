@@ -403,6 +403,54 @@
 
 **Link to work:**
 
+### Day 51: February 18, 2018
+
+**Today's Progress**:Did some reading but took a rest day.  Didn't code.
+
+**Thoughts:** Needed a break.
+
+**Link to work:**
+
+### Day 52: February 19, 2018
+
+**Today's Progress**:Did more reading and learned some Git stuff but didn't code.
+
+**Thoughts:** I should have spent more time on coding but didn't make the time.
+
+**Link to work:**
+
+### Day 53: February 20, 2018
+
+**Today's Progress**:Travel day, didn't code.
+
+**Thoughts:** Traveling and in meetings from early morning to late night.
+
+**Link to work:**
+
+### Day 54: February 21, 2018
+
+**Today's Progress**: Cleaned up my code and Git environment, as well as local Mac file environment.  Did some CSS and HTML coding on my personal portfolio.
+
+**Thoughts:** I'm realizing that I'm not really motivated to do the freecodecamp portfolio of programs.  I'm going to focus on functional programming and my AI model instead.  See where that takes me.  I have a better sense of what I need to do, and I have good development tools set up to support me.  So I should be in good shape to learn, even if it turns out I don't make progress on my AI yet.
+
+**Link to work:**
+
+### Day 55: February 22, 2018
+
+**Today's Progress**: Spent several hours working on Javascript tutorials.  Learned some good concepts, did some javascript coding, and downloaded some code from the tutorial.
+
+**Thoughts:** I really like the notion of "functional core, imperative shell.  The notion that the core rules are solid and consistent and independent of states, data, and variables.  Since those things can be passed into the core, along with functions, it allows the core to stay simple while the context-specific shell takes on the specifics of a problem being solved.  Looking forward to getting deeper into this.
+
+**Link to work:**
+
+### Day X: February X, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
 ### Day X: February X, 2018
 
 **Today's Progress**:
