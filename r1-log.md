@@ -279,3 +279,6 @@ Manipulating Google Apps using Apps Script
 
 ### R1D92
 Working on react-native app.
+
+### R1D93
+Continuation of the started react-native app.
