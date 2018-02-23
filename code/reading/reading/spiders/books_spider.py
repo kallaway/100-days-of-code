@@ -42,6 +42,8 @@ class BooksSpider(scrapy.Spider):
     num_ratings = response.css('#bookMeta a span.votes.value-title::text').extract_first()
     num_review = response.css('#bookMeta a span.count.value-title::text').extract_first()
     num_pages = response.css('#details div span:nth-child(2)::text').extract_first()
+    genres = response.css('div.left a.bookPageGenreLink:nth-child(1)::text').extract()
+    genres_weights = response.css('div.right a.bookPageGenreLink::text').extract()
 
     if book_title:
       #create a dictionary to store the scraped info
@@ -52,6 +54,7 @@ class BooksSpider(scrapy.Spider):
       }
       yield scraped_info
 
+body > div.content > div.mainContentContainer > div.mainContent > div.mainContentFloat > div.rightContainer > div:nth-child(6) > div > div.bigBoxBody > div > div:nth-child(7) > div.left > a:nth-child(1)
 
     for url in book_page_urls + next_page_urls:
       book_page_url = urljoin(self.root_domain, url)
