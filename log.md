@@ -443,11 +443,11 @@
 
 **Link to work:**
 
-### Day X: February X, 2018
+### Day 56: February 23, 2018
 
-**Today's Progress**:
+**Today's Progress**: Watched chapter 2 of Learning Fucntional Javascript and took notes in Evernote and added comments in sample code
 
-**Thoughts:**
+**Thoughts:** I don't know Javascript well enough.  But this stuff is very useful.  I need to iterate between learning these techniques and learning Javascript syntax.  Maybe do this tutorial and mix it with FreeCodeCamp exerciases to learn syntax.
 
 **Link to work:**
 
