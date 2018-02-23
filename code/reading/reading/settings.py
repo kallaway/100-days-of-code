@@ -90,5 +90,5 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 #Export as CSV Feed
-FEED_FORMAT = "csv"
-FEED_URI = "goodread_books.csv"
+FEED_FORMAT = "json"
+FEED_URI = "goodread_books.json"
