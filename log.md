@@ -294,3 +294,12 @@ Thougths: ** Back from vacay and refreshed.
 Thougths: ** Scrapy is quick, great and effective way to collect personal data. Enjoyed working with it.
 
 **Link to work:** Nothing To Show. Code in repo.
+
+
+### Day 33: Feb 22, 2018
+
+- Data collection for best booklist is in progress. Added top genres based on user labels.
+
+Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
+
+**Link to work:** Nothing To Show. Code in repo.
