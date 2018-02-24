@@ -751,3 +751,11 @@
 **Thoughts:** Look into more React UI component libraries
 
 **Link to work:** [React Components](https://www.reactcomponent.io/)
+
+### Day 95: February 24, 2018
+
+**Today's Progress**: Looking for tips of scaling React-Native App.
+
+**Thoughts:** Needs to know how to scale my app
+
+**Link to work:** [Scaling React Native App](https://medium.com/the-andela-way/how-to-structure-a-react-native-app-for-scale-a29194cd33fc)
