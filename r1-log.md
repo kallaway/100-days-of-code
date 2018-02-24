@@ -285,3 +285,6 @@ Continuation of the started react-native app.
 
 ### R1D94
 Peep into more React component libraries.
+
+### R1D95
+Looking for tips of scaling React-Native App.
