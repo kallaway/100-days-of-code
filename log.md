@@ -303,3 +303,14 @@ Thougths: ** Scrapy is quick, great and effective way to collect personal data. 
 Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
 
 **Link to work:** Nothing To Show. Code in repo.
+
+
+
+### Day 34: Feb 23, 2018
+
+- Modified num_pages, started playing with data to construct linearprogramming model
+- Started some lecture on linearprogramming on safaribooks to better understand the concepts while coding it up
+
+Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)

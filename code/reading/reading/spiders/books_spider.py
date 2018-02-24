@@ -5,6 +5,7 @@ import logging
 import numpy as np
 logger = logging.getLogger(__name__)
 
+get_first_digits = lambda y: list(filter(lambda x: x.replace(',','').isdigit(), y.split()))[0]
 class BooksSpider(scrapy.Spider):
   name = "books"
   root_domain = 'https://www.goodreads.com'
@@ -38,8 +39,8 @@ class BooksSpider(scrapy.Spider):
     try:
       genres = [cls.clean_string(x)[1] for x in genres if cls.clean_string(x)[0]]
       genre_users = [cls.clean_string(x)[1] for x in genres_users if cls.clean_string(x)[0]]
-      get_digits = lambda y: list(filter(lambda x: x.replace(',','').isdigit(), y.split()))[0]
-      genres_scores_map = map(lambda x: int(get_digits(x).replace(',', '')) , genre_users)
+
+      genres_scores_map = map(lambda x: int(get_first_digits(x).replace(',', '')) , genre_users)
       genres_scores = np.fromiter(genres_scores_map, dtype=np.float)
       genres_weights = genres_scores / genres_scores.sum()
       genres_with_weights = sorted(list(zip(genres_weights, genres)), key=lambda x: x[0], reverse=True)
@@ -55,21 +56,21 @@ class BooksSpider(scrapy.Spider):
     book_rating = response.css('span.rating span.average::text').extract_first()
     num_ratings = response.css('#bookMeta a span.votes.value-title::text').extract_first()
     num_review = response.css('#bookMeta a span.count.value-title::text').extract_first()
-    num_pages = response.css('#details div span:nth-child(2)::text').extract_first()
+    num_pages = response.css('#details.uitext.darkGreyText div span[itemprop="numberOfPages"]::text').extract_first()
     genres = response.css('div.left a.bookPageGenreLink:nth-child(1)::text').extract()
     genre_users = response.css('div.right a.bookPageGenreLink::text').extract()
-    top_genres = self.get_top_5_genres(genres, genre_users)
+    top_genres = self.get_top_3_genres(genres, genre_users)
 
     if book_title:
       #create a dictionary to store the scraped info
       scraped_info = {
           'title' : self.clean_string(book_title)[1],
-          'rating' : book_rating,
+          'rating' : float(self.clean_string(book_rating)[1]),
           'url' : response.url,
           'genres' : top_genres,
-          'num_ratings' : num_ratings,
-          'num_review' : num_review,
-          'num_pages' : num_pages
+          'num_ratings' : self.clean_string(num_ratings)[1].replace(',','') if num_ratings else None,
+          'num_review' : self.clean_string(num_review)[1].replace(',','') if num_review else None,
+          'num_pages' : self.clean_string(get_first_digits(num_pages))[1].replace(',','') if num_pages else None
       }
       yield scraped_info
 
