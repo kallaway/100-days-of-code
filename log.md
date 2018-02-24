@@ -451,6 +451,14 @@
 
 **Link to work:**
 
+### Day 57: February 24, 2018
+
+**Today's Progress**: Went through tutorial on higher order functions, including first-class functions, passing functions as arguments, and returning functions. 
+
+**Thoughts:**  I'm starting to get the hang of how the syntax works and how to create solid core code vs generic code.  The idea is that the more readable the core code, the less likely that bugs will be present.  And taking the non-core code out into generic or close-to-generic functions means that those non-core functions don't clutter up the core code and make it leass readable.  Plus, those non-core functions can be re-used.
+
+**Link to work:**
+
 ### Day X: February X, 2018
 
 **Today's Progress**:
