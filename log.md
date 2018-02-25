@@ -314,3 +314,14 @@ Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take
 Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take more time than the complex math and algorithm part :|
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
+
+
+
+### Day 35: Feb 24, 2018
+
+- Started learning and diving into my first simple LP model.
+- Still WIP, fighting with pulp to work for small data first.
+
+Thougths: ** Pulp is playing hard to work with right now. Will run some sample code from github to learn if it works in my env.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
