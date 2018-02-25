@@ -759,3 +759,11 @@
 **Thoughts:** Needs to know how to scale my app
 
 **Link to work:** [Scaling React Native App](https://medium.com/the-andela-way/how-to-structure-a-react-native-app-for-scale-a29194cd33fc)
+
+### Day 96: February 25, 2018
+
+**Today's Progress**: Deeper look at React-Native APIs.
+
+**Thoughts:** Playing around with its APIs
+
+**Link to work:** [React Native APIs](http://devdocs.io/react_native-apis/)
