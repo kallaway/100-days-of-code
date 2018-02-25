@@ -288,3 +288,6 @@ Peep into more React component libraries.
 
 ### R1D95
 Looking for tips of scaling React-Native App.
+
+### R1D96
+Deeper look at React-Native APIs.
