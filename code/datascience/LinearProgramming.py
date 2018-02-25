@@ -7,7 +7,7 @@
 # 2. http://benalexkeen.com/linear-programming-with-python-and-pulp-part-1/
 # 
 
-# In[1]:
+# In[ ]:
 
 
 import numpy as np
@@ -22,7 +22,7 @@ warnings.filterwarnings('ignore')
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 
-# In[2]:
+# In[ ]:
 
 
 # x > 0
@@ -96,36 +96,156 @@ for variable in lp_problem.variables():
 print(pulp.value(lp_problem.objective))
 
 
-# In[21]:
+# In[9]:
 
 
-books_df = pd.read_csv('../reading/sample_books.csv')
+books_df = pd.read_csv('../reading/goodread_books.csv')
+books_df = books_df.sample(50)
 
 
-# In[22]:
+# In[10]:
 
 
 books_df.head()
 
 
-# In[20]:
+# In[11]:
 
 
 sns.distplot(books_df['rating'])
 
 
-# In[23]:
+# In[12]:
 
 
-sns.distplot(books_df['num_
-# create the LP object, set up as a maximization problem --> since we want to maximize the number of books we read in a year
-prob = pulp.LpProblem('BuyingBestsellers', pulp.LpMaximize)pages'])
+sns.distplot(books_df.num_pages.dropna())
 
 
-# In[24]:
+# In[13]:
 
 
 # create the LP object
 # Maximization problem we want to maximize the number of books we read in 100 hours
 prob = pulp.LpProblem('RecommendedBooks', pulp.LpMaximize)
+
+
+# In[14]:
+
+
+#I would not like to read a book more than 1200 pages
+books_df = books_df.dropna(subset=['num_pages'])
+
+
+# In[15]:
+
+
+books_df.shape
+
+
+# In[16]:
+
+
+books_df = books_df[books_df.num_pages <= 1200]
+
+
+# In[17]:
+
+
+books_df.shape
+
+
+# In[18]:
+
+
+sns.distplot(books_df.num_pages.dropna())
+
+
+# In[19]:
+
+
+decision_variables = []
+for rownumber in books_df.index:
+    variable = str('x' + str(rownumber))
+    variable = pulp.LpVariable(str(variable), lowBound = 0, upBound = 1, cat= 'Integer')
+    decision_variables.append(variable)
+print("Total number of decision_variables: " + str(len(decision_variables)))
+
+
+# In[20]:
+
+
+#create optimization function
+total_books = ""
+for i, book in enumerate(decision_variables):
+    total_books += book
+
+prob += total_books
+print("Optimization function: " + str(total_books))
+
+
+# In[21]:
+
+
+total_hours_to_read = 100
+pages_per_hour = 60
+total_pages_can_read = total_hours_to_read * pages_per_hour
+
+
+# In[22]:
+
+
+prob
+
+
+# In[23]:
+
+
+#create constrains - there are only 365 days
+
+total_pages_needs_to_read = ""
+for rownum, row in books_df.iterrows():
+    for i, schedule in enumerate(decision_variables):
+        if rownum == i:
+            formula = row['num_pages']*schedule
+            total_pages_needs_to_read += formula
+
+prob += (total_pages_needs_to_read == total_pages_can_read)
+
+
+# In[24]:
+
+
+prob
+
+
+# In[25]:
+
+
+print(prob)
+prob.writeLP("RecommendedBooks.lp" )
+
+
+# In[28]:
+
+
+pulp.LpSolverDefault.msg = 1
+
+
+# In[29]:
+
+
+optimization_result = prob.solve()
+
+
+# In[26]:
+
+
+#now run optimization
+optimization_result = prob.solve()
+assert optimization_result == pulp.LpStatusOptimal
+print("Status:", LpStatus[prob.status])
+# print("Optimal Solution to the problem: ", value(prob.objective))
+print ("Individual decision_variables: ")
+for v in prob.variables():
+	print(v.name, "=", v.varValue)
 
