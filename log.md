@@ -325,3 +325,14 @@ Thougths: ** Unstructured data can be messy, simple/less valuable stuff can take
 Thougths: ** Pulp is playing hard to work with right now. Will run some sample code from github to learn if it works in my env.
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
+
+
+
+### Day 36: Feb 25, 2018
+
+- First LP model completed. Suggests 374 books in 100 hours.
+
+
+Thougths: ** need to develop better intuition about data cleanup. Could have guessed 0 pages books should be removed. less than 2 star books can be removed. etc. But model works and I have some idea of how to setup objective function and constraints. Need more practice with LP to intuitively create solutions.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
