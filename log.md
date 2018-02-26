@@ -459,6 +459,22 @@
 
 **Link to work:**
 
+### Day 58: February 25, 2018
+
+**Today's Progress**: Watched Functional programming tutorial on Javascript and took notes, both in inline comments and in an Evernote-based review.
+
+**Thoughts:** Very interesting stuff.  Tricky because it's all about how to write good code, and I'm not yet fluent in what I need to write. But I feel like it's very useful to learn both in parallel so that I'm learning how to construct good code as learn the language.
+
+**Link to work:**
+
+### Day 59: February 26, 2018
+
+**Today's Progress**: Watched Functional programming tutorial on server-side Node.js, including asynchronouse functions like reading files and getting inputs from the client.
+
+**Thoughts:**  This is very tricky because I haven't gotten to server-side programming or asynchronous programming.  I get the concepts but I expect I'll need to go over this material multiple times.  Having said that, the idea of functional programming makes perfect sense, and feels both reusable and easier to code and read, especially once a set of constructs and modules has been set up.
+
+**Link to work:**
+
 ### Day X: February X, 2018
 
 **Today's Progress**:
