@@ -767,3 +767,11 @@
 **Thoughts:** Playing around with its APIs
 
 **Link to work:** [React Native APIs](http://devdocs.io/react_native-apis/)
+
+### Day 97: February 26, 2018
+
+**Today's Progress**: Learning web scraping with Node.js
+
+**Thoughts:** Trying to retrieve data from website without using an API
+
+**Link to work:** [Web Scraping with Node.js](https://www.youtube.com/watch?v=eUYMiztBEdY)
