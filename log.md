@@ -336,3 +336,14 @@ Thougths: ** Pulp is playing hard to work with right now. Will run some sample c
 Thougths: ** need to develop better intuition about data cleanup. Could have guessed 0 pages books should be removed. less than 2 star books can be removed. etc. But model works and I have some idea of how to setup objective function and constraints. Need more practice with LP to intuitively create solutions.
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
+
+
+### Day 37: Feb 26, 2018
+
+- 2 more models pushed. FInal version 4 = 78 books in 100 hours, pages range 20-120 and all 4+ rating books
+- Updated model to include more of the dataset. Dropped duplicates, cleaned for children books etc
+
+
+Thougths: ** need to develop better intuition about data cleanup. Pretty happy with the model result though. I feel its achievable to finish reading 70 books in 100 hours.
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
