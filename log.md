@@ -775,3 +775,11 @@
 **Thoughts:** Trying to retrieve data from website without using an API
 
 **Link to work:** [Web Scraping with Node.js](https://www.youtube.com/watch?v=eUYMiztBEdY)
+
+### Day 98: February 27, 2018
+
+**Today's Progress**: Code-splitting in React app using Webpack
+
+**Thoughts:** An advanced but awesome feature
+
+**Link to work:** [Code-Splitting](http://devdocs.io/react/code-splitting)
