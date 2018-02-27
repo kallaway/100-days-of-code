@@ -139,7 +139,7 @@ prob = pulp.LpProblem('RecommendedBooks', pulp.LpMaximize)
 
 
 #I would not like to read a book more than 1200 pages
-books_df = books_df.dropna(subset=['num_pages'])
+books_df = books_df.dropna(subset=['num_pages', 'title', 'rating'])
 
 
 # In[16]:
@@ -151,7 +151,10 @@ books_df.shape
 # In[17]:
 
 
-books_df = books_df[books_df.num_pages <= 1200]
+books_df = books_df[(books_df.num_pages <= 1200) & 
+                    (books_df.num_pages > 20) &
+                    (books_df.rating > 3.5)
+                   ]
 
 
 # In[18]:
@@ -163,33 +166,39 @@ books_df.shape
 # In[19]:
 
 
-sns.distplot(books_df.num_pages.dropna())
+sns.distplot(books_df['rating'])
 
 
 # In[20]:
 
 
-decision_variables = []
-for rownumber, row in books_df.iterrows():
-    variable = str('x' + str(rownumber))
-    variable = pulp.LpVariable(str(variable), lowBound = 0, upBound = 1, cat= 'Integer')
-    decision_variables.append(variable)
-print("Total number of decision_variables: " + str(len(decision_variables)))
+sns.distplot(books_df.num_pages.dropna())
 
 
 # In[21]:
 
 
+decision_variables = {}
+for rownumber, row in books_df.iterrows():
+    variable = str('x' + str(rownumber))
+    variable = pulp.LpVariable(str(variable), lowBound = 0, upBound = 1, cat= 'Integer')
+    decision_variables[rownumber] = variable
+print("Total number of decision_variables: " + str(len(decision_variables)))
+
+
+# In[22]:
+
+
 #create optimization function
 total_books = ""
-for i, book in enumerate(decision_variables):
+for i, book in decision_variables.items():
     total_books += book
 
 prob += total_books
 print("Optimization function: " + str(total_books))
 
 
-# In[22]:
+# In[23]:
 
 
 total_hours_to_read = 100
@@ -197,41 +206,39 @@ pages_per_hour = 60
 total_pages_can_read = total_hours_to_read * pages_per_hour
 
 
-# In[23]:
+# In[24]:
 
 
 prob
 
 
-# In[24]:
+# In[25]:
 
 
 #create constrains - there are only 365 days
 
 total_pages_needs_to_read = ""
 for rownum, row in books_df.iterrows():
-    for i, book in enumerate(decision_variables):
-        if str(rownum) == str(book)[1:] :
-            formula = row['num_pages']*book
-            total_pages_needs_to_read += formula
+    formula = row['num_pages']* decision_variables[rownum]
+    total_pages_needs_to_read += formula
 
 prob += (total_pages_needs_to_read == total_pages_can_read)
 
 
-# In[25]:
+# In[26]:
 
 
 print(prob)
 prob.writeLP("RecommendedBooks.lp" )
 
 
-# In[26]:
+# In[27]:
 
 
 pulp.LpSolverDefault.msg = 1
 
 
-# In[64]:
+# In[28]:
 
 
 #now run optimization
@@ -241,7 +248,7 @@ print("Status of the solution:", pulp.LpStatus[prob.status])
 print("Number of books in the suggested list: ", pulp.value(prob.objective))
 
 
-# In[30]:
+# In[29]:
 
 
 var_name = []
@@ -253,57 +260,63 @@ for v in prob.variables():
 df = pd.DataFrame({'row_num': var_name, 'value': var_value})
 
 
-# In[39]:
+# In[ ]:
 
 
 
    
 
 
-# In[41]:
+# In[30]:
 
 
 df.shape
 
 
-# In[43]:
+# In[31]:
 
 
 df['row_num'] = df.row_num.str.replace('x', '').astype(int)
 
 
-# In[44]:
+# In[32]:
 
 
 df = df[df.value == 1]
 
 
-# In[45]:
+# In[33]:
 
 
 df.shape
 
 
-# In[56]:
+# In[34]:
 
 
 result_df = books_df.loc[df.row_num.tolist()].copy()
 
 
-# In[57]:
+# In[35]:
 
 
 result_df.shape[0]
 
 
-# In[59]:
+# In[36]:
 
 
 sns.distplot(result_df.num_pages)
 
 
-# In[60]:
+# In[37]:
 
 
 sns.distplot(result_df.rating)
+
+
+# In[38]:
+
+
+result_df.to_csv('./v2_reading_list.csv', index=False)
 
