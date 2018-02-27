@@ -139,7 +139,7 @@ prob = pulp.LpProblem('RecommendedBooks', pulp.LpMaximize)
 
 
 #I would not like to read a book more than 1200 pages
-books_df = books_df.dropna(subset=['num_pages', 'title', 'rating'])
+books_df = books_df.dropna(subset=['num_pages', 'title', 'rating', 'genres'])
 
 
 # In[16]:
@@ -148,34 +148,37 @@ books_df = books_df.dropna(subset=['num_pages', 'title', 'rating'])
 books_df.shape
 
 
-# In[17]:
+# In[18]:
 
 
 books_df = books_df[(books_df.num_pages <= 1200) & 
                     (books_df.num_pages > 20) &
-                    (books_df.rating > 3.5)
+                    (books_df.rating > 3.5) &
+                    (books_df.num_ratings > 10000) &
+                    (books_df.num_review > 1000) &
+                    (~books_df.genres.str.contains('children'))
                    ]
-
-
-# In[18]:
-
-
-books_df.shape
 
 
 # In[19]:
 
 
-sns.distplot(books_df['rating'])
+books_df.shape
 
 
 # In[20]:
 
 
-sns.distplot(books_df.num_pages.dropna())
+sns.distplot(books_df['rating'])
 
 
 # In[21]:
+
+
+sns.distplot(books_df.num_pages.dropna())
+
+
+# In[22]:
 
 
 decision_variables = {}
@@ -186,19 +189,19 @@ for rownumber, row in books_df.iterrows():
 print("Total number of decision_variables: " + str(len(decision_variables)))
 
 
-# In[22]:
+# In[23]:
 
 
 #create optimization function
 total_books = ""
 for i, book in decision_variables.items():
-    total_books += book
+    total_books += book * books_df.loc[i, 'rating']
 
 prob += total_books
 print("Optimization function: " + str(total_books))
 
 
-# In[23]:
+# In[24]:
 
 
 total_hours_to_read = 100
@@ -206,13 +209,13 @@ pages_per_hour = 60
 total_pages_can_read = total_hours_to_read * pages_per_hour
 
 
-# In[24]:
+# In[25]:
 
 
 prob
 
 
-# In[25]:
+# In[26]:
 
 
 #create constrains - there are only 365 days
@@ -225,20 +228,20 @@ for rownum, row in books_df.iterrows():
 prob += (total_pages_needs_to_read == total_pages_can_read)
 
 
-# In[26]:
+# In[27]:
 
 
 print(prob)
-prob.writeLP("RecommendedBooks.lp" )
+prob.writeLP("RecommendedBooks3.lp" )
 
 
-# In[27]:
+# In[28]:
 
 
 pulp.LpSolverDefault.msg = 1
 
 
-# In[28]:
+# In[29]:
 
 
 #now run optimization
@@ -248,7 +251,7 @@ print("Status of the solution:", pulp.LpStatus[prob.status])
 print("Number of books in the suggested list: ", pulp.value(prob.objective))
 
 
-# In[29]:
+# In[30]:
 
 
 var_name = []
@@ -267,56 +270,68 @@ df = pd.DataFrame({'row_num': var_name, 'value': var_value})
    
 
 
-# In[30]:
-
-
-df.shape
-
-
 # In[31]:
 
 
-df['row_num'] = df.row_num.str.replace('x', '').astype(int)
+df.shape
 
 
 # In[32]:
 
 
-df = df[df.value == 1]
+df['row_num'] = df.row_num.str.replace('x', '').astype(int)
 
 
 # In[33]:
 
 
-df.shape
+df = df[df.value == 1]
 
 
 # In[34]:
 
 
-result_df = books_df.loc[df.row_num.tolist()].copy()
+df.shape
 
 
 # In[35]:
 
 
-result_df.shape[0]
+result_df = books_df.loc[df.row_num.tolist()].copy()
 
 
 # In[36]:
 
 
-sns.distplot(result_df.num_pages)
+result_df.shape[0]
 
 
 # In[37]:
 
 
-sns.distplot(result_df.rating)
+sns.distplot(result_df.num_pages)
 
 
 # In[38]:
 
 
-result_df.to_csv('./v2_reading_list.csv', index=False)
+sns.distplot(result_df.rating)
+
+
+# In[39]:
+
+
+result_df = result_df.sort_values(ascending=False, by=['rating', 'num_ratings'])
+
+
+# In[40]:
+
+
+result_df.to_csv('./v3_reading_list.csv', index=False)
+
+
+# In[41]:
+
+
+result_df.url.head(10).tolist()
 
