@@ -148,7 +148,7 @@ books_df = books_df.dropna(subset=['num_pages', 'title', 'rating', 'genres'])
 books_df.shape
 
 
-# In[18]:
+# In[17]:
 
 
 books_df = books_df[(books_df.num_pages <= 1200) & 
@@ -158,27 +158,28 @@ books_df = books_df[(books_df.num_pages <= 1200) &
                     (books_df.num_review > 1000) &
                     (~books_df.genres.str.contains('children'))
                    ]
+books_df = books_df.drop_duplicates(subset=['title'])
 
 
-# In[19]:
+# In[18]:
 
 
 books_df.shape
 
 
-# In[20]:
+# In[19]:
 
 
 sns.distplot(books_df['rating'])
 
 
-# In[21]:
+# In[20]:
 
 
 sns.distplot(books_df.num_pages.dropna())
 
 
-# In[22]:
+# In[21]:
 
 
 decision_variables = {}
@@ -189,7 +190,7 @@ for rownumber, row in books_df.iterrows():
 print("Total number of decision_variables: " + str(len(decision_variables)))
 
 
-# In[23]:
+# In[22]:
 
 
 #create optimization function
@@ -201,7 +202,7 @@ prob += total_books
 print("Optimization function: " + str(total_books))
 
 
-# In[24]:
+# In[23]:
 
 
 total_hours_to_read = 100
@@ -209,13 +210,13 @@ pages_per_hour = 60
 total_pages_can_read = total_hours_to_read * pages_per_hour
 
 
-# In[25]:
+# In[24]:
 
 
 prob
 
 
-# In[26]:
+# In[25]:
 
 
 #create constrains - there are only 365 days
@@ -228,20 +229,20 @@ for rownum, row in books_df.iterrows():
 prob += (total_pages_needs_to_read == total_pages_can_read)
 
 
-# In[27]:
+# In[26]:
 
 
 print(prob)
 prob.writeLP("RecommendedBooks3.lp" )
 
 
-# In[28]:
+# In[27]:
 
 
 pulp.LpSolverDefault.msg = 1
 
 
-# In[29]:
+# In[28]:
 
 
 #now run optimization
@@ -251,7 +252,7 @@ print("Status of the solution:", pulp.LpStatus[prob.status])
 print("Number of books in the suggested list: ", pulp.value(prob.objective))
 
 
-# In[30]:
+# In[29]:
 
 
 var_name = []
@@ -270,67 +271,67 @@ df = pd.DataFrame({'row_num': var_name, 'value': var_value})
    
 
 
-# In[31]:
+# In[30]:
 
 
 df.shape
 
 
-# In[32]:
+# In[31]:
 
 
 df['row_num'] = df.row_num.str.replace('x', '').astype(int)
 
 
-# In[33]:
+# In[32]:
 
 
 df = df[df.value == 1]
 
 
-# In[34]:
+# In[33]:
 
 
 df.shape
 
 
-# In[35]:
+# In[34]:
 
 
 result_df = books_df.loc[df.row_num.tolist()].copy()
 
 
-# In[36]:
+# In[35]:
 
 
 result_df.shape[0]
 
 
-# In[37]:
+# In[36]:
 
 
 sns.distplot(result_df.num_pages)
 
 
-# In[38]:
+# In[37]:
 
 
 sns.distplot(result_df.rating)
 
 
-# In[39]:
+# In[38]:
 
 
 result_df = result_df.sort_values(ascending=False, by=['rating', 'num_ratings'])
 
 
+# In[39]:
+
+
+result_df.to_csv('./v4_reading_list.csv', index=False)
+
+
 # In[40]:
-
-
-result_df.to_csv('./v3_reading_list.csv', index=False)
-
-
-# In[41]:
 
 
 result_df.url.head(10).tolist()
