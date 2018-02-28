@@ -347,3 +347,16 @@ Thougths: ** need to develop better intuition about data cleanup. Could have gue
 Thougths: ** need to develop better intuition about data cleanup. Pretty happy with the model result though. I feel its achievable to finish reading 70 books in 100 hours.
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/100-days-of-code/master?filepath=code%2Fdatascience%2FLinearProgramming.ipynb)
+
+
+### Day 38: Feb 27, 2018
+
+- Back to classification course. Finished week 4 quiz and refreshed the last module i was at.
+- Wrote some sql for a random hackerrank challenge to test my skill. (check)
+
+Thougths: ** Working through it
+
+**Link to work:**
+
+![KaggleEnrty](images/quiz_week42.png)
+
