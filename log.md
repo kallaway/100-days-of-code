@@ -783,3 +783,11 @@
 **Thoughts:** An advanced but awesome feature
 
 **Link to work:** [Code-Splitting](http://devdocs.io/react/code-splitting)
+
+### Day 99: February 28, 2018
+
+**Today's Progress**: Wrapping up..
+
+**Thoughts:** Wrapping up all the covered stuffs, and bracing up for challenges a head!
+
+**Link to work:** [This Page](https://github.com/AminuSufi585/100-days-of-code/edit/master/log.md)
