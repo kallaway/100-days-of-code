@@ -475,6 +475,14 @@
 
 **Link to work:**
 
+### Day 60: February 27, 2018
+
+**Today's Progress**: Studied immutability (again, but with better context), recursive programming ("list eaters"), and other functional code concepts. 
+
+**Thoughts:** I'm going too far down the functional programming path without the requisite skills to understand how to apply the concepts.  It's brilliant stuff and I'm committed to using it, but I need to switch gears and learn jQuery first.  I probably also should learn node.js and do some server side programming as well.  Then come back to functional programming.
+
+**Link to work:**
+
 ### Day X: February X, 2018
 
 **Today's Progress**:
