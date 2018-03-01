@@ -360,3 +360,13 @@ Thougths: ** Working through it
 
 ![KaggleEnrty](images/quiz_week42.png)
 
+
+
+### Day 39: Feb 27, 2018
+
+- Started week 5. Boosting. WIP..will start assignment soon.
+- Parallely learning about microservcices architecture and principles.
+
+Thougths: ** Working through it
+
+**Link to work:** Nothing to show. Notes for microservices updated in notes filder.
