@@ -791,3 +791,11 @@
 **Thoughts:** Wrapping up all the covered stuffs, and bracing up for challenges a head!
 
 **Link to work:** [This Page](https://github.com/AminuSufi585/100-days-of-code/edit/master/log.md)
+
+### Day 100: March 1, 2018
+
+**Today's Progress**: Started some projects..
+
+**Thoughts:** This journey only makes me realize how much I didn't know stuffs.. I've a long way to go!
+
+**Link to work:** [This Page](https://github.com/AminuSufi585/100-days-of-code/edit/master/log.md)
