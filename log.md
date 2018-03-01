@@ -26,4 +26,4 @@
 **Thoughts** I've now resumed competitive coding on codechef, and it's a great feeling when I finally solve an algorithm challenge on codechef.
 
 **Link(s) to work**
-1. [Uniform Strings](https://www.codechef.com/problems/STRLBP)
+1. [Uniform Strings - Codechef](https://www.codechef.com/problems/STRLBP)
