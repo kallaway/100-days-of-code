@@ -19,3 +19,4 @@
 **Link(s) to work**
 1. [Smart Strategy - Codechef_Problem](https://www.codechef.com/problems/SMRSTR)
 2. [Good And Bad Persons - Codechef_Problem](https://www.codechef.com/problems/GOODBAD)
+3. [Chef And Cook Off - Codechef_Problem](https://www.codechef.com/problems/CCOOK)
