@@ -1,25 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: March 1, Thrusday
+### Day 1: March 1, 2018 Thrusday
 
 **Today's Progress**: I've gone through practice questions in codechef.
 
@@ -29,9 +10,10 @@
 1. [Uniform Strings - Codechef_Problem](https://www.codechef.com/problems/STRLBP)
 
 
-### Day 2: March 2, Friday
+### Day 2: March 2, 2018 Friday
 
 **Today's Progress**: Today also going through some codechef problems.
+
 **Thoughts** This time I am solving competitive coding problems in Python, and feels like its less time consuming to write code in it. 
 
 **Link(s) to work**
