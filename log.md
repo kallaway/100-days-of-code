@@ -362,7 +362,7 @@ Thougths: ** Working through it
 
 
 
-### Day 39: Feb 27, 2018
+### Day 39: Feb 28, 2018
 
 - Started week 5. Boosting. WIP..will start assignment soon.
 - Parallely learning about microservcices architecture and principles.
@@ -370,3 +370,12 @@ Thougths: ** Working through it
 Thougths: ** Working through it
 
 **Link to work:** Nothing to show. Notes for microservices updated in notes filder.
+
+### Day 40: Mar 1, 2018
+
+- Continued principles of microservices.
+
+Thougths: ** Was strapped on time due to hectic work deadline. But small progress counts I guess.
+
+**Link to work:** Nothing to show. Notes for microservices updated in notes filder.
+
