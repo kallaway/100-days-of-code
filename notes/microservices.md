@@ -51,5 +51,15 @@ What are the **disadvantages**?
 - Continuous delivery
 - Automated testing
 
+#### 3. Hide implementation details
 
+- Hide your databases
+- Most common flaw is sharing same db-model code but if you think about it, different context bound services should store different data for same entity. For example: sales/support will both want to store customer but in different ways
+- Think about communication protocols.
 
+### 4. Autonomy = Decentralisation
+
+- Each team should be able to build it, run it, operate it, decommision it. Team will become expert in business domain of their service
+- Promote internal open source where teams can contribute to other services like open source environment
+- Orchestrator vs Chereographer
+- Use event based communication. So choreographer is loosely coupled with actors and this model can scale very well.
