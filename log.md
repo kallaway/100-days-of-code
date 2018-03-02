@@ -483,7 +483,15 @@
 
 **Link to work:**
 
-### Day X: February X, 2018
+### Day 61: March 1, 2018
+
+**Today's Progress**:  Had a cold, didn't get much coding done but I did do a JavaScript tutorial.  Picked up a few odds and ends.
+
+**Thoughts:** I need to get better and I need to spend more time on coding.  I'm making great progress, but between being sick and having hours of training every day, I'm not doing nearly as much as I'd like to do.
+
+**Link to work:**
+
+### Day X: March X, 2018
 
 **Today's Progress**:
 
