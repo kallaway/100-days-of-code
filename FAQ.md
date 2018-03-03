@@ -1,42 +1,44 @@
 ## FAQ:
-  **Q:** How do I get in touch with the people who are also doing this challenge?  
-  **A:** The best way to connect is to use the list of resources available on the official 100DaysOfCode site:
-  www.100DaysOfCode.com/connect 
-  Also, here is a invite link to the 100DaysOfCode Slack channel: https://tinyurl.com/y73urlup
+
+**Q:** Comment puis-je me mettre en lien avec les gens qui participent aussi au défi?  
+**A:** Le meilleur moyen pour cela est d'utiliser la liste des ressources disponibles sur le site officiel 100DaysofCode:   [www.100DaysOfCode.com/connect](https://www.100DaysOfCode.com/connect)  
+Et voici aussi le lien d'invitation pour le channel Slack des 100joursdecode: https://tinyurl.com/y73urlup (NB: en anglais)
   
-  Search for #100DaysOfCode on Twitter, or join [the 100DaysOfCode room on Gitter](https://gitter.im/Kallaway/100DaysOfCode) — you don’t need an invite, it’s open for anyone to join. Also, follow [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) on Twitter to stay in touch with the community.
+Cherchez #100JoursdeCode sur twitter ou rejoignez [le salon Gitter 100JoursdeCode](https://gitter.im/Kallaway/100DaysOfCode) -- vous n'avez pas besoin d'invitation, c'est ouvert à tout le monde. Enfin, suivez [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) sur twitter pour rester connecté avec la communauté. (NB: en anglais pour l'instant... TODO: un bot en français.)
 
-  **Q:** I've already started the challenge, and I'm currently on Day 8. How can I start using this repo to track my progress?  
-  **A:** Don't worry. Restore as much info on the previous days, but if you can't then just continue from where you are right now. If you have been tweeting about your progress every day, put the links to your tweets in the Log for each day. Then, follow the format.  
+**Q:** J'ai déjà commencé le défi et j'en suis au Jour 8. Comment je peux utiliser ce repo pour garder une trace de mes progrès?  
+**A:** Ne vous inquiétez pas. Retrouvez autant d'infos que possible sur ce que vous avez fait les jours précédents, mais si vous ne pouvez pas, utilisez le repo simplement à partir d'où vous en êtes aujourd'hui. Si vous avez tweeté votre progression chaque jour, ajouter les lien vers vos tweet dans le Journal. Et puis, poursuivez avec ce format.  
 
-  **Q:** I am new to coding (or just deciding to learn to code) and can’t build projects yet, what should I do?  
-  **A:** The best way to start would be to follow the [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.com/) from the very beginning. The further you get during the 100 days, the better.  
+**Q:** Je suis nouveau/nouvelle en programmation (ou: je viens tout juste de décider d'apprendre à coder) et je ne peux pas encore travailler sur des projets. Que dois-je faire?  
+**A:** Le meilleur moyen de commencer serait de suivre [le cours Front End de FreeCodeCamp](https://www.freecodecamp.com/) depuis le début. Plus vous avancerez avec les 100jours, mieux ce sera.
 
-  **Q:** I’ve missed a day, does it mean I’ve failed the challenge?  
-  **A:** Absolutely not. You are allowed to miss one day (then make it up by adding one more day to the end of the 100), but never miss two days in a row. This is a great piece of advice on habit formation that I got from Leo Babauta at zen habits.  
+**Q:** J'ai manqué un jour, est-ce que ça veut dire que j'ai raté le défi?  
+**A:** Absolument pas. Vous avez le droit de manquer un jour (et dans ce cas là, vous le rattrapez en en rajoutant un jour à la fin des 100 jours), mais ne manquez jamais deux jours à la suite. C'est un très bon conseil sur la formation des habitudes que j'ai tiré de Zen Habits de Leo Babauta.
 
-  **Q:** I come home late, and by the time I am finished with my hour, it’s past midnight, does it count?  
-  **A:** Of course it counts! The rule of thumb is: have you coded for at least an hour before going to sleep that day? If yes, you are on track.  
-  The reason for this is that we all have different schedules and different life periods (kids, school, work, and what have you) so don’t hold yourself to some arbitrary time standard. You will not experience what Cinderella experienced once the clock strikes midnight.  
-  Don't worry whether you get a point on GitHub on that particular day. Yes, it’s nice to have them in a streak one by one, but don’t do yourself a disservice by measuring your efforts to a clock.  
+**Q:** Je rentre tard et quand je finis mon heure de code, il est minuit passé. Est-ce que ça compte ?  
+**A:** Bien sûr que ça compte ! Le critère est le suivant: est ce que vous avez codé au moins une heure avant d'aller vous coucher? Si oui, vous êtes dans les règles.  
+La raison pour cela est que nous avons tous des emplois du temps différents et nous sommes tous dans des phases de vie différentes (des enfants, l'école, le travail etc) alors ne vous limitez pas à un standard horaire défini arbitrairement. Il ne vous arrivera pas ce qui est arrivé à Cendrillon après que l'horloge ait sonné minuit.  
+Ne vous focalisez pas sur le fait d'avoir un point sur GitHub pour ce jour-là en particulier. Oui, c'est bien de les accumuler jour après jour, mais vous ne vous rendriez pas service en mesurant vos efforts par rapport à une horloge.  
 
-  **Q:** Should I keep a journal?  
-  **A:** Yes you should, and the best way to do that is to fork this repo, and commit to [the Log](log.md) daily. It’s helpful in two major ways: you will be able to look at the progress each day and see how far you’ve already come and it will be easier to find the motivation to continue, and the second one is that after you’ve done your 100 days, you will be able to analyze your experience better and see what worked and what didn’t.
+**Q:** Devrais-je tenir un journal?  
+**A:** Oui, c'est une bonne idée, et le meilleur moyen pour cela est de forker ce repo et d'écrire dans le [Journal](journal.md) chaque jour. C'est utile de deux façons: vous pourrez voir vos progrès chaque jour en mesurant tout ce que vous avez déjà accompli: de la sorte ce sera plus facile de trouver la motivation de continuer. Et après que vous aurez fini les 100 jours, vous pourrez mieux analyser votre expérience et voir ce qui a fonctionné et ce qui n'a pas fonctioné.
 
-  **Q:** Should I put my projects online?  
-  **A:** Definitely. It’s great for accountability and motivation to know that the stuff you’ve worked on is accessible online to anyone who may wish to look at it. It will make you care about the end product more, and will lead to a more impressive result in the end. I suggest you put them on GitHub.
+**Q:** Devrais-je publier mes projets en ligne?  
+**A:** Assurément. C'est motivant et responsabilisant de savoir que les choses sur lesquelles vous travaillez sont accessibles à toutes les personnes qui souhaiterez y jeter un coup d'oeil. Cela vous incitera à soigner davantage le produit fini et cela produira un résulat plus impressionant au final. Je vous suggère de les publiez sur GitHub.
 
-  **Q:** Should I worry about streaks?  
-  **A:** Streaks are nice and helpful, but as I mentioned above — don’t worry about them too much and don’t criticize yourself over missing a day. Instead, make sure you do everything to not let that happen again, and know that worrying and scolding yourself will not give you any results. (Ok, It will give you results, but only negative. I would call them consequences, not results) The best way to get out of that negative emotional state is to sit down and code.
+**Q:** Est-ce que je dois me soucier des séries de points?  
+**A:** Les séries de points sont une bonne chose, mais comme je l'ai mentionné au desssus : ne vous en souciez pas trop et ne vous critiquez pas si vous manquez un jour. A la place, assurez-vous de tout faire pour que ça ne se reproduise pas, et sachez que vous inquiéter et vous blâmer vous-même ne vous donnera aucun résultat. (En fait, si: ça vous donnera des résultats, mais seulement des résultats négatifs) Le meilleur moyen de sortir de ces émotions négatives et de s'assoir et de coder.
 
-  **Q:** What is the most difficult part of this challenge?  
-  **A:** The part where you have to sit down and start coding. Don’t postpone that or think about it at all, because you will rationalize yourself out of it. Approach it mechanically: sit down, open your laptop, launch your coding editor, and start typing. After 5 minutes, you will not feel any problems/procrastination/desire to stop.  
+**Q:** Qu'est ce qui est le plus difficile dans ce défi?  
+**A:** C'est de s'assoir et de commencer à coder. Ne le remettez pas à plus tard, n'y penser pas, car sinon vous allez vous convaincre de ne pas le faire. Abordez cela de façon mécanique: asseyez-vous, allumez votre ordi, ouvrez votre éditeur, et commencez à taper. Après 5 minutes, vous ne ressentirez plus aucun problème/procrastination/désir d'arrêter.
 
-  **Q:** If everyone started on a certain day, should I join them on the day they are? For example, from Day 12?  
-  **A:** This challenge is individual, so when you join you start at day 1. Whenever you’ll be posting an update on Twitter or elsewhere, make sure to mention which day you are on and use the hashtag so that people can find and support you!  
+**Q:** Si tout le omnde a commencé le même jour, devrais-je les rejoindre au jour où ils en sont? Par exemple, commencer par le jour 12?  
+**A:** Ce défi est individuel, alors quand vous le débutez, vous commencez au Jour 1. Chaque fois que vous postez une mis-à-jour sur Twitter ou ailleurs, assurez-vous que vous mentionnez le jour où vous en êtes et que vous utilisez le hashtag pour que les gens puissent vous trouver et vous soutenir!  
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+
+
+## Contenus
+* [Règles](regles.md)
+* [Journal - cliquez ici pour voir mes progrès](journal.md)
+* [FAQ](FAQ-fr.md)
+* [Ressources](ressources.md)
