@@ -4,7 +4,7 @@
 * [Règles](regles.md)
 * [Log - cliquez ici pour voir ma progression](log.md)
 * [FAQ](FAQ.md)
-* [Ressources](ressources.md)e
+* [Ressources](ressources.md)
 
 ## Vous avez décidé de vous inscrire:
 0. Faites un tour sur [le site officiel](http://100daysofcode.com/) au sujet du mouvement des #100JoursDeCode. REjoignez les autres participants sur la platforme de votre choix figurant dans cette liste: www.100DaysOfCode.com/connect 
