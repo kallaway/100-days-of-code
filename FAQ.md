@@ -32,7 +32,7 @@ Ne vous focalisez pas sur le fait d'avoir un point sur GitHub pour ce jour-là e
 **Q:** Qu'est ce qui est le plus difficile dans ce défi?  
 **A:** C'est de s'assoir et de commencer à coder. Ne le remettez pas à plus tard, n'y penser pas, car sinon vous allez vous convaincre de ne pas le faire. Abordez cela de façon mécanique: asseyez-vous, allumez votre ordi, ouvrez votre éditeur, et commencez à taper. Après 5 minutes, vous ne ressentirez plus aucun problème/procrastination/désir d'arrêter.
 
-**Q:** Si tout le omnde a commencé le même jour, devrais-je les rejoindre au jour où ils en sont? Par exemple, commencer par le jour 12?  
+**Q:** Si tout le monde a commencé le même jour, devrais-je les rejoindre au jour où ils en sont? Par exemple, commencer par le jour 12?  
 **A:** Ce défi est individuel, alors quand vous le débutez, vous commencez au Jour 1. Chaque fois que vous postez une mis-à-jour sur Twitter ou ailleurs, assurez-vous que vous mentionnez le jour où vous en êtes et que vous utilisez le hashtag pour que les gens puissent vous trouver et vous soutenir!  
 
 
