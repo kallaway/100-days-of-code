@@ -3,7 +3,7 @@
 ## Engagement principal
 ### *Je coderai au moins une heure par jour pendant les 100 prochains jours.*
 
-#### SDate de départ
+#### Date de départ
 25 juin 2016. [Insérez votre propre date ici]
 
 ## Régles supplémentaires
