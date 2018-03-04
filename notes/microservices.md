@@ -63,3 +63,28 @@ What are the **disadvantages**?
 - Promote internal open source where teams can contribute to other services like open source environment
 - Orchestrator vs Chereographer
 - Use event based communication. So choreographer is loosely coupled with actors and this model can scale very well.
+
+
+### 5. Deploy Independently
+
+- Small independent changes should be easily deployable. This can be done only when # 3 is done correctly.
+- Its ideal to have one service per os as there can be side effect like (resource utilization if that is not the case)
+- When breaking changes are made, consumer driven contracts can be enforced with tests provided by the consumer. It is a trust base model to deploy to production if consumer tests pass.
+- [Packt.io](https://docs.pact.io/) for consumer driven contract testing
+- Co-existence of different service versions can be tricky. Some solutions:
+  - different services for different versions. Service discovery becomes complex in this scenario. 2 main downsides
+    - now code needs to be release and changed in the different branches that we serving customers
+    - if it is a stateful service, the data consistency required between the services is another new challenge that needs to be solved
+  - solution 2 is different endpoints. service.com/v1/ service.com/v2
+    - this relies on the ability for the consumers to be able to change their code quickly.
+
+
+### 6. Consumer First
+
+- Documentation can help consumers understand how to use your api effectively
+- swagger is a good tool for that
+- [paypal api guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
+- Monitor consumer access patterns to make sure the services is being used correctly and SLAs are met.
+- Note to self: Opensource API-Gateway tooling is lacking and an ooportunity to innovate in. https://tyk.io/#section-3 looks like something interesting.
+
+
