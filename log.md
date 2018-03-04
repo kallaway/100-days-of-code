@@ -493,9 +493,9 @@
 
 ### Day 62: March 2, 2018
 
-**Today's Progress**: Cold still dragging me down.  Watched more of the JavaScript tutorial.  Strengthened some concepts
+**Today's Progress**: Continued working through the Javascript tutorial. Still mostly remedial but it covered some topics that I have read about and coded a bit but didn't experience coding, like regular expressions for strings and passing functions for some array methods like .sort().
 
-**Thoughts:** Once I feel better, I need to go back and do some testing of my understanding of these concepts using Chrome tools.
+**Thoughts:** This tutorial is working exremely well for me, partly because I'm sick and my brain isn't taking on massive new challenges, but more because it's reinforcing what I know while teaching me more about the context of how the language works.  And the ability to validate in Chrome tools is so exciting to reinforce the knowledge.  I'm thinking I'll finish this tutorial and then do the advanced FreeCodeCamp exercises.  Should be much more doable with the Chrome tools to test my approach to coding each exercise.  Then maybe hit the CodePen projects, or start back-end coding?  
 
 **Link to work:**
 
