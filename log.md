@@ -369,7 +369,7 @@ Thougths: ** Working through it
 
 Thougths: ** Working through it
 
-**Link to work:** Nothing to show. Notes for microservices updated in notes filder.
+**Link to work:** Nothing to show. Notes for microservices updated in notes folder.
 
 ### Day 40: Mar 1, 2018
 
@@ -377,5 +377,17 @@ Thougths: ** Working through it
 
 Thougths: ** Was strapped on time due to hectic work deadline. But small progress counts I guess.
 
-**Link to work:** Nothing to show. Notes for microservices updated in notes filder.
+**Link to work:** Nothing to show. Notes for microservices updated in notes folder.
+
+### Day 41: Mar 2, 2018
+
+MISSED
+
+### Day 42: Mar 3, 2018
+
+- Continued principles of microservices. Topics covered today were: consumer first design of microservics and independent deployments.
+
+Thougths: ** Finishing this first before jumping back into classification course. Microservices knowledge was a bit time sensitiev to packed it in the middle of my classification course.
+
+**Link to work:** Nothing to show. Notes for microservices updated in notes folder.
 
