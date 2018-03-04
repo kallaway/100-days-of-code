@@ -491,6 +491,22 @@
 
 **Link to work:**
 
+### Day 62: March 2, 2018
+
+**Today's Progress**: Cold still dragging me down.  Watched more of the JavaScript tutorial.  Strengthened some concepts
+
+**Thoughts:** Once I feel better, I need to go back and do some testing of my understanding of these concepts using Chrome tools.
+
+**Link to work:**
+
+### Day 63: March 3, 2018
+
+**Today's Progress**: Cold still hanging on.  Plus lots of family activity today.  Watched more of the JavaScript tutorial, but need to start coding or it's just going to start being a waste of time.
+
+**Thoughts:** Need to code tomorrow.  Hope this cold lets up and I feel sharp enough to sit down and do the work.
+
+**Link to work:**
+
 ### Day X: March X, 2018
 
 **Today's Progress**:
