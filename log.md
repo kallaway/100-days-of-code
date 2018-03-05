@@ -507,6 +507,14 @@
 
 **Link to work:**
 
+### Day 64: March 4, 2018
+
+**Today's Progress**: Finally sat down and did some coding!  Played around with manipulating arrays, array methods, and filter(), map(), and reduce().  Alos played around with functions, passing functions to functions, returning functions from functions, setting functions to values in variables and arrays, and closures.
+
+**Thoughts:** Felt good to do some real coding.  I need to start applying what I'm learning to move forward in FreeCodeCamp.  Glad my cold cleared up enough that I could think.
+
+**Link to work:**
+
 ### Day X: March X, 2018
 
 **Today's Progress**:
