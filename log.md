@@ -26,7 +26,17 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** This time I am solving competitive coding problems in Python, and feels like its less time consuming to write code in it. 
+**Thoughts** Tried to find the simplest logic possible for the competitive problem in codechef. 
 
 **Link(s) to work**
-1. [Buggy Calculator - Codechef Problem](https://www.codechef.com/problems/BUGCAL)
+1. [Buggy Calculator - Codechef_Problem](https://www.codechef.com/problems/BUGCAL)
+
+
+### Day 4: March 4, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Today I learned to use ceil function from math module in python. 
+
+**Link(s) to work**
+1. [Survive in Chocoland - Codechef_Problem](https://www.codechef.com/problems/SURVIVE)
