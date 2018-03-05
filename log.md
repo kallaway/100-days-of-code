@@ -20,3 +20,13 @@
 1. [Smart Strategy - Codechef_Problem](https://www.codechef.com/problems/SMRSTR)
 2. [Good And Bad Persons - Codechef_Problem](https://www.codechef.com/problems/GOODBAD)
 3. [Chef And Cook Off - Codechef_Problem](https://www.codechef.com/problems/CCOOK)
+
+
+### Day 3: March 3, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** This time I am solving competitive coding problems in Python, and feels like its less time consuming to write code in it. 
+
+**Link(s) to work**
+1. [Buggy Calculator - Codechef Problem](https://www.codechef.com/problems/BUGCAL)
