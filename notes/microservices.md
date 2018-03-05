@@ -88,3 +88,37 @@ What are the **disadvantages**?
 - Note to self: Opensource API-Gateway tooling is lacking and an ooportunity to innovate in. https://tyk.io/#section-3 looks like something interesting.
 
 
+### 7: Isolate Failures
+
+- Microservices are not very reliable by default
+- Single point of failure in monilith can easily become distributed single point of failure
+- Design your architecture so that you can prevent cascaing failures
+- Sometimes services can faily slowly which is hard to detect and bad for business
+- Some solutions:
+  - Implement Circuit Breakers [Martin Fowler on Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
+  - Sensible Timeouts
+  - Bulk Heads
+
+- Design user experience with possiblit of service failures
+
+### 8. Highly Observable
+
+- Log Monitoring
+  - have one log format for all microservices, this way you can aggregate them easily
+- Stats monitoring
+  - dockerstats
+  - cpu, disk space, memory, i/o
+- Biz Metric monitoring
+- Tooling
+  - collectd
+  - logstash/fluentd
+- Semantic Monitoring
+  - synthetic transactions in production
+  - [Martin Fowler's Semantic Testing](https://martinfowler.com/bliki/SyntheticMonitoring.html)
+- Downstream Monitoring
+  - correlation ids
+  - graph calls
+- Create various dashboards for various needs, developers, ops, biz, mgmnt
+
+
+

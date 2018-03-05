@@ -391,3 +391,12 @@ Thougths: ** Finishing this first before jumping back into classification course
 
 **Link to work:** Nothing to show. Notes for microservices updated in notes folder.
 
+
+### Day 43: Mar 4, 2018
+
+- Completed principles of microservices. Topics covered today were: Isolated failures and highly observable microservices.
+- Started a Airflow Te,plte project to use as starting point for all the best practices i have learnt and samepl code.
+
+Thougths: ** It is a tool for myself to setup airflow and will also support the next blog post I am going to write about FAQs and common problems I faced while running airflow for a year.
+
+**Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
