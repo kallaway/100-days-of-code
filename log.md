@@ -40,3 +40,14 @@
 
 **Link(s) to work**
 1. [Survive in Chocoland - Codechef_Problem](https://www.codechef.com/problems/SURVIVE)
+
+
+
+### Day 5: March 5, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Did it in a simple try! Accomplishment of the fact that, some shortest approach are hidden in the ques itself rather than going through the traditional way. 
+
+**Link(s) to work**
+1. [Devu_and_an_Array - Codechef_Problem](https://www.codechef.com/problems/DEVARRAY)
