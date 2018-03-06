@@ -515,6 +515,14 @@
 
 **Link to work:**
 
+### Day 65: March 5, 2018
+
+**Today's Progress**: Made some great progress on some of the advanced algorithms.  But the functional programming stuff is still killing me.  
+
+**Thoughts:** I got it on the first FreeCodeCamp challenge, summing an array of numbers given min and max.  But I couldn't make it work for the next one - finding the items in only one of two arrays - and ended up with a for loop.  The next one - roman numeral converter - I'm still struggling with. But I haven't given up.
+
+**Link to work:**
+
 ### Day X: March X, 2018
 
 **Today's Progress**:
