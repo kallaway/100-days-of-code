@@ -400,3 +400,13 @@ Thougths: ** Finishing this first before jumping back into classification course
 Thougths: ** It is a tool for myself to setup airflow and will also support the next blog post I am going to write about FAQs and common problems I faced while running airflow for a year.
 
 **Link to work:** https://github.com/nehiljain/airflow-starter and notes folder.
+
+
+### Day 44: Mar 5, 2018
+
+- Adaboost algorithm videos done
+- Setup for week 5 assignment done
+
+Thoughts: 1st pass of adaboost feels superficial, I should read more and different sources to get a better understanding of the ensembling algorithm
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
