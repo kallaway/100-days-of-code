@@ -51,3 +51,14 @@
 
 **Link(s) to work**
 1. [Devu_and_an_Array - Codechef_Problem](https://www.codechef.com/problems/DEVARRAY)
+
+
+
+### Day 6: March 6, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Did this one too in a simple try!
+
+**Link(s) to work**
+1. [The Smallest Pair - Codechef_Problem](https://www.codechef.com/problems/SMPAIR)
