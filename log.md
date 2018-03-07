@@ -8,8 +8,7 @@
 
 **Link(s) to work**
 1. [Uniform Strings - Codechef_Problem](https://www.codechef.com/problems/STRLBP)
-
-    [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/uniform_strings.py)
+    *[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/uniform_strings.py)
 
 
 ### Day 2: March 2, 2018 Friday
@@ -20,7 +19,6 @@
 
 **Link(s) to work**
 1. [Smart Strategy - Codechef_Problem](https://www.codechef.com/problems/SMRSTR)
-
     [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/smart_strategy.py)
 2. [Good And Bad Persons - Codechef_Problem](https://www.codechef.com/problems/GOODBAD)
 
