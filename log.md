@@ -8,7 +8,7 @@
 
 **Link(s) to work**
 1. [Uniform Strings - Codechef_Problem](https://www.codechef.com/problems/STRLBP)
-    *[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/uniform_strings.py)
+    **[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/uniform_strings.py)
 
 
 ### Day 2: March 2, 2018 Friday
@@ -19,13 +19,11 @@
 
 **Link(s) to work**
 1. [Smart Strategy - Codechef_Problem](https://www.codechef.com/problems/SMRSTR)
-    [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/smart_strategy.py)
+[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/smart_strategy.py)
 2. [Good And Bad Persons - Codechef_Problem](https://www.codechef.com/problems/GOODBAD)
-
-    [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/good_and_bad_persons.py)
+[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/good_and_bad_persons.py)
 3. [Chef And Cook Off - Codechef_Problem](https://www.codechef.com/problems/CCOOK)
-
-    [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_cook_off.py)
+[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_cook_off.py)
 
 
 ### Day 3: March 3, 2018 Saturday
@@ -36,8 +34,7 @@
 
 **Link(s) to work**
 1. [Buggy Calculator - Codechef_Problem](https://www.codechef.com/problems/BUGCAL)
-
-    [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/buggy_calculator.py)
+[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/buggy_calculator.py)
 
 
 ### Day 4: March 4, 2018 Sunday
@@ -48,8 +45,7 @@
 
 **Link(s) to work**
 1. [Survive in Chocoland - Codechef_Problem](https://www.codechef.com/problems/SURVIVE)
-
-    [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/survive_in_chocoland.py)
+[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/survive_in_chocoland.py)
 
 
 
@@ -61,8 +57,7 @@
 
 **Link(s) to work**
 1. [Devu_and_an_Array - Codechef_Problem](https://www.codechef.com/problems/DEVARRAY)
-
-    [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/devu_and_an_array.py)
+[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/devu_and_an_array.py)
 
 
 
@@ -74,8 +69,7 @@
 
 **Link(s) to work**
 1. [The Smallest Pair - Codechef_Problem](https://www.codechef.com/problems/SMPAIR)
-
-    [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/the_smallest_pair.py)
+[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/the_smallest_pair.py)
 
 
 
@@ -87,6 +81,5 @@
 
 **Link(s) to work**
 1. [Nothing In Common - Codechef_Problem](https://www.codechef.com/problems/NOTINCOM)
-
-    [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/nothing_in_common.py)
+[my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/nothing_in_common.py)
 
