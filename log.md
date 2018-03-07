@@ -410,3 +410,12 @@ Thougths: ** It is a tool for myself to setup airflow and will also support the 
 Thoughts: 1st pass of adaboost feels superficial, I should read more and different sources to get a better understanding of the ensembling algorithm
 
 **Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
+
+### Day 45: Mar 6, 2018
+
+- 40% assignment done.
+- spent some time reading and understanding scikit learn documentation
+
+Thoughts: working through... :sweat_smile:
+
+**Link to work:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nehiljain/uw_ml.git/master?filepath=classification%2Fweek5_1.ipynb)
