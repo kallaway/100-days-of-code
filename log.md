@@ -523,6 +523,14 @@
 
 **Link to work:**
 
+### Day 66: March 6, 2018
+
+**Today's Progress**: I got the Roman Numeral converter working using functional programming!  2 lines of code and one variable declaration!
+
+**Thoughts:** That took forever, and I'm still far from fluent, but I'm starting to get the hang of it.  Maybe I'll find out that Python or Ruby or something does all this stuff really easily, but right now I'm thrilled that I got a complex functional programming algorithm figured out.  Now (I think) I need to get better at this.  Or learn another language that does functional programming much more efficiently than JavaScript does.
+
+**Link to work:**
+
 ### Day X: March X, 2018
 
 **Today's Progress**:
