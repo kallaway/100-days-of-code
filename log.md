@@ -8,6 +8,7 @@
 
 **Link(s) to work**
 1. [Uniform Strings - Codechef_Problem](https://www.codechef.com/problems/STRLBP)
+
     [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/uniform_strings.py)
 
 
@@ -19,10 +20,13 @@
 
 **Link(s) to work**
 1. [Smart Strategy - Codechef_Problem](https://www.codechef.com/problems/SMRSTR)
+
     [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/smart_strategy.py)
 2. [Good And Bad Persons - Codechef_Problem](https://www.codechef.com/problems/GOODBAD)
+
     [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/good_and_bad_persons.py)
 3. [Chef And Cook Off - Codechef_Problem](https://www.codechef.com/problems/CCOOK)
+
     [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_cook_off.py)
 
 
@@ -34,6 +38,7 @@
 
 **Link(s) to work**
 1. [Buggy Calculator - Codechef_Problem](https://www.codechef.com/problems/BUGCAL)
+
     [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/buggy_calculator.py)
 
 
@@ -45,6 +50,7 @@
 
 **Link(s) to work**
 1. [Survive in Chocoland - Codechef_Problem](https://www.codechef.com/problems/SURVIVE)
+
     [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/survive_in_chocoland.py)
 
 
@@ -57,6 +63,7 @@
 
 **Link(s) to work**
 1. [Devu_and_an_Array - Codechef_Problem](https://www.codechef.com/problems/DEVARRAY)
+
     [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/devu_and_an_array.py)
 
 
@@ -69,6 +76,7 @@
 
 **Link(s) to work**
 1. [The Smallest Pair - Codechef_Problem](https://www.codechef.com/problems/SMPAIR)
+
     [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/the_smallest_pair.py)
 
 
@@ -81,5 +89,6 @@
 
 **Link(s) to work**
 1. [Nothing In Common - Codechef_Problem](https://www.codechef.com/problems/NOTINCOM)
+
     [my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/nothing_in_common.py)
 
