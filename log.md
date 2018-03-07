@@ -77,7 +77,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Made the use sets in python for eliminating common elements. Another simple one!!
+**Thoughts** Made the use of sets in python for eliminating common elements. Another simple one!!
 
 **Link(s) to work**
 1. [Nothing In Common - Codechef_Problem](https://www.codechef.com/problems/NOTINCOM)
