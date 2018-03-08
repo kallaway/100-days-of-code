@@ -531,6 +531,14 @@
 
 **Link to work:**
 
+### Day 67: March 7, 2018
+
+**Today's Progress**: Started working on the properties and values of objects.   
+
+**Thoughts:** OOP seems convoluted and strange. I know it makes sense when there are lots of objects to manage and manipulate, but this seems a bit esoteric and strange based on what I'm trying to accomplish.  Having said that, I'm sure it will come in handy at some point and it's definiteluy good to learn and know.  
+
+**Link to work:**
+
 ### Day X: March X, 2018
 
 **Today's Progress**:
