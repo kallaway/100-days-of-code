@@ -83,3 +83,15 @@
 1. [Nothing In Common - Codechef_Problem](https://www.codechef.com/problems/NOTINCOM)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/nothing_in_common.py)
 
+
+
+### Day 8: March 8, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Simple pattern type question one!!
+
+**Link(s) to work**
+1. [Fit Squares in Triangle - Codechef_Problem](https://www.codechef.com/problems/TRISQ)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/fit_squares_in_triangle.py)
+
