@@ -89,7 +89,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Simple pattern type question one!!
+**Thoughts** Simple pattern type question!!
 
 **Link(s) to work**
 1. [Fit Squares in Triangle - Codechef_Problem](https://www.codechef.com/problems/TRISQ)
