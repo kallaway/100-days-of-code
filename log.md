@@ -95,3 +95,17 @@
 1. [Fit Squares in Triangle - Codechef_Problem](https://www.codechef.com/problems/TRISQ)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/fit_squares_in_triangle.py)
 
+
+
+### Day 9: March 9, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Made the use of ceil function from math module!!
+
+**Link(s) to work**
+1. [Two Numbers - Codechef_Problem](https://www.codechef.com/problems/TWONMS)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/two_numbers.py)
+
+
+
