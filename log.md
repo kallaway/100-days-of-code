@@ -539,6 +539,14 @@
 
 **Link to work:**
 
+### Day 68: March 8, 2018
+
+**Today's Progress**: Learned how to use the breakpoints and step through the Chrome debugger.  Also made progress learning about how to evaluate keys and values of objects.  
+
+**Thoughts:** OOP still looks really cumbersome in JavaScript.  I haven't looked at the answer yet, but I think I must be missing something fundamental.  This is way more clunky than it needs to be.
+
+**Link to work:**
+
 ### Day X: March X, 2018
 
 **Today's Progress**:
