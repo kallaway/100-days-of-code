@@ -116,7 +116,7 @@
 **Thoughts** Easy problem, solved_n 2 min.!!
 
 **Link(s) to work**
-1. [Two Numbers - Codechef_Problem](https://www.codechef.com/problems/FLOW013)
+1. [Valid Triangles - Codechef_Problem](https://www.codechef.com/problems/FLOW013)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/valid_triangles.py)
 
 
