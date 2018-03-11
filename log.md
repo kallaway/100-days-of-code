@@ -121,4 +121,16 @@
 
 
 
+### Day 11: March 11, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** At just the first try, coded the prob with the lowest time complexity!!
+
+**Link(s) to work**
+1. [Count Subarrays - Codechef_Problem](https://www.codechef.com/problems/SUBINC)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/count_subarrays.py)
+
+
+
 
