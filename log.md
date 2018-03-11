@@ -547,11 +547,27 @@
 
 **Link to work:**
 
-### Day X: March X, 2018
+### Day 69: March 9, 2018
 
-**Today's Progress**:
+**Today's Progress**: Spent some time on the FreeCodeCamp exercise.  Still learning about objects and how to represent, manage, and evaluate them.  Not there yet.
 
-**Thoughts:**
+**Thoughts:** I'm missing the capabilities that make this stuff useful. Not that it's not there, I just need to study more to figure it out.
+
+**Link to work:**
+
+### Day 70: March 10, 2018
+
+**Today's Progress**: Didn't get much coding done, but found two new podcasts on coding, FreeCodeCamp and CodeNewbie.
+
+**Thoughts:** CodeNewbie is a very useful podcast.  I'm glad I found it.  It really helps that I've identified coding as a passion and am more focused on it than entrepreneurship. 
+
+**Link to work:**
+
+### Day 71: March 11, 2018
+
+**Today's Progress**: Listened to two CodeNewbie episodes (driving to/from silks class), which is giving me a good broader technical context.  I did the Marty Hall tutorial on objects, which is definitely helping with context around the value of objects.
+
+**Thoughts:** Didn't code, but the context is really important.  Plus I just can't seem to manage to string together minutes to focus on coding.
 
 **Link to work:**
 
