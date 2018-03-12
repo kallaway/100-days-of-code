@@ -137,11 +137,13 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** 
+**Thoughts** Used reverse_slicing technique ,example -< '123'[::-1] > , to reverse a number. Its cool, really cool!! Got enough time today, to solve another interesting problem!
 
 **Link(s) to work**
 1. [Reverse the number - Codechef_Problem](https://www.codechef.com/problems/FLOW007)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/reverse_the_number.py)
+1. [Days in Month - Codechef_Problem](https://www.codechef.com/problems/NW1)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/days_in_month.py)
 
 
 
