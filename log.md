@@ -133,4 +133,16 @@
 
 
 
+### Day 12: March 12, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Reverse the number - Codechef_Problem](https://www.codechef.com/problems/FLOW007)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/reverse_the_number.py)
+
+
+
 
