@@ -142,8 +142,21 @@
 **Link(s) to work**
 1. [Reverse the number - Codechef_Problem](https://www.codechef.com/problems/FLOW007)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/reverse_the_number.py)
-1. [Days in Month - Codechef_Problem](https://www.codechef.com/problems/NW1)
+2. [Days in Month - Codechef_Problem](https://www.codechef.com/problems/NW1)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/days_in_month.py)
+
+
+
+### Day 13: March 13, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Creativity is the best thing for logics!! 
+Tried to make creative logic for the prob!!
+
+**Link(s) to work**
+1. [Collisions - Codechef_Problem](https://www.codechef.com/problems/LCOLLIS)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/collisions.py)
 
 
 
