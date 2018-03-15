@@ -172,4 +172,16 @@ Tried to make creative logic for the prob!!
 
 
 
+### Day 15: March 14, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Easy prob!! Coded_n 5 min.!!
+
+**Link(s) to work**
+1. [Smallest Numbers of Notes - Codechef_Problem](https://www.codechef.com/problems/FLOW005)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/smallest_numbers_of_notes.py)
+
+
+
 
