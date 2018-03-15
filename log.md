@@ -569,5 +569,37 @@
 
 **Thoughts:** Didn't code, but the context is really important.  Plus I just can't seem to manage to string together minutes to focus on coding.
 
+**Link to work:** 
+
+### Day 72: March 12, 2018 
+
+**Today's Progress**: Listened to codenewbie podcast and worked on Wherefore art thou exercise for FreeCodeCamp.  I also discovered how to stop the Chrome debugger.
+
+**Thoughts:** Made a bit of progress and got more background on some web technologies by listening to the CodeNewbie podcast.  Starting to feel some forward momentum in learning JavaScript.
+
+**Link to work:**
+
+### Day 73: March 13, 2018
+
+**Today's Progress**: Planned to attend the Learn to Code Meetup, but was so late (and couldn't find parking) that I just went home and coded.  Made more good progress on Wherefore art thou.  Listened to CodeNewbie podcast in the car to/from the meetup.
+
+**Thoughts:** I was bummed to miss the meetup, but I was very excited to code.  I'm starting to slip out of functional programming and back into imperative programming, but that's largely because the FreeCodeCamp exercises are getting tougher.  I need to keep working through the JavaScript tutorial, but I also need to keep hands-on-keyboard coding.  So I may end up doing some for loops because I'm coding ahead of my skillset.  Just make progress, learn over time.  Functional programming will come.
+
+**Link to work:**
+
+### Day 74: March 14, 2018
+
+**Today's Progress**: Finished Wherefore art thou and therefore allowed myself to look at the answer.  I also took on and finished the next FreeCodeCamp challenge, Search and Replace.  
+
+**Thoughts:** I was close to doing search and replace without breaking the string into an array, but couldn't figure it out.  Once I got the answer, I looked up the answer given by FreeCodeCamp, and sure enough, there's a way to do it thats' simpler with functional programming, but I had no real idea how to find the right construct so I'd have been searching forever.  Glad I got it done.  I'm learning a lot from the process.
+
+**Link to work:**
+
+### Day X: March X, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
 **Link to work:**
 
