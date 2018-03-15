@@ -172,7 +172,7 @@ Tried to make creative logic for the prob!!
 
 
 
-### Day 15: March 14, 2018 Tuesday
+### Day 15: March 15, 2018 Tuesday
 
 **Today's Progress**: Today also going through some codechef problems.
 
