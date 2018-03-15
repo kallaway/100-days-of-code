@@ -160,4 +160,16 @@ Tried to make creative logic for the prob!!
 
 
 
+### Day 14: March 14, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Code accepted after few retry!! haven't taken in account a minute case. Got to learn to remember in mind, every cases possible!!
+
+**Link(s) to work**
+1. [Sticks - Codechef_Problem](https://www.codechef.com/problems/STICKS)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/sticks.py)
+
+
+
 
