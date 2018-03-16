@@ -595,6 +595,14 @@
 
 **Link to work:**
 
+### Day 75: March 15, 2018
+
+**Today's Progress**: Completed another FreeCodeCamp algorithm.  
+
+**Thoughts:** It was hard to do it in functional programming, and I missed the method to manipulate strings and had do to it by manipulating arrays, but I got it done in a couple of hours despite a ton of experimentation and debugging.  So I'm getting better.
+
+**Link to work:**
+
 ### Day X: March X, 2018
 
 **Today's Progress**: 
@@ -602,4 +610,5 @@
 **Thoughts:** 
 
 **Link to work:**
+
 
