@@ -160,7 +160,7 @@ Tried to make creative logic for the prob!!
 
 
 
-### Day 14: March 14, 2018 Tuesday
+### Day 14: March 14, 2018 Wednesday
 
 **Today's Progress**: Today also going through some codechef problems.
 
@@ -172,7 +172,7 @@ Tried to make creative logic for the prob!!
 
 
 
-### Day 15: March 15, 2018 Tuesday
+### Day 15: March 15, 2018 Thrusday
 
 **Today's Progress**: Today also going through some codechef problems.
 
