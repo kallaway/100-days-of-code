@@ -603,6 +603,14 @@
 
 **Link to work:**
 
+### Day 76: March 16, 2018
+
+**Today's Progress**: Completed three FreeCodeCamp exercises.  
+
+**Thoughts:** All strong coding efforts, learned a lot, studied alternative solutions after I solved these.
+
+**Link to work:**
+
 ### Day X: March X, 2018
 
 **Today's Progress**: 
@@ -610,5 +618,4 @@
 **Thoughts:** 
 
 **Link to work:**
-
 
