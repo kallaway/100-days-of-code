@@ -184,4 +184,17 @@ Tried to make creative logic for the prob!!
 
 
 
+### Day 16: March 16, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Nice problem!! Used slicing, ceil, list function along with the use of set, with a little bit creativity!!
+
+**Link(s) to work**
+1. [Chef and Rainbow Array - Codechef_Problem](https://www.codechef.com/problems/RAINBOWA)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_rainbow_array.py)
+
+
+
+
 
