@@ -196,5 +196,17 @@ Tried to make creative logic for the prob!!
 
 
 
+### Day 17: March 17, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Easy prob!! solved_n 10 min.
+
+**Link(s) to work**
+1. [Beer and Ladder - Codechef_Problem](https://www.codechef.com/problems/BRLADDER)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/bear_and_ladder.py)
+
+
+
 
 
