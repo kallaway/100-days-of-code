@@ -611,11 +611,19 @@
 
 **Link to work:**
 
-### Day X: March X, 2018
+### Day 77: March 17, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Completed the FreeCodeCamp algorithm on creating an array with no duplicates from a set of arrays passed into a function. 
 
-**Thoughts:** 
+**Thoughts:**  It was hard, I learned a lot.  Took a long time.  It was a bit of a letdown after completing three on Friday, but I'm learning and I need to focus on the fact that learning and challenges are why I'm doing FreeCodeCamp, not the ego stroke of getting through three and thinking I know it all.
+
+**Link to work:**
+
+### Day 78: March 18, 2018
+
+**Today's Progress**: Completed two FreeCodeCamp exercises today.  Learned from both
+
+**Thoughts:** I still can't figure out why I should manipulate strings as strings.  It always seems so much easier to convert to arrays of characters or words, manipulate them that way, and flip back to string.
 
 **Link to work:**
 
