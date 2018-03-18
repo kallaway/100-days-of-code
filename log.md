@@ -10,9 +10,9 @@
 
 ### Day 1: March 17, 2018 :heavy_check_mark:
 
-**Today's Progress**: How easy is redux! Today, integrate redux in my react app after create my components and.
+**Today's Progress**: How easy is redux! Today, integrate redux in my react app after create my components.
 
-**Thoughts:** Practice, practice and more practice, I understan better redux but I need mora practice.  :clap: 
+**Thoughts:** Practice, practice and more practice, I understand better redux but I need mora practice.  :clap: 
 
 **Link to work:** [List Artist Whit React-Redux](https://github.com/cTahirih/R1-day1)
 
