@@ -208,5 +208,17 @@ Tried to make creative logic for the prob!!
 
 
 
+### Day 18: March 18, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Interesting problem!! so is my code_, used 3 calls for a self made function.
+
+**Link(s) to work**
+1. [Chef and Pick Digit - Codechef_Problem](https://www.codechef.com/problems/CHEFPDIG)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_pick_digit.py)
+
+
+
 
 
