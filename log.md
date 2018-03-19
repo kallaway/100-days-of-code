@@ -16,3 +16,11 @@
 
 **Link to work:** [List Artist Whit React-Redux](https://github.com/cTahirih/R1-day1)
 
+### Day 2: March 18, 2018 :heavy_check_mark:
+
+**Today's Progress**: Today I am practice in the yesterday exercise, every day because is some dificult. I need practice more! Finally I returned to my proyect about the weather, only defined new mockup, design icon and corrected some error of code.
+
+**Thoughts:** Practice, practice and more practice, I understand better redux but I need mora practice.  :clap:  :clap: :clap:
+
+**Link to work:** [List Artist Whit React-Redux](https://ctahirih.github.io/api-weather/public/)
+
