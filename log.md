@@ -15,3 +15,9 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 **Thoughts** Creating the basics layouts of the app. The goal is to have a working infrastructure so that I can add up to the app later (add UI / UX and the javascript parts). Started to add the basis of Localization
 
 **Link to work:** [Laravel Localization](https://laravel.com/docs/5.6/localization)
+
+### Day2: March 29, 2018
+
+**Today's Progress**: Still Bootstraping the project.
+
+**Thoughts**: I am starting to create the basis of the project logic. I've been learning and working with form request validation in Laravel.

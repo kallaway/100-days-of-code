@@ -9,3 +9,6 @@ Started a small app which will allow my band to share our songs and lyrics
 
 ### R1D2
 Following on the bootstraping
+
+### R1D3
+Learning about form validation in laravel
