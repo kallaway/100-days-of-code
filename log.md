@@ -22,5 +22,13 @@
 
 **Thoughts:** Practice, practice and more practice, I understand better redux but I need mora practice.  :clap:  :clap: :clap:
 
-**Link to work:** [List Artist Whit React-Redux](https://ctahirih.github.io/api-weather/public/)
+**Link to work:** [the weather](https://ctahirih.github.io/api-weather/public/)
+
+### Day 3: March 19, 2018 :heavy_check_mark:
+
+**Today's Progress**: Today I init my proyect from a start up with react, I define components
+
+**Thoughts:** Practice, practice and more practice, I understand better redux but I need mora practice.  :clap:  :clap: :clap:
+
+**Link to work:** [Redbus](https://github.com/cTahirih/redbus)
 
