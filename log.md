@@ -220,5 +220,17 @@ Tried to make creative logic for the prob!!
 
 
 
+### Day 19: March 19, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Interesting problem!! feels cool to crack the logic & code_
+
+**Link(s) to work**
+1. [Minimize The String - Codechef_Problem](https://www.codechef.com/problems/MINSTR)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/minimize_the_string.py)
+
+
+
 
 
