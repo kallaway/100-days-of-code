@@ -627,3 +627,19 @@
 
 **Link to work:**
 
+### Day 79: March 19, 2018
+
+**Today's Progress**: Worked hard on manipulating arrays using filter.  
+
+**Thoughts:** Trying to figure out how to process one attribute in an array that meets certain criteria but not others.  When using filter, you need to recognize that you've already processed for that attribute and ignore it in future elements in the table.  It's really hard to figure out but promises to open up a ton of opportunity to use functional programming rather than loops.
+
+**Link to work:**
+
+### Day X: March X, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
