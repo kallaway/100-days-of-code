@@ -32,3 +32,11 @@
 
 **Link to work:** [Redbus](https://github.com/cTahirih/redbus)
 
+### Day 4: March 20, 2018 :heavy_check_mark:
+
+**Today's Progress**: Today I continue my proyect from a start up with react, I define styles for components. I work with [LizbethFP](https://github.com/lizbethfp)
+
+**Thoughts:** Practice, practice and more practice, Today is a second day with the proyect is so confused but we will make it.  :clap:  :clap: :clap:
+
+**Link to work:** [Redbus](https://github.com/cTahirih/redbus)
+
