@@ -12,3 +12,6 @@ Following on the bootstraping
 
 ### R1D3
 Learning about form validation in laravel
+
+### R1D4
+Internationalization
