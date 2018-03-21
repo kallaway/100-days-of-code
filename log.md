@@ -627,3 +627,27 @@
 
 **Link to work:**
 
+### Day 79: March 19, 2018
+
+**Today's Progress**: Worked hard on manipulating arrays using filter.  
+
+**Thoughts:** Trying to figure out how to process one attribute in an array that meets certain criteria but not others.  When using filter, you need to recognize that you've already processed for that attribute and ignore it in future elements in the table.  It's really hard to figure out but promises to open up a ton of opportunity to use functional programming rather than loops.
+
+**Link to work:**
+
+### Day 80: March 20, 2018
+
+**Today's Progress**: Completed five intermediate algorithm exercises, which means I completed all of the intermediate and am ready to do the advanced algorithm exercises.
+
+**Thoughts:** Felt fantastic, I got something like 12-15 exercises done in five days.  Great progress and I learned a lot from the exercises.
+
+**Link to work:**
+
+### Day 81: March 21, 2018
+
+**Today's Progress**: Focusing on non-programming stuff and doing tutorials today.  
+
+**Thoughts:** But I'm kind of itching to do more algorithm programming while I'm in a groove.  It felt really good and I'm not burnt out doing it.  In fact, it's energizing because I feel like I'm learning a ton from doing it.
+
+**Link to work:**
+
