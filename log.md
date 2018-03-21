@@ -16,8 +16,16 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 
 **Link to work:** [Laravel Localization](https://laravel.com/docs/5.6/localization)
 
-### Day2: March 29, 2018
+### Day2: March 19, 2018
 
 **Today's Progress**: Still Bootstraping the project.
 
 **Thoughts**: I am starting to create the basis of the project logic. I've been learning and working with form request validation in Laravel.
+
+**Link to work:** [Laravel Validation](https://laravel.com/docs/5.6/validation)
+
+## Day3: March 21, 2018
+
+**Todays Progress**: Still working the foundation
+
+**Thoughts**: Further work on validation and Localization. Starting to think about an internationalization strategy (internationalization keys files)
