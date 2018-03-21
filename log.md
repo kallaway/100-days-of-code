@@ -1,30 +1,31 @@
 # 100 Days Of Code - Log
+### Day 0: March 17, 2018
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress**: Bootstraped the project. I'm going to use Lavarel and VueJS to build the project.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I think this project will help me to grasp most of the parts of the entire stack since I will have to create and configure a server, work on the front, the back, play with rules and roles, etc ... I will update the stack as I go through the building (maybe add some queueing, http cache, redis cache etc ...).
+UI/UX and CSS will be the most challenging parts for me since it is not my string suits but I'll get better by doing
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [Laravel website](https://laravel.com/docs/5.6)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: March 18, 2018
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Following up on the project bootstraping.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts** Creating the basics layouts of the app. The goal is to have a working infrastructure so that I can add up to the app later (add UI / UX and the javascript parts). Started to add the basis of Localization
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [Laravel Localization](https://laravel.com/docs/5.6/localization)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day2: March 19, 2018
 
+**Today's Progress**: Still Bootstraping the project.
 
-### Day 1: June 27, Monday
+**Thoughts**: I am starting to create the basis of the project logic. I've been learning and working with form request validation in Laravel.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link to work:** [Laravel Validation](https://laravel.com/docs/5.6/validation)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+## Day3: March 21, 2018
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Todays Progress**: Still working the foundation
+
+**Thoughts**: Further work on validation and Localization. Starting to think about an internationalization strategy (internationalization keys files)
