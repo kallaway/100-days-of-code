@@ -242,6 +242,17 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/ciel_and_A_B_problem.py)
 
 
+### Day 21: March 21, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Easy problem!! solved_n 5 min!!
+
+**Link(s) to work**
+1. [Ciel and A-B Problem - Codechef_Problem](https://www.codechef.com/problems/LAPIN)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/lapindromes.py)
+
+
 
 
 
