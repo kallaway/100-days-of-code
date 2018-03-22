@@ -231,7 +231,7 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/minimize_the_string.py)
 
 
-### Day 19: March 19, 2018 Monday
+### Day 20: March 20, 2018 Tuesday
 
 **Today's Progress**: Today also going through some codechef problems.
 
