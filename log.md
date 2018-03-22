@@ -651,3 +651,19 @@
 
 **Link to work:**
 
+### Day 82: March 22, 2018
+
+**Today's Progress**:   Completed the first advanced FreeCodeCamp algorithm.
+
+**Thoughts:**   My answer was straightforward but it reflected an approach of assessing wildcards and manipulating the string to see if it matched.  Once I got it right and looked at the answer in the hint, I realized that Javascript supports an approach of character-by-character or character group-by-character-group format enforcement.  My approach worked, but that's much more powerful.
+
+**Link to work:**
+
+### Day X: March X, 2018
+
+**Today's Progress**:   
+
+**Thoughts:** 
+
+**Link to work:**
+
