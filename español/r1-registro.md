@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode registro - ronda 1 - [ponga su nombre aquí]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+El registro de mi reto #100DaysOfCode. Empecé el [17 de julio, lunes, 2017]
 
-## Log
+## Registro
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1
+
+Empecé una aplicación de clima. Trabajé en una diseño gráfico de la aplicación, el API de OpenWeather fue una prueba http://www.example.com.
 
 ### R1D2
