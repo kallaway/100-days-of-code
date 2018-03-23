@@ -264,7 +264,7 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/jewels_and_stones.py)
 
 
-### Day 22: March 22, 2018 Thrusday
+### Day 23: March 23, 2018 Friday
 
 **Today's Progress**: Today also going through some codechef problems.
 
