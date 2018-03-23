@@ -252,6 +252,16 @@ Tried to make creative logic for the prob!!
 1. [Lapindromes - Codechef_Problem](https://www.codechef.com/problems/LAPIN)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/lapindromes.py)
 
+### Day 22: March 22, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Nice problem!!
+
+**Link(s) to work**
+1. [Jewels and Stones - Codechef_Problem](https://www.codechef.com/problems/STONES)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/jewels_and_stones.py)
+
 
 
 
