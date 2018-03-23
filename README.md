@@ -1,4 +1,5 @@
-Lea este repositorio en [español](español)
+## Translations
+[español](español)
 
 # I've joined the #100DaysOfCode Challenge.
 
