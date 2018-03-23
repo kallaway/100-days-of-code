@@ -659,6 +659,14 @@
 
 **Link to work:**
 
+### Day 83: March 23, 2018
+
+**Today's Progress**:   Did some research on JSON objects and decided to come back to that algorithm.  Did the next oen and made some good progress, a few bugs to work out but I think I'm close.
+
+**Thoughts:** I'm still knocking these out faster than I'd expected.  Feels really good to be doing the exercises and coding every day.  Although building the actual websites is my weakness, I'll have to take it on after I finish these algorithm exercises.
+
+**Link to work:**
+
 ### Day X: March X, 2018
 
 **Today's Progress**:   
