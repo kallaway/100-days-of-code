@@ -1,30 +1,29 @@
-# 100 Days Of Code - Log
+# 100 días de código - registro
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### día 0: 30 de febrero, 2016 (ejemplo 1)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+##### (elimine o comente)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Progreso de hoy**: Arreglé CSS, trabajé en funciona de canvas por el app.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Reflexiones:** Trabajando con el CSS fue una prueba, pero, en general, siento que progresando y mejorando lentamente. Canvas, todavía nueva a mi, pero logré descubrir algunas funcionalidades básicas.  
+**Enlace a mi trabajo:** [Calculadora App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### día 0: 30 de febrero, 2016 (ejemplo 2)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+##### (elimine o comente)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Progreso de hoy**: Arreglé CSS, trabajé en funciona de canvas por el app.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Reflexiones:** Trabajando con el CSS fue una prueba, pero, en general, siento que progresando y mejorando lentamente. Canvas, todavía nueva a mi, pero logré descubrir algunas funcionalidades básicas.  
+**Enlace a mi trabajo:** [Calculadora App](http://www.example.com)
 
+### día 1: 27 de junio, 2016
 
-### Day 1: June 27, Monday
+**Progreso de hoy**: He pasado por muchas ejercicios en FreeCodeCamp.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Reflexiones** Recientemente comencé a programar, y es una gran sensación cuando finalmente resuelvo un desafío de algoritmo después de muchos intentos y horas.  
+**Enlace(s) a mi trabajo**
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1.  [Descubra la palabra más larga en una cadena de caracteres](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2.  [Titulo del caso una oración](https://www.freecodecamp.com/challenges/title-case-a-sentence)
