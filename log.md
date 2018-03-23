@@ -252,6 +252,7 @@ Tried to make creative logic for the prob!!
 1. [Lapindromes - Codechef_Problem](https://www.codechef.com/problems/LAPIN)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/lapindromes.py)
 
+
 ### Day 22: March 22, 2018 Thrusday
 
 **Today's Progress**: Today also going through some codechef problems.
@@ -263,7 +264,12 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/jewels_and_stones.py)
 
 
+### Day 22: March 22, 2018 Thrusday
 
+**Today's Progress**: Today also going through some codechef problems.
 
+**Thoughts** Easy prob_ !! math logics has proved itself  to decreases the complexity of code__ everytime !! Awesome maths!!
 
-
+**Link(s) to work**
+1. [Dividing Stamps - Codechef_Problem](https://www.codechef.com/problems/DIVIDING)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/dividing_stamps.py)
