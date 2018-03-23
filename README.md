@@ -1,4 +1,4 @@
-Lea este repositorio en [español](español/README.md)
+Lea este repositorio en [español](español)
 
 # I've joined the #100DaysOfCode Challenge.
 
