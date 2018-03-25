@@ -273,3 +273,15 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Dividing Stamps - Codechef_Problem](https://www.codechef.com/problems/DIVIDING)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/dividing_stamps.py)
+
+
+### Day 24: March 24, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Easy prob_ !!
+
+**Link(s) to work**
+1. [Walk - Codechef_Problem](https://www.codechef.com/problems/WALK)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/walk.py)
+
