@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 03, 2018 
+### Day 1: March 21, 2018 
 
 **Today's Progress**: React, worked on React's Functional Components in branches footer and main.
 
@@ -8,8 +8,14 @@
 
 **Link to work:** [Redbus](https://github.com/LizbethFP/redbus)
 
-
-
 **Link(s) to work**
 1. [JSbin aid](https://jsbin.com/canejirofi/edit?js,console)
 
+
+### Day 4: March 25, 2018 
+
+**Today's Progress**: CSS ang HTML, worked on improving my portfolio according to lab's guides.
+
+**Thoughts:** I worked on setting the same margins on objects for all sections, making them all looks alike and centered. I changed my profile photo and changed my interests pictures for a quick and short list. I still need to find a plug-in to help me set animations based  on the page scrolling.
+
+**Link to work:** [Portfolio](https://github.com/LizbethFP/portfolio)
