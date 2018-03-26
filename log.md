@@ -667,6 +667,30 @@
 
 **Link to work:**
 
+### Day 84: March 24, 2018
+
+**Today's Progress**:   Did the MarchForOurLives in the morning and met iwth Vietnam vets at the history museum in the afternoon.  The day was very full so I didn't get any coding done.
+
+**Thoughts:** My heart was so full after the emotional march and meeting the vets.  In the short term, too bad I didn't code.  But in the longer term, I think this day was key to my coding journey because it helped me realize how great that feeling of connection and healing is.
+
+**Link to work:**
+
+### Day 85: March 25, 2018
+
+**Today's Progress**:   Finished the Symmetrical Difference coding challenge, despite a lot of family commitments.
+
+**Thoughts:** This was one of those exercises that felt great, because my solution was elegant, my approach worked well, and I thought my code looked better than the FreeCodeCamp answers.  Plus, I solved the problems during Tess's silks class, so there were people talking (including to me) and lots of noise and distraction.  Made me feel great.
+
+**Link to work:**
+
+### Day X: March X, 2018
+
+**Today's Progress**:   
+
+**Thoughts:** 
+
+**Link to work:**
+
 ### Day X: March X, 2018
 
 **Today's Progress**:   
