@@ -15,3 +15,6 @@ Learning about form validation in laravel
 
 ### R1D4
 Internationalization
+
+### R1D5
+Changed the model and database architecture
