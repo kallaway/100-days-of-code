@@ -683,11 +683,11 @@
 
 **Link to work:**
 
-### Day X: March X, 2018
+### Day 86: March 26, 2018
 
-**Today's Progress**:   
+**Today's Progress**: Worked on FreeCodeCamp advanced algorithm and attended a Deep Learning Meetup. 
 
-**Thoughts:** 
+**Thoughts:** The algorigthm looks like a good challenge, I suck at managing objects and need to get better.  The meetup looks promising in terms of really smart people who can teach me a lot. But what I'm trying to do may prove daunting, or at least not a good fit for Machine Learning.
 
 **Link to work:**
 
