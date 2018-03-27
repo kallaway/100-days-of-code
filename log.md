@@ -285,3 +285,14 @@ Tried to make creative logic for the prob!!
 1. [Walk - Codechef_Problem](https://www.codechef.com/problems/WALK)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/walk.py)
 
+
+### Day 25: March 25, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Nice String Manipulation type prob_ !!
+
+**Link(s) to work**
+1. [Tourist Translation - Codechef_Problem](https://www.codechef.com/problems/TOTR)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/tourist_translation.py)
+
