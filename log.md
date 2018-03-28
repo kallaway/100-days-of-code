@@ -35,3 +35,11 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 **Today's Progress**: Reviewed the model architecure
 
 **Thoughts**: After a long week in which I did code but not an hour a day every day becaus of a very event full calendar I started back my daily one hour work on the project. It's gonna be harder than I thought hourly speaking but I need to really ocmmit to this. One hour a day every day !
+
+## Day 5: March 28, 2018
+
+**Today's Progress**: Implementing features following the TDD approach
+
+**Thoughts**: TDD feels quite uneasy at the beginning but really sho value when you start adding features that touches others features' scopes
+
+**Link to work** [Laravel TDD](https://course.testdrivenlaravel.com)

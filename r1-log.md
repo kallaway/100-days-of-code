@@ -18,3 +18,6 @@ Internationalization
 
 ### R1D5
 Changed the model and database architecture
+
+### R1D6
+Starting to implement features by implementing tests (going full TDD for this);
