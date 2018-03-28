@@ -296,3 +296,14 @@ Tried to make creative logic for the prob!!
 1. [Tourist Translation - Codechef_Problem](https://www.codechef.com/problems/TOTR)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/tourist_translation.py)
 
+
+### Day 26: March 26, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Binary Tree type prob_!! Interesting prob_.. so is its code!!
+
+**Link(s) to work**
+1. [Shortest path in Binary Tree - Codechef_Problem](https://www.codechef.com/problems/BINTREE)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/shortest_path_in_binary_tree.py)
+
