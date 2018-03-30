@@ -307,3 +307,14 @@ Tried to make creative logic for the prob!!
 1. [Shortest path in Binary Tree - Codechef_Problem](https://www.codechef.com/problems/BINTREE)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/shortest_path_in_binary_tree.py)
 
+
+### Day 27: March 27, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** game type prob_!!
+
+**Link(s) to work**
+1. [The Ball And Cups - Codechef_Problem](https://www.codechef.com/status/TAVISUAL)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/the_ball_and_cups.py)
+
