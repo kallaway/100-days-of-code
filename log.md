@@ -43,3 +43,11 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 **Thoughts**: TDD feels quite uneasy at the beginning but really sho value when you start adding features that touches others features' scopes
 
 **Link to work** [Laravel TDD](https://course.testdrivenlaravel.com)
+
+## Day 6: March 29, 2018
+
+**Today's Progress**: Further implementation of features following the TDD approach
+
+**Thoughts**: TDD feels quite uneasy at the beginning but really sho value when you start adding features that touches others features' scopes
+
+**Link to work** [Laravel TDD](https://course.testdrivenlaravel.com)
