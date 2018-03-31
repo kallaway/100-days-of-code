@@ -14,5 +14,3 @@ talking about code.
 
 It feels great to start this commitment again. I really think this will give me the focus
 that I need.
-
-**Link to work:** [Changes to portfolio site with jsCalculator hidden](http://bradleyhop.github.io)
