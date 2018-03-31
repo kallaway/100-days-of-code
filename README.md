@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge.
 
+# Please see [log.md](log.md) above for a journal of my progress/struggle/growth.
+
+# bradleyhop 3/30/18
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
