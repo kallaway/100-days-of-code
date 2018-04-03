@@ -337,6 +337,6 @@ Tried to make creative logic for the prob!!
 **Thoughts** To reduce time limit exceed problem, made use of counter function from collection module #python
 
 **Link(s) to work**
-1. [Safe Robot - Codechef_Problem](https://www.codechef.com/problems/LCPESY)
+1. [Longest Common Pattern  - Codechef_Problem](https://www.codechef.com/problems/LCPESY)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/longest_common_pattern.py)
 
