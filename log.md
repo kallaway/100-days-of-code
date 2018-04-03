@@ -318,3 +318,14 @@ Tried to make creative logic for the prob!!
 1. [The Ball And Cups - Codechef_Problem](https://www.codechef.com/status/TAVISUAL)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/the_ball_and_cups.py)
 
+
+### Day 28: March 28, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Logical prob_, feels nice to code it!!
+
+**Link(s) to work**
+1. [Safe Robot - Codechef_Problem](https://www.codechef.com/problems/ROBOTG)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/safe_robot.py)
+
