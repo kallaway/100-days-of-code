@@ -329,3 +329,14 @@ Tried to make creative logic for the prob!!
 1. [Safe Robot - Codechef_Problem](https://www.codechef.com/problems/ROBOTG)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/safe_robot.py)
 
+
+### Day 29: March 29, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** To reduce time limit exceed problem, made use of counter function from collection module #python
+
+**Link(s) to work**
+1. [Safe Robot - Codechef_Problem](https://www.codechef.com/problems/LCPESY)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/longest_common_pattern.py)
+
