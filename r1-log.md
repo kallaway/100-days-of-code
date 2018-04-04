@@ -24,3 +24,6 @@ Starting to implement features by implementing tests (going full TDD for this);
 
 ### R1D7
 Starting to grasp the TDD flow
+
+### R1D8
+Solidity framework

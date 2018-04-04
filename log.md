@@ -51,3 +51,9 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 **Thoughts**: TDD feels quite uneasy at the beginning but really sho value when you start adding features that touches others features' scopes
 
 **Link to work** [Laravel TDD](https://course.testdrivenlaravel.com)
+
+**Today's Progress**: Today we tke a small pause to discover Solidity with the Loom Network game CryptoZombie
+
+**Thoughts**: Ethereum development is not easy and every error can cost a lot so you have to be thrice as careful when developing apps
+
+**Link to work**: [CryptoZombie](cryptozombies.io/)
