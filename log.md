@@ -385,3 +385,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/processing_a_string.py)
 
 
+### Day 34: April 3, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** interesting prob_!! Nice to crack the logic.. Did somthin interesting for reversal of string, for checking palindrome..
+
+**Link(s) to work**
+1. [Faded Palindrome - Codechef_Problem](https://www.codechef.com/problems/LEXOPAL)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/faded_palindrome.py)
+
+
