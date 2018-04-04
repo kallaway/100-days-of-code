@@ -352,3 +352,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/reversing_directions.py)
 
 
+### Day 31: March 31, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** Easy prob_!!
+
+**Link(s) to work**
+1. [Life, the Universe And Everything  - Codechef_Problem](https://www.codechef.com/problems/TEST)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/life_the_universe_and_everything.py)
+
+
