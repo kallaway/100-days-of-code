@@ -363,3 +363,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/life_the_universe_and_everything.py)
 
 
+### Day 32: April 1, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** This prob_ is its just playing with subsets!!
+
+**Link(s) to work**
+1. [Chef And Subsets  - Codechef_Problem](https://www.codechef.com/problems/CHEFSETC)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_subset.py)
+
+
