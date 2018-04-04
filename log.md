@@ -374,3 +374,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_subset.py)
 
 
+### Day 33: April 2, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** easy prob_ !! made use of isdigit() func_!!
+
+**Link(s) to work**
+1. [Processing a String - Codechef_Problem](https://www.codechef.com/problems/CHEFSETC)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/processing_a_string.py)
+
+
