@@ -340,3 +340,15 @@ Tried to make creative logic for the prob!!
 1. [Longest Common Pattern  - Codechef_Problem](https://www.codechef.com/problems/LCPESY)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/longest_common_pattern.py)
 
+
+### Day 30: March 30, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** followed the reverse pattern for the logic, interesting prob_ !!
+
+**Link(s) to work**
+1. [Reversing Directions  - Codechef_Problem](https://www.codechef.com/problems/DIRECTI)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/reversing_directions.py)
+
+
