@@ -396,3 +396,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/faded_palindrome.py)
 
 
+### Day 35: April 4, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** easy prob_ !! set() made the code run well !
+
+**Link(s) to work**
+1. [Copy-Paste - Codechef_Problem](https://www.codechef.com/problems/RRCOPY)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/copy_paste.py)
+
+
