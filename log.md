@@ -407,3 +407,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/copy_paste.py)
 
 
+### Day 36: April 5, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** easy prob_ !! just modulo nd condition works well !!
+
+**Link(s) to work**
+1. [Chef And Socks - Codechef_Problem](https://www.codechef.com/problems/CHEFSOCK)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_socks.py)
+
+
