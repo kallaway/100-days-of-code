@@ -52,8 +52,18 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 
 **Link to work** [Laravel TDD](https://course.testdrivenlaravel.com)
 
-**Today's Progress**: Today we tke a small pause to discover Solidity with the Loom Network game CryptoZombie
+## Day 7: April 3, 2018
+
+**Today's Progress**: Today we take a small pause to discover Solidity with the Loom Network game CryptoZombie
 
 **Thoughts**: Ethereum development is not easy and every error can cost a lot so you have to be thrice as careful when developing apps
 
 **Link to work**: [CryptoZombie](cryptozombies.io/)
+
+## Day 7: April 4, 2018
+
+**Today's Progress**: Refactored most of the back-office code to add the admin part. Refactored the tests suite according to these changes
+
+**Thoughts**:
+
+**Link to work**: [Laravel Testing](https://laravel.com/docs/5.6/testing)
