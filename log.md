@@ -691,9 +691,17 @@
 
 **Link to work:**
 
-### Day X: March X, 2018
+### Day 87: April 5, 2018
 
-**Today's Progress**:   
+**Today's Progress**: Did more coding on the "Record Collection" advanced FreeCodeCamp algorithm.  
+
+**Thoughts:** I haven't been updating this log or tweeting for the last week and a half, but I have been coding, studying, and writing.  I even attended a coding meetup.  I've had guests staying with me non-stop from Tuesday March 27 through Monday, April 2, and then we started a family trip.  So I've been busy around the clock.  I haven't made as much progress as usual, but I did do something related to coding every day.  Highlights included FreeCodeCamp advanced algorithm exercise, developing a presentation video blog approach/templates/tools/scripts, tutorials, coding meetups, and reading/research.  I also looked hard at whether to do server-side coding or AI (I'm still a bit stuck on that one).  However, bottom line is that I haven't made a ton of progress in FreeCodeCamp and I haven't been documenting or blogging, so I'm not counting the days in my 100 days of code challenge.  So even though day 86 was a week and a half ago, today was day 87.
+
+**Link to work:**
+
+### Day X: April X, 2018
+
+**Today's Progress**: 
 
 **Thoughts:** 
 
