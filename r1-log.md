@@ -30,3 +30,6 @@ Solidity framework
 
 ### R1D9
 Test Driven Development
+
+### R1D10
+Feature Implementation

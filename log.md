@@ -67,3 +67,11 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 **Thoughts**:
 
 **Link to work**: [Laravel Testing](https://laravel.com/docs/5.6/testing)
+
+## Day 8: April 5, 2018
+
+**Today's Progress**: Follow up on feature implementation through TDD
+
+**Thoughts**:
+
+**Link to work**:
