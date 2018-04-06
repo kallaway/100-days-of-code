@@ -418,3 +418,15 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_socks.py)
 
 
+### Day 37: April 6, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** easy prob_ !! just a sum() function nd conditional loop counting works well !!
+
+**Link(s) to work**
+1. [Magic Elements - Codechef_Problem](https://www.codechef.com/problems/ZOZ)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/magic_elements.py)
+
+
+
