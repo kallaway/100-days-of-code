@@ -699,6 +699,14 @@
 
 **Link to work:**
 
+### Day 88: April 6, 2018
+
+**Today's Progress**: Completed the FreeCodeCamp "Record Collection".  Also set up a new GitHub repo and made it work with Atom on my local machine.  Backed up a bunch of my completed FreeCodeCamp exercises, but not all.  Need to copy/paste some of them from my FreeCodeCamp account.
+
+**Thoughts:** Record Collection was a good exercise for me because it taught me how to manage object records in a way I was unfamiliar with.  I really have to get over my fear of OOP.  I can do it, it's not that big a deal.  I'm more experienced with imperative programming, and I'm more enamored with functional programming, but OOP has its uses and I have good experience with it and knowledge of it.
+
+**Link to work:**
+
 ### Day X: April X, 2018
 
 **Today's Progress**: 
