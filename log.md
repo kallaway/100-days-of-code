@@ -707,6 +707,14 @@
 
 **Link to work:**
 
+### Day 89: April 7, 2018
+
+**Today's Progress**: Started on a new FreeCodeCamp advanced algorithm. Wrote a script for a video presentation on immutability.  Integrated GitHub Commits into my Atom coding.
+
+**Thoughts:** Back on track.  Didn't complete the algorithm but I made good progress. Also felt good to write the script.  Still first draft level stuff but getting better.
+
+**Link to work:**
+
 ### Day X: April X, 2018
 
 **Today's Progress**: 
