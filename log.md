@@ -440,5 +440,17 @@ Tried to make creative logic for the prob!!
 2. [trouble_sort](https://github.com/ashish7zeph/Competitive_Programming/blob/master/Code%20Jam%202k18/Qual%20Round/trouble_sort.py)
 
 
+### Day 39: April 8, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** easy prob_ !! just a simple logic with condition nd precision works well !!
+
+**Link(s) to work**
+1. [Minimum Good Permutation - Codechef_Problem](https://www.codechef.com/problems/MINPERM)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/minimum_good_permutation.py)
+
+
+
 
 
