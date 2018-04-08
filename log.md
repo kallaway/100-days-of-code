@@ -436,8 +436,8 @@ Tried to make creative logic for the prob!!
 **Thoughts** solved 2 questions.. made nice logic of the first problem, though problem was amazing.
 
 **Link(s) to work**
-1. [saving_the_universe_again](https://github.com/ashish7zeph/Competitive_Programming/blob/master/Code%20Jam%202k18/Qual%20Round/saving_the_universe_again.py)
-2. [trouble_sort](https://github.com/ashish7zeph/Competitive_Programming/blob/master/Code%20Jam%202k18/Qual%20Round/trouble_sort.py)
+1. [Saving The Universe Again - Code Jam Problem](https://github.com/ashish7zeph/Competitive_Programming/blob/master/Code%20Jam%202k18/Qual%20Round/saving_the_universe_again.py)
+2. [Trouble Sort - Code Jam Problem](https://github.com/ashish7zeph/Competitive_Programming/blob/master/Code%20Jam%202k18/Qual%20Round/trouble_sort.py)
 
 
 ### Day 39: April 8, 2018 Sunday
