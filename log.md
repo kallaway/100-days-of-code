@@ -418,7 +418,7 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_socks.py)
 
 
-### Day 37: April 6, 2018 Thrusday
+### Day 37: April 6, 2018 Friday
 
 **Today's Progress**: Today also going through some codechef problems.
 
@@ -427,6 +427,18 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Magic Elements - Codechef_Problem](https://www.codechef.com/problems/ZOZ)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/magic_elements.py)
+
+
+### Day 38: April 7, 2018 Saturday
+
+**Today's Progress**: Today I am performing the qualification round of Code Jam 2k18.
+
+**Thoughts** solved 2 questions.. made nice logic of the first problem, though problem was amazing.
+
+**Link(s) to work**
+1. [saving_the_universe_again](https://github.com/ashish7zeph/Competitive_Programming/blob/master/Code%20Jam%202k18/Qual%20Round/saving_the_universe_again.py)
+2. [trouble_sort](https://github.com/ashish7zeph/Competitive_Programming/blob/master/Code%20Jam%202k18/Qual%20Round/trouble_sort.py)
+
 
 
 
