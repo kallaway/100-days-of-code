@@ -1,7 +1,9 @@
 ## Translations
-[español](español)
+[español](intl/español) [français]()
 
-# I've joined the #100DaysOfCode Challenge.
+If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+
+# I've joined the #100DaysOfCode Challenge
 
 ## Contents
 
