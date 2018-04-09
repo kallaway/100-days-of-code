@@ -1,9 +1,12 @@
-# I've joined the #100DaysOfCode Challenge (Я присоединился к чалленджу #100ДнейКода)
+# Я присоединился к чалленджу #100ДнейКода (I've joined the #100DaysOfCode Challenge)
 
-Эта статья в процессе перевода
+Note: Я заранее извиняюсь но я не смог перевести слово challenge на русский адекватно без потери нюансов смысла - далее в документации я просто пишу "чаллендж" для удобства перевода и понимания. Обший смысл: испытание, решение изменить свою жизнь, эксперимент.
+
+Если вы хотите помочь большему количеству людей узнать о проекте 100ДнейКода пожалуйста поделитесь ссылкой на этот файл где нибудь на своих соцсетях :) Заранее огромное спасибо!
 
 ## Содержание
 
+Дополнительные ресурсы ниже (ссылки) будут переведены вскоре :)
 * [Правила](rules.md)
 * [Log - нажмите сюда чтобы увидеть свой прогресс](log.md)
 * [Часто Задаваемые Вопросы](FAQ.md)
@@ -11,26 +14,26 @@
 
 ## Если вы решили присоединиться к чалленджу:
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-1.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-1.  **Code minimum an hour every day for the next 100 days.**
-1.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-1.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-1.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-1.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-1.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-1.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+0.  Зайдите и почитайте официальный сайт сообщества (движения) выросшего вокруг #100DaysOfCode чалленджа: [Официальный сайт](http://100daysofcode.com/) Также найдите друзей и единомышленников на любой другой платформе из [списка](http://www.100DaysOfCode.com/connect). Также, вот [ссылка с приглашением](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) на официальное Slack сообщество #100DaysOfCode.
+1.  Прочитайте статью с которой все началось - она на английском но она короткая и в основном написано простыми предложениями: [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) (Если что то будет непонятно - напишите мне личное сообщение на твиттере @ka11away и я постараюсь помочь - можно на русском, я понимаю на нем :) )
+2. Сделайте форк (fork the repo) этого репозитория (чтобы у вас на гитхаб профиле появилась копия этого репозитория где вы сможете записывать свой прогресс каждый день). Добавляйте свои ежедневные апдейты в этот файл [Log (Дневник)](log.md) или на его альтернативную версию с упрощенным и ускоренным форматом: [(rapid) R1 Log](r1-log.md) (R1 значит Раунд 1) ежедневно. [Пример](https://github.com/Kallaway/100-days-kallaway-log).
+3.  **Писать код минимум 1 час в день каждый день в течение следующих 100 дней.**
+4.  **Вдохновлять и поддерживать (воодушевлять) хотя бы двух других людей которые делают #100DaysOfCode чаллендж - каждый день на Твиттере! Это окупится вдвойне - вы получите новых друзей с общими интересами, и вы поможете кому то кто мог бы сдаться и забросить свое обучение программированию.**
+5.  Измените дату в файле [Rules (Правила)](rules.md) на тот день когда вы начали чаллендж.
+6.  Удалите примеры из файла Log (Дневник) и начните записывать туда ваши апдейты каждый день.
+7.  **Твитите (публикуйте твит) со своим прогрессом каждый день, добавляя туда хэштег #100DaysOfCode**
+8. **Добавьте в свой ежедневный апдейт хештэг #100ДнейКода чтобы связаться и познакомиться с другими русскоговорящими людьми которые проходят через чаллендж #100DaysOfCode.**
+9. Зафолловьте [#100DaysOfCode официальный твиттер](https://twitter.com/_100DaysOfCode) бот который ретвитит твиты которые содержат в себе хэштег #100DaysOfCode - Это прекрасный способ держать себя "замотивированным/ой" и стать частью сообщества 100 Дней Кода, познакомиться с людьми по всей планете которые учат себя программированию! Спасибо [@amanhimself](https://twitter.com/amanhimself) за создание этого твиттера!
+10. Важно: (правило 4 дает конкретное правило на эту тему) Вдохновляйте, поддерживайте других на Твиттере (или на других ресурсах) - если они публикуют свои ежедневные апдейты и дают ссылку на свой проект, зайдите и посмотрите на него, дайте им свое мнение, поддержите их. Если они жалуются на потерю мотивации или неблагополучный день, поддержите их морально! Таким образом мы вырастим эффективное сообщество, в котором все друг другу помогают. Также, более вероятно что вы дойдете до конца своего чалленджа если вы будете знать больше людей которые тоже делают его.
+11. Если вы нашли полезный ресурс, хорошего качества, и вы думаете что он может быть полезен другим, сделайте "Пулл Риквест" к этому репозиторию, либо напишите мне твит или личное сообщение на Твиттере [@ka11away](https://www.twitter.com/ka11away)
 
-## Want to change other habits?
+## Хотите изменить другие привычки?
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+Загляните на [официальный сайт проекта #100DaysOfX (#100ДнейИкс)](http://100daysofx.com/). Измените свои привычки и вы измените свою жизнь. Помните, что лучшее время начать всегда прямо сейчас.
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+Я рекомендую не начинать больше чем 2-3 100Дней чалленджа за раз, в идеале. Если вы делаете #100DaysOfCode который потребляет очень много ментальной энергии, попробуйте [#100DaysOfHealth (#100ДнейЗдоровья)](http://100daysofx.com/where-x-is/health/) или [#100DaysOfFitness (#100ДнейФитнеса)](http://100daysofx.com/challenges/). На сайте есть еще много много чалленджей, зайдите и посмотрите какие из них вы захотите попробовать на себе! Иностранные языки, писательство, медитация, журнализм, готовка, и много другое.
 
 ## Note
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+* Если у вас есть какие-либо вопросы про #100DaysOfCode (или другие идеи), пишите мне в личные сообщения на Твиттере: [@ka11away](https://twitter.com/ka11away)
+* Если вам понравился этот проект и вы считаете что он полезен другим, пожалуйста поставьте ему звездочку на Гитхабе (в правом верхнем углу экрана) :) 
