@@ -715,6 +715,14 @@
 
 **Link to work:**
 
+### Day 90: April 8, 2018
+
+**Today's Progress**: Made some progress on Exact Change algorighm.  Not a lot but I did do some work on it.
+
+**Thoughts:** Every bit helps.  If I spend time every day, I make progress every day.  Even if it's a little, it helps.
+
+**Link to work:**
+
 ### Day X: April X, 2018
 
 **Today's Progress**: 
