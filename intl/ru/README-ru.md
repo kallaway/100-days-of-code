@@ -1,18 +1,15 @@
-# I've joined the #100DaysOfCode Challenge
+# I've joined the #100DaysOfCode Challenge (Я присоединился к чалленджу #100ДнейКода)
 
-## Contents
+Эта статья в процессе перевода
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+## Содержание
 
-## Translations
-[español](intl/es/README.md) [français](intl/fr/FAQ-fr.md)
+* [Правила](rules.md)
+* [Log - нажмите сюда чтобы увидеть свой прогресс](log.md)
+* [Часто Задаваемые Вопросы](FAQ.md)
+* [Ресурсы](resources.md)
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
-
-## If you've decided to join:
+## Если вы решили присоединиться к чалленджу:
 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
     Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) is a invite link to the 100DaysOfCode Slack channel
