@@ -33,3 +33,9 @@ Test Driven Development
 
 ### R1D10
 Feature Implementation
+
+### R1D11
+User registration tests
+
+### R1D12
+User registration
