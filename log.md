@@ -1,6 +1,6 @@
 # 100 Jours de Code - Log
 
-### Jour 0: 30 Février 2016
+### Jour 0: 26 Février 2016
 ##### (delete me or comment me out)
 
 **Progrès**: Correction du CSS, avancement de la fonctionnalité canvas dans l'app
