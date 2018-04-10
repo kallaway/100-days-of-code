@@ -1,5 +1,7 @@
 # Ressources principales à propos des #100JoursdeCode
 
+*(Ndlt : la plupart de ces ressources sont actuellement uniquement en anglais.)*
+
 [Site officiel des #100DaysOfCode](http://100daysofcode.com/)
 
 ### Articles
@@ -35,7 +37,7 @@
 3. "Mastering JavaScript" by Ved Antani
 
 ## Contenus
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Règles](regles.md)
+* [Log - cliquez ici pour voir mes progrès](log.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [Ressources](ressources.md)
