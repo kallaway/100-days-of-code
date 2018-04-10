@@ -14,8 +14,19 @@
 
 ### Day 4: March 25, 2018 
 
-**Today's Progress**: CSS ang HTML, worked on improving my portfolio according to lab's guides.
+**Today's Progress**: CSS and HTML, worked on improving my portfolio according to lab's guides.
 
 **Thoughts:** I worked on setting the same margins on objects for all sections, making them all looks alike and centered. I changed my profile photo and changed my interests pictures for a quick and short list. I still need to find a plug-in to help me set animations based  on the page scrolling.
 
 **Link to work:** [Portfolio](https://github.com/LizbethFP/portfolio)
+
+### Day 19: April 09, 2018
+
+**Today's Progress**: CSS and HTML, worked on improving my previous pyojects so as to have them prepared for the talent fest at Laboratoria in Lima.
+
+**Thoughts:** I worked on these projects a while ago and took me a while to catch up on what I did back then, and eventually fixed some things.
+
+**Link(s) to work:**
+1. [portfolio](https://github.com/LizbethFP/portfolio)
+2. [e-commerce](https://github.com/LizbethFP/ecommerse-product-final)
+3. [api-swapi](https://github.com/LizbethFP/api-swapi)
