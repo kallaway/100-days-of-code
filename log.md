@@ -451,6 +451,15 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/minimum_good_permutation.py)
 
 
+### Day 40: April 9, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** easy prob_ !! just a simple logic with a sort( ) and a condition check.
+
+**Link(s) to work**
+1. [Chef and Proportion - Codechef_Problem](https://www.codechef.com/problems/CHEFCBA)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_proportion.py)
 
 
 
