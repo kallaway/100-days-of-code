@@ -5,7 +5,7 @@
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
-* [Ressources](ressources.md)e
+* [Resources](resources.md)
 
 ## Translations
 [español](intl/es/README.md)  [français](intl/fr/FAQ-fr.md) [русский](intl/ru/README-ru.md)
