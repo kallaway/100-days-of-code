@@ -21,7 +21,7 @@ La raison pour cela est que nous avons tous des emplois du temps différents et 
 Ne vous focalisez pas sur le fait d'avoir un point sur GitHub pour ce jour-là en particulier. Oui, c'est bien de les accumuler jour après jour, mais vous ne vous rendriez pas service en mesurant vos efforts par rapport à une horloge.  
 
 **Q:** Devrais-je tenir un journal?  
-**A:** Oui, c'est une bonne idée, et le meilleur moyen pour cela est de forker ce repo et d'écrire dans le [Journal](journal.md) chaque jour. C'est utile de deux façons: vous pourrez voir vos progrès chaque jour en mesurant tout ce que vous avez déjà accompli: de la sorte ce sera plus facile de trouver la motivation de continuer. Et après que vous aurez fini les 100 jours, vous pourrez mieux analyser votre expérience et voir ce qui a fonctionné et ce qui n'a pas fonctioné.
+**A:** Oui, c'est une bonne idée, et le meilleur moyen pour cela est de forker ce repo et d'écrire dans le [Journal](log.md) chaque jour. C'est utile de deux façons: vous pourrez voir vos progrès chaque jour en mesurant tout ce que vous avez déjà accompli: de la sorte ce sera plus facile de trouver la motivation de continuer. Et après que vous aurez fini les 100 jours, vous pourrez mieux analyser votre expérience et voir ce qui a fonctionné et ce qui n'a pas fonctioné.
 
 **Q:** Devrais-je publier mes projets en ligne?  
 **A:** Assurément. C'est motivant et responsabilisant de savoir que les choses sur lesquelles vous travaillez sont accessibles à toutes les personnes qui souhaiterez y jeter un coup d'oeil. Cela vous incitera à soigner davantage le produit fini et cela produira un résulat plus impressionant au final. Je vous suggère de les publiez sur GitHub.
@@ -39,6 +39,6 @@ Ne vous focalisez pas sur le fait d'avoir un point sur GitHub pour ce jour-là e
 
 ## Contenus
 * [Règles](regles.md)
-* [Journal - cliquez ici pour voir mes progrès](journal.md)
+* [Journal - cliquez ici pour voir mes progrès](log.md)
 * [FAQ](FAQ-fr.md)
 * [Ressources](resources-fr.md)
