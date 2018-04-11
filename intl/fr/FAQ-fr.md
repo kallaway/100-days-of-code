@@ -41,4 +41,4 @@ Ne vous focalisez pas sur le fait d'avoir un point sur GitHub pour ce jour-là e
 * [Règles](regles.md)
 * [Journal - cliquez ici pour voir mes progrès](journal.md)
 * [FAQ](FAQ-fr.md)
-* [Ressources](ressources.md)
+* [Ressources](resources-fr.md)
