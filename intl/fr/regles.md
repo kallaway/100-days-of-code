@@ -11,7 +11,7 @@
 2. Si je code au travail, ce temps ne compte pas dans le défi.
 3. Je pusherai mon code chaque jour sur GitHub pour que chacun-e puisse voir mes progrès.
 4. Je mettrai à jour le (Log)[log.md] avec mes progrès du jour et je donnerai un lien pour que les autres puisse voir mes progrès.
-5. Je travaillerai à des projets REELS, me confrontant à des difficultés réelles. Le temps passé à suivre des tutos, des cours en lignes et des ressources similaires ne contera PAS dans ce défi. (Si vous venez juste de commencer à apprendre à coder, lisez la [FAQ](FAQ.md))
+5. Je travaillerai à des projets REELS, me confrontant à des difficultés réelles. Le temps passé à suivre des tutos, des cours en lignes et des ressources similaires ne contera PAS dans ce défi. (Si vous venez juste de commencer à apprendre à coder, lisez la [FAQ](FAQ-fr.md))
 
 
 ## Idées pour que ce défi soit plus efficace
@@ -24,5 +24,5 @@
 ## Contenu
 * [Règles](regles.md)
 * [Log - cliquez ici pour voir mes progrès](log.md)
-* [FAQ](FAQ.md)
-* [Ressources](ressources.md)
+* [FAQ](FAQ-fr.md)
+* [Ressources](resources-fr.md)
