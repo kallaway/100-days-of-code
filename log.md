@@ -723,6 +723,38 @@
 
 **Link to work:**
 
+### Day 91: April 9, 2018
+
+**Today's Progress**: Didn't make much actual coding progress, but listened to CodeNewbie podcasts
+
+**Thoughts:** Traveling up to Maryland and meeting prep took most of the day.  Podcasts in the car was the best I could do.
+
+**Link to work:**
+
+### Day 92: April 10, 2018
+
+**Today's Progress**: Same as yesterday, listened to CodeNewbie podcasts.
+
+**Thoughts:** Long meeting day, followed by a long drive.  No time for coding but listened to podcasts.
+
+**Link to work:**
+
+### Day 93: April 11, 2018
+
+**Today's Progress**: Worked on FreeCodeCamp Exact Change program.  
+
+**Thoughts:** I'm struggling with my motivation to finish these algorithms.  I feel like I kind of know this stuff now, and not getting a ton from doing the exercises.  Earlier I skipped ahead and then came back.  Maybe I need to do that now, either by going to AI or server-side programming.
+
+**Link to work:**
+
+### Day 94: April 12, 2018
+
+**Today's Progress**: Did some detailed research on back-end development for FreeCodeCamp vs AI.  
+
+**Thoughts:** I probably should do FreeCodeCamp.  In fact, if I was smart I'd be doing all the work for the front end development part. But I'm feeling the need to do AI now because it seems more relevant for work.
+
+**Link to work:**
+
 ### Day X: April X, 2018
 
 **Today's Progress**: 
