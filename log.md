@@ -473,5 +473,15 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/distinct_codes.py)
 
 
+### Day 42: April 11, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** easy prob_ !! just an equation with a fabs, ceil nd int type cast works well.
+
+**Link(s) to work**
+1. [Three Integers - Codechef_Problem](https://www.codechef.com/problems/AFK)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/three_integers.py)
+
 
 
