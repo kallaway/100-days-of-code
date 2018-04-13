@@ -484,4 +484,12 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/three_integers.py)
 
 
+### Day 43: April 12, 2018 Thrusday
 
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** logical prob_ !! just a short tricky logic works well enough, than going the long way..
+
+**Link(s) to work**
+1. [Coin Flip - Codechef_Problem](https://www.codechef.com/problems/CONFLIP)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/coin_flip.py)
