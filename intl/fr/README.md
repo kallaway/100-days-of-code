@@ -1,4 +1,4 @@
-# Je me suis inscris au défi des #100JoursDeCode.
+# Je me suis inscrit-e au défi des #100JoursDeCode.
 
 ## Contenu
 * [Règles](regles.md)
