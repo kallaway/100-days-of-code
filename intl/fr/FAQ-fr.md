@@ -1,13 +1,13 @@
 ## FAQ:
 
-**Q:** Comment puis-je me mettre en lien avec les gens qui participent aussi au défi?  
+**Q:** Comment puis-je me mettre en lien avec les autres participant-e-s au défi?  
 **A:** Le meilleur moyen pour cela est d'utiliser la liste des ressources disponibles sur le site officiel 100DaysofCode:   [www.100DaysOfCode.com/connect](https://www.100DaysOfCode.com/connect)  
 Et voici aussi le lien d'invitation pour le channel Slack des 100joursdecode: https://tinyurl.com/y73urlup (NB: en anglais)
   
-Cherchez #100JoursdeCode sur twitter ou rejoignez [le salon Gitter 100JoursdeCode](https://gitter.im/Kallaway/100DaysOfCode) -- vous n'avez pas besoin d'invitation, c'est ouvert à tout le monde. Enfin, suivez [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) sur twitter pour rester connecté avec la communauté. (NB: en anglais pour l'instant... TODO: un bot en français.)
+Cherchez #100JoursdeCode sur twitter ou rejoignez [le salon Gitter 100JoursdeCode](https://gitter.im/Kallaway/100DaysOfCode) -- vous n'avez pas besoin d'invitation, c'est ouvert à tout le monde. Enfin, suivez [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) sur twitter pour rester connecté avec la communauté. (NB: en anglais pour l'instant. Un bot twitter francophone est en cours de conception.)
 
 **Q:** J'ai déjà commencé le défi et j'en suis au Jour 8. Comment je peux utiliser ce repo pour garder une trace de mes progrès?  
-**A:** Ne vous inquiétez pas. Retrouvez autant d'infos que possible sur ce que vous avez fait les jours précédents, mais si vous ne pouvez pas, utilisez le repo simplement à partir d'où vous en êtes aujourd'hui. Si vous avez tweeté votre progression chaque jour, ajouter les lien vers vos tweet dans le Journal. Et puis, poursuivez avec ce format.  
+**A:** Ne vous inquiétez pas. Rassemblez autant d'infos que possible sur ce que vous avez fait les jours précédents, mais si vous n'y arrivez pas, utilisez le repo simplement à partir de votre situation actuelle. Si vous avez tweeté votre progression chaque jour, ajoutez les lien vers vos tweet dans le Journal. Et puis, poursuivez avec ce format.  
 
 **Q:** Je suis nouveau/nouvelle en programmation (ou: je viens tout juste de décider d'apprendre à coder) et je ne peux pas encore travailler sur des projets. Que dois-je faire?  
 **A:** Le meilleur moyen de commencer serait de suivre [le cours Front End de FreeCodeCamp](https://www.freecodecamp.com/) depuis le début. Plus vous avancerez avec les 100jours, mieux ce sera.
@@ -21,7 +21,7 @@ La raison pour cela est que nous avons tous des emplois du temps différents et 
 Ne vous focalisez pas sur le fait d'avoir un point sur GitHub pour ce jour-là en particulier. Oui, c'est bien de les accumuler jour après jour, mais vous ne vous rendriez pas service en mesurant vos efforts par rapport à une horloge.  
 
 **Q:** Devrais-je tenir un journal?  
-**A:** Oui, c'est une bonne idée, et le meilleur moyen pour cela est de forker ce repo et d'écrire dans le [Journal](journal.md) chaque jour. C'est utile de deux façons: vous pourrez voir vos progrès chaque jour en mesurant tout ce que vous avez déjà accompli: de la sorte ce sera plus facile de trouver la motivation de continuer. Et après que vous aurez fini les 100 jours, vous pourrez mieux analyser votre expérience et voir ce qui a fonctionné et ce qui n'a pas fonctioné.
+**A:** Oui, c'est une bonne idée, et le meilleur moyen pour cela est de forker ce repo et d'écrire dans le [Journal](log.md) chaque jour. C'est utile de deux façons: vous pourrez voir vos progrès chaque jour en mesurant tout ce que vous avez déjà accompli: de la sorte ce sera plus facile de trouver la motivation de continuer. Et après que vous aurez fini les 100 jours, vous pourrez mieux analyser votre expérience et voir ce qui a fonctionné et ce qui n'a pas fonctioné.
 
 **Q:** Devrais-je publier mes projets en ligne?  
 **A:** Assurément. C'est motivant et responsabilisant de savoir que les choses sur lesquelles vous travaillez sont accessibles à toutes les personnes qui souhaiterez y jeter un coup d'oeil. Cela vous incitera à soigner davantage le produit fini et cela produira un résulat plus impressionant au final. Je vous suggère de les publiez sur GitHub.
@@ -39,6 +39,6 @@ Ne vous focalisez pas sur le fait d'avoir un point sur GitHub pour ce jour-là e
 
 ## Contenus
 * [Règles](regles.md)
-* [Journal - cliquez ici pour voir mes progrès](journal.md)
+* [Journal - cliquez ici pour voir mes progrès](log.md)
 * [FAQ](FAQ-fr.md)
-* [Ressources](ressources.md)
+* [Ressources](resources-fr.md)
