@@ -4,7 +4,7 @@
 * [Règles](regles.md)
 * [Log - cliquez ici pour voir ma progression](log.md)
 * [FAQ](FAQ.md)
-* [Ressources](ressources.md)
+* [Ressources](resources-fr.md)
 
 
 ## Vous avez décidé de vous inscrire:
