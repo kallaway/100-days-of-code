@@ -3,7 +3,7 @@
 ## Contenu
 * [Règles](regles.md)
 * [Log - cliquez ici pour voir ma progression](log.md)
-* [FAQ-fr](FAQ.md)
+* [FAQ](FAQ-fr.md)
 * [Ressources](resources-fr.md)
 
 
