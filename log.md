@@ -493,3 +493,15 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Coin Flip - Codechef_Problem](https://www.codechef.com/problems/CONFLIP)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/coin_flip.py)
+
+
+### Day 44: April 13, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts** logical prob_ !! Worked on forming a short tricky logic in the form of a function, for removing TLE problem..
+
+**Link(s) to work**
+1. [Bear and AB - Codechef_Problem](https://www.codechef.com/problems/ABREPEAT)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/bear_and_ab.py)
+
