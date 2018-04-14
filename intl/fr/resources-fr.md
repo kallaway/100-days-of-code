@@ -14,14 +14,14 @@
 
 # Ressources supplémentaires sur les #100DaysOfCode
 
-## Helpful Articles
+## Articles utiles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 
-## Projects and Ideas
+## Idées et projets
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
 
-## Other resources
+## Autres ressources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 
 ## Livres (programmation et autre)
