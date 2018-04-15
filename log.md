@@ -1,20 +1,9 @@
-# 100 Jours de Code - Log
+<h1>100 Days Of Code | Journal</h1>
+<h3>Blayze Stone</h3>
 
-### Jour 0: 26 Février 2016
-##### (delete me or comment me out)
 
-**Progrès**: Correction du CSS, avancement de la fonctionnalité canvas dans l'app
+<p>My goal for #100daysofcode is to build a strong foundation of the basics and to take actionable steps towards becoming hirable as a junior front-end engineer.</p>
+<p>@blayze.stone on instagram to follow my efforts more closely.</p>
 
-**Pensées:** J'ai vraiment bataillé avec le CSS, mais, dans l'ensemble, j'ai l'impression que je commence à m'améliorer. Canvas est encore un concept nouveau pour moi, mais j'ai réussi à comprendre des fonctionnalités de base.
-
-**Lien vers les travaux:** [Calculator App](http://www.example.com)
-
-### Jour 2: 27 février 2016
-
-**Progrès**: J'ai complété des exercices surFreeCodeCamp.
-
-**Pensées** J'ai commencé à codé récemment, et c'est vraiment super quand je parviens à résoudre un exercice d'algorithme après de nombreux essais et d'heures passées dessus.
-
-**Liens vers les travaux**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+<h2>Day-1</h2>
+<p>I created a simple heading using HTML and CSS to officially start the challenge. I realize that I will need to focus on developing a strong understanding of CSS and how to use it. My first reaction is to use FlexBox to solve all of my positioning issues. I will be diving into CSS to learn all the different ways to solve my problems and the why for each solution, rather than go for the easy solution every time.</p>
