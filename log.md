@@ -755,6 +755,22 @@
 
 **Link to work:**
 
+### Day 95: April 13, 2018
+
+**Today's Progress**: Started the Fast.ai course and did some background research on Python 3, Jupyter, and related topics.
+
+**Thoughts:** Getting nervous that this won't be as easy and well-packeaged as FreeCodeCamp.  But looking forward to the challenge.  If I'm not making mistakes, I'm not trying hard enough.
+
+**Link to work:**
+
+### Day 96: April 14, 2018
+
+**Today's Progress**: Loaded up a bunch of podcasts on AI, downloaded a few python and pytorch tutorials, and watched a tutorial on functional programming in Python.  I also RSVPed for a couple of Deep learning meetup sessions.
+
+**Thoughts:** Getting some background material in place, but this is going to be a lot of pulling pieces together to make it work.  Tomorrow is a big day and I hope I can start strong and get some momentum going.
+
+**Link to work:**
+
 ### Day X: April X, 2018
 
 **Today's Progress**: 
