@@ -4,7 +4,7 @@
 
 **Today's Progress**: I've gone through practice questions in codechef.
 
-**Thoughts** I've now resumed competitive coding on codechef, and it's a great feeling when I finally solve an algorithm challenge on codechef.
+**Thoughts**: I've now resumed competitive coding on codechef, and it's a great feeling when I finally solve an algorithm challenge on codechef.
 
 **Link(s) to work**
 1. [Uniform Strings - Codechef_Problem](https://www.codechef.com/problems/STRLBP)
@@ -15,7 +15,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** This time I am solving competitive coding problems in Python, and feels like its less time consuming to write code in it. 
+**Thoughts**: This time I am solving competitive coding problems in Python, and feels like its less time consuming to write code in it. 
 
 **Link(s) to work**
 1. [Smart Strategy - Codechef_Problem](https://www.codechef.com/problems/SMRSTR)
@@ -30,7 +30,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Tried to find the simplest logic possible for the competitive problem in codechef. 
+**Thoughts**: Tried to find the simplest logic possible for the competitive problem in codechef. 
 
 **Link(s) to work**
 1. [Buggy Calculator - Codechef_Problem](https://www.codechef.com/problems/BUGCAL)
@@ -41,7 +41,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Today I learned to use ceil function from math module in python. 
+**Thoughts**: Today I learned to use ceil function from math module in python. 
 
 **Link(s) to work**
 1. [Survive in Chocoland - Codechef_Problem](https://www.codechef.com/problems/SURVIVE)
@@ -53,7 +53,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Did it in a simple try!! Accomplishment of the fact that, some shortest approach are hidden in the ques itself rather than going through the traditional way. 
+**Thoughts**: Did it in a simple try!! Accomplishment of the fact that, some shortest approach are hidden in the ques itself rather than going through the traditional way. 
 
 **Link(s) to work**
 1. [Devu_and_an_Array - Codechef_Problem](https://www.codechef.com/problems/DEVARRAY)
@@ -65,7 +65,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Did this one too in a simple try!!
+**Thoughts**: Did this one too in a simple try!!
 
 **Link(s) to work**
 1. [The Smallest Pair - Codechef_Problem](https://www.codechef.com/problems/SMPAIR)
@@ -77,7 +77,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Made the use of sets in python for eliminating common elements. Another simple one!!
+**Thoughts**: Made the use of sets in python for eliminating common elements. Another simple one!!
 
 **Link(s) to work**
 1. [Nothing In Common - Codechef_Problem](https://www.codechef.com/problems/NOTINCOM)
@@ -89,7 +89,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Simple pattern type question!!
+**Thoughts**: Simple pattern type question!!
 
 **Link(s) to work**
 1. [Fit Squares in Triangle - Codechef_Problem](https://www.codechef.com/problems/TRISQ)
@@ -101,7 +101,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Made the use of ceil function from math module!!
+**Thoughts**: Made the use of ceil function from math module!!
 
 **Link(s) to work**
 1. [Two Numbers - Codechef_Problem](https://www.codechef.com/problems/TWONMS)
@@ -113,7 +113,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Easy problem, solved_n 2 min.!!
+**Thoughts**: Easy problem, solved_n 2 min.!!
 
 **Link(s) to work**
 1. [Valid Triangles - Codechef_Problem](https://www.codechef.com/problems/FLOW013)
@@ -125,7 +125,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** At just the first try, coded the prob with the lowest time complexity!!
+**Thoughts**: At just the first try, coded the prob with the lowest time complexity!!
 
 **Link(s) to work**
 1. [Count Subarrays - Codechef_Problem](https://www.codechef.com/problems/SUBINC)
@@ -137,7 +137,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Used reverse_slicing technique ,example -< '123'[::-1] > , to reverse a number. Its cool, really cool!! Got enough time today, to solve another interesting problem!
+**Thoughts**: Used reverse_slicing technique ,example -< '123'[::-1] > , to reverse a number. Its cool, really cool!! Got enough time today, to solve another interesting problem!
 
 **Link(s) to work**
 1. [Reverse the number - Codechef_Problem](https://www.codechef.com/problems/FLOW007)
@@ -151,7 +151,7 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Creativity is the best thing for logics!! 
+**Thoughts**: Creativity is the best thing for logics!! 
 Tried to make creative logic for the prob!!
 
 **Link(s) to work**
@@ -164,7 +164,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Code accepted after few retry!! haven't taken in account a minute case. Got to learn to remember in mind, every cases possible!!
+**Thoughts**: Code accepted after few retry!! haven't taken in account a minute case. Got to learn to remember in mind, every cases possible!!
 
 **Link(s) to work**
 1. [Sticks - Codechef_Problem](https://www.codechef.com/problems/STICKS)
@@ -176,7 +176,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Easy prob!! Coded_n 5 min.!!
+**Thoughts**: Easy prob!! Coded_n 5 min.!!
 
 **Link(s) to work**
 1. [Smallest Numbers of Notes - Codechef_Problem](https://www.codechef.com/problems/FLOW005)
@@ -188,7 +188,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Nice problem!! Used slicing, ceil, list function along with the use of set, with a little bit creativity!!
+**Thoughts**: Nice problem!! Used slicing, ceil, list function along with the use of set, with a little bit creativity!!
 
 **Link(s) to work**
 1. [Chef and Rainbow Array - Codechef_Problem](https://www.codechef.com/problems/RAINBOWA)
@@ -200,7 +200,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Easy prob!! solved_n 10 min.
+**Thoughts**: Easy prob!! solved_n 10 min.
 
 **Link(s) to work**
 1. [Beer and Ladder - Codechef_Problem](https://www.codechef.com/problems/BRLADDER)
@@ -212,7 +212,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Interesting problem!! so is my code_, used 3 calls for a self made function.
+**Thoughts**: Interesting problem!! so is my code_, used 3 calls for a self made function.
 
 **Link(s) to work**
 1. [Chef and Pick Digit - Codechef_Problem](https://www.codechef.com/problems/CHEFPDIG)
@@ -224,7 +224,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Interesting problem!! feels cool to crack the logic & code_
+**Thoughts**: Interesting problem!! feels cool to crack the logic & code_
 
 **Link(s) to work**
 1. [Minimize The String - Codechef_Problem](https://www.codechef.com/problems/MINSTR)
@@ -235,7 +235,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Easy problem!! solved_n 4.5 min!!
+**Thoughts**: Easy problem!! solved_n 4.5 min!!
 
 **Link(s) to work**
 1. [Ciel and A-B Problem - Codechef_Problem](https://www.codechef.com/problems/CIELAB)
@@ -246,7 +246,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Easy problem!! solved_n 5 min!!
+**Thoughts**: Easy problem!! solved_n 5 min!!
 
 **Link(s) to work**
 1. [Lapindromes - Codechef_Problem](https://www.codechef.com/problems/LAPIN)
@@ -257,7 +257,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Nice problem!!
+**Thoughts**: Nice problem!!
 
 **Link(s) to work**
 1. [Jewels and Stones - Codechef_Problem](https://www.codechef.com/problems/STONES)
@@ -268,7 +268,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Easy prob_ !! math logics has proved itself  to decreases the complexity of code__ everytime !! Awesome maths!!
+**Thoughts**: Easy prob_ !! math logics has proved itself  to decreases the complexity of code__ everytime !! Awesome maths!!
 
 **Link(s) to work**
 1. [Dividing Stamps - Codechef_Problem](https://www.codechef.com/problems/DIVIDING)
@@ -279,7 +279,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Easy prob_ !!
+**Thoughts**: Easy prob_ !!
 
 **Link(s) to work**
 1. [Walk - Codechef_Problem](https://www.codechef.com/problems/WALK)
@@ -290,7 +290,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Nice String Manipulation type prob_ !!
+**Thoughts**: Nice String Manipulation type prob_ !!
 
 **Link(s) to work**
 1. [Tourist Translation - Codechef_Problem](https://www.codechef.com/problems/TOTR)
@@ -301,7 +301,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Binary Tree type prob_!! Interesting prob_.. so is its code!!
+**Thoughts**: Binary Tree type prob_!! Interesting prob_.. so is its code!!
 
 **Link(s) to work**
 1. [Shortest path in Binary Tree - Codechef_Problem](https://www.codechef.com/problems/BINTREE)
@@ -312,7 +312,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** game type prob_!!
+**Thoughts**: game type prob_!!
 
 **Link(s) to work**
 1. [The Ball And Cups - Codechef_Problem](https://www.codechef.com/status/TAVISUAL)
@@ -323,7 +323,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Logical prob_, feels nice to code it!!
+**Thoughts**: Logical prob_, feels nice to code it!!
 
 **Link(s) to work**
 1. [Safe Robot - Codechef_Problem](https://www.codechef.com/problems/ROBOTG)
@@ -334,7 +334,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** To reduce time limit exceed problem, made use of counter function from collection module #python
+**Thoughts**: To reduce time limit exceed problem, made use of counter function from collection module #python
 
 **Link(s) to work**
 1. [Longest Common Pattern  - Codechef_Problem](https://www.codechef.com/problems/LCPESY)
@@ -345,7 +345,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** followed the reverse pattern for the logic, interesting prob_ !!
+**Thoughts**: followed the reverse pattern for the logic, interesting prob_ !!
 
 **Link(s) to work**
 1. [Reversing Directions  - Codechef_Problem](https://www.codechef.com/problems/DIRECTI)
@@ -356,7 +356,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** Easy prob_!!
+**Thoughts**: Easy prob_!!
 
 **Link(s) to work**
 1. [Life, the Universe And Everything  - Codechef_Problem](https://www.codechef.com/problems/TEST)
@@ -367,7 +367,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** This prob_ is its just playing with subsets!!
+**Thoughts**: This prob_ is its just playing with subsets!!
 
 **Link(s) to work**
 1. [Chef And Subsets  - Codechef_Problem](https://www.codechef.com/problems/CHEFSETC)
@@ -378,7 +378,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** easy prob_ !! made use of isdigit() func_!!
+**Thoughts**: easy prob_ !! made use of isdigit() func_!!
 
 **Link(s) to work**
 1. [Processing a String - Codechef_Problem](https://www.codechef.com/problems/CHEFSETC)
@@ -389,7 +389,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** interesting prob_!! Nice to crack the logic.. Did somthin interesting for reversal of string, for checking palindrome..
+**Thoughts**: interesting prob_!! Nice to crack the logic.. Did somthin interesting for reversal of string, for checking palindrome..
 
 **Link(s) to work**
 1. [Faded Palindrome - Codechef_Problem](https://www.codechef.com/problems/LEXOPAL)
@@ -400,7 +400,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** easy prob_ !! set() made the code run well !
+**Thoughts**: easy prob_ !! set() made the code run well !
 
 **Link(s) to work**
 1. [Copy-Paste - Codechef_Problem](https://www.codechef.com/problems/RRCOPY)
@@ -411,7 +411,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** easy prob_ !! just modulo nd condition works well !!
+**Thoughts**: easy prob_ !! just modulo nd condition works well !!
 
 **Link(s) to work**
 1. [Chef And Socks - Codechef_Problem](https://www.codechef.com/problems/CHEFSOCK)
@@ -422,7 +422,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** easy prob_ !! just a sum() function nd conditional loop counting works well !!
+**Thoughts**: easy prob_ !! just a sum() function nd conditional loop counting works well !!
 
 **Link(s) to work**
 1. [Magic Elements - Codechef_Problem](https://www.codechef.com/problems/ZOZ)
@@ -433,7 +433,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today I am performing the qualification round of Code Jam 2k18.
 
-**Thoughts** solved 2 questions.. made nice logic of the first problem, though problem was amazing.
+**Thoughts**: solved 2 questions.. made nice logic of the first problem, though problem was amazing.
 
 **Link(s) to work**
 1. [Saving The Universe Again - Code Jam Problem](https://github.com/ashish7zeph/Competitive_Programming/blob/master/Code%20Jam%202k18/Qual%20Round/saving_the_universe_again.py)
@@ -444,7 +444,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** easy prob_ !! just a simple logic with condition nd precision works well !!
+**Thoughts**: easy prob_ !! just a simple logic with condition nd precision works well !!
 
 **Link(s) to work**
 1. [Minimum Good Permutation - Codechef_Problem](https://www.codechef.com/problems/MINPERM)
@@ -455,7 +455,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** easy prob_ !! just a simple logic with a sort( ) and a condition check.
+**Thoughts**: easy prob_ !! just a simple logic with a sort( ) and a condition check.
 
 **Link(s) to work**
 1. [Chef and Proportion - Codechef_Problem](https://www.codechef.com/problems/CHEFCBA)
@@ -466,7 +466,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** easy prob_ !! coded_n 5 min.
+**Thoughts**: easy prob_ !! coded_n 5 min.
 
 **Link(s) to work**
 1. [Distinct Codes - Codechef_Problem](https://www.codechef.com/problems/DISTCODE)
@@ -477,7 +477,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** easy prob_ !! just an equation with a fabs, ceil nd int type cast works well.
+**Thoughts**: easy prob_ !! just an equation with a fabs, ceil nd int type cast works well.
 
 **Link(s) to work**
 1. [Three Integers - Codechef_Problem](https://www.codechef.com/problems/AFK)
@@ -488,7 +488,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** logical prob_ !! just a short tricky logic works well enough, than going the long way..
+**Thoughts**: logical prob_ !! just a short tricky logic works well enough, than going the long way..
 
 **Link(s) to work**
 1. [Coin Flip - Codechef_Problem](https://www.codechef.com/problems/CONFLIP)
@@ -499,9 +499,21 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts** logical prob_ !! Worked on forming a short tricky logic in the form of a function, for removing TLE problem..
+**Thoughts**: logical prob_ !! Worked on forming a short tricky logic in the form of a function, for removing TLE problem..
 
 **Link(s) to work**
 1. [Bear and AB - Codechef_Problem](https://www.codechef.com/problems/ABREPEAT)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/bear_and_ab.py)
+
+
+### Day 45: April 14, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: another prob_ , solved by forming a short tricky logic. Problems like these are very interesting to solve nd code.
+
+**Link(s) to work**
+1. [Chef and Line - Codechef_Problem](https://www.codechef.com/problems/CARRAY)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_line.py)
+
 
