@@ -771,6 +771,14 @@
 
 **Link to work:**
 
+### Day 97: April 15, 2018
+
+**Today's Progress**: Attended a great AI meetup, met some cool people, whiteboarded some ideas for Natural language processing with smart and skilled people, found some great learning materials.  Time to hit the books!
+
+**Thoughts:** I think that there are ML algorithms and techniques already in place to do what I want to do.  So I just need to learn and stay connected to people who are ahead of me on the learning curve.
+
+**Link to work:**
+
 ### Day X: April X, 2018
 
 **Today's Progress**: 
