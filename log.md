@@ -528,3 +528,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/watson_asks_does_permutation_exist.py)
 
 
+### Day 47: April 16, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: literally very interesting prob_ !! so cool is its code.
+
+**Link(s) to work**
+1. [Mad Mex - Codechef_Problem](https://www.codechef.com/problems/MEX)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/max_mex.py)
+
+
