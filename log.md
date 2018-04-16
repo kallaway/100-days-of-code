@@ -517,3 +517,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_line.py)
 
 
+### Day 46: April 15, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice prob_ !!
+
+**Link(s) to work**
+1. [Watson Asks Does Permutation Exist - Codechef_Problem](https://www.codechef.com/problems/PERMEXIS)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/watson_asks_does_permutation_exist.py)
+
+
