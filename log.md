@@ -539,3 +539,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/max_mex.py)
 
 
+### Day 48: April 17, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: Solved an amazing prob_ with an accuracy of 29.25 on CodeChef. Made use of Counter() funct_n from collections module.
+
+**Link(s) to work**
+1. [Word Counting - Codechef_Problem](https://www.codechef.com/problems/WCOUNT)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/word_counting.py)
+
+
