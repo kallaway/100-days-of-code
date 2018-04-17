@@ -543,7 +543,7 @@ Tried to make creative logic for the prob!!
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts**: Solved an amazing prob_ with an accuracy of 29.25 on CodeChef. Made use of Counter() funct_n from collections module.
+**Thoughts**: Solved an amazing prob_ with an accuracy of 29.25 % on CodeChef. Made use of Counter() funct_n from collections module.
 
 **Link(s) to work**
 1. [Word Counting - Codechef_Problem](https://www.codechef.com/problems/WCOUNT)
