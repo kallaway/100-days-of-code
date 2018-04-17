@@ -779,6 +779,14 @@
 
 **Link to work:**
 
+### Day 98: April 16, 2018
+
+**Today's Progress**: Lecture 1 of Stanford Natural Language Processing AI course.  Intro stuff, non-technical, good foundation.  Next lecture starts to get into coding and math skills.
+
+**Thoughts:** Be ready to branch out into learning Python, linear algebra, and other skills as prerequisites to making progress.  Take your time and do the prerequisite work.
+
+**Link to work:**
+
 ### Day X: April X, 2018
 
 **Today's Progress**: 
