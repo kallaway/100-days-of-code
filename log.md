@@ -787,6 +787,14 @@
 
 **Link to work:**
 
+### Day 99: April 17, 2018
+
+**Today's Progress**: Watched lecture 2 of the Stanford Natural Language Processing AI course.
+
+**Thoughts:** Learned a lot but also realize how much linear algebra and calculus I need to brush up on.  I'm hoping that I can learn to use the libraries (as they seem to be well represented in Python) rather than dive deep into the derivations.
+
+**Link to work:**
+
 ### Day X: April X, 2018
 
 **Today's Progress**: 
