@@ -795,11 +795,11 @@
 
 **Link to work:**
 
-### Day X: April X, 2018
+### Day 100: April 18, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Went deeper on learning Natural Language Programming with Tensorflow.  
 
-**Thoughts:** 
+**Thoughts:** I understand the concepts but am missing some of the key connections that make the system work.  I've only been at it three days, so I'll give myself some time to figure it out.
 
 **Link to work:**
 
