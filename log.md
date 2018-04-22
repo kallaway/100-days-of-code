@@ -550,3 +550,25 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/word_counting.py)
 
 
+### Day 49: April 18, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy Problem !!
+
+**Link(s) to work**
+1. [Chef and Feedback - Codechef_Problem](https://www.codechef.com/problems/ERROR)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_feedback.py)
+
+
+### Day 50: April 19, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: Nice problem !!
+
+**Link(s) to work**
+1. [Chef and Stone - Codechef_Problem](https://www.codechef.com/problems/CHEFSTON)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_stone.py)
+
+
