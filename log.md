@@ -572,3 +572,13 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_stone.py)
 
 
+### Day 51: April 20, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem !!
+
+**Link(s) to work**
+1. [Chef and Easy Problem - Codechef_Problem](https://www.codechef.com/problems/CHEFA)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_easy_problem.py)
+
