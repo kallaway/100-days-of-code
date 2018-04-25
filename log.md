@@ -1,30 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Days 1- 9, before it occurred to me to put things on GitHub
+
+**Progress**: Dataquest: 58% through Intro to Python, 18% through Intermediate Python and Pandas 
+(Skipping anything that isn't included in the free package.)
+
+**Thoughts:** First week was fun and exciting and now it's a bit of a struggle. I think it's an [extinction burst](https://youarenotsosmart.com/2010/07/07/extinction-burst/)
+
+**Link to work:** not yet.
+
+### Day 10: April 25, 2018
+##### (five hashmarks looks like this - I don't really do Markup)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Last night was Crafting for Coders. It was scary to be in a room with all of these people who knew a whole culture that I don't know. I had to remind myself that things will feel different in a month or two. I'm glad these events will be monthly. It'll be a great way to mark my progress!
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: Maybe tomorrow. ;-)
 
 
-### Day 1: June 27, Monday
+### Three Hashmarks
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Between two asterisks**: Text.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Same as previous** There's a space between these.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. Numbered
+2. List
