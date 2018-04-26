@@ -1,30 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Days 1- 9, before it occurred to me to put things on GitHub
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progress**: Dataquest: 58% through Intro to Python. (Skipping anything that isn't included in the free package.)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** First week was fun and exciting and now it's a bit of a struggle. I think it's an [extinction burst](https://youarenotsosmart.com/2010/07/07/extinction-burst/)
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** not yet.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 10: April 25, 2018
+##### (five hashmarks looks like this - I don't really do Markup)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 18% through Intermediate Python and Pandas
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Last night was Crafting for Coders. It was scary to be in a room with all of these people who knew a whole culture that I don't know. I had to remind myself that things will feel different in a month or two. I'm glad these events will be monthly. It'll be a great way to mark my progress!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: Maybe tomorrow. ;-)
 
+### Day 11: April 26, 2018
+**Progress**: Dataquest: 59% through Storytelling Through Data Visualization
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: It's starting to get good, now that I'm learning visuals. However, the fact that DQ keeps making me skip paid content is v annoying.
+I want to make something with my FB data and put it out by mail tomorrow. We're supposed to go to vinyl night tonight though. I can't tell if my wish to bail on vinyl night is positive ('cause I want to code) or negative ('cause I want to be an introvert.)
