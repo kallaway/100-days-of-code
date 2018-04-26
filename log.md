@@ -17,13 +17,8 @@
 
 **Link(s) to work**: Maybe tomorrow. ;-)
 
+### Day 11: April 26, 2018
+**Progress**: Dataquest: 59% through Storytelling Through Data Visualization
 
-### Three Hashmarks
-
-**Between two asterisks**: Text.
-
-**Same as previous** There's a space between these.
-
-**Link(s) to work**
-1. Numbered
-2. List
+**Thoughts**: It's starting to get good, now that I'm learning visuals. However, the fact that DQ keeps making me skip paid content is v annoying.
+I want to make something with my FB data and put it out by mail tomorrow. We're supposed to go to vinyl night tonight though. I can't tell if my wish to bail on vinyl night is positive ('cause I want to code) or negative ('cause I want to be an introvert.)
