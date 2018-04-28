@@ -9,7 +9,7 @@
 
 ## Si ha decidido unirse:
 
-0.  Mira [el sitio Oficial](http://100daysofcode.com/) para el #100DaysOfCode movimiento. Conéctese con otra gente en la plataforma que elija de esta lista: www.100DaysOfCode.com/connect. También, [aquí](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) hay una enlace de invitación al canal de Slack.
+0.  Mira [el sitio Oficial](http://100daysofcode.com/) para el #100DaysOfCode movimiento. Conéctese con otra gente en la plataforma que elija de esta lista: www.100DaysOfCode.com/connect. También, [aquí](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) hay una enlace de invitación al canal de Slack.
 1.  Lea [Unirse el #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Bifúrquese este repositorio y confirme al [registro](registro.md) o al alternativa registro rápido [R1 registro](r1-registro.md) (R1 significa ronda 1) diariamente. [Ejemplo](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Programe por un mínimo de una hora por día durante los próximos 100 días.**
