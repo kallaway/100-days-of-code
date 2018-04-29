@@ -582,3 +582,14 @@ Tried to make creative logic for the prob!!
 1. [Chef and Easy Problem - Codechef_Problem](https://www.codechef.com/problems/CHEFA)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_easy_problem.py)
 
+
+### Day 52: April 21, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice problem !!
+
+**Link(s) to work**
+1. [Name Reduction - Codechef_Problem](https://www.codechef.com/problems/NAME1)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/name_reduction.py)
+
