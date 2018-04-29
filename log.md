@@ -593,3 +593,14 @@ Tried to make creative logic for the prob!!
 1. [Name Reduction - Codechef_Problem](https://www.codechef.com/problems/NAME1)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/name_reduction.py)
 
+
+### Day 53: April 22, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: cool problem !!
+
+**Link(s) to work**
+1. [Maximum Number - Codechef_Problem](https://www.codechef.com/problems/MAXNUM3)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/maximum_number.py)
+
