@@ -31,7 +31,7 @@
   **Q:** Was ist der schwierigste Teil an dieser Challenge?  
   **A:** Der Teil, in dem du dich hinsetzen und coden musst. Schiebe das nicht vor dir her oder grüble über alles nach, denn so wirst du dich nur aus all dem heraus rationalisieren. Nähere dich dem Ganzen mechanisch: setze dich hin, öffne deinen Laptop, starte deinen Code Editor, und fang an zu tippen. Nach 5 Minuten wirst du keine Probleme, Prokrastination, oder das Verlangen aufzuhören empfinden.  
 
-  **Q:** Falls alle an einem bestimmten Tag begonnen haben, sollte ich an den Tag anknüpfen, an dem sie gerade sind? Zum Beispiel von Tag 12 an?
+  **Q:** Falls alle an einem bestimmten Tag begonnen haben, sollte ich an den Tag anknüpfen, an dem sie gerade sind? Zum Beispiel von Tag 12 an?  
   **A:** Diese Challenge ist individuell, d.h. wenn du dich anschließt, beginnst du bei Tag 1. Wann immer du ein Update auf Twitter oder anderweitig postest, stelle sicher, dass du den Tag, an dem du gerade bist, erwähnst und den Hashtag benutzt, sodass dich andere finden und unterstützen können!
 
 ## Inhalt
