@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 1: April 30, Monday
+
+**Today's Progress**: I started working through the FreeCodeCamp front end developer curriculum. 
+
+**Keywords of the day**: styles, classes, anchors, input, lists, required input, radio buttons, checking buttons by default
+
+**Thoughts** I knew many of these early HTML/CSS concepts, though not committed to memory. 
+
+**Link(s) to work**
+1. N/A
+
 ### Day 0: April 29, Sunday
 
 **Today's Progress**: I've created all of the neccesary accounts as well as stood up my Ubuntu dev environment.
