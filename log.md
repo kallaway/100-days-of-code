@@ -23,3 +23,15 @@ Day 3: April 30, 2018- Monday
 **Thoughts:** This material which I have refreshed on today I remember a majority of it.  
 
 **Link to work:** https://twitter.com/AllStar_H_/status/991140768978030593
+
+Day 4: May 1, 2018- Tuesday  
+
+**Today's Progress**: Refreshed on nesting one Array within another Array. How Arrays are mutable and can be changed freely. Accessing multidimensional arrays with indexes. Manipulating Arrays with “.push()”, appending data to the end, .pop() , removing data at the end ( "popped" off data can be stored in another assigned variable). ".shift()" removes data at the front, and ".unshift()" adds data to the front. 
+
+Refreshed on Functions() and their use. How "Parameters" are placeholders for values, called "Arguments". 
+ 
+Refreshed on the term "scope", and how it is the visibility level of a variable within, and outside a function. Variables    that can be accessed outside of a function have "Global Scope", "Local Scope" are variables that can only be accessed     within a function. If two variables have the same exact name, 1 is global, and another is local. the Local variable will take precedence. And finally, the "return" statement can be used to send a value back out of a function.  
+
+**Thoughts:** Refreshed on alot of material, today via FreeCodeCamp. But was stuck on a problem caleld "Stand In Line", which I am still trying to figure out (although I have already seen the solution for it in the past, but I believe that is what I need to work on, which is to solve these problems completely on my own before looking at their solutions)
+
+**Link to work:** https://twitter.com/AllStar_H_/status/991457986286620672
