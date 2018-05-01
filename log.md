@@ -12,10 +12,14 @@ Day 2: April 28, 2018- Saturday
 
 **Today's Progress**: Refreshed myself via FreeCodeCamp lessons on Concatenating strings w/ plus(+) operators, w/ the plus equals(+=) operator, w/ variables. Appending variables to strings w/ (+=). Finding the length of a string (.length). & using bracket notation[] to find a character in a string.
 
+**Thoughts:** Refreshing on the past material is coming along better. I realize it helps for me to not only type the code on a web browser/computer, but to also write it down on pen and paper. 
+
 **Link to work:** https://twitter.com/AllStar_H_/status/990235301867081728
 
 Day 3: April 30, 2018- Monday 
 
 **Today's Progress**: Refreshed on String Immutability. Using Bracket Notation to find the Nth character in a string. Using Bracket Notation to find the last character in a string. Using Arrays to store multiple values in one var. How to access Array Data w/ Indexes(Zero Based).
+
+**Thoughts:** This material which I have refreshed on today I remember a majority of it.  
 
 **Link to work:** https://twitter.com/AllStar_H_/status/991140768978030593
