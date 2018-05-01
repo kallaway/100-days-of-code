@@ -13,3 +13,9 @@ Day 2: April 28, 2018- Saturday
 **Today's Progress**: Refreshed myself via FreeCodeCamp lessons on Concatenating strings w/ plus(+) operators, w/ the plus equals(+=) operator, w/ variables. Appending variables to strings w/ (+=). Finding the length of a string (.length). & using bracket notation[] to find a character in a string.
 
 **Link to work:** https://twitter.com/AllStar_H_/status/990235301867081728
+
+Day 3: April 30, 2018- Monday 
+
+**Today's Progress**: Refreshed on String Immutability. Using Bracket Notation to find the Nth character in a string. Using Bracket Notation to find the last character in a string. Using Arrays to store multiple values in one var. How to access Array Data w/ Indexes(Zero Based).
+
+**Link to work:** https://twitter.com/AllStar_H_/status/991140768978030593
