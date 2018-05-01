@@ -11,3 +11,5 @@ Day 1: April 26, 2018- Thursday
 Day 2: April 28, 2018- Saturday 
 
 **Today's Progress**: Refreshed myself via FreeCodeCamp lessons on Concatenating strings w/ plus(+) operators, w/ the plus equals(+=) operator, w/ variables. Appending variables to strings w/ (+=). Finding the length of a string (.length). & using bracket notation[] to find a character in a string.
+
+**Link to work:** N/A
