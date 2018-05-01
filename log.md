@@ -4,20 +4,20 @@
 
 **Today's Progress**: Continuing through FreeCodeCamp Front end dev. Spent most of the day working through bootstrap responsive classes.
 
-**Keywords of the day**: div
+**Keywords of the day**:
+div
+
 CSS
 	id #something
 	class .something
   padding - internal to element
   margin - space around element
   clockwise notation, just like it sounds :)
-  example: 
-  padding 40px 20px 20px 40px
 
   Who wins?
   !important >inline > id > class
 
-  example Hexidecimal color: black  = #000000
+Hexidecimal color: black  = #000000
 
 bootstrap helps create responsive web
 
@@ -29,7 +29,7 @@ bootstrap helps create responsive web
 
 span - put several elements together
 
-**Thoughts** I knew many of these early HTML/CSS concepts, though not committed to memory. 
+**Thoughts** Trying to get learning structure established.  I imagine the next couple of days I'll be adjusting these logs and how I take notes for better reflection and use.  
 
 **Link(s) to work**
 1. [bootstrap grid](https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side)
