@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 3: May 2, Wednesday
+
+**Today's Progress**: Continuing through FreeCodeCamp Front end dev. Finished up the bootstrap section, moved into jQuery.
+
+**Keywords of the day**:bootstrap, grid, col, font-awesome, jQuery
+
+**Thoughts** Today was the first time the course allowedd me to try and recall things from memory rather than just giving me the line to nearly directly execute.  So far so good, motivated. 
+
+**Link(s) to work**
+1. [bootstrap 12-col grid](https://www.freecodecamp.org/challenges/create-a-custom-heading)
+
+
+
 ### Day 2: May 1, Tuesday
 
 **Today's Progress**: Continuing through FreeCodeCamp Front end dev. Spent most of the day working through bootstrap responsive classes.
@@ -33,6 +46,8 @@ span - put several elements together
 
 **Link(s) to work**
 1. [bootstrap grid](https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side)
+
+
 
 ### Day 1: April 30, Monday
 
