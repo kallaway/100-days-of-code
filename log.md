@@ -604,3 +604,14 @@ Tried to make creative logic for the prob!!
 1. [Maximum Number - Codechef_Problem](https://www.codechef.com/problems/MAXNUM3)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/maximum_number.py)
 
+
+### Day 54: April 23, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem !!
+
+**Link(s) to work**
+1. [Lucky Long - Codechef_Problem](https://www.codechef.com/problems/LUCKY5)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/lucky_long.py)
+
