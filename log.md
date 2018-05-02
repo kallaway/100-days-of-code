@@ -615,6 +615,7 @@ Tried to make creative logic for the prob!!
 1. [Lucky Long - Codechef_Problem](https://www.codechef.com/problems/LUCKY5)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/lucky_long.py)
 
+
 ### Day 55: April 24, 2018 Tuesday
 
 **Today's Progress**: Today also going through some codechef problems.
@@ -624,5 +625,16 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Watson and Digit Sums - Codechef_Problem](https://www.codechef.com/problems/ICPC16C)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/watson_and_digit_sums.py)
+
+
+### Day 56: April 25, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy prob!!
+
+**Link(s) to work**
+1. [Suraj Goes Shopping - Codechef_Problem](https://www.codechef.com/problems/ANUBTG)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/suraj_goes_shopping.py)
 
 
