@@ -615,3 +615,14 @@ Tried to make creative logic for the prob!!
 1. [Lucky Long - Codechef_Problem](https://www.codechef.com/problems/LUCKY5)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/lucky_long.py)
 
+### Day 55: April 24, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice short but logical prob!!
+
+**Link(s) to work**
+1. [Watson and Digit Sums - Codechef_Problem](https://www.codechef.com/problems/ICPC16C)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/watson_and_digit_sums.py)
+
+
