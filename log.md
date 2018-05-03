@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 4: May 3, Thursday
+
+**Today's Progress**: Finished up jQuery and started my first coding project. (tribute page)
+
+**Keywords of the day**: jQuery, Read-Search-Ask
+
+**Thoughts** A Project! While not overly complex, I did pause immediately and seem to forget everything I had learned, heh. I have to keep writing code though, I don't need to have it totally figured out in my head first. 
+
+**Link(s) to work**
+1. N/A
+
 ### Day 3: May 2, Wednesday
 
 **Today's Progress**: Continuing through FreeCodeCamp Front end dev. Finished up the bootstrap section, moved into jQuery.
