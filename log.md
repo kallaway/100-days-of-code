@@ -20,6 +20,7 @@
 
 **Link to work:** [Portfolio](https://github.com/LizbethFP/portfolio)
 
+
 ### Day 19: April 09, 2018
 
 **Today's Progress**: CSS and HTML, worked on improving my previous pyojects so as to have them prepared for the talent fest at Laboratoria in Lima.
@@ -30,3 +31,22 @@
 1. [portfolio](https://github.com/LizbethFP/portfolio)
 2. [e-commerce](https://github.com/LizbethFP/ecommerse-product-final)
 3. [api-swapi](https://github.com/LizbethFP/api-swapi)
+
+
+### Day 38: April 28, 2018
+
+**Today's Progress**: JS, worked on making navbar to show the active link according to the scroll position.
+
+**Thoughts:**  I spend some time in finding a way to show the active link according to the scroll position, so I have to take into account the size of each section's dimensions so as to substrat that amount in each section in the code.
+
+**Link to work:** [Portfolio](https://github.com/LizbethFP/portfolio)
+
+
+### Day 42: May 05, 2018
+
+**Today's Progress**: SASS and JS, worked on transforming my plain CSS into SASS and rendered it back to CSS, as well as correcting responsive CSS in my plug-in for structuring images semantically along with its figcaptions coming from the ***alt*** property in HTML.
+
+**Thoughts:** I enjoyed trying out the partials: variables and bases, where I could nest properties and mix it with variables, as well as using ***extend*** to reuse characteristics of previous classes while adding some new ones.
+
+**Link to work:** [Portfolio](https://github.com/LizbethFP/portfolio)
+
