@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 5: May 4, Friday
+
+**Today's Progress**: Finished tribute. 
+
+**Keywords of the day**: iterations! 
+
+**Thoughts** While I have satisfied the user stories, I could most certainly iterate over the project a few more times trying to perfect it, but I think I'll submit this to prevent myself from getting stuck in a perfection loop.
+
+**Link(s) to work**
+1. [tribute project](https://codepen.io/btarro/full/NMgOeZ)
+
+
 ### Day 4: May 3, Thursday
 
 **Today's Progress**: Finished up jQuery and started my first coding project. (tribute page)
