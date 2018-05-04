@@ -638,3 +638,13 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/suraj_goes_shopping.py)
 
 
+### Day 57: April 26, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: quite interesting problem!! Coded in a reduced complexity method...
+
+**Link(s) to work**
+1. [The Army - Codechef_Problem](https://www.codechef.com/problems/ANUARM)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/the_army.py)
+
