@@ -1,11 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Viacheslav Yakovchenko]
+# #100DaysOfCode Log - Round 1 - [Your Name Here]
 
-The log of my #100DaysOfCode challenge. Started on [April 14, 2018].
+The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
-## r1d1
-Learn html & css on freecodecamp.com
+## Log
 
-## r1d2
-Learn bootstrap on freecodecamp.com and w3schools.com
+### R1D1 
+Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
 
-##
+### R1D2
