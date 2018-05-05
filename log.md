@@ -35,3 +35,11 @@ Refreshed on the term "scope", and how it is the visibility level of a variable 
 **Thoughts:** Refreshed on alot of material, today via FreeCodeCamp. But was stuck on a problem caleld "Stand In Line", which I am still trying to figure out (although I have already seen the solution for it in the past, but I believe that is what I need to work on, which is to solve these problems completely on my own before looking at their solutions)
 
 **Link to work:** https://twitter.com/AllStar_H_/status/991457986286620672
+
+Day 5: May 4, 2018- Friday  
+
+**Today's Progress**: Refreshed on BooLean values (True, False), Conditional logic with "If" statements, Equality operator (==), Strict Equaility (===), Inequaility Operator (!=), which means "Not Equal", example  1 != 2 // true. Strict InEquality Operator (!==), which means "Strictly not equal", example: 3 !== '3'//true.Strict inequality will not convert data types. Greater than, and Greater than or equal to Operator (>)(>=). Less Than, and Less Than or equal to Operator (<)(<=). The logical and operator (&&) returns true if and only if the operands to the left and right of it are true.The logical or operator (||) returns true if either of the operands is true.And finally "if", "else if", and "else" statements. 
+
+**Thoughts:** solved the "Stand In Line" problem, but had some help within the FreeCodeCamp forums. The second go round reshing all the material I mentioned, was very productive. i actully understood it a bit more than when I was first was exposed to it. 
+
+**Link to work:** https://twitter.com/AllStar_H_/status/992622063952199680
