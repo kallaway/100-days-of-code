@@ -20,10 +20,6 @@
 **Link(s) to work**
 1. [Smart Strategy - Codechef_Problem](https://www.codechef.com/problems/SMRSTR)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/smart_strategy.py)
-2. [Good And Bad Persons - Codechef_Problem](https://www.codechef.com/problems/GOODBAD)
-[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/good_and_bad_persons.py)
-3. [Chef And Cook Off - Codechef_Problem](https://www.codechef.com/problems/CCOOK)
-[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_cook_off.py)
 
 
 ### Day 3: March 3, 2018 Saturday
@@ -137,13 +133,11 @@
 
 **Today's Progress**: Today also going through some codechef problems.
 
-**Thoughts**: Used reverse_slicing technique ,example -< '123'[::-1] > , to reverse a number. Its cool, really cool!! Got enough time today, to solve another interesting problem!
+**Thoughts**: Used reverse_slicing technique ,example -< '123'[::-1] > , to reverse a number. Its cool, really cool!!
 
 **Link(s) to work**
 1. [Reverse the number - Codechef_Problem](https://www.codechef.com/problems/FLOW007)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/reverse_the_number.py)
-2. [Days in Month - Codechef_Problem](https://www.codechef.com/problems/NW1)
-[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/days_in_month.py)
 
 
 
@@ -647,4 +641,60 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [The Army - Codechef_Problem](https://www.codechef.com/problems/ANUARM)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/the_army.py)
+
+
+### Day 58: April 27, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy prob!!
+
+**Link(s) to work**
+1. [Good And Bad Persons - Codechef_Problem](https://www.codechef.com/problems/GOODBAD)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/good_and_bad_persons.py)
+
+
+### Day 59: April 28, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy prob!!
+
+**Link(s) to work**
+1. [Chef And Cook Off - Codechef_Problem](https://www.codechef.com/problems/CCOOK)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_cook_off.py)
+
+
+### Day 60: April 29, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy prob!!
+
+**Link(s) to work**
+1. [Days in Month - Codechef_Problem](https://www.codechef.com/problems/NW1)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/days_in_month.py)
+
+
+### Day 61: April 30, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice prob!!
+
+**Link(s) to work**
+1. [Chef and Memory Limit - Codechef_Problem](https://www.codechef.com/problems/CBARG)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_memory_limit.py)
+
+
+### Day 62: May 1, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice prob!!
+
+**Link(s) to work**
+1. [Chef and Notebooks - Codechef_Problem](https://www.codechef.com/problems/CNOTE)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_notebooks.py)
+
 
