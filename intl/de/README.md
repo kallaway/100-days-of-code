@@ -8,7 +8,7 @@
 * [Quellen](quellen.md)
 
 ## Übersetzungen
-[español](intl/es/README.md) – [français](intl/fr/README.md) – [русский](intl/ru/README-ru.md) – [português do Brasil](intl/pt-br/LEIAME.md) - [deutsch](intl/de/README.md)
+[español](../es/README.md) – [français](../fr/README.md) – [русский](../ru/README-ru.md) – [português do Brasil](../pt-br/LEIAME.md) - [deutsch](../de/README.md)
 
 Falls du mit dem Beitrag einer Übersetzung des Inhalts/der Regeln in eine weitere Sprache helfen möchtest, sende einen Pull Request (oder schicke eine DM über Twitter @ka11away) und füge einen Unterordner mit den Dateien der Übersetzung in den 'intl' Ordner hinzu.
 
