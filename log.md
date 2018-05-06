@@ -709,3 +709,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/right_triangle.py)
 
 
+### Day 64: May 3, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: Really interesting combinatorics prob_ !!
+
+**Link(s) to work**
+1. [Binary Nim - Codechef_Problem](https://www.codechef.com/problems/BINIM)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/binary_nim.py)
+
+
