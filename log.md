@@ -698,3 +698,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_notebooks.py)
 
 
+### Day 63: May 2, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice problem!! used ... "{0:.6f}".format(num) .... technique to convert float to a string with 6 decimal places..
+
+**Link(s) to work**
+1. [Right Triangle - Codechef_Problem](https://www.codechef.com/problems/RIGHTTRI)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/right_triangle.py)
+
+
