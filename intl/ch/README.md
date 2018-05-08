@@ -23,8 +23,8 @@ If you want to help by providing a translation of content/rules in the language 
 1.  将[规则](rules.md)中的日期改为你开始挑战的日期。
 1.  将日志中的例子删除或者注释掉，并且开始添加你自己的内容。
 1.  **用 #100DaysOfCode 来Tweet你每天的进展。**
-1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) 的Twitter机器人，它会自动retweet含有#100DaysOfCode的推文。这样不但可以持续激励你自己，你也可以很好的参与这个社区。感谢 [@amanhimself](https://twitter.com/amanhimself)创建了这个Twitter机器人。
-1.  重要：（看上面第四条规则）在Twitter或其他平台上，鼓励同样在参与这个挑战的人 － 在他们更新自己的进度时候进行赞扬，在他们遇到困难时进行支持。这样，我们的社区可以成长为一个既有效又有帮助的社区，提高每一个参与者的成功率。同时，因为你已经和社区中的其它成员有了联系，你也更有可能坚持自己的承诺，
+1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) 的Twitter机器人，它会自动retweet含有#100DaysOfCode的推文。这样不但可以持续激励你自己，你也可以很好的参与这个社区。感谢 [@amanhimself](https://twitter.com/amanhimself) 创建了这个Twitter机器人。
+1.  重要：（看上面第四条规则）在Twitter或其他平台上，鼓励同样在参与这个挑战的人 － 在他们更新自己的进度时做出赞扬，在他们遇到困难时进行支持。这样，我们的社区可以成长为一个既有效又有帮助的社区，提高每一个参与者的成功率。同时，因为你已经和社区中的其它成员有了联系，你也更有可能坚持自己的承诺，
 1.  如果你找到了能帮助到其它人的资料，你可以提交一个pull request，或者直接tweet给我。
 
 ## 想改变其它的习惯？
