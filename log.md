@@ -720,3 +720,14 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/binary_nim.py)
 
 
+### Day 65: May 4, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!!
+
+**Link(s) to work**
+1. [Two Vs Ten - Codechef_Problem](https://www.codechef.com/problems/TWOVSTEN)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/two_vs_ten.py)
+
+
