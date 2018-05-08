@@ -7,11 +7,6 @@
 * [常见问题及回答](FAQ.md)
 * [资源](resources.md)
 
-## Translations
-[español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [русский](intl/ru/README-ru.md) – [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) 
-
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
-
 ## 如果你已经决定要加入：
 
 0.  查看 #100DaysOfCode 运动的[官方网站](http://100daysofcode.com/)。与其他人在这些平台上建立联系：www.100DaysOfCode.com/connect
