@@ -1,30 +1,30 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - 日志
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### 第0天: 2016年2月28日 (例子 1)
+##### (删除我或注释掉我)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**今天的进展：** 修改了css，为app的canvas的功能进行了工作.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**思考：** 被css困住了一些，但总体来说，我感觉自己在这方面在慢慢进步。Canvas对我来说还是很新，但我明白了一些基本的功能。
 
-**Link to work:** [Calculator App](http://www.example.com)
+**工作成果链接：** [计算器 app](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### 第0天: 2016年2月28日 (例子 2)
+##### (删除我或注释掉我)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**今天的进展：** 修改了css，为app的canvas的功能进行工作.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**思考：** 被css困住了一些，但总体来说，我感觉自己在这方面在慢慢进步。Canvas对我来说还是很新，但我明白了一些基本的功能。
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**工作成果链接：** [计算器 app](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### 第二天: 6月27日, 星期一
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**今天的进展: ** 我完成了FreeCodeCamp上的练习.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**思考：** 我刚开始学习代码，最终在多次尝试和几个小时以后，解诀个算法挑战，这个感觉真不错。
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**工作成果链接：**
+1. [找到一个String中最长的单词](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [把一个句子变成标题](https://www.freecodecamp.com/challenges/title-case-a-sentence)
