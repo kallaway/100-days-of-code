@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# # 100DaysOfCode Log - 第一轮 - [你的名字]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+我的 #100DaysOfCode 挑战日志. [2017年7月17日，周一] 开始.
 
-## Log
+## 日志
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1 （第一轮第一天）
+开始了天气app。在app的layout的草稿上工作，有点在 OpenWeather API http://www.example.com 卡住。
 
-### R1D2
+### R1D2 （第一轮第二天）
