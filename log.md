@@ -764,3 +764,12 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/bear_and_segment_01.py)
 
 
+### Day 69: May 7, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!!
+
+**Link(s) to work**
+1. [Chef and Friends - Codechef_Problem](https://www.codechef.com/problems/FRK)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_friends.py)
