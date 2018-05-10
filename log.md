@@ -731,7 +731,7 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/two_vs_ten.py)
 
 
-### Day 65: May 4, 2018 Saturday
+### Day 66: May 4, 2018 Saturday
 
 **Today's Progress**: Today also going through some codechef problems.
 
@@ -742,7 +742,7 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/jumping_in_the_hills.py)
 
 
-### Day 66: May 5, 2018 Sunday
+### Day 67: May 5, 2018 Sunday
 
 **Today's Progress**: Today also going through some codechef problems.
 
@@ -751,5 +751,16 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Mix The Colors - Codechef_Problem](https://www.codechef.com/problems/MIXCOLOR)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/mix_the_colors.py)
+
+
+### Day 68: May 6, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!!
+
+**Link(s) to work**
+1. [Bear and Segment 01 - Codechef_Problem](https://www.codechef.com/problems/SEGM01)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/bear_and_segment_01.py)
 
 
