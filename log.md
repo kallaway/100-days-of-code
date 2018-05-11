@@ -795,3 +795,14 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Forgotten Language - Codechef_Problem](https://www.codechef.com/problems/FRGTNLNG)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/forgotten_language.py)
+
+
+### Day 72: May 11, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!!
+
+**Link(s) to work**
+1. [Second Largest - Codechef_Problem](https://www.codechef.com/problems/FLOW017)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/second_largest.py)
