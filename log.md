@@ -731,7 +731,7 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/two_vs_ten.py)
 
 
-### Day 66: May 4, 2018 Saturday
+### Day 66: May 5, 2018 Saturday
 
 **Today's Progress**: Today also going through some codechef problems.
 
@@ -742,7 +742,7 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/jumping_in_the_hills.py)
 
 
-### Day 67: May 5, 2018 Sunday
+### Day 67: May 6, 2018 Sunday
 
 **Today's Progress**: Today also going through some codechef problems.
 
@@ -753,7 +753,7 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/mix_the_colors.py)
 
 
-### Day 68: May 6, 2018 Monday
+### Day 68: May 7, 2018 Monday
 
 **Today's Progress**: Today also going through some codechef problems.
 
@@ -764,7 +764,7 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/bear_and_segment_01.py)
 
 
-### Day 69: May 7, 2018 Tuesday
+### Day 69: May 8, 2018 Tuesday
 
 **Today's Progress**: Today also going through some codechef problems.
 
@@ -775,7 +775,7 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_friends.py)
 
 
-### Day 70: May 8, 2018 Wednesday
+### Day 70: May 9, 2018 Wednesday
 
 **Today's Progress**: Today also going through some codechef problems.
 
@@ -784,3 +784,14 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Help Lost Robot! - Codechef_Problem](https://www.codechef.com/problems/ICPC16A)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/help_lost_robot!.py)
+
+
+### Day 71: May 10, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!!
+
+**Link(s) to work**
+1. [Forgotten Language - Codechef_Problem](https://www.codechef.com/problems/FRGTNLNG)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/forgotten_language.py)
