@@ -773,3 +773,14 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Chef and Friends - Codechef_Problem](https://www.codechef.com/problems/FRK)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_friends.py)
+
+
+### Day 70: May 8, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!!
+
+**Link(s) to work**
+1. [Help Lost Robot! - Codechef_Problem](https://www.codechef.com/problems/ICPC16A)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/help_lost_robot!.py)
