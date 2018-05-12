@@ -806,3 +806,14 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Second Largest - Codechef_Problem](https://www.codechef.com/problems/FLOW017)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/second_largest.py)
+
+
+### Day 73: May 12, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice problem! used comparison operation in the form of logic.
+
+**Link(s) to work**
+1. [Chef and Inequality - Codechef_Problem](https://www.codechef.com/problems/LTM40AB)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_inequality.py)
