@@ -817,3 +817,14 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Chef and Inequality - Codechef_Problem](https://www.codechef.com/problems/LTM40AB)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_inequality.py)
+
+
+### Day 74: May 13, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem! just relational operators..
+
+**Link(s) to work**
+1. [Chef and Operators - Codechef_Problem](https://www.codechef.com/problems/CHOPRT)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_operators.py)
