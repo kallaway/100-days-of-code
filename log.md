@@ -828,3 +828,25 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Chef and Operators - Codechef_Problem](https://www.codechef.com/problems/CHOPRT)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_operators.py)
+
+
+### Day 75: May 14, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!
+
+**Link(s) to work**
+1. [Small Factorials - Codechef_Problem](https://www.codechef.com/problems/FCTRL2)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/small_factorlals.py)
+
+
+### Day 76: May 15, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!
+
+**Link(s) to work**
+1. [Find Maximum Value - Codechef_Problem](https://www.codechef.com/problems/LOSTMAX)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/find_the_maximum_value.py)
