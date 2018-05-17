@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 16, 2018: Wednesday
+##### (You can fork my repo or visit the original fork for more instructions.  Here, you can delete or comment this out in yours.)
+##Original Fork:  (https://github.com/kallaway/100-days-of-code)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I did a little bit of review in Freecodecamp.org (not much).  I learned how to use github a little bit better.  I looked up information about the NPM module "Forever" for node.js for a project that I am working on.  I did some bracket notation and concatenation for javascript. I built the webmail access feature for a backend office tool that I am building for a client.  I did about 4 hours of code study and one hour of actual code.  
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Code study does not count as actual code.  However, I have to look up information to actually get the code done.  Does that count towards my coding time?  
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** My code for the project is private for a client.  I will begin to add code here as a git-commit to a new repo.  I will add that to my to do list for this challenge.  
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: May 17, 2018: Thursday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
