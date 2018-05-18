@@ -25,12 +25,13 @@ It is not all that eloborate or special, but I just need to protect it for now. 
 
 <h2>Day 1: May 17, 2018: Thursday</h2>
 
-<strong>Today's Progress:*</strong>  Here I learned a little bit about styling the markdown files here.  I will add more later today to this day 1 section.  
+<strong>Today's Progress:*</strong>  Here I learned a little bit about styling the markdown files here.  I will add more later today to this day 1 section.  So, it's later...I did a lot of reading and a tutorial on NodeJS (which does not count towards my coding hour, but it was still part of my process for the day.  I have to build a project to work on for this challenge log so I have some code that I can show.  For my code, I did a NodeJS, mySQL connection for a client's web app/site.  I also worked on some of the front end features for the site.  
 
 
 <strong>Thoughts:**</strong> How do I make a new file pretty here in GitHub?  Do I have to use HTML/CSS to make it pretty?  That is going to be what I find out later today.  
 
+<Strong>Thoughts:**</strong>  I need to pick a project for GitHub for this 100daysofcode challenge, still.   
 
-<strong>Link(s) to work:</strong>
+<strong>Link(s) to work:</strong> Just this and Twitter for now.  @Audrey_Lin_D
 
 </html>
