@@ -850,3 +850,37 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Find Maximum Value - Codechef_Problem](https://www.codechef.com/problems/LOSTMAX)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/find_the_maximum_value.py)
+
+
+### Day 77: May 16, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice problem!
+
+**Link(s) to work**
+1. [Chef Judges a Competition - Codechef_Problem](https://www.codechef.com/problems/CO92JUDG)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_judges_a_competition.py)
+
+
+### Day 78: May 17, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: interesting problem!
+
+**Link(s) to work**
+1. [Chef and Rainbow Array - Codechef_Problem](https://www.codechef.com/problems/RAINBOWA)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_rainbow_array.py)
+
+
+### Day 79: May 18, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: cool problem!
+
+**Link(s) to work**
+1. [Chef and the Perfect Function - Codechef_Problem](https://www.codechef.com/problems/CHNGFUNC)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_the_perfect_function.py)
+
