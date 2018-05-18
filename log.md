@@ -881,6 +881,6 @@ Tried to make creative logic for the prob!!
 **Thoughts**: cool problem!
 
 **Link(s) to work**
-1. [Chef and the Perfect Function - Codechef_Problem](https://www.codechef.com/problems/CHNGFUNC)
+1. [Chang and the Perfect Function - Codechef_Problem](https://www.codechef.com/problems/CHNGFUNC)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_the_perfect_function.py)
 
