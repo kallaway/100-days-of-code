@@ -884,3 +884,14 @@ Tried to make creative logic for the prob!!
 1. [Chang and the Perfect Function - Codechef_Problem](https://www.codechef.com/problems/CHNGFUNC)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/Easy/chef_and_the_perfect_function.py)
 
+
+### Day 80: May 19, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: Solved an interesting problem with an interesting logic !!
+
+**Link(s) to work**
+1. [Ciel and Receipt - Codechef_Problem](https://www.codechef.com/problems/CIELRCPT)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/ciel_and_receipt.py)
+
