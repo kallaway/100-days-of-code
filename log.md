@@ -16,5 +16,5 @@
 
 **Thoughts:** 
 
-**Link(s) to work**:
+**Link(s) to work**:  I am continuing this log in the "mylog.md" file.  Catch my progress there.  :) 
 
