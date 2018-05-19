@@ -43,3 +43,11 @@ Day 5: May 4, 2018- Friday
 **Thoughts:** solved the "Stand In Line" problem, but had some help within the FreeCodeCamp forums. The second go round reshing all the material I mentioned, was very productive. i actully understood it a bit more than when I was first was exposed to it. 
 
 **Link to work:** https://twitter.com/AllStar_H_/status/992622063952199680
+
+Day 6: May 18, 2018- Friday 
+
+**Today's Progress**: Refreshed on switch statements. And adding a Default option in switch statements. 
+
+**Thoughts:** Wasnt able to zone in since I've been back at work, but I will refocus on this challenge. I forgot how to do switch statements, but after tinkering for a bit, I remebered alot of it. 
+
+**Link to work:** https://twitter.com/AllStar_H_/status/997650892722667525
