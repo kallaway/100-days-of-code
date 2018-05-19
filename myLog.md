@@ -32,6 +32,14 @@ It is not all that eloborate or special, but I just need to protect it for now. 
 
 <Strong>Thoughts:**</strong>  I need to pick a project for GitHub for this 100daysofcode challenge, still.   
 
-<strong>Link(s) to work:</strong> Just this and Twitter for now.  @Audrey_Lin_D
+<strong>Link(s) to work:</strong> Just this and Twitter for now.  @Audrey_Lin_D  
+So
 
+<h2>Day 2: May 18, 2018: Friday</h2>
+
+<strong>Today's progress:**</strong> I worked more on my NodeJS project for my coding hours.  But, I did a lot of other code related stuff that needed attention.  I linked my GitHubDesktop and GitHub files to WAMP.  I did a little bit of review on multidimensional arrays, and reviewed the .push and .pop functions in Javascript.  I set up a repo for learning algorithms.  I'll be working on that, along with "Cracking the Coding Interview", "Algorithms for Dummies", and some online resources. 
+
+<strong>Thoughts:**</strong>I am trying to create a little more structure and organization to my learning path and web development schedules.  I feel like I am never going to learn it all...but I am making progress...and by the time I master NodeJS, there will probably be something else I need to learn instead, or in addition...but I think that might be the fun part of it. That, and a lot of legacy type languages, frameworks and libraries are still relevant for their respective purpose and project types.  It will just be part of my toolkit later, right?  ...Right.  Lol.
+
+   
 </html>
