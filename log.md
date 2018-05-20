@@ -905,3 +905,15 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [The Block Game - Codechef_Problem](https://www.codechef.com/problems/PALL01)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/the_block_game.py)
+
+
+### Day 82: May 21, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!!
+
+**Link(s) to work**
+1. [Chef and Remissness - Codechef_Problem](https://www.codechef.com/problems/REMISS)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_remissness.py)
+
