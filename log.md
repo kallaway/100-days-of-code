@@ -895,3 +895,13 @@ Tried to make creative logic for the prob!!
 1. [Ciel and Receipt - Codechef_Problem](https://www.codechef.com/problems/CIELRCPT)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/ciel_and_receipt.py)
 
+
+### Day 81: May 20, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!!
+
+**Link(s) to work**
+1. [The Block Game - Codechef_Problem](https://www.codechef.com/problems/PALL01)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/the_block_game.py)
