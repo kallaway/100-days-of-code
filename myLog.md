@@ -41,5 +41,11 @@ So
 
 <strong>Thoughts:**</strong>I am trying to create a little more structure and organization to my learning path and web development schedules.  I feel like I am never going to learn it all...but I am making progress...and by the time I master NodeJS, there will probably be something else I need to learn instead, or in addition...but I think that might be the fun part of it. That, and a lot of legacy type languages, frameworks and libraries are still relevant for their respective purpose and project types.  It will just be part of my toolkit later, right?  ...Right.  Lol.
 
+
+<h2>Day 3: May 19, 2018: Saturday</h2>
+<strong>Today's Progress:**</strong>  Today, I went to a baby shower, so I did not get any real-code done. I did fit an hour in to catch up on Freecodecamp.  I was doing my study online with other resources, so my freecodecamp was looking a bit sad.  Also, I started further back than where I left off, bc I couldn't figure out something the last time, so I deleted my progress at a certain point, so I wanted to add it back into the progress bar.  Also, I constantly struggle with spacing syntax in the Freecodecamp's editor...of all things....lol.  
+
+<strong>Thoughts:**</strong> So, I was looking for a project to do on Github for this challenge....and then I read the resources and found code ideas...lol.  So, that's good.  I will need that to add to my skill set display anyway, since I cannot display all of my other project in here.  
+
    
 </html>
