@@ -40,3 +40,10 @@
 
 **Link to work:** [Redbus](https://github.com/cTahirih/redbus)
 
+### Day 9: May 20, 2018 :heavy_check_mark:
+
+**Today's Progress**: I return to the challenges after a long time, I had some problems but this time improve my tech skill, especially with react and redux. A few days ago I started a project and these are my first results, I define the first components, first styles. Today I finished doing React-router and the next days styles.
+**Thoughts:** At last it stopped being a nightmare (Redux) :clap:  :clap: :clap:
+
+**Link to work:** [MusicApp](https://github.com/cTahirih/MusicApp)
+
