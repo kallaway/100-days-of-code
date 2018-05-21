@@ -46,5 +46,38 @@ So
 <strong>Today's Progress:**</strong>  Today, I went to a baby shower, so I did not get any real-code done. I did fit an hour in to catch up on Freecodecamp.  I was doing my study online with other resources, so my freecodecamp was looking a bit sad.  Also, I started further back than where I left off, bc I couldn't figure out something the last time, so I deleted my progress at a certain point, so I wanted to add it back into the progress bar.  Also, I constantly struggle with spacing syntax in the Freecodecamp's editor...of all things....lol.  I barely made my hour of code before midnight today, I forgot that weekend plans could get in the way of my code.  I usually code through the weekend around the kids and family stuff, but I am allowed a day or two break on my other project.  This challenge is to keep a 100 day streak, so I have to make sure I fit it in.==Noted.  But, I will have to plan it better next time. There's a lot of project/self management in coding...even when you are just learning by yourself.   
 
 <strong>Thoughts:**</strong> So, I was looking for a project to do on Github for this challenge....and then I read the resources and found code ideas...lol.  So, that's good.  I will need that to add to my skill set display anyway, since I cannot display all of my other project in here.  And one of my other websites was a Muse/Dreamweaver project, but I didn't write much code on that one.  I just slapped it together with some stuff to get it out there for an MVP.  So, I am also working on coding that one properly.  Then, I had a third one that is in wordpress, but I plan on modifying the code for that in Wordpress with some PHP and Laravel when I finish this NodeJS project I have been working on.  I am moving way slower than I would like, but I have to make sure I have a functional app to release, and I keep breaking it in different places, bc I'm still nit picking information that I need instead of understanding all the code overall...so it is taking me way longer than it should.  But, I am working to make the fundamentals a priority this month, and then getting more into the advanced stuff in better detail.  Right now, I am huntin and peckin at it as I learn.  So, I have a little schedule, but sometimes I move backwards or spend a ton of time looking up information in random resources about nodejs in addition to the npm modules.  I am not familiar with a lot of things, even in some of the Javascript.  So, it is eating up my time.  I guess you can't learn things over night, but I sure wish I could learn faster.  Learning by doing is how I learn the fastest, though.  So, continuing on this little syllabus/schedule I have re-structured.  I'll spend a bit of time in each section for easier progress measurement.  
+
+<h2>Day 4: May 20, 2018 Sunday</h2>
+<strong>Today's Progress:**</strong> I did one hour of FreeCodeCamp for coding today. I passed where I left off before I went backward in the path to review, and I only have 34 more exercises before I get to the Object Oriented and Functional Programming section.  As far as other activities related to coding, I am looking into the resources.md file of this challenge. I discovered it yesterday.  I have been wondering what I need to do for a project, but I guess I should have read through all of the files sooner, lol.  I skimmed them all the first day, but didn't really pay attention to all of it.  Lol.  I was doing a lot of code related things today, but not actually coding.  I was working on my NodeJS project.  I was looking for some deployment information and learning about Stripe implementation.  I also came across a few good Medium articles and a GitHub repo about licensing.  I won't post the Medium articles here, but you can find a lot of really helpful articles on Medium.com for a variety of related topics.
+
+   The Github Repo for the licensing, you can learn more about at https://choosealicense.com/ or https://github.com/github/choosealicense.com.  I don't really need this right now, but it is good to have for later.  There were also some other links for this https://help.github.com/articles/adding-a-license-to-a-repository/ , and https://blog.github.com/2013-07-15-choosing-an-open-source-license/ . 
+   
+   Also, I came across Github Education.  I was curious.  (I've already graduated and do not qualify for the free account.  I'll probably sign up to it later.)  Anyway, I wanted to see what was included in the student developer pack, just to see what to look into. 
+   This pack is to help "ship software like a pro".  The tools included in this pack include: 
+   *ATOM (A customizable text editor) - This is a free text editor.  In my opinion, it is a powerful editor, and I like it.  However, I use Visual Studio Code for now.  
+   *AWS educate: Access to the AWS cloud, free training & Collaboration resources.  
+   *Bitnami: Gives you the business 3 plan free for the year. This helps you to install cloud apps easily.
+   *Cart (data analysis tool)
+   *CrowdFunder 
+   *DataDog
+   *Digital Ocean (I hear lots of great things about Digital Ocean.)
+   *Flatiron School
+   *GitHub
+   *GitKraken
+   *Hackhands
+   *Microsoft Imagine
+   *NameCheap (Domain name & SSL cert free for a year)
+   *SendGrid (Email Infrastructure as a Service)
+   *Sentry (Polygot error tracker, framework, & library.
+   *Stripe
+   *Taplytics (Dynamic a/b testing)
+   *Thinkful (WebDev lessons)
+   *tansifex : localization access
+   *Travis CI : Continuous Integration
+   *Unreal Engine: Game Dev tools for multiplatforms
+   
+   All of these are included in the student pack.  I just wanted to see what was being used.  I am aware of some, but not all of these.  I want to look more into them as I need them.  I am working on implementing Stripe into my current NodeJS project for my client.  
+   
+   <strong>Thoughts: **</strong> I spend a lot of time on distractions, but mostly ones that are related to development.  However, I have implemented the pomodoro timer, so if I want to look more into something that I find while I am supposed to be coding, I'll just bookmark it and come back to it, unless it is directly related to my code session.  Learning focus is probably a huge factor to getting anything right or done in code, for sure.  I know there are focus extensions to keep you from browsing away from your task, but I am not necessarily going to other random sites, bc I wasn't coding, but I leave my code to find more information to better or fix it. So, I am adding that to my list of things to work on. 
    
 </html>
