@@ -46,4 +46,10 @@
 **Thoughts:** At last it stopped being a nightmare (Redux) :clap:  :clap: :clap:
 
 **Link to work:** [MusicApp](https://github.com/cTahirih/MusicApp)
+### Day 10: May 21, 2018 :heavy_check_mark:
+
+**Today's Progress**: I work in a basic front-end develpment proyect of freecodecamp and then continue read more of redux
+**Thoughts:** At last it stopped being a nightmare (Redux) :clap:  :clap: :clap:
+
+**Link to work:** [Tributo, proyect of freeCodeCamp](https://codepen.io/cTahirih/full/xjMqRr/)
 
