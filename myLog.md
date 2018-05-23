@@ -80,4 +80,15 @@ So
    
    <strong>Thoughts: **</strong> I spend a lot of time on distractions, but mostly ones that are related to development.  However, I have implemented the pomodoro timer, so if I want to look more into something that I find while I am supposed to be coding, I'll just bookmark it and come back to it, unless it is directly related to my code session.  Learning focus is probably a huge factor to getting anything right or done in code, for sure.  I know there are focus extensions to keep you from browsing away from your task, but I am not necessarily going to other random sites, bc I wasn't coding, but I leave my code to find more information to better or fix it. So, I am adding that to my list of things to work on. 
    
+  <h2>Day 5: May 21, 2018 Monday</h2>
+  
+  <strong>Today's Progress</strong> Day 5: Worked 5 hours on my node app today.  Lots of search/reading/trial/error: still poundin' away at it.  Today at lunch, I took a break to work on my site, but went back to my node app after a half hour.  After dinner: looked into #AngularJS, then my app again.
+  
+  <strong>Thoughts: </strong> Need to get done.  
+  
+  <h2>Day 6: May 22, 2018 Tuesday</h2>
+  <strong>Today's Progress</strong>  I was not at my laptop today for most of today.  But, I studied different types of #functions #Javascript on my phone.  When I got home, I worked on @freeCodeCamp & my node app.  I also reviewed code on Github for reference and examples of #node #stripe.  
+  
+  <strong>Thoughts**</strong>I want to get done with FreeCodeCamp's basic JavaScript section already.  I think I am going to set my goal to be at 216 (starting ObjectOriented and Functional Programming) in the tutorials by Sunday night.  I have been doing only a couple of problems at a time, but only because I went looking for more resources, online, for those topics.  So, I was working on them, and working to understand them more clearly for myself, not just to get them done.  I think that is the only way it will stick for me...that and reusing that concept in my code frequently.  
+   
 </html>
