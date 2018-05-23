@@ -928,3 +928,14 @@ Tried to make creative logic for the prob!!
 1. [Digit Longest Increasing Subsequences 2 - Codechef_Problem](https://www.codechef.com/problems/LISDIGIT)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/digit_longest_increasing_subsequences_2.py)
 
+
+### Day 84: May 23, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: Nice problem.. Coders life really matters!!
+
+**Link(s) to work**
+1. [Coder Life Matters - Codechef_Problem](https://www.codechef.com/problems/CODERLIF)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/coder_life_matters.py)
+
