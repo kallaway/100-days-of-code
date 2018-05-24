@@ -61,3 +61,10 @@
 
 **Link to work:** [MusicApp](https://github.com/cTahirih/MusicApp)
 
+### Day 12: May 23, 2018 :heavy_check_mark:
+
+**Today's Progress**: Today continue with my proyect in React, I improved the styles and read more about Redux.
+**Thoughts:** I'm lost 
+
+**Link to work:** [MusicApp](https://github.com/cTahirih/MusicApp)
+
