@@ -225,3 +225,6 @@ Solved a CodeChef problem
 
 ### R1D84 
 Solved a CodeChef problem
+
+### R1D85
+Solved a CodeChef problem
