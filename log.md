@@ -939,3 +939,14 @@ Tried to make creative logic for the prob!!
 1. [Coder Life Matters - Codechef_Problem](https://www.codechef.com/problems/CODERLIF)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/coder_life_matters.py)
 
+
+### Day 85: May 24, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!
+
+**Link(s) to work**
+1. [Chef and Fruits - Codechef_Problem](https://www.codechef.com/problems/FRUITS)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_fruits.py)
+
