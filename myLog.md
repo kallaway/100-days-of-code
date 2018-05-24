@@ -87,8 +87,20 @@ So
   <strong>Thoughts: </strong> Need to get done.  
   
   <h2>Day 6: May 22, 2018 Tuesday</h2>
+  
   <strong>Today's Progress</strong>  I was not at my laptop today for most of today.  But, I studied different types of #functions #Javascript on my phone.  When I got home, I worked on @freeCodeCamp & my node app.  I also reviewed code on Github for reference and examples of #node #stripe.  
   
   <strong>Thoughts**</strong>I want to get done with FreeCodeCamp's basic JavaScript section already.  I think I am going to set my goal to be at 216 (starting ObjectOriented and Functional Programming) in the tutorials by Sunday night.  I have been doing only a couple of problems at a time, but only because I went looking for more resources, online, for those topics.  So, I was working on them, and working to understand them more clearly for myself, not just to get them done.  I think that is the only way it will stick for me...that and reusing that concept in my code frequently.  
+  
+  <h2>Day 7: May 23, 2018 Wednesday</h2>
+  
+  <strong>Today's Progress**:</strong> I worked on the Node site all day.  I looked into the Stripe payment system.  I am working on implementing it into my site/chat.  I got tired of working on that part of the site, so I started making the back office/access to the clients for the staff today.  I will make the access on a subdomain.  I spent some time to work out what features will be needed on both the user and admin side (front and back end's of both).  
+  
+  <strong>Thoughts**:</strong>  This project is for a startup.  I have done everything with the owner in deciding what is needed to get up and running and what other possibilities might be implemented in the future.  I am building this whole thing by myself.  I feel lost most of the time, but I have found a lot of really helpful books, websites and video tutorials that have been very helpful.  
+  Stackoverflow and Google are my biggest allies.  I like Traversy Media, MMTuts and Coding Live w/ Jesse.  Devtips & FunFunFunction are also capturing a lot of my attention when I have time that I am not having to actually code.  Most of my time is going to research and planning.  But, I still have a great deal of code done for the users front & back end.  I have everything done for the site, except for chat and the stripe. I need to finish those, and tie them together.  
+  I am looking for the best way to tie all of these pieces together, based on what I have and what I know.  However, I keep finding more and more information that might be relevant, but I try to be selective of what I spend my time on. It is very easy for me to get distracted by trying to learn something new, only to find I won't be using it in my current app.  
+  I am loving all the new things that are ahead of me, and how I can implement them.  I need to be sure to stay focused.  As I learn more, and do more, it feels better and easier.  That, however, does not keep me from finding new things I have to/want to learn.  I think I need to start repo's for all the things that I am working on, even if it isn't code (because I found MIT Opencourseware).  I have actually known about it for a while, and watch the video lectures sometimes.  I think that I want to do a set time of when I do the course and take them in order to completion.  I have seen about 5 or 6 tracks that I have been meaning to complete.  I can do it like my old school schedule. I think their website has the problem sets available.  
+  I also want to work on codefights &&|| codewars.  See?!  All the things...lol.  I need to prioritize them.  I might do a video lecture per day after I finish this app.  I will start codewars/codefights when I get past the Algorithms section in Freecodecamp.  I learned my JavaScript from w3schools, and I just started reading Javascript and Jquery by Jon Duckett. I will open a repo for my study journal/schedule.  Maybe I will make it a part of my #100daysofcode mid-R1 or #100daysofcode R2...Oh yes...there will be a round two!!  Too much to do and learn for there not to be a round-2.  Lol. 
+  
    
 </html>
