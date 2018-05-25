@@ -102,5 +102,10 @@ So
   I am loving all the new things that are ahead of me, and how I can implement them.  I need to be sure to stay focused.  As I learn more, and do more, it feels better and easier.  That, however, does not keep me from finding new things I have to/want to learn.  I think I need to start repo's for all the things that I am working on, even if it isn't code (because I found MIT Opencourseware).  I have actually known about it for a while, and watch the video lectures sometimes.  I think that I want to do a set time of when I do the course and take them in order to completion.  I have seen about 5 or 6 tracks that I have been meaning to complete.  I can do it like my old school schedule. I think their website has the problem sets available.  
   I also want to work on codefights &&|| codewars.  See?!  All the things...lol.  I need to prioritize them.  I might do a video lecture per day after I finish this app.  I will start codewars/codefights when I get past the Algorithms section in Freecodecamp.  I learned my JavaScript from w3schools, and I just started reading Javascript and Jquery by Jon Duckett. I will open a repo for my study journal/schedule.  Maybe I will make it a part of my #100daysofcode mid-R1 or #100daysofcode R2...Oh yes...there will be a round two!!  Too much to do and learn for there not to be a round-2.  Lol. 
   
+<h2>Day 8: May 24th 2018 Thursday</h2>
+<strong>Today's Progress**</strong>
+Did more work on the #stripe #nodejs element of back office stuff that I have been working on.  I'll probably be focused on this for the week.  I coded the #FrontEnd #UI of the back office.  I started a Skype Bot Project with Bama for MC Vanilla High on a GitHub Repo &amp; Trello.  
+
+<strong>Thoughts**</strong> I need to create a more readable log format.  This is getting too long to read. Maybe bullet points would be better? Hmmm...
    
 </html>
