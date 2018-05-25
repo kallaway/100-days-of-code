@@ -68,3 +68,12 @@
 
 **Link to work:** [MusicApp](https://github.com/cTahirih/MusicApp)
 
+### Day 13: May 24, 2018 :heavy_check_mark:
+
+**Today's Progress**: Today continue with FreeCodeCamp.
+**Thoughts:** I'm lost in Redux, Tomorrow continue with this
+
+**Link to work:** [MusicApp](https://www.freecodecamp.org/ctahirih)
+
+
+
