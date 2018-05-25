@@ -950,3 +950,14 @@ Tried to make creative logic for the prob!!
 1. [Chef and Fruits - Codechef_Problem](https://www.codechef.com/problems/FRUITS)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_fruits.py)
 
+
+### Day 86: May 25, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!
+
+**Link(s) to work**
+1. [Chef and Table Tennis - Codechef_Problem](https://www.codechef.com/problems/TTENIS)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_table_tennis.py)
+
