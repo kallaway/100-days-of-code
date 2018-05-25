@@ -5,10 +5,10 @@ The log of my #100DaysOfCode challenge. Started on [March 1, Thrusday, 2018].
 ## Log
 
 ### R1D1 
-Solved a CodeChef problem
+Solved a CodeChef problem, back to continue on CodeChef!
 
 ### R1D2
-Solved a CodeChef problem
+Solved a CodeChef problem, python makes coding easier!!
 
 ### R1D3 
 Solved a CodeChef problem
@@ -206,25 +206,28 @@ Solved a CodeChef problem
 Solved a CodeChef problem
 
 ### R1D78 
-Solved a CodeChef problem
+Solved a CodeChef problem, exams time!!
 
 ### R1D79 
-Solved a CodeChef problem
+Solved a CodeChef problem, exams ongoing!
 
 ### R1D80 
-Solved a CodeChef problem
+Solved a CodeChef problem, exams ongoing!
 
 ### R1D81 
-Solved a CodeChef problem
+Solved a CodeChef problem, exams ongoing!
 
 ### R1D82
-Solved a CodeChef problem
+Solved a CodeChef problem, exams ongoing!
 
 ### R1D83 
-Solved a CodeChef problem
+Solved a CodeChef problem, exams going on!
 
 ### R1D84 
-Solved a CodeChef problem
+Solved a CodeChef problem, working on a small self python project
 
 ### R1D85
-Solved a CodeChef problem
+Solved a CodeChef problem, working on a small self python project
+
+### R1D86
+Solved a CodeChef problem, working on a small self python project
