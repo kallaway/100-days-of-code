@@ -961,3 +961,14 @@ Tried to make creative logic for the prob!!
 1. [Chef and Table Tennis - Codechef_Problem](https://www.codechef.com/problems/TTENIS)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_table_tennis.py)
 
+
+### Day 87: May 26, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice problem!
+
+**Link(s) to work**
+1. [Little Chef and Sums - Codechef_Problem](https://www.codechef.com/problems/CHEFSUM)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/little_chef_and_sums.py)
+
