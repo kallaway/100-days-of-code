@@ -106,6 +106,14 @@ So
 <strong>Today's Progress**</strong>
 Did more work on the #stripe #nodejs element of back office stuff that I have been working on.  I'll probably be focused on this for the week.  I coded the #FrontEnd #UI of the back office.  I started a Skype Bot Project with Bama for MC Vanilla High on a GitHub Repo &amp; Trello.  
 
-<strong>Thoughts**</strong> I need to create a more readable log format.  This is getting too long to read. Maybe bullet points would be better? Hmmm...
+<strong>Thoughts**</strong> I need to create a more readable log format.  This is getting too long to read. Maybe bullet points would be better? Hmmm...I think I like this format for my own review purposes for now. 
+
+
+<h2>Day 9: May 25, 2018 Friday</h2>
+<strong>Today's Progress**</strong> Today I worked on my nodeapp and embedding the email into the site from webmail.  I am working on connecting the chat between a domain for the main site chat and a subdomain for the staff to use the chat.  I think I will just link one of their pages to the link on the domain to sign-in, and make it the only place to access that page for the staff from their subdomain, so there wont be anyone trying to login in on the wrong place.  For now, I think I am going to manually add the staff users, for security purposes.  This way not just anyone can signup to be considered staff if they are able to access that page.  I can add them manually, and they can only access everything if I put them in the system myself.  I will find a more relevant solution later.  I can add a registry sign up, like on the main domain, but I think I might wait to see what I find first.   Also, once this project is done, I might make a repo of the project, without the sensitive information.  
+
+I took a few small breaks today, but spent them learning about build tools, such as Gulp, Grunt and WebPack. 
+
+<strong>Thoughts:**</strong>  I have a lot to learn, but the more I learn, the more I learn about the list of growing things that I don't know and feel like I should know.  Lol.  I feel like I need to know everything, I know I don't, but I should be open to learning more.  I think the most important thing for me right now is to focus on the task in front of me for now.  I know that this is for the #100daysofcode challenge, but I will have no problem going beyond the 100 days...
    
 </html>
