@@ -75,5 +75,12 @@
 
 **Link to work:** [MusicApp](https://www.freecodecamp.org/ctahirih)
 
+### Day 14-15: May 26, 2018 :heavy_check_mark:
+
+**Today's Progress**: Today continue with my proyect in React, I improved the styles and I understand finally Redux, now I practice, practice and more practice.
+**Thoughts:** At last it stopped being a nightmare (Redux) :clap:  :clap: :clap:
+
+**Link to work:** [MusicApp](https://github.com/cTahirih/MusicApp)
+
 
 
