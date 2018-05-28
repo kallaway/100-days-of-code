@@ -13,7 +13,7 @@
 1. Eu irei twittar sobre meu progresso diariamente -> usando a hashtag #100DaysOfCode
 2. Se eu programar no trabalho, não irei considerar esse tempo como parte do desafio.
 3. Eu irei enviar meu código para o GitHub todo dia para que qualquer pessoa possa ver meu progresso.
-4. Eu irei atualizar o (Log)[log.md] com meu progresso diário e irei providenciar um link para que outros possam ver meu progresso.
+4. Eu irei atualizar o [Log](log.md) com meu progresso diário e irei providenciar um link para que outros possam ver meu progresso.
 5. Eu irei trabalhar em projetos reais, com desafios verdadeiros. O tempo que usar vendo tutoriais, cursos online e outros recursos similares NÃO irão contar para o desafio. (Caso você esteja aprendendo a programar, leia [LEIA-ME](LEIAME.md))
 
 ## Ideias para fazer esse desafio ser mais eficiente
