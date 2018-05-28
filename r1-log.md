@@ -237,3 +237,6 @@ Solved a CodeChef problem, made version 1.1 of that project.. !!
 
 ### R1D87
 Solved a CodeChef problem, nice one!!
+
+### R1D87
+Solved a CodeChef problem, easy one!!
