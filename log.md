@@ -982,3 +982,15 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Chef and His Daily Routine - Codechef_Problem](https://www.codechef.com/problems/CHEFROUT)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/chef_and_his_daily_routine.py)
+
+
+### Day 89: May 28, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!
+
+**Link(s) to work**
+1. [Strange Operations - Codechef_Problem](https://www.codechef.com/problems/UTMOPR)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/strange_operations.py)
+
