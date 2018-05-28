@@ -115,5 +115,13 @@ Did more work on the #stripe #nodejs element of back office stuff that I have be
 I took a few small breaks today, but spent them learning about build tools, such as Gulp, Grunt and WebPack. 
 
 <strong>Thoughts:**</strong>  I have a lot to learn, but the more I learn, the more I learn about the list of growing things that I don't know and feel like I should know.  Lol.  I feel like I need to know everything, I know I don't, but I should be open to learning more.  I think the most important thing for me right now is to focus on the task in front of me for now.  I know that this is for the #100daysofcode challenge, but I will have no problem going beyond the 100 days...
+
+<h2>Day 11: May 27th 2018, Sunday</h2>
+
+<strong>Today's Progress:**</strong>
+Day11 #100DaysOfCode I did more reading and searching than coding this morning.  I re-read through some parts of the Stripe documentation for clarity and to find what I was missing in my code.  1.5hrs of code. Then, I took my daughter to a birthday party, and went home to work on a project that wasn't my node app, just to break it up a little.  I'll get back to my node app in the morning.  
+
+<strong>Thoughts**</strong> I have the main parts of my app done, I just have a few things to work out, and finish up with Stripe.  I have a lot to do for the app, but the MVP is nearly done.  So, I will implement the rest after I launch the main features that my client needs to get started. 
+I plan to have it done by June 1st.  I hope.  
    
 </html>
