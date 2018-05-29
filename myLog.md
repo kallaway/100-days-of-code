@@ -124,4 +124,9 @@ Day11 #100DaysOfCode I did more reading and searching than coding this morning. 
 <strong>Thoughts**</strong> I have the main parts of my app done, I just have a few things to work out, and finish up with Stripe.  I have a lot to do for the app, but the MVP is nearly done.  So, I will implement the rest after I launch the main features that my client needs to get started. 
 I plan to have it done by June 1st.  I hope.  
    
+<h2>Day 12: May 28th 2018, Monday</h2>
+
+<strong>Today's Progress:*</strong> Day12 #100daysofcode Aside from watching tutorials this morning, I learned that I can use GitBash IN VSCode's integrated terminal.  I was using it by itself.  Lol.  I spent 2 hours coding, but everyone is home...so hard to focus.  I didn't get too much done, but I learned a lot.  
+
+<strong>Thoughts:*</strong> I need to back up a bit on my lessons, but not too much.  I looked into the MVC, and nodejs connections and then decided to go through all of the the NodeJS tutorials for beginners By theNewBoston on Youtube.  I have been finding little tidbits, but I need to go through all the basics again to ensure that I have it correct, bc I am missing something that I need to make this all fit together: so back to Nodejs basics. 
 </html>
