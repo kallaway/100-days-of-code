@@ -91,11 +91,14 @@
 **Link to work:** [MusicApp](https://github.com/cTahirih/MusicApp)
 
 
-### Day 16: May 28, 2018 :heavy_check_mark:
+### Day 17: May 29, 2018 :heavy_check_mark:
 
-**Today's Progress**: Today finish the proyect but I need help for deploy in gh-pages 
-**Thoughts:** At last it stopped being a nightmare (Redux) :clap: :clap: :clap:
+**Today's Progress**: I resolved the conflicts at the time of deploy in my React project, I solved some problems in the code and I learned more things about GitHub.
+ I also started with some videos to learn PHP.
+**Thoughts:** :clap: :clap: :clap:
 
-**Link to work:** [MusicApp](https://github.com/cTahirih/musicweb)
+**Link to work:** [MusicApp](https://ctahirih.github.io/webmusic)
+
+
 
 
