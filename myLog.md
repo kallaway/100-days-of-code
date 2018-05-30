@@ -129,4 +129,8 @@ I plan to have it done by June 1st.  I hope.
 <strong>Today's Progress:*</strong> Day12 #100daysofcode Aside from watching tutorials this morning, I learned that I can use GitBash IN VSCode's integrated terminal.  I was using it by itself.  Lol.  I spent 2 hours coding, but everyone is home...so hard to focus.  I didn't get too much done, but I learned a lot.  
 
 <strong>Thoughts:*</strong> I need to back up a bit on my lessons, but not too much.  I looked into the MVC, and nodejs connections and then decided to go through all of the the NodeJS tutorials for beginners By theNewBoston on Youtube.  I have been finding little tidbits, but I need to go through all the basics again to ensure that I have it correct, bc I am missing something that I need to make this all fit together: so back to Nodejs basics. 
+
+<h2>Day 13: May 29th 2018 Tuesday</h2>
+<strong>Today's Progress:*</strong> Day13 #100daysofcode Learning more about #NodeJS, #Javascript #Stripe and more stuff related to tying my app together.  Spent a few hours coding on it.  Working on more before bed.  I learned how to do a markdown table in Github, today, too.  I bought a Udemy course on NodeJS and React, I am watching that this week.  I did 11 courses today. I hope to find the missing piece to tie my app together.  
+<strong>Thoughts:*</strong>Still struggling, bc I skipped alot learning the fundamentals.  So, I am backtracking a little to fill in those gaps. Reviewing a lot of concepts to see where they fit in the best, and trying to make the app work as a whole.  
 </html>
