@@ -132,5 +132,13 @@ I plan to have it done by June 1st.  I hope.
 
 <h2>Day 13: May 29th 2018 Tuesday</h2>
 <strong>Today's Progress:*</strong> Day13 #100daysofcode Learning more about #NodeJS, #Javascript #Stripe and more stuff related to tying my app together.  Spent a few hours coding on it.  Working on more before bed.  I learned how to do a markdown table in Github, today, too.  I bought a Udemy course on NodeJS and React, I am watching that this week.  I did 11 courses today. I hope to find the missing piece to tie my app together.  
+
+
 <strong>Thoughts:*</strong>Still struggling, bc I skipped alot learning the fundamentals.  So, I am backtracking a little to fill in those gaps. Reviewing a lot of concepts to see where they fit in the best, and trying to make the app work as a whole.  
+
+<h2>Day 14: May 30th 2018 Wednesday</h2>
+
+<strong>Today's Progress:**</strong> More #NodeJS #JS #Stripe.  Remade a few of the elements that I was working on to see if there was a better way to get it done, but on the surface, it works the same.  
+
+<strong>Thoughts:**</strong>I feel like Im taking too long, but I'm almost done.  I need to hurry up, though, so I can move on to the next project. 
 </html>
