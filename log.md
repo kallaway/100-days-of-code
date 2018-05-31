@@ -100,5 +100,13 @@
 **Link to work:** [MusicApp](https://ctahirih.github.io/webmusic)
 
 
+### Day 18: May 30, 2018 :heavy_check_mark:
+
+**Today's Progress**: Today I read about Vue CLI, I wanted to learn the basics but I stayed in creating a project, I get an error when installing Vue CLI 3, the previous versions do not recognize vue init. 
+**Thoughts:** I need practice more
+
+**Link to work:** [Vue-error](https://user-images.githubusercontent.com/32286691/40761720-710bfb5e-6462-11e8-8b57-3d4bdbe6abb1.png)
+
+
 
 
