@@ -28,3 +28,11 @@ Have to wrap my head around testing with Mocha and Chai before moving full speed
 
 [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
 
+---
+### R1D4
+Working on Angular and Material. Fixed several errors. Created a new component and set up the basic version of it.
+
+Lots of work still to do. Need to format the JSON output from the API into a better version. Still need to better understand some of the Angular 6 intricacies. The Material and FlexLayout for Angular6 are just not as well documented as the one for AngularJs.
+
+[ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
