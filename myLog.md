@@ -141,4 +141,12 @@ I plan to have it done by June 1st.  I hope.
 <strong>Today's Progress:**</strong> More #NodeJS #JS #Stripe.  Remade a few of the elements that I was working on to see if there was a better way to get it done, but on the surface, it works the same.  
 
 <strong>Thoughts:**</strong>I feel like Im taking too long, but I'm almost done.  I need to hurry up, though, so I can move on to the next project. 
+
+<h2>Day 15: May 31, 2018 Thursday</h2>
+
+<strong>Today's Progress:**</strong> *Started @udemy course #nodejs #fullstack @ste_grider #goodinfo #workflow 
+*Learned how to set up some of the deployment on my VPS at Bluehost.
+*Did 3 hours of code on #Stripe //still lots to do, but almostdone.  (I copied and pasted this from my Twitter, today bc I have a lot to do still.)
+
+<strong>Thoughts:**</strong> I can feel the deployment getting closer, but still have testing to do. I also have a lot of stuff to do in Stripe on things that I am still learning about.  
 </html>
