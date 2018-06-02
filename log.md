@@ -22,12 +22,21 @@ The data file cleanup took a bit of time. Had to also wrap the _fs.ReadFile_ in 
 
 **Thoughts:** Have to wrap my head around testing with Mocha and Chai before moving full speed ahead on the project. Need to get up to speed with the intricacies of Typescript and ES6.
 
-**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) 
+**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
 
 ---
 ### Day 4: May 31st, 2018
 **Today's Progress:** Working on Angular and Material. Fixed several errors. Created a new component and set up the basic version of it.
 
 **Thoughts:** Lots of work still to do. Need to format the JSON output from the API into a better version. Still need to better understand some of the Angular 6 intricacies. The Material and FlexLayout for Angular6 are just not as well documented as the one for AngularJs.
+
+**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### Day 5: June 1st, 2018
+**Today's Progress:** JSON output from API endpoint works now.
+Booklist now shows book covers from the OpenLibrary API.
+
+**Thoughts:** Need to get better data source for the API. Improve Layout. Need to study Material and Flex a bit more in depth for Angular 6. Still having trouble getting it to do what could be easily done in Angular 1x with Material
 
 **Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]

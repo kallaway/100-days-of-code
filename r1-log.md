@@ -36,3 +36,12 @@ Lots of work still to do. Need to format the JSON output from the API into a bet
 
 [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
 
+---
+### R1D5
+JSON output from API endpoint works now.
+Booklist now shows book covers from the OpenLibrary API.
+
+Need to get better data source for the API. Improve Layout. Need to study Material and Flex a bit more in depth for Angular 6. Still having trouble getting it to do what could be easily done in Angular 1x with Material
+
+[ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
