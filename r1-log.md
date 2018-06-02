@@ -240,3 +240,9 @@ Solved a CodeChef problem, nice one!!
 
 ### R1D89
 Solved a CodeChef problem, easy one!!
+
+### R1D90
+Solved a CodeChef problem, easy one!!
+
+### R1D91
+Solved a CodeChef problem, easy one!!
