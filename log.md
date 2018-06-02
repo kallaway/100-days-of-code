@@ -1027,3 +1027,14 @@ Tried to make creative logic for the prob!!
 1. [Transform the Expression - Codechef_Problem](https://www.codechef.com/problems/ONP)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/transform_the_expression.py)
 
+
+### Day 93: June 1, 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice problem!
+
+**Link(s) to work**
+1. [Cutting Recipes - Codechef_Problem](https://www.codechef.com/problems/RECIPE)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/cutting_recipes.py)
+
