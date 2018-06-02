@@ -1038,3 +1038,15 @@ Tried to make creative logic for the prob!!
 1. [Cutting Recipes - Codechef_Problem](https://www.codechef.com/problems/RECIPE)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/cutting_recipes.py)
 
+
+### Day 94: June 2, 2018 Saturday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!
+
+**Link(s) to work**
+1. [Similar Dishes - Codechef_Problem](https://www.codechef.com/problems/SIMDISH)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/similar_dishes.py)
+
+
