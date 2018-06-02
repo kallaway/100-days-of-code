@@ -994,3 +994,24 @@ Tried to make creative logic for the prob!!
 1. [Strange Operations - Codechef_Problem](https://www.codechef.com/problems/UTMOPR)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/strange_operations.py)
 
+
+### Day 90: May 29, 2018 Tuesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!
+
+**Link(s) to work**
+1. [Movie Weekend - Codechef_Problem](https://www.codechef.com/problems/MOVIEWKN)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/movie_weekend.py)
+
+
+### Day 91: May 30, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!
+
+**Link(s) to work**
+1. [Secret Recipe - Codechef_Problem](https://www.codechef.com/problems/CHEFRUN)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/secret_recipe.py)
