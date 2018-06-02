@@ -149,4 +149,10 @@ I plan to have it done by June 1st.  I hope.
 *Did 3 hours of code on #Stripe //still lots to do, but almostdone.  (I copied and pasted this from my Twitter, today bc I have a lot to do still.)
 
 <strong>Thoughts:**</strong> I can feel the deployment getting closer, but still have testing to do. I also have a lot of stuff to do in Stripe on things that I am still learning about.  
+
+<h2>Day 16: June 1, 2018 Friday</h2>
+
+<strong>Today's Progress:**</strong> Day16 #100DaysOfCode More #nodejs project were today's focus.  Setup Git & did some admin stuff on my VPS, just to mentally break productively...lol.  More #stripe. ...still working on it.  
+
+<strong>Thoughts</strong> Getting closer.  Seems so close, but so far.  I'm stilling learning as I go.  Sometimes I spend more time reading documentation and examples than I do actually coding.  Back to work after this post.  
 </html>
