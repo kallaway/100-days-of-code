@@ -1015,3 +1015,15 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Secret Recipe - Codechef_Problem](https://www.codechef.com/problems/CHEFRUN)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/secret_recipe.py)
+
+
+### Day 92: May 31, 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: interesting Data Structure problem!! conversion to Reverse Polish Notation..
+
+**Link(s) to work**
+1. [Transform the Expression - Codechef_Problem](https://www.codechef.com/problems/ONP)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/transform_the_expression.py)
+
