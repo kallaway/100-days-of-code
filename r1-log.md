@@ -246,3 +246,9 @@ Solved a CodeChef problem, easy one!!
 
 ### R1D91
 Solved a CodeChef problem, easy one!!
+
+### R1D92
+Solved a CodeChef problem, nice Data Structure prob_!!
+
+### R1D93
+Solved a CodeChef problem, nice one!!
