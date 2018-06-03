@@ -5,10 +5,15 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 ## Participants
 
 * John Pham
+  * Wants to learn mobile development and practice data science
 * Wendingo Li
 * Cameron Morin
 * Jerry Tan
 * Jacob Poole
+
+## Challenge
+
+![Slap Bet](https://media.giphy.com/media/VwGLr1hhleHjW/giphy.gif)
 
 ## Log Template
 
