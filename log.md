@@ -1050,3 +1050,15 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/similar_dishes.py)
 
 
+### Day 95: June 3, 2018 Sunday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: nice problem!
+
+**Link(s) to work**
+1. [Farmer And His Plot - Codechef_Problem](https://www.codechef.com/problems/RECTSQ)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/farmer_and_his_plot.py)
+
+
+
