@@ -1,30 +1,49 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+This is the #100DaysOfCode log. It will start June 18th, 2018 and end on September 26th, 2018.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+## Participants
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+* John Pham
+* Wendingo Li
+* Cameron Morin
+* Jerry Tan
+* Jacob Poole
 
-**Link to work:** [Calculator App](http://www.example.com)
+## Log Template
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+---
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: June 00, 2018
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+| Notes | John | Wendy | Cameron | Jerry | Jacob |
+|:---|:---|:---|:---|:---|:---|
+| What did you do today? | x | x | x | x | x |
+| Comments | x | x | x | x | x |
+| Link | x | x | x | x | x |
 
+---
 
-### Day 1: June 27, Monday
+### Day 0: June 00, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+| Notes | John | Wendy | Cameron | Jerry | Jacob |
+|:---|:---|:---|:---|:---|:---|
+| What did you do today? | Lorem ipsum dolor sit amet | Curabitur maximus lacus et | honcus pellentesque | Quisque semper fringilla enim | Proin luctus, elit mollis  |
+| Comments | Proin luctus, elit mollis | Lorem ipsum dolor sit amet | Curabitur maximus lacus et | Curabitur maximus lacus et | Curabitur maximus lacus et |
+| Link | x | x | x | x | x |
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+---
+
+### Day 1: June 18, 2018
+
+| Notes | John | Wendy | Cameron | Jerry | Jacob |
+|:---|:---|:---|:---|:---|:---|
+| What did you do today? | x | x | x | x | x |
+| Comments | x | x | x | x | x |
+| Link | x | x | x | x | x |
+
+---
