@@ -5,7 +5,16 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 ## Participants
 
 * John Pham
-  * Wants to learn mobile development and practice data science
+  * Goals:
+    * Learn mobile development
+      * React Native
+      * Publish a mobile app to the Play Store
+    * Practice data science
+      * Hadoop
+      * Spark
+      * CUDA
+    * Make a GitHub App
+      * A bot to help with accountability for #100DaysOfCode. Pings users if they haven't made a commit for the day. Notifies others participating that the person is slacking.
 * Wendingo Li
 * Cameron Morin
 * Jerry Tan
