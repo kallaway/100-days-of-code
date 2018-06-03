@@ -255,3 +255,6 @@ Solved a CodeChef problem, nice one!!
 
 ### R1D94
 Solved a CodeChef problem, easy one!!
+
+### R1D95
+Solved a CodeChef problem, nice one!!
