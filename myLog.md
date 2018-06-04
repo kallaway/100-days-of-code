@@ -155,4 +155,12 @@ I plan to have it done by June 1st.  I hope.
 <strong>Today's Progress:**</strong> Day16 #100DaysOfCode More #nodejs project were today's focus.  Setup Git & did some admin stuff on my VPS, just to mentally break productively...lol.  More #stripe. ...still working on it.  
 
 <strong>Thoughts</strong> Getting closer.  Seems so close, but so far.  I'm stilling learning as I go.  Sometimes I spend more time reading documentation and examples than I do actually coding.  Back to work after this post.  
+
+<h2>Day 17: June 2, 2018</h2>
+<strong>Today's Progress</strong> Play day for me today.  But, I got an hour of code in.  
+<strong>Thoughts</strong> Date night.  Needed a mental break.
+
+<h2>Day 18: June 3, 2018</h2>
+<strong>Today's Progress</strong>  Lots of Docs: More #Stripe some #auth0 #passportjs still working on everything.  Mostly reading today, again.  But still made some progress. 
+<strong>Thoughts</strong> Took a little break to take the girls skating with their friends.  Back to code before bed.  
 </html>
