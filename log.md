@@ -1062,3 +1062,13 @@ Tried to make creative logic for the prob!!
 
 
 
+### Day 96: June 4, 2018 Monday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: easy problem!
+
+**Link(s) to work**
+1. [Coins And Triangle - Codechef_Problem](https://www.codechef.com/problems/TRICOIN)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/coins_and_triangle.py)
+
