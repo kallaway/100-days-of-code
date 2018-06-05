@@ -1083,7 +1083,6 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [ID and Ship - Codechef_Problem](https://www.codechef.com/problems/FLOW010)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/id_and_ship.py)
-
 2. [Puppy and Sum - Codechef_Problem](https://www.codechef.com/problems/PPSUM)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/puppy_and_sum.py)
 
