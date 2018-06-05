@@ -162,5 +162,10 @@ I plan to have it done by June 1st.  I hope.
 
 <h2>Day 18: June 3, 2018</h2>
 <strong>Today's Progress</strong>  Lots of Docs: More #Stripe some #auth0 #passportjs still working on everything.  Mostly reading today, again.  But still made some progress. 
-<strong>Thoughts</strong> Took a little break to take the girls skating with their friends.  Back to code before bed.  
+<strong>Thoughts</strong> Took a little break to take the girls skating with their friends.  Back to code before bed.
+
+<h2>Day 19: June 4, 2018</h2>
+<strong>Today's Progress:**</strong> More #stripe today.I did CLI/Git Server Setup for my VPS. 🚧 Bought  _Linux Command Line and Shell Scripting Bible: The Comprehensive Tutorial Resouce, 3rd Ed._ By Richard Blum &amp; Christine Bresnahan a while ago, time to dive in, since I'll be using the CLI more now, especially with #NodeJS and VPS...etc.  I also bought _The Linux Bible_ by Christopher Negus, but I haven't started that yet.  However, that is mostly for Linux admin stuff.  I am working on CentOS CPanel, though.  For now, I'll be reading the first one to get familiar with the command line to work with databases, and web interaction.  
+
+<strong>Thoughts:**</strong> Finally making some real progress.  I have an entire site designed and ready to go from about three months ago, it's the chat app/login/db/ssh/node stuff that is taking me so long, bc I have no idea how to use them.  I'm so thankful for tutorials, books, freecodecamp & Bama.  I couldn't have done the SSH without him.  I am working through some things that require me to do the command line, and setting permissions, but I am not great at setting that up, so Bama walked me through that part.  But, now I have to be sure to learn it.  I need to know when and where and how and for whom to do it, and why for each instance.  I am familiar with chmod, but not how to set it properly.  So, that will be my study focus before I start the next project.  
 </html>
