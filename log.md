@@ -40,3 +40,19 @@ Booklist now shows book covers from the OpenLibrary API.
 **Thoughts:** Need to get better data source for the API. Improve Layout. Need to study Material and Flex a bit more in depth for Angular 6. Still having trouble getting it to do what could be easily done in Angular 1x with Material
 
 **Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### Day 6: June 3rd, 2018
+**Today's Progress:** **Lambda** functions, **serverless architecture** oh my! :) Planning on moving some of my projects to **AWS** to better utilize serverless architecture
+
+**Thoughts:** Didn't code yesterday. Did tutorials & read up on new tech that I want to use, but no code so doesn't count. 
+
+**Link to work:** [Tweet for R1D6](http://bit.ly/2JqnJbl)
+
+---
+### Day 7: June 4th, 2018
+**Today's Progress:** API research and testing for book metadata retrieval and some coding around [SQLite](http://bit.ly/2sCFnhy) to prepare for the main core of the project
+
+**Thoughts:** Need to work more on testing with [Mocha](http://bit.ly/2HlFwLK) and [Chai](http://bit.ly/2sBuZXw). Not being very consistent. It is a little tricky to set up and I get too impatient
+
+**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]

@@ -45,3 +45,20 @@ Need to get better data source for the API. Improve Layout. Need to study Materi
 
 [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
 
+---
+### R1D6
+**Lambda** functions, **serverless architecture** oh my! :)
+Planning on moving some of my projects to **AWS** to better utilize serverless architecture
+
+Didn't code yesterday. Did tutorials & read up on new tech that I want to use, but no code so doesn't count. 
+
+[Tweet for R1D6](http://bit.ly/2JqnJbl)
+
+---
+### R1D7
+API research and testing for book metadata retrieval and some coding around [SQLite](http://bit.ly/2sCFnhy) to prepare for the main core of the project
+
+Need to work more on testing with [Mocha](http://bit.ly/2HlFwLK) and [Chai](http://bit.ly/2sBuZXw). I am not being very consistent. I find it a little tricky to set up and I get too impatient
+
+[ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
