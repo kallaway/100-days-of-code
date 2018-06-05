@@ -261,3 +261,6 @@ Solved a CodeChef problem, nice one!!
 
 ### R1D96
 Solved a CodeChef problem, nice one!!
+
+### R1D97
+Solved 2 CodeChef problem, easy one!!
