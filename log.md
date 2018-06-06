@@ -1087,3 +1087,17 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/puppy_and_sum.py)
 
 
+
+### Day 98: June 6, 2018 Wednesday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: solved 2 problems.. both easy ones!!
+
+**Link(s) to work**
+1. [Download File - Codechef_Problem](https://www.codechef.com/problems/DWNLD)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/download_file.py)
+2. [Grade The Steel - Codechef_Problem](https://www.codechef.com/problems/FLOW014)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/grade_the_steel.py)
+
+
