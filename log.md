@@ -51,3 +51,12 @@ Day 6: May 18, 2018- Friday
 **Thoughts:** Wasnt able to zone in since I've been back at work, but I will refocus on this challenge. I forgot how to do switch statements, but after tinkering for a bit, I remebered alot of it. 
 
 **Link to work:** https://twitter.com/AllStar_H_/status/997650892722667525
+
+Day 7: June 6, 2018- Wednesday 
+
+**Today's Progress**: Refreshed on Javascript objects, accessing object properties with Dot Notation, Bracket Notation, and variables. Updating Object Properties (adding & deleting Object Properties).
+
+**Thoughts:** I have finally bought a monitor for my Macbook Pro and it really helps with coding. I remember a good amount when it comes to Javascript objects. I'm having a issue with GitHub capturing when I update this Log. I will try to figure it out over the weekend. 
+
+**Link to work:** https://twitter.com/AllStar_H_/status/1004356696154746881
+
