@@ -267,3 +267,6 @@ Solved 2 CodeChef problems, easy ones!!
 
 ### R1D98
 Solved 2 CodeChef problems, easy ones!!
+
+### R1D99
+Solved 2 CodeChef problems, easy ones!!
