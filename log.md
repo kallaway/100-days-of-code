@@ -1061,7 +1061,6 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/farmer_and_his_plot.py)
 
 
-
 ### Day 96: June 4, 2018 Monday
 
 **Today's Progress**: Today also going through some codechef problems.
@@ -1071,7 +1070,6 @@ Tried to make creative logic for the prob!!
 **Link(s) to work**
 1. [Coins And Triangle - Codechef_Problem](https://www.codechef.com/problems/TRICOIN)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/coins_and_triangle.py)
-
 
 
 ### Day 97: June 5, 2018 Tuesday
@@ -1087,7 +1085,6 @@ Tried to make creative logic for the prob!!
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/puppy_and_sum.py)
 
 
-
 ### Day 98: June 6, 2018 Wednesday
 
 **Today's Progress**: Today also going through some codechef problems.
@@ -1100,4 +1097,16 @@ Tried to make creative logic for the prob!!
 2. [Grade The Steel - Codechef_Problem](https://www.codechef.com/problems/FLOW014)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/grade_the_steel.py)
 
+
+### Day 99: June 7 2018 Thrusday
+
+**Today's Progress**: Today also going through some codechef problems.
+
+**Thoughts**: solved 2 problems.. both easy ones!!
+
+**Link(s) to work**
+1. [Devu and Friendship Testing - Codechef_Problem](https://www.codechef.com/problems/CFRTEST)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/devu_and_friendship_testing.py)
+2. [Tanu and Head-Bob - Codechef_Problem](https://www.codechef.com/problems/HEADBOB)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/tanu_and_head-bob.py)
 
