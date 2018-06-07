@@ -26,7 +26,7 @@
 
 [the #100DaysOfX Challenges Project](http://100daysofx.com/)を見てみてください。習慣が変われば、人生が変わります。始めるなら今です！
 
-私のおすすめは最大でも同時に2,3個以上ののチャレンジに同時には参加しないことで、理想は2個です。#100DaysOfCodeのような精神的な強さが必要なチャレンジをしているのであれば、 [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/)や[#100DaysOfFitness](http://100daysofx.com/challenges/)などのチャレンジを同時にやることがおすすめです。
+私のおすすめは最大でも同時に2,3個以上のチャレンジに同時には参加しないことで、理想は2個です。#100DaysOfCodeのような精神的な強さが必要なチャレンジをしているのであれば、 [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/)や[#100DaysOfFitness](http://100daysofx.com/challenges/)などのチャレンジを同時にやることがおすすめです。
 その他にも言語、作文、瞑想、料理などたくさんあるので、色々見て選んでみてください！
 
 ## 備考
