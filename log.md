@@ -56,3 +56,19 @@ Booklist now shows book covers from the OpenLibrary API.
 **Thoughts:** Need to work more on testing with [Mocha](http://bit.ly/2HlFwLK) and [Chai](http://bit.ly/2sBuZXw). Not being very consistent. It is a little tricky to set up and I get too impatient
 
 **Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### Day 8: June 6th, 2018
+**Today's Progress:** Studied and tried out various service worker scripts and AWS Lambda. Focused on Angular 6.
+
+**Thoughts:** Serverless architecture is really interesting!
+
+**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### Day 9: June 7th, 2018
+**Today's Progress:** Partially migrated a theme from Pixelarity to a Ghost Theme. This will be used as the main site for my projects and I will be moving some of the jquery scripts to Angular 6.
+
+**Thoughts:** Difficult to find time every single day for coding that is not work related. Not giving up though .. just restarting with vigor.
+
+**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]

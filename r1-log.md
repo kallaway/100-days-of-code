@@ -62,3 +62,10 @@ Need to work more on testing with [Mocha](http://bit.ly/2HlFwLK) and [Chai](http
 
 [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
 
+---
+### R1D8
+Partially migrated a theme from Pixelarity to a Ghost Theme. This will be used as the main site for my projects and I will be moving some of the jquery scripts to Angular 6.
+
+Could not do any coding apart from work related coding for the last couple of days. Not giving up though .. just restarting with vigor.
+
+**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
