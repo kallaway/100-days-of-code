@@ -1110,3 +1110,17 @@ Tried to make creative logic for the prob!!
 2. [Tanu and Head-Bob - Codechef_Problem](https://www.codechef.com/problems/HEADBOB)
 [__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/tanu_and_head-bob.py)
 
+
+### Day 100: June 8 2018 Friday
+
+**Today's Progress**: Today also going through some codechef problems and working and finalizing a small Python Game!!
+
+**Thoughts**: solved 2 problems.. really nice ones!! The journey of my 100DaysOfCode (Round_1) ends here with a final small Python Game (named Infer) developed by me, on which I was working, few days back. It was quite interesting, working on it, as it also made me learn some cool modules and functions in python. Those 100 Days!! really a work of great interest for me...
+
+**Link(s) to work**
+1. [Piece Of Cake - Codechef_Problem](https://www.codechef.com/problems/LCH15JAB)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/piece_of_cake.py)
+2. [Brackets - Codechef_Problem](https://www.codechef.com/problems/BRACKETS)
+[__my_solution](https://github.com/ashish7zeph/Codechef_Codes/blob/master/practice/beginner/brackets.py)
+3. [Infer - Python_Game](https://github.com/ashish7zeph/Infer)
+
