@@ -270,3 +270,8 @@ Solved 2 CodeChef problems, easy ones!!
 
 ### R1D99
 Solved 2 CodeChef problems, easy ones!!
+
+### R1D100
+Solved 2 CodeChef problems, really nice ones!!
+Finalized my Python Game (named Infer)
+Those 100 Days!! really a work of great interest for me...
