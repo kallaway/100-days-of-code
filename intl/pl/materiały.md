@@ -34,8 +34,8 @@
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
 
-## Dokumenty
+## Spis Treści
 * [Regulamin](regulamin.md)
 * [Log - kliknij tutaj aby zobaczyć mój progres](log.md)
-* [FAQ](FAQ-pl.md)
+* [FAQ (często zadawane pytania)](FAQ-pl.md)
 * [Materiały](materiały.md)

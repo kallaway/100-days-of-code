@@ -34,8 +34,8 @@ Wszyscy mamy inne obowiązki, plany i problemy więć twarde trzymanie się dane
   **P:** Jeżeli wszyscy rozpoczęli wyzwanie o jakiś dzień, powinienem/am dołączyć do nich na przykład od dnia 12?
   **O:** To wyzwanie jest indywidualne więc jeżeli rozpoczynasz to zaczynasz w dzień 1. Nie ważne, gdzie upubliczniasz swój progres, czy to Twitter, czy inne social media, pamiętaj aby zawsze umieścić obecny dzień twojego wyzwania oraz nasz hasztag żeby inni uczestnicy mogli cię łatwo znaleźć. 
 
-## Contents
-* [Rules](regulamin.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ-pl.md)
-* [Resources](resources.md)
+## Spis Treści
+* [Regulamin](regulamin.md)
+* [Log - kliknij tutaj aby zobaczyć mój progres](log.md)
+* [FAQ (często zadawane pytania)](FAQ-pl.md)
+* [Materiały](materiały.md)
