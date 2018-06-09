@@ -23,7 +23,7 @@
 
 
 ## Contents
-* [Rules](regulamin.md)
+* [Regulamin](regulamin.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ (często zadawane pytania)](FAQ-pl.md)
-* [Resources](resources.md)
+* [Materiały](materiały.md)
