@@ -14,10 +14,17 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
       * Spark
       * CUDA
       * [CS Courses at UCR](https://github.com/JohnPhamous/cs-courses-at-ucr)
+      * [Deep Learning in 6 Weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/)
+      * [animal2vec project](https://github.com/JohnPhamous/animal2vec)
     * Make a GitHub App
       * A bot to help with accountability for #100DaysOfCode. Pings users if they haven't made a commit for the day. Notifies others participating that the person is slacking.
     * Make a browser extension
       * Pomodoro timer that writes to a Google Drive spreadsheet
+    * Learn security
+      * Kali Linux
+  * Projects
+    * [Fast Event Check In](https://github.com/JohnPhamous/fast-event-checkin)
+    * [Claps](https://github.com/JohnPhamous/claps)
 * Wendingo Li
 * Cameron Morin
 * Jerry Tan
