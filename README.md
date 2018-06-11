@@ -37,9 +37,14 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
     * Learn web development:
 	  * Basic JS and CSS styling
 	  * Update personal webpage
+	* Practice deployment with web applications:
+	  * Work on personal projects that can be deployed through free services
 	* Integrating graphics into programming:
 	  * Expanding my programs by making them more than just a console log
 	  * SVG
+	* Learn data science:
+	  * Neural networks and deep learning
+	  * Make a BattleSnake bot and train it on a neural network
 * Jerry Tan
 * Jacob Poole
 
