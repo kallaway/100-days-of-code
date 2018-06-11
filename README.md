@@ -8,6 +8,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 2. Make a new branch with your name
 3. Make updates to the log in that branch
 4. Make a pull request, wait for someone else to merge it
+5. Review someone else's pull request, leave some feedback, merge if it's good
 
 ## Participants
 
@@ -37,9 +38,14 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
     * Learn web development:
 	  * Basic JS and CSS styling
 	  * Update personal webpage
+	* Practice deployment with web applications:
+	  * Work on personal projects that can be deployed through free services
 	* Integrating graphics into programming:
 	  * Expanding my programs by making them more than just a console log
 	  * SVG
+	* Learn data science:
+	  * Neural networks and deep learning
+	  * Make a BattleSnake bot and train it on a neural network
 * Jerry Tan
  * Goals:
     * Continune to learn more web development 
