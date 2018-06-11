@@ -26,6 +26,13 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
     * [Claps](https://github.com/JohnPhamous/claps)
 * Wendingo Li
 * Cameron Morin
+  * Goals:
+    * Learn web development:
+	  * Basic JS and CSS styling
+	  * Update personal webpage
+	* Integrating graphics into programming:
+	  * Expanding my programs by making them more than just a console log
+	  * SVG
 * Jerry Tan
 * Jacob Poole
 
