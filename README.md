@@ -8,6 +8,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 2. Make a new branch with your name
 3. Make updates to the log in that branch
 4. Make a pull request, wait for someone else to merge it
+5. Review someone else's pull request, leave some feedback, merge if it's good
 
 ## Participants
 
