@@ -41,6 +41,15 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 	  * Expanding my programs by making them more than just a console log
 	  * SVG
 * Jerry Tan
+ * Goals:
+    * Continune to learn more web development 
+      * Experiment with different frameworks(Vue, Angular)
+      * Start making personal website
+    * Learn Data Science
+    * Technical Interview prep(CodeFights, LeetCode, etc)
+
+
+
 * Jacob Poole
 
 ## Challenge
