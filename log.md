@@ -72,3 +72,19 @@ Booklist now shows book covers from the OpenLibrary API.
 **Thoughts:** Difficult to find time every single day for coding that is not work related. Not giving up though .. just restarting with vigor.
 
 **Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### Day 10: June 9th, 2018
+**Today's Progress:** Worked on website for the project. Should be ready and public in a couple of days
+
+**Thoughts:** Wonder whether it is better to keep website, angular app, and api separate or to run them unified
+
+**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### Day 11: June 10th, 2018
+**Today's Progress:** Did some coding tests and working through some advanced Angular 6 concepts
+
+**Thoughts:** Going to keep the three parts separate for now.
+
+**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]

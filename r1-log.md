@@ -64,8 +64,32 @@ Need to work more on testing with [Mocha](http://bit.ly/2HlFwLK) and [Chai](http
 
 ---
 ### R1D8
+Studied and tried out various service worker scripts and AWS Lambda. Focused on Angular 6.
+
+Serverless architecture is really interesting!
+
+[ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### R1D9
 Partially migrated a theme from Pixelarity to a Ghost Theme. This will be used as the main site for my projects and I will be moving some of the jquery scripts to Angular 6.
 
 Could not do any coding apart from work related coding for the last couple of days. Not giving up though .. just restarting with vigor.
 
 **Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### R1D10
+Worked on website for the project. Should be ready and public in a couple of days
+
+Wonder whether it is better to keep website, angular app, and api separate or to run them unified
+
+[ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### R1D11
+Did some coding tests and working through some advanced Angular 6 concepts
+
+Going to keep the three parts separate for now.
+
+[ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
