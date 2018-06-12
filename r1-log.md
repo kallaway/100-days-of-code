@@ -93,3 +93,12 @@ Did some coding tests and working through some advanced Angular 6 concepts
 Going to keep the three parts separate for now.
 
 [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### R1D12
+
+Worked on the website design for the main site as well as some Material and Flex with Angular 6. Very basic angular part is [now online](http://bit.ly/2l5fBiG) This will be fleshed out and improved
+
+Need to work on the UX/UI
+
+[ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) | [Demo](http://bit.ly/2l5fBiG) ]

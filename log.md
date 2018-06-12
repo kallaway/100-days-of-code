@@ -88,3 +88,11 @@ Booklist now shows book covers from the OpenLibrary API.
 **Thoughts:** Going to keep the three parts separate for now.
 
 **Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) ]
+
+---
+### Day 12: June 11th, 2018
+**Today's Progress:** Worked on the website design for the main site as well as some Material and Flex with Angular 6. Very basic angular part is [now online](http://bit.ly/2l5fBiG) This will be fleshed out and improved
+
+**Thoughts:** Need to work on the UX/UI
+
+**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) | [Demo](http://bit.ly/2l5fBiG) ]
