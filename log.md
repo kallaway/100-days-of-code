@@ -60,3 +60,12 @@ Day 7: June 6, 2018- Wednesday
 
 **Link to work:** https://twitter.com/AllStar_H_/status/1004356696154746881
 
+Day 8: June 11, 2018- Monday 
+
+**Today's Progress**: Refreshed on using Objects for Lookups. Worked on solving the Basic Javascript: using Objects for lookups challenge on freecodecamp.
+
+**Thoughts:** I had to use a YouTube tutorial explanation in order to solve this challenge. But with its explanation I finally understand how to utilize the Objects lookups, especially with the use of the variables, when it came time to switch it around to express a result.
+
+**Link to work:** https://twitter.com/AllStar_H_/status/1006345082050629632
+
+
