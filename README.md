@@ -49,10 +49,13 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 * Jerry Tan
  * Goals:
     * Continune to learn more web development 
-      * Experiment with different frameworks(Vue, Angular)
+      * Experiment with different frameworks(Vue, Angular, Flask)
       * Start making personal website
-    * Learn Data Science
-    * Technical Interview prep(CodeFights, LeetCode, etc)
+      * Learn how to make web apps
+    * Learn Data Science/ Machine Learning
+      * Tensorflow
+      * Deep Learning
+    * Technical Interview prep(CodeFights, LeetCode, CodePath etc)
 
 
 
