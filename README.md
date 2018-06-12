@@ -60,6 +60,19 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 
 * Jacob Poole
+* James Luo
+ * Goals:
+    * Learn Unreal
+      * Do the udemy online course
+      * Make a small project on my own
+      * export it to either mobile or Steam
+      
+    * Make a App that can get 50 downloads
+      * Create something unique
+      * Use more Apple API
+    * Create new Tools with FireBase
+      * use thier online computing platform
+
 
 ## Challenge
 
@@ -85,8 +98,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 **Today's Progress**: 
 
-| Notes | John | Wendy | Cameron | Jerry | Jacob |
-|:---|:---|:---|:---|:---|:---|
+| Notes | John | Wendy | Cameron | Jerry | Jacob |James
+|:---|:---|:---|:---|:---|:---| :---| 
 | What did you do today? | Lorem ipsum dolor sit amet | Curabitur maximus lacus et | honcus pellentesque | Quisque semper fringilla enim | Proin luctus, elit mollis  |
 | Comments | Proin luctus, elit mollis | Lorem ipsum dolor sit amet | Curabitur maximus lacus et | Curabitur maximus lacus et | Curabitur maximus lacus et |
 | Link | x | x | x | x | x |
@@ -95,10 +108,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 ### Day 1: June 18, 2018
 
-| Notes | John | Wendy | Cameron | Jerry | Jacob |
-|:---|:---|:---|:---|:---|:---|
-| What did you do today? | x | x | x | x | x |
-| Comments | x | x | x | x | x |
-| Link | x | x | x | x | x |
+| Notes | John | Wendy | Cameron | Jerry | Jacob | James
+|:---|:---|:---|:---|:---|:---| :---|
+| What did you do today? | x | x | x | x | x | x |
+| Comments | x | x | x | x | x | x |
+| Link | x | x | x | x | x | x |
 
 ---
