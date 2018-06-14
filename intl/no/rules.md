@@ -4,19 +4,17 @@
 
 ### *Jeg skal kode i minst én time hver dag de neste 100 dagene.*
 
-#### Startdato
-
-25 juni 2016 [SKRI INN DIN DATO HER]
+#### Startdato: 25 juni 2016 [SKRIV INN DIN DATO HER]
 
 ## Tileggsregler
 
 1. Jeg skal skrive om fremgangen min på Twitter hver dag -> og bruke #100DaysOfCode-hashtaggen
 2. Hvis jeg koder profesjonelt, teller ikke dette mot utfordringen.
 3. Jeg skal pushe kode til GitHub hver dag slik at hvem som helst kan se fremgangen min.
-4. Jeg skal oppdatere (loggen)[log.md] med dagens fremgang og dele linker slik at andre kan se fremgangen min.
+4. Jeg skal oppdatere [loggen](log.md) med dagens fremgang og dele linker slik at andre kan se fremgangen min.
 5. Jeg skal jobbe med faktiske projekter, og møte virkelig utfordringer. Tid som blir brukt på turotials, nettkurs og andre lignende ressurser teller IKKE mot denne utfordringen. (Hvis du akkurat har begynt å lære deg koding, les [FAQ](FAQ.md))
 
-## Ideér for å gjøre denne utfordringen mer effektiv 
+## Ideér for å gjøre denne utfordringen mer effektiv
 
 1. For å øke sjansene for suksess, kreves det at du legger til en link til hva du har gjort hver dag i [loggen](log.md). Det kan være en link til en commit på GitHub, eller en link til et blogginnlegg
 2. Hvis du har det vanskelig eller står fast, les denne artikkelen: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)

@@ -15,7 +15,7 @@ Hvis du vil bidra med oversetting av innhold/regler i ditt språk, lag en pull r
 
 # Hvis du har bestemt deg for å bli med:
 
-0. Se [den offisielle nettsiden](http://100daysofcode.com/) for #100DaysOfCode-bevegelsen. Kom i kontakt med andre på de platformene du ønsker fra denne [listen](http://www.100daysofcode.com/connect/).
+1. Se [den offisielle nettsiden](http://100daysofcode.com/) for #100DaysOfCode-bevegelsen. Kom i kontakt med andre på de platformene du ønsker fra denne [listen](http://www.100daysofcode.com/connect/).
     Her er også en [invitasjonslink](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) til 100DaysOfCode på Slack.
 2. Les [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 3. Fork dette repo-et og commit daglig til [loggen](log.md) eller til alternativet, [R1 Logg](r1-log.md) (R1 står for Round 1 (runde 1). [Eksempel](https://github.com/Kallaway/100-days-kallaway-log).
@@ -34,7 +34,7 @@ Se [#100DaysOfX-utfordringsprojektet](http://100daysofx.com/). Ved å endre vane
 
 Jeg anbefaler at du ikke forplikter deg til mer enn 2-3 utfordringer om gangen, ideelt sett 2. Hvis du holder på med #100DaysOfCode som involverer mye mental aktivitet, prøv [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), eller [#100DaysOfFitness](http://100daysofx.com/challenges/)-utfordringene. Det finnes mange andre alternativer på nettsiden, utforsk dem og velg det som passer deg! Språk, skriving, meditasjon, journalistikk, matlaging, og mer!
 
-## Notat
+## Annet
 
 * Hvis du har spørsmål eller ideer angående 100DaysOfCode (eller andre ideer), ta kontakt med meg på Twitter: [@ka11away](https://twitter.com/ka11away)
 * Hvis du liker dette repo-et og synes det er nyttig, gi meg gjerne en &#9733; stjerne (oppe i høyre hjørne) :)
