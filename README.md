@@ -115,8 +115,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob | James
 |:---|:---|:---|:---|:---|:---| :---|
-| What did you do today? | x | x | x | x | x | x |
-| Comments | x | x | x | x | x | x |
+| What did you do today? | Created an API endpoint for news | x | x | x | x | x |
+| Comments | Need to create a web interface so people can edit with an editor rather than writing JSON | x | x | x | x | x |
 | Link | x | x | x | x | x | x |
 
 ---
