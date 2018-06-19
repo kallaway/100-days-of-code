@@ -69,10 +69,15 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
       * Tensorflow
       * Deep Learning
     * Technical Interview prep(CodeFights, LeetCode, CodePath etc)
-
-
-
 * Jacob Poole
+  * Goals:
+     * Continue to update Websites
+        * IEEE Foothill Website
+        * China Website
+     * Go in depth to more CS fields
+     * Learn more about web development
+     * Learn more about embedded systems and what I can program
+     * Finish a big programming project this summer
 * James Luo
  * Goals:
     * Learn Unreal
@@ -123,8 +128,18 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob | James
 |:---|:---|:---|:---|:---|:---| :---|
-| What did you do today? | x | My first day of work! Yayayay! I worked on learning how to write markup for .XML files. | x | x | x | x |
-| Comments | x | Soup after work is the best. | x | x | x | x |
-| Link | x | https://bit.ly/2qrUk7w | x | x | x | x |
+| What did you do today? | x | My first day of work! Yayayay! I worked on learning how to write markup for .XML files. | x | x | x | reorganize soccer pong 's code |
+| Comments | x | Soup after work is the best. | x | x | x | put the code in an object orintation design for better reuse and to make it eaiser to setup multiplayer |
+| Link | x | https://bit.ly/2qrUk7w | x | x | x | [Soccer Pong](https://github.com/jluo117/SoccerPong) |
+
+
+---
+### Day 2: June 19, 2018
+
+| Notes | John | Wendy | Cameron | Jerry | Jacob | James
+|:---|:---|:---|:---|:---|:---| :---|
+| What did you do today? | x | x | x | x | x | x |
+| Comments | x | x | x | x | x | x |
+| Link | x | x | x | x | x | x|
 
 ---
