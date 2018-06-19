@@ -33,6 +33,19 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
     * [Fast Event Check In](https://github.com/JohnPhamous/fast-event-checkin)
     * [Claps](https://github.com/JohnPhamous/claps)
 * Wendingo Li
+  * Goals:
+    * Unity Game Engine (C#)
+      * Make a simple 2D game
+    * HTML / LaTex (Work on creating content for Zybooks)
+      * Keep up to date with my work
+      * Stay organized
+    * Web Dev (HTML, CSS, JavaScript)
+      * Make website for RoseHacks
+      * Continue with online class for web dev
+      * Update personal website and portfolio
+  * BONUS GOALS: 
+    * Ship my 2D game for either PC or Mobile
+
 * Cameron Morin
   * Goals:
     * Learn web development:
