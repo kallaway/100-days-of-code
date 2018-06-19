@@ -56,10 +56,15 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
       * Tensorflow
       * Deep Learning
     * Technical Interview prep(CodeFights, LeetCode, CodePath etc)
-
-
-
 * Jacob Poole
+  * Goals:
+     * Continue to update Websites
+        * IEEE Foothill Website
+        * China Website
+     * Go in depth to more CS fields
+     * Learn more about web development
+     * Learn more about embedded systems and what I can program
+     * Finish a big programming project this summer
 * James Luo
  * Goals:
     * Learn Unreal
