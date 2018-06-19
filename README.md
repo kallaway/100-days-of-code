@@ -123,8 +123,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob | James
 |:---|:---|:---|:---|:---|:---| :---|
-| What did you do today? | x | x | x | x | x | x |
-| Comments | x | x | x | x | x | x |
-| Link | x | x | x | x | x | x |
+| What did you do today? | x | My first day of work! Yayayay! I worked on learning how to write markup for .XML files. | x | x | x | x |
+| Comments | x | Soup after work is the best. | x | x | x | x |
+| Link | x | https://bit.ly/2qrUk7w | x | x | x | x |
 
 ---
