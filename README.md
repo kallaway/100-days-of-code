@@ -115,8 +115,17 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob | James
 |:---|:---|:---|:---|:---|:---| :---|
+| What did you do today? | x | x | x | x | x | reorganize soccer pong 's code |
+| Comments | x | x | x | x | x | put the code in an object orintation design for better reuse and to make it eaiser to setup multiplayer |
+| Link | x | x | x | x | x | [Soccer Pong](https://github.com/jluo117/SoccerPong)|
+
+---
+### Day 2: June 19, 2018
+
+| Notes | John | Wendy | Cameron | Jerry | Jacob | James
+|:---|:---|:---|:---|:---|:---| :---|
 | What did you do today? | x | x | x | x | x | x |
 | Comments | x | x | x | x | x | x |
-| Link | x | x | x | x | x | x |
+| Link | x | x | x | x | x | x|
 
 ---
