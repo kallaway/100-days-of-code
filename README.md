@@ -33,6 +33,19 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
     * [Fast Event Check In](https://github.com/JohnPhamous/fast-event-checkin)
     * [Claps](https://github.com/JohnPhamous/claps)
 * Wendingo Li
+  * Goals:
+    * Unity Game Engine (C#)
+      * Make a simple 2D game
+    * HTML / LaTex (Work on creating content for Zybooks)
+      * Keep up to date with my work
+      * Stay organized
+    * Web Dev (HTML, CSS, JavaScript)
+      * Make website for RoseHacks
+      * Continue with online class for web dev
+      * Update personal website and portfolio
+  * BONUS GOALS: 
+    * Ship my 2D game for either PC or Mobile
+
 * Cameron Morin
   * Goals:
     * Learn web development:
@@ -115,9 +128,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob | James
 |:---|:---|:---|:---|:---|:---| :---|
-| What did you do today? | x | x | x | x | x | reorganize soccer pong 's code |
-| Comments | x | x | x | x | x | put the code in an object orintation design for better reuse and to make it eaiser to setup multiplayer |
-| Link | x | x | x | x | x | [Soccer Pong](https://github.com/jluo117/SoccerPong)|
+| What did you do today? | x | My first day of work! Yayayay! I worked on learning how to write markup for .XML files. | x | x | x | reorganize soccer pong 's code |
+| Comments | x | Soup after work is the best. | x | x | x | put the code in an object orintation design for better reuse and to make it eaiser to setup multiplayer |
+| Link | x | https://bit.ly/2qrUk7w | x | x | x | [Soccer Pong](https://github.com/jluo117/SoccerPong) |
+
 
 ---
 ### Day 2: June 19, 2018
