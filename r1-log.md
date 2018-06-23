@@ -1,8 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Tirawi]
-
+# #100DaysOfCode - Log
 The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
 
-### Day 0: June 23, 2018
+- [100 Days Of Code - Log](#100-days-of-code---log)
+    - [Day 000: 2018-06-23](#day-000-2016-12-30)
+
+### Day 000: 2018-06-23
 
 **Today's Progress**: Solve Sum of Digits / Digital Root Toy Problem
 
