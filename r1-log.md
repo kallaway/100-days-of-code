@@ -2,10 +2,10 @@
 The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
 
 - [100 Days Of Code - Log](#100-days-of-code---log)
-    - [Day 000: 2018-06-23](#day-000-2018-06-23)
+    - [`Day 000: 2018-06-23`](#day-000-2018-06-23)
  
 
-### Day 000: 2018-06-23
+### `Day 000: 2018-06-23`
 
 **Today's Progress**: Solve Sum of Digits / Digital Root Toy Problem
 
