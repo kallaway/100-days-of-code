@@ -9,3 +9,6 @@ Completed four Pomodoros of work on the Baby Names Project for the Coursera spec
 
 ### R1D2 - June 25th, 2018
 Worked on the Baby Names Project for one hour, implemented tests cases for getting a name of the same rank than another given name, and another test case for getting the year in which a given name had the highest rank. Still thinking of implementing a UI to this thing. How would I apply Agile to this project if it is already ongoing?
+
+### R1D3 - June 26th, 2018
+Woke up late, only worked for 30 minutes on the Baby Names Project. Implemented a method for getting the average rank of a name in a given range of years. Learned how to round decimal numbers using BigDecimal as suggested by an answer provided by user593581 on a Stack Overflow question, here's the link: https://stackoverflow.com/questions/153724/how-to-round-a-number-to-n-decimal-places-in-java
