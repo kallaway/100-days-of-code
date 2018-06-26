@@ -4,6 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
 - [100 Days Of Code - Log](#100-days-of-code---log)
     - [`Day 000: 2018-06-23`](#day-000-2018-06-23)
     - [`Day 001: 2018-06-24`](#day-001-2018-06-24)
+    - [`Day 002: 2018-06-25`](#day-002-2018-06-25)
  
 
 ### `Day 000: 2018-06-23`
@@ -28,5 +29,19 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 [freeCodeCamp(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Tribute%20Page)
 
 [The CodePen pen](https://codepen.io/htirawi/pen/pWaxor)
+
+### `Day 002: 2018-06-25`
+
+**Today's Progress**: Start building freeCodeCamp Survey Form.
+
+:sparkles: :astonished: :sparkles:
+
+**Thoughts**: Working on [FCC](https://www.freecodecamp.org/htirawi) survey form is not that easy to make a form, I still face problems in responsive deisgn, I have to work more on them.
+
+**Link(s) to work**:
+
+[freeCodeCamp(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Survey-Form)
+
+[The CodePen pen](https://codepen.io/htirawi/pen/YvOzpX)
 
 
