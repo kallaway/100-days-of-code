@@ -12,3 +12,6 @@ Worked on the Baby Names Project for one hour, implemented tests cases for getti
 
 ### R1D3 - June 26th, 2018
 Woke up late, only worked for 30 minutes on the Baby Names Project. Implemented a method for getting the average rank of a name in a given range of years. Learned how to round decimal numbers using BigDecimal as suggested by an answer provided by user593581 on a Stack Overflow question, here's the link: https://stackoverflow.com/questions/153724/how-to-round-a-number-to-n-decimal-places-in-java
+
+### R1D4 - June 27th, 2018
+Woke up way too late today, so I didn't code at my usual hour which is 5:30 AM, will try to code later in the day. Last night I installed Tomcat, Maven and Eclipse for Java EE, and started learning about deploying web apps to deploy the Baby Names Project to the web.
