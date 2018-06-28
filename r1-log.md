@@ -6,6 +6,7 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
     - [`Day 001: 2018-06-24`](#day-001-2018-06-24)
     - [`Day 002: 2018-06-25`](#day-002-2018-06-25)
     - [`Day 003: 2018-06-26`](#day-003-2018-06-26)
+    - [`Day 004: 2018-06-27`](#day-003-2018-06-27)
  
 
 ### `Day 000: 2018-06-23`
@@ -57,5 +58,16 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 [freeCodeCamp(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Survey-Form)
 
 [The CodePen pen](https://codepen.io/htirawi/pen/YvOzpX)
+
+
+### `Day 004: 2018-06-27`
+
+**Today's Progress**: Finished basic javascript challenges.
+
+
+**Thoughts**: I finished basic javascript challneges on freeCodeCamp, I faced some difficulties in objects questions, I need to do more practice on them.
+**Link to work**:
+
+[freeCodeCamp](https://www.freecodecamp.org/htirawi)
 
 
