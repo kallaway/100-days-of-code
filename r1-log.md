@@ -15,3 +15,5 @@ Woke up late, only worked for 30 minutes on the Baby Names Project. Implemented 
 
 ### R1D4 - June 27th, 2018
 Woke up way too late today, so I didn't code at my usual hour which is 5:30 AM, will try to code later in the day. Last night I installed Tomcat, Maven and Eclipse for Java EE, and started learning about deploying web apps to deploy the Baby Names Project to the web.
+
+Finally worked on implementing the last test case of the Baby Names Project. Didn't take too long. Now I've got to start working on implementing the project as a web application. Or maybe I should start working on finishing the first module on Coursera, and then working on the project. We'll see.
