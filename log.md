@@ -96,3 +96,11 @@ Booklist now shows book covers from the OpenLibrary API.
 **Thoughts:** Need to work on the UX/UI
 
 **Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) | [Demo](http://bit.ly/2l5fBiG) ]
+
+---
+### Day 13: June 27th, 2018
+**Today's Progress:** Set up API with a very rough import function into a local sqlite3 database. The import function is really very rough. Will refactor later
+
+**Thoughts:**  Will investigate differences between local sqlite3 and Mongodb Atlas
+
+**Link to work:** [ [Github](http://bit.ly/2snBVYg) | [Gitlab](http://bit.ly/2H4F3NQ) | [Demo](http://bit.ly/2l5fBiG) ]
