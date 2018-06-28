@@ -7,6 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
     - [`Day 002: 2018-06-25`](#day-002-2018-06-25)
     - [`Day 003: 2018-06-26`](#day-003-2018-06-26)
     - [`Day 004: 2018-06-27`](#day-004-2018-06-27)
+    - [`Day 005: 2018-06-28`](#day-005-2018-06-28)
  
 
 ### `Day 000: 2018-06-23`
@@ -71,3 +72,12 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 [freeCodeCamp](https://www.freecodecamp.org/htirawi)
 
 
+### `Day 005: 2018-06-28`
+
+**Today's Progress**: Continue working on survey form.
+
+**Thoughts**: I feel that I don't accomplish as much as I want, but today was good since I start working on [Electron](https://electronjs.org/)
+ .
+**Link to work**:
+
+[freeCodeCamp(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Survey-Form)
