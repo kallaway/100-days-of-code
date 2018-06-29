@@ -8,6 +8,7 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
     - [`Day 003: 2018-06-26`](#day-003-2018-06-26)
     - [`Day 004: 2018-06-27`](#day-004-2018-06-27)
     - [`Day 005: 2018-06-28`](#day-005-2018-06-28)
+    - [`Day 006: 2018-06-29`](#day-006-2018-06-29)
  
 
 ### `Day 000: 2018-06-23`
@@ -81,3 +82,14 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 **Link to work**:
 
 [freeCodeCamp(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Survey-Form)
+
+
+### `Day 006: 2018-06-29`
+
+**Today's Progress**: I made HTML, JS page to add rows by clicking a button.
+
+**Thoughts**: It was good working on this one, because I asked this question during an interview. So I get familiar with this task.
+ .
+**Link to work**:
+
+[addRow (:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/dynmicallyAddRow)
