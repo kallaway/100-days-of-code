@@ -16,7 +16,7 @@
 
 **Link(s) to work**: [Portfolio Website WIP](https://jarededdy.wpengine.com/)
 
-### Day 2: June 29, 2018
+### Day 3: June 29, 2018
 
 **Today's Progress**: Created a project called MATH IS FUN! The goal of the project is to do one math problem a day by solving it with a javascript function. The goal being to improve both my math skills and functional programming. 
 
