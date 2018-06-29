@@ -15,3 +15,11 @@
 **Thoughts**: This was really fun when not building using restraints. No need to ask for permission on a color or particular style. I can just build and adapt. I should code for personal interest far more often, it feels good.
 
 **Link(s) to work**: [Portfolio Website WIP](https://jarededdy.wpengine.com/)
+
+### Day 2: June 29, 2018
+
+**Today's Progress**: Created a project called MATH IS FUN! The goal of the project is to do one math problem a day by solving it with a javascript function. The goal being to improve both my math skills and functional programming. 
+
+**Thoughts**: This should be a good daily warm up excercise that I can do long-term. It's short yet challenging and oddly satisfying when I get it right. Also this is a great opportunity to write unit tests for my math problems.
+
+**Link(s) to work**: [Github Repo](https://github.com/jaredgeddy/math-is-fun)
