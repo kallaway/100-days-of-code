@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 27, 2018 
+### Day 1: June 27, 2018 
 
 **Today's Progress**: Completed Basic HTML and HTML5 course on Free Code Camp.
 
@@ -8,7 +8,7 @@
 
 <!--- **Link to work:** [Calculator App](http://www.example.com)-->
 
-### Day 1: June 28, 2018
+### Day 2: June 28, 2018
 
 **Today's Progress**: Set-up and started development on my new portfolio website. I need a foundation to display my projects and this will be a good start. I'm not aiming for anything fancy, just clean, simple, and to the point.
 
