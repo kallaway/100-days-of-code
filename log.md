@@ -8,14 +8,13 @@
 
 <!--- **Link to work:** [Calculator App](http://www.example.com)-->
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: June 28, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Set-up and started development on my new portfolio website. I need a foundation to display my projects and this will be a good start. I'm not aiming for anything fancy, just clean, simple, and to the point.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: This was really fun when not building using restraints. No need to ask for permission on a color or particular style. I can just build and adapt. I should code for personal interest far more often, it feels good.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Portfolio Website WIP](https://jarededdy.wpengine.com/)
 
 
 ### Day 1: June 27, Monday
