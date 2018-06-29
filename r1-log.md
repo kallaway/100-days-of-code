@@ -89,7 +89,7 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 **Today's Progress**: I made HTML, JS page to add rows by clicking a button.
 
 **Thoughts**: It was good working on this one, because I asked this question during an interview. So I get familiar with this task.
- .
+
 **Link to work**:
 
 [addRow (:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/dynmicallyAddRow)
