@@ -105,5 +105,6 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 **Link to work**:
 
 [(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/colorGame)
+
 [(:fire:) The CodePen pen](https://codepen.io/htirawi/pen/ypEBqe)
 
