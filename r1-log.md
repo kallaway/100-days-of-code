@@ -93,7 +93,7 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 **Link to work**:
 
-[addRow (:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/dynmicallyAddRow)
+[(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/dynmicallyAddRow)
 
 
 ### `Day 007: 2018-06-30`
@@ -104,6 +104,6 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 **Link to work**:
 
-[addRow (:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/colorGame)
-[The CodePen pen (:fire:)](https://codepen.io/htirawi/pen/ypEBqe)
+[(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/colorGame)
+[(:fire:) The CodePen pen](https://codepen.io/htirawi/pen/ypEBqe)
 
