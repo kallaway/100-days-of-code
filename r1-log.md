@@ -9,6 +9,7 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
     - [`Day 004: 2018-06-27`](#day-004-2018-06-27)
     - [`Day 005: 2018-06-28`](#day-005-2018-06-28)
     - [`Day 006: 2018-06-29`](#day-006-2018-06-29)
+    - [`Day 007: 2018-06-30`](#day-007-2018-06-30)
  
 
 ### `Day 000: 2018-06-23`
@@ -93,3 +94,16 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 **Link to work**:
 
 [addRow (:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/dynmicallyAddRow)
+
+
+### `Day 007: 2018-06-30`
+
+**Today's Progress**: I made a color game from Colt Steele web developer bootcamp
+
+**Thoughts**: I enjoy designing this game with CSS, HTML and Javascript. it was nice learning how to combine these together to make something useful and looking good.
+
+**Link to work**:
+
+[addRow (:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/colorGame)
+[The CodePen pen (:fire:)](https://codepen.io/htirawi/pen/ypEBqe)
+
