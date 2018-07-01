@@ -20,3 +20,7 @@ Finally worked on implementing the last test case of the Baby Names Project. Did
 
 ### R1D5 - June 28th, 2018
 Felt a little bit drowzy when I woke up this morning. Coded anyways, changed a bunch of stuff, since the file loading for the class ListByYear. Implemented helper method to extract the year from the filename; also, implemented a method to load a file list by passing it a filename. Also implemented a method for loading a range of files by using a DirectoryResource. Finallly, implemented the last test case and changed previous tests to use the new methods, nothing broke. Going to start working with real implementation of code tomorrow.
+
+### R1D6 - June 30th, 2018
+
+Didn't code at all yesterday. But today coded for like 2 hours, completed at least Pomodoros of work without counting extra time invested without calculating it. Fixed a few implementation issues with getting the total girls, total boys and total overall, since I didn't count the total names but the size of the ArrayList, then had to implement again a code that did just that for one of the test cases. Finished the end of module Quizz for the first module of the Coursera Java Specialization, and now I'm thinking about implementing the Extend Your Program suggestions and the optional Honors Content before moving on to course 2.
