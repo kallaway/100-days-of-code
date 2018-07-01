@@ -10,6 +10,7 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
     - [`Day 005: 2018-06-28`](#day-005-2018-06-28)
     - [`Day 006: 2018-06-29`](#day-006-2018-06-29)
     - [`Day 007: 2018-06-30`](#day-007-2018-06-30)
+    - [`Day 008: 2018-07-01`](#day-008-2018-07-01)
  
 
 ### `Day 000: 2018-06-23`
@@ -108,3 +109,11 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 [(:fire:) The CodePen pen](https://codepen.io/htirawi/pen/ypEBqe)
 
+
+### `Day 008: 2018-07-01`
+
+**Today's Progress**: Solve Filter Palindrome Toy Problem
+
+**Thoughts:** I practice coding through solve a toy ptoblem to find only palindrome words and return them in a new array.
+
+**Link to work:** [Palindromes Filter](https://github.com/htirawi/FCC-Projects/blob/master/ToyProblems/palindromesFilter.js)
