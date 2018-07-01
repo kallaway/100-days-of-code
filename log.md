@@ -30,5 +30,5 @@
 
 **Thoughts**: I need to gather showcase work and determine how I'll showcase code projects. Possibly titles, but It would be cool to have some sort of graphical element.
 
-**Link(s) to work**: [Github Repo](https://github.com/jaredgeddy/math-is-fun)
-**Link(s) to work**: [Portfolio Website WIP](https://jarededdy.io/)
+**Link(s) to work**: [Github Repo](https://github.com/jaredgeddy/math-is-fun)<br>
+                     [Portfolio Website WIP](https://jarededdy.io/)
