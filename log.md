@@ -36,6 +36,6 @@
 
 **Today's Progress**: Took yesterday's holiday off for Canada Day. Today I was able to create work preview cards with a slide down hover effect for project details.
 
-**Thoughts**: I'm finding a lot of inspiration from this person's portfolio site: [See their portfolio](https://caferati.me/) I'm liking my progress on this project. I think I should build most of my own functionality using js/php rather than usign plugins for everything. It will grow my skills more and it will keep my site lighter weight.
+**Thoughts**: I'm finding a lot of inspiration from this person's portfolio site: [See their portfolio](https://caferati.me/) I'm liking my progress on this project. I think I should build most of my own functionality using js/php rather than using plugins for everything. It will grow my skills more and it will keep my site lighter weight.
 
 **Link(s) to work**: [Github Repo](https://github.com/jaredgeddy/math-is-fun) |  [Portfolio Website WIP](https://jarededdy.io/)
