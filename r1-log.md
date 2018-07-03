@@ -24,3 +24,7 @@ Felt a little bit drowzy when I woke up this morning. Coded anyways, changed a b
 ### R1D6 - June 30th, 2018
 
 Didn't code at all yesterday. But today coded for like 2 hours, completed at least Pomodoros of work without counting extra time invested without calculating it. Fixed a few implementation issues with getting the total girls, total boys and total overall, since I didn't count the total names but the size of the ArrayList, then had to implement again a code that did just that for one of the test cases. Finished the end of module Quizz for the first module of the Coursera Java Specialization, and now I'm thinking about implementing the Extend Your Program suggestions and the optional Honors Content before moving on to course 2.
+
+### R1D7 - July 2nd, 2018
+
+Didn't code yesterday because I had a family day, and coded only a little bit today because it was my wife's birthday. Anyways, starting working on the honorary project for the first course of the Java Specialization, which is a Grayscale image converter.
