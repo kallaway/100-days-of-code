@@ -11,6 +11,8 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
     - [`Day 006: 2018-06-29`](#day-006-2018-06-29)
     - [`Day 007: 2018-06-30`](#day-007-2018-06-30)
     - [`Day 008: 2018-07-01`](#day-008-2018-07-01)
+    - [`Day 009: 2018-07-02`](#day-009-2018-07-02)
+    - [`Day 010: 2018-07-03`](#day-010-2018-07-03)
  
 
 ### `Day 000: 2018-06-23`
@@ -117,3 +119,24 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 **Thoughts:** I practice coding through solve a toy ptoblem to find only palindrome words and return them in a new array.
 
 **Link to work:** [Palindromes Filter](https://github.com/htirawi/FCC-Projects/blob/master/ToyProblems/palindromesFilter.js)
+
+
+### `Day 009: 2018-07-02`
+
+**Today's Progress**: Start working on toDoList design using JQuery, CSS and Javascript
+
+**Thoughts:** I start working on front end design for a toDoList. It's a good experience start working on JQuery.
+
+**Link to work:** 
+
+[(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/toDoList)
+
+### `Day 010: 2018-07-03`
+
+**Today's Progress**: I complete the work on toDoList and adding the JavaScript code for it.
+
+**Thoughts:** I gain a good knowledge on how to ude dom and how to add events handler for pages.
+
+**Link to work:** 
+
+[(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/toDoList)
