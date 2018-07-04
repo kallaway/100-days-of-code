@@ -28,3 +28,7 @@ Didn't code at all yesterday. But today coded for like 2 hours, completed at lea
 ### R1D7 - July 2nd, 2018
 
 Didn't code yesterday because I had a family day, and coded only a little bit today because it was my wife's birthday. Anyways, starting working on the honorary project for the first course of the Java Specialization, which is a Grayscale image converter.
+
+### R1D8 - July 3rd, 2018
+
+Started working on the Batch Grayscale Converter for the honorary project on the first module of Java Specialization on Coursera. Images are being converted but not saved to disk yet. I'm a bit worried because I'm waking up later each morning and I don't like coding in the nights because I feel like I wasted my day.
