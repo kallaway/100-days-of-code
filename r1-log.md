@@ -36,3 +36,7 @@ Started working on the Batch Grayscale Converter for the honorary project on the
 ### R1D9 - July 4th, 2018
 
 Finished implementing grayscale Image conversion.
+
+### R1D10 - July 5th, 2018
+
+Finally completed the first course of the Coursera Java Specialization. Last project consisted in creating a program for converting images to Grayscale and Inverting their colors. Thinking about creating a super class for image operations and making the grayscale converter and image inverter subclasses of this one. I'm really excited.
