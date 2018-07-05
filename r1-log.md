@@ -32,3 +32,7 @@ Didn't code yesterday because I had a family day, and coded only a little bit to
 ### R1D8 - July 3rd, 2018
 
 Started working on the Batch Grayscale Converter for the honorary project on the first module of Java Specialization on Coursera. Images are being converted but not saved to disk yet. I'm a bit worried because I'm waking up later each morning and I don't like coding in the nights because I feel like I wasted my day.
+
+### R1D9 - July 4th, 2018
+
+Finished implementing grayscale Image conversion.
