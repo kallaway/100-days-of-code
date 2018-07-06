@@ -40,3 +40,7 @@ Finished implementing grayscale Image conversion.
 ### R1D10 - July 5th, 2018
 
 Finally completed the first course of the Coursera Java Specialization. Last project consisted in creating a program for converting images to Grayscale and Inverting their colors. Thinking about creating a super class for image operations and making the grayscale converter and image inverter subclasses of this one. I'm really excited.
+
+### R1D11 - July 6th, 2018
+
+Started with the Course 2 of the Java Specialization, didn't code today, the lesson was not particularly hard, but so far only theory has been given about the Caesar Cipher algorithm as well as testing some pieces of code by hand.
