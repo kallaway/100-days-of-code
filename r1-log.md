@@ -15,6 +15,7 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
     - [`Day 010: 2018-07-03`](#day-010-2018-07-03)
     - [`Day 011: 2018-07-05`](#day-011-2018-07-05)
     - [`Day 012: 2018-07-06`](#day-012-2018-07-06)
+    - [`Day 013: 2018-07-07`](#day-013-2018-07-07)
  
 
 ### `Day 000: 2018-06-23`
@@ -23,7 +24,9 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
 
 **Thoughts:** I really struggled with recursion, but, overall, I feel like I am slowly getting better at it. recursion is still hard to deal with for me, but I am sure that I will master it.
 
-**Link to work:** [Digital Root](https://github.com/htirawi/CoderbytePractice/blob/master/digitalRoot.js)
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/CoderbytePractice/blob/master/digitalRoot.js)
 
 
 ### `Day 001: 2018-06-24`
@@ -36,9 +39,10 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 **Link(s) to work**:
 
-[freeCodeCamp(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Tribute%20Page)
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Tribute%20Page)
 
-[The CodePen pen](https://codepen.io/htirawi/pen/pWaxor)
+[(:fire:) The CodePen pen](https://codepen.io/htirawi/pen/pWaxor)
+
 
 ### `Day 002: 2018-06-25`
 
@@ -50,9 +54,9 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 **Link(s) to work**:
 
-[freeCodeCamp(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Survey-Form)
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Survey-Form)
 
-[The CodePen pen](https://codepen.io/htirawi/pen/YvOzpX)
+[(:fire:) The CodePen pen](https://codepen.io/htirawi/pen/YvOzpX)
 
 
 ### `Day 003: 2018-06-26`
@@ -61,11 +65,12 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 
 **Thoughts**: I am still building the survey, okay I am working but still didn't make that good progress.
+
 **Link(s) to work**:
 
-[freeCodeCamp(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Survey-Form)
+[(:fire:) Repo on GitHub] (https://github.com/htirawi/FCC-Projects/tree/master/Survey-Form)
 
-[The CodePen pen](https://codepen.io/htirawi/pen/YvOzpX)
+[(:fire:) The CodePen pen](https://codepen.io/htirawi/pen/YvOzpX)
 
 
 ### `Day 004: 2018-06-27`
@@ -74,7 +79,8 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 
 **Thoughts**: I finished basic javascript challneges on freeCodeCamp, I faced some difficulties in objects questions, I need to do more practice on them.
-**Link to work**:
+
+**Link(s) to work**:
 
 [freeCodeCamp](https://www.freecodecamp.org/htirawi)
 
@@ -84,10 +90,10 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 **Today's Progress**: Continue working on survey form.
 
 **Thoughts**: I feel that I don't accomplish as much as I want, but today was good since I start working on [Electron](https://electronjs.org/)
- .
-**Link to work**:
 
-[freeCodeCamp(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Survey-Form)
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/Survey-Form)
 
 
 ### `Day 006: 2018-06-29`
@@ -96,9 +102,9 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 **Thoughts**: It was good working on this one, because I asked this question during an interview. So I get familiar with this task.
 
-**Link to work**:
+**Link(s) to work**:
 
-[(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/dynmicallyAddRow)
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/dynmicallyAddRow)
 
 
 ### `Day 007: 2018-06-30`
@@ -107,9 +113,9 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 **Thoughts**: I enjoy designing this game with CSS, HTML and Javascript. it was nice learning how to combine these together to make something useful and looking good.
 
-**Link to work**:
+**Link(s) to work**:
 
-[(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/colorGame)
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/colorGame)
 
 [(:fire:) The CodePen pen](https://codepen.io/htirawi/pen/ypEBqe)
 
@@ -120,7 +126,9 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 **Thoughts:** I practice coding through solve a toy ptoblem to find only palindrome words and return them in a new array.
 
-**Link to work:** [Palindromes Filter](https://github.com/htirawi/FCC-Projects/blob/master/ToyProblems/palindromesFilter.js)
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/blob/master/ToyProblems/palindromesFilter.js)
 
 
 ### `Day 009: 2018-07-02`
@@ -129,9 +137,9 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 **Thoughts:** I start working on front end design for a toDoList. It's a good experience start working on JQuery.
 
-**Link to work:** 
+**Link(s) to work**:
 
-[(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/toDoList)
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/toDoList)
 
 ### `Day 010: 2018-07-03`
 
@@ -139,16 +147,19 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 **Thoughts:** I gain a good knowledge on how to ude dom and how to add events handler for pages.
 
-**Link to work:** 
+**Link(s) to work**: 
 
-[(:fire:) repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/toDoList)
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/toDoList)
 
 ### `Day 011: 2018-07-05`
 
 **Today's Progress**: Solve 3 problems in codewars site.
 
 **Thoughts:** I practice coding at codewars website and solve 3 problems ( removeVowels, positiveSummation and smallest integer).
-**Link to work:** [Github Repo](https://github.com/htirawi/CoderbytePractice)
+
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/CoderbytePractice)
 
 
 ### `Day 012: 2018-07-06`
@@ -156,4 +167,21 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 **Today's Progress**: Solve 2 problems in codewars site.
 
 **Thoughts:** I continue practicing code at codewars website and solve 2 problems ( numbling and oppositeNumber).
-**Link to work:** [Github Repo](https://github.com/htirawi/CoderbytePractice)
+
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/CoderbytePractice)
+
+
+### `Day 013: 2018-07-07`
+
+**Today's Progress**: I made responsive images page using CSS.
+
+**Thoughts**: I include images links and make a page responisive using only css.
+
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/imageResponsive)
+
+[(:fire:) The CodePen pen](https://codepen.io/htirawi/pen/gKVXKm)
+
