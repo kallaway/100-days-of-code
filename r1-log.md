@@ -14,6 +14,7 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
     - [`Day 009: 2018-07-02`](#day-009-2018-07-02)
     - [`Day 010: 2018-07-03`](#day-010-2018-07-03)
     - [`Day 011: 2018-07-05`](#day-011-2018-07-05)
+    - [`Day 012: 2018-07-06`](#day-012-2018-07-06)
  
 
 ### `Day 000: 2018-06-23`
@@ -149,3 +150,10 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 **Thoughts:** I practice coding at codewars website and solve 3 problems ( removeVowels, positiveSummation and smallest integer).
 **Link to work:** [Github Repo](https://github.com/htirawi/CoderbytePractice)
 
+
+### `Day 012: 2018-07-06`
+
+**Today's Progress**: Solve 2 problems in codewars site.
+
+**Thoughts:** I continue practicing code at codewars website and solve 2 problems ( numbling and oppositeNumber).
+**Link to work:** [Github Repo](https://github.com/htirawi/CoderbytePractice)
