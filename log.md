@@ -39,3 +39,11 @@
 **Thoughts**: I'm finding a lot of inspiration from this person's portfolio site: [See their portfolio](https://caferati.me/) I'm liking my progress on this project. I think I should build most of my own functionality using js/php rather than using plugins for everything. It will grow my skills more and it will keep my site lighter weight.
 
 **Link(s) to work**: [Github Repo](https://github.com/jaredgeddy/math-is-fun) |  [Portfolio Website WIP](https://jarededdy.io/)
+
+### Day 6: July 8, 2018
+
+**Today's Progress**: I fixed the "Design" and "Development" nav tabs so they were appropriately sized. I added centered and styled tags to info in the hover drop down. I also added a functional newsletter sign-up form to my website and linked it to my mailchimp account.
+
+**Thoughts**: I got distracted by vacation and the holidays. It's easy to just not do it but I want to see this challenge through and am beginning as if I'd never taken a day off. While it is challenging to find the time everyday to work on my own stuff it feels so worth it at the end. Also, it feels great to be able to do creative work without worrying about someone else's opinion. It feels good to work on something for myself rather than just pumping out business websites like a machine.
+
+**Link(s) to work**: [Github Repo](https://github.com/jaredgeddy/math-is-fun) |  [Portfolio Website WIP](https://jarededdy.io/)
