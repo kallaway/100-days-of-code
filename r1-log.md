@@ -46,3 +46,7 @@ Finally completed the first course of the Coursera Java Specialization. Last pro
 Started with the Course 2 of the Java Specialization, didn't code today, the lesson was not particularly hard, but so far only theory has been given about the Caesar Cipher algorithm as well as testing some pieces of code by hand.
 
 Spent 20 minutes learning about Spring Framework.
+
+### R1D12 - July 8th, 2018
+
+Didn't code yesterday but spent all day modifying my CV because it was not appropiate for a developer Resume. Today didn't track how much I coded but I think I spent more than one hour coding. Started implementing the algorithm for shifting the alphabet to make the Caesar Cipher.
