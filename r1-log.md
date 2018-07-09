@@ -50,3 +50,7 @@ Spent 20 minutes learning about Spring Framework.
 ### R1D12 - July 8th, 2018
 
 Didn't code yesterday but spent all day modifying my CV because it was not appropiate for a developer Resume. Today didn't track how much I coded but I think I spent more than one hour coding. Started implementing the algorithm for shifting the alphabet to make the Caesar Cipher.
+
+### R1D13 - July 9th, 2018
+
+Worked on the Caesar Cipher program for an hour. Finished implementing all test cases and some working examples, tomorrow I'm going to complete the quizz and finish with the first week of the course. If I have to finish the course quickly, how am I supposed to work on the projects I want to work on?
