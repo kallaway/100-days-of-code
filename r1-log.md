@@ -16,6 +16,10 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
     - [`Day 011: 2018-07-05`](#day-011-2018-07-05)
     - [`Day 012: 2018-07-06`](#day-012-2018-07-06)
     - [`Day 013: 2018-07-07`](#day-013-2018-07-07)
+    - [`Day 014: 2018-07-08`](#day-014-2018-07-08)
+    - [`Day 015: 2018-07-09`](#day-015-2018-07-09)
+    - [`Day 016: 2018-07-10`](#day-016-2018-07-10)
+
  
 
 ### `Day 000: 2018-06-23`
@@ -185,3 +189,37 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 [(:fire:) The CodePen pen](https://codepen.io/htirawi/pen/gKVXKm)
 
+### `Day 014: 2018-07-08`
+
+**Today's Progress**: I practice on [FCC](https://www.freecodecamp.org/htirawi) to finish applied visiual design section.
+
+**Thoughts**: I enjoy this section and I learned a lot of new concepts.
+
+**Link(s) to work**:
+
+[(:fire:) freeCodeCamp](https://www.freecodecamp.org/htirawi)
+
+
+### `Day 015: 2018-07-09`
+
+**Today's Progress**: I continue practicing on [FCC](https://www.freecodecamp.org/htirawi) to finish applied visiual design section.
+
+**Thoughts**: I learned more and more of new concepts about how to size fonts and to play with text and decorate it.
+
+**Link(s) to work**:
+
+[(:fire:) freeCodeCamp](https://www.freecodecamp.org/htirawi)
+
+
+
+### `Day 016: 2018-07-10`
+
+**Today's Progress**: I finished applied visiual design section and solve toy problem on codewars.
+
+**Thoughts**: I get a huge benifit from this section and how to add animation to my page and play with colors and design.
+
+**Link(s) to work**:
+
+[(:fire:) freeCodeCamp](https://www.freecodecamp.org/htirawi)
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/CoderbytePractice)
