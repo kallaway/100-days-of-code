@@ -47,3 +47,11 @@
 **Thoughts**: I got distracted by vacation and the holidays. It's easy to just not do it but I want to see this challenge through and am beginning as if I'd never taken a day off. While it is challenging to find the time everyday to work on my own stuff it feels so worth it at the end. Also, it feels great to be able to do creative work without worrying about someone else's opinion. It feels good to work on something for myself rather than just pumping out business websites like a machine.
 
 **Link(s) to work**: [Github Repo](https://github.com/jaredgeddy/math-is-fun) |  [Portfolio Website WIP](https://jarededdy.io/)
+
+### Day 7: July 9, 2018
+
+**Today's Progress**: I created a subtle website background. I changed the green highlight color to a bright blue because it resonated with me more. I also polished the newsletter sign-up and my header/footer.
+
+**Thoughts**: Things are coming along nicely. I'm happy with the progress and how it looks. I'll be adding work to the site soon as well as creating a single post page for displaying work. I'll likely have a designed layout for the design work and a codepen injection for the development work.
+
+**Link(s) to work**: [Github Repo](https://github.com/jaredgeddy/math-is-fun) |  [Portfolio Website WIP](https://jarededdy.io/)
