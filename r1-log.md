@@ -214,7 +214,7 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 ### `Day 016: 2018-07-10`
 
-**Today's Progress**: I finished applied visiual design section and solve toy problem on codewars.
+**Today's Progress**: I finished applied visiual design section and solve toy problem on [codewars](https://www.codewars.com/users/htirawi) .
 
 **Thoughts**: I get a huge benifit from this section and how to add animation to my page and play with colors and design.
 
