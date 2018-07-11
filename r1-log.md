@@ -54,3 +54,11 @@ Didn't code yesterday but spent all day modifying my CV because it was not appro
 ### R1D13 - July 9th, 2018
 
 Worked on the Caesar Cipher program for an hour. Finished implementing all test cases and some working examples, tomorrow I'm going to complete the quizz and finish with the first week of the course. If I have to finish the course quickly, how am I supposed to work on the projects I want to work on?
+
+### R1D14 - July 10th, 2018
+
+Watched some videos explaing the basic concepts of Spring Framework. Didn't code today.
+
+### R1D15 - July 11th, 2018
+
+Finished working on the first week of the second course, passed the quizz with 100% score. Moving on to week two. PS: Don't know how I survived this long without TDD.
