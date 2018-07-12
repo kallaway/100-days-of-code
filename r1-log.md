@@ -62,3 +62,7 @@ Watched some videos explaing the basic concepts of Spring Framework. Didn't code
 ### R1D15 - July 11th, 2018
 
 Finished working on the first week of the second course, passed the quizz with 100% score. Moving on to week two. PS: Don't know how I survived this long without TDD.
+
+### R1D16 - July 12th, 2018
+
+Continued with week 2 of the Coursera course. Coded a little bit, watched some videos, nothing fancy nor complicated. Learned how to use git diff --cached to check the differences of the files I have added to my repo.
