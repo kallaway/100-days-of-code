@@ -65,4 +65,4 @@ Finished working on the first week of the second course, passed the quizz with 1
 
 ### R1D16 - July 12th, 2018
 
-Continued with week 2 of the Coursera course. Coded a little bit, watched some videos, nothing fancy nor complicated.
+Continued with week 2 of the Coursera course. Coded a little bit, watched some videos, nothing fancy nor complicated. Learned how to use git diff --cached to check the differences of the files I have added to my repo.
