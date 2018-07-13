@@ -66,3 +66,7 @@ Finished working on the first week of the second course, passed the quizz with 1
 ### R1D16 - July 12th, 2018
 
 Continued with week 2 of the Coursera course. Coded a little bit, watched some videos, nothing fancy nor complicated. Learned how to use git diff --cached to check the differences of the files I have added to my repo.
+
+### R1D17 - July 13th, 2018
+
+Last night I watched some more videos about Spring Framework, just learning theory for now. Today I implemented a decryption method in the class CaesarCipher. And yesterday I realized that I'm not on week 2 of the course, but on the second part of the first week. Anyways, I've reached the end of module quizz so week 2 will start on monday.
