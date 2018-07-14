@@ -23,6 +23,8 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
 - [`Day 018: 2018-07-11`](#day-018-2018-07-11)
 - [`Day 019: 2018-07-12`](#day-019-2018-07-12)
 - [`Day 020: 2018-07-13`](#day-020-2018-07-13)
+- [`Day 021: 2018-07-14`](#day-021-2018-07-14)
+
 
 
 
@@ -268,3 +270,22 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 **Link(s) to work**:
 
 [(:fire:) Repo on GitHub](https://github.com/htirawi/htirawi.github.io)
+
+### `Day 021: 2018-07-14`
+
+**Today's Progress**: I finished two sections in [freeCodeCamp](https://www.freecodecamp.org/htirawi), I become closer to achieve my goal of getting the first certificate, and also I solved two problems at [HackerRank](https://www.hackerrank.com/DevHus), and I wrote a class for stack and another one for queue in Java.
+
+
+**Thoughts**: I feel very great for my progress and practicing for today, I faced some problems in Stack and Queue but I beat them.
+
+**Link(s) to work**:
+
+[(:fire:) Stack](https://github.com/htirawi/Java_DataStructures/blob/master/Stack.java)
+[(:fire:) Queue](https://github.com/htirawi/Java_DataStructures/blob/master/Queue.java)
+[(:fire:) freeCodeCamp](https://www.freecodecamp.org/htirawi)
+[(:fire:) HackerRank](https://www.hackerrank.com/DevHus)
+
+
+
+
+
