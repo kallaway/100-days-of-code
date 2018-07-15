@@ -24,6 +24,7 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
 - [`Day 019: 2018-07-12`](#day-019-2018-07-12)
 - [`Day 020: 2018-07-13`](#day-020-2018-07-13)
 - [`Day 021: 2018-07-14`](#day-021-2018-07-14)
+- [`Day 022: 2018-07-15`](#day-022-2018-07-15)
 
 
 
@@ -289,3 +290,12 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 
 
+### `Day 012: 2018-07-15`
+
+**Today's Progress**: I start working on CSS Flexbox in [freeCodeCamp](https://www.freecodecamp.org/htirawi).
+
+**Thoughts**: I planned to learn flexbox from a while and I each time I postponed, so now I start learning it through FCC.
+
+**Link(s) to work**:
+
+[(:fire:) freeCodeCamp](https://www.freecodecamp.org/htirawi)
