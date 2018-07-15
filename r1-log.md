@@ -70,3 +70,7 @@ Continued with week 2 of the Coursera course. Coded a little bit, watched some v
 ### R1D17 - July 13th, 2018
 
 Last night I watched some more videos about Spring Framework, just learning theory for now. Today I implemented a decryption method in the class CaesarCipher. And yesterday I realized that I'm not on week 2 of the course, but on the second part of the first week. Anyways, I've reached the end of module quizz so week 2 will start on monday.
+
+### R1D18-19 - July 14th, 15th, 2018
+
+I have been coding for like six hours straight since 11:00 PM, it's now 5:28 AM, so I'll count this as two days. Working to solve a weird bug when trying to encrypt using two keys, solved it and I want to take a rest for the rest of the day. Finally going to reach week 2.
