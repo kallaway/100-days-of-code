@@ -78,3 +78,7 @@ I have been coding for like six hours straight since 11:00 PM, it's now 5:28 AM,
 ### R1D20 - July 16th, 2018
 
 Implemented final piece of code for encrypting and decrypting a message using two simple keys. Noticed that a piece of code I thought was badly written was actually not that bad. Reached the end of module quizz but I'll be taking it tomorrow. Also watched more videos that explained things about Spring
+
+### R1D21 - July 17th, 2018
+
+Well, no coding today, just took the end of week 1 quizz. Watched the introduction video for week 2, it looks like this will be a fun project to work with.
