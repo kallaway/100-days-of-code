@@ -25,7 +25,8 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
 - [`Day 020: 2018-07-13`](#day-020-2018-07-13)
 - [`Day 021: 2018-07-14`](#day-021-2018-07-14)
 - [`Day 022: 2018-07-15`](#day-022-2018-07-15)
-
+- [`Day 023: 2018-07-16`](#day-023-2018-07-16)
+- [`Day 024: 2018-07-17`](#day-024-2018-07-17)
 
 
 
@@ -290,7 +291,18 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 
 
-### `Day 012: 2018-07-15`
+### `Day 022: 2018-07-15`
+
+**Today's Progress**: I start working on CSS Page to practice bootstrap4.
+
+**Thoughts**: I start pracrice more on Boothstra4, and learn how to be with page to make it responsive.
+
+**Link(s) to work**:
+
+[(:fire:) freeCodeCamp](https://www.freecodecamp.org/htirawi)
+
+
+### `Day 023: 2018-07-16`
 
 **Today's Progress**: I start working on CSS Flexbox in [freeCodeCamp](https://www.freecodecamp.org/htirawi).
 
@@ -298,4 +310,16 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 **Link(s) to work**:
 
-[(:fire:) freeCodeCamp](https://www.freecodecamp.org/htirawi)
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects)
+
+
+
+### `Day 024: 2018-07-17`
+
+**Today's Progress**: I continue my work on CSS page, and I finished it :D .
+
+**Thoughts**: It was amazing experience start practicing bootstrap4, I learn a lot about it and learn how to deal with its components.
+
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects)
