@@ -82,3 +82,7 @@ Implemented final piece of code for encrypting and decrypting a message using tw
 ### R1D21 - July 17th, 2018
 
 Well, no coding today, just took the end of week 1 quizz. Watched the introduction video for week 2, it looks like this will be a fun project to work with.
+
+### R1D22-23 - July 19th, 2018
+
+Yesterday I spent the day learning about applying design patterns to TDD and how to implement Money pattern with multi currency because I want to use it for something I did at work. Today I continued advancing with week two of the Coursera specialization.
