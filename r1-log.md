@@ -86,3 +86,7 @@ Well, no coding today, just took the end of week 1 quizz. Watched the introducti
 ### R1D22-23 - July 19th, 2018
 
 Yesterday I spent the day learning about applying design patterns to TDD and how to implement Money pattern with multi currency because I want to use it for something I did at work. Today I continued advancing with week two of the Coursera specialization.
+
+### R1D24 - July 20th, 2018
+
+Reached end of the first half of week 2 for the Coursera specialization. Yesterday I was practicing how to implement an immutable stack and some more design patterns for TDD. Also started working on implementing Money pattern in a program I made at work because I think that would help me process fields with currencies a lot easier.
