@@ -27,6 +27,12 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
 - [`Day 022: 2018-07-15`](#day-022-2018-07-15)
 - [`Day 023: 2018-07-16`](#day-023-2018-07-16)
 - [`Day 024: 2018-07-17`](#day-024-2018-07-17)
+- [`Day 025: 2018-07-18`](#day-025-2018-07-18)
+- [`Day 026: 2018-07-19`](#day-026-2018-07-19)
+- [`Day 027: 2018-07-20`](#day-027-2018-07-20)
+- [`Day 028: 2018-07-21`](#day-028-2018-07-21)
+- [`Day 029: 2018-07-22`](#day-029-2018-07-22)
+
 
 
 
@@ -323,3 +329,46 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 **Link(s) to work**:
 
 [(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects)
+
+### `Day 025: 2018-07-18`
+
+**Today's Progress**: I Start by [freeCodeCamp](https://www.freecodecamp.org/htirawi) FlexBox section .
+
+**Thoughts**: I practice on how to use Flexbox.
+
+**Link(s) to work**:
+
+[(:fire:) freeCodeCamp](https://www.freecodecamp.org/htirawi)
+
+### `Day 026: 2018-07-19`
+
+**Today's Progress**: I continue my work on Flexbox section .
+
+**Thoughts**: I am getting closer to get my Responsive Web Design Certification.
+
+**Link(s) to work**:
+
+[(:fire:) freeCodeCamp](https://www.freecodecamp.org/htirawi)
+
+### `Day 027: 2018-07-20`
+
+**Today's Progress**: I Finished Flexbox section, and also I finished first section of [Data Structures for Coding Interviews in Java](https://www.educative.io/collection/5642554087309312/5724822843686912) .
+
+**Thoughts**: I am very happy because I finished Flexbox and start learning something new which is Data Structures.
+
+**Link(s) to work**:
+
+[(:fire:) freeCodeCamp](https://www.freecodecamp.org/htirawi)
+[(:fire:) educative.io](https://www.educative.io/collection/5642554087309312/5724822843686912)
+
+
+### `Day 028: 2018-07-21`
+
+**Today's Progress**: I finished Day1 of Wes Bos [30 Days Vanilla JS](https://javascript30.com/) .
+
+**Thoughts**: I get an amazing knowledge of events and how to use them in pure JavaScript, and also how to build a page with audio and some animation through CSS.
+
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/JS30/D1)
+
