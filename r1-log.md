@@ -90,3 +90,7 @@ Yesterday I spent the day learning about applying design patterns to TDD and how
 ### R1D24 - July 20th, 2018
 
 Reached end of the first half of week 2 for the Coursera specialization. Yesterday I was practicing how to implement an immutable stack and some more design patterns for TDD. Also started working on implementing Money pattern in a program I made at work because I think that would help me process fields with currencies a lot easier.
+
+### R1D25 - July 21st, 2018
+
+Completed first half of week 2 on the Coursera specialization. Yesterday I changed the Money class to use a BigDecimal instead of an int, found a weird bug which took me hours to figure out, but in the end I solved it. Remember int == int, but BigDecimal.equals(BigDecimal), BigDecimal == BigDecimal compares references instead of the values stored.
