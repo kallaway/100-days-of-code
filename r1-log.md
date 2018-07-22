@@ -94,3 +94,7 @@ Reached end of the first half of week 2 for the Coursera specialization. Yesterd
 ### R1D25 - July 21st, 2018
 
 Completed first half of week 2 on the Coursera specialization. Yesterday I changed the Money class to use a BigDecimal instead of an int, found a weird bug which took me hours to figure out, but in the end I solved it. Remember int == int, but BigDecimal.equals(BigDecimal), BigDecimal == BigDecimal compares references instead of the values stored.
+
+### R1D26 - July 22nd, 2018
+
+Continued advancing week 2 of the coursera Java Specialization, almost completed all assignments for week 2 in one day. Improved the code for some of the past exercises to use HashMaps instead of ArrayList.
