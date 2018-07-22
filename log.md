@@ -11,3 +11,7 @@ Let's see how well it works.
  Haven't slept yet. Pretty damned jazzed. Made it through 148 / 1408 coding challenges today.
  Mostly basic review. A few golden nuggets though.
  Sincerely hoping to get some real applications finished during this 100 day challenge thing.
+
+Having read the rules closer::
+This, is day zero (0), and I have no issues with having just done tutorial reviews. 
+My coding path begins tomorrow, with a project I have been putting off for far to long.
