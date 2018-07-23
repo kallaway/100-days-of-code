@@ -98,3 +98,9 @@ Completed first half of week 2 on the Coursera specialization. Yesterday I chang
 ### R1D26 - July 22nd, 2018
 
 Continued advancing week 2 of the coursera Java Specialization, almost completed all assignments for week 2 in one day. Improved the code for some of the past exercises to use HashMaps instead of ArrayList.
+
+### R1D27 - July 23rd, 2018
+
+Started working on a class to determine which words occur in the greatest number of files, and for each word, which files they occur in. This is part of the assignment for the end of week 2 on the Coursera Java Specialization.
+
+I did not feel quite productive today, I feel a bit drowzy but pushed through anyways. Working on the assignment for the end of week 2. Hope to feel more into it tomorrow.
