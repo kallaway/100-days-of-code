@@ -32,6 +32,8 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Saturday, 2018].
 - [`Day 027: 2018-07-20`](#day-027-2018-07-20)
 - [`Day 028: 2018-07-21`](#day-028-2018-07-21)
 - [`Day 029: 2018-07-22`](#day-029-2018-07-22)
+- [`Day 030: 2018-07-23`](#day-030-2018-07-23)
+- [`Day 031: 2018-07-24`](#day-031-2018-07-24)
 
 
 
@@ -372,3 +374,33 @@ Start learning about [Electron](https://electronjs.org/) Framework :sparkles: :a
 
 [(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/JS30/D1)
 
+
+### `Day 029: 2018-07-22`
+
+**Today's Progress**: I finished Day1 of Wes Bos [30 Days Vanilla JS](https://javascript30.com/) .
+
+**Thoughts**: I get an amazing knowledge of events and how to use them in pure JavaScript, and also how to build a page with audio and some animation through CSS.
+
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/FCC-Projects/tree/master/JS30/D1)
+
+### `Day 030: 2018-07-23`
+
+**Today's Progress**: I start IQ and pattern tests and solve nthFibonacci toy problem.
+
+**Thoughts**: It was good practicing IQ and solve toy problem to pracitce coding.
+
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/toy-problem/tree/master/nthFibonacci)
+
+### `Day 031: 2018-07-24`
+
+**Today's Progress**: I made another IQ and pattern tests and solve isSubsetOf toy problem.
+
+**Thoughts**: I practice coding by solve isSubsetOf problem using for loop.
+
+**Link(s) to work**:
+
+[(:fire:) Repo on GitHub](https://github.com/htirawi/toy-problem/tree/master/isSubsetOf)
