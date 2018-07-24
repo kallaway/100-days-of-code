@@ -104,3 +104,7 @@ Continued advancing week 2 of the coursera Java Specialization, almost completed
 Started working on a class to determine which words occur in the greatest number of files, and for each word, which files they occur in. This is part of the assignment for the end of week 2 on the Coursera Java Specialization.
 
 I did not feel quite productive today, I feel a bit drowzy but pushed through anyways. Working on the assignment for the end of week 2. Hope to feel more into it tomorrow.
+
+### R1D28 - July 24th, 2018
+
+Yesterday implemented an inmutable stack using TDD and recursion. Today completed the last 2 assignments of week 2 and passed the first quizz for the end of the week. Tomorrow I'll be taking another quizz and enter week 3 of the course.
