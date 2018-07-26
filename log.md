@@ -8,6 +8,6 @@
 
 ### Day 2: 26th July 2018
 
-**Today's Progress**: Finished Basic HTML and HTML5
+**Today's Progress**: Finished Basic HTML and HTML5. Now Starting Basic CSS 
 
 **Thoughts**: Starting to understand how it works now. There is still quite a lot of jargon in the challenges but realised it's better to try it out rather than understand every single word. Really enjoying the CSS part and how it works so seamlessly in altering the look of the HTML code. 
