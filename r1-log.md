@@ -112,3 +112,7 @@ Yesterday implemented an inmutable stack using TDD and recursion. Today complete
 ### R1D29 - July 25th, 2018
 
 Started doing code challenges on CodeWars, completed a few, and am struggling with another. Tomorrow I hope to start with week 3 of the Coursera Specialization and keep on practicing, also started the tutorial for Spring and also learning about how to participate in collaborative projects on GitHub. Busy days, fun days.
+
+### R1D30 - July 26th, 2018
+
+Finally reached week 3 of the course. Kept advancing on CodeWars code challenges, solved one that I was stuck in by using a HashMap and a Stack. Also used a recursive function in another problem to solve it. 
