@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: July 26-27, 2018
+
+**Today's Progress:** I worked on some JavaScript for the Coursera course I am taking.
+
+**Thoughts:** I don't know why the quizzes/tests show the answers after one try. Seems lame.
+
+**Links to work:** n/a
+
 ### Day 3: July 24, 2018
 
 **Today's Progress:** I chose a C++ code challenge from SoloLearn's collection and spent some time refreshing myself on C++ code. I have only made one obvious adjustment due to time constraints and I think I need to make some adjustments to VS Code for some errors.
