@@ -2,22 +2,22 @@
 
 ## Contents
 
-* [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
 
-## Translations
-[español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [polski](intl/pl/README.md) - [русский](intl/ru/README-ru.md) - [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md)
+## Notice
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+Ok, Maybe i can join this challenge :)
+I also share the material that i learned when i join this Challenge in [my Blog](http://anggaaryas.wordpress.com/). So, you can learn together with me. But, the material is in Bahasa. Maybe you need Google Translate to read my Blog. 
+
+**Goal : Learn Kotlin from zero**
+
+I hope i can achieve the goal...
 
 ## If you've decided to join:
 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
     Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) is a invite link to the 100DaysOfCode Slack channel
 1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-1.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Code minimum an hour every day for the next 100 days.**
 1.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
 1.  Change the date in [Rules](rules.md) to the day you've started the challenge.
