@@ -120,3 +120,7 @@ Finally reached week 3 of the course. Kept advancing on CodeWars code challenges
 ### R1D31 - July 30th, 2018
 
 Went MIA for three days, but enough wasting time. Today I created a class for parsing weblog files, let's see if I can solve a few challenges on CodeWars later in the day.
+
+### R1D32 - July 31st, 2018
+
+Almost entering week 4 of the second course in the specialization. Module 3, here we come. Also installed The Spring Tool Suite, thinking about toying a little with it today.
