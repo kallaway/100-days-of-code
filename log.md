@@ -9,3 +9,13 @@
 **Link(s) to work**
 1. [DAY 1](https://anggaaryas.wordpress.com/2018/08/01/kotlin-day-1-val-var-dan-casting/)
 
+
+### Day 2: August 2, Thursday
+
+**Today's Progress**: learn String
+
+**Thoughts** Wow, Kotlin have Ability to write long string. I dont know if c++ or java have that ability or not
+
+**Link(s) to work**
+1. [DAY 2](https://anggaaryas.wordpress.com/2018/08/02/kotlin-day2-string/)
+
