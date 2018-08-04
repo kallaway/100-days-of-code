@@ -1,4 +1,4 @@
-# Me uní el reto #100DaysOfCode
+# Me uní al reto #100DaysOfCode
 
 ## Tabla de contenidos
 
@@ -9,10 +9,10 @@
 
 ## Si ha decidido unirse:
 
-0.  Mire [el sitio Oficial](http://100daysofcode.com/) para el movimiento #100DaysOfCode. Conecte con otra gente en la plataforma que elija de esta lista: www.100DaysOfCode.com/connect. Puede encontrar [aquí](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) un enlace de invitación al canal de Slack.
+0.  Eche un vistazo [al sitio Oficial](http://100daysofcode.com/) para el movimiento #100DaysOfCode. Conecte con otra gente en la plataforma que elija de esta lista: www.100DaysOfCode.com/connect. Puede encontrarla [aquí](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) un enlace de invitación al canal de Slack.
 1.  Lea [Unirse a #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-1.  Bifúrquese (fork) este repositorio y añada al [diario](diario.md) o al diario rápido [R1 diario](r1-diario.md) (R1 significa ronda 1). [Ejemplo](https://github.com/Kallaway/100-days-kallaway-log).
-1.  **Programe por un mínimo de una hora por día durante los próximos 100 días.**
+1.  Obtenga (fork) este repositorio y añada al [diario](diario.md) o al diario rápido [R1 diario](r1-diario.md) (R1 significa ronda 1). [Ejemplo](https://github.com/Kallaway/100-days-kallaway-log).
+1.  **Escriba código por un mínimo de una hora por día durante los próximos 100 días.**
 1.  **¡Incentive al menos a otras dos personas en el reto en Twitter cada día! Devuelva el favor a alguien más.**
 1.  Cambie el día en [reglas](reglas.md) al día en que empezó el reto.
 1.  Elimine o comente los ejemplos en el diario, y empiece a llenarlo con su propio contenido.
@@ -23,7 +23,7 @@
 
 ## ¿Quieres cambiar otros hábitos?
 
-Mira [el proyecto reto #100DaysOfX](http://100daysofx.com/). Cambiando sus hábitos está cambiando su vida. Recuerde que el mejor tiempo empezar siempre será ahora.
+Mire [el proyecto reto #100DaysOfX](http://100daysofx.com/). Cambiando sus hábitos está cambiando su vida. Recuerde que el mejor tiempo empezar siempre será ahora.
 
 Le recomiendo que se comprometa con no más de 2 o 3 retos a la vez, idealmente 2. Si está haciendo el # 100DaysOfCode que implica mucha actividad mental, pruebe el [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), o [#100DaysOfFitness](http://100daysofx.com/challenges/). ¡Hay mucho más en el sitio web, compruebe todas las opciones y elija los hábitos que desea cambiar! Idiomas, escritura, meditación, llevar un diario, cocina y más.
 
