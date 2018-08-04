@@ -25,6 +25,7 @@
 **Today's Progress**: learn Array
 
 **Thoughts** we can use equation to create an array
+
 **Link(s) to work**
 1. [DAY 3](https://anggaaryas.wordpress.com/2018/08/04/kotlin-day-3-array/)
 
