@@ -124,3 +124,7 @@ Went MIA for three days, but enough wasting time. Today I created a class for pa
 ### R1D32 - July 31st, 2018
 
 Almost entering week 4 of the second course in the specialization. Module 3, here we come. Also installed The Spring Tool Suite, thinking about toying a little with it today.
+
+### R1D33 - 34 - August 5th, 2018
+
+Spent the last two days completing week 3 of the Java Specialization at Coursera.
