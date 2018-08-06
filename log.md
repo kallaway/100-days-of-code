@@ -25,7 +25,16 @@
 **Today's Progress**: learn Array
 
 **Thoughts** we can use equation to create an array
-
+ 
 **Link(s) to work**
 1. [DAY 3](https://anggaaryas.wordpress.com/2018/08/04/kotlin-day-3-array/)
 
+
+### Day 4: August 6, Monday
+
+**Today's Progress**: learn If and Switch Case
+
+**Thoughts** i think the switch case in kotlin ( when() ) is more usefull than c++ and java
+ 
+**Link(s) to work**
+1. [DAY 4](https://anggaaryas.wordpress.com/2018/08/06/kotlin-day-4-statement-perulangan/)
