@@ -7,7 +7,7 @@
 * [FAQ](FAQ.md)
 * [Materi](resources.md)
 
-## If you've decided to join:
+## Jika kamu ingin bergabung:
 
 0.  Kunjungi [situs resmi](http://100daysofcode.com/) untuk melihat gerakan #100DaysOfCode. Gabung bersama lainnya di platform yang kamu inginkan dari sini: www.100DaysOfCode.com/connect .
     dan juga, [Ini](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) adalah alamat undangan untuk gabung ke channel 100DaysOfCode di Slack
