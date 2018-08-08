@@ -8,3 +8,10 @@
 
 **Link(s) to work**
 1. [Seizure Assist](https://github.com/Raveshaww/SeizureAssist)
+
+### Day 2: August 7, Tuesday
+
+**Today's Progress**: Started learning React by following along an Udemy course.
+
+**Thoughts**: I feel like I'm just starting, so I don't really have all of that much to talk about. Thus far, it seems pretty simple. I'm glad that I am going to be picking up some experience with ES6, though.
+
