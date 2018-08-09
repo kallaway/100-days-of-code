@@ -15,3 +15,9 @@
 
 **Thoughts**: I feel like I'm just starting, so I don't really have all of that much to talk about. Thus far, it seems pretty simple. I'm glad that I am going to be picking up some experience with ES6, though.
 
+
+### Day 3: August 8, Wednesday
+
+**Today's Progress**: Reviewing SQL and Microsoft SQL Server in preperation for an interview on Friday. 
+
+**Thoughts**: Being super honest, I kind of wish I was working with React tonight. I might be able to do some yet, but the chances of that aren't looking fantastic.
