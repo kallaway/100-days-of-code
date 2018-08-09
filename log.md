@@ -68,4 +68,10 @@ Day 8: June 11, 2018- Monday
 
 **Link to work:** https://twitter.com/AllStar_H_/status/1006345082050629632
 
+Day 9: July 23, 2018- Monday 
 
+**Today's Progress**: Refreshed on testing objects for properties, using the ".hasOwnProperty(PropertyName)" method of objects. ".hasOwnProperty()" returns True or False if the property is found or not.
+
+**Thoughts** Understood this pretty well. 
+
+**link to work** https://twitter.com/AllStar_H_/status/1021583240317034496
