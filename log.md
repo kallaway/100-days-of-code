@@ -19,9 +19,9 @@ This does not mean I'm giving up on coding. Just has to take smaller steps. Real
 ### Day 1: August 9,2018
 ##### Get started on Mario code
 
-**Today's Progress**: 
+**Today's Progress**: Getting git set up to make changes and logs on github daily.
 
-**Thoughts**: 
+**Thoughts**: I got to continue with studies of hardware. This weekend I also have to figure out how to finish CS50 nesting for loop idea.
 
 **Link(s) to work**: 
 
