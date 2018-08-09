@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 8,2018
+##### To code and get certified along the way
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Got objectives for 220-901 and 220-902 CompTIA A+ certification.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I started this the first time about a year ago and didn't keep up with it. New account, new motivation. I have been bouncing around in the IT feild trying to figure out where I really want to go.
 
-**Link to work:** [Calculator App](http://www.example.com)
+I feel like I have been wasting very valuable time. I started a year with a suggestion to learn Objective-C. Then that turned into C, then Java, then Python and so on. Then it was the idea of Frameworks! Then turned my attention on Django. Then machine learning back to Python. Then I found a Google certification with absolutely no care of tests. Then it was back to web based HTML, CSS, Javascript. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Now I realize I have been wasting so much time on the useless stuff and not focusing on WORKING in the feild! When I'm working I'll be able to nit pic on people that know more coding than I do. I feel like Ive gone all this way now I need to prove myself. I've been discouraged since net+ which was difficult. A+ might be a lil easier and then more doors will open up. I hope.
+
+This does not mean I'm giving up on coding. Just has to take smaller steps. Really master some hardware stuff then back into software. Hawaii is coming up soon I wish I could go out there with a sense of accomplishment.
+
+**Link to work:** 
+
+
+### Day 1: August 9,2018
+##### Get started on Mario code
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
