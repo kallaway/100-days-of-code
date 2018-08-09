@@ -19,9 +19,9 @@ This does not mean I'm giving up on coding. Just has to take smaller steps. Real
 ### Day 1: August 9,2018
 ##### Get started on Mario code
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
 **Link(s) to work**: 
 
