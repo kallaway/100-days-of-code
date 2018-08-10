@@ -9,3 +9,7 @@ Working on an online portfolio that I started a week ago. https://github.com/cri
 
 ### R1D2
 Cont. working on portfolio, late night coding. 2:54 am
+
+### R1D3
+
+Codewars algorithm practice using object oriented programming JS

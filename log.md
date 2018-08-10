@@ -17,6 +17,16 @@
 
 **Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
 
+### Day 2: August 10, 2018
+
+**Today's Progress**: Codewars practice of JS algorithms
+
+**Thoughts**: Solved problems using object oriented programming
+
+
+**Link(s) to work**: [Codewars](https://www.codewars.com/users/crystalgrant82/completed_solutions)
+
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
