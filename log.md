@@ -21,7 +21,16 @@ This does not mean I'm giving up on coding. Just has to take smaller steps. Real
 
 **Today's Progress**: Getting git set up to make changes and logs on github daily.
 
+I hope to start on freecode camps new curriculum.
+
+I bought a new certification bundle.
+
 **Thoughts**: I got to continue with studies of hardware. This weekend I also have to figure out how to finish CS50 nesting for loop idea.
 
 **Link(s) to work**: 
+
+
+### Day 2: August 10,2018
+##### 
+
 
