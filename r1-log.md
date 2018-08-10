@@ -128,3 +128,7 @@ Almost entering week 4 of the second course in the specialization. Module 3, her
 ### R1D33 - 34 - August 5th, 2018
 
 Spent the last two days completing week 3 of the Java Specialization at Coursera.
+
+### R1D35 - August 10th, 2018
+
+Started working on the final project of the second course in the Coursera Java Specialization. Still dealing with health issues, have not been feeling in the mood to code.
