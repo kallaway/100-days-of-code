@@ -8,6 +8,15 @@
 
 **Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
 
+### Day 2: August 9, 2018
+
+**Today's Progress**: Fixed Bootstrap CSS 😉, added social links and continued about page.
+
+**Thoughts**: Need to make more time to code
+
+
+**Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 

@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [August 8, 2018].
 Working on an online portfolio that I started a week ago. https://github.com/crissygrant82/Portfolio_v1.0
 
 ### R1D2
+Cont. working on portfolio, late night coding. 2:54 am
