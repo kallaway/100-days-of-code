@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### "Day" 5: August 10, 2018
+
+**Today's Progress:** Had no access to a computer for work other than SoloLearn exercises on my phone. I'm using this to share my notes from my learning. Continuing my Responsive Web Design MOOC, the topics were web design-focused as in:
+
+* __Navigation__
+  * Sitemaps or hierarchies (_Answer: Where can I go?_)
+  * "Breadcrumbs" (_Answer: Where am I?_)
+* __Layout__ (_Answer: What is here?_)
+* __Accessibility__
+  * Web Access Initiative - https://www.w3.org/WAI/
+
+**Thoughts:** To be added later tonight
+
+**Links to work:** To be added later tonight
+
 ### Day 4: July 26-27, 2018
 
 **Today's Progress:** I worked on some JavaScript for the Coursera course I am taking.
