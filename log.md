@@ -33,4 +33,11 @@ I bought a new certification bundle.
 ### Day 2: August 10,2018
 ##### 
 
+**Today's Progress**: I am getting pset1 of the CS50 class done. Nesting for loops.
+
+Finished objectives of A+
+
+Starting freecode camp
+
+**Thoughts**: I am in a hurry to post this.
 
