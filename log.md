@@ -17,9 +17,9 @@
 * BE CONSISTENT
 * DON’T OBFUSCATE
 * __Two basic design approaches__
-  * _(Cognitive/evidence-based)[https://www.edwardtufte.com/tufte/]_
+  * _[Cognitive/evidence-based](https://www.edwardtufte.com/tufte/)_
    * What is the information? How do we make the information clear?
-  * _(User-centric)[https://www.w3.org/WAI/redesign/ucd]_
+  * _[User-centric](https://www.w3.org/WAI/redesign/ucd)_
    * Who are our users? What do they want? How do they get the information?
 
 **Thoughts:** I've come up with a small list of things to go over daily. Right now my list is:
