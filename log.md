@@ -26,6 +26,16 @@
 
 **Link(s) to work**: [Codewars](https://www.codewars.com/users/crystalgrant82/completed_solutions)
 
+### Day 3: August 11, 2018
+
+**Today's Progress**: Worked on sectioning my pages and footer
+
+**Thoughts**: Trying to figure out how to display everything so it will make sense.
+
+**Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
+
+
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)

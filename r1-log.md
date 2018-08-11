@@ -13,3 +13,7 @@ Cont. working on portfolio, late night coding. 2:54 am
 ### R1D3
 
 Codewars algorithm practice using object oriented programming JS
+
+### R1D4
+
+Continued sectioning my portfolio and positioned the footer
