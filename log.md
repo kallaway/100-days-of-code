@@ -1,36 +1,44 @@
 # 100 Days Of Code - Log
 
-### "Day" 5: August 10, 2018
+### Day 6: August 11, 2018
 
-**Today's Progress:** Had no access to a computer for work other than SoloLearn exercises on my phone. I'm using this to share my notes from my learning. Continuing my Responsive Web Design MOOC, the topics were web design-focused as in:
+**Today's Progress:** I've been reading a textbook on design and logic for any kind of programming or development called [Prelude to Programming](https://smile.amazon.com/Prelude-Programming-Concepts-Pearson-Computer/dp/0132167395/ref=sr_1_2?ie=UTF8&qid=1534093230&sr=8-2&keywords=prelude+to+programming&dpID=51AVYA7Mj6L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch), 5th edition. I've been skipping what I knew well but I just finished studying the chapter called "Developing a Program" and am developing a personalized flow of working for my own work. Also completed some precalculus review on Khan Academy in anticipation of doing some elementary calculus for algorithms and watched some more of CS Dojo's playlist on algorithms.
 
-* User experience and usability comes before any code
-* __Navigation__
-  * Sitemaps or hierarchies (_Answer: Where can I go?_)
-  * "Breadcrumbs" (_Answer: Where am I?_)
-* __Layout__ (_Answer: What is here?_)
-* __Accessibility__
-  * Web Access Initiative - https://www.w3.org/WAI/
-* Dark patterns - https://www.darkpatterns.org/
-* Understand why users are going to the website
-* BE SIMPLE
-* BE CONSISTENT
-* DON’T OBFUSCATE
-* __Two basic design approaches__
-  * _[Cognitive/evidence-based](https://www.edwardtufte.com/tufte/)_
-   * What is the information? How do we make the information clear?
-  * _[User-centric](https://www.w3.org/WAI/redesign/ucd)_
-   * Who are our users? What do they want? How do they get the information?
+**Thoughts:** Will continue studying the textbook, Khan Academy, and watching [CS Dojo's "Data Structures and Algorithms playlist](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H). I switched sessions on the MOOC to a later session due to not being able to work on it. I am thinking of doing some of the SQL course on Khan Academy as well.
 
-**Thoughts:** I've come up with a small list of things to go over daily. Right now my list is:
+**Links to Work:** [My development worflow repo](https://smile.amazon.com/Prelude-Programming-Concepts-Pearson-Computer/dp/0132167395/ref=sr_1_2?ie=UTF8&qid=1534093230&sr=8-2&keywords=prelude+to+programming&dpID=51AVYA7Mj6L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
 
-* [ ] Programming paradigms
-* [ ] Databases
-* [ ] Algorithms & data structures
-* [ ] Actual programming/developing
-* [ ] Computer-related math
+>### "Day" 5: August 10, 2018
 
-**Links to work:** n/a
+>**Today's Progress:** Had no access to a computer for work other than SoloLearn exercises on my phone. I'm using this to share my notes from my learning. Continuing my Responsive Web Design MOOC, the topics were web design-focused as in:
+
+>* User experience and usability comes before any code
+>* __Navigation__
+>  * Sitemaps or hierarchies (_Answer: Where can I go?_)
+>  * "Breadcrumbs" (_Answer: Where am I?_)
+>* __Layout__ (_Answer: What is here?_)
+>* __Accessibility__
+>  * Web Access Initiative - https://www.w3.org/WAI/
+>* Dark patterns - https://www.darkpatterns.org/
+>* Understand why users are going to the website
+>* BE SIMPLE
+>* BE CONSISTENT
+>* DON’T OBFUSCATE
+>* __Two basic design approaches__
+>  * _[Cognitive/evidence-based](https://www.edwardtufte.com/tufte/)_
+>   * What is the information? How do we make the information clear?
+>  * _[User-centric](https://www.w3.org/WAI/redesign/ucd)_
+>   * Who are our users? What do they want? How do they get the information?
+
+>**Thoughts:** I've come up with a small list of things to go over daily. Right now my list is:
+
+>* [ ] Programming paradigms
+>* [ ] Databases
+>* [ ] Algorithms & data structures
+>* [ ] Actual programming/developing
+>* [ ] Computer-related math
+
+>**Links to work:** n/a
 
 > ### Day 4: July 26-27, 2018
 
