@@ -34,6 +34,14 @@
 
 **Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
 
+### Day 4: August 12, 2018
+
+**Today's Progress**: Completed 12 challenges of Regex curriculum on free Code Camp
+
+**Thoughts**: They are so many way at implementing regular expressions, will learn all with practice. 
+
+**Link(s) to work**: [Crissy Free Code Camp](https://www.freecodecamp.org/crissy)
+
 
 
 

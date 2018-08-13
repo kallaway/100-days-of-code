@@ -17,3 +17,7 @@ Codewars algorithm practice using object oriented programming JS
 ### R1D4
 
 Continued sectioning my portfolio and positioned the footer
+
+### R1D5
+
+Completed 12 challenges of the Regex curriculum
