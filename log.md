@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 6: August 11, 2018
+### Day 7: August 13, 2018
 
-**Today's Progress:** I've been reading a textbook on design and logic for any kind of programming or development called [Prelude to Programming](https://smile.amazon.com/Prelude-Programming-Concepts-Pearson-Computer/dp/0132167395/ref=sr_1_2?ie=UTF8&qid=1534093230&sr=8-2&keywords=prelude+to+programming&dpID=51AVYA7Mj6L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch), 5th edition. I've been skipping what I knew well but I just finished studying the chapter called "Developing a Program" and am developing a personalized flow of working for my own work. Also completed some precalculus review on Khan Academy in anticipation of doing some elementary calculus for algorithms and watched some more of CS Dojo's playlist on algorithms.
+**Today's Progress:** I did some FreeCodeCamp work in the Responsive Web Design section (*Create a Gradual CSS Linear Gradient, Use a CSS Linear Gradient to Create a Striped Element, Create Texture by Adding a Subtle Pattern as a Background Image, Use the CSS Transform scale Property to Change the Size of an Element, Use the CSS Transform scale Property to Scale an Element on Hover, Use the CSS Transform Property skewX to Skew an Element Along the X-Axis, Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis*). I worked on trigonometric word problems on Khan Academy in anticipation of moving to computer math more confidently. I also worked on program designing on here and watched more of CS Dojo's playlist on algorithms.
 
-**Thoughts:** Will continue studying the textbook, Khan Academy, and watching [CS Dojo's "Data Structures and Algorithms playlist](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H). I switched sessions on the MOOC to a later session due to not being able to work on it. I am thinking of doing some of the SQL course on Khan Academy as well.
+**Thoughts:** I probably did something yesterday but I can't figure out what I did. So embarassing. I'm calling it out here because I can do better.
 
-**Links to Work:** [My development worflow repo](https://smile.amazon.com/Prelude-Programming-Concepts-Pearson-Computer/dp/0132167395/ref=sr_1_2?ie=UTF8&qid=1534093230&sr=8-2&keywords=prelude+to+programming&dpID=51AVYA7Mj6L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+**Links to work:** [My development worflow repo](https://github.com/lalaithan/program-development-practices)
+
+>### Day 6: August 11, 2018
+
+>**Today's Progress:** I've been reading a textbook on design and logic for any kind of programming or development called [Prelude to Programming](https://smile.amazon.com/Prelude-Programming-Concepts-Pearson-Computer/dp/0132167395/ref=sr_1_2?ie=UTF8&qid=1534093230&sr=8-2&keywords=prelude+to+programming&dpID=51AVYA7Mj6L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch), 5th edition. I've been skipping what I knew well but I just finished studying the chapter called "Developing a Program" and am developing a personalized flow of working for my own work. Also completed some precalculus review on Khan Academy in anticipation of doing some elementary calculus for algorithms and watched some more of CS Dojo's playlist on algorithms.
+
+>**Thoughts:** Will continue studying the textbook, Khan Academy, and watching [CS Dojo's "Data Structures and Algorithms playlist](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H). I switched sessions on the MOOC to a later session due to not being able to work on it. I am thinking of doing some of the SQL course on Khan Academy as well.
+
+>**Links to Work:** [My development workflow repo](https://github.com/lalaithan/program-development-practices)
 
 >### "Day" 5: August 10, 2018
 
