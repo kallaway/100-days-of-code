@@ -25,3 +25,7 @@ Completed 12 challenges of the Regex curriculum
 ### R1D6
 
 Portfolio work continues.
+
+### R1D7
+
+Began Barrel apprenticeship code challenge
