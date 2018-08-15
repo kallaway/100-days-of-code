@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: August 14, 2018
+
+**Today's Progress:** Completed FreeCodeCamp's Applied Visual Design section and moved onto Applied Accesibility leaving off at "Add an Accessible Date Picker".
+
+**Thoughts:** I feel like making several small goals will improve my working habits. I did four Pomodoros today and can do so much more but I was losing momentum at the end. I like seeing progress visually I find, like FreeCodeCamp does with their curriculum page.
+
+**Links to work:** [freeCodeCamp Public Portfolio page](https://www.freecodecamp.org/lalaithan)
+
 ### Day 7: August 13, 2018
 
 **Today's Progress:** I did some FreeCodeCamp work in the Responsive Web Design section (*Create a Gradual CSS Linear Gradient, Use a CSS Linear Gradient to Create a Striped Element, Create Texture by Adding a Subtle Pattern as a Background Image, Use the CSS Transform scale Property to Change the Size of an Element, Use the CSS Transform scale Property to Scale an Element on Hover, Use the CSS Transform Property skewX to Skew an Element Along the X-Axis, Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis*). I worked on trigonometric word problems on Khan Academy in anticipation of moving to computer math more confidently. I also worked on program designing on here and watched more of CS Dojo's playlist on algorithms.
