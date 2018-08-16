@@ -53,7 +53,7 @@
 **Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
 
 
-### Day 7: August 13, 2018
+### Day 7: August 14, 2018
 
 **Today's Progress**: Began the Barrel code challenge project that implements shopify and reactjs to build a front-end layout for Knob whiskey
 
@@ -62,6 +62,13 @@
 
 **Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
 
+### Day 7: August 15, 2018
+
+**Today's Progress**: Mostly completed the Header section, mobile first!!!😚
+
+**Thoughts**: Css has been difficult since I've been pampered with Bootstrap and all the other great ui components. But it is great to revisit. 2 more days, don't know if I will finish in time.
+
+**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)

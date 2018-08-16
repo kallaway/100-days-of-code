@@ -29,3 +29,7 @@ Portfolio work continues.
 ### R1D7
 
 Began Barrel apprenticeship code challenge
+
+### R1D8
+
+Barrel code challenge, header section mostly completed
