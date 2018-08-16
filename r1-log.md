@@ -1,10 +1,35 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Crystal Grant]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [August 8, 2018].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1
+Working on an online portfolio that I started a week ago. https://github.com/crissygrant82/Portfolio_v1.0
 
 ### R1D2
+Cont. working on portfolio, late night coding. 2:54 am
+
+### R1D3
+
+Codewars algorithm practice using object oriented programming JS
+
+### R1D4
+
+Continued sectioning my portfolio and positioned the footer
+
+### R1D5
+
+Completed 12 challenges of the Regex curriculum
+
+### R1D6
+
+Portfolio work continues.
+
+### R1D7
+
+Began Barrel apprenticeship code challenge
+
+### R1D8
+
+Barrel code challenge, header section mostly completed
