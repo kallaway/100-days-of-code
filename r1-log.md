@@ -38,3 +38,8 @@ Barrel code challenge, header section mostly completed
 ### R1D9
 
 Barrel code challenge, compiling shopify and react
+
+
+### R1D10
+
+I failed, I was not able to complete the code challenge 
