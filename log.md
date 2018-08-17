@@ -70,6 +70,15 @@
 
 **Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
 
+
+### Day 7: August 16, 2018
+
+**Today's Progress**: Tried endlessly to use react with shopify, but with little to no documentation I do not believe I will finish by tomorrow
+
+**Thoughts**: I will still apply and upload what I have.
+
+**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 

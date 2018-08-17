@@ -33,3 +33,8 @@ Began Barrel apprenticeship code challenge
 ### R1D8
 
 Barrel code challenge, header section mostly completed
+
+
+### R1D9
+
+Barrel code challenge, compiling shopify and react
