@@ -42,4 +42,14 @@ Barrel code challenge, compiling shopify and react
 
 ### R1D10
 
-I failed, I was not able to complete the code challenge 
+I failed, I was not able to complete the code challenge
+
+
+### R1D11
+
+Rested my brain
+
+
+### R1D12
+
+Began Socialable code challenge

@@ -81,9 +81,26 @@
 
 ### Day 10: August 17, 2018
 
-**Today's Progress**: Setup Worpress and panteon repo with lando. 
+**Today's Progress**: Setup Worpress and panteon repo with lando.
 
 **Thoughts**: I began a new repo using wordpress instead of shopify believing it word be easier to compile. Well nope, I do not know php or wordpress. I could have eventually figured it out but short on time. I will try again.
+**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+
+
+
+### Day 11: August 18, 2018
+
+**Today's Progress**: Setup Worpress and panteon repo with lando.
+
+**Thoughts**: I began a new repo using wordpress instead of shopify believing it word be easier to compile. Well nope, I do not know php or wordpress. I could have eventually figured it out but short on time. I will try again.
+**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+
+### Day 12: August 19, 2018
+
+**Today's Progress**: Started the hero image slider
+
+**Thoughts**: Just begin the code challenge for socialable apprenticeship. I need to learn gql fast.
+
 **Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
