@@ -136,3 +136,7 @@ Started working on the final project of the second course in the Coursera Java S
 ### R1D36 - August 13th, 2018
 
 Implemented test cases for three classes, hope to start working on the final project tomorrow.
+
+### R1D37-38 - August 20th, 2018
+
+Finally reaching end of course 2, for the past few days have not been feeling really in the mood for coding but looks like we're back on track, solved a problem which I had been stuck on for days.
