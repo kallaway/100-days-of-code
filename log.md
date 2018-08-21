@@ -15,3 +15,7 @@ Day2 : https://github.com/Manvityagi/100codes/blob/master/%232%20Maximum%20squar
 Day3 : https://github.com/Manvityagi/100codes/blob/master/%233%20Longest%20Increasing%20Subsequence …
 
 
+Day 4 : Implemented Kruskals algorithm to make a spanning tree
+link : https://github.com/Manvityagi/100codes/blob/master/day4%20krushkals%20algorithm
+
+
