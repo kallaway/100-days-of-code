@@ -7,7 +7,7 @@
 * [রিসোর্সসমূহ](resources.md)
 
 ## অনুবাদ
-[বাংলা](intl/bn/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md)
+[বাংলা](README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md)
 
 আপনি যদি আপনার ভাষায় বিষয়বস্তু ও নিয়মাবলী অনুবাদ করে সাহায্য করতে আগ্রহী হন, তাহলে 'intl' ফোল্ডারের ভেতর একটি সাব-ফোল্ডার তৌরী করুন এবং আপনার অনুবাদকৃত ফাইল সেখানে রাখুন। এরপর একটি pull রিকোয়েষ্ট করুন (অথবা টুইটারে আমাকে DM করুন @ka11away)
 
