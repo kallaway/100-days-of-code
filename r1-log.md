@@ -57,3 +57,7 @@ Began Social table code challenge
 ### R1D13
 
 Social Table code challenge, completed a few things but need to work faster to get it done.
+
+### R1D14
+
+Completed half the project and will start on the review side.
