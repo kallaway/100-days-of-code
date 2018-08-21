@@ -90,10 +90,11 @@
 
 ### Day 11: August 18, 2018
 
-**Today's Progress**: Setup Worpress and panteon repo with lando.
+**Today's Progress**: Day off
 
-**Thoughts**: I began a new repo using wordpress instead of shopify believing it word be easier to compile. Well nope, I do not know php or wordpress. I could have eventually figured it out but short on time. I will try again.
-**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+**Thoughts**: I needed this time to just relax my brain after the barrel code challenge. I will be back at it tomorrow
+
+**Link(s) to work**:
 
 ### Day 12: August 19, 2018
 
@@ -101,8 +102,15 @@
 
 **Thoughts**: Just begin the code challenge for socialable apprenticeship. I need to learn gql fast.
 
-**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
 
+### Day 13: August 19, 2018
+
+**Today's Progress**: Finished hero info and started language toggle.
+
+**Thoughts**: Have a lot more to finish
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 

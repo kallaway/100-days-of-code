@@ -52,4 +52,8 @@ Rested my brain
 
 ### R1D12
 
-Began Socialable code challenge
+Began Social table code challenge
+
+### R1D13
+
+Social Table code challenge, completed a few things but need to work faster to get it done.
