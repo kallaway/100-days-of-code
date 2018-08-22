@@ -61,3 +61,7 @@ Social Table code challenge, completed a few things but need to work faster to g
 ### R1D14
 
 Completed half the project and will start on the review side.
+
+### R1D15
+
+Completed navigation and started the review section, working on implementing star rating.

@@ -113,11 +113,11 @@
 **Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
 
 
-### Day 14: August 21, 2018
+### Day 15: August 22, 2018
 
-**Today's Progress**: Completed hero image scroll and language toggle.
+**Today's Progress**: Completed navigation and started the review section, working on implementing star rating.
 
-**Thoughts**: Half way done with this project. It feels great marking things off the to do list.
+**Thoughts**: Extremely optimistic about creating stars, its a first for me.
 
 **Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
 
