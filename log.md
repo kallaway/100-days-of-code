@@ -19,3 +19,15 @@ Day 4 : Implemented Kruskals algorithm to make a spanning tree
 link : https://github.com/Manvityagi/100codes/blob/master/day4%20krushkals%20algorithm
 
 
+Day 5 : Work : optimized two subtrings problem
+Link to code :
+https://github.com/Manvityagi/100codes/blob/master/day5%20Two%20substrings
+
+Day 6 :  
+Tried hands on string problems:
+code 1 : Amazing strings https://github.com/Manvityagi/100codes/blob/master/day6%20%20amazing%20strings 
+code 2 : Pangrams
+https://github.com/Manvityagi/100codes/blob/master/day6%20pangram
+code 3 : remove duplicates
+https://github.com/Manvityagi/100codes/blob/master/day7%20RemoveDuplicates
+
