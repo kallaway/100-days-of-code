@@ -69,3 +69,7 @@ Completed navigation and started the review section, working on implementing sta
 ### R1D16
 
 Completed review section with star averaging
+
+### R1D17
+
+Working to complete review stars and trashcan delete

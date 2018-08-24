@@ -139,6 +139,14 @@
 **Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
 
 
+### Day 17: August 24, 2018
+
+**Today's Progress**: Working to complete review stars and trashcan delete
+
+**Thoughts**: My skills in functionality are advancing day by day with these difficult challenges.
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
+
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
