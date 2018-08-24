@@ -1,30 +1,151 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: August 8, 2018
+
+**Today's Progress**: Worked on CSS Bootstrap, started building the about page and tweaking the Navigation bar.
+
+**Thoughts**: Bootstrap is a struggle with React, may change to React Bootstrap. Responsive navigation button not working will search for a solution.  
+
+**Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
+
+### Day 2: August 9, 2018
+
+**Today's Progress**: Fixed Bootstrap CSS 😉, added social links and continued about page.
+
+**Thoughts**: Need to make more time to code
+
+
+**Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
+
+### Day 3: August 10, 2018
+
+**Today's Progress**: Codewars practice of JS algorithms
+
+**Thoughts**: Solved problems using object oriented programming
+
+
+**Link(s) to work**: [Codewars](https://www.codewars.com/users/crystalgrant82/completed_solutions)
+
+### Day 4: August 11, 2018
+
+**Today's Progress**: Worked on sectioning my pages and footer
+
+**Thoughts**: Trying to figure out how to display everything so it will make sense.
+
+**Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
+
+### Day 5: August 12, 2018
+
+**Today's Progress**: Completed 12 challenges of Regex curriculum on free Code Camp
+
+**Thoughts**: They are so many way at implementing regular expressions, will learn all with practice.
+
+**Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+
+### Day 6: August 13, 2018
+
+**Today's Progress**: Social buttons and layout positioning
+
+**Thoughts**: CSS Bootstrap positioning needs work
+
+
+**Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
+
+
+### Day 7: August 14, 2018
+
+**Today's Progress**: Began the Barrel code challenge project that implements shopify and reactjs to build a front-end layout for Knob whiskey
+
+**Thoughts**: implementing shopify with react is a challenge with the provided script.
+
+
+**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+
+### Day 8: August 15, 2018
+
+**Today's Progress**: Mostly completed the Header section with hero and nav bar, mobile first!!!😚
+
+**Thoughts**: Css has been difficult since I've been pampered with Bootstrap and all the other great ui components. But it is great to revisit. 2 more days, don't know if I will finish in time.
+
+**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+
+
+### Day 9: August 16, 2018
+
+**Today's Progress**: Incorporated react into file structure, tried to get everything connected. Fail
+
+**Thoughts**: Tried endlessly to use react with shopify, but with little to no documentation I do not believe I will finish by tomorrow. I will still apply and upload what I have.
+
+**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+
+### Day 10: August 17, 2018
+
+**Today's Progress**: Setup Worpress and panteon repo with lando.
+
+**Thoughts**: I began a new repo using wordpress instead of shopify believing it word be easier to compile. Well nope, I do not know php or wordpress. I could have eventually figured it out but short on time. I will try again.
+**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+
+
+
+### Day 11: August 18, 2018
+
+**Today's Progress**: Day off
+
+**Thoughts**: I needed this time to just relax my brain after the barrel code challenge. I will be back at it tomorrow
+
+**Link(s) to work**:
+
+### Day 12: August 19, 2018
+
+**Today's Progress**: Started the hero image slider
+
+**Thoughts**: Just begin the code challenge for socialable apprenticeship. I need to learn gql fast.
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
+
+### Day 13: August 20, 2018
+
+**Today's Progress**: Finished hero info and started language toggle.
+
+**Thoughts**: Have a lot more to finish
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
+
+### Day 14: August 21, 2018
+
+**Today's Progress**: Completed hero image scroll and language toggle.
+
+**Thoughts**: Half way done with this project. It feels great marking things off the to do list.
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
+
+
+### Day 15: August 22, 2018
+
+**Today's Progress**: Completed navigation and started the review section, working on implementing star rating.
+
+**Thoughts**: Extremely optimistic about creating stars, its a first for me.
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
+
+
+### Day 16: August 23, 2018
+
+**Today's Progress**: Completed review section with star averaging
+
+**Thoughts**: Almost done, this code challenge has really pushed me
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
+
+
+
+
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Calculator App](http://www.example.com) -->
