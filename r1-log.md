@@ -65,3 +65,7 @@ Completed half the project and will start on the review side.
 ### R1D15
 
 Completed navigation and started the review section, working on implementing star rating.
+
+### R1D16
+
+Completed review section with star averaging
