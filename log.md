@@ -149,6 +149,14 @@
 
 
 
+### Day 18: August 25, 2018
+
+**Today's Progress**: Completed post query using GraphQl for the first time.
+
+**Thoughts**: Learning and teaching yourself new things make you feel accomplished
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 

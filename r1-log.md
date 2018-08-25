@@ -73,3 +73,7 @@ Completed review section with star averaging
 ### R1D17
 
 Working to complete review stars and trashcan delete
+
+### R1D18
+
+Completed post query using GraphQl for the first time.
