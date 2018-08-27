@@ -33,8 +33,25 @@ https://github.com/Manvityagi/100codes/blob/master/day7%20RemoveDuplicates
 
 
 Worked on a few problems of Linked Lists as i have to revise Data Structures this week.
+
 Day 7 : https://github.com/Manvityagi/100codes/blob/master/day8%20add%201%20to%20LL
+
 Day 8 : https://github.com/Manvityagi/100codes/blob/master/day9%20rearrange%20LL
+
 Day 9 : https://github.com/Manvityagi/100codes/blob/master/day10%20EvenafterOdd%20LL
+
+#100DaysOfCode 
+Continued with LL
+Day 10 : https://github.com/Manvityagi/100codes/blob/master/day10%20AppendLastNToFirst%20LL
+
+
+https://github.com/Manvityagi/100codes/blob/master/day10%20EvenafterOdd%20LL
+
+
+https://github.com/Manvityagi/100codes/blob/master/day10%20Kreverse%20LL
+
+
+
+https://github.com/Manvityagi/100codes/blob/master/day10%20skipMdeleteN
 
 
