@@ -157,6 +157,15 @@
 
 **Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
 
+
+### Day 19: August 26, 2018
+
+**Today's Progress**: Completed most of the code challenge, I will continue to complete everything.
+
+**Thoughts**: Great challenge, just wish I started earlier so I had more time to complete everything.
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
