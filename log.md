@@ -65,7 +65,7 @@ Day 11 :
     Link : https://github.com/Manvityagi/100codes/blob/master/day11%20prim's%20algorithm …
 
 2) Implemented Dkjistra algo in graphs to calculate min distance from a vertex
-  Link :
+  Link :  https://github.com/Manvityagi/100codes/blob/master/day11%20Djisktra%20algorithm
 
 
 
