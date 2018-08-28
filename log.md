@@ -42,7 +42,9 @@ Day 9 : https://github.com/Manvityagi/100codes/blob/master/day10%20EvenafterOdd%
 
 #100DaysOfCode 
 Continued with LL
-Day 10 : https://github.com/Manvityagi/100codes/blob/master/day10%20AppendLastNToFirst%20LL
+Day 10 :
+
+https://github.com/Manvityagi/100codes/blob/master/day10%20AppendLastNToFirst%20LL
 
 
 https://github.com/Manvityagi/100codes/blob/master/day10%20EvenafterOdd%20LL
@@ -53,5 +55,17 @@ https://github.com/Manvityagi/100codes/blob/master/day10%20Kreverse%20LL
 
 
 https://github.com/Manvityagi/100codes/blob/master/day10%20skipMdeleteN
+
+
+
+#100DaysOfCode 
+Day 11 : 
+
+1) Work : Implemented Prim's Algorithm to make minimum spanning tree
+    Link : https://github.com/Manvityagi/100codes/blob/master/day11%20prim's%20algorithm …
+
+2) Implemented Dkjistra algo in graphs to calculate min distance from a vertex
+  Link :
+
 
 
