@@ -55,9 +55,9 @@
 
 ### Day 7: August 14, 2018
 
-**Today's Progress**: Began the Barrel code challenge project that implements shopify and reactjs to build a front-end layout for Knob whiskey
+**Today's Progress**: Began the Barrel code challenge project that implements Shopify and reactjs to build a front-end layout for Knob whiskey
 
-**Thoughts**: implementing shopify with react is a challenge with the provided script.
+**Thoughts**: implementing Shopify with react is a challenge with the provided script.
 
 
 **Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
@@ -75,18 +75,16 @@
 
 **Today's Progress**: Incorporated react into file structure, tried to get everything connected. Fail
 
-**Thoughts**: Tried endlessly to use react with shopify, but with little to no documentation I do not believe I will finish by tomorrow. I will still apply and upload what I have.
+**Thoughts**: Tried endlessly to use react with Shopify, but with little to no documentation I do not believe I will finish by tomorrow. I will still apply and upload what I have.
 
 **Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
 
 ### Day 10: August 17, 2018
 
-**Today's Progress**: Setup Worpress and panteon repo with lando.
+**Today's Progress**: Setup Wordpress and Pantheon repo with lando.
 
-**Thoughts**: I began a new repo using wordpress instead of shopify believing it word be easier to compile. Well nope, I do not know php or wordpress. I could have eventually figured it out but short on time. I will try again.
+**Thoughts**: I began a new repo using Wordpress instead of Shopify believing it word be easier to compile. Well nope, I do not know php or Wordpress. I could have eventually figured it out but short on time. I will try again.
 **Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
-
-
 
 ### Day 11: August 18, 2018
 
@@ -166,6 +164,14 @@
 
 **Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
 
+
+### Day 20: August 27, 2018
+
+**Today's Progress**: Free code camp, JavaScript curriculum, back to basics.
+
+**Thoughts**: Re-learning the basics thoroughly to insure my understanding to allow me to use   
+
+**Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
