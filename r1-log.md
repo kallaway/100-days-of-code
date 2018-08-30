@@ -144,3 +144,7 @@ Finally reaching end of course 2, for the past few days have not been feeling re
 ### R1D39-40 - August 29th, 2018
 
 Implemented a dictionary to break a message coded using the Vigenere Cipher, in all languages with a key of up to 100 characters. Now coming for the end of module quizz and then it's on to Module 3 of the specialization. Also installed and started to learn Spring using the Spring Tool Suite.
+
+### R1D41 - August 30th, 2018
+
+Finished course two of the Java Specialization. On to course 3.
