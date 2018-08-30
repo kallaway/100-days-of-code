@@ -140,3 +140,7 @@ Implemented test cases for three classes, hope to start working on the final pro
 ### R1D37-38 - August 20th, 2018
 
 Finally reaching end of course 2, for the past few days have not been feeling really in the mood for coding but looks like we're back on track, solved a problem which I had been stuck on for days.
+
+### R1D39-40 - August 29th, 2018
+
+Implemented a dictionary to break a message coded using the Vigenere Cipher, in all languages with a key of up to 100 characters. Now coming for the end of module quizz and then it's on to Module 3 of the specialization. Also installed and started to learn Spring using the Spring Tool Suite.
