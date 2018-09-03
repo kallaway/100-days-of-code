@@ -67,5 +67,31 @@ Day 11 :
 2) Implemented Dkjistra algo in graphs to calculate min distance from a vertex
   Link :  https://github.com/Manvityagi/100codes/blob/master/day11%20Djisktra%20algorithm
 
+#100DaysOfCode
+Day 12 : Learned about a new data strucure, Tries,
+              Impressed by its ability to even overcome the complexity issues of                         Hashmaps 
+Link :        https://github.com/Manvityagi/3/blob/master/day12%20tries_1 …
+
+Day 13 : Continued with Tries
+Link :    https://github.com/Manvityagi/100codes/blob/master/day13%20Tries_2
+
+The struggle with dynamic programming has not yet stopped.
+
+Day 14 : Shortest Subsequence
+Link : https://github.com/Manvityagi/100codes/blob/master/day14%20Shortest%20Subsequence …
+
+Day 15 : Maximum Square Matrix With All Zeros
+Link :  https://github.com/Manvityagi/100codes/blob/master/day15%20Maximum%20Square%20Matrix%20With%20All%20Zeros
+
+
+Day 16 : Matrix Chain Multiplication
+Link : https://github.com/Manvityagi/100codes/blob/master/day16%20Matrix%20Chain%20Multiplication …
+
+
+
+Day 17 : Loot Houses
+Link :  https://github.com/Manvityagi/100codes/blob/master/day17%20Loot%20Houses
+
+
 
 
