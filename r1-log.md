@@ -148,3 +148,7 @@ Implemented a dictionary to break a message coded using the Vigenere Cipher, in 
 ### R1D41 - August 30th, 2018
 
 Finished course two of the Java Specialization. On to course 3.
+
+### R1D42, 43, 44, 45 - September 4th, 2018
+
+On day 42 I started the Third Course of the Coursera Specialization. After that, I've spent the last 3 days trying to work with Spring, I finally managed to make it work and ran a local REST service that writes some text to a SQL database. A storm is coming.
