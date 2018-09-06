@@ -93,5 +93,24 @@ Day 17 : Loot Houses
 Link :  https://github.com/Manvityagi/100codes/blob/master/day17%20Loot%20Houses
 
 
+#100DaysOfCode 
+Journey with html & CSS started
+Day 18 : A quite informative table of pokemons.
+Link : https://github.com/Manvityagi/100codes/blob/master/day18%20table_html …
+
+Day 19 :  Tic Tac toe game with CSS(only image)
+Link : https://github.com/Manvityagi/100codes/blob/master/day19%20TicTacToe …
+
+Day 20 : Photo Grid with CSS
+Link : https://t.co/wlJu6G4gcK
+
+Day 21 : Day 21 :
+Discovered CodePen today, its just amazing
+Created my first pen as a sample blog using css
+
+Link :https://codepen.io/manvityagi/pen/VGMdvK
+
+
+
 
 
