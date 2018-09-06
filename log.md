@@ -104,11 +104,19 @@ Link : https://github.com/Manvityagi/100codes/blob/master/day19%20TicTacToe …
 Day 20 : Photo Grid with CSS
 Link : https://t.co/wlJu6G4gcK
 
-Day 21 : Day 21 :
+Day 21  :
 Discovered CodePen today, its just amazing
 Created my first pen as a sample blog using css
 
 Link :https://codepen.io/manvityagi/pen/VGMdvK
+
+
+Day 22 : A complex html table
+Link : https://codepen.io/manvityagi/pen/NLaOjB
+
+Day 23 : Reservation Form
+Link : https://codepen.io/manvityagi/pen/oPGaJw
+
 
 
 
