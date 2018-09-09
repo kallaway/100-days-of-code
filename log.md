@@ -111,11 +111,12 @@ Created my first pen as a sample blog using css
 Link :https://codepen.io/manvityagi/pen/VGMdvK
 
 
-Day 22 : A complex html table
-Link : https://codepen.io/manvityagi/pen/NLaOjB
+#100DaysOfCode 
+Day 22 : A complex html table Link : https://codepen.io/manvityagi/pen/NLaOjB
 
-Day 23 : Reservation Form
-Link : https://codepen.io/manvityagi/pen/oPGaJw
+Day 23 : Reservation Form Link : https://codepen.io/manvityagi/pen/oPGaJw
+
+Day 24 : Navigation menu : https://codepen.io/manvityagi/pen/pOpebN
 
 
 
