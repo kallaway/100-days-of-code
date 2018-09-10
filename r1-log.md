@@ -152,3 +152,7 @@ Finished course two of the Java Specialization. On to course 3.
 ### R1D42, 43, 44, 45 - September 4th, 2018
 
 On day 42 I started the Third Course of the Coursera Specialization. After that, I've spent the last 3 days trying to work with Spring, I finally managed to make it work and ran a local REST service that writes some text to a SQL database. A storm is coming.
+
+### R1D46 - September 9th, 2018
+
+I was doing the Spring Rest tutorial, there are a couple of things that I think I'll have to give a little review again, but I manage to create a new instance of an object using cURL on Windows, took me a couple of tries because the example in the Spring's website is made for Unix and it wasn't working correctly.
