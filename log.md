@@ -118,6 +118,10 @@ Day 23 : Reservation Form Link : https://codepen.io/manvityagi/pen/oPGaJw
 
 Day 24 : Navigation menu : https://codepen.io/manvityagi/pen/pOpebN
 
+#100DaysOfCode 
+Day 25 to 30 : 
+Practised HTML,CSS, and learned Bootstrap.
+
 
 
 
