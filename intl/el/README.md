@@ -8,7 +8,7 @@
 * [Πόροι](resources-el.md)
 
 ## Μεταφράσεις
-[español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [polski](intl/pl/README.md) - [русский](intl/ru/README-ru.md) - [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md) - [ελληνικά](intl/el/README.md)
+[español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [polski](intl/pl/README.md) - [русский](intl/ru/README-ru.md) - [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md) - [ελληνικά](/intl/el/README.md)
 
 Αν θέλεις να βοηθήσεις προσφέροντας μια μετάφραση του περιεχομένου/των κανόνων σε κάποια γλώσσα που ξέρεις, κάνε ένα pull request (ή στείλε μου ένα προσωπικό μήνυμα στο Twitter @ka11away), προσθέτοντας έναν υπό-φάκελο στον φάκελο « intl » με τα αρχεία που μετέφρασες.
 
