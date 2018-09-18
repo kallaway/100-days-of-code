@@ -1,30 +1,21 @@
-# 100 Days Of Code - Log
+# 100 Ημέρες Κώδικα - Ημερολόγιο
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Ημέρα 0: 30 Φεβρουαρίου, 2016 (Παράδειγμα 1)
+##### (διέγραψέ με ή κάνε με σχόλιο)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Ημερήσια Πρόοδος:** Διόρθωσα το CSS, δούλεψα στο canvas functionality για την εφαρμογή.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Σκέψεις:** Πραγματικά πάλεψα με το CSS, ωστόσο, γενικά, νιώθω ότι γίνομαι καλύτερος σ' αυτό. Το canvas είναι ακόμα καινούριο για εμένα, αλλά κατάφερα να βρω κάποιες βασικές λειτουργίες.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Σύνδεσμος/οι προς το project:** [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Ημέρα 1: 27 Ιουνίου, Δευτέρα (Παράδειγμα 2)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Ημερήσια Πρόοδος:** Έκανα πολλές ασκήσεις στο FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Σκέψεις:** Ξεκίνησα να προγραμματίζω πρόσφατα, και νιώθω περίφημα όταν καταφέρνω επιτέλους να λύσω μια αλγοριθμική πρόκληση μετά από πολλές απόπειρες και πολλές ώρες δουλειάς.
 
-**Link(s) to work**
+**Σύνδεσμος/οι προς το project:**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)

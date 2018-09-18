@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# Ημερολόγιο #100ΗμέρεςΚώδικα - Γύρος 1 - [Βάλε το όνομά σου εδώ]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+Το ημερολόγιό μου για την πρόκληση #100ΗμέρεςΚώδικα. Ξεκίνησα στις [17 Ιουλίου, Δευτέρα, 2017].
 
-## Log
+## Ημερολόγιο
 
 ### R1D1
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Ξεκίνησα μια εφαρμογή καιρού. Δούλεψα στο πρόχειρο layout της εφαρμογής, πάλεψα με το OpenWeather API http://www.example.com
 
 ### R1D2
