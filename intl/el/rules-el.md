@@ -1,28 +1,28 @@
-# Rules of the 100 Days Of Code Challenge
+# Κανόνες για την πρόκληση « 100 Ημέρες Κώδικα »
 
-## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+## Κύρια Δέσμευση
+### *Θα προγραμματίζω για τουλάχιστον μία ώρα κάθε ημέρα για τις επόμενες 100 ημέρες.*
 
-#### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+#### Ημερομηνία Εκκίνησης
+25η Ιουνίου, 2016. [ΒΑΛΤΕ ΤΗΝ ΗΜΕΡΟΜΗΝΙΑ ΣΑΣ ΕΔΩ]
 
-## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+## Επιπλέον Κανόνες
+1. Θα tweetάρω την πρόοδό μου κάθε ημέρα -> χρησιμοποιώντας το hashtag #100DaysOfCode
+2. Αν προγραμματίζω στη δουλειά, αυτός ο χρόνος δεν θα μετράει για την πρόκληση.
+3. Θα pushάρω κώδικα στο GitHub κάθε ημέρα ούτως ώστε όλοι να μπορούν να δουν την πρόοδό μου.
+4. Θα ενημερώνω το [Ημερολόγιο](log-el.md) με την ημερήσια πρόοδό μου και θα προσθέτω ένα σύνδεσμο ούτως ώστε οι άλλοι να μπορούν να δουν την πρόοδό μου.
+5. Θα δουλεύω πάνω σε πραγματικά project, αντιμετωπίζοντας πραγματικές προκλήσεις. Ο χρόνος που θα περάσω ακολουθώντας tutorials, online μαθήματα και άλλους παρόμοιους πόρους ΔΕΝ θα μετράει όσον αφορά αυτή την πρόκληση. (Αν μόλις ξεκινάς να μαθαίνεις προγραμματισμό, διάβασε το [FAQ](FAQ.md))
 
 
-## Ideas to make this challenge more effective
-1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
-2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
-3. If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
-4. If you can't push your code to GitHub for some reason (e.g. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
-5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
+## Ιδέες για να κάνεις αυτή την πρόκληση πιο αποτελεσματική
+1. Για να αυξήσεις τις πιθανότητες επιτυχίας σου, πρέπει υποχρεωτικά να προσθέσεις ένα σύνδεσμο προς κάθε ημερήσιο post στο [Ημερολόγιο](log-el.md). Μπορεί να είναι σύνδεσμος προς ένα commit στο GitHub, προς ένα blog post...
+2. Αν κολλήσεις κάπου, διάβασε αυτό το άρθρο [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
+3. Αν δεν ξέρεις γιατί υπάρχει τόση έμφαση στο να δουλεύεις πάνω σε πραγματικά project αντί για tutorials ή online μαθήματα, διάβασε αυτό: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
+4. Αν δεν μπορείς να ανεβάσεις τον κώδικά σου στο GitHub (για παράδειγμα μόλις έχεις ξεκινήσει να προγραμματίζεις και κάνεις διαδραστικές ασκήσεις), πρόσθεσε ένα σύνδεσμο προς ένα tweet σου. Μπορείς να σκεφτείς και κάτι άλλο, αρκεί η πρόκλησή σου να μείνει δημόσια - λαμβάνεις το όφελος του να είσαι δεσμευμένος και υπεύθυνος για την πρόοδό σου.
+5. Άλλο ένα bonus του να κάνεις fork αυτό το repo -> αν δεν έχεις δουλέψει με Markdown στο παρελθόν, είναι μια καλή ευκαιρία να εξασκηθείς.
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+## Περιεχόμενα
+* [Κανόνες](rules-el.md)
+* [Ημερολόγιο - κλίκαρε εδώ για να δεις την πρόοδό μου](log-el.md)
+* [FAQ](FAQ-el.md)
+* [Πόροι](resources-el.md)
