@@ -2,9 +2,9 @@
   **Q:** Πώς επικοινωνώ με τους υπόλοιπους ανθρώπους που κάνουν αυτή την πρόκληση;  
   **A:** Ο καλύτερος τρόπος να συνδεθείς με την κοινότητα είναι να χρησιμοποιήσεις την λίστα των πόρων που είναι διαθέσιμη στην επίσημη ιστοσελίδα του 100DaysOfCode:
   www.100DaysOfCode.com/connect
-  Επίσης, εδώ μπορείτε να βρείτε [ένα invite link για το κανάλι Slack του 100DaysOfCode](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
+  Επίσης, εδώ μπορείς να βρεις [ένα σύνδεσμο-πρόσκληση για το κανάλι Slack του 100DaysOfCode](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
 
-  Ψάξτε το 100DaysOfCode στο Twitter, ή μπες στο [Gitter room του 100DaysOfCode](https://gitter.im/Kallaway/100DaysOfCode) - δεν χρειάζεσαι πρόσκληση, είναι ανοιχτό σε όλο τον κόσμο. Επίσης, ακολούθησε το [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) στο Twitter για να μείνεις σε επαφή με την κοινότητα.
+  Ψάξε το 100DaysOfCode στο Twitter, ή μπες στο [Gitter room του 100DaysOfCode](https://gitter.im/Kallaway/100DaysOfCode) - δεν χρειάζεσαι πρόσκληση, είναι ανοιχτό σε όλο τον κόσμο. Επίσης, ακολούθησε το [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) στο Twitter για να μείνεις σε επαφή με την κοινότητα.
 
   **Q:** Ήδη ξεκίνησα την πρόκληση, και είμαι στην Ημέρα 8. Πώς μπορώ να ξεκινήσω να χρησιμοποιώ αυτό το repo για να σημειώνω την πρόοδό μου;  
   **A:** Μην ανησυχείς. Προσπάθησε να συμπληρώσεις όσο το δυνατόν περισσότερες πληροφορίες όσον αφορά τις προηγούμενες ημέρες, αλλά αν δεν μπορείς απλώς συνέχισε από εκεί που βρίσκεσαι τώρα. Αν ήδη χρησιμοποιείς το twitter για να σημειώνεις την ημερήσια πρόδοό σου, βάλε ένα link προς τα tweet σου στο Ημερολόγιο για κάθε μέρα.
