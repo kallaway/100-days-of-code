@@ -2,7 +2,7 @@
 
 ##-This is my round 2.  
 
-## Check out my Round-2 file for the journal 
+## Check out my Round-2 branch file for the journal 
 
 ## Contents
 
