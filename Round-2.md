@@ -2,7 +2,7 @@
                                       
                                   
                                         ##Day 0: September 19, 2018: Wednesday
-                                                    <hr/>
+                                                    
                                         
  <strong>Today's Progress:</strong>
  *Setup a boiler plate to practice on.  
@@ -34,12 +34,13 @@
       to explain what I am doing in my code & boost my confidence in writing my own code. Most of my  day, I'm either watching a tutorial, writing 
       code or reading about it, since before I started #100daysofCode, so the hour minimum will not be a problem. So, here I go again. 
       
-                                                    <hr/> 
+                                                    
  
  
  
                                    ## Day 1: September 20, 2018: Thursday
-                                                    <hr/>
+                                                    
+                                                    
  
   <strong>Today's Progress:</strong>
   *Studied parts of the Mongoose documentation to learn more about validation.
@@ -68,13 +69,15 @@
   So, I made a contact form & its pretty cool.  If you use a Google email, it kicks back the email as less secure, unless you use Google-OAuth
   Strategy to go with it.  I didn't use a Google email, but I have setup Google 0Auth before.
   
-    -You have to get the email details from the email server about the STMP setup.  
-    -SMTP is "Simple Mail Transfer Protocol".  It uses TCP/IP protocol to send and receive email via an Internet port.  
-    Each of the email servers has a different default, so you basically need to go to your email settings & look up the basic email setup. 
-    -It was cool to find all this about this little API. I learned about the TCP/IP & STMP & POP & IMAP -Internet Protocol stuff when I studied IT-Networking & Security for my degree.
-    This let me see a real implementation of those protocols.  It sounds so complex when you read about it & even do the project for the assignment for that class, but the way
+    *You have to get the email details from the email server about the STMP setup.  
+    
+    *SMTP is "Simple Mail Transfer Protocol".  It uses TCP/IP protocol to send and receive email via an Internet port.  
+    
+    *Each of the email servers has a different default, so you basically need to go to your email settings & look up the basic email setup. 
+    *It was cool to find all this about this little API. I learned about the TCP/IP & STMP & POP & IMAP -Internet Protocol stuff when I studied IT-Networking & Security for my degree.
+    *This let me see a real implementation of those protocols.  It sounds so complex when you read about it & even do the project for the assignment for that class, but the way
     it is implemented in this instance, it is all handled for you with this API NPM package, as long as you set up the settings correctly when you implement it. 
-    -I'll make it again to post a mock version of it in GitHub.  I used it in Express & React.  I followed a tutorial that used EJS, but I didn't want to do EJS.  
+    *I'll make it again to post a mock version of it in GitHub.  I used it in Express & React.  I followed a tutorial that used EJS, but I didn't want to do EJS.  
     I should learn it, but I'm going to focus on React for now, until I am more comfortable with it. I know there are a lot of view engines, but I feel like I should now how to 
     use the vanilla JSX first. So, I'll check out EJS later.  I know its supposed to be much easier using the templating engines, but vanilla for me for now. 
     
