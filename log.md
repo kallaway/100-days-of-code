@@ -122,6 +122,9 @@ Day 24 : Navigation menu : https://codepen.io/manvityagi/pen/pOpebN
 Day 25 to 30 : 
 Practised HTML,CSS, and learned Bootstrap.
 
+Day 30 to 35 : Solved about 10 good recursive problems(it freaked me out)
+To name a few: return/print keypad,return/print subsets of array, return/print permutations of strings .
+Link : https://t.co/Gr3XCWxzJI
 
 
 
