@@ -1,6 +1,8 @@
-# I've joined the #100DaysOfCode Challenge -This is my round 2.  
+# I've joined the #100DaysOfCode Challenge 
 
-## Check out The Round2-Journal Branch for the Round 2 journal. 
+##-This is my round 2.  
+
+## Check out The Round-2 file 
 
 ## Contents
 
