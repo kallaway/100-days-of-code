@@ -1,0 +1,89 @@
+                                    **  #Round 2 #100Days of Code  **
+                                      
+                                  
+                                        ##Day 0: September 19, 2018: Wednesday
+                                                    
+                                        
+ <strong>Today's Progress:</strong>
+ *Setup a boiler plate to practice on.  
+ *Setup Github #100daysofCode log for round 2
+ *I took ten minutes to do a Markdown Tutorial at [www.markdowntutorial.com](www.markdowntutorial.com)
+ *Setup Goals for this round
+ *JavaScript & NodeJS Practice - made a boiler plate to work from on Express & React for now. 
+ *Also working on Socket.IO features, namespaces, rooms & different implementations. 
+    - I'll make a different Repo to track it for easier file keeping.  
+ 
+ <strong>Goals:</strong>
+ *Improve my Javascript Skillset: 
+      -specifically Complete the [Udacity JavaScript Free Tutorial](https://www.udacity.com/course/intro-to-javascript--ud803) 
+      -Also [Udacity JavaScript Design Patterns Tutorial](https://www.udacity.com/course/javascript-design-patterns--ud989)
+      -Pick up where I left off in [www.Freecodecamp.org](www.freecodecamp.org) 
+        *aiming to finish up to Javascript Algorithms And Data Structures Certification (300hours) - we will see how far I get for that one.
+ *Learn more about APIs
+ *Learn more about NodeJS
+ *This Round, I'll show more of my work here in Github.
+ *I'll work on my documentation skills in the process.
+ *I'll make it a point not to let this round's Github journal fall to the wayside like the last round.  
+ 
+ 
+ <strong>Thoughts:</strong>
+      So that's a lot, but I think its doable.  I have done a lot of the tasks in the FreeCodecamp already from other parts of my last project, 
+      so I'll see what actually stuck with me. My ultimate goal is to have an organized repo to show my work & learn to solve & think in terms of
+      programming on my own.  So, I might have a number of small projects in here within this 100 days, depending on what the tutorials call for & 
+      what I'm working on.  Right now, I know the very basics of JavaScript and some of its frameworks.  My goal is to understand them well enough 
+      to explain what I am doing in my code & boost my confidence in writing my own code. Most of my  day, I'm either watching a tutorial, writing 
+      code or reading about it, since before I started #100daysofCode, so the hour minimum will not be a problem. So, here I go again. 
+      
+                                                    
+ 
+ 
+ 
+                                   ## Day 1: September 20, 2018: Thursday
+                                                    
+                                                    
+ 
+  <strong>Today's Progress:</strong>
+  *Studied parts of the Mongoose documentation to learn more about validation.
+  *I tried React styled-components in #CSS.
+  *I finished the Flexbox section in [FreeCodeCamp.org](www.freecodecamp.org).
+  *I played with Express & Express.router() to see if I could run socket.io in a route instead of directly in the server.js/index.js.
+  
+  <strong>Thoughts</strong>
+  *React-Styled-Component is simple enough, but I might just stick to plain .css & inline JSX for now, bc media queries & flexbox are working just fine for me, even in React.  
+  You are supposed to pass the components down through the props.  I can do it, but I want to focus more on the JavaScript stuff for now.  I'll probably return to
+  styled-components again when I am more focused on design.  
+  
+  *It turns out you can use socket.io in just a route through Express.router().  I will have the code in a repo soon.  I don't know what to include in the 
+  documentation/readme.md, but I'll do my best to be clear about what its doing when I put it up. I'm working on rooms & namespaces, too. 
+  
+  *FreeCodeCamp is a very powerful learning tool.  I got so tied up in my project last round that I neglected it.  I'll be working in it more this round.  
+  Today, I put in a half hour into Freecodecamp.  I'll try to finish up the RWD cert soon, too.  I've just been putting it off.  I always take forever when I'm trying to 
+  create something visual, it never comes out the way I want when I draw - so nice that the computer does the positioning for you based on 
+  what you tell it to do, haha.
+  
+  *I did a review of the MERN tutorial from Brad Traversy, today.  I was reviewing how he did the validation in the log in, but I want to apply it to some
+  other things & try to write some of my own...not re-invent the wheel, but to be able to write it free-hand, so to speak.  So, I did that & read through the 
+  validation portion of the docs.  Then, I messed with some mongoose in VS-Code & Postman for a little bit.  In the process, I also came across NodeMailer npm.  
+  
+  *[Nodemailer](https://nodemailer.com/about/) is a free service that allows you to send email from node.js, using your own email address or Google 0-Auth. 
+  So, I made a contact form & its pretty cool.  If you use a Google email, it kicks back the email as less secure, unless you use Google-OAuth
+  Strategy to go with it.  I didn't use a Google email, but I have setup Google 0Auth before.
+  
+    *You have to get the email details from the email server about the STMP setup.  
+    
+    *SMTP is "Simple Mail Transfer Protocol".  It uses TCP/IP protocol to send and receive email via an Internet port.  
+    
+    *Each of the email servers has a different default, so you basically need to go to your email settings & look up the basic email setup. 
+    *It was cool to find all this about this little API. I learned about the TCP/IP & STMP & POP & IMAP -Internet Protocol stuff when I studied IT-Networking & Security for my degree.
+    *This let me see a real implementation of those protocols.  It sounds so complex when you read about it & even do the project for the assignment for that class, but the way
+    it is implemented in this instance, it is all handled for you with this API NPM package, as long as you set up the settings correctly when you implement it. 
+    *I'll make it again to post a mock version of it in GitHub.  I used it in Express & React.  I followed a tutorial that used EJS, but I didn't want to do EJS.  
+    I should learn it, but I'm going to focus on React for now, until I am more comfortable with it. I know there are a lot of view engines, but I feel like I should now how to 
+    use the vanilla JSX first. So, I'll check out EJS later.  I know its supposed to be much easier using the templating engines, but vanilla for me for now. 
+    
+    
+     
+    
+    
+ 
+ 
