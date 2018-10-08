@@ -139,7 +139,11 @@ Day 43 to 47 :
 2. Social Networks All in one accesibility (using bootstrap) : https://codepen.io/manvityagi/pen/EdxBJw …
 3. Todo list(using JS) : https://codepen.io/manvityagi/pen/jeWmjG … …
 
-
+#100DaysOfCode 
+Day 48 to 52 :
+On the way to learn Javascript:
+1. Score Keeper : https://codepen.io/manvityagi/pen/oazdRz
+2. To-do-list : https://codepen.io/manvityagi/pen/xyRNVG
 
 
 
