@@ -37,3 +37,11 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+
+## Join Hands with your Alumnus (Alumni) and Alumna (Alumnae)
+* Let's join the family of Alumni amd Alumnae.
+* You can find the Alumni and Alumnae of your field.
+* I have created a file [alumnae_alumni_list](alumnae_alumni_list.md) where I will #build a list of people who have successfully completed #100DaysOfCode
+* Will try to categorize according to different #100DaysOfX
+* If you have completed your challenge then just create a Pull request with title "Alumnae & Alumni Update".
+
