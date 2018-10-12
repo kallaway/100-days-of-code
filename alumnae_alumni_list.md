@@ -1,7 +1,6 @@
-# Join Hands with your Alumnus (Alumni) and Alumna (Alumnae)
+# Alumnus (Alumni) and Alumna (Alumnae) NETWORK
 
 
-[Alumnus & Alumna]
 <p align="center">
 	YOU CAN JOIN THE ALUMNI AND ALUMAE OF YOUR FIELD ONLY IF YOU HAVE COMPLETED #100DaysOfCode CHALLENGE
 </p>
@@ -12,46 +11,62 @@
 
 >> NOTE: Please add your name alphabetically.
 
-## SAMPLE 
--- Just copy paste these lines to add your entry:
+# SAMPLE 
 
->> | <your complete details>
+-- Just add ## and add your details as in Sample
 
-| Name and Details
-| -------------
-| Name: <<your name>>
-  Repo: <<your log file url>>
-  Focus: 
-  		- <<focus 2>>
-  		- <<focus 1>>
-  Technologies: <<Your technologies>>
-  Experience: <<Share your experience>> 	
-| Name: <<your name>>
-  Repo: <<your log file url>>
-  Focus: 
-  		- <<focus 2>>
-  		- <<focus 1>>
-  Technologies: <<Your technologies>>
-  Experience: <<Share your experience>>   	
+## <<Your Name>>
+- Name: <<your name>>
+- Repo: <<your log file url>>
+- Focus: 
+	- <<focus 1>>
+	- <<focus 2>>
+- Technologies:
+	- <<your technologies 1>>
+	- <<your technologies 2>> 		
 
 
 
-## 100DAYSOFCODE
-| Name and Details
-| -------------
+# 100DAYSOFCODE
+## <<Your Name>>
+- Name: <<your name>>
+- Repo: <<your log file url>>
+- Focus: 
+	- <<focus 1>>
+	- <<focus 2>>
+- Technologies:
+	- <<your technologies 1>>
+	- <<your technologies 2>> 		
 
 
 
 
-## 100DAYSOFX
-| Name and Details
-| -------------
+
+# 100DAYSOFX
+## <<Your Name>>
+- Name: <<your name>>
+- Repo: <<your log file url>>
+- Focus: 
+	- <<focus 1>>
+	- <<focus 2>>
+- Technologies:
+	- <<your technologies 1>>
+	- <<your technologies 2>> 		
 
 
 
-## 100DAYSOFBLOCKCHAIN
-| Name and Details
-| -------------
+
+# 100DAYSOFBLOCKCHAIN
+## <<Your Name>>
+- Name: <<your name>>
+- Repo: <<your log file url>>
+- Focus: 
+	- <<focus 1>>
+	- <<focus 2>>
+- Technologies:
+	- <<your technologies 1>>
+	- <<your technologies 2>> 		
+
 
 
 
