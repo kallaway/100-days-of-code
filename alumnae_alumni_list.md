@@ -15,57 +15,69 @@
 
 -- Just add ## and add your details as in Sample
 
-## <<Your Name>>
-- Name: <<Your name>>
-- Repo: <<Your log file url>>
-- Focus: 
-	- <<Focus 1>>
-	- <<Focus 2>>
-- Technologies:
-	- <<Your technologies 1>>
-	- <<Your technologies 2>> 		
+## {Your Name}
+- **Name:** {Your name}
+- **Repo:** {Your log file url}
+- **Twitter:** {Your tweeter url}
+- **Focus:** 
+	- {Focus 1}
+	- {<<}Focus 2}
+- **Technologies:**
+	- {Your technologies 1}
+	- {Your technologies 2} 
+- **Experience**
+	- {A summary of the experience}			
 
 
 
 # 100DAYSOFCODE
-## <<Your Name>>
-- Name: <<Your name>>
-- Repo: <<Your log file url>>
-- Focus: 
-	- <<Focus 1>>
-	- <<Focus 2>>
-- Technologies:
-	- <<Your technologies 1>>
-	- <<Your technologies 2>> 			
+## {Your Name}
+- **Name:** {Your name}
+- **Repo:** {Your log file url}
+- **Twitter:** {Your tweeter url}
+- **Focus:** 
+	- {Focus 1}
+	- {<<}Focus 2}
+- **Technologies:**
+	- {Your technologies 1}
+	- {Your technologies 2} 
+- **Experience**
+	- {A summary of the experience}				
 
 
 
 
 
 # 100DAYSOFX
-## <<Your Name>>
-- Name: <<Your name>>
-- Repo: <<Your log file url>>
-- Focus: 
-	- <<Focus 1>>
-	- <<Focus 2>>
-- Technologies:
-	- <<Your technologies 1>>
-	- <<Your technologies 2>> 			
+## {Your Name}
+- **Name:** {Your name}
+- **Repo:** {Your log file url}
+- **Twitter:** {Your tweeter url}
+- **Focus:** 
+	- {Focus 1}
+	- {<<}Focus 2}
+- **Technologies:**
+	- {Your technologies 1}
+	- {Your technologies 2} 
+- **Experience**
+	- {A summary of the experience}				
 
 
 
 
 # 100DAYSOFBLOCKCHAIN
-## <<Your Name>>
-- Name: <<Your name>>
-- Repo: <<Your log file url>>
-- Focus: 
-	- <<Focus 1>>
-	- <<Focus 2>>
-- Technologies:
-	- <<Your technologies 1>>
-	- <<Your technologies 2>> 			
+## {Your Name}
+- **Name:** {Your name}
+- **Repo:** {Your log file url}
+- **Twitter:** {Your tweeter url}
+- **Focus:** 
+	- {Focus 1}
+	- {<<}Focus 2}
+- **Technologies:**
+	- {Your technologies 1}
+	- {Your technologies 2} 
+- **Experience**
+	- {A summary of the experience}					
 
 
 
