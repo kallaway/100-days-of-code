@@ -16,27 +16,27 @@
 -- Just add ## and add your details as in Sample
 
 ## <<Your Name>>
-- Name: <<your name>>
-- Repo: <<your log file url>>
+- Name: <<Your name>>
+- Repo: <<Your log file url>>
 - Focus: 
-	- <<focus 1>>
-	- <<focus 2>>
+	- <<Focus 1>>
+	- <<Focus 2>>
 - Technologies:
-	- <<your technologies 1>>
-	- <<your technologies 2>> 		
+	- <<Your technologies 1>>
+	- <<Your technologies 2>> 		
 
 
 
 # 100DAYSOFCODE
 ## <<Your Name>>
-- Name: <<your name>>
-- Repo: <<your log file url>>
+- Name: <<Your name>>
+- Repo: <<Your log file url>>
 - Focus: 
-	- <<focus 1>>
-	- <<focus 2>>
+	- <<Focus 1>>
+	- <<Focus 2>>
 - Technologies:
-	- <<your technologies 1>>
-	- <<your technologies 2>> 		
+	- <<Your technologies 1>>
+	- <<Your technologies 2>> 			
 
 
 
@@ -44,28 +44,28 @@
 
 # 100DAYSOFX
 ## <<Your Name>>
-- Name: <<your name>>
-- Repo: <<your log file url>>
+- Name: <<Your name>>
+- Repo: <<Your log file url>>
 - Focus: 
-	- <<focus 1>>
-	- <<focus 2>>
+	- <<Focus 1>>
+	- <<Focus 2>>
 - Technologies:
-	- <<your technologies 1>>
-	- <<your technologies 2>> 		
+	- <<Your technologies 1>>
+	- <<Your technologies 2>> 			
 
 
 
 
 # 100DAYSOFBLOCKCHAIN
 ## <<Your Name>>
-- Name: <<your name>>
-- Repo: <<your log file url>>
+- Name: <<Your name>>
+- Repo: <<Your log file url>>
 - Focus: 
-	- <<focus 1>>
-	- <<focus 2>>
+	- <<Focus 1>>
+	- <<Focus 2>>
 - Technologies:
-	- <<your technologies 1>>
-	- <<your technologies 2>> 		
+	- <<Your technologies 1>>
+	- <<Your technologies 2>> 			
 
 
 
