@@ -146,6 +146,17 @@ On the way to learn Javascript:
 2. To-do-list : https://codepen.io/manvityagi/pen/xyRNVG
 
 
+#100DaysOfCode 
+Day 53 to 60 :
+1. Color Guessing Game using Java script :
+https://codepen.io/manvityagi/pen/zmoQwx
+
+2. FUnctional To do List using jquery :
+https://codepen.io/manvityagi/pen/NOwrdd
+ 
+
+
+
 
 
 
