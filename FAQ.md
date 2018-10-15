@@ -1,42 +1,42 @@
 ## FAQ:
-  **Q:** How do I get in touch with the people who are also doing this challenge?  
-  **A:** The best way to connect is to use the list of resources available on the official 100DaysOfCode site:
+  **Q:** Bagaimana saya dapat berhubung dengan orang lain yang juga menyertai cabaran ini?  
+  **A:** Cara yang terbaik untuk berhubung ialah dengan menggunakan senarai sumber-sumber yang terletak di laman rasmi 100DaysOfCode:
   www.100DaysOfCode.com/connect 
-  Also, here is [an invite link to the 100DaysOfCode Slack channel](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
+  Seterusnya, ini adalah [jemputan ke saluran Slack 100DaysOfCode](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
   
-  Search for #100DaysOfCode on Twitter, or join [the 100DaysOfCode room on Gitter](https://gitter.im/Kallaway/100DaysOfCode) — you don’t need an invite, it’s open for anyone to join. Also, follow [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) on Twitter to stay in touch with the community.
+  Cari #100DaysOfCode di Twitter, atau sertai [ruang 100DaysOfCode di Gitter](https://gitter.im/Kallaway/100DaysOfCode) — tidak perlu jemputan, ia terbuka untuk sesiapa yang ingin menyertai. Juga, ikuti [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) di Twitter untuk sentiasa berhubung dengan komuniti.
 
-  **Q:** I've already started the challenge, and I'm currently on Day 8. How can I start using this repo to track my progress?  
-  **A:** Don't worry. Restore as much info on the previous days, but if you can't then just continue from where you are right now. If you have been tweeting about your progress every day, put the links to your tweets in the Log for each day. Then, follow the format.  
+  **Q:** Saya sudah mulakan cabaran ini, dan saya sekarang di hari ke-8. Bagaimana boleh saya mula menggunakan repositori ini untuk menjejaki perkembangan saya?  
+  **A:** Jangan risau. Tuliskan kembali sebanyak mana informasi pada hari-hari sebelumnya; tapi sekiranya todak boleh, teruskan saja dari mana anda berada sekarang. Jika anda ada menghantar tweet berkenaan kemajuan anda setiap hari, letakkan pautan kepada tweet tersebut di dalam Rekod untuk hari tersebut. Kemudian, ikuti format yang ditetapkan.
 
-  **Q:** I am new to coding (or just deciding to learn to code) and can’t build projects yet, what should I do?  
-  **A:** The best way to start would be to follow the [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.com/) from the very beginning. The further you get during the 100 days, the better.  
+  **Q:** Saya baru lagi dalam bidang pengaturcaraan (atau baru sahaja membuat keputusan untuk belajar menulis kod) dan tidak dapat membina projek lagi, apa yang patut saya buat?  
+  **A:** Cara yang terbaik untuk bermula ialah dengan mengikuti [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.com/) dari awal. Sejauh mana yang anda boleh pergi selama 100 hari ini, lebih baik.  
 
-  **Q:** I’ve missed a day, does it mean I’ve failed the challenge?  
-  **A:** Absolutely not. You are allowed to miss one day (then make it up by adding one more day to the end of the 100), but never miss two days in a row. This is a great piece of advice on habit formation that I got from Leo Babauta at zen habits.  
+  **Q:** Saya telah ponteng sehari, adakah ini bermakna saya gagal cabaran ini?  
+  **A:** Sudah tentu tidak. Anda dibenarkan untuk bercuti selama satu hari (tetapi pulun balik dengan menambah lagi satu hari selepas berakhirnya hari ke-100), asalkan tidak ponteng lebih 2 hari. Ini adalah satu nasihat yang baik untuk membina tabiat yang saya belajar dari Leo Babauta dari zen habits.  
 
-  **Q:** I come home late, and by the time I am finished with my hour, it’s past midnight, does it count?  
-  **A:** Of course it counts! The rule of thumb is: have you coded for at least an hour before going to sleep that day? If yes, you are on track.  
-  The reason for this is that we all have different schedules and different life periods (kids, school, work, and what have you) so don’t hold yourself to some arbitrary time standard. You will not experience what Cinderella experienced once the clock strikes midnight.  
-  Don't worry whether you get a point on GitHub on that particular day. Yes, it’s nice to have them in a streak one by one, but don’t do yourself a disservice by measuring your efforts to a clock.  
+  **Q:** Saya lambat pulang ke rumah, dan bila saya baru saja selesaikan tugasan hari tersebut, saya sedari waktu sudah lebih tengah malam, adakah ia dikira?  
+  **A:** Mestilah! Garis panduan: adakah anda telah menulis kod sekurang-kurangnya satu jam sebelum anda tidur pada hari itu? Kalau benar, anda berada di landasan yang betul.
+  Sebabnya, kita semua ada jadual dan kehidupan yang berbeza (keluarga, sekolah, kerja dan lain-lain) jadi tidak perlu letakkan diri anda atas satu norma waktu. Anda tidak akan mengalami apa yang Cinderella alami ketika jam berdetik 12 tengah malam.  
+  Usah gusir sama ada anda akan mendapat satu point di GitHub pada hari tertentu. Ya, ianya sangat bermakna jika berupaya mendapatkannya secara berterusan satu demi satu, tetapi jangan sampai merugikan diri sendiri dengan mengukur usaha anda dengan waktu.  
 
-  **Q:** Should I keep a journal?  
-  **A:** Yes you should, and the best way to do that is to fork this repo, and commit to [the Log](log.md) daily. It’s helpful in two major ways: you will be able to look at the progress each day and see how far you’ve already come and it will be easier to find the motivation to continue, and the second one is that after you’ve done your 100 days, you will be able to analyze your experience better and see what worked and what didn’t.
+  **Q:** Perlukah saya menyimpan jurnal?  
+  **A:** Ya anda patut, dan cara yang terbaik untuk melaksanakannya ialah dengan fork repositori ini, dan hantar commit ke [Rekod](log.md) setiap hari. Ianya sangat berguna dalam dua cara secara khusus: anda akan dapat melihat kemajuan anda setiap hari dan seberapa banyak anda sudah capai selama ini, dan ia akan menjadi lebih mudah untuk mencari motivasi untuk terus konsisten; dan yang kedua ialah setelah anda berjaya melangkaui 100 hari, anda sudah boleh menganalisa pengalaman anda dengan lebih baik dan dapat mengagak apa yang boleh dipakai dan apa yang tidak.
 
-  **Q:** Should I put my projects online?  
-  **A:** Definitely. It’s great for accountability and motivation to know that the stuff you’ve worked on is accessible online to anyone who may wish to look at it. It will make you care about the end product more, and will lead to a more impressive result in the end. I suggest you put them on GitHub.
+  **Q:** Bolehkah saya letakkan projek-projek saya atas talian?  
+  **A:** Sudah tentu. Ianya baik untuk lahirkan rasa tanggungjawab dan sebagai motivasi apabila anda tahu bahawa apa yang anda buat selama ini boleh dicapai oleh sesiapa sahaja yang ingin melihatnya di atas talian. Ia akan menjadikan anda lebih mengambil berat tentang produk anda, dan akan membawa kepada hasil yang lebih memberangsangkan. Saya cadangkan anda letakkannya di GitHub.
 
-  **Q:** Should I worry about streaks?  
-  **A:** Streaks are nice and helpful, but as I mentioned above — don’t worry about them too much and don’t criticize yourself over missing a day. Instead, make sure you do everything to not let that happen again, and know that worrying and scolding yourself will not give you any results. (Ok, It will give you results, but only negative. I would call them consequences, not results) The best way to get out of that negative emotional state is to sit down and code.
+  **Q:** Perlukah saya ambil berat tentang konsistensi?
+  **A:** Ianya sesuatu yang baik dan bermanfaat, tetapi seperti mana yang saya sebutkan di atas — jangan khuatir tentang perkara tersebut sangat, dan jangan mengkritik diri anda jika terlangkau satu hari. Sebaliknya, pastikan anda buat apa yang anda boleh untuk tidak membenarkannya berulang kembali, dan ketahuilah bahawa perasaan bimbang atau memarahi diri anda sendiri tidak akan memberi anda apa-apa hasil pun (Ok, sebenarnya ia akan memberi anda hasil, tetapi yang negatif. Saya gelarkannya akibat, bukannya hasil). Cara yang terbaik untuk keluar dari keadaan emosi yang negatif adalah dengan duduk dan menulis kod.
 
-  **Q:** What is the most difficult part of this challenge?  
-  **A:** The part where you have to sit down and start coding. Don’t postpone that or think about it at all, because you will rationalize yourself out of it. Approach it mechanically: sit down, open your laptop, launch your coding editor, and start typing. After 5 minutes, you will not feel any problems/procrastination/desire to stop.  
+  **Q:** Apakah perkara yang paling sukar di dalam cabaran ini? 
+  **A:** Apabila anda duduk dan mula menulis kod. Jangan lengahkan atau fikir tentangnya sama sekali, kerana rasional anda akan mula keluarkan diri anda darinya. Dekati secara mekanikal: duduk, buka komputer anda, lancarkan kod editor, dan mulakan menaip. Selepas 5 minit, anda tidak akan rasa apa-apa masalah/keinginan untuk menangguh atau berhenti.  
 
-  **Q:** If everyone started on a certain day, should I join them on the day they are? For example, from Day 12?  
-  **A:** This challenge is individual, so when you join you start at day 1. Whenever you’ll be posting an update on Twitter or elsewhere, make sure to mention which day you are on and use the hashtag so that people can find and support you!  
+  **Q:** Sekiranya semua orang bermula pada suatu hari tertentu, perlukah saya menyertai mereka pada hari tersebut? Contohnya, dari hari ke-12?  
+  **A:** Ini adalah cabaran individual, jadi apabila anda menyertainya, anda akan mulakan dari hari pertama. Pada bila masa sahaja anda akan menghantar status kemas kini di Twitter dan sebagainya, pastikan anda sebutkan hari ke berapa anda berada dan gunakan hashtag supaya orang lain dapat mencari anda dan memberikan sokongan!  
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+## Kandungan
+* [Peraturan](rules.md)
+* [Rekod - Klik untuk melihat rekod kemajuan saya](log.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [Sumber](resources.md)

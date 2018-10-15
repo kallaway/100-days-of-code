@@ -1,30 +1,30 @@
-# 100 Days Of Code - Log
+# Rekod 100 Days Of Code
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Hari 0: 28 Februari 2016 (Contoh 1)
+##### (Padam atau komen keluar)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Perkembangan**: Baiki CSS, buat fungsi kanvas untuk aplikasi.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Nukilan:** Saya rasa susah sangat dengan CSS ni, tapi secara umumnya, saya rasa macam semakin dapat menggunakannya dengan lebih baik. Kanvas masih baru bagi saya, tapi saya rasa masih boleh faham fungsi-fungsi asas.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Pautan:** [Aplikasi Mesin Kira](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Hari 0: 28 Februari 2016 (Contoh 2)
+##### (Padam atau komen keluar)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Perkembangan**: Baiki CSS, buat fungsi kanvas untuk aplikasi.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Nukilan:** Saya rasa susah sangat dengan CSS ni, tapi secara umumnya, saya rasa macam semakin dapat menggunakannya dengan lebih baik. Kanvas masih baru bagi saya, tapi saya rasa masih boleh faham fungsi-fungsi asas.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Pautan**: [Aplikasi Mesin Kira](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Hari 1: 27 Jun, Isnin
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Perkembangan**: Saya sudah habiskan latihan di FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Nukilan** Saya baru saja mula koding, tapi memang rasa best sangat bila akhirnya dapat selesaikan cabaran algoritma selepas banyak cobaan dan waktu yang dihabiskan.
 
-**Link(s) to work**
+**Pautan**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
