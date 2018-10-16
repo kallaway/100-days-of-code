@@ -1,10 +1,10 @@
-# Rekod #100DaysOfCode - Pusingan 1 - [Nama anda di sini]
+# #100DaysOfCode Log - Round 1 - [Your Name Here]
 
-Ini adalah rekod cabaran #100DaysOfCode saya sejak [Isnin, 17 Julai 2017].
+The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
-## Rekod
+## Log
 
-### R1D1
-Saya mula mengaturcara aplikasi cuaca. Menulis draf untuk rekabentuk aplikasi, tapi bergelut dengan OpenWeather API http://www.example.com
+### R1D1 
+Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
 
 ### R1D2

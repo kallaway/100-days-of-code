@@ -1,41 +1,41 @@
-# Sumber utama untuk #100DaysOfCode
+# Primary Resources on the #100DaysOfCode
 
-[Laman rasmi #100DaysOfCode](http://100daysofcode.com/)
+[The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
-### Artikel
+### Articles
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
 2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
-### Podcast
+### Podcasts
 
-# Sumber tambahan untuk #100DaysOfCode
+# Additional Resources on the #100DaysOfCode
 
-## Artikel berguna
+## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 
-## Projek dan Idea
+## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
 
-## Sumber lain
+## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 
-## Buku (samada melibatkan kod atau sebaliknya)
+## Books (both coding and non-coding)
 
-### Tanpa kod
-1. ["The War of Art" dari Steven Pressfield](http://www.goodreads.com/book/show/1319.The_War_of_Art)
-2. ["The Obstacle is the Way" dari Ryan Holiday](http://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way?ac=1&from_search=true)
-3. ["Ego is the Enemy" dari Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
-4. ["Meditations" dari Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
+### Non-Coding
+1. ["The War of Art" by Steven Pressfield](http://www.goodreads.com/book/show/1319.The_War_of_Art)
+2. ["The Obstacle is the Way" by Ryan Holiday](http://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way?ac=1&from_search=true)
+3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
+4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
 
-### Kod
-1. "Professional Node.js" dari Teixeira
-2. ["Eloquent Javascript" dari Marijn Haverbeke](http://eloquentjavascript.net/) - versi atas talian (percuma) dan paperback
-3. "Mastering JavaScript" dari Ved Antani
+### Coding
+1. "Professional Node.js" by Teixeira
+2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
+3. "Mastering JavaScript" by Ved Antani
 
-## Kandungan
-* [Peraturan](rules.md)
-* [Rekod - klik untuk melihat rekod kemajuan saya](log.md)
+## Contents
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
-* [Sumber](resources.md)
+* [Resources](resources.md)

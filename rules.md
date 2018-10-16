@@ -1,28 +1,28 @@
-# Peraturan untuk cabaran 100 Days Of Code
+# Rules of the 100 Days Of Code Challenge
 
-## Komitmen utama
-### *Saya akan menulis kod untuk sekurang-kurangnya satu jam setiap hari untuk 100 hari seterusnya.*
+## Main Commitment
+### *I will code for at least an hour every day for the next 100 days.*
 
-#### Tarikh mula
-25 Jun, 2016. [TULIS TARIKH ANDA DI SINI]
+#### Start Date
+June 25th, 2016. [PUT YOUR DATE HERE]
 
-## Peraturan tambahan
-1. Saya akan tweet status perkembangan saya setiap hari -> menggunakan hashtag #100DaysOfCode
-2. Sekiranya saya menulis kod semasa bekerja, masa tersebut tidak dikira dalam cabaran ini.
-3. Saya akan push kod saya ke GitHub setiap hari supaya setiap orang boleh melihat tahap kemajuan saya.
-4. Saya akan mengemas kini (Rekod)[log.md] bersama perkembangan terbaru saya pada hari tersebut dan menyediakan pautan supaya orang lain dapat mengikuti perkembangan saya.
-5. Saya akan bekerja dengan projek yang sebenar, menghadapi cabaran yang sebenar. Masa yang dihabiskan untuk melakukan tutorial, kursus-kursus atas talian dan sumber-sumber lain yang serupa dengannya, TIDAK akan dimasukkan dalam kiraan masa cabaran ini. (Jika anda baru sahaja mula belajar untuk menulis program aturcara, baca [FAQ](FAQ.md))
+## Additional Rules
+1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
+2. If I code at work, that time won't count towards the challenge.
+3. I will push code to GitHub every day so that anyone can see my progress.
+4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
+5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 
-## Idea untuk menjadikan cabaran ini lebih efektif
-1. Supaya dapat menambah kebarangkalian untuk berjaya, diwajibkan bahawa anda perlu sertakan pautan ke status harian di dalam [Rekod](log.md). Ia boleh jadi satu pautan kepada commit yang anda push di GitHub, atau pautan ke catatan blog.
-2. Jika anda mula rasa bingung atau tersangkut, baca artikel ini: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
-3. Jika anda ingin tahu kenapa kami begitu menekankan supaya anda  bekerja dengan projek berbanding melakukan tutorial atau kursus atas talian, baca ini: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
-4. Jika anda tidak dapat push kod anda ke GitHub atas apa-apa sebab yang munasabah (contohnya, anda baru sahaja mula menulis kod dan melakukan latihan interaktif), sertakan pautan ke tweet. Anda boleh fikirkan sesuatu asalkan cabaran anda sentiasa publik - dan anda dapat peroleh manfaat sentiasa komited ke arah matlamat dan bertanggungjawab ke atas tahap kemajuan anda sendiri.
-5. Satu lagi faedah apabila anda fork repositori ini -> jika anda tidak pernah menggunakan Markdown sebelum ini, anggap ini sebagai satu cara yang baik untuk anda latih kemahiran anda.
+## Ideas to make this challenge more effective
+1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
+2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
+3. If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
+4. If you can't push your code to GitHub for some reason (e.g. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
+5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
 
-## Kandungan
-* [Peraturan](rules.md)
-* [Rekod - klik untuk melihat rekod kemajuan saya](log.md)
+## Contents
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
-* [Sumber](resources.md)
+* [Resources](resources.md)
