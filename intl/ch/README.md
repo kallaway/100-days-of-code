@@ -7,6 +7,9 @@
 * [常见问题及回答](FAQ.md)
 * [资源](resources.md)
 
+## Translations
+[বাংলা](../bn/README.md) - [中文](README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md)
+
 ## 如果你已经决定要加入：
 
 0.  查看 #100DaysOfCode 运动的[官方网站](http://100daysofcode.com/)。与其他人在这些平台上建立联系：www.100DaysOfCode.com/connect

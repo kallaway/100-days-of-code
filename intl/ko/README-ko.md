@@ -8,7 +8,7 @@
 * [참고 자료](resources.md)
 
 ## 다국어 번역
-[스페인어](intl/es/README.md) – [프랑스어](intl/fr/FAQ-fr.md) – [러시아어](intl/ru/README-ru.md) – [포르투갈어(브라질)](intl/pt-br/LEIAME.md) – [독일어](intl/de/README.md) – [우크라이나어](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) 
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) 
 
 내용 및 규칙에 대한 번역을 제공하여 저희를 도와주시려면, Pull Request를 이용하거나 @ka11away로 트위터 메시지를 보내주시면 됩니다. (Pull Request는 'intl' 폴더에 서브 폴더를 만들어 번역한 파일을 저장하면 됩니다.)
 
