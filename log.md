@@ -154,7 +154,11 @@ https://codepen.io/manvityagi/pen/zmoQwx
 2. FUnctional To do List using jquery :
 https://codepen.io/manvityagi/pen/NOwrdd
  
-
+ #100DaysOfCode 
+Day 61 to 68 :
+On the way to make a gaming-collection-web-platform
+Done with the landing page
+https://codepen.io/manvityagi/pen/pxxvYJ?editors=1100
 
 
 
