@@ -6,6 +6,9 @@
 * [FAQ (często zadawane pytania)](FAQ-pl.md)
 * [Materiały](materiały.md)
 
+## Translations
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md)
+
 ## Jeżeli zdecydowałeś/aś się dołączyć:
 0.  Zajrzyj na [oficjalną stronę](http://100daysofcode.com/) aby dowiedzieć się o #100DaysOfCode. Łącz się z innymi na platformach z tej listy: www.100DaysOfCode.com/connect
     i, [tutaj](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) jest link do zaproszenia aby dołączyć do 100DaysOfCode na platformie Slack.

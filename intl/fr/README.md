@@ -6,6 +6,9 @@
 * [FAQ](FAQ-fr.md)
 * [Ressources](resources-fr.md)
 
+## Translations
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md)
+
 
 ## Vous avez décidé de vous inscrire:
 0. Faites un tour sur [le site officiel](http://100daysofcode.com/) des #100JoursDeCode. Rejoignez les autres participants sur la plateforme de votre choix figurant dans cette liste: www.100DaysOfCode.com/connect En outre, vous trouverez [ici](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) une invitation pour le canal slack 100JoursDeCode. 
