@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 15
+Nov 5, 2018
+
+Today's Progress: Got my Windows VM working in Azure.  Got Power BI installed. Did more research on data sources and processes for data ingest, picked a data ingest path.  Reviewed the data fields and some peripheral tools to ingest file attachments to deals.  Tried ingesting my XML data but failed.  Diagnostics and discussion with a cloud architect friend suggests I need a beefier VM.  Going to Webex with him tomorrow to learn to save snapshots of my environment and then provision a bigger VM. 
+
+Thoughts: Had a real breakthrough today.  I had tried a couple of times to set up my Windows environment and couldn't get it working.  It was a good demonstration of the concept that if I really lean into the problem, I know I can solve it.  I shouldn't be so tentative, especially after an initial setback.  
+
+Link to work: N/A
+
 Day 14
 Nov 4, 2018
 
