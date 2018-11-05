@@ -1,5 +1,5 @@
 Day XX
-Oct XX, 2018
+Nov XX, 2018
 
 Today's Progress: 
 
@@ -7,8 +7,17 @@ Thoughts:
 
 Link to work: N/A
 
+Day 14
+Nov 4, 2018
+
+Today's Progress: Reviewed my Kanban and swim lane chart, decided to dig into FedBizOpps data feeds.  Found a weekly data feed, though it seems to be all the records updated for the week, rather than the full database.  There's an API as well, but it looks complicated to use.
+
+Thoughts: I need to spend some time on Power BI, XML editing, data filtering, data prep, and building a full data, including historical data, for relevant deals.  I'm assuming that if I filter, there won't be too many deal records to handle.  I'll also need to get my Windows VM working in Azure so I can run Power BI.
+
+Link to work: N/A
+
 Day 10, 11, 12, 13
-Oct 3, 2018
+Nov 3, 2018
 
 Today's Progress: Agile: Built a Kanban board with all of the tasks from my swim lane chart.  Added a user story to each one.  The user stories are first drafts (MVPs), I'll refine them as I go if needed.  But now I have a really great plan to execute.
 
