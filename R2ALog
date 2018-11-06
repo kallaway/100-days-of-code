@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 16
+Nov 6, 2018
+
+Today's Progress: Did a lot of configuration of my (too weak) Windows VM to try to get my dataset working in Power BI.  Set up Visual Studio IDE, FTP, and did some test input of an XML file into Power BI.  Unfortunately, I can't get my 1.2 million line dataset to load properly.
+
+Thoughts: My options are to keep trying using the current dataset, which is a problem because neither Power BI nor Atom seems to recognize it as an XML file, so there must be errors in it.  Second option is to write a parser in Javascript, which seems reasonable but will take me at least a week (though it will build some critical coding skills).  Third option is to learn Node.js well enough to parse the daily files using the parser that the 18F guys wrote.  I'm kind of pursuing all three now, but with a focus on importing into Power BI.  I may need to go to one of the other options soon.  If it's not good xml, it's probably going to be difficult to use over time.
+
+Link to work: N/A
+
 Day 15
 Nov 5, 2018
 
