@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 17
+Nov 7, 2018
+
+Today's Progress: Ran my first node.js program (hello world) and second - the FBO parser from 18F. Made some additions to the code to parse the data.  Still struggling with object references in Javascript.  But I learned how to debug in node.  Also validated my JSON files and examined them.  Started the data schema design for my project.
+
+Thoughts: Made great progress today.  Frustrating that I couldn't figure out how to reference the object name/value pairs, but I know I'll get there.  Made progress on debugging node, but the debugger seems a bit weak.  Glad I persevered and made good progress despite some fits and starts.
+
+Link to work: N/A
+
 Day 16
 Nov 6, 2018
 
