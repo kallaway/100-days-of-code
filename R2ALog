@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 18
+Nov 8, 2018
+
+Today's Progress: I got my JSON filter code working.  It's not functional programming (I used procedural) and it onluy works on one day's data (I have to figure out how to append to files, unless I can merge in Power BI or something).  But I can officially read the JSON output from the parser, filter on NAICS codes, and write out a file of the interesting deals.
+
+Thoughts: Of the 1225 updates to the FedBizOpps website on Nov 5, 127 were potentially relevant.  Which means theremay be a lot of relevant deals out there, and if I can build some good AI, it could be very valuable in finding the best ones to pursue.  I'm sure some will score low and I'll narrow it down, but very encouraging that it may be a problem set that is big enough to not just work manually, but small enough to be manageable as a proof of concept.  This is very exciting.
+
+Link to work: N/A
+
 Day 17
 Nov 7, 2018
 
