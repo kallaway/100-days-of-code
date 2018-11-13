@@ -7,6 +7,9 @@
 * [FAQ](FAQ.md)
 * [リソース](resources.md)
 
+## Translations
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md)
+
 ## 参加方法
 
 0.  [公式サイト](http://100daysofcode.com/)で#100DaysOfCodeの活動を見てください。このリスト（www.100DaysOfCode.com/connect）から、好きなプラットフォームを選んで他の参加者と繋がりましょう。
