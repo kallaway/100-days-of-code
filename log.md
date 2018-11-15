@@ -160,9 +160,27 @@ On the way to make a gaming-collection-web-platform
 Done with the landing page
 https://codepen.io/manvityagi/pen/pxxvYJ?editors=1100
 
+#100DaysOfCode 
+After a pause of 1 week ,
+Day 69 to 76 :
+Done with a gaming app, made as a minor project with some friends.
+https://checkmait.github.io/The-Gaming-Arena/
+
+#100DaysOfCode 
+Day 77 to 80 :
+On occasion of Diwali , i made a personalised greeting card.
+https://invincible-mt.github.io/Greetify-Landing-Page/ …
+I plan to make a web App called as Greetify in near future, which would have the features of PERSONALISING YOUR GREETS AND SEND THEM AS LINKS.
+
+#100DaysOfCode 
+Day 81:
+A nostalgic photo gallery gifted by me to my family.
+https://invincible-mt.github.io/greetify-family/ …
 
 
 
 
-
+#100DaysOfCode 
+Day 82 to 86 :
+i had been revising Data Structures & doing competitive coding these days.
 
