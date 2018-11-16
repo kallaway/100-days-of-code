@@ -1,39 +1,38 @@
-# I've joined the #100DaysOfCode Challenge
+# #100DaysOfCodeチャレンジへの参加
 
-## Contents
+## コンテンツ
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [ルール](rules.md)
+* [学習ログ](log.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [リソース](resources.md)
 
 ## Translations
-[বাংলা](intl/bn/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md)
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md)
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+## 参加方法
 
-## If you've decided to join:
+0.  [公式サイト](http://100daysofcode.com/)で#100DaysOfCodeの活動を見てください。このリスト（www.100DaysOfCode.com/connect）から、好きなプラットフォームを選んで他の参加者と繋がりましょう。
+    また、[こちら](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA)から100DaysOfCodeのSlackに参加することができます。
+1.  [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)を読んでください。
+1.  このリポジトリをフォークして[学習ログ](log.md)、もしくは[R1学習ログ](r1-log.md) (R1はラウンド1の略)に毎日投稿してください。[例](https://github.com/Kallaway/100-days-kallaway-log).
+1.  **これから100日間、毎日最低1時間プログラミングをしましょう。**
+1.  **毎日Twitter上で最低2人の人を応援してください！励まし合っていきましょう。**
+1.  [ルール](rules.md)の開始日を自分がチャレンジを初めた日に変更してください。
+1.  学習ログの例は削除し、自分の学習内容を記述してください。
+1.  **毎日Twitterにその日の進捗を#100DaysOfCodeタグを付けて投稿してください。**
+1.  [100DaysOfCode](https://twitter.com/_100DaysOfCode)をフォローしてください。このBotは#100DaysOfCodeタグのツイートを自動でリツイートします。これによりモチベーションを保ち、コミュニティの参加者と関わり合うことができます。[@amanhimself](https://twitter.com/amanhimself)さん、Botを作ってくれてありがとうございます！
+1.  【重要】 (詳しくは4番目のルールを見てください) Twitter上で、チャレンジの参加者と励まし合いましょう！進捗の投稿に返信してみたり、質問に答えてあげたりすることで、このコミュニティがより効果的なものになり、一人ひとりの成功確率が上がっていきます。また、周りの参加者と関係を築くことで、自身の決意もより固くなるでしょう。
+1.  もし他の人も使えそうな有用なサイトを見つけたら、このリポジトリに追加してプルリクエストを送るか、[@ka11away](https://twitter.com/ka11away)までDMを送ってください。
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-1.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-1.  **Code minimum an hour every day for the next 100 days.**
-1.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-1.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-1.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-1.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-1.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-1.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+## その他のチャレンジにも参加してみませんか？
 
-## Want to change other habits?
+[the #100DaysOfX Challenges Project](http://100daysofx.com/)を見てみてください。習慣が変われば、人生が変わります。始めるなら今です！
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+私のおすすめは最大でも同時に2,3個以上のチャレンジに同時には参加しないことで、理想は2個です。#100DaysOfCodeのような精神的な強さが必要なチャレンジをしているのであれば、 [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/)や[#100DaysOfFitness](http://100daysofx.com/challenges/)などのチャレンジを同時にやることがおすすめです。
+その他にも言語、作文、瞑想、料理などたくさんあるので、色々見て選んでみてください！
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+## 備考
 
-## Note
-
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+* 100DaysOfCodeに関するその他の質問やアイデアに関しては、こちらのツイッターへ: [@ka11away](https://twitter.com/ka11away)
+* このリポジトリを気に入っていただけた場合は、右上とスターボタンを押してもらえると大変嬉しいです :)

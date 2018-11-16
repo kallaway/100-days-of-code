@@ -1,30 +1,19 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - 学習ログ
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### 0日目: 2016年2月28日
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**今日の進捗**: 計算機アプリのCSSを修正して、canvasの機能に取り掛かった。
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**思ったこと** CSSにはとても苦労したけど、少しずつ上達してきてる気がする。Canvasはまだ始めたばっかりだけど、基本的な機能はいくつか理解できてきた。
 
-**Link to work:** [Calculator App](http://www.example.com)
+**リンク** [計算機アプリ](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### 1日目: 2016年6月27日（月）
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**今日の進捗**: FreeCodeCampの演習をたくさん進めた。
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**思ったこと** プログラミングを始めたばかりだから、何時間もかけてやっとアルゴリズムのチャレンジが解けるとめちゃくちゃ気持ちいい！
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
+**リンク**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
