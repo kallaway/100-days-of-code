@@ -1,3 +1,12 @@
+Day 30
+Nov 20, 2018
+
+Today's Progress: Coded up the logic for creating a year's worth of file names and looping to read, sort, and write them.  Also made progress on further filtering my data, creating topic models, and reading and writing JSON files.  Perhaps most importantly, I thought hard about how to structure and parse my data for training the topic models.
+
+Thoughts: With the advancement in filtering I discovered by studying my data set, I think I can get to a very good corpus without much manual sorting of data records. That's great because it means I can spend my time learning to train topic models (e.g. getting the code working, creating a test model), and then running various test corpus datasets through the models to use AI to score and filter deal content.  I'm not there yet, but I can see the core AI stuff on the horizon.
+
+Link to work: N/A
+
 Day XX
 Nov XX, 2018
 
