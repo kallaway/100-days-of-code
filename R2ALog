@@ -1,3 +1,20 @@
+Day XX
+Nov XX, 2018
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: N/A
+
+Day 31
+Nov 21, 2018
+
+Today's Progress: figured out how to refactor my code into functional programming structure.  Developed a standard way to test for key/value pairs in the data so the code won't crash if the JSON data is not well formed.  Got the data structure working in client-side Javascript so that I can use the Chrome debugger environment.  Wrote new pseudocode for the entire to-be data filter, including looping over multiple input data sets, filtering out uninteresting records, and storing relevant text for interesting records.  Made coding tweaks to improve current (working) version for a single file.
+
+Thoughts: If I get in the right head space and can really focus, uninterrupted, for an hour or so, I can make amazing progress.  Then I have to take a break, decompress, think about other things.  During that time, other ideas/implications of what I've accomplished kind of fall out of my head.  After a certain amount of decompression, I can go back and do another round.  The challenge is to get into the mindset, and to find an hour without interruption.
+
+Link to work: N/A
 Day 30
 Nov 20, 2018
 
@@ -7,14 +24,6 @@ Thoughts: With the advancement in filtering I discovered by studying my data set
 
 Link to work: N/A
 
-Day XX
-Nov XX, 2018
-
-Today's Progress: 
-
-Thoughts: 
-
-Link to work: N/A
 
 Day 26, 27, 28, 29
 Nov 19, 2018
