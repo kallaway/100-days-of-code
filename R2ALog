@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 32, 33
+Nov 23, 2018
+
+Today's Progress: Thanksgiving yesterday, so no coding.  Complete rest day spent with family.  Today I refactored the code to be functional by creating a couple of functions.  I also put in validation checks for the JSON inputs.  And I created the logic to parse and filter out the uninteresting deals.  All that remains is the file I/O.  I have a separate code file for that, but I need to integrate the input file reads, build the output arrays, and write out the JSON file and descriptions for topic model training.
+
+Thoughts: I took a chance by completely writing code from scratch, rather than making edits to existing code.  I'm very glad I did, because it turned out that I wrote very high quality code.  Took much less debugging than I thought and I feel like I have very solid code at this point. I should have text for training topic models very shortly.  With any luck, I may be able to generate my first files this weekend.  Thats' a stretch goal, but early in the week is definitely possible.
+
+Link to work: N/A
+
 Day 31
 Nov 21, 2018
 
