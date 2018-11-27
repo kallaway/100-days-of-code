@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 35, 36
+Nov 36, 2018
+
+Today's Progress: Yesterday I wrote some code to solidify my filters. Did some research on workflow platforms.  Today I examined my output data and found filter issues, completely refactored my filter code (successfully), tightened up my filters, refined the files that I write out for model training, and implemented the loop over multiple days of files.  Examined the output data for relevance and structure.  
+
+Thoughts: I worked so fast today! I couldn't believe how much I got done.  Writing the output files (moving from the JSON objects to my output objects and writing files), completely refactoring my filter code, implementing the multiple input file loop. I thought each of those would be a major undertaking.  It took barely any debugging at all!  I have data in training-ready format and can change it if needed to make it easier to train. Ready to sort through the data, then jump into Python and start training models using the data.
+
+Link to work: N/A
+
 Day 34
 Nov 24, 2018
 
