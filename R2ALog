@@ -7,8 +7,17 @@ Thoughts:
 
 Link to work: N/A
 
+Day 37, 38
+Nov 28, 2018
+
+Today's Progress: Yesterday I studied my output data text, cleaned it up, and did some AI research on approaches to using the data.  Today I studied the data, studied some applications of AI to understand how to use it, and met with a data scientist so that I could let him review my data, give me some input, and make recommendations.
+
+Thoughts: Good food for thought.  I really am kind of getting a better understanding of how to use different supervised and unsupervised AI algorithms to classify data vs drive workflow.  I have some ideas that I need to develop but I feel like I'm on the right learning track.
+
+Link to work: N/A
+
 Day 35, 36
-Nov 36, 2018
+Nov 26, 2018
 
 Today's Progress: Yesterday I wrote some code to solidify my filters. Did some research on workflow platforms.  Today I examined my output data and found filter issues, completely refactored my filter code (successfully), tightened up my filters, refined the files that I write out for model training, and implemented the loop over multiple days of files.  Examined the output data for relevance and structure.  
 
