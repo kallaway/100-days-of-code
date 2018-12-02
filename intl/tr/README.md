@@ -1,11 +1,14 @@
-# I've joined the #100DaysOfCode Challenge
+<!--- smusali
+# #100DaysOfCode Davetine katıldım
 
-## Contents
+## İçindekiler
 
-* [Rules](rules.md)
+* [Kurallar](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [Sıklıkla Sorulan Sorular](FAQ.md)
+* [Kaynaklar](resources.md)
+
+--->
 
 ## Translations
 [বাংলা](intl/bn/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md)
