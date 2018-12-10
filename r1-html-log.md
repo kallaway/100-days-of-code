@@ -11,3 +11,6 @@ Kept advancing on the Applied Visual Design challenges on freecodecamp. The publ
 
 **R1D3 - December 8th, 2018**
 Did some lessons of the Applied Visual Design challenges on freecodecamp. Confirmed that the published GitHub page for the CatPhotoApp is updating automatically when I push the changes. Here's the current version: https://mr2much.github.io/webdev/practice
+
+**R1D4 - December 9th, 2018**
+Today I didn't advance on freecodecamp because I decided to start working on my online CV, I've always wanted to make one and I think that it is coming along nicely. Found a way to add collapsible lists using CSS only. Here's the mockup? layout? how do you call this thing? Anyways, here's the link: https://mr2much.github.io/webdev/onlinecv/html/index
