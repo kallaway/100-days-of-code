@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 49, 50
+Dec 10, 2018
+
+Today's Progress: Reviewed my Javascript code, looked at refactoring some of the functionality in Python.  Looks like Python will be the answer but need to figure out the point in the process to write out Javascript output and read into Python.
+
+Thoughts: Javascript was necessary because 18F wrote a Javascript parser for my source data.  It was also useful because I knew how to write code in it and could filter, examine, and prep my data.  But now it's time to refactor in Python with Jupyter.  I'm expecting a hefty learning curve but at the end of it I should be in great shape doing data prep and data processing.
+
+Link to work: N/A
+
 Day 48
 Dec 8, 2018
 
