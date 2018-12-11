@@ -14,3 +14,6 @@ Did some lessons of the Applied Visual Design challenges on freecodecamp. Confir
 
 **R1D4 - December 9th, 2018**
 Today I didn't advance on freecodecamp because I decided to start working on my online CV, I've always wanted to make one and I think that it is coming along nicely. Found a way to add collapsible lists using CSS only. Here's the mockup? layout? how do you call this thing? Anyways, here's the link: https://mr2much.github.io/webdev/onlinecv/html/index
+
+**R1D5 - December 10th, 2018**
+Added a navbar to the CV to navigate between sections. Added anchors for correct positioning when navigation on the page using the navbar. Also discovered that the css file was not linking correctly to the published page and fixed it.
