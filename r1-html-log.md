@@ -17,3 +17,6 @@ Today I didn't advance on freecodecamp because I decided to start working on my 
 
 **R1D5 - December 10th, 2018**
 Added a navbar to the CV to navigate between sections. Added anchors for correct positioning when navigation on the page using the navbar. Also discovered that the css file was not linking correctly to the published page and fixed it.
+
+**R1D6 - December 11th, 2018**
+Made the CatPhotoApp look psychedelic with a bunch of colors and crazy animations. Also changed the folder structure for the project. Check it out at the Portfolio website. https://mr2much.github.io/webdev
