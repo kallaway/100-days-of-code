@@ -23,3 +23,6 @@ Made the CatPhotoApp look psychedelic with a bunch of colors and crazy animation
 
 **R1D7 - December 12th, 2018**
 The stars on the CatPhotoApp are now displayed at each side of the "main window" instead of at the top, I was reducing the width of the BODY element, I changed it to reduce the width of the main container instead. Also finished the Applied Visual Design challenges on freecodecamp, going to start the Applied Accessibility Challenges.
+
+**R1D8 - December 13th, 2018**
+Did some of the Applied Accessibility Challenges on freecodecamp, and it's finally here, my customized landing page for the online portfolio, tremble world for I am powerful: https://mr2much.github.io/webdev/
