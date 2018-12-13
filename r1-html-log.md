@@ -20,3 +20,6 @@ Added a navbar to the CV to navigate between sections. Added anchors for correct
 
 **R1D6 - December 11th, 2018**
 Made the CatPhotoApp look psychedelic with a bunch of colors and crazy animations. Also changed the folder structure for the project. Check it out at the Portfolio website. https://mr2much.github.io/webdev
+
+**R1D7 - December 12th, 2018**
+The stars on the CatPhotoApp are now displayed at each side of the "main window" instead of at the top, I was reducing the width of the BODY element, I changed it to reduce the width of the main container instead. Also finished the Applied Visual Design challenges on freecodecamp, going to start the Applied Accessibility Challenges.
