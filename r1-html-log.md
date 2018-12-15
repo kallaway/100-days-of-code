@@ -26,3 +26,6 @@ The stars on the CatPhotoApp are now displayed at each side of the "main window"
 
 **R1D8 - December 13th, 2018**
 Did some of the Applied Accessibility Challenges on freecodecamp, and it's finally here, my customized landing page for the online portfolio, tremble world for I am powerful: https://mr2much.github.io/webdev/
+
+**R1D9 - December 14th, 2018**
+Did two pomodoros for the Applied Accessibility Challenges on freecodecamp.
