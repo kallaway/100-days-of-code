@@ -8,3 +8,6 @@ Finished setting up the Visual Studio Code for C# development. I am running two 
 
 **R1D2 - December 13th, 2018**
 Finished the introductory part of the C# Foundamentals course on Pluralsight
+
+**R1D3 - December 14th, 2018**
+Started the second chapter of the C# Fundamentals course on Pluralsight.
