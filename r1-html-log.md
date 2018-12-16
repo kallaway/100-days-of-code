@@ -29,3 +29,6 @@ Did some of the Applied Accessibility Challenges on freecodecamp, and it's final
 
 **R1D9 - December 14th, 2018**
 Did two pomodoros for the Applied Accessibility Challenges on freecodecamp.
+
+**R1D10 - December 16th, 2018**
+Finished the Applied Accessibility Challenges on freecodecamp and started with Responsive Web Design and toying around with Flexbox.
