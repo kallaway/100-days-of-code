@@ -11,3 +11,6 @@ Finished the introductory part of the C# Foundamentals course on Pluralsight
 
 **R1D3 - December 14th, 2018**
 Started the second chapter of the C# Fundamentals course on Pluralsight.
+
+**R1D4 - December 15th, 2018**
+Advanced a little on the second chapter of the C# Fundamentals course on Pluralsight. So far C# seems way too similar to Java, have been doing some experimentation of my own in the way of doing things and most of them have worked, it seems that it's not going to be as hard as I though it would be.
