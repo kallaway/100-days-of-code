@@ -2,7 +2,7 @@
 
 | Day | Date       | Today's Progress             | Thoughts       | Links to Work                                                                                                              |
 | --- | ---------- | ---------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 01  | 15/12/2018 | Anki Spaced Repetition Study | *see link* --> | [Being Greedy With Change](https://medium.com/@penguinmlle/100-days-of-code-d1-being-greedy-with-change-cs50-db0260aa18f4) |
+| 01  | 15/12/2018 | CS50 Problem Set 1 - Cash.c completed; Anki Spaced Repetition Study 21 cards in 18 minutes | *see link* --> | [Being Greedy With Change](https://medium.com/@penguinmlle/100-days-of-code-d1-being-greedy-with-change-cs50-db0260aa18f4) |
 
 >## Day 10: August 20, 2018
 >**Today's Progress:** Set up XAMPP on my local computer and installed WordPress.
