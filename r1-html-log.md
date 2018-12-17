@@ -32,3 +32,6 @@ Did two pomodoros for the Applied Accessibility Challenges on freecodecamp.
 
 **R1D10 - December 16th, 2018**
 Finished the Applied Accessibility Challenges on freecodecamp and started with Responsive Web Design and toying around with Flexbox.
+
+**R1D11 - December 16th, 2018**
+I think I added two entries today, don't know how to count it, one was around 1 AM and this one around 9 PM. Did an unhealthy amount of HTML/CSS learning today, feel great! Check out the cool TODO List I started making at my Portfolio site: https://mr2much.github.io/webdev/
