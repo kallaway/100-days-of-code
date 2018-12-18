@@ -1,9 +1,18 @@
-Day XX
-Dec XX, 2018
+Day 58
+Dec 18, 2018
 
-Today's Progress: 
+Today's Progress: Got both my Python and Javascript working in the VSCode debugger and from the VSCode terminal.  Designed a data flow for filtering and processing my data.  Started refactoring my Javascript data.  Hope it results in code that's ready for prime time.
 
-Thoughts: 
+Thoughts: So far, I'm very impressed with VScode capability but struggling to understand why there are so few tutorial resources for it.  Seems to be very powerful but configuration isn't obvious to me.  I've done some problem solving to get my code running in the debugger but far from convinced I have a robust config.  In the meantime, I think I have everything I need to do some real Node.js and Python coding, so I'm feeling great about my progress.
+
+Link to work: N/A
+
+Day 57
+Dec 17, 2018
+
+Today's Progress: Really started focusing on using VScode.  Did some tutorials, set up the editor (e.g. linter) and got some simple Python code running in the debugger.
+
+Thoughts: There's no way I could do any coding without a full-featured IDE.  VSCode seems really incredible, both for Python and Javascript.
 
 Link to work: N/A
 
