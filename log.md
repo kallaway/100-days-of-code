@@ -2,6 +2,7 @@
 
 | Day | Date       | Today's Progress                                                                           | Thoughts                                                                     | Links to Work                                                                                                              |
 | --- | ---------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 03  | 18/12/2018 | Successfully did a kata on codewars.com in each language I am familiar with except for R   | I like CodeWars a whole lot more than I expected!                            | [CodeWars Solutions Page](https://www.codewars.com/users/lalaithan/completed_solutions)                                    |
 | 02  | 17/12/2018 | Did a kata on codewars.com, learned about JS math library                                  | I don't know why I'm surprised at the math JS could do, but I am fascinated. | [CodeWars Solutions Page](https://www.codewars.com/users/lalaithan/completed_solutions)                                    |
 | 01  | 15/12/2018 | CS50 Problem Set 1 - Cash.c completed; Anki Spaced Repetition Study 21 cards in 18 minutes | *see link* -->                                                               | [Being Greedy With Change](https://medium.com/@penguinmlle/100-days-of-code-d1-being-greedy-with-change-cs50-db0260aa18f4) |
 
@@ -14,7 +15,7 @@
 >**Thoughts:** Nearly done with the Responsive Web Design challenges for FreeCodeCamp!
 >**Links to work:** [freeCodeCamp Public Portfolio page](https://www.freecodecamp.org/lalaithan)
 >## Day 8: August 14, 2018
->**Today's Progress:** Completed FreeCodeCamp's Applied Visual Design section and moved onto Applied Accesibility leaving off at "Add an Accessible Date Picker".
+>**Today's Progress:** Completed FreeCodeCamp's Applied Vis>  * ual Design section and moved onto Applied Accesibility leaving off at "Add an Accessible Date Picker".
 >**Thoughts:** I feel like making several small goals will improve my working habits. I did four Pomodoros today and can do so much more but I was losing momentum at the end. I like seeing progress visually I find, like FreeCodeCamp does with their curriculum page.
 >**Links to work:** [freeCodeCamp Public Portfolio page](https://www.freecodecamp.org/lalaithan)
 >## Day 7: August 13, 2018
@@ -58,7 +59,7 @@
 >## Day 3: July 24, 2018
 >**Today's Progress:** I chose a C++ code challenge from SoloLearn's collection and spent some time refreshing myself on C++ code. I have only made one obvious adjustment due to time constraints and I think I need to make some adjustments to VS Code for some errors.
 >**Thoughts:** I should probably learn what a rebus is and what it is used for to complete this problem.
->**Links to work:** https://github.com/lalaithan/SL-fix-the-code-challenge
+>**Links to work:** <https://github.com/lalaithan/SL-fix-the-code-challenge>
 >## Day 2: July 23, 2018
 >**Today's Progress**: I read about variables,  `if...else`, `Boolean` objects, `slice()` method, and `parseInt()` in the Javascript documentation provided by [DevDocs](https://http://devdocs.io). I am taking a class called Responsive Website Basics provided to Coursera by the University of London, Goldsmiths and these were introduced recently. The example they used to apply these things was an e-reader. Also applied to Lyft for a software engineering job.
 >**Thoughts:** I really need to take it easy when applying. Right now, it's very emotionally draining.
