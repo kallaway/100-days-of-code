@@ -35,3 +35,6 @@ Finished the Applied Accessibility Challenges on freecodecamp and started with R
 
 **R1D11 - December 16th, 2018**
 I think I added two entries today, don't know how to count it, one was around 1 AM and this one around 9 PM. Did an unhealthy amount of HTML/CSS learning today, feel great! Check out the cool TODO List I started making at my Portfolio site: https://mr2much.github.io/webdev/
+
+**R1D12 - December 18th, 2018**
+Today I experimented a bit more with flexbox and started learning around display: grid. It makes me think of bootstrap for some reason.
