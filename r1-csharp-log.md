@@ -14,3 +14,6 @@ Started the second chapter of the C# Fundamentals course on Pluralsight.
 
 **R1D4 - December 15th, 2018**
 Advanced a little on the second chapter of the C# Fundamentals course on Pluralsight. So far C# seems way too similar to Java, have been doing some experimentation of my own in the way of doing things and most of them have worked, it seems that it's not going to be as hard as I though it would be.
+
+**R1D5 - December 18th, 2018**
+Pushed myself to keep advancing on the C# Fundamentals Course. About to reach the end of chapter two and then on to chapter three. Have not learned anything too fancy yet since most of the things the course is explaining so far looks too similar to Java code.
