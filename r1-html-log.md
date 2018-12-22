@@ -38,3 +38,6 @@ I think I added two entries today, don't know how to count it, one was around 1 
 
 **R1D12 - December 18th, 2018**
 Today I experimented a bit more with flexbox and started learning around display: grid. It makes me think of bootstrap for some reason.
+
+**R1D13, R1D14, R1D15 - December 19th, 20th, 21st, 2018**
+I have poked around a lot learning css tricks and best practices, I also updated my Registration Form, made it look a lot cooler IMO and I also implemented a bunch of cool looking tricks and learned about the importance of labels to make forms accessible, check it out on my portfolio: https://mr2much.github.io/webdev/
