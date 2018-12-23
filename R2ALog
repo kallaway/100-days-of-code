@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 63
+Dec 23, 2018
+
+Today's Progress: Got my Python loop working, fully prepped my data for testing and training.  Now I need to figure out how to separate out the bad scope (scope statements of opportunities I'm not interested in) so that I can get just the lines I care about in my data file.  Then I need to use all of the bad scope data and some subset of the good scope data as my testing data set.
+
+Thoughts: This is the part where I get into real AI and NLP.  I need to figure out how to easily read and evaluate every opportunity to establish good from bad and edit files accordingly.  Then build models, then evaluate test cases against models.  Fun stuff, real AI work!
+
+Link to work: N/A
+
 Day 62
 Dec 22, 2018
 
