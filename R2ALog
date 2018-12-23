@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 62
+Dec 22, 2018
+
+Today's Progress: Got my data file open, pulled out the right fields from the first JSON record, and parsed into sentences.  Need to develop my csv format and convert the data into a table so that I can train an AI.  Also need to pull some data so that I can do some basic data analysis, such as plotting volume of releases per day over the last year.
+
+Thoughts: I don't know why the debugger is working, but it is, which is great.  I'll work more on that later.  But I'm also thrilled that I've got most of my basic Python functions working and can focus on designing my data structure for AI training.  Getting closer.
+
+Link to work: N/A
+
 Day 61
 Dec 21, 2018
 
