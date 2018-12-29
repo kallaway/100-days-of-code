@@ -44,3 +44,6 @@ I have poked around a lot learning css tricks and best practices, I also updated
 
 **R1D16, R1D17 - December 22nd, 23rd, 2018**
 I have been having fun learning different tricks and stuff you can do in CSS for the past couple of days. I improved my form and I think that it looks pretty good, anyone willing to give me feedback? check it out: https://mr2much.github.io/webdev/onlineform/html/index
+
+**R1D18, R1D19, R1D20, R1D21, R1D22, December 24th, 25th, 26th, 27th, 28th, 29th, 2018**
+I have been tweaking my Portfolio page and my projects, learning about using Grid and improving the overall look of my pages. I remade the Tribute Page I had made on CodePen, but did it locally on my laptop and uploaded it to my portfolio. Have been highly productive these past few days, working for more than two hours each day and I feel really happy. Haven't gotten the gist of making a webpage look good, but I know I'll get there eventually. Check out my latest progress at: https://mr2much.github.io/webdev/
