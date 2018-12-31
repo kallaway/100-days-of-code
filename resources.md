@@ -12,7 +12,7 @@
 # Additional Resources on the #100DaysOfCode
 
 ## Helpful Articles
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+1. [Gentle Explanation of 'this keyword in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
