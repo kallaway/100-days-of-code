@@ -12,7 +12,7 @@
 # #100DaysOfCode (#100일코딩) 추가 참고 자료
 
 ## 도움이 되는 게시물(영문)
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+1. [Gentle Explanation of 'this keyword in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
 ## 프로젝트 및 아이디어(영문)
 1. [FreeCodeCamp](https://www.freecodecamp.com)

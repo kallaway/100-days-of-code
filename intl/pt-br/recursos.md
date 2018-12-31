@@ -14,7 +14,7 @@
 
 ## Artigos úteis
 
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+1. [Gentle Explanation of 'this keyword in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
 ## Projetos e ideias
 

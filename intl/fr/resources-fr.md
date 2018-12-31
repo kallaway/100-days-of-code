@@ -15,7 +15,7 @@
 # Ressources supplémentaires sur les #100DaysOfCode
 
 ## Articles utiles
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+1. [Gentle Explanation of 'this keyword in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
 ## Idées et projets
 1. [FreeCodeCamp](https://www.freecodecamp.com)
