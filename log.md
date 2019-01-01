@@ -6,7 +6,8 @@
 
 **Thoughts:** To get me started without getting trapped in indecision about what to learn I am working through Wes Bos great 30 day challenge on vanilla javascript. shout out to [Wes Bos](https://javascript30.com/)
 
+Discovered a nifty web tool to discover the keycodes of any [keypressed](http://keycode.info/) 
+
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Drunmkit](https://github.com/oreillyross/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 
