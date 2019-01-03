@@ -21,3 +21,14 @@ see how much can be achieved with a little bit of maths and css.
 
 **Link(s) to work**
 1. [CSS Clock](https://github.com/oreillyross/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
+
+### Day 2: January 03, 2019 
+
+**Today's Progress**: CSS Variables
+
+**Thoughts:** Using the new CSS variables syntax and some clever use of javascript to dynamically change the
+variables on the fly.
+
+
+**Link(s) to work**
+1. [CSS Variables](https://github.com/oreillyross/JavaScript30/tree/master/03%20-%20CSS%20Variables)
