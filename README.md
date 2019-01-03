@@ -1,6 +1,9 @@
-# I've joined the #100DaysOfCode Challenge
+# #100DaysOfCode 
+| Log 1 | Log 2 | Log 3 | Log 4 
+| :---: | :---: | :---: | :---:
+| This log | tba | tba | tba
 
-## Contents
+## Challenge & Committment 
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
