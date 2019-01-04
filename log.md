@@ -32,6 +32,12 @@
 
 ### Day 1: January 3, 2019
 
-**Today's Progress**: I have completed pending Basis CSS lessons and commenced Advanced Visual Design lessons.
+**Today's Progress**: I have completed pending Basic CSS lessons and commenced Advanced Visual Design lessons.
 
 **Thoughts**: I feel great resuming the FreeCodeCamp curriculum with a fresh determination and commitment to _go all the way_.
+
+### Day 2: January 4, 2019
+
+**Today's Progress**: I have come accross two html tags that I had never known about before; tag u for undelining text and s for striking throuh text.
+
+**Thoughts**: So tired to concentrate on code after traveling almost 9 hours by road.
