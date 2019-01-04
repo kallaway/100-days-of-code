@@ -7,7 +7,8 @@
 
 This is part of Alexander Kallaway's (http://100daysofcode.com/) #100DaysOfCode movement. 
 
-Commitment: *I will code daily for the next 100 days.*
+Commitment: *I will code daily for the next 100 days.* 
+
 | Start Date | End Date 
 | :---: | :---: 
 | January 2, 2019 | April 12, 2019 
