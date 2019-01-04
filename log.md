@@ -32,3 +32,14 @@ variables on the fly.
 
 **Link(s) to work**
 1. [CSS Variables](https://github.com/oreillyross/JavaScript30/tree/master/03%20-%20CSS%20Variables)
+
+### Day 3: January 04, 2019 
+
+**Today's Progress**: Graphqlgen
+
+**Thoughts:** Took a break from Wes Bos tonight, looking at graphql gen. I am working on a side project which uses Graphql and prisma. BUT I am very frustrated with understanding and writing resolvers, so hoping that
+the library graphqlgen from prisma helps me solve the automatic code generation for resolver boilerplate.
+
+
+**Link(s) to work**
+1. Nothing to show for it yet...
