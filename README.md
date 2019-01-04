@@ -5,11 +5,11 @@
 
 ## Challenge & Committment 
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+This is part of Alexander Kallaway's (http://100daysofcode.com/) #100DaysOfCode movement. 
+
+Commitment: *I will code daily for the next 100 days.*
+
+Join me and thousands of others, go to www.100daysofcode.com for more info on how to get started with the challenge.
 
 ## If you've decided to join:
 
-This is part of Alexander Kallaway's (http://100daysofcode.com/) #100DaysOfCode movement. 
