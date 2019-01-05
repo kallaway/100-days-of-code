@@ -43,3 +43,13 @@ the library graphqlgen from prisma helps me solve the automatic code generation 
 
 **Link(s) to work**
 1. Nothing to show for it yet...
+
+### Day 4: January 05, 2019 
+
+**Today's Progress**: Graphql and resolvers
+
+**Thoughts:** Very frustrating. One would think that this would be easier to use. But hey ho, I guess I must be a fronteer. I will keep pluggin away at thsi Graphql thing.
+
+
+**Link(s) to work**
+1. Nothing to show for it yet...
