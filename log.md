@@ -38,6 +38,12 @@
 
 ### Day 2: January 4, 2019
 
-**Today's Progress**: I have come accross two html tags that I had never known about before; tag u for undelining text and s for striking throuh text.
+**Today's Progress**: I have come across two html tags that I had never known about before; tag u for undelining text and s for striking throuh text.
 
 **Thoughts**: So tired to concentrate on code after traveling almost 9 hours by road.
+
+### Day 3: January 5, 2019
+
+**Today's Progress**: I covered basic color theory lessons.
+
+**Thoughts**: The lessons I covered today were interesting, however I found it rather boring to write code. I hope to be in better shape tomorrow and increase my tempo on the number of lessons per day.
