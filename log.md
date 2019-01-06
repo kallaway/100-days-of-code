@@ -47,3 +47,9 @@
 **Today's Progress**: I covered basic color theory lessons.
 
 **Thoughts**: The lessons I covered today were interesting, however I found it rather boring to write code. I hope to be in better shape tomorrow and increase my tempo on the number of lessons per day.
+
+### Day 4: January 6, 2019
+
+**Today's Progress**: I covered more color theory, CSS linear gradients, CSS transforms, @keyframes and animation.
+
+**Thoughts**: I had fun working through today's lessons. Am beginning to feel the urge to start practicing what am learning by creating hobbyist content on Code Pen.
