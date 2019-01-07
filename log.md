@@ -53,3 +53,13 @@ the library graphqlgen from prisma helps me solve the automatic code generation 
 
 **Link(s) to work**
 1. Nothing to show for it yet...
+
+### Day 5: January 06, 2019 
+
+**Today's Progress**: Graphql and resolvers
+
+**Thoughts:** Realised I actually need to go back to basics, work through a very simple example with nested queries.
+
+
+**Link(s) to work**
+1. Nothing to show for it yet...
