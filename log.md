@@ -63,3 +63,13 @@ the library graphqlgen from prisma helps me solve the automatic code generation 
 
 **Link(s) to work**
 1. Nothing to show for it yet...
+
+### Day 7: January 08, 2019 
+
+**Today's Progress**: Yikes, missed a day already. Today I learnt about incorporating Typescript into the mix
+
+**Thoughts:** So today I went through to explanatory texts on Typescript, I now know how to setup a node project and a react project using typescript. Its powerful stuff, and looking at twitter feed it seems many js'ers agree.
+
+
+**Link(s) to work**
+1. Nothing to show for it yet...
