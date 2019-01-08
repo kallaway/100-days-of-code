@@ -48,5 +48,21 @@ I have been having fun learning different tricks and stuff you can do in CSS for
 **R1D18, R1D19, R1D20, R1D21, R1D22, December 24th, 25th, 26th, 27th, 28th, 29th, 2018**
 I have been tweaking my Portfolio page and my projects, learning about using Grid and improving the overall look of my pages. I remade the Tribute Page I had made on CodePen, but did it locally on my laptop and uploaded it to my portfolio. Have been highly productive these past few days, working for more than two hours each day and I feel really happy. Haven't gotten the gist of making a webpage look good, but I know I'll get there eventually. Check out my latest progress at: https://mr2much.github.io/webdev/
 
-**R1D23, R1D24, R1D25, R1D26, R1D27, R1D28, R1D29: December 30th, 31st, 2018; January 1st, 2nd, 3rd, 4th, 5th 2019**
+**R1D23, R1D24, R1D25, R1D26, R1D27, R1D28, R1D29: December 30th, 31st, 2018; January 1st, 2nd, 3rd, 4th, 5th, 2019**
 I have been having a lot of fun learning about using grid, flex-box and a bunch of other stuff. Have spent a couple of days working on my survey form project and another couple of days learning about typography and making the fonts look good on the website and how important it is for the user experience and overall feel of the website. I'm thinking about starting to implement what I've learned as I go. Have also been learning about webdesign and what is important to create a good layout. I should be updating my advancement with the 100 days of code challenge, but lately I've been focusing more on working than on posting. On days when I don't work specifically on the projects or updating my portfolio, I try to practice and learn about something else, making sure that I'm not letting my days go to waste. You can see my latest project at: https://mr2much.github.io/webdev/surveyform/html/
+
+**R1D30, R1D31, R1D32; January 5th, 6th, 7th, 2019**
+On day 30 I made the social media links on the footer look a little better and added and effect to them when you hover over the links. I also learned about adding mailto:mail address as an href on the anchor tag property to open the default mail editor on the user's machine, which is nice.
+ 
+On day 31 I was reading about and trying to understand CSS Locks, Molten Leading and Fluid Typography, and started implementing them on my Tribute Page project
+
+On day 32 I still don't get fluid typography quite well, but I was following the guidelines of the following people:  
+
+Geoff Graham
+Tim Brown
+Mike Riethmuller and this one
+Richard Rutter
+
+Finally, I made the text look better by following Matthew Butterick's advice on typography.
+
+I'm not entirely happy with the look of the Tribute Page, and it still looks awful on my cell phone; but overall I think it looks good enough. I'm looking forward to the day that these concepts click on my brain but I guess that I'll get there with more practice and time.
