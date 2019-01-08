@@ -69,3 +69,5 @@ I'm not entirely happy with the look of the Tribute Page, and it still looks awf
 
 **R1D33; January 8th, 2019**
 I fixed the display on small devices by changing the max-width of the secondary image to be on "em" instead of a percentage of the parent div #secondary-img, I also removed the prefixed size of 500px entirely. Finally, to make the header look better on the smallest resolution, I changed the grid-template-rows to be (45vmin 1fr and 3%) instead of the (10% 1fr and 3%) that it was before.
+
+Finished making the Tribute Page look good on mobile devices. Perhaps I should test a bit more before affirming that, but right now it display correctly on my cell phone. I removed some unnecessary stylings from my css file that were causing the page to display incorrectly. I also learned that mobile browsers scale the page down automatically and that that behavior could be controlled with a meta tag called viewport.
