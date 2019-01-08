@@ -29,3 +29,9 @@
 **Today's Progress**: Cleared Applied Visual Design lessons. Moving on to Applied Accessibility.
 
 **Thoughts**: I took longer than necessary to finish the Applied Visual Design Lessons. I wanted to grasp the concepts.
+
+### Day 6: January 8, 2019
+
+**Today's Progress**: Done with Applied Acessibility.
+
+**Thoughts**: Am contented with my progress today.
