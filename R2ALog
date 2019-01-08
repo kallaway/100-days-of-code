@@ -1,9 +1,18 @@
 Day XX
 January XX, 2019
 
-Today's Progress: 
+Today's Progress:
 
 Thoughts: 
+
+Link to work: N/A
+
+Day 78
+January 7, 2019
+
+Today's Progress: FInally got my javascript updating my HTML.  Letting the HTML formatting in the JSON description text format the HTML output for readability. Working great.  
+
+Thoughts: I need to add some logic, and also see if I can remove the formatting using innerHTML.  But I'm glad, after all this time, that I'm starting to be able to connect my Javascript and HTML.  That was always a key part of my solution.
 
 Link to work: N/A
 
