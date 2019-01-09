@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 79
+January 8, 2019
+
+Today's Progress: Continued learning about Javascript DOM manipulation and jQuery.  Got an HTML page to read my JSON data and grab the "innerText", which is the text without HTML formatting.
+
+Thoughts: I've broken through the roadblock of trying to build this HTML page and make my data work on it.  I've also figured out how to have the browser DOM do my HTML scrub.  So big breakthrough.  Need to design the HTML solution, the data solution, and tag my data as training data, positive testing data, and negative testing data.  Getting close to building some AI.
+
+Link to work: N/A
+
 Day 78
 January 7, 2019
 
