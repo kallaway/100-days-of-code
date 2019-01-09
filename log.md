@@ -35,3 +35,9 @@
 **Today's Progress**: Done with Applied Acessibility.
 
 **Thoughts**: Am contented with my progress today.
+
+### Day 7: January 9, 2019
+
+**Today's Progress**: I did the Responsive Web Design Principles lessons and started CSS Flexbox lessons.
+
+**Thoughts**: I can't wait to get to the Responsive Web Design projects.
