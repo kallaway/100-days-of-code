@@ -71,3 +71,13 @@ I'm not entirely happy with the look of the Tribute Page, and it still looks awf
 I fixed the display on small devices by changing the max-width of the secondary image to be on "em" instead of a percentage of the parent div #secondary-img, I also removed the prefixed size of 500px entirely. Finally, to make the header look better on the smallest resolution, I changed the grid-template-rows to be (45vmin 1fr and 3%) instead of the (10% 1fr and 3%) that it was before.
 
 Finished making the Tribute Page look good on mobile devices. Perhaps I should test a bit more before affirming that, but right now it display correctly on my cell phone. I removed some unnecessary stylings from my css file that were causing the page to display incorrectly. I also learned that mobile browsers scale the page down automatically and that that behavior could be controlled with a meta tag called viewport.
+
+**R1D33; January 8th, 2019**
+I fixed the display on small devices by changing the max-width of the secondary image to be on "em" instead of a percentage of the parent div #secondary-img, I also removed the prefixed size of 500px entirely. Finally, to make the header look better on the smallest resolution, I changed the grid-template-rows to be (45vmin 1fr and 3%) instead of the (10% 1fr and 3%) that it was before.
+
+Finished making the Tribute Page look good on mobile devices. Perhaps I should test a bit more before affirming that, but right now it display correctly on my cell phone. I removed some unnecessary stylings from my css file that were causing the page to display incorrectly. I also learned that mobile browsers scale the page down automatically and that that behavior could be controlled with a meta tag called viewport.
+
+Started working on improving how my portfolio landing page looks on mobile devices (at least on mine), I need more feedback on this because I don't know if it looks good enough on other resolutions, I checked my portfolio page on my wife's phone and it didn't look as bad as I expected, even though I was navigating in Safari. At least the fluid typography was displaying on a readable manner. Right now I only improved the automatic scaling for mobile devices for my Portfolio and changed the background image size to be "contain" when the resolution is 700 pixels or less because the image was not scaling well.
+
+**R1D34; January 9th, 2019**
+Today I played around with fluid typography on my portfolio's landing page, I think it looks good enough. I also used Molten Leading for the line height and I think it looks good too. I still have to fix the sizes of the boxes on some resolutions which IMO they look kind of weird.
