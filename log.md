@@ -73,3 +73,13 @@ the library graphqlgen from prisma helps me solve the automatic code generation 
 
 **Link(s) to work**
 1. Nothing to show for it yet...
+
+### Day 8: January 10, 2019 
+
+**Today's Progress**: Doing Andrew Meads GraphQl course on Udemy
+
+**Thoughts:** Learnt about object property shorthand, and method functions when setting up a GraphQLServer (graphql-yoga)
+
+
+**Link(s) to work**
+1. Nothing to show for it yet...
