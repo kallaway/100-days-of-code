@@ -81,3 +81,6 @@ Started working on improving how my portfolio landing page looks on mobile devic
 
 **R1D34; January 9th, 2019**
 Today I played around with fluid typography on my portfolio's landing page, I think it looks good enough. I also used Molten Leading for the line height and I think it looks good too. I still have to fix the sizes of the boxes on some resolutions which IMO they look kind of weird.
+
+**R1D35, R1D36; January 10th, 11th, 2019**
+Started working on the Product Landing page project. At first I had no idea how to begin, but then I found that I tried working on something similar back in October of 2017 when I used to do drop-shipping on eBay. I had an interesting layout and that's what I'm gonna try to recreate here. I will not add any Bootstrap at this point because I feel that that would be like cheating on myself, I rather keep doing this with pure and simple HTML and CSS for now. Maybe in the future I'll add more styling and improve the project a bit, that's what I have been doing for everything else so far. Check out the project here: https://mr2much.github.io/webdev/product/html/index
