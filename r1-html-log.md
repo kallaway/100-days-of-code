@@ -84,3 +84,6 @@ Today I played around with fluid typography on my portfolio's landing page, I th
 
 **R1D35, R1D36; January 10th, 11th, 2019**
 Started working on the Product Landing page project. At first I had no idea how to begin, but then I found that I tried working on something similar back in October of 2017 when I used to do drop-shipping on eBay. I had an interesting layout and that's what I'm gonna try to recreate here. I will not add any Bootstrap at this point because I feel that that would be like cheating on myself, I rather keep doing this with pure and simple HTML and CSS for now. Maybe in the future I'll add more styling and improve the project a bit, that's what I have been doing for everything else so far. Check out the project here: https://mr2much.github.io/webdev/product/html/index
+
+**R1D37; January 12th, 2019**
+Worked on my Product Landing Page project. Spent a lot of time trying to make the footer span the full width of the page and start from the bottom. Also started working on the page's color schema. Is that what it is called? how do you call it? Anyways, checkout my progress here: https://mr2much.github.io/webdev/product/html/index
