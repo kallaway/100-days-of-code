@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 83, 84
+January 12, 2019
+
+Today's Progress: Didn't code yesterday, but spent several hours today.  Implemented buttons, added keys to JSON based on good/bad data for AI, and researched various ways to write out updated JSON.  I guess I'll try Google docs first.
+
+Thoughts: Local web server seems hard and kludgy.  After endless research, came down to GitHubPages and Google Drive.  GitHub Pages seems straightforward, Google drive looks well documented and has the ability to password-protect the account.  I have existing accounts on both.  My code can access files but unauthorized people cannot. Given that AI is based on data value, not code value, that's significant.  So I guess I'll try to make Google docs work, first without security and then using the security token.  Seems like if I do that I won't be swimming upstream anymore.  Downside is that I won't be very productive if I need the data and I'm not connected to a network, but that rarely happens in my life.
+
+Link to work: N/A
+
 Day 82
 January 10, 2019
 
