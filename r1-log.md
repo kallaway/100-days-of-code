@@ -11,4 +11,9 @@ Revising how to make a commit wit GitHub:
 Joined the slack channel
 worked on some basic css
 
+Resources used
+https://rubygarage.org/blog/most-basic-git-commands-with-examples
+https://kbroman.org/github_tutorial/pages/routine.html
+https://kbroman.org/github_tutorial/pages/init.html
+
 ### R1D2
