@@ -41,3 +41,9 @@
 **Today's Progress**: I did the Responsive Web Design Principles lessons and started CSS Flexbox lessons.
 
 **Thoughts**: I can't wait to get to the Responsive Web Design projects.
+
+### Day 8: January 13, 2019
+
+**Today's Progress**: I resumed CSS Flexbox lessons aftre skipping 3 days in a row - concentrating on some urgent backend project tasks.
+
+**Thoughts**: I'll try not to break my coding streak as much as possible.
