@@ -17,3 +17,7 @@ https://kbroman.org/github_tutorial/pages/routine.html
 https://kbroman.org/github_tutorial/pages/init.html
 
 ### R1D2
+Today I covered
+1.Padding
+2.Adjusting the margin of an element
+Basic CSS: Use Attribute Selectors to Style Elements

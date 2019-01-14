@@ -10,3 +10,12 @@
 **Link to work:** [FreeCodeCampLessons](https://github.com/alushaks/FreeCodeCampLessons)
 
 
+### Day 2: January 14, 2019
+
+
+**Today's Progress**: Continued with basic CSS from the FreeCodeCamp Program and pushed it to github.
+
+**Thoughts:** I think am getting comfortable with pushing code
+
+**Link to work:** [FreeCodeCampLessons](https://github.com/alushaks/FreeCodeCampLessons)
+
