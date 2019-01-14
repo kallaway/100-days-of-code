@@ -87,3 +87,6 @@ Started working on the Product Landing page project. At first I had no idea how 
 
 **R1D37; January 12th, 2019**
 Worked on my Product Landing Page project. Spent a lot of time trying to make the footer span the full width of the page and start from the bottom. Also started working on the page's color schema. Is that what it is called? how do you call it? Anyways, checkout my progress here: https://mr2much.github.io/webdev/product/html/index
+
+**R1D38; January 13th, 2019**
+Finished working on the Product Landing Page project.
