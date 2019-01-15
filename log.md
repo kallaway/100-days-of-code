@@ -2,8 +2,10 @@
 
 | Day | Date       | Today's Progress                                                                           | Thoughts                                                                                                                      | Links to Work                                                                                                              |
 |-----|------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| 07  | 1/08/2019  | Worked on a CodeWars kata in JavaScript/Node.js                                            | I really don't feel confident I understood this kata. I will be revisiting it tomorrow.                                       | [CodeWars Profile Page](https://www.codewars.com/users/lalaithan/completed_solutions)                                      |
-| 06  | 1/06/2019  | Worked on a few Hackerrank problems in JavaScript/Node.js                                  | none                                                                                                                          | [Hackerrank Profile Page](https://www.hackerrank.com/adeanderso)                                                           |
+| 09 | 1/14/2019 | Watched [Git Tutorial for Beginners: Command-line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4&t=443s) and read [How JavaScript Works](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf) for a refresher, studied with Anki, did a CodeWars kata in CoffeeScript that I previously did in JavaScript | When you wake up and feel crappy from a few days of not being hydrated, I find doing refreshers is better than doing nothing. Surprisingly, the Coffeescript rework of the kata I did a while ago was more challenging than I expected. Surprises help me understand, I find.| [CodeWars Profile Page](https://www.codewars.com/users/lalaithan/completed_solutions) |
+| 08 | 1/13/2019 | Forgot to log some days last week. I've started up my daily independent learning again now that the stress from holidays and being sick are over. Read from [PHP & MySQL by Larry Ullman](https://github.com/LarryUllman/phpmysqlvqp-5ed), studied with Anki, and brushed up on [how to be more neat and organized with using Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c). | I don't know how PHP is user-friendly unless you code in some pretty difficult languages. | n/a |
+| 07  | 1/7/2019  | Worked on a CodeWars kata in JavaScript/Node.js                                            | I really don't feel confident I understood this kata. I will be revisiting it tomorrow.                                       | [CodeWars Profile Page](https://www.codewars.com/users/lalaithan/completed_solutions)                                      |
+| 06  | 1/6/2019  | Worked on a few Hackerrank problems in JavaScript/Node.js                                  | none                                                                                                                          | [Hackerrank Profile Page](https://www.hackerrank.com/adeanderso)                                                           |
 | 05  | 12/22/1018 | Did a debugging kata in PostgreSQL, C, Coffeescript, & PHP                                 | none                                                                                                                          | [CodeWars Profile Page](https://www.codewars.com/users/lalaithan/completed_solutions)                                      |
 | 04  | 12/21/2018 | Not the best day but got a JavaScript kata in. Can't tell you how I solved it.             | I've finally learned (& am applying this!) that doing crappy code on crappy days is going to help me more than doing nothing. | [CodeWars Profile Page](https://www.codewars.com/users/lalaithan/completed_solutions)                                      |
 | 03  | 1218//2018 | Successfully did a kata on codewars.com in each language I am familiar with except for R   | I like CodeWars a whole lot more than I expected!                                                                             | [CodeWars Profile Page](https://www.codewars.com/users/lalaithan/completed_solutions)                                      |
@@ -32,29 +34,33 @@
 >**Links to Work:** [My development workflow repo](https://github.com/lalaithan/program-development-practices)
 >## "Day" 5: August 10, 2018
 >**Today's Progress:** Had no access to a computer for work other than SoloLearn exercises on my phone. I'm using this to share my notes from my learning. Continuing my Responsive Web Design MOOC, the topics were web design-focused as in:
->* User experience and usability comes before any code
->* __Navigation__
->  * Sitemaps or hierarchies (_Answer: Where can I go?_)
->  * "Breadcrumbs" (_Answer: Where am I?_)
->* __Layout__ (_Answer: What is here?_)
->* __Accessibility__
->  * Web Access Initiative - <https://www.w3.org/WAI/>
->* Dark patterns - <https://www.darkpatterns.org/>
->* Understand why users are going to the website
->* BE SIMPLE
->* BE CONSISTENT
->* DON’T OBFUSCATE
->* __Two basic design approaches__
->  * _[Cognitive/evidence-based](https://www.edwardtufte.com/tufte/)_
->   * What is the information? How do we make the information clear?
->  * _[User-centric](https://www.w3.org/WAI/redesign/ucd)_
->   * Who are our users? What do they want? How do they get the information?
+>
+> * User experience and usability comes before any code
+> * __Navigation__
+>   * Sitemaps or hierarchies (_Answer: Where can I go?_)
+>   * "Breadcrumbs" (_Answer: Where am I?_)
+> * __Layout__ (_Answer: What is here?_)
+> * __Accessibility__
+>   * Web Access Initiative - <https://www.w3.org/WAI/>
+>   * Dark patterns - <https://www.darkpatterns.org/>
+>   * Understand why users are going to the website
+>   * BE SIMPLE
+>   * BE CONSISTENT
+>   * DON’T OBFUSCATE
+> * __Two basic design approaches__
+>   * _[Cognitive/evidence-based](https://www.edwardtufte.com/tufte/)_
+>     * What is the information? How do we make the information clear?
+>   * _[User-centric](https://www.w3.org/WAI/redesign/ucd)_
+>     * Who are our users? What do they want? How do they get the information?
+>
 >**Thoughts:** I've come up with a small list of things to go over daily. Right now my list is:
->* [ ] Programming paradigms
->* [ ] Databases
->* [ ] Algorithms & data structures
->* [ ] Actual programming/developing
->* [ ] Computer-related math
+>
+> * [ ] Programming paradigms
+> * [ ] Databases
+> * [ ] Algorithms & data structures
+> * [ ] Actual programming/developing
+> * [ ] Computer-related math
+>
 >**Links to work:** n/a
 > ### Day 4: July 26-27, 2018
 >**Today's Progress:** I worked on some JavaScript for the Coursera course I am taking.
