@@ -47,3 +47,9 @@
 **Today's Progress**: I resumed CSS Flexbox lessons aftre skipping 3 days in a row - concentrating on some urgent backend project tasks.
 
 **Thoughts**: I'll try not to break my coding streak as much as possible.
+
+### Day 9: January 14, 2019
+
+**Today's Progress**: I did several CSS Flexbox lessons.
+
+**Thoughts**: Glad to be learning flexbox properties.
