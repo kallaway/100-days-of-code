@@ -90,3 +90,6 @@ Worked on my Product Landing Page project. Spent a lot of time trying to make th
 
 **R1D38; January 13th, 2019**
 Finished working on the Product Landing Page project.
+
+**R1D39; January 14th, 2019**
+Started working on a new layout for my Portfolio Landing Page. Now you can see a small preview of the project before clicking on it. Took me a lot of time to achieve it but I'm really proud of myself. Should be done by tomorrow. Check it out here: https://mr2much.github.io/webdev/
