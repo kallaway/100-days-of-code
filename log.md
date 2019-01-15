@@ -53,3 +53,9 @@
 **Today's Progress**: I did several CSS Flexbox lessons.
 
 **Thoughts**: Glad to be learning flexbox properties.
+
+### Day 10: January 15, 2019
+
+**Today's Progress**: Done with CSS Flexbox lessons.
+
+**Thoughts**: Ready for the CSS Grid challenges!
