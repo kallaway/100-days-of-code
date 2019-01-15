@@ -36,5 +36,5 @@ The first things I am going to try to tackle in an hour a day are courses/certif
 I'll be kicking this off likely next week to ensure that I'm set up for success and being able to dedicate time to this on a daily basis. Excited about what's to come!
 
 ### **LINKS TO WORK:** 
-1. [The Odin Project](https://www.theodinproject.com/courses)
+1. [The Odin Project - Web Development 101](https://www.theodinproject.com/courses)
 2. [Free Code Camp - Responsive Web Design Certification](https://learn.freecodecamp.org)
