@@ -1,30 +1,40 @@
-# 100 Days Of Code - Log
+# 100 DAYS OF CODE - LOG
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## DAY 0/100: January 15, 2019 (Tuesday)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### **TODAY'S PROGRESS:**
+I decided to participate in the 100 Days of Code challenge.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### **THOUGHTS:**
+In the spirit of learning in 2019, I have decided to commit to the 100 Days of Code challenge. I am going to try to stick to everything largely as instructed but will be modifying a few things here or there to fit my schedule and current workflow.
 
-**Link to work:** [Calculator App](http://www.example.com)
+I'm starting this brand spanking new with no experience other than some HTML email coding and Wordpress custom CSS experience. My goals are to understand the foundations of front end web development and build my skills in HTML, CSS, and Javascript over the next 100 days. I want to take on both entry point projects for beginners, invest time in reading materials and resources to help build my understanding, and work on certifications that will push me to learn more over time.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+The first things I am going to try to tackle in an hour a day are courses/certifications from The Odin Project and Free Code Camp outlined below:
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**The Odin Project - Web Development 101**
+- [ ] The Basics
+- [ ] Installation
+- [ ] Git Basics
+- [ ] The Front End
+- [ ] Javascript Basics
+- [ ] The Back End
+- [ ] Web Development Basics
+- [ ] Pair Programming
+- [ ] Tying it All Together
+	
+**Free Code Camp - Responsive Web Design Certification**
+- [ ] Basic HTML and HTML5
+- [ ] Basic CSS
+- [ ] Applied Visual Design
+- [ ] Applied Accessibility
+- [ ] Responsive Web Design Principles
+- [ ] CSS Flexbox
+- [ ] CSS Grid
+- [ ] Responsive Web Design Projects
+	
+I'll be kicking this off likely next week to ensure that I'm set up for success and being able to dedicate time to this on a daily basis. Excited about what's to come!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### **LINKS TO WORK:** 
+1. [The Odin Project](https://www.theodinproject.com/courses)
+2. [Free Code Camp - Responsive Web Design Certification](https://learn.freecodecamp.org)
