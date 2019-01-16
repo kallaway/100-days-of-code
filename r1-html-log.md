@@ -93,3 +93,6 @@ Finished working on the Product Landing Page project.
 
 **R1D39; January 14th, 2019**
 Started working on a new layout for my Portfolio Landing Page. Now you can see a small preview of the project before clicking on it. Took me a lot of time to achieve it but I'm really proud of myself. Should be done by tomorrow. Check it out here: https://mr2much.github.io/webdev/
+
+**R1D40; January 15th, 2019**
+Finished adding thumbnail previews for all the projects in my portfolio. Didn't code too much and the biggest issue was getting screenshots for my images. I found a library that supposedly creates images out of the pages, but haven't used it yet. Will have to improve in the future. For now, let's just keep advancing. Check out my latest update here: https://mr2much.github.io/webdev/
