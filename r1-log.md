@@ -1,6 +1,6 @@
 #100DaysOfCode Log - Round 1 - Alumakankaleanda Sh
 
-The log of my #100DaysOfCode challenge. Started on [January 13, Sunday, 2018].
+The log of my #100DaysOfCode challenge. Started on [January 13, Sunday, 2019].
 
 ## Log
 
@@ -16,8 +16,18 @@ https://rubygarage.org/blog/most-basic-git-commands-with-examples
 https://kbroman.org/github_tutorial/pages/routine.html
 https://kbroman.org/github_tutorial/pages/init.html
 
-### R1D2
+### R1D2 January 14, Monday, 2019
 Today I covered
 1.Padding
 2.Adjusting the margin of an element
-Basic CSS: Use Attribute Selectors to Style Elements
+3.Basic CSS: Use Attribute Selectors to Style Elements
+
+### R1D2 January 15, Tuesday, 2019
+
+learnt Java from Progate
+
+### R1D2 January 16, Wednesday, 2019
+1.Clone the machin learning repo ,did a fork instead
+Basic CSS: Understand Absolute versus Relative Units
+started the course:Learn the command line in Terminal
+Resources:https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal
