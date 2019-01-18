@@ -96,3 +96,6 @@ Started working on a new layout for my Portfolio Landing Page. Now you can see a
 
 **R1D40; January 15th, 2019**
 Finished adding thumbnail previews for all the projects in my portfolio. Didn't code too much and the biggest issue was getting screenshots for my images. I found a library that supposedly creates images out of the pages, but haven't used it yet. Will have to improve in the future. For now, let's just keep advancing. Check out my latest update here: https://mr2much.github.io/webdev/
+
+**R1D41; January 16th, 2019**
+Fixed the Online Registration Form project's layout on small displays. Now it looks great on mobile.
