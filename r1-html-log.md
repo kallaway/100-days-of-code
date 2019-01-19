@@ -99,3 +99,6 @@ Finished adding thumbnail previews for all the projects in my portfolio. Didn't 
 
 **R1D41; January 16th, 2019**
 Fixed the Online Registration Form project's layout on small displays. Now it looks great on mobile.
+
+**R1D42; January 18th, 2019**
+Practiced creating layouts using Grid Box. Also, didn't code much today because I spent the day watching animated movies.
