@@ -105,3 +105,6 @@ Practiced creating layouts using Grid Box. Also, didn't code much today because 
 
 **R1D43; January 19th, 2019**
 Improved the overall look of the TODO List app and made it look good on small displays, at least on 320x568 it looks good both in portrait and landscape modes, while on 720x1280 it only looks good on portrait mode. I'll keep working on it. I also practiced some more on combaning Grid and Flex for creating layouts.
+
+**R1D44; January 20th, 2019**
+Improved look of buttons on the TODO list app and improved the fonts a little.
