@@ -108,3 +108,6 @@ Improved the overall look of the TODO List app and made it look good on small di
 
 **R1D44; January 20th, 2019**
 Improved look of buttons on the TODO list app and improved the fonts a little.
+
+**R1D45; January 21th, 2019**
+Created an image gallery and added it to my Portfolio page. I specially like the inner div containing a link and the little square giving credit to the authors containing another, without them conflicting with each other. Check it out here: https://mr2much.github.io/webdev/imggallery/html/
