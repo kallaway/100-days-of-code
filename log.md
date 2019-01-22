@@ -71,3 +71,9 @@
 **Today's Progress**: Completed CSS Grid challenges.
 
 **Thoughts**: Feeling ready to create some impressive HTML/CSS layouts! With Responsive Web Design challenges out of the way, I'll tackle the projects and embark on JavaScript Algorithms & Data Structures concurrently.
+
+### Day 13: January 20, 2019
+
+**Today's Progress**: Completed the pending Basic JavaScript challenges.
+
+**Thoughts**: Looking forward to complete at least one Responsive Web Design project tomorrow.
