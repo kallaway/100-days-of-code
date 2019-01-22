@@ -59,3 +59,9 @@
 **Today's Progress**: Done with CSS Flexbox lessons.
 
 **Thoughts**: Ready for the CSS Grid challenges!
+
+### Day 11: January 19, 2019
+
+**Today's Progress**: Worked on several CSS Grid challenges.
+
+**Thoughts**: Inadvertently skipped several days due to work pressure.
