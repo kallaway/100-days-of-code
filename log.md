@@ -65,3 +65,9 @@
 **Today's Progress**: Worked on several CSS Grid challenges.
 
 **Thoughts**: Inadvertently skipped several days due to work pressure.
+
+### Day 12: January 21: 2019
+
+**Today's Progress**: Completed CSS Grid challenges.
+
+**Thoughts**: Feeling ready to create some impressive HTML/CSS layouts! With Responsive Web Design challenges out of the way, I'll tackle the projects and embark on JavaScript Algorithms & Data Structures concurrently.
