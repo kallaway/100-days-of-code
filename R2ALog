@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 94
+January 22, 2019
+
+Today's Progress: Started looking at the freeCodeCamp exercises for APIs and Microservices.  Did the first one and then realized that freeCodeCamp wasn't validating the code.  So did some research and discovered I need to do a fair amount of work and learning to do the kinds of things that the exercises are asking of me.
+
+Thoughts: So decision time... I have working web server code that I believe is good enough for what I need today.  I can, in theory, use this code to go back to my AI work and start refactoring my code onto glitch.  Or I can spend some time to dig deeper into the API and Microservices projects from freeCodeCamp, which may teach me a lot more about what's possible.  It would be an easy decision to just go back to my AI stuff, except that I'm in the middle of learning this stuff and doing the exercises would help me solidify my understanding.  I suppose making a bunch of buttons on HTML pages would help me solidify my understanding as well. And I can always go back to freeCodeCamp later. It would also allow me to start refactoring my code directly into Glitch, so that I can migrate my environment onto a web-based platform and off the laptop.  Time to do AI again?
+
+Link to work: https://polar-sled.glitch.me
+
 Day 93
 January 21, 2019
 
