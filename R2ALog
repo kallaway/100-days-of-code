@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: N/A
 
+Day 95
+January 23, 2019
+
+Today's Progress: Decided to pursue writing my code rather than doing more lessons on APIs and Microservices.  Explored a number of areas that I'll need to integrate into a Glitch project, including configuring Glitch itself, integrating with GitHub for code repository and CM, and the mechanics of coding - which seem to be driven mostly by Express.
+
+Thoughts: I'm a contextual learner, I learn by solving problems that give lessons context.  The work I've already done in FreeCodeCamp has already given me a great baseline amount of context.  Just re-reading a couple of things about Express that had been cryptic before are now starting to become clear, as is my direction for next steps.  I need to really understand Express on a deeper level, and I need to understand how to integrate my code into an Express environment.  Then I need to finish porting my code into Glitch, integrated with GitHub.  I'll also need to learn things like how to use Chrome Dev tools with my Glitch project, but that can come later.
+
+Link to work: N/A
+
 Day 94
 January 22, 2019
 
