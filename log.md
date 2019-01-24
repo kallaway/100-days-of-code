@@ -72,8 +72,14 @@
 
 **Thoughts**: Feeling ready to create some impressive HTML/CSS layouts! With Responsive Web Design challenges out of the way, I'll tackle the projects and embark on JavaScript Algorithms & Data Structures concurrently.
 
-### Day 13: January 20, 2019
+### Day 13: January 22, 2019
 
 **Today's Progress**: Completed the pending Basic JavaScript challenges.
 
 **Thoughts**: Looking forward to complete at least one Responsive Web Design project tomorrow.
+
+### Day 14: January 23, 2019
+
+**Today's Progress**: Started working on Responsive Web Design projects.
+
+**Thoughts**: It seems a little bit tougher than I thought it would be.
