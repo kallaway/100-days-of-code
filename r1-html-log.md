@@ -111,3 +111,6 @@ Improved look of buttons on the TODO list app and improved the fonts a little.
 
 **R1D45; January 21th, 2019**
 Created an image gallery and added it to my Portfolio page. I specially like the inner div containing a link and the little square giving credit to the authors containing another, without them conflicting with each other. Check it out here: https://mr2much.github.io/webdev/imggallery/html/
+
+**R1D46, R1D47; January 22nd, 23rd, 2019**
+Advanced a little on the Web Development Bootcamp course, did the Blog Exercise and started adding bootstrap to the Product Landing Page project. I just added a jumbotron and customized it a little, and added fluid typography to it.
