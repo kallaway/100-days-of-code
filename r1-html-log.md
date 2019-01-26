@@ -114,3 +114,6 @@ Created an image gallery and added it to my Portfolio page. I specially like the
 
 **R1D46, R1D47; January 22nd, 23rd, 2019**
 Advanced a little on the Web Development Bootcamp course, did the Blog Exercise and started adding bootstrap to the Product Landing Page project. I just added a jumbotron and customized it a little, and added fluid typography to it.
+
+**R1D48, R1D49; January 24th, 25th, 2019**
+Added bootstrap to the Product Landing Page Project and improved the display for mobile display on cellphone and iPad. Also changed the navbar and footer to bootstrap and customized them a little. Check it out here: https://mr2much.github.io/webdev/product/html/index
