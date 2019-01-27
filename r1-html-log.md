@@ -117,3 +117,6 @@ Advanced a little on the Web Development Bootcamp course, did the Blog Exercise 
 
 **R1D48, R1D49; January 24th, 25th, 2019**
 Added bootstrap to the Product Landing Page Project and improved the display for mobile display on cellphone and iPad. Also changed the navbar and footer to bootstrap and customized them a little. Check it out here: https://mr2much.github.io/webdev/product/html/index
+
+**R1D50, R1D51; January 26th, 27th, 2019**
+Experimented around with Grid Layout and Bootstrap 3, added an improved navbar to the Product Landing Page, added a jumbotron and fixed its footer. I also added bootstrap to the portfolio landing page, also fixed the footer, added a jumbotron and improved the layout of the projects by adding a grid inside another grid. Also made the Portfolio more mobile friendly by making it more responvie on different viewports. Check the changes here: https://mr2much.github.io/webdev/
