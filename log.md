@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - Raarge - aka Darin Campbell
 
 ### Day 1: January 1, 2019
 
