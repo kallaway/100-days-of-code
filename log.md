@@ -205,14 +205,16 @@ Day 24: January 27, 2019
 
 **Today's Progress**: Very thankful I was able to reach out to Ann@Skillcrush for answers to my overlay questions! It was so helpful and even though I was very close to the solution, I was so wrapped up in it that I'm not sure I would have figured it out on my own. So now my portfolio site is ready to go! I just have a few tweaks I'd like to make to one of the sites I'm showing as a work sample and then I'll publish. Went ahead and created my hello@heathyrjclift.com email. Might also tweak the "about me" language, but I'll take care of those odds and ends tomorrow.
 
-**Thoughts** After the code marathons the last few days, it was nice to ease off today. Actually got some work done on a new screenplay - good to switch gears a bit!
+Practiced with Git a bit as well - re-cloned this 100 Days of Code repo because I seem to have set it up incorrectly before (think it must be because I altered the name of the cloned folder - won't do that again!) I definitely need to get better about updating this log every day and not just Twitter, so I can keep my Git/GitHub skills sharp. Going to keep my new *log-updates* branch open so I can make the changes quicker and easier :)
+
+**Thoughts** After the code marathons the last few days, it was nice to ease off today. Actually got some work done on a new screenplay - it was good to switch gears!
 
 **Link(s) to work**
 
 
 Day 25: January 28, 2019
 
-**Today's Progress**:
+**Today's Progress**: [posted on Twitter] Fixed yesterday's code breakage with the help of Ann @Skillcrush (THANK U!), practiced with Git/GH to keep those skills sharp, and worked on my latest Viz Design class - whoop-whoop!!! 🥳 #CodeNewbie #100DaysOfCode #WomenWhoCode #codejourney
 
 **Thoughts**
 
@@ -221,9 +223,9 @@ Day 25: January 28, 2019
 
 Day 26: January 29, 2019
 
-**Today's Progress**:
+**Today's Progress**: Spent some time on my new Visual Design course - starting to learn UX/UI and loving it! Sometimes coding feels like a slog, but designing is my happy place so it's great to switch off between the two. Also played around with fixing my tribute site, but still have much work to do there before I can feel good about including it on my portfolio site - especially now that I'm learning design principles.
 
-**Thoughts**
+**Thoughts** Just realized my Twitter posts have been off by a day... must have forgotten to post one day and that threw the count all off, haha. Yet another reason to keep up with this GH log!
 
 **Link(s) to work**
 
