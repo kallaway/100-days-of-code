@@ -202,29 +202,31 @@
 
 **Link(s) to work**: [Day 25 Tweet - Mislabeled as Day 23](https://twitter.com/Raarge/status/1089385299954802688?s=20)
 
-### Day 26: January , 2019
+### Day 26: January 28, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Struggled with IEnumerables and regular class.  
 
-**Thoughts**: 
+**Thoughts**: Made me a tool sharpening list to which I add items I'm struggling with such as the IEnumerable<> Each morning I'll spend 20 minutes working on an item from the list.  This should allow me to get better at my deficiencies while still allowing me to finish my work.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 26 Tweet](https://twitter.com/Raarge/status/1090083761461563392?s=20)
 
-### Day 27, January , 2019
+### Day 27, January 29, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Looked at Scott Allens new pluralsight course on .NET core applications.  Studied razor pages and power BI.  Created an application in .NET core to test the items learned from the course.
 
-**Thoughts**: 
+**Thoughts**: Wonder if i'll give up security by using razor pages instead of MVC at work.  The Razor seems an easier framework to use.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day27 Tweet](https://twitter.com/Raarge/status/1090456135721717760?s=20)
 
-### Day 28: January , 2019
+### Day 28: January 30, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Completed C# Best Practices: Improving on the Basics on pluralsight. A copy of the code is listed on my repository.  I'll add the link to the links below.  Additionally, was able to finally figure out what i was doing wrong with the classes at work.  I fixed the proglem and I set up the beginning and ending date generators for last month, current month, and last week, current week, yesterday, and today.  Also created the constants for shift start times and end times.  Created the method that passes in the correct Metric class with the beg and end dates and retrieves the data from the database.  Tested this and it is working.
 
-**Thoughts**: 
+**Thoughts**: Can't believe I was stuck so long on passing information from one class into another.  
 
-**Link(s) to work**:
+**Link(s) to work**:  1.(Cannot link work project due to sensitive proprietary info)
+2. [GitHub Repository for C# Best Practices](https://github.com/Raarge/CSharpBP-Basics)
+3. [Day 28 Tweet](https://twitter.com/Raarge/status/1090848179912916992?s=20)
 
 ### Day 29:
 
