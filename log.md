@@ -232,9 +232,9 @@ Day 26: January 29, 2019
 
 Day 27: January 30, 2019
 
-**Today's Progress**:
+**Today's Progress**:  Worked on my design classes & totally redesigned/rebuilt my tribute project to a static site with a much nicer design than the responsive version 🎉 Now I must 😴
 
-**Thoughts**
+**Thoughts** Had to let go of the responsive version of the tribute site, preferring to focus on the best design possible within my current coding skillset. Really enjoying the new page :)
 
 **Link(s) to work**
 
