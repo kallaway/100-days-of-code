@@ -120,3 +120,6 @@ Added bootstrap to the Product Landing Page Project and improved the display for
 
 **R1D50, R1D51; January 26th, 27th, 2019**
 Experimented around with Grid Layout and Bootstrap 3, added an improved navbar to the Product Landing Page, added a jumbotron and fixed its footer. I also added bootstrap to the portfolio landing page, also fixed the footer, added a jumbotron and improved the layout of the projects by adding a grid inside another grid. Also made the Portfolio more mobile friendly by making it more responvie on different viewports. Check the changes here: https://mr2much.github.io/webdev/
+
+**R1D52, R1D53, R1D54; January 28th, 29th, 30th, 2019**
+Have been experimenting with combining bootstrap, grid layout and flex layout. Also have been using bootstrap's glyphicons and font awesome's. Created a bootstrap image gallery and a landing page for an app. Will add them to my portfolio soon.
