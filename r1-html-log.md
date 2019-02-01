@@ -123,3 +123,6 @@ Experimented around with Grid Layout and Bootstrap 3, added an improved navbar t
 
 **R1D52, R1D53, R1D54; January 28th, 29th, 30th, 2019**
 Have been experimenting with combining bootstrap, grid layout and flex layout. Also have been using bootstrap's glyphicons and font awesome's. Created a bootstrap image gallery and a landing page for an app. Will add them to my portfolio soon.
+
+**R1D55; January 31st, 2019**
+Experimented a bit with Bootstrap 4, nothing fancy, just learning some of the changes and testing some of the examples.
