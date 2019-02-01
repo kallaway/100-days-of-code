@@ -241,8 +241,8 @@ Day 27: January 30, 2019
 
 Day 28: January 31, 2019
 
-**Today's Progress**:
+**Today's Progress**: Got a lot of practice on Git/GitHub today - finally figured out the workflow and why my gh-pages updates weren't working. So now I've created a TextEdit file with my own little cheatsheet guide to updating existing repositories. Went back through all my other projects to fix the issues and deleted/re-created my Static Tribute site. Also made some last tweaks on my milestone portfolio project and created a GitHub repo for it.
 
-**Thoughts**
+**Thoughts** So... I was all set to post my portfolio page for feedback until I saw some that others posted, haha. Think I'm suffering from "I'm not  good enough" syndrome before I can even get to the Imposter Syndrome everyone talks about. Anyway, not sure I want to post it for feedback right now... Maybe I'll just take the plunge and upload the files to my site. At least that way there will be no going back/chickening out if I get some tough criticism, haha. I don't want to strand myself in an endless revision process before I even have the guts to publish.
 
-**Link(s) to work**
+**Link(s) to work** https://heathyr.github.io/first-portfolio/
