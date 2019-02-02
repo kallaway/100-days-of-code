@@ -7,6 +7,24 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 04X
+February 02, 2019
+
+Today's Progress: Added a ton to my application framework.  Added Bootstrap and created a nav bar.  Created partials in Handlebars to plug in partial web pages into master web page format.  Added dev and prod MongoDB databases.  Connected to the Dev database, including connection validation and error trapping on failure.  Created and instantiated a schema.  Used Glitch env feature to create variables to hide my DB credentials.  Fully backed up to GitHub with a pull request, including commit comment.  So productive and the code worked perfectly.  I even had some MongoDB warning messages come up, and I was able to remove them by following the instructions and adding code.
+
+Thoughts: Hugely productive day, and it's so exciting to be building my actual app.  I've really used the tutorial to build my application, rather than building the tutorial app.  It's been fantastic so far.  All my code has worked, and I'm building my real opportunity app.  I love it.  Step by step, I'm creating what I need as I learn.  
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 03
+February 01, 2019
+
+Today's Progress: Didn't have a chance to code, but I did some reading research, and thinking about my code.
+
+Thoughts: I had a very full day, with work, exercise, helping my kids study, date night, and other things that popped up during the day.  But I accomplished so much, not coding was a deliberate choice because I knew I'd do multiple hours over the weekend.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 02
 January 31, 2019
 
