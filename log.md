@@ -12,7 +12,7 @@
 Day 2: February 2, 2019 
 
 
-**Today's Progress**: Practiced more functions, control flow and closures.
+**Today's Progress**: Practiced more functions, control flow and closures. Also some freecodecamp.
 
 **Thoughts:** Still very motivated. Working at the airport. 
 
