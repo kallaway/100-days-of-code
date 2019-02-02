@@ -126,3 +126,6 @@ Have been experimenting with combining bootstrap, grid layout and flex layout. A
 
 **R1D55; January 31st, 2019**
 Experimented a bit with Bootstrap 4, nothing fancy, just learning some of the changes and testing some of the examples.
+
+**R1D56; February 1st, 2019**
+Modified my Portfolio page to use Bootstrap 4 instead of 3, added a navbar to it and started modifying its layout. Changing the preview thumbnails of the projects to use cards instead of the current implementation was kicking my ass at first, but I turned it around. Gonna finish tomorrow.
