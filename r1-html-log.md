@@ -129,3 +129,6 @@ Experimented a bit with Bootstrap 4, nothing fancy, just learning some of the ch
 
 **R1D56; February 1st, 2019**
 Modified my Portfolio page to use Bootstrap 4 instead of 3, added a navbar to it and started modifying its layout. Changing the preview thumbnails of the projects to use cards instead of the current implementation was kicking my ass at first, but I turned it around. Gonna finish tomorrow.
+
+**R1D57, R1D58; February 2nd, February 3rd, 2019**
+Finished changing my portfolio to show the projects using Bootstrap 4's Cards, and added a button to also take you to the GitHub project's code and another to take you to the live site. After that I learned a bit more about Bootstrap 4 and its utilities and stuff. Checkout the latest update here: https://mr2much.github.io/webdev/
