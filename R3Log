@@ -7,7 +7,16 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
-Day 04X
+Day 05
+February XX, 2019
+
+Today's Progress: Attended an AI meetup on reviewing technical papers.  Read two papers, one on reading papers, one on using pre-created datasets for NLP.  At silks, defined my schemas for my FBO data types, and did some coding of drop-down menus. 
+
+Thoughts: Good progress today.  I really need to start developing my UI design for my app.  It's becoming critical to keep up with the things that the tutorial is doing.  Need to sketch out some interface components.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 04
 February 02, 2019
 
 Today's Progress: Added a ton to my application framework.  Added Bootstrap and created a nav bar.  Created partials in Handlebars to plug in partial web pages into master web page format.  Added dev and prod MongoDB databases.  Connected to the Dev database, including connection validation and error trapping on failure.  Created and instantiated a schema.  Used Glitch env feature to create variables to hide my DB credentials.  Fully backed up to GitHub with a pull request, including commit comment.  So productive and the code worked perfectly.  I even had some MongoDB warning messages come up, and I was able to remove them by following the instructions and adding code.
