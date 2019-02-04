@@ -7,8 +7,17 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 06
+February 04, 2019
+
+Today's Progress: Built HTML forms in Glitch using Bootstrap, validated inputs, put values entered from forms into object variables.
+
+Thoughts: Good progress.  Next comes storing them in the MongoDB database, which is the real milestone.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 05
-February XX, 2019
+February 03, 2019
 
 Today's Progress: Attended an AI meetup on reviewing technical papers.  Read two papers, one on reading papers, one on using pre-created datasets for NLP.  At silks, defined my schemas for my FBO data types, and did some coding of drop-down menus. 
 
