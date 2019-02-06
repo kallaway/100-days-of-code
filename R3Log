@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 07
+February 05, 2019
+
+Today's Progress: Got records posted to MongoDB (yesterday), and read JSON files from GitHub repo.  So now I can kind of get my data into my app, and then store it in MongoDB.
+
+Thoughts:   More work to go to get my data populated, then figure out the best way to update daily with each new file.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 06
 February 04, 2019
 
