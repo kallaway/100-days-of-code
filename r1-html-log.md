@@ -132,3 +132,6 @@ Modified my Portfolio page to use Bootstrap 4 instead of 3, added a navbar to it
 
 **R1D57, R1D58; February 2nd, February 3rd, 2019**
 Finished changing my portfolio to show the projects using Bootstrap 4's Cards, and added a button to also take you to the GitHub project's code and another to take you to the live site. After that I learned a bit more about Bootstrap 4 and its utilities and stuff. Checkout the latest update here: https://mr2much.github.io/webdev/
+
+**R1D59; February 12th, 2019**
+Took a couple days off the challenge, but now we're back on track. Spent the last couple of days creating private Java projects on BitBucket so that I can start uploading there too and made a new product landing page by following along a Pluralsight project, gotta make it responsive.
