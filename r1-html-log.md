@@ -135,3 +135,6 @@ Finished changing my portfolio to show the projects using Bootstrap 4's Cards, a
 
 **R1D59; February 12th, 2019**
 Took a couple days off the challenge, but now we're back on track. Spent the last couple of days creating private Java projects on BitBucket so that I can start uploading there too and made a new product landing page by following along a Pluralsight project, gotta make it responsive.
+
+**R1D60, February 14th, 2019**
+Yesterday I fiddled with a Java project that I made a couple of years ago trying to make the code easier to test while practicing some techniques to improve TDD and stuff. Today I learned some more about Bootstrap 4. Should I start a different challenge for the days when I'm tinkering with Java?
