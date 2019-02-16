@@ -138,3 +138,6 @@ Took a couple days off the challenge, but now we're back on track. Spent the las
 
 **R1D60, February 14th, 2019**
 Yesterday I fiddled with a Java project that I made a couple of years ago trying to make the code easier to test while practicing some techniques to improve TDD and stuff. Today I learned some more about Bootstrap 4. Should I start a different challenge for the days when I'm tinkering with Java?
+
+**R1D61, February 15th, 2019**
+Added Bootstrap 4 to my online CV which only had custom CSS until now. Also replaced the navbar it had with a BS4 collapsible navbar. Also watched some videos about how to be more productive and coding workflows (again)
