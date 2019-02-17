@@ -7,6 +7,24 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 19
+February 18, 2019
+
+Today's Progress: Got all of my old PRESOL, SRCSGT, and COMBINE data into MongoDB.  Pulled new data from FBO, processed it, and added it to the MongoDB records.  
+
+Thoughts: Now to create a daily update page, and then a deal scoring page.  I also need to clean up my file storage (and the node.js code) in GitHub.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 18
+February 16, 2019
+
+Today's Progress: Figured out how to write out one PRESOL record to MongoDB
+
+Thoughts: That is a huge milestone. Getting my data accessible in MongoDB and usable in Glitch is a critical skill for a full stack developer.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 13-17
 February 15, 2019
 
