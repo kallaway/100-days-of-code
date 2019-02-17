@@ -141,3 +141,6 @@ Yesterday I fiddled with a Java project that I made a couple of years ago trying
 
 **R1D61, February 15th, 2019**
 Added Bootstrap 4 to my online CV which only had custom CSS until now. Also replaced the navbar it had with a BS4 collapsible navbar. Also watched some videos about how to be more productive and coding workflows (again)
+
+**R1D62, February 17th, 2019**
+Changed a lot of stuff on my online CV by tinkering with Bootstrap 4, I think it looks a lot cooler now even if it is not as customized. I'll finish it on the next couple of days. Check it out at: https://mr2much.github.io/webdev/onlinecv/html/index
