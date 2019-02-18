@@ -7,8 +7,17 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 20
+February 19, 2019
+
+Today's Progress: Designed the input code, deleted some old tutorial and template code, added some buttons to the Validate field.  THought through how to refactor my code.
+
+Thoughts: I'm going to need to spend some time really digging through my code and getting my code working in a full stack program environment rather than in code modules.  New kind of programming for me but exciting to be at a point where I can do this kind of development.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 19
-February 18, 2019
+February 17, 2019
 
 Today's Progress: Got all of my old PRESOL, SRCSGT, and COMBINE data into MongoDB.  Pulled new data from FBO, processed it, and added it to the MongoDB records.  
 
