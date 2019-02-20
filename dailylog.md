@@ -14,3 +14,13 @@ Today's Progress: Learned about the  ! bang property. It basically takes a boole
 Thoughts: For loops arfe kind of confusing but working through it. 
 
 Link to work: http://plnkr.co/edit/Q8V2qN4zPA4fJl99U1JP?p=preview
+
+
+
+AY 6: FEBRUARY 19 , 2019 
+
+Today's Progress: Today we continued with if else statements and combined it with a for loop. The teacher also stated that we usually use === instead of == when writing JS. === is stricter than ==.  
+
+Thoughts: Combining for loops and if else statements is confusing. I also have to remember when i am inside a for loop i have to specify the instance i am on within the loop by using [i].
+
+Link to work: http://plnkr.co/edit/Q8V2qN4zPA4fJl99U1JP?p=preview
