@@ -144,3 +144,6 @@ Added Bootstrap 4 to my online CV which only had custom CSS until now. Also repl
 
 **R1D62, February 17th, 2019**
 Changed a lot of stuff on my online CV by tinkering with Bootstrap 4, I think it looks a lot cooler now even if it is not as customized. I'll finish it on the next couple of days. Check it out at: https://mr2much.github.io/webdev/onlinecv/html/index
+
+**R1D63, R1D64, February 18th, 19th, 2019**
+I've spent two days working on improving my online CV with Bootstrap 4. Moved around some things, changed others, added more sections and improved the CV for mobile display, check it: https://mr2much.github.io/webdev/onlinecv/html/index
