@@ -83,3 +83,13 @@ the library graphqlgen from prisma helps me solve the automatic code generation 
 
 **Link(s) to work**
 1. Nothing to show for it yet...
+
+### Day 9: February 20, 2019 
+
+**Today's Progress**: Starting again, kindoff, so I decided to log my progress despite the gap, and hopefully, personally keep going past the 100days
+
+**Thoughts:** I am looking forward to building the habit, and this log hopefully helps me to push myself into daily coding
+
+
+**Link(s) to work**
+1. Nothing to show for it yet...
