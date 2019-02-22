@@ -94,10 +94,17 @@ the library graphqlgen from prisma helps me solve the automatic code generation 
 **Link(s) to work**
 1. Nothing to show for it yet...
 
-### Day 10: February 20, 2019 
+### Day 10: February 21, 2019 
 
 **Today's Progress**: Moved my pantler app to an express based graphql server as oppose to Graphql-yoga due to unable to get cors working
 
 **Thoughts:** Very frustrating with cors issues. this article helped me get it right, https://www.prisma.io/blog/enabling-cors-for-express-graphql-apollo-server-1ef999bfb38d
+
+### Day 11: February 22, 2019 
+
+**Today's Progress**: Finally got the Graphql playground working again following cors issue
+
+**Thoughts:** So the issue surrounds the redirect which cloud 9 ide does with private ides, after sharing the application bit, click on share button it started to work.
+
 
 
