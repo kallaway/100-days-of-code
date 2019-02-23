@@ -147,3 +147,6 @@ Changed a lot of stuff on my online CV by tinkering with Bootstrap 4, I think it
 
 **R1D63, R1D64, February 18th, 19th, 2019**
 I've spent two days working on improving my online CV with Bootstrap 4. Moved around some things, changed others, added more sections and improved the CV for mobile display, check it: https://mr2much.github.io/webdev/onlinecv/html/index
+
+**R1D65, R1D66, R1D67, February 20th, 21st, 22nd, 2019**
+I have been working on the footer of my online CV trying to recreate this cool looking social section that I saw on another website. I think that it looks pretty cool. It needs some adjustments here and there for mobile display, but that's for another day. Check it out: https://mr2much.github.io/webdev/onlinecv/html/index
