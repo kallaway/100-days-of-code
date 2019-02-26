@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 27
+February 25, 2019
+
+Today's Progress: Improved the interfaces on opportunity summary and evaluation pages.  Reviewed lots of PRESOLs to identify candidates for my AI test and training datasets.
+
+Thoughts: As I start really looking through these, I don't see a lot of difference between the PRESOLs and SRCSGTs.  Many seem to be RFI-type things with attachments.  Attachments may be large and complex (e.g. SOWs) or small and simple.  But in many cases, the valuable content to drive workflow is in those documents.  I may have to build models based on those attachment files instead of the decription fields.  There are only a few total opps per day, so it may be straightforward to copy/paste the interesting opportunities into a workflow model.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 26
 February 24, 2019
 
