@@ -153,3 +153,6 @@ I have been working on the footer of my online CV trying to recreate this cool l
 
 **R1D68, February 24th, 2019**
 Adjusted the footer a bit to improve display on 768px wide screens, doesn't look like I want but It'll do for now. Also added a hero section to the onlineCV and I think that it looks pretty cool. Check it out: https://mr2much.github.io/webdev/onlinecv/html/index
+
+**R1D69, February 25th, 2019**
+Watched a couple of videos of The Web Development Bootcamp on Udemy and did a simple project in Bootstrap 4. Nothing fancy.
