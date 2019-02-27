@@ -156,3 +156,6 @@ Adjusted the footer a bit to improve display on 768px wide screens, doesn't look
 
 **R1D69, February 25th, 2019**
 Watched a couple of videos of The Web Development Bootcamp on Udemy and did a simple project in Bootstrap 4. Nothing fancy.
+
+**R1D70, February 26th, 2019**
+Cleaned the HTML and CSS of my onlineCV a bit, and fixed an issue with the footer that was driving me crazy. The social icons section wasn't lining up properly on medium display. Check it out here: https://mr2much.github.io/webdev/onlinecv/html/index
