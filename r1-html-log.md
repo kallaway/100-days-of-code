@@ -159,3 +159,6 @@ Watched a couple of videos of The Web Development Bootcamp on Udemy and did a si
 
 **R1D70, February 26th, 2019**
 Cleaned the HTML and CSS of my onlineCV a bit, and fixed an issue with the footer that was driving me crazy. The social icons section wasn't lining up properly on medium display. Check it out here: https://mr2much.github.io/webdev/onlinecv/html/index
+
+**R1D71, February 27th, 2019**
+Today was experimentation day, not much coding but learning about how to use Puppeteer to create screenshots of my web sites and about the meta tags for social media. Let's check out how this looks on twitter: https://mr2much.github.io/webdev/onlinecv/html/index
