@@ -162,3 +162,6 @@ Cleaned the HTML and CSS of my onlineCV a bit, and fixed an issue with the foote
 
 **R1D71, February 27th, 2019**
 Today was experimentation day, not much coding but learning about how to use Puppeteer to create screenshots of my web sites and about the meta tags for social media. Let's check out how this looks on twitter: https://mr2much.github.io/webdev/onlinecv/html/index
+
+**R1D72, February 28th, 2019**
+Today was conflict solving day. I thought had f'ed up my local repo, spent the whole day fixing merge conflicts caused by adding node_modules folder on the repo. I managed to fix this by doing things that cannot be named. Long story short, I improved the thumbnails on my Portfolio, check it out: https://mr2much.github.io/webdev/
