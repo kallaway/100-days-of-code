@@ -165,3 +165,6 @@ Today was experimentation day, not much coding but learning about how to use Pup
 
 **R1D72, February 28th, 2019**
 Today was conflict solving day. I thought had f'ed up my local repo, spent the whole day fixing merge conflicts caused by adding node_modules folder on the repo. I managed to fix this by doing things that cannot be named. Long story short, I improved the thumbnails on my Portfolio, check it out: https://mr2much.github.io/webdev/
+
+**R1D73, R1D74, March 2nd, March 3rd, 2019**
+Watched a couple of videos of the Webdevelopment Bootcamp, did a demo project, learned a little about contributing to other projects using GitHub and started working on a Blog article and learned about how to prioritize my learning and how to make a schedule for the stuff I want to do. Check the project here: https://mr2much.github.io/webdev/musseumofcandy/html/
