@@ -168,3 +168,6 @@ Today was conflict solving day. I thought had f'ed up my local repo, spent the w
 
 **R1D73, R1D74, March 2nd, March 3rd, 2019**
 Watched a couple of videos of the Webdevelopment Bootcamp, did a demo project, learned a little about contributing to other projects using GitHub and started working on a Blog article and learned about how to prioritize my learning and how to make a schedule for the stuff I want to do. Check the project here: https://mr2much.github.io/webdev/musseumofcandy/html/
+
+**R1D75, March 5th, 2019**
+Added some effects to the navbar and the hero section of my online CV that trigger when the user is scrolling, also, learned about the Gitflow Workflow and have been implementing it. Check it out: https://mr2much.github.io/webdev/onlinecv/html/
