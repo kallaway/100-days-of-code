@@ -171,3 +171,6 @@ Watched a couple of videos of the Webdevelopment Bootcamp, did a demo project, l
 
 **R1D75, March 5th, 2019**
 Added some effects to the navbar and the hero section of my online CV that trigger when the user is scrolling, also, learned about the Gitflow Workflow and have been implementing it. Check it out: https://mr2much.github.io/webdev/onlinecv/html/
+
+**R1D76, March 6th, 2019**
+Learning about Lazy Loading of images, I practiced some examples. Thinking about implementing it on my Portfolio and on my Image Gallery project.
