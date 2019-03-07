@@ -174,3 +174,6 @@ Added some effects to the navbar and the hero section of my online CV that trigg
 
 **R1D76, March 6th, 2019**
 Learning about Lazy Loading of images, I practiced some examples. Thinking about implementing it on my Portfolio and on my Image Gallery project.
+
+**R1D77, March 7th, 2019**
+Learned about Lazy Loading with background images and two techniques for improving the User Experience when using Lazy Load, tomorrow I'll dig a bit deeper on this topic and I'll try to implement them. Also worked on my Topic Backlog for things I want to learn and wrote some code in Java.
