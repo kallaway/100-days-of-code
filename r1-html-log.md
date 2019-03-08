@@ -180,3 +180,6 @@ Learned about Lazy Loading with background images and two techniques for improvi
 
 **R1D78, March 8th, 2019**
 Implemented Lazy Loading of Background images at the Image Gallery project. It was kicking my behind at first because I was adding an event listener to DOMContentLoader instead of DOMContentLoaded, after many hours searching around I managed to fix the typo and here's the result: https://mr2much.github.io/webdev/imggallery/html/index
+
+**R1D79, March 8th, 2019**
+Added Dominant Color placeholders for the images that are lazy loaded, and moved all image files to Imagekit.io, but now the images are loading so fast that I'm not even sure if the placeholders are displaying properly, can you see them?: https://mr2much.github.io/webdev/imggallery/html/index
