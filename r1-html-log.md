@@ -177,3 +177,6 @@ Learning about Lazy Loading of images, I practiced some examples. Thinking about
 
 **R1D77, March 7th, 2019**
 Learned about Lazy Loading with background images and two techniques for improving the User Experience when using Lazy Load, tomorrow I'll dig a bit deeper on this topic and I'll try to implement them. Also worked on my Topic Backlog for things I want to learn and wrote some code in Java.
+
+**R1D78, March 8th, 2019**
+Implemented Lazy Loading of Background images at the Image Gallery project. It was kicking my behind at first because I was adding an event listener to DOMContentLoader instead of DOMContentLoaded, after many hours searching around I managed to fix the typo and here's the result: https://mr2much.github.io/webdev/imggallery/html/index
