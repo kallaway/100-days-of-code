@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 39
+March 9, 2019
+
+Today's Progress: Went to a meetup for Javascript.  Met up with Peter Elbaum, asked him about how to put Javascript functions in files external to server.js.  He gave me a way to do it, and I was able to successfully implement.  
+
+Thoughts: Now I can refactor and migrate my Javascript code from my mac.  That code is the filter and ingest code.  So now I can integrate between the FBO site and my Glitch app for evaluating opportunities.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 38
 March 8, 2019
 
