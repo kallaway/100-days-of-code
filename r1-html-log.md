@@ -183,3 +183,11 @@ Implemented Lazy Loading of Background images at the Image Gallery project. It w
 
 **R1D79, March 8th, 2019**
 Added Dominant Color placeholders for the images that are lazy loaded, and moved all image files to Imagekit.io, but now the images are loading so fast that I'm not even sure if the placeholders are displaying properly, can you see them?: https://mr2much.github.io/webdev/imggallery/html/index
+
+**R1D80, March 10, 2019**
+* Fixed navbar padding for better look.
+* Added Smooth Scroll with API.
+* Added easing function to Smooth Scroll.
+* Improved the layout a little.
+* Removed unused code.
+Check it out here: https://mr2much.github.io/webdev/onlinecv/html/
