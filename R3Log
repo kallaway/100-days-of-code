@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 40
+March 10, 2019
+
+Today's Progress: Started redesigning my back-end database and UIs, based on trying to get better performance and controlling my datasets.  Instead of keeping all of my data in one table, regardless of state, I'm moving from one to another.  I'm hoping this will allow me to grab data by state/type, rather than do lots of complex searches through the entire dataset.
+
+Thoughts: We'll see if it works.  I think I have enough mastery of MongoDB to reswizzile if this doesn't work.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 39
 March 9, 2019
 
