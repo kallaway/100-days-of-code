@@ -191,3 +191,12 @@ Added Dominant Color placeholders for the images that are lazy loaded, and moved
 * Improved the layout a little.
 * Removed unused code.
 Check it out here: https://mr2much.github.io/webdev/onlinecv/html/
+
+**R1D81, March 11, 2019**
+* Added landing page with image
+* Added slide down animation to landing page
+* Bouncy animation on hero section elements
+* Improved the animations and added scroll cue
+* Added bootstrap 4
+* Moved the button down and made smaller
+Told you I was gonna update the Cat Photo App: https://mr2much.github.io/webdev/catphotoapp/html/practice
