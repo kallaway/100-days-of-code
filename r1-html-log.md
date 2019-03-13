@@ -200,3 +200,12 @@ Check it out here: https://mr2much.github.io/webdev/onlinecv/html/
 * Added bootstrap 4
 * Moved the button down and made smaller
 Told you I was gonna update the Cat Photo App: https://mr2much.github.io/webdev/catphotoapp/html/practice
+
+**R1D82, March 12, 2019**
+* Adjusted button animations
+* Added animations to hero buttons
+* Added heart beating scroll cue
+* Changed animation of hero image
+* Added animations for elements in hero
+* Added script to wait for page to load
+Check it out here: https://mr2much.github.io/webdev/onlinecv/html/index
