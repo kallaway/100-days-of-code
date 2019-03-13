@@ -10,11 +10,11 @@
 
 ### Day 1: 14 March 2019
 
-**Today's Progress**: 
+**Today's Progress**: Created new repo and cloned locally. Began working on a Ruby text adventure game. Have pushed today's work to Github. 
 
-**Thoughts**: 
+**Thoughts**: One hour goes by too fast. Game is currently sitting at 67 lines - many of them comments. I think part of this challenge is working out how much coding is achievable in one hour. 
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Ruby Adventure Game](https://github.com/sallybaker/ruby-pub-adventure)
 
 ### Day 2: 
 
