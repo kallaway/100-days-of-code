@@ -209,3 +209,6 @@ Told you I was gonna update the Cat Photo App: https://mr2much.github.io/webdev/
 * Added animations for elements in hero
 * Added script to wait for page to load
 Check it out here: https://mr2much.github.io/webdev/onlinecv/html/index
+
+**R1D83, March 13, 2019**
+Didn't code at all today. I feel like I'm cheating for putting this entry. I just learned a little about the primite types on JavaScript and nothing else. I woke up early today and went to the gym then to work, I'm too tired to do more than that. Will maybe start fixing the Hero animation on my onlinecv tomorrow since it looks weird on mobile.
