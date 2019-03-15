@@ -28,7 +28,7 @@
 
 **Today's Progress**: Continued work on pub adventure game. Mostly Working on the intro logic, terminal formatting, and 's - search' logic. Have added 'junk.rb file.' Have pushed update to Github.
 
-** Thoughts** 
+**Thoughts** 
 - Game is currently sitting at 179 lines.  
 - Spent some time setting up formatting to increase usability - spaces and lines break up the page by stages and has improved readability of the game when testing
 - Don't try and use a += on a variable with a zero value 
