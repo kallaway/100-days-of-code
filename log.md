@@ -7,3 +7,11 @@
 **Thoughts:** I want to try out Vue with Typescript.
 
 **Link to work:** [Boardgames Stock](https://github.com/cgilmeanu/boardgames-stock)
+
+### Day 2: March 17, 2019
+
+**Today's Progress**: Played with vuetify
+
+**Thoughts:** Added v-tabs to the toolbar and v-list on about page. Small tweaks on application layout
+
+**Link to work:** [Boardgames Stock](https://github.com/cgilmeanu/boardgames-stock)
