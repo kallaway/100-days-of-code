@@ -57,3 +57,26 @@
 - At this stage it's still very easy to think of new features to add - not so easy to decide what to work on. As long as game isn't throwing errors as that gets fixed first. 
 
 **Link(s) to work** [Ruby Adventure Game](https://github.com/sallybaker/ruby-pub-adventure)
+
+### Day 6: 18 March 2019 
+
+**Today's Progress**: Continued work on pub adventure game. Have pushed update to Github. 
+- Added 'the end' ending to catch unknown user flows 
+- Added "stats" action
+- Added "help" action 
+- Notice drink_costs always $10 when I want it to change for each pub. Fixed
+- Add "look" action 
+- Added a catchall option for invalid actions
+- Apparently you can play with zero friends. Hmmm... 
+changed: players = rand(6) to: players = rand(5) + 1
+- Added prompt for drink preference and updated code where required
+- Added random rounds of shots 
+
+**Thoughts** 
+- Game is currently sitting at 231 lines
+- At this stage it is very easy to get bogged down in details
+- When testing random options - it makes it easier to use a high chance value to trigger condition then edit the chance value when you're happy with the logic 
+- Today's hour went really quick 
+
+**Link(s) to work** [Ruby Adventure Game](https://github.com/sallybaker/ruby-pub-adventure)
+
