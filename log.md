@@ -40,7 +40,7 @@
 
 **Link(s) to work** [Ruby Adventure Game](https://github.com/sallybaker/ruby-pub-adventure)
 
-### Day 4 17 March 2019 
+### Day 5: 17 March 2019 
 
 **Today's Progress**: Continued work on pub adventure game. Have pushed update to Github. 
 
