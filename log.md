@@ -40,4 +40,20 @@
 
 **Link(s) to work** [Ruby Adventure Game](https://github.com/sallybaker/ruby-pub-adventure)
 
+### Day 4 17 March 2019 
 
+**Today's Progress**: Continued work on pub adventure game. Have pushed update to Github. 
+
+**Thoughts** 
+- Game is currently sitting at 204 lines
+- The obvious answer is not always the most efficient. When randomising players, I began by creating a method to replace user prompt. Then during testing realised I could remove the method and the function call by simply declaring the variable at the beginning of the game.
+- Added a "c - count friends" action yesterday and now that doens't make sense to me. Leaving it there for now while I try and remember. 
+- Discovered bug with pub count when moving. Was using += in counts for pubs and drinks thinking it would increment by one. That's not what it does. Fixed errors. Reminded of Princess Bride quote: "I do not think it means what you think it means."
+- Noticed the pub busy option changes with each turn if you're drinking multiple drinks in the same pub. Decided this makes logical sense and is not a bug. 
+- Treasure array had punctuation that didn't work with the logic
+- Added a wallet feature so now you can only buy drinks if you have enough money. Want to extend the treasure feature to add money to wallet if money is found. 
+- Need to investigate if there's a pause feature in ruby to improve game flow. 
+- As I'm both product owner and developer, noticing I have a tendency to start changing code before thinking through the full ramifications and best design. Expect this is natural for new developers and have started to dot point ideas in a text file before changing code to help work out if new variables are required, whether they need to be declared up front or within methods, What, if any dependencies exist between new changes and current code so they can be addressed. 
+- At this stage it's still very easy to think of new features to add - not so easy to decide what to work on. As long as game isn't throwing errors as that gets fixed first. 
+
+**Link(s) to work** [Ruby Adventure Game](https://github.com/sallybaker/ruby-pub-adventure)
