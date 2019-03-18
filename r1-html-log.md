@@ -218,3 +218,6 @@ Didn't code at all today. I feel like I'm cheating for putting this entry. I jus
 * Close Testimonial on click Post button
 * Modified code to close Testimonial Form with JS
 * Spent some time figuring out how to manipulate the DOM with Spring and JS
+
+**R1D85, March 17, 2019**
+I have been learning how to modify the DOM with JavaScript and started reading the book Head First Agile, since I feel that having a better understanding of it can help me a lot. I've been trying lately to keep my Trello board updates with my project's advancement. I'm not sure if I should dive into Spring now or if I'll be better off postponing it. On the other hand, I managed to somewhat read the values typed on the Modal form. Had to read a lot of code of jQuery to do so, but I was just experimenting, I'll dig deeper on DOM manipulation and find a better way.
