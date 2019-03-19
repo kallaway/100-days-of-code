@@ -93,4 +93,5 @@ changed: players = rand(6) to: players = rand(5) + 1
 - [github-pages-with-jekyll](https://github.com/sallybaker/github-pages-with-jekyll)
 - [reviewing-a-pull-request](https://github.com/sallybaker/reviewing-a-pull-request)
 - [merge-conflict](https://github.com/sallybaker/merge-conflict)
+- [security-on-github](https://github.com/sallybaker/security-on-github)
 
