@@ -80,3 +80,17 @@ changed: players = rand(6) to: players = rand(5) + 1
 
 **Link(s) to work** [Ruby Adventure Game](https://github.com/sallybaker/ruby-pub-adventure)
 
+### Day 7: 19 March 2019
+
+**Today's Progress**: Working through the GitHub Learning Lab courses
+
+**Thoughts** Although I was already familiar with the concepts of Git from using Bitbucket & Sourcetree in the past as well as recently using the basic features of GitHub to store repos for this #100DaysOfCode challenge. The GitHub Learning Lab courses provide the opportunity to revise what I already know and learn the practical application of familiar concepts like Code Review and Merge conflicts. 
+
+**Link(s) to work** 
+[github-slideshow](https://github.com/sallybaker/github-slideshow)
+[markdown-portfolio](https://github.com/sallybaker/markdown-portfolio)
+[github-upload](https://github.com/sallybaker/github-upload)
+[github-pages-with-jekyll](https://github.com/sallybaker/github-pages-with-jekyll)
+[reviewing-a-pull-request](https://github.com/sallybaker/reviewing-a-pull-request)
+[merge-conflict](https://github.com/sallybaker/merge-conflict)
+
