@@ -224,3 +224,6 @@ I have been learning how to modify the DOM with JavaScript and started reading t
 
 **R1D86, March 18th, 2019**
 Completed the Basic DOM Manipulation part of the Web Developer Bootcamp on Udemy. Also read a little bit more about Agile methodologies. Thinking about what project to brush up next since I haven't code a lot in these past few days.
+
+**R1D87, March 19th, 2019**
+Finally managed to create a function that allows you to post new Testimonies on the Testimonial section of the onlineCV. Did it with the fugliest and hackiest code you can imagine, but managed to scratch that itch, but the Testimonies are not yet persistent. Check it out here: https://mr2much.github.io/webdev/onlinecv/html/
