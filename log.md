@@ -3,10 +3,10 @@
 ### Day 0: March 20, 2019 (Test)
 ##### (trying this out before this will be replaced by Day 0 tonight)
 
-**Today's Progress**: <!---Fixed CSS, worked on canvas functionality for the app.---> 
+**Today's Progress**: <!--Fixed CSS, worked on canvas functionality for the app.--> 
   I need a project chosen to have workable improvements to it.
 
-**Thoughts:**  <!--- I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. ---> 
+**Thoughts:**  <!-- I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.--> 
   The first part is selecting the project and working on it after work hours.
 
 **Link to work:** [Calculator App](http://www.example.com) 
