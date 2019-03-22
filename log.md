@@ -44,16 +44,14 @@ Not using these links as of now, these will be used later onwards.
 
 ### Day 2: March 22, Friday
 
-**Today's Progress**: Reached out to two ppl on twitter  @EvanEichelberg2  @cvillafraz 
-                      The challenge seems to only do projects. Lets do those projects then. 
-                      I am not sure if spending time on FCC even counts.
+**Today's Progress**: Didnt reach out to two ppl on twitter but tweets were liked. 
+                      Two hours on FCC.
                       
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Lets focus on hope and not fear. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+FCC
 
 ### Day 3: March 23, Saturday
 
