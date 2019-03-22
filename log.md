@@ -53,6 +53,8 @@ Not using these links as of now, these will be used later onwards.
 **Link(s) to work**
 FCC
 
+**Idea** : I am awake button for the mobile alarm, no need to turn of the alarm on an off again to prevent if from going off. This can be an interesting project.
+
 ### Day 3: March 23, Saturday
 
 **Today's Progress**: Reached out to two ppl on twitter  @EvanEichelberg2  @cvillafraz 
