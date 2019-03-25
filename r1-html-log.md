@@ -230,3 +230,6 @@ Finally managed to create a function that allows you to post new Testimonies on 
 
 **R1D88, March 23rd, 2019**
 It's not really Day 88 since I've been learning and trying to implement this for the last four days, but I want to count it as a single day. The onlineCV is now a SpringBoot project. I have been learning how to set up the backend on Spring and how to use Thymeleaf to create the HTML template. I managed to send information from the back end and display it on the front using Thymeleaf, and learned about Hot Swapping and make it work on STS. I'm extremely excited, it was kinda hard at the beginning but I think that I'll be able to have the Testimonial section working on the OnlineCV with a SpringBoot backend, now I have to learn how to publish the site on Heroku.
+
+**R1D89, March 24th, 2019**
+I did it, I finally did it. Well, sort of, I have been experimenting with internationalization using Thymeleaf and I managed to make it work on a test website. This is one of the things I want to implement for my OnlineCV and I'm one step closer to achieving it.
