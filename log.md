@@ -228,184 +228,325 @@
 2. [GitHub Repository for C# Best Practices](https://github.com/Raarge/CSharpBP-Basics)
 3. [Day 28 Tweet](https://twitter.com/Raarge/status/1090848179912916992?s=20)
 
-### Day 29:
+### Day 29:  I have fallen behind on my updates and will be linking the tweets till i can get caught up.
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet
 
-**Thoughts**: 
+**Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 29 Tweet](https://twitter.com/Raarge/status/1091464145592037376)
 
 ### Day 30:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet
 
-**Thoughts**: 
+**Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 30 Tweet](https://twitter.com/Raarge/status/1091465578764738560)
 
 ### Day 31:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 31 Tweet](https://twitter.com/Raarge/status/1092570172899147776)
 
 ### Day 32:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 32 Tweet](https://twitter.com/Raarge/status/1092911606512664577)
 
 ### Day 33:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**:[Day 33 Tweet](https://twitter.com/Raarge/status/1093710405485166592)
 
 ### Day 34:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 34 Tweet](https://twitter.com/Raarge/status/1094826000863633408)
 
 ### Day 35:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 35 Tweet](https://twitter.com/Raarge/status/1094834424007589890)
 
 ### Day 36:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 37:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 38:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 39:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 40:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 41:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 42:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 43:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 44:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 45:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 46:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 47
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 48:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 49:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet 
 
-**Thoughts**: 
+**Thoughts**: See Tweet 
 
 **Link(s) to work**:
 
 ### Day 50:
 
+**Today's Progress**: See Tweet 
+
+**Thoughts**: See Tweet 
+
+**Link(s) to work**:
+
+### Day 51:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 52:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 53:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 54:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 55:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 56:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 57:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 58:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 59:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 60:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 61:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 62:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 63:
+
+**Today's Progress**: See Tweet
+
+**Thoughts**: See Tweet
+
+**Link(s) to work**:
+
+### Day 64:
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**:
 
+### Day 65:
 
+**Today's Progress**: 
 
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 66:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 67:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 68:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
 
 
 
