@@ -26,7 +26,7 @@
 
 ### Day 1: March 21, Thursday
 
-**Today's Progress**: Reached out to two ppl on twitter  @EvanEichelberg2  @cvillafraz 
+**Today's Progress**: Reached out to two ppl on twitter  [@EvanEichelberg2](https://twitter.com/@EvanEichelberg2)  @cvillafraz 
                       The challenge seems to only do projects. Lets do those projects then. 
                       Although projects are the preffered drug and will ensure the maximum learning, 
                       FCC exercises are also counted as time spent coding. 
