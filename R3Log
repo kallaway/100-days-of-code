@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 56
+March 26, 2019
+
+Today's Progress: Figured out how to pull in data from environment variables so that I can hide secret data like credentials.  Also made progress on connecting data services, like Google Drive, to my environment. Did a detailed design of data flow so that I can start coding.  
+
+Thoughts: Current plan on next steps is to go through the data flow, step by step. Refactor each step as I go, for both data and code.  I may end up with data in multiple places, but I think I can fix it on the fly using Mongo shell commands.  If I screw up, I've got the ability to regenerate data.  I need to really focus on a meaningful workflow so that I can show this to people.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 55
 March 25, 2019
 
