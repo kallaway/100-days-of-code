@@ -510,11 +510,11 @@
 
 ### Day 64:
 
-**Today's Progress**: 
+**Today's Progress**: Completed all calculations for the new module to my legacy application. At least 90% of the refactoring is done.  On to CSS for the new module.
 
-**Thoughts**: 
+**Thoughts**: I'm not excited about messing with CSS again but I need the practice :) So bring it on!!
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 64 Tweet](https://twitter.com/Raarge/status/1111005021162729472)
 
 ### Day 65:
 
