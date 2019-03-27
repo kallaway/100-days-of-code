@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 57
+March 27, 2019
+
+Today's Progress: Debugged FBO file name generator, created array of filenames, added to Glitch, learned some of the Glitch debugger.
+
+Thoughts: I couldn't get Glitch to execute my latest code changes.  There must be some way to force it to refresh, but I haven't found it.  It seems to want to run older code in some cases.  Then suddenly it starts running the new code.  Having said that, I made tremedous progress today.  I could make some serious progress by the weekend if I can commit time to this.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 56
 March 26, 2019
 
