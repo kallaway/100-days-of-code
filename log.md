@@ -290,7 +290,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 36 Tweet](https://twitter.com/Raarge/status/1096129486586703872
 
 ### Day 37:
 
@@ -298,7 +298,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day37 Tweet](https://twitter.com/Raarge/status/1096249209731338240)
 
 ### Day 38:
 
@@ -306,7 +306,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 38 Tweet](https://twitter.com/Raarge/status/1096609615985459201)
 
 ### Day 39:
 
@@ -314,7 +314,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 39 Tweet](https://twitter.com/Raarge/status/1097718417707188226)
 
 ### Day 40:
 
@@ -322,7 +322,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 40 Tweet](https://twitter.com/Raarge/status/1097995997609889795)
 
 ### Day 41:
 
@@ -330,7 +330,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 41 Tweet](https://twitter.com/Raarge/status/1098712572306571266)
 
 ### Day 42:
 
@@ -338,7 +338,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 42 Tweet](https://twitter.com/Raarge/status/1098713599818825730)
 
 ### Day 43:
 
@@ -346,7 +346,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 43 Tweet](https://twitter.com/Raarge/status/1100169951695028224)
 
 ### Day 44:
 
@@ -354,7 +354,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 44 Tweet](https://twitter.com/Raarge/status/1100517841390968832)
 
 ### Day 45:
 
@@ -362,7 +362,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 45 Tweet](https://twitter.com/Raarge/status/1100958552418586624)
 
 ### Day 46:
 
@@ -370,7 +370,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 46 Tweet](https://twitter.com/Raarge/status/1101328238691921921)
 
 ### Day 47
 
@@ -378,7 +378,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 47 Tweet](https://twitter.com/Raarge/status/1102560254808616960)
 
 ### Day 48:
 
@@ -386,7 +386,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 48 Tweet](https://twitter.com/Raarge/status/1102968174876610560)
 
 ### Day 49:
 
@@ -394,7 +394,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 49 Tweet](https://twitter.com/Raarge/status/1103404157719916544)
 
 ### Day 50:
 
@@ -402,7 +402,7 @@
 
 **Thoughts**: See Tweet 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 50 Tweet](https://twitter.com/Raarge/status/1103763752745263104)
 
 ### Day 51:
 
@@ -410,7 +410,7 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 51 Tweet](https://twitter.com/Raarge/status/1104151063525875713)
 
 ### Day 52:
 
@@ -418,7 +418,7 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 52 Tweet](https://twitter.com/Raarge/status/1105201781150081029)
 
 ### Day 53:
 
@@ -426,7 +426,7 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 53 Tweet](https://twitter.com/Raarge/status/1105806172756406273)
 
 ### Day 54:
 
@@ -434,7 +434,7 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 54 Tweet](https://twitter.com/Raarge/status/1106226265533480960)
 
 ### Day 55:
 
@@ -442,7 +442,7 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 55 Tweet](https://twitter.com/Raarge/status/1106281721622757377)
 
 ### Day 56:
 
@@ -450,7 +450,7 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 56 Tweet](https://twitter.com/Raarge/status/1106652102267289601)
 
 ### Day 57:
 
@@ -458,7 +458,7 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 57 Tweet](https://twitter.com/Raarge/status/1107739890781872128)
 
 ### Day 58:
 
@@ -466,7 +466,7 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 58 Tweet](https://twitter.com/Raarge/status/1108106248044466177)
 
 ### Day 59:
 
@@ -474,7 +474,7 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 59 Tweet](https://twitter.com/Raarge/status/1108468645569552384)
 
 ### Day 60:
 
@@ -482,15 +482,15 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 60 Tweet](https://twitter.com/Raarge/status/1108828384442736640)
 
 ### Day 61:
 
-**Today's Progress**: See Tweet
+**Today's Progress**: Completed calculations for indirect time and removal of breaks and correctly accounting for shifts and totals.
 
-**Thoughts**: See Tweet
+**Thoughts**: Questions, questions and more questions.  
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 61 Tweet](https://twitter.com/Raarge/status/1109194916079374336)
 
 ### Day 62:
 
@@ -498,15 +498,15 @@
 
 **Thoughts**: See Tweet
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 62 Tweet](https://twitter.com/Raarge/status/1110291286798540801)
 
 ### Day 63:
 
-**Today's Progress**: See Tweet
+**Today's Progress**: Refactored legacy code. Broke out several methods from the old code to use the dry method.  Completed 2 more modules for the report I'm working on.
 
-**Thoughts**: See Tweet
+**Thoughts**: Starting to really feel like i'm making progress with the dry principle.  Still need to work more on enumerables.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 63 Tweet](https://twitter.com/Raarge/status/1110646618036932609)
 
 ### Day 64:
 
