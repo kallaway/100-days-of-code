@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 58
+March 28, 2019
+
+Today's Progress: Refined my code to download source data from FBO.  Ran my scripts to upload to GitHub.  
+
+Thoughts: I've uploaded it, it's ready to process, I just need to refactor and migrate the processing code into Glitch.  This will also require a fair amount of restructuring of my data in MongoDB.  But I have a good sense of what I want to do, I think MongoDB is straightforward and I can use shell commands to move my data around, and refactoring the code shouldn't be terribly difficult.  Just a lot of work.  But at the end of that process (I think in a few days) I'll have my Javascript workflow largely in place and will be focused mostly on Google Colab and Topic modeling.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 57
 March 27, 2019
 
