@@ -518,11 +518,11 @@
 
 ### Day 65:
 
-**Today's Progress**: 
+**Today's Progress**: Finished the new report and refactoring for my legacy application.  Lots of CSS today as well making everything look nice.  Also worked with SQL and moved tables from my test server to the prod one.
 
-**Thoughts**: 
+**Thoughts**: CSS is hard at first when you haven't touched it in awhile but once you get back in the groove it's almost like you never knew it :) 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 65 Tweet](https://twitter.com/Raarge/status/1111393095512317952)
 
 ### Day 66:
 
