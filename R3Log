@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 59
+March 29, 2019
+
+Today's Progress: Migrated the FBO filter code from my laptop Node.js to the Glitch Node.JS web server.  I'm also reading files from GitHub rather than local files.  I also refactored a bit from procedural to functional programming.
+
+Thoughts: It was a ton of work to get it into this form.  Lots of environment issues, refactoring issues, and Javascript functional issues.  Will be a bear to debug, but at least now it's in a solid structure and I just need to walk through and make each line of code work correctly.  I'm really getting a lot out of just doing the programming, learning, and optimizing as I go.  I hope I can get the Glitch debugger working.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 58
 March 28, 2019
 
