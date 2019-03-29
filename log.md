@@ -67,7 +67,7 @@ FCC
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
-### Day x: March 29, 2019 - Friday
+### Day 9: March 29, 2019 - Friday
 
 **Today's Progress**:  CSS pixels and other concepts of Responsive design, FCC with basic javascript( redundant but good for habit creation)
 
