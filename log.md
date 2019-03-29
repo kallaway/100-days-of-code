@@ -526,11 +526,11 @@
 
 ### Day 66:
 
-**Today's Progress**: 
+**Today's Progress**: Finished up one app started on .NetCore MVC
 
-**Thoughts**: 
+**Thoughts**: Friday!!
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 66 Tweet](https://twitter.com/Raarge/status/1111751523380289541)
 
 ### Day 67:
 
