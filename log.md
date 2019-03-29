@@ -1,8 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day x: March 20, 2019 (Test)
-##### (template for all days)
+### Day x: March 20, 2019 
 
 **Today's Progress**:  
 
@@ -67,3 +66,13 @@ FCC
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day x: March 29, 2019 - Friday
+
+**Today's Progress**:  CSS pixels and other concepts of Responsive design, FCC with basic javascript( redundant but good for habit creation)
+
+**Thoughts:**  No excuses to not spending time on learning, even if this in not pure coding, learning new concepts and keeping the flow is very important. A fixed time will also help.
+
+**Link to work:** 
+1. [Responsive Web Design](https://classroom.udacity.com/courses/ud893)
+2. [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
