@@ -233,3 +233,6 @@ It's not really Day 88 since I've been learning and trying to implement this for
 
 **R1D89, March 24th, 2019**
 I did it, I finally did it. Well, sort of, I have been experimenting with internationalization using Thymeleaf and I managed to make it work on a test website. This is one of the things I want to implement for my OnlineCV and I'm one step closer to achieving it.
+
+**R1D90, March 29th, 2019**
+I have been deepening my understanding of working with Thymeleaf and Spring MVC, and also figuring out a Full Stack Developer roadmap for these past few days. Today I worked a little on building a landing page since I had not been coding in a while and felt bored. Once I finish the Landing Page I'll keep working on the Spring project.
