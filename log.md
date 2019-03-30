@@ -76,3 +76,10 @@ FCC
 **Link to work:** 
 1. [Responsive Web Design](https://classroom.udacity.com/courses/ud893)
 2. [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+
+### Day 10: March 30, 2019 - Saturday
+
+**Today's Progress**: Following the flow with FCC. The tribute page has all the tests passing now the styling needs to be address( it looks horrific for now)
+**Thoughts:**  Working at the last hour of the day is definitely not productive, the needs to be a more peacful time and scheduled.
+**Link to work:** 
+[Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) 
