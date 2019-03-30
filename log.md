@@ -84,4 +84,4 @@ FCC
 **Thoughts:**  Working at the last hour of the day is definitely not productive, the needs to be a more peacful time and scheduled.
 
 **Link to work:** 
-1.[Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) 
+1. [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) 
