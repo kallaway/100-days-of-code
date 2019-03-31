@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 60, 61
+March 31, 2019
+
+Today's Progress: Got my filename array loaded without using MongoDB.  MongoDB was not necessary and was causing bugs, but I thought I only had code for rendering web pages using MongoDB data.  I found that I had working code that renders from local variable data, and it worked great when I implemented it.  I also thought through the design for processing of each data file from an HTML perspective.
+
+Thoughts: Major progress.  I only spent a few minutes working through the code tonight.  In the past week, I'd spent hours on this and didn't see the answer.  A bit every day really helps.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 59
 March 29, 2019
 
