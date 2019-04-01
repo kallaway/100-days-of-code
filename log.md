@@ -534,11 +534,11 @@
 
 ### Day 67:
 
-**Today's Progress**: 
+**Today's Progress**: Lost of activity today.  Still troubleshooting a database connection issue with my Machine Tooling DBset.  Set up the new Ecoat Damaged Tooling SQL Table, the model, view, controller, also the email and the interface.  Did a lot of work in c# and SQL today.
 
-**Thoughts**: 
+**Thoughts**: I still need to reinforce my work with Entity Framework.  Still taking way too long for me to get where I need to be on this.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 67 Tweet](https://twitter.com/Raarge/status/1112811820803272704)
 
 ### Day 68:
 
