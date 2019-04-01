@@ -236,3 +236,6 @@ I did it, I finally did it. Well, sort of, I have been experimenting with intern
 
 **R1D90, March 29th, 2019**
 I have been deepening my understanding of working with Thymeleaf and Spring MVC, and also figuring out a Full Stack Developer roadmap for these past few days. Today I worked a little on building a landing page since I had not been coding in a while and felt bored. Once I finish the Landing Page I'll keep working on the Spring project.
+
+**R1D91, R1D92, March 30th, March 31st, 2019**
+Coded this Landing Page following along one of the lessons from the Traversy Media channel on Youtube. Check it out here: https://mr2much.github.io/webdev/landingpage/dist/ and today I was learning how to make something persistant using Spring Boot and JPA with an H2 Database, can't wait to implement it for the Testimonials section of my own OnlineCV
