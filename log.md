@@ -542,13 +542,163 @@
 
 ### Day 68:
 
+**Today's Progress**: Refactored my viewmodel for the pressline.  Added confirmations pages for all 3 damaged tooling report types.  Added more code to the controllers of all three reports.
+
+**Thoughts**: MVC is still aggravating at times.  I hate it when I have to take a break and work in legacy c#.
+
+**Link(s) to work**: [Day 68 Tweet](https://twitter.com/Raarge/status/1113195543474319360)
+
+### Day 69:
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**:
 
+### Day 70:
 
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 71:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 72:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 73:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 74:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 75:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 76:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 77:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 78:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 79:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 80:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
 
 ### Day 
 
