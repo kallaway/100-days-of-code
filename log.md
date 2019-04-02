@@ -2,7 +2,6 @@
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
-no me entero de nada!
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
