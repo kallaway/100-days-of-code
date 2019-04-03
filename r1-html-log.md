@@ -242,3 +242,6 @@ Coded this Landing Page following along one of the lessons from the Traversy Med
 
 **R1D93, April 1st, 2019**
 Continued learning how to set up an H2 database on the DasBoot project using Spring Boot and Flyway. I got some errors when trying to set up a configuration class because Hikari doesn't have a url property. I confirmed that it was correctly connecting to the database because I used a wrong username and it crashed.
+
+**R1D94, April 2nd, 2019**
+Finished implementing JPA on Spring Boot and tested the application while running it from the website to check if the information was persistent. Ran into some issues becase the version of the course is outdated, but managed to solve the problem and make it work as intended.
