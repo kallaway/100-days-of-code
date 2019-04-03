@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 63
+April 2, 2019
+
+Today's Progress: Got the code working to read FBO files off GitHub, process, and write JSON records to MongoDB.  
+
+Thoughts: Some promise stuff and code cleanup to do, but a big milestone.  I'm learning this stuff.  Sometimes I second-guess the time I'm spending doing the code the right way, because if I used my old procedural process I might have gotten more data through the pipeline. But overall I think this is a more important learning experience.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 62
 April 1, 2019
 
