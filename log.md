@@ -550,11 +550,11 @@
 
 ### Day 69:
 
-**Today's Progress**: 
+**Today's Progress**: Lots of C# .Net Core MVC today.  Lots of fixes and bugs to tackle.  I was able to get everything working today.  Testing tomorrow and hopefully a release of the new iteration.
 
-**Thoughts**: 
+**Thoughts**: Need to work more with IEnumerables and configuration in asp.net core.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 69 Tweet](https://twitter.com/Raarge/status/1113549820076089344)
 
 ### Day 70:
 
