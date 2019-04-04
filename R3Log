@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 64
+April 3, 2019
+
+Today's Progress: Did a lot of thinking around the data design for my records coming from FBO.  Did a bunch of debugging and implemented my schema for the evaluation input queue.  It's set up for me to implement the downstream queues. 
+
+Thoughts: Now I just need to build my downstream collections.  Document structure is defined.  Then I need to get the workflow moving through and process all the files up to date.  Then I need to contact Gabe and see if he'll review for me.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 63
 April 2, 2019
 
