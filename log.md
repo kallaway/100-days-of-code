@@ -558,11 +558,11 @@
 
 ### Day 70:
 
-**Today's Progress**: 
+**Today's Progress**: Worked on c# .Net Core 2.2 today finished up my Damaged Tooling Reporting Application.  Published to the live server.  Working on new authomated report using db2 and sql stored procs.  This should be an interesting new project.
 
-**Thoughts**: 
+**Thoughts**: Worked on configuration this morning, have a much better grasp still need to do some more with IEnumberables to really drive the principle home.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 70 Tweet](https://twitter.com/Raarge/status/1113903969317740545)
 
 ### Day 71:
 
