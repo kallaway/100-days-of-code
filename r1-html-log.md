@@ -245,3 +245,6 @@ Continued learning how to set up an H2 database on the DasBoot project using Spr
 
 **R1D94, April 2nd, 2019**
 Finished implementing JPA on Spring Boot and tested the application while running it from the website to check if the information was persistent. Ran into some issues becase the version of the course is outdated, but managed to solve the problem and make it work as intended.
+
+**R1D95, April 3rd, R1D96 April 4th, R1D97 April 5th, 2019**
+Implemented Testing features on the Spring project I was working on, ran into some issues again because the coursse is outdated but managed to make it work. Then made a cool menu with animation using HTML and CSS and once I got home I worked on making the backend information show on my OnlineCV using Spring and Thymeleaf and it kicked my ass, but then on the next day I managed to make it work.
