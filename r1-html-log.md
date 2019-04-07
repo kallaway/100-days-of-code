@@ -248,3 +248,6 @@ Finished implementing JPA on Spring Boot and tested the application while runnin
 
 **R1D95, April 3rd, R1D96 April 4th, R1D97 April 5th, 2019**
 Implemented Testing features on the Spring project I was working on, ran into some issues again because the coursse is outdated but managed to make it work. Then made a cool menu with animation using HTML and CSS and once I got home I worked on making the backend information show on my OnlineCV using Spring and Thymeleaf and it kicked my ass, but then on the next day I managed to make it work.
+
+**R1D98, April 6th, 2019**
+I managed to deploy my OnlineCV on Heroku. It was even harder than getting the template to work with Thymeleaf, took me almost a whole day to do it. But in the end I managed to solve it, the issue was with the way Spring Boot builds the .jar file. But here it is, finally:https://anubisonlinecv.herokuapp.com/ The Testimonials are being fed to the website from the Spring backend.
