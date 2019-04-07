@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
+Day 68
+April 7, 2019
+
+Today's Progress: Completed the ingest process and the process to tag ingested deals as interesting.  There's already a fairly large corpus of data, so I may not need to integrate the older deals into this data.  Next step is to get the data into Google Colab and the files onto Google drive, and start prepping my testing and training data sets.
+
+Thoughts: Great milestone!  Being able to ingest data daily and tag it is fantastic, and will be tremendously valuable over time.  I have a backlog of deals to tag, but overall I'm excited to be shifting from Javascript/HTML web app to AI.  Very much looking forward to doing some topic modeling.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
 Day 65
 April 4, 2019
 
