@@ -14,7 +14,7 @@
 ## আপনি যদি অংশগ্রহন করতে চানঃ
 
 1. #100DaysOfCode এর [অফিসিয়াল ওয়েবসাইট](http://100daysofcode.com/) ভিজিট করুন। এই তালিকা থেকে আপনার পছন্দের কোন প্লাটফর্মে অন্যদের সাথে যুক্ত হোনঃ www.100DaysOfCode.com/connect
-  এছাড়াও, [এটি](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) 100DaysOfCode এর Slack channel এর ইনভাইটেশন লিংক। 
+  এছাড়াও, [এটি](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE) 100DaysOfCode এর Slack channel এর ইনভাইটেশন লিংক। 
 2.  পড়ুন [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 3.  এই repo টি Fork করুন এবং [দিনলিপিতে](log.md) অথবা বিকল্প হিসেবে [R1 Log](r1-log.md) (R1 দ্বারা Round 1 বোঝায়) এ প্রতিদিন commit করুন। [উদাহরন](https://github.com/Kallaway/100-days-kallaway-log)
 4.  **পরবর্তী ১০০ দিন প্রতিদিন কমপক্ষে ১ ঘন্টা কোড করুন**

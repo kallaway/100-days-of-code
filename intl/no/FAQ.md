@@ -3,7 +3,7 @@
 ### **Q: Hvordan kommer jeg i kontakt med andre som også holder på med denne utfordringen?**
 
   **A:** Den beste måten å komme i kontakt med andre på er å lese ressurslisten som er tilgjengelig på den offisielle [100DaysOfCode-nettsiden](http://www.100daysofcode.com/connect/).
-  Her er også en [invitasjonslink til 100DaysOfCode på Slack](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
+  Her er også en [invitasjonslink til 100DaysOfCode på Slack](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE).
   
   Søk etter #100DaysOfCode på Twitter, eller bli med i [100DaysOfCode-roomet på Gitter](https://gitter.im/Kallaway/100DaysOfCode) — du trenger ikke en invitasjon, hvem som helst kan bli med. Du kan også følge [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) på Twitter for å holde kontakten med 100DaysOfCode-miljøet.
 

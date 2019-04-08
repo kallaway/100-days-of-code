@@ -2,7 +2,7 @@
 
 **Q:** Comment puis-je me mettre en lien avec les autres participant-e-s au défi?  
 **A:** Le meilleur moyen pour cela est d'utiliser la liste des ressources disponibles sur le site officiel 100DaysofCode: [www.100DaysOfCode.com/connect](https://www.100DaysOfCode.com/connect) 
-Et voici aussi le [lien d'invitation](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) pour le channel Slack des 100JoursDeCode. (NB: en anglais)
+Et voici aussi le [lien d'invitation](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE) pour le channel Slack des 100JoursDeCode. (NB: en anglais)
 
 Cherchez #100JoursdeCode sur twitter ou rejoignez [le salon Gitter 100JoursdeCode](https://gitter.im/Kallaway/100DaysOfCode) -- vous n'avez pas besoin d'invitation, c'est ouvert à tout le monde. Enfin, suivez [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) sur twitter pour rester connecté avec la communauté. (NB: en anglais pour l'instant. Un bot twitter francophone est en cours de conception.) 
 

@@ -1,7 +1,7 @@
 ## FAQ (często zadawane pytania):
   **P:** Gdzie mogę znaleźć innych ludzi uczestniczących w tym wyzwaniu?
   **O:** Najlepszy sposób aby znaleźć innych uczestników to serwisy social media, wszystkie linki znajdziesz na oficjalnej stronie 100DaysOfCode: www.100DaysOfCode.com/connect  
-  Dodatkowo zapraszamy na [nasz kanał w serwisie Slack](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
+  Dodatkowo zapraszamy na [nasz kanał w serwisie Slack](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE).
 
   Wyszukaj #100DaysOfCode na Twitterze, i dołącz do [100DaysOfCode w serwisie Gitter](https://gitter.im/Kallaway/100DaysOfCode) — nie potrzebujesz zaproszenia, każdy może dołączyć. Dodatkowo, śledź [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) na Twitterze aby mieć kontakt z naszą społecznością.
 

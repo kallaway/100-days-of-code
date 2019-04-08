@@ -2,7 +2,7 @@
   **প্রশ্নঃ** এই চ্যালেঞ্জ গ্রহনকারী মানুষদের সাথে আমি কিভাবে সংযুক্ত হতে পারি?
 
   **উত্তরঃ** সবচেয়ে সেরা উপায় হচ্ছে 100DaysOfCode এর অনুমোদিত ওয়েবসাইটে দেয়া রিসোর্স সমূহের তালিকা ব্যবহার করাঃ www.100DaysOfCode.com/connect
-  এছাড়াও, [100DaysOfCode Slack channel](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) এর ইনভাইটেশন লিংক ব্যবহার করে স্ল্যাক চ্যানেলে যোগ দেয়া যাবে।
+  এছাড়াও, [100DaysOfCode Slack channel](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE) এর ইনভাইটেশন লিংক ব্যবহার করে স্ল্যাক চ্যানেলে যোগ দেয়া যাবে।
 
   টুইটারে #100DaysOfCode লিখে search করলে, কিংবা এই লিংকে ক্লিক করে [100DaysOfCode room on Gitter](https://gitter.im/Kallaway/100DaysOfCode) এ জয়েন করা যাবে। এটি সকলের জন্য উন্মুক্ত, কোন ইনভাইট বা আমন্ত্রন এর প্রয়োজন হবে না। এছাড়াও টুইটারে [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) অনুসরন করে কমিউনিটির সাথে যুক্ত থাকা যাবে।
   

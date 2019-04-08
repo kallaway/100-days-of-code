@@ -1,7 +1,7 @@
 ## FAQ:
   **Q:** Wie komme ich in Kontakt mit anderen, die diese Challenge ebenfalls absolvieren?  
   **A:** Der beste Weg, um dich zu verbinden, ist die Liste der Ressourcen zu nutzen, die auf der offiziellen 100DaysOfCode Seite verfügbar ist:
-  www.100DaysOfCode.com/connect. Außerdem ist hier ein [Einladungslink für den 100DaysOfCode Slack Channel](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
+  www.100DaysOfCode.com/connect. Außerdem ist hier ein [Einladungslink für den 100DaysOfCode Slack Channel](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE).
   
   Suche nach #100DaysOfCode auf Twitter, oder trete dem [100DaysOfCode Raum auf Gitter](https://gitter.im/Kallaway/100DaysOfCode) bei — du brauchst keine Einladung, es ist für jeden offen. Folge zusätzlich [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) auf Twitter, um mit der Community in Kontakt zu bleiben.
 

@@ -16,7 +16,7 @@ Hvis du vil bidra med oversetting av innhold/regler i ditt språk, lag en pull r
 # Hvis du har bestemt deg for å bli med:
 
 1. Se [den offisielle nettsiden](http://100daysofcode.com/) for #100DaysOfCode-bevegelsen. Kom i kontakt med andre på de platformene du ønsker fra denne [listen](http://www.100daysofcode.com/connect/).
-    Her er også en [invitasjonslink](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) til 100DaysOfCode på Slack.
+    Her er også en [invitasjonslink](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE) til 100DaysOfCode på Slack.
 2. Les [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 3. Fork dette repo-et og commit daglig til [loggen](log.md) eller til alternativet, [R1 Logg](r1-log.md) (R1 står for Round 1 (runde 1). [Eksempel](https://github.com/Kallaway/100-days-kallaway-log).
 4. **Kode minst én time hver dag de neste 100 dagene.**

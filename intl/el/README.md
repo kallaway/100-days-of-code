@@ -15,7 +15,7 @@
 ## Αν αποφάσισες να συμμετάσχεις:
 
 0.  Δες την [επίσημη ιστοσελίδα](http://100daysofcode.com/) για το κίνημα #100ΗμέρεςΚώδικα. Συνδέσου με άλλους ανθρώπους στην πλατφόρμα της επιλογής σου από αυτή τη λίστα: www.100DaysOfCode.com/connect
-    Επίσης, [εδώ](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) μπορείς να βρεις ένα σύνδεσμο-πρόσκληση για το κανάλι Slack του 100DaysOfCode
+    Επίσης, [εδώ](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE) μπορείς να βρεις ένα σύνδεσμο-πρόσκληση για το κανάλι Slack του 100DaysOfCode
 1.  Διάβασε το [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Κάνε fork αυτό το repo και κάνε commit στο [Ημερολόγιο](log-el.md) ή στο Εναλλακτικό, γρήγορο [R1 Ημερολόγιο](r1-log-el.md) (R1 σημαίνει Round 1, δηλαδή Γύρος 1) καθημερινά. [Παράδειγμα](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Προγραμμάτισε για τουλάχιστον μία ώρα για τις επόμενες 100 ημέρες.**

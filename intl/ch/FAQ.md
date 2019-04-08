@@ -1,7 +1,7 @@
 ## 常见问题和回答:
   **Q:** 我怎样与其它参加挑战的人建立联系？
   **A:** 最好的方法是察看 100DaysOfCode 的官方网站：www.100DaysOfCode.com/connect
-  也可以通过[100DaysOfCode Slack channel 邀请链接](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA)。
+  也可以通过[100DaysOfCode Slack channel 邀请链接](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE)。
   
   在Twitter上搜索 #100DaysOfCode，或者加入[Gitter上的the 100DaysOfCode](https://gitter.im/Kallaway/100DaysOfCode) － 你不需要邀请，它是向任何人开放。或者在Twitter上follow [@_100DaysOfCode](https://twitter.com/_100DaysOfCode)，和社区保持联系。
 

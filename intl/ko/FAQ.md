@@ -1,7 +1,7 @@
 ## 자주 묻는 질문(FAQ):
   **질문:** 이 도전을 하고 있는 다른 참여자들과 어떻게 대화할 수 있나요?
   **답변:** 가장 좋은 방법은 100DaysOfCode 공식 사이트에 있는 리스트를 참고하는 것입니다: www.100DaysOfCode.com/connect  
-  그리고, [100DaysOfCode 슬랙(Slack) 채널의 초대 링크도 있습니다(영문)](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
+  그리고, [100DaysOfCode 슬랙(Slack) 채널의 초대 링크도 있습니다(영문)](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE).
   
   트위터에서 #100DaysOfCode (#100일코딩) 을 검색하거나 [Gitter의 100DaysOfCode 대화방(영문)](https://gitter.im/Kallaway/100DaysOfCode) 에 참여하세요 — 초대가 필요없고, 누구나 참여 가능합니다. 그리고, 트위터에서 [@_100DaysOfCode(영문)](https://twitter.com/_100DaysOfCode) 를 팔로우해서 커뮤니티와 연결의 끈을 놓지 마세요.
 

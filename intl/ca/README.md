@@ -13,7 +13,7 @@
 ## Si has decidit unir-te al repte:
 
 0.  Visita [el lloc oficial](http://100daysofcode.com/) del moviment #100DaysOfCode. Connecta amb altres a la plataforma que escullis d'aquesta llista: www.100DaysOfCode.com/connect
-    o, [aquí](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) tens el link per la invitació al canal 100DaysOfCode de Slack.
+    o, [aquí](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE) tens el link per la invitació al canal 100DaysOfCode de Slack.
 1.  Llegeix [Unir-te a #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Bifurca (fork) aquest repositori i afegeix el teu progrés diari al fitxer [Log](log.md) o a la versió ràpida [R1 Log](r1-log.md) (R1 es refereix a Round 1). [Exemple](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Programa com a mínim una hora cada dia durant els pròxims 100 dies.**

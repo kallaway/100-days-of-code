@@ -2,7 +2,7 @@
   **Q:** このチャレンジの他の参加者とはどうやって繋がれますか？
   **A:** 一番いい方法は、100DaysOfCodeの公式サイトにあるリソースを活用することです。
   www.100DaysOfCode.com/connect
-  また、[こちら](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA)から100DaysOfCodeのSlackに参加することができます。
+  また、[こちら](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE)から100DaysOfCodeのSlackに参加することができます。
 
   #100DaysOfCodeタグをツイッターで検索したり、[Gitterの100DaysOfCodeルーム](https://gitter.im/Kallaway/100DaysOfCode)に入るのもいい方法です。招待無しで誰でも入ることができます。また、ぜひツイッターで[@_100DaysOfCode](https://twitter.com/_100DaysOfCode)をフォローしてください。
 

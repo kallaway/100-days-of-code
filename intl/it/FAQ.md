@@ -2,7 +2,7 @@
   **D:** Come faccio a mettermi in contatto con altre persone che stanno facendo la challange?  
   **R:** Il modo migliore è usare la lista di risorse che si trova sul sito ufficiale della 100DaysOfCode challange:
   www.100DaysOfCode.com/connect 
-  E qui c'è [un link di invito al canale Slack di 100DaysOfCode](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
+  E qui c'è [un link di invito al canale Slack di 100DaysOfCode](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE).
   
   Cerca #100DaysOfCode su Twitter, o joina [la room di 100DaysOfCode su Gitter](https://gitter.im/Kallaway/100DaysOfCode) — non hai bisogno di un invito, è aperta per chiunque voglia partecipare. Segui anche [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) su Twitter per rimanere informato sulla community.
 
