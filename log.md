@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Introduction**:Before I had started the challenge, I've started working on a personal website/blog, mostly to learn about Python Django Framework. I've only done one tutorial on it - available on Django's primary website. Otherwise, I've been "winging" it.
 
 
-### Day 1: June 27, Monday
+### Day 0: April 10, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've managed to get a relationship established between a "post" and a "category" on a personal blog. Reading through documentation and and taking what I've learned about models have really helped me get it established. I've also designed the blog-details html/css document to my liking.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** As I approach more harder concepts within Django, I'll need to rely on examples and resources about the topic in much more detail. I'd like to get the website setup and live when I learn appropriate deployment methods and more about python-twitter compatible APIs.
+
+**Link to work:** Not yet... :c
