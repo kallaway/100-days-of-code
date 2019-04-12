@@ -253,4 +253,4 @@ Implemented Testing features on the Spring project I was working on, ran into so
 I managed to deploy my OnlineCV on Heroku. It was even harder than getting the template to work with Thymeleaf, took me almost a whole day to do it. But in the end I managed to solve it, the issue was with the way Spring Boot builds the .jar file. But here it is, finally:https://anubisonlinecv.herokuapp.com/ The Testimonials are being fed to the website from the Spring backend.
 
 **R1D99, April 9th, 2019**
-Learning how to set a form and bind it using Thymeleaf and Spring Boot. Got a little bored of all the theory and followed a video about how to create a cool CSS Hamburger Menu.
+Since 6th of April I have been learning how to set a form and bind it using Thymeleaf and Spring Boot. Got a little bored of all the theory and followed a video about how to create a cool CSS Hamburger Menu. Today I managed to post a new Testimony using the form, Spring Boot + Thymeleaf + jQuery. Doesn't work as perfectly as I had hoped so, but it's a start.
