@@ -254,3 +254,7 @@ I managed to deploy my OnlineCV on Heroku. It was even harder than getting the t
 
 **R1D99, April 9th, 2019**
 Since 6th of April I have been learning how to set a form and bind it using Thymeleaf and Spring Boot. Got a little bored of all the theory and followed a video about how to create a cool CSS Hamburger Menu. Today I managed to post a new Testimony using the form, Spring Boot + Thymeleaf + jQuery. Doesn't work as perfectly as I had hoped so, but it's a start.
+
+**R1D100, April 14th, 2019**
+Testimonials can now be added. Right now I haven't implemented any database functionality, so the information is only being added to the Stub repository. I have not implemented the functionality to delete or edit the testimonies, but I'll do it at a later time. This past 100 days have been a lot of fun. But I haven't had enough of this, who said round two?
+https://anubisonlinecv.herokuapp.com/
