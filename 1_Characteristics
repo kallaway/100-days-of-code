@@ -1,0 +1,35 @@
+print("Please enter your first name then press enter.")
+
+first_name = input()
+
+print("Hello {}, let's learn about Python!".format(first_name))
+input("Please press enter.")
+
+print("Some important details to know about Python include: Data Types, Loops, Lists, Dictionaries, Functions, Objects, Classes, and Inheritance.")
+message = input("\nPlease type the name of one detail (e.g. Data Types) to learn more about it.")
+
+data = "Basic data types in Python include integers, floating-point numbers, complex numbers, strings, booleans, and many built-in functions. (Courtesy https://realpython.com)"
+loop = "A loop is a process that runs repeatedly until the fullfillment of a certain condition. (Courtesy https://techtarget.com/definition/loop"
+lists = "In Python, a list refers to an array. A list, or array, is a 'sequence of several variables, grouped together under a single name.' (Courtesy https://cscircles.cemc.uwaterloo.ca/13-lists/)"
+diction = "A dictionary is a collection of elements which is 'unordered, changeable, and indexed.' (Courtesy https://www.w3schools.com/python/python_dictionaries.asp)"
+funct = "A function, similar to a method in some other languages, is a block of reusable code used as a tool for a specific action. (Courtesy https://www.tutorialspoint.com/python/python_functions.htm)"
+obj = "An object is a 'variable, data structure, function, or a method. (Courtesy https://en.wikipedia.org/wiki/Object_(computer_science)) Just about everythin in Python can be considered a method!"
+clas = "Classes simply provide a way to group data and functionality together (Courtesy https://docs.python.org/3/tutorial/classes.html)"
+inherit = "Inheritance, a property of Python, allows the programmer to define classes, then later define more specific sub-classes that 'inherit' all of the parent classes characteristics. (Courtesy http://www.math.uaa.alaska.edu/~afkjm/cs110/handouts/inheritance.pdf)" 
+
+if message == ("Data Types"):
+	print(data)
+if message == ("Loops"):
+	print(loop)
+if message == ("Lists"):
+	print(lists)
+if message == ("Dictionaries"):
+	print(diction)
+if message == ("Functions"):
+	print(funct)
+if message == ("Objects"):
+	print(obj)
+if message == ("Classes"):
+	print(clas)
+if message == ("Inheritance"):
+	print(inherit)
