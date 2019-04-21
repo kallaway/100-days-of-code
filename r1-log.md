@@ -26,6 +26,6 @@ Thoughts: Even though for loops are in most cases superior to while loops, the p
 Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/3_Fibonacci.py]
 
 ### R1D4
-Today's Progress:
-Thoughts:
-Link to work: []
+Today's Progress: Today I used a lot of new methods, including pop(), insert(), str(), max(), min(), stdev(), variance(), and mean(). I learned that I need to import the statistics module if I want to use certain methods. I created random numbers within a loop (my first Python for loop). I first used ctrl+y to undo a previous edit. Tomorrow I want to study more about definite vs. indefinite iterations. 
+Thoughts: I learned a lot today but I felt that it came quicker than before. I feel my journey is well underway now. I had some problems first importing the statistics module; it didn't seem as if I had that module at first but upon the second try, the auto-complete/intellisense kicked in and I knew at that moment that it was there. Everything worked from that point in. This is the second day that I ran into some roadblocks trying to do what I wanted to do. I realize that harder times are ahead but I also know that is the only way to really learn something. 
+Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/4_DataScienceinPython.py]
