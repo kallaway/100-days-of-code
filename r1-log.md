@@ -31,3 +31,12 @@ Today's Progress**: Today I used a lot of new methods, including pop(), insert()
 Thoughts: I learned a lot today but I felt that it came quicker than before. I feel my journey is well underway now. I had some problems first importing the statistics module; it didn't seem as if I had that module at first but upon the second try, the auto-complete/intellisense kicked in and I knew at that moment that it was there. Everything worked from that point in. This is the second day that I ran into some roadblocks trying to do what I wanted to do. I realize that harder times are ahead but I also know that is the only way to really learn something. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/4_DataScienceinPython.py]
+
+### R1D5
+Today's Progress**: Used pow() to raise a number to a power and bin() to convert an output variable to binary code. I also used another while loop today, creating an 'infinite loop' so that a user may input data as many times as needed to test the algorithm. 
+
+Thoughts: Today, on Day 5, I finally felt like I can turn on the editor and start to write a simple program that makes some sense without having to look everything up. It is helping me to write things out on paper using a diagram or pseudocode before I just start typing. I think that is the key to writing efficient code. I really do, however, feel that it takes too long to crank out certain pieces of simple code, such as today's while loop. While I can type it quickly, sometimes putting a math problem into Python language proves to be something I have to look up. I am hoping to speed up soon. I still am producing crude videos on twitter but am going to try using a new app tomorrow to record video internally, while making multiple apps visible. 
+
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/5_TowersofHanoi.py]
+
+
