@@ -11,3 +11,6 @@ I have been waiting for this day since I started. The R2D2 day, it's finally her
 
 **R2D3 - April 21st, 2019**
 Noticed that there was something I left out on the pull request I pushed to the guys at w3develops, today I corrected it and pushed it again. Then kept advancing on the HTML/CSS/Sass course I'm taking at Udemy. Worked a little on the first project of the site.
+
+**R2D4 - April 22nd, 2019**
+Ok, I've decided that for this round, I'll focus entirely on finishing the Modern HTML & CSS From The Beginning (Including Sass) course on Udemy. Today I worked a bit more on the first project of that course. I certainly enjoy working on UI/UX
