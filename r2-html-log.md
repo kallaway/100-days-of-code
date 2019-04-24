@@ -14,3 +14,6 @@ Noticed that there was something I left out on the pull request I pushed to the 
 
 **R2D4 - April 22nd, 2019**
 Ok, I've decided that for this round, I'll focus entirely on finishing the Modern HTML & CSS From The Beginning (Including Sass) course on Udemy. Today I worked a bit more on the first project of that course. I certainly enjoy working on UI/UX
+
+**R2D5 - April 23rd, 2019**
+Finished the first project of the Modern HTML & CSS From The Beginning (Including Sass) course, I have not made it responsive yet, but that's what the next part of the course will cover. Hmmm, maybe I'll go ahead and do that myself first, before watching the rest of the chapter.
