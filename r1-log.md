@@ -46,10 +46,20 @@ Thoughts: Today was the most challenging so far. I really wanted to get the Mont
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/6_MontyHall.py]
 
-R1D7
+### R1D7
 
 Today's Progress**: Used append() to put user data into a list, len() to create a variable for the length of that string, and ' ,'.join() to remove the quotes from the string when using the data in a readable format (as output). 
 
 Thoughts: I am getting in the flow. Things are taking less time, and I am starting to visualize how to create basic structures in Python, i.e. get it to do what I want it to do. First I wanted to put user inputs from a SWOT Analysis into a dictionary, but I decided that a list would make more sense, since I had no need for key-value pairs. However, I do understand that a much larger program could use a dictionary to decipher the inputs. I will consider this in the future. My streams are looking better when I record tham. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/7_SWOT.py]
+
+
+
+## R1D8
+
+Today's Progress**: Today I configured some settings in IDLE and learned how to make a dictionary, as well as a dictionary within a dictionary. I used these tools to make another console app, this one explaining the planets in the solar system. 
+
+Thoughts: The string at the bottom of the program (which is really the main part of the program) took some time. Getting the output to display only the values took a while to figure out. I did get it to work, but I am not sure if it was the most efficient way. I want to start testing runtime using different methods so that I will be ready when I get outside the console apps and start writing my first GUI in Python. 
+
+Link to work**[https://github.com/equitymarkets/100-days-of-code/blob/master/8_SolarSystem.py]
