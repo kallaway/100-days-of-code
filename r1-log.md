@@ -70,3 +70,10 @@ Today's Progress**: Today I learned a little bit about ways to sort through list
 Thoughts**: I originally planned to do all five sorts in one program, but since these methods are new to me in the Python environment, I soon discovered that while it would be possible, I would be cramming too much data into one day. While the Bubble Sort might not be the most useful tool, it seems to be taught as the gateway to more useful (and complex) methods of sorting. I had some difficulty figuring out the logic when writing the code for the bubble sort, and I do plan to give it further study tonight and tomorrow because the Merge sort is more complex. For the five programs I would like to add on a sort of function that returns runtime and memory usage for each process (and other processes as well). As I approach Day 10, I plan to work on writing better code for familiar topics, while increasing related skills such as commenting code, appropriately naming variables, using hardware and software efficiently, knowing Windows hot keys to speed up my work, testing and speaking better during my presentations, and testing I/O across various apps, browsers, and operating systems.  
 
 Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/9_BubbleSort.py]
+
+### R1D10
+Today I learned about the Merge Sort. The Merge Sort is very efficient and is in common usage. It is a bit complex to code at my level and seems to use a lot of memory for large data sets. I only used 10 numbers in this set. It is a quick algorithm, meaning it runs quickly through the processor.  
+
+Thoughts**: I learned some basics today, including the "//" operator in Python 3, which, like the "/" operator in Python 2, simply returns an integer value, even if the expression has a remainder. I learned how to find a line in IDLE when there is an error by pressing Alt+G. I learned different ways to split the list using split() and using [:x] to find the x from the right of the set. 
+
+LInk to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/10_MergeSort.py]
