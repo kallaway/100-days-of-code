@@ -17,3 +17,6 @@ Ok, I've decided that for this round, I'll focus entirely on finishing the Moder
 
 **R2D5 - April 23rd, 2019**
 Finished the first project of the Modern HTML & CSS From The Beginning (Including Sass) course, I have not made it responsive yet, but that's what the next part of the course will cover. Hmmm, maybe I'll go ahead and do that myself first, before watching the rest of the chapter.
+
+**R2D6, R2D7, April 27th, 2019**
+Have learned a few things about CSS that I hadn't seen covered anywhere else. And got a better understanding of how em and rem units work.
