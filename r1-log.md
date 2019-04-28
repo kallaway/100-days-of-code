@@ -77,3 +77,10 @@ Today I learned about the Merge Sort. The Merge Sort is very efficient and is in
 Thoughts**: I learned some basics today, including the "//" operator in Python 3, which, like the "/" operator in Python 2, simply returns an integer value, even if the expression has a remainder. I learned how to find a line in IDLE when there is an error by pressing Alt+G. I learned different ways to split the list using split() and using [:x] to find the x from the right of the set. 
 
 LInk to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/10_MergeSort.py]
+
+### R1D11
+Today I streamlined a lot of my existing skills, streaminglining a user-input for loop to create random variables, this time without naming each variable after an if statement. I learned the theory behind the quicksort, but didn't complete it yet. I plan to begin work on it again tomorrow. I learned better ways to use the 'i' counting variable within a for loop or while loop for indexing variables. All-in-all, I learned a lot.   
+
+Thoughts**: I worked late because I wanted to finish the Quick Sort. Tonight when I sleep on it I think I will have new ideas in my head tomorrow. I did, however, learn exactly how it worked, so while I feel that I can explain it fairly thoroughly, putting it into code proved to be a big challenge. That is okay, because I am at my best when I am over my head in new information. I still have four more days of holiday until I return to full-time work so I am obviously pushing myself to learn all I can before I have a shortage of time. 
+
+Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/11_QuickSort.py]
