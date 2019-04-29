@@ -20,3 +20,6 @@ Finished the first project of the Modern HTML & CSS From The Beginning (Includin
 
 **R2D6, R2D7, April 27th, 2019**
 Have learned a few things about CSS that I hadn't seen covered anywhere else. And got a better understanding of how em and rem units work.
+
+**R2D8, April 28th, 2019**
+Finished with the chapter about making things Responsive using CSS on the Model HTML & CSS From The Beginning (Including Sass) Udemy course, and just started a chapter about Flexbox. So many ideas pouring into my head right now, don't even know where to start. Gotta stay focused.
