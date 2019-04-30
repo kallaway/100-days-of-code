@@ -91,3 +91,15 @@ Today I learned some good coding habits, including using the print() statement a
 Thoughts**: I worked all day and night trying to figure out how to get the code for this quick sort to work on my own. I don't just want to copy and paste large pieces of code-I want to spend the time learning it, making it, breaking it, and seeing my mistakes so that I can become a better programmer. While I probably learned more today than any other day, I am not happy with my progress because I still do not have a workable program. I will continue again tomorrow!
 
 Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/12_QuickSort2.py]
+
+##R1D13
+
+Today's Progress**: I learned a valuable script for creating random numbers with x = random.sample(range(a,b),y). I learned the meaning of partitioning, which, in this context, means to split a list into parts based on some criteria, such as a pivot value. I learned a drawback when coding recursive algorithms, such as the Quick Sort, which is that if there are indexing conflicts it can cause a stack overflow. I polished my skills in boolean user-defined preferences by asking the user if he/she would like to assign random variables or use a predefined set. So, my array was already defined, but if the user wants, he/she could change it. I also learned a convenient way to create multiple arrays in one line, with the script a,b,c = [][][]. 
+
+Thoughts**: I feel good that I finally finished the Quick Sort. I learned that there are many different ways to do it, and that the way I was attempting in D11 and D12 was more difficult. I made a ton of mistakes today too though. Soon I want to research Big O notation to really understand how and why each of these sort methods are better at different times. I am sure that many complex algorithms examine the dataset first then use whichever set is most efficient. I would like to perhaps build a project on this in the future. 
+
+Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/13_QuickSortPart3.py]
+
+
+
+
