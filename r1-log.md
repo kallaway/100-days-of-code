@@ -100,6 +100,10 @@ Thoughts**: I feel good that I finally finished the Quick Sort. I learned that t
 
 Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/13_QuickSortPart3.py]
 
+#R1D14
 
+Today's Progress**: I used some new testing methods today, considering the algorithm I was working on involved iterations. I learned the theory of it, but want to explore the various ways that (it seems) one can compute it. It appears that the algorithm can be computed by selecting max values or min values, and can also involve splitting the data into two arrays, or simple popping and appending the existing array.  
 
+Thoughts**: I work on this in the morning and at night. I had a large errand to run across town and didn't get as much progress as I would have liked. I do feel that things are coming to me more quickly now. Tomorrow I plan to learn the Heap Sort, which I think is very complex. Tomorrow is the day that I go to teaching (we have been on summer holiday in my school system) so I am going to do my best to finish the Heap Sort with any spare time that I have.  
 
+Link to work:[https://github.com/equitymarkets/100-days-of-code/blob/master/14_SelectionSort.py]
