@@ -23,3 +23,6 @@ Have learned a few things about CSS that I hadn't seen covered anywhere else. An
 
 **R2D8, April 28th, 2019**
 Finished with the chapter about making things Responsive using CSS on the Model HTML & CSS From The Beginning (Including Sass) Udemy course, and just started a chapter about Flexbox. So many ideas pouring into my head right now, don't even know where to start. Gotta stay focused.
+
+**R2D9, R2D10, April 29th, May 1st, 2019**
+I have been working on a Technical Documentation site that's going to be used in my department to train the new recruits for these past few days, and today I watched two videos of the HTML & CSS course.
