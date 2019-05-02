@@ -107,3 +107,10 @@ Today's Progress**: I used some new testing methods today, considering the algor
 Thoughts**: I work on this in the morning and at night. I had a large errand to run across town and didn't get as much progress as I would have liked. I do feel that things are coming to me more quickly now. Tomorrow I plan to learn the Heap Sort, which I think is very complex. Tomorrow is the day that I go to teaching (we have been on summer holiday in my school system) so I am going to do my best to finish the Heap Sort with any spare time that I have.  
 
 Link to work:[https://github.com/equitymarkets/100-days-of-code/blob/master/14_SelectionSort.py]
+
+### R1D15 
+Today's Progress**: Today I worked on a Heap Sort. 
+
+Thoughts: Learning about something first before attempting to code it has major advantages. 
+
+Link to work:** []
