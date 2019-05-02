@@ -109,8 +109,8 @@ Thoughts**: I work on this in the morning and at night. I had a large errand to 
 Link to work:[https://github.com/equitymarkets/100-days-of-code/blob/master/14_SelectionSort.py]
 
 ### R1D15 
-Today's Progress**: Today I worked on a Heap Sort. 
+Today's Progress**: Today I worked on a Heap Sort. It is a fairly efficient sorting algorithm. Memory usage when using it is low, the time to code it is minimal, and it is consistently fast, though at times not as fast as the Quick Sort. Actually, while I was learning about the Heap Sort, I learned a lot about indexing and visualizing a list as a heap, or binary tree. I also learned about the math.log2() function, which is very helpful when dealing with decision science. I do not know whether or not I will incorporate this function into the final version of my Heap Sort algorithm. I also learned more about recursion, why it is important, and why calling functions within functions illustrates it. 
 
-Thoughts: Learning about something first before attempting to code it has major advantages. 
+Thoughts: Learning about something first before attempting to code it has major advantages. Today I learned to visualize nodes in an array form. While simplistic, it is a new way to look at things for me. As a side note, understanding recursion will make me a better investor, since I do incorporate algorithmic trading into my strategies. Being able to think about things in a less linear fashion will certainly make me less dependent on other's formulas and more able to develop my own indicators on more than just simple chart patterns. 
 
 Link to work:** []
