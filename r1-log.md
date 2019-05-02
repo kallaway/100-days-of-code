@@ -113,4 +113,4 @@ Today's Progress**: Today I worked on a Heap Sort. It is a fairly efficient sort
 
 Thoughts: Learning about something first before attempting to code it has major advantages. Today I learned to visualize nodes in an array form. While simplistic, it is a new way to look at things for me. As a side note, understanding recursion will make me a better investor, since I do incorporate algorithmic trading into my strategies. Being able to think about things in a less linear fashion will certainly make me less dependent on other's formulas and more able to develop my own indicators on more than just simple chart patterns. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/15_HeapSort.py]
