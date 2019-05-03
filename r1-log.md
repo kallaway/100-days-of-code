@@ -114,3 +114,11 @@ Today's Progress**: Today I worked on a Heap Sort. It is a fairly efficient sort
 Thoughts: Learning about something first before attempting to code it has major advantages. Today I learned to visualize nodes in an array form. While simplistic, it is a new way to look at things for me. As a side note, understanding recursion will make me a better investor, since I do incorporate algorithmic trading into my strategies. Being able to think about things in a less linear fashion will certainly make me less dependent on other's formulas and more able to develop my own indicators on more than just simple chart patterns. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/15_HeapSort.py]
+
+R1D16
+
+Today's Progress**: Today I learned the uses of the floor() function (to remove the decimal portion of a number and convert it to the lower integer. It has its uses in the binomial tree when we are trying to index the parent node of the child, where the left side (2i) and the right side (2i+1) have the same parent. I also improved on translating pseudocode or code from other languages like C++ or C# into operable Python structures. I encountered the recursion error and found a way supposedly to cure it using the sys module but I didn't find it much value for my actual need so I deleted it-my error was still there and there wasn't much this fix would improve. I know it's there when or if I need it again but I didn't see a need to explore it any further. I learned the famous heapify() method and I wonder why that is not in the standard Python library since it seems to common and standard for this sorting method. 
+
+Thoughts: As I stated on twitter several days ago, one of the things I have noticed so far about Python is that some activities that appear difficult are very simple to accomplish but some things seem simple but in reality are very complex. As I learn the syntax, I continue to struggle with indexing errors and adjusting the entire program so that they are corrected accordingly. I find some things to be unnecessarily complicated but I think that I am still trying to use C-like syntax for many tasks. I think once I start to experiment with the frameworks and libraries I will become more used to Python.
+
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/16_HeapSort.py]
