@@ -26,3 +26,6 @@ Finished with the chapter about making things Responsive using CSS on the Model 
 
 **R2D9, R2D10, April 29th, May 1st, 2019**
 I have been working on a Technical Documentation site that's going to be used in my department to train the new recruits for these past few days, and today I watched two videos of the HTML & CSS course.
+
+**R2D11, R2D12, May 2nd, May 4th, 2019**
+Not much going on, just practicing my HTML and CSS, got into an issue that I couldn't solve with a fixed top navbar, a body with a padding, and the navigation sidebar with hashed links, that kept wrecking my layout, couldn't solve it, working on it.
