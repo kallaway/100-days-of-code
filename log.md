@@ -21,7 +21,7 @@
 
 --->
 
-### Day 1: May 4, 2019, Saturday
+### Day0: May 4, 2019, Saturday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
