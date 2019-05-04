@@ -122,3 +122,11 @@ Today's Progress**: Today I learned the uses of the floor() function (to remove 
 Thoughts: As I stated on twitter several days ago, one of the things I have noticed so far about Python is that some activities that appear difficult are very simple to accomplish but some things seem simple but in reality are very complex. As I learn the syntax, I continue to struggle with indexing errors and adjusting the entire program so that they are corrected accordingly. I find some things to be unnecessarily complicated but I think that I am still trying to use C-like syntax for many tasks. I think once I start to experiment with the frameworks and libraries I will become more used to Python.
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/16_HeapSort.py]
+
+R1D17
+
+Today's Progress**: Today I simply made a console application to compute binary and hexadecimal numbers. I used the standard python functions of bin() and hex(), then wrote custom functions to computer the numbers as we would manually on paper. 
+
+Thoughts: Today I had to teach in two different parts of town and in the morning had to plan for the lessons for about two hours. I got home pretty late. So I wanted to do one of the lighter programs that I had planned. Using bin() and hex() turned out to be simpler than I thought so I decided to show the division by base method to show each step when manually representing numbers in base 2 and base 16 formats formats. 
+
+Link to work:** []
