@@ -125,8 +125,8 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/1
 
 R1D17
 
-Today's Progress**: Today I simply made a console application to compute binary and hexadecimal numbers. I used the standard python functions of bin() and hex(), then wrote custom functions to computer the numbers as we would manually on paper. 
+Today's Progress**: Today I simply made a console application to compute binary and hexadecimal numbers. I used the standard python functions of bin() and hex(), then wrote custom functions to computer the numbers as we would manually on paper. I also practiced doing min() and max() functions on a set of numbers
 
 Thoughts: Today I had to teach in two different parts of town and in the morning had to plan for the lessons for about two hours. I got home pretty late. So I wanted to do one of the lighter programs that I had planned. Using bin() and hex() turned out to be simpler than I thought so I decided to show the division by base method to show each step when manually representing numbers in base 2 and base 16 formats formats. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/17_BinaryandHex.py]
