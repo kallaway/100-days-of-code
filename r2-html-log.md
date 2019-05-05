@@ -32,3 +32,6 @@ Not much going on, just practicing my HTML and CSS, got into an issue that I cou
 
 **R2D13, May 5th, 2019**
 More HTML and CSS practice.
+
+**R2D14, May 5th, 2019**
+Still working on the HTML & CSS project of the Udemy course I'm currently taking. This is how the page looks right now: https://mr2much.github.io/webdev/edgeledger/ Learned how to add a map using Google's API
