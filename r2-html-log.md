@@ -29,3 +29,6 @@ I have been working on a Technical Documentation site that's going to be used in
 
 **R2D11, R2D12, May 2nd, May 4th, 2019**
 Not much going on, just practicing my HTML and CSS, got into an issue that I couldn't solve with a fixed top navbar, a body with a padding, and the navigation sidebar with hashed links, that kept wrecking my layout, couldn't solve it, working on it.
+
+**R2D13, May 5th, 2019**
+More HTML and CSS practice.
