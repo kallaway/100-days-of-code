@@ -130,3 +130,11 @@ Today's Progress**: Today I simply made a console application to compute binary 
 Thoughts: Today I had to teach in two different parts of town and in the morning had to plan for the lessons for about two hours. I got home pretty late. So I wanted to do one of the lighter programs that I had planned. Using bin() and hex() turned out to be simpler than I thought so I decided to show the division by base method to show each step when manually representing numbers in base 2 and base 16 formats formats. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/17_BinaryandHex.py]
+
+R1D18
+
+Today's Progress**: today I started on writing my own binary search function after practicing some other coding that I thought might be useful towards today's work but turned out not to be. I did learn about simplifying code using the list comprehensions, the sum() function to add up all elements of a string, the list() function to wrap a range into string format, and about avoiding an obscure error dealing with a name of one of my other files in my working directory (numbers.py). So I learned a lot. 
+
+Thoughts: I didn't finish what I wanted to however. I really felt like I was prepared to tackle the binary search and the work started off well. Soon I ran into conflicts when I attempted to make my custom function recursive. I reworked it, trying to make it iterative, then I realized something else, that was fairly obvious. This should not simply be searching for a number that you know is there-there needs to be a boolean switch to determine if the number is actually in the list. All-in-all, that gives me two problems to work on tomorrow. As is usually the case, on the day that I feel like I got little done, I actually learned a lot. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/18_BinarySearch.py]
