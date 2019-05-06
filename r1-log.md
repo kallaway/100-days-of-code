@@ -141,8 +141,8 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/1
 
 R1D19
 
-Today's Progress**: 
+Today's Progress**: Today I redid most of my binary search program and got it working. I learned a lesson about naming variables exactly. Somehow, variables that are not named exactly just don't seem to fall in place, even though you think you know what they are meant to represent. I learned about returning a non-familiar object when a failure or error is encountered, such as -1 for a method that should under normal circumstances, return a zero or positive integer. I learned about the NoneType error, and that when I see it, it must mean that what I am looking for is not being returned correctly. 
 
-Thoughts: 
+Thoughts: I didn't think my binary search idea would take too long, with some idea of iterative and recursive sequencing in my mind now on the 19th day. However, refusing to just copy and paste, I worked through it for hours figuring out why each thing was the way it was and did what it did. The end result was a working binary search method. While it uses a simple array of one-off numbers (1-10 for indexes of 0-9), it could easily be scaled up. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/19_BinarySearchPart2.py]
