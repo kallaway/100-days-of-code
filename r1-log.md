@@ -138,3 +138,11 @@ Today's Progress**: today I started on writing my own binary search function aft
 Thoughts: I didn't finish what I wanted to however. I really felt like I was prepared to tackle the binary search and the work started off well. Soon I ran into conflicts when I attempted to make my custom function recursive. I reworked it, trying to make it iterative, then I realized something else, that was fairly obvious. This should not simply be searching for a number that you know is there-there needs to be a boolean switch to determine if the number is actually in the list. All-in-all, that gives me two problems to work on tomorrow. As is usually the case, on the day that I feel like I got little done, I actually learned a lot. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/18_BinarySearch.py]
+
+R1D19
+
+Today's Progress**: 
+
+Thoughts: 
+
+Link to work:** []
