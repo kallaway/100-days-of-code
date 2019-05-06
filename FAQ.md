@@ -1,5 +1,6 @@
-## FAQ:
-  **Q:** How do I get in touch with the people who are also doing this challenge?  
+# FAQ
+
+  **Q:** How do I get in touch with the people who are also doing this challenge?
   **A:** The best way to connect is to use the list of resources available on the official 100DaysOfCode site:
   www.100DaysOfCode.com/connect
   Also, here is [an invite link to the 100DaysOfCode Slack channel](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE).
@@ -36,6 +37,7 @@
   **A:** This challenge is individual, so when you join you start at day 1. Whenever you’ll be posting an update on Twitter or elsewhere, make sure to mention which day you are on and use the hashtag so that people can find and support you!  
 
 ## Contents
+
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
