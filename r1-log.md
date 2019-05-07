@@ -146,3 +146,11 @@ Today's Progress**: Today I redid most of my binary search program and got it wo
 Thoughts: I didn't think my binary search idea would take too long, with some idea of iterative and recursive sequencing in my mind now on the 19th day. However, refusing to just copy and paste, I worked through it for hours figuring out why each thing was the way it was and did what it did. The end result was a working binary search method. While it uses a simple array of one-off numbers (1-10 for indexes of 0-9), it could easily be scaled up. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/19_BinarySearchPart2.py]
+
+R1D20
+
+Today's Progress**: Today I learned to work with a list within a list, learned all about recursive functions in Python, including base case and recursive case using if/else and calling global variables within a function, dealing with dictionaries vs. lists, and even a little about business planning in Python (at a simplified and theoretical level).
+
+Thoughts: I started off wanting to learn more about recursive functions. I was sitting at a coffee shop looking over some simple examples, and thought about making a simplified profit example based on total purchases in a typical evening. Soon I was putting in some sales numbers for receipts, with each array within the dictionary being equal to one hour's sales. Since C# is my first language, it came natural to write an iterative function and I figured that I would leave that in, just to do the calculation both ways. I learned that in python, a dictionary value can only be listed once within an array, so what I originally planned to do as a dictionary turned into a list. Then I spent the remainder of the afternoon before my teaching appointment writing out basics for the recursive part of the program. As usual, I hit a few snags but I am up late again, finishing up this program. I will be tired tomorrow, but it is worth it, because today I really starting feeling natural at writing functions and even wrote my first recursive function without having to get any help from examples on the internet. I am pretty proud of that. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/20_ClosingTime.py]
