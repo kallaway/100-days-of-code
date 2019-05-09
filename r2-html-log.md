@@ -35,3 +35,8 @@ More HTML and CSS practice.
 
 **R2D14, May 5th, 2019**
 Still working on the HTML & CSS project of the Udemy course I'm currently taking. This is how the page looks right now: https://mr2much.github.io/webdev/edgeledger/ Learned how to add a map using Google's API
+
+**R2D15, May 9th, 2019**
+* Added smooth scrolling
+* Made site responsive
+* Fixed some issues with showcase
