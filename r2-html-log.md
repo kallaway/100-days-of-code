@@ -40,3 +40,6 @@ Still working on the HTML & CSS project of the Udemy course I'm currently taking
 * Added smooth scrolling
 * Made site responsive
 * Fixed some issues with showcase
+
+**R2D16, May 10th, 2019**
+I fixed the issue with the documentation site at work, the problem was caused because the margin I added to the top to clear the navbar, was pushing the content down, so I had to add some padding at the bottom of the content of the same amount as the margin, and that pushed it back up. Also fixed an issue with the Google Map not displaying on mobile screens on the EdgeLedger site
