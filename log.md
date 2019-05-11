@@ -13,3 +13,9 @@
 **Thoughts**: I didn't do as much coding as I would have liked to today, but I am happy that I learned about ES6 and Javascript syntax that I will use going forward to make writing Javascript easier.
 
 ### Day 3: Saturday, May 11, 2019
+
+**Today's Progress**: Today I worked more on FreeCodeCamp. I got through the Basic CSS as a refresher and moved onto the Applied Visual Design section.
+
+**Thoughts**: The CSS refresher was good for me since I haven't looked at it in a couple weeks as I've been focusing on Javascript. I learned a few things I did not know from my other CSS courses.
+
+### Day 4: Sunday, May 12, 2019
