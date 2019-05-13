@@ -25,3 +25,9 @@
 **Thoughts**: I already knew some of what I went through, but I learned some syntax like "transform" and using different gradients. It was difficult for me to focus and be motivated over the weekend, but I'm happy I kept to this challenge and learned this weekend!
 
 ### Day 5: Monday, May 13, 2019
+
+**Today's Progress**: I've continued to work through "The Complete Web Developer in 2019: Zero to Mastery" on Udemy and went through some advanced functions, arrays and objects. I have also began to realize there are so many great resources if I get stuck in the course I am doing to google the topic and find other ways the topic is explained or more in depth and it's significantly helped clear things up.
+
+**Thoughts**: Although I struggled with some of the topics today I didn't let myself get frustrated, took a short break and came back. I learned a lot today from my course and youtube videos and stackoverflow for more in depth analysis. There are so many great teachers with material out on the web. Today was a great day for learning JS!
+
+### Day 6: Tuesday, May 14, 2019
