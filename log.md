@@ -19,3 +19,9 @@
 **Thoughts**: The CSS refresher was good for me since I haven't looked at it in a couple weeks as I've been focusing on Javascript. I learned a few things I did not know from my other CSS courses.
 
 ### Day 4: Sunday, May 12, 2019
+
+**Today's Progress**: Today I worked more on FreeCodeCamp. I continued to go through the Applied Visual Design section and learned about coloring and design for websites.  I also bought 'You Don't Know JS: Up & Going' which I will begin reading tonight.
+
+**Thoughts**: I already knew some of what I went through, but I learned some syntax like "transform" and using different gradients. It was difficult for me to focus and be motivated over the weekend, but I'm happy I kept to this challenge and learned this weekend!
+
+### Day 5: Monday, May 13, 2019
