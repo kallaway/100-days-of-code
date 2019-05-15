@@ -31,3 +31,9 @@
 **Thoughts**: Although I struggled with some of the topics today I didn't let myself get frustrated, took a short break and came back. I learned a lot today from my course and youtube videos and stackoverflow for more in depth analysis. There are so many great teachers with material out on the web. Today was a great day for learning JS!
 
 ### Day 6: Tuesday, May 14, 2019
+
+**Today's Progress**: I've continued to work through "The Complete Web Developer in 2019: Zero to Mastery" on Udemy and went through some advanced loops and debugging techniques. I also completed the first YDKJS challenge building a program to buy phones/cases until the max budget was hit and then it returned how many phones/cases could be purchased, the purchase price, and how much was left in the bank account.
+
+**Thoughts**: I had a great time today learning the advanced loops and writing a simple program that took me a couple hours to get where I wanted it. It took longer then I thought, but felt good to go through the process and end with a program written cleanly and commented that I was satisfied with.
+
+### Day 7: Wednesday, May 15, 2019
