@@ -37,3 +37,9 @@
 **Thoughts**: I had a great time today learning the advanced loops and writing a simple program that took me a couple hours to get where I wanted it. It took longer then I thought, but felt good to go through the process and end with a program written cleanly and commented that I was satisfied with.
 
 ### Day 7: Wednesday, May 15, 2019
+
+**Today's Progress**: I've continued to work through "The Complete Web Developer in 2019: Zero to Mastery" on Udemy and went through learning about using git, github and the command log. I got my system setup with bash since I use windows and became familiar with push/pull requests. I got stuck on the 3 final challenges at the end of the JS section which I will continue to work on to come up with a solution.
+
+**Thoughts**: It was very frustrating getting stuck for so long on the 3 challenges and not being able to finish any of them, but I learned a lot using stackoverflow and other sources trying to understand and find solutions. I'm proud of my progress today and ready to go through the NPM section tomorrow.
+
+### Day 8: Thursday, May 16, 2019
