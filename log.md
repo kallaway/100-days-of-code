@@ -43,3 +43,9 @@
 **Thoughts**: It was very frustrating getting stuck for so long on the 3 challenges and not being able to finish any of them, but I learned a lot using stackoverflow and other sources trying to understand and find solutions. I'm proud of my progress today and ready to go through the NPM section tomorrow.
 
 ### Day 8: Thursday, May 16, 2019
+
+**Today's Progress**: I've continued to work through "The Complete Web Developer in 2019: Zero to Mastery" on Udemy. Today I learned about NPM and React.js and built a webapp called Robofriends using React.
+
+**Thoughts**: Learning React was overwhelming and there is a lot to learn but I can see how it can be very useful and time saving once I'm able to learn it.
+
+### Day 9: Friday, May 17, 2019
