@@ -49,3 +49,25 @@
 **Thoughts**: Learning React was overwhelming and there is a lot to learn but I can see how it can be very useful and time saving once I'm able to learn it.
 
 ### Day 9: Friday, May 17, 2019
+
+**Today's Progress**: I've continued to work through "The Complete Web Developer in 2019: Zero to Mastery" on Udemy. Today I learned about the origin of HTTP, HTTPS and JSON.
+
+**Thoughts**: I didn't get much done as I only had a limited amount of time to continue the course before heading out of town for the weekend.
+
+### Day 10: Saturday, May 18, 2019
+
+**Today's Progress**: I worked on solving a challenge using Javascript in my Udemy course.
+
+**Thoughts**: I was out of town with no access to internet so I used what I had available on my laptop to work on solving a Javascript challenge I have been stuck on. I didn't make much progress but did the best I could in the situation.
+
+### Day 11: Sunday, May 19, 2019
+
+**Today's Progress**: No progress. Travel day then house/yard chores and completey ran out of time.
+
+**Thoughts**: This is my first skipped day where I was unable to find any time to learn. I'm not happy about it, but I will continue on my journey tomorrow and add +1 day to my 100 day challenge.
+
+### Day 12: Monday, May 20, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
