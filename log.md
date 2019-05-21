@@ -68,6 +68,9 @@
 
 ### Day 12: Monday, May 20, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I've continued to work through "The Complete Web Developer in 2019: Zero to Mastery" on Udemy. I finished the main course info learning about Backend Basics and API. Tomorrow I will start the final project.
 
-**Thoughts**: 
+**Thoughts**: It's nice to be home and back after it. I'm excited to begin the final project tomorrow and apply what I've learned and see what I can do.
+
+### Day 13: Tuesday, May 21, 2019
+
