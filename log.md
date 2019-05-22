@@ -79,3 +79,7 @@
 **Thoughts**: Starting the final project today was exciting to begin applying what I've learned to a big project and show myself what I can do.
 
 ### Day 14: Wednesday, May 22, 2019
+
+**Today's Progress**: I've continued to work through "The Complete Web Developer in 2019: Zero to Mastery" on Udemy. 
+
+**Thoughts**: 
