@@ -74,3 +74,8 @@
 
 ### Day 13: Tuesday, May 21, 2019
 
+**Today's Progress**: I've continued to work through "The Complete Web Developer in 2019: Zero to Mastery" on Udemy. I finished the main learning info throughout the course and started the final project. I also started working on my resume as a Web Developer.
+
+**Thoughts**: Starting the final project today was exciting to begin applying what I've learned to a big project and show myself what I can do.
+
+### Day 14: Wednesday, May 22, 2019
