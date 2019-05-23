@@ -43,3 +43,6 @@ Still working on the HTML & CSS project of the Udemy course I'm currently taking
 
 **R2D16, May 10th, 2019**
 I fixed the issue with the documentation site at work, the problem was caused because the margin I added to the top to clear the navbar, was pushing the content down, so I had to add some padding at the bottom of the content of the same amount as the margin, and that pushed it back up. Also fixed an issue with the Google Map not displaying on mobile screens on the EdgeLedger site
+
+**R2D17, May 23rd, 2019**
+It's been almost two weeks since the last time I updated this, I have not stopped tinkering around with HTML and CSS but have done nothing major worth updating here anyways. Truth is that I have been kind of down, but even if I don't post I won't stop making progress.
