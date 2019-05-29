@@ -1,0 +1,10 @@
+#Day 42: The heatmap in seaborn using the preloaded 'diamonds' csv
+
+import seaborn as sns                                                           #import seaborn
+import numpy as np                                                              #import numpy
+import pandas as pd
+
+data = sns.load_dataset('anscombe')
+                                                                                #example dataset
+data = data.pivot('x', 'dataset', 'y')                                          #data for heatmap
+anscombe_heatmap = sns.heatmap(data)
