@@ -5,3 +5,12 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
+example_four = sns.load_dataset('flights')
+
+
+
+sns.set(style='darkgrid')
+im = sns.load_dataset('flights')
+sns.jointplot(x = 'year',y = 'passengers', data=im, kind="scatter",color="lime")
+
+plt.show()
