@@ -163,4 +163,11 @@ Thoughts: It is pretty obvious to me that this could be achieved with far fewer 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/21_MilitaryTapCodes.py]
 
+### R1D44
+Today's Progress**: 
+
+Thoughts**:  
+
+Link to work: []
+
 
