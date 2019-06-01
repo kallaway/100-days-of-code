@@ -1,0 +1,28 @@
+#Day 45: Seaborn - Today I explored boxplots and distplots. Using the dots
+#sample dataset, I extracted several columns for use in the tables-choice 
+#(T1 or T2), coherence, align (dots or sacc), and firing_rate. The boxplot
+#shows the middle 2 quartiles as the box, and a majority of the remaining data
+#as the shadows, similar to a candlestick chart. The distplot shows a histogram
+#with a KDE as an overlay. 
+
+import seaborn as sns
+import pandas as pd
+import numpy as mp
+import matplotlib.pyplot as plt
+
+
+dot = sns.load_dataset('dots')
+plt.figure('Some Data From Dots.csv')
+plt.subplot(2,2,1)                                              #top left
+sns.boxplot(x=dot['choice'],y=dot['coherence'],color='mediumorchid')
+##plt.show()
+
+plt.subplot(2,2,2)                                              #top right
+sns.boxplot(x=dot['align'],y=dot['firing_rate'],color='lightgreen')
+
+plt.subplot(2,2,3)                                              #bottom left
+sns.distplot(dot['coherence'],color='deeppink')
+
+plt.subplot(2,2,4)                                              #bottom right 
+sns.distplot(dot['firing_rate'],color='greenyellow')
+plt.show()
