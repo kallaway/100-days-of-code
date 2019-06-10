@@ -27,4 +27,4 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** I did not have so much fun with javascript today, but I'm still learning the basics so I guess it's normal... I had a lot of fun with HTML and CSS though and can't wait to begin the projects of the certification. I already have a ton of ideas. 
 
-**Link to work:** I guess the repository (https://github.com/TheDaisyMoon/mycv). (I'm not even sure I'm using github right tbh)
+**Link to work:** I guess the repository (https://github.com/TheDaisyMoon/mycv). (I'm not even really sure I'm using github right tbh)
