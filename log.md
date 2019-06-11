@@ -28,3 +28,12 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 **Thoughts:** I did not have so much fun with javascript today, but I'm still learning the basics so I guess it's normal... I had a lot of fun with HTML and CSS though and can't wait to begin the projects of the certification. I already have a ton of ideas. 
 
 **Link to work:** I guess the repository (https://github.com/TheDaisyMoon/mycv). (I'm not even really sure I'm using github right tbh)
+
+
+### Day 4: June 11, 2019.
+
+**Today's Progress**: Only JavaScript for me today. Finished the second chapter of the JavaScript certification on free code camp. 
+
+**Thoughts:** I did have more "oh my god that makes sense actually" moments today than ever. yay. 
+
+**Link to work:** Twitted a little (@MagaliMilbergue)
