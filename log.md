@@ -37,3 +37,12 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 **Thoughts:** I did have more "oh my god that makes sense actually" moments today than ever. yay. 
 
 **Link to work:** Twitted a little (@MagaliMilbergue)
+
+
+### Day 5: June 12, 2019.
+
+**Today's Progress**: Finished the RegEx chapter of the the Javascript certification on free code camp. Also finished the bootstrap chapter of the Front End Librairies certification. 
+
+**Thoughts:** I had a lot of fun with bootstrap, which was not a surprise... But the fun I had with RegEx was. And it was a good confidence boost which was needed after a week struggling to understand what is supposed to be the basics. I kinda want to find a little project in javascript to have more fun. 
+
+**Link to work:** Twitted a little (@MagaliMilbergue)
