@@ -46,3 +46,12 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 **Thoughts:** I had a lot of fun with bootstrap, which was not a surprise... But the fun I had with RegEx was. And it was a good confidence boost which was needed after a week struggling to understand what is supposed to be the basics. I kinda want to find a little project in javascript to have more fun. 
 
 **Link to work:** Twitted a little (@MagaliMilbergue)
+
+### Day 6: June 13, 2019.
+
+**Today's Progress**: Continued my learning journey with Javascript and began the first project for free code camp. 
+
+**Thoughts:** Javascript was okay, I think I'm getting it a little better now, still a lot of work to do. The project is fun, it's a tribute page, doing it about Roxane Gay. 
+
+**Link to work:** Twitted a little (@MagaliMilbergue)
+
