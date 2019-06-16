@@ -55,3 +55,29 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Link to work:** Twitted a little (@MagaliMilbergue)
 
+
+### Day 7: June 14, 2019.
+
+**Today's Progress**: Worked a lot on javascript and began to learn about jQuery. 
+
+**Thoughts:** A very full day but did not feel very productive for some reason.
+
+**Link to work:** Twitted a little (@MagaliMilbergue)
+
+
+### Day 8: June 15, 2019.
+
+**Today's Progress**: Took my first break. 
+
+**Thoughts:** I only read some articles but mostly stayed away from coding. It was my first no-code day since the 6th of May and I think I need it. I need to be more careful to not overdo it, burning out would be bad.
+
+**Link to work:** Nope. 
+
+
+### Day 9: June 16, 2019.
+
+**Today's Progress**: Finished my first project for Free Code Camp (the Roxane Gay tribute page), or at least did most of the work, I'll probably go back to change some of the design that I mostly left untouched. Also read a lot and began the Javascript30 course. 
+
+**Thoughts:** It was nice to go back to what I mostly understand (the tribute page) and I am very grateful to the people that suggested that I did the Javascript30 course because I think it will help a lot.
+
+**Link to work:** Twitted a little (@MagaliMilbergue) and the project is here [https://codepen.io/thedaisymoon/pen/rEOaeR#0]
