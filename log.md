@@ -81,3 +81,11 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 **Thoughts:** It was nice to go back to what I mostly understand (the tribute page) and I am very grateful to the people that suggested that I did the Javascript30 course because I think it will help a lot.
 
 **Link to work:** Twitted a little (@MagaliMilbergue) and the project is here [https://codepen.io/thedaisymoon/pen/rEOaeR#0]
+
+### Day 10: June 17, 2019.
+
+**Today's Progress**: Mostly worked on my portfolio. 
+
+**Thoughts:** Changed close to everything in the CSS, still not happy about it but it's better. 
+
+**Link to work:** Not yet. 
