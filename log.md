@@ -1,30 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: june 25 2019 (LOGIN PAGE)
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Made login page using css,html and bootstrap.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** It was real fun with frontend languages.Really like doing coding .
+**Link to work:**https://github.com/sakigo9/logon_page
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 2: june 26 2019 (TIC TOC TOE GAME)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+**Today's Progress**:This time used DOM and js for making this game.
+
+**Thoughts**: Great experience using this technology.
+**Link(s) to work**: https://github.com/sakigo9/100daysOfCode
+
+### Day 3: june 27 2019 (IMAGEGALLERY)
+
+**Today's Progress**: Mojority use of bootstrap and css and html following the way.
+
+**Thoughts**learned bootstrap 4 major things like navbar,jumbotrons,utilities for making good changes in the code.
+
+**Link(s) to work**: https://github.com/sakigo9/ImageGallery-DAY-3-
