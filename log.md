@@ -23,3 +23,12 @@
 **Thoughts**learned bootstrap 4 major things like navbar,jumbotrons,utilities for making good changes in the code.
 
 **Link(s) to work**: https://github.com/sakigo9/ImageGallery-DAY-3-
+
+### Day 4: june 28 2019 (SEVENWONDERS)+(FREECODECAMP)
+
+**Today's Progress**: Here i used bootstrap to make a page that displays all the seven wonders of the world.Concepts used here are cards,row,containers and many more from BOOTSTRAP4 .Along with that i leraned few concepts of js from freecodecamp.
+
+**Thoughts**: Again tried the potentials pf Bootstrap using few topics .
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
+**Link(s) to work**:https://github.com/sakigo9/SevenWonders-Day-4-
