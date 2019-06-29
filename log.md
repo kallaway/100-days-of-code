@@ -32,3 +32,11 @@
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
 **Link(s) to work**:https://github.com/sakigo9/SevenWonders-Day-4-
+
+### Day 5: june 29 2019 (TENSORFLOW)+(FREECODECAMP)+(QUIKLABS)
+
+**Today's Progress**:Today i looked few concepts of javascript. Along with that i had some hands on session at Quiklabs. Also today i started Tensorflow which is super exciting.
+
+**Thoughts**: Started Tensorflow and looking Forward for the potential that it surely have for ml.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo and https://t.co/dfNffUVest
