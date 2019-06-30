@@ -40,3 +40,11 @@
 **Thoughts**: Started Tensorflow and looking Forward for the potential that it surely have for ml.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo and https://t.co/dfNffUVest
+
+### Day 6: june 30 2019 (TENSORFLOW)+(FREECODECAMP)
+
+**Today's Progress**:Today i came across fashion mnist dataset and used tesnsorflow to evaluate this model. Along with that i studied javascript in freecodecamp.
+
+**Thoughts**:Found tensorflow super interesting with the evaluation of different models.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9
