@@ -48,3 +48,11 @@
 **Thoughts**:Found tensorflow super interesting with the evaluation of different models.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9
+
+### Day 7: JULY 1 2019 (TENSORFLOW)+(FREECODECAMP)
+
+**Today's Progress**:Today i learned about conV and MaxPooling that is used optimize the fashion mnist. Along with that i came across few topics of javascript.
+
+**Thoughts**:Enjoying the work with Tensorflow.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9/MY_ML_CODE
