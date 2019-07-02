@@ -56,3 +56,11 @@
 **Thoughts**:Enjoying the work with Tensorflow.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9/MY_ML_CODE
+
+### Day 8: JULY 2 2019 (TENSORFLOW)+(FREECODECAMP)
+
+**Today's Progress**:Started nlp and studied tokenizer concept for text encoding.Also looked bbc-news dataset.Javascript concepts also covered.
+
+**Thoughts**:Enjoying the work with NLP.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9/MY_ML_CODE
