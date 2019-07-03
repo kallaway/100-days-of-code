@@ -82,6 +82,8 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Link to work:** Twitted a little (@MagaliMilbergue) and the project is here [https://codepen.io/thedaisymoon/pen/rEOaeR#0]
 
+
+
 ### Day 10: June 17, 2019.
 
 **Today's Progress**: Mostly worked on my portfolio. 
@@ -89,3 +91,157 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 **Thoughts:** Changed close to everything in the CSS, still not happy about it but it's better. 
 
 **Link to work:** Not yet. 
+
+
+
+### Day 11: June 18, 2019.
+
+**Today's Progress**: Passed my javascript exam at my bootcamp.
+
+**Thoughts:** Really struggled but finally got it right. It was very frustrating though, kinda wanted to give up after two hours with not one of my attempt at a code working. 
+
+**Link to work:** Nope. 
+
+
+
+### Day 12: June 19, 2019.
+
+**Today's Progress**: Began learning about Reactjs and validated my first project fot the Responsive Web Design Certification on Free Code Camp. 
+
+**Thoughts:** The project was pretty fun to do, eventhough I kept it very simple. React is another mountain to climb. 
+
+**Link to work:** The finished project is here : [https://codepen.io/thedaisymoon/pen/rEOaeR]
+
+
+
+### Day 13: June 20, 2019.
+
+**Today's Progress**: Worked on learning Reactjs. 
+
+**Thoughts:** Had some fun with it and it kinda help me understand some javascript stuff. 
+
+**Link to work:** Nothing worth sharing today. 
+
+
+
+### Day 14: June 21, 2019.
+
+**Today's Progress**: Still learning Reactjs and worked a little bit on my portfolio. 
+
+**Thoughts:** I was sick so it was not a very productive day, but I still did some code so I'm okay with myself. 
+
+**Link to work:** Nothing to show. 
+
+
+### Day 15: June 22, 2019.
+
+**Today's Progress**: Mostly worked on my projects for my Free Code Camp certification. 
+
+**Thoughts:** Was still sick so getting my brains to work was still a struggle tbh. 
+
+**Link to work:** Not today. 
+
+
+### Day 16: June 23, 2019.
+
+**Today's Progress**: Worked on Reactjs then went back to javascript. 
+
+**Thoughts:** I still feel kinda scared of javascript. I need to finally connect to that language.  
+
+**Link to work:** Still learning the basics. 
+
+
+### Day 17: June 24, 2019.
+
+**Today's Progress**: Reactjs and Redux. 
+
+**Thoughts:** Got my ass kicked and still don't really get why.  
+
+**Link to work:** Big nope. 
+
+
+### Day 18: June 25, 2019.
+
+**Today's Progress**: Continued my learning of Reactjs. 
+
+**Thoughts:** The heatwave is here and my brains melted. Concentrating is close to impossible, even for the teacher. 
+
+**Link to work:** No. 
+
+
+### Day 19: June 26, 2019.
+
+**Today's Progress**: Tried to begin learning Angular. 
+
+**Thoughts:** The heatwave makes it impossible for me to really feel like my brain is working. 
+
+**Link to work:** Still a no. 
+
+
+
+### Day 20: June 27, 2019.
+
+**Today's Progress**: Still worked on Angular and discovered the app SoloLearn.  
+
+**Thoughts:** Well the heat wave forced me to stay home and I tried to make the most of it but it was just impossible to do anything, and my computer did not like the heat either, so probably not the best conditions to learn yet another framework. 
+
+**Link to work:** Nothing to show. 
+
+
+
+### Day 21: June 28, 2019.
+
+**Today's Progress**: Finished the second project for the Free Code Camp Responsive Web Design Certification. Also worked on algorithmy with javascript. 
+
+**Thoughts:**  I was pretty happy with my project and okay with my work on javascript. Still the heat wave made it so hard to work that I had to call it a day pretty early. Can't wait for a more normal weather. 
+
+**Link to work:** The project is here : [https://codepen.io/thedaisymoon/pen/ydpOrZ]
+
+
+
+### Day 22: June 29, 2019.
+
+**Today's Progress**: Mostly read articles and tried some codes I found in javascript.   
+
+**Thoughts:** Worst day of the heat wave so I kept it light.
+
+**Link to work:** Nothing to show. 
+
+
+
+### Day 23: June 30, 2019.
+
+**Today's Progress**: Went back to javascript to try to find a way to get it. 
+
+**Thoughts:** Found nice ressources and tried to code but still feel a little lost. 
+
+**Link to work:** Nothing. 
+
+
+
+### Day 24: July 1st, 2019.
+
+**Today's Progress**: Began a course on Ionic. 
+
+**Thoughts:** Not sold on Ionic, probably because I did not understand Angular well enough. 
+
+**Link to work:** Nope. 
+
+
+
+### Day 25: July 2nd, 2019.
+
+**Today's Progress**: Worked on javascript.  
+
+**Thoughts:** I'm already at a quarter of my first round and it's unbelievable ! But also, javascript is hard. But also, I think I understood things I did not before, yay ! 
+
+**Link to work:** Sorry still no. 
+
+
+### Day 26: July 3rd, 2019.
+
+**Today's Progress**: Javascript, javascript javascript.... 
+
+**Thoughts:** I really think I'm gettin it but very slowly, step by step by step by step... Kinda worried about the pace...  
+
+**Link to work:** Nothing to show. 
