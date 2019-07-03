@@ -57,10 +57,11 @@
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9/MY_ML_CODE
 
-### Day 8: JULY 2 2019 (TENSORFLOW)+(FREECODECAMP)
 
-**Today's Progress**:Started nlp and studied tokenizer concept for text encoding.Also looked bbc-news dataset.Javascript concepts also covered.
+### Day 9: JULY 3 2019 (TENSORFLOW)+(FREECODECAMP)
 
-**Thoughts**:Enjoying the work with NLP.
+**Today's Progress**:looked at taking tokenized words and using Embeddings to establish meaning from them in a mathematical way. Words were mapped to vectors in higher dimensional space.
+
+**Thoughts**:Got the essence of nlp to a broader aspect.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9/MY_ML_CODE
