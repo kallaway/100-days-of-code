@@ -65,3 +65,11 @@
 **Thoughts**:Got the essence of nlp to a broader aspect.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9/MY_ML_CODE
+
+### Day 10: JULY 4 2019 (TENSORFLOW)+(FREECODECAMP)
+
+**Today's Progress**:looked at RNN and LSTMs concept with Embedding techiques.Also gone through some javascript concepts.  
+
+**Thoughts**:Seeking the importance of RNN in particular LSTMs in action.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9/MY_ML_CODE
