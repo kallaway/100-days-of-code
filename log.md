@@ -73,3 +73,11 @@
 **Thoughts**:Seeking the importance of RNN in particular LSTMs in action.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9/MY_ML_CODE
+
+### Day 11: JULY 5 2019 (DEEP LEARNING)+(FREECODECAMP)
+
+**Today's Progress**:SO today i looked to deeplearning.ai course named as deep deeplearning and neural networks and dive into some core concepts with Andrew Ng .And as usual continue with freecodecamp Javascript.
+
+**Thoughts**: Dive into some core concepts behind deeplearning and neural networks.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
