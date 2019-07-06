@@ -81,3 +81,11 @@
 **Thoughts**: Dive into some core concepts behind deeplearning and neural networks.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 12: JULY 6 2019 (DEEP LEARNING)+(FREECODECAMP)+(PYTHON)
+
+**Today's Progress**:So today i looked some key concept regarding deep learning for proper implementation of neural networks.Along side with that started udemy python and continued with js in FCC.
+
+**Thoughts**: Coding bring lots of confidence .
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
