@@ -89,3 +89,11 @@
 **Thoughts**: Coding bring lots of confidence .
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 13: JULY 7 2019 (DEEP LEARNING)+(FREECODECAMP)+(PYTHON)
+
+**Today's Progress**:Today i looked through activation function and basics of representation of neural network. Along with that studied list and js .
+
+**Thoughts**: Layers in neural network determine the model implementation.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
