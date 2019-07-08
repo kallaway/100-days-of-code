@@ -97,3 +97,11 @@
 **Thoughts**: Layers in neural network determine the model implementation.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 14: JULY 8 2019 (DEEP LEARNING)+(FREECODECAMP)+(PYTHON)
+
+**Today's Progress**:looked through some core concepts of deep neural network. Studied dictionary in python . Switch statements me js.
+
+**Thoughts**:Deep neural networks are promising.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
