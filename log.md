@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: July 8 2019 7pm-830pm
+**Today's Progress**: Learned basics of Github. Download VS Code for a text editor. Then downloaded intellij because apparently that is what to use for java. First project will be to build Tetris in Java. Started with demo project form this tutorial to get an idea of where to begin (http://zetcode.com/tutorials/javagamestutorial/basics/) will go through basic game tutorial then start tetris.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** The overall goal of this challenge will be to determine if programming is something I could see myself doing long term and still enjoy it as a career or if it is more a hobby. Not too sure where to start on the project but at least I have something to focus on. I know there are some easy step by step tutorials for doing tetris in programming but I would like to figure it out myself if possible. Is there one IDE/text editor to rule them all?? 
+This is going to be hard. There's a lot to learn.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
@@ -17,14 +16,3 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
