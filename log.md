@@ -105,3 +105,11 @@
 **Thoughts**:Deep neural networks are promising.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 15: JULY 9 2019 (DEEP LEARNING)+(FREECODECAMP)+(PYTHON)
+
+**Today's Progress**:Today looked to some parameters and hyperparameters of deep neural networks.  Looked sets and bool types in python.
+
+**Thoughts**:parameters and hyperparameters of deep neural networks are very crucial for the core development .
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
