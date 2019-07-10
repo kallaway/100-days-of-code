@@ -113,3 +113,11 @@
 **Thoughts**:parameters and hyperparameters of deep neural networks are very crucial for the core development .
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 16: JULY 10 2019 (FREECODECAMP)+(PYTHON)
+
+**Today's Progress**:Studied looping concepts in python. also did some js task.
+
+**Thoughts**:Looping concepts are crucial part.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
