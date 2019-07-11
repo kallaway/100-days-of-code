@@ -121,3 +121,11 @@
 **Thoughts**:Looping concepts are crucial part.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 17: JULY 11 2019 (FREECODECAMP)+(PYTHON)+(NLP)
+
+**Today's Progress**:Today i made my way to some of the core concepts of nlp like stemming,    lemmatiziation, tokenization .Got the insights of word processing. Also looked to some crucial python concepts and js along with that.
+
+**Thoughts**:NLP looks promising but still word processing is still a tough task all together.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
