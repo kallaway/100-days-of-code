@@ -129,3 +129,11 @@
 **Thoughts**:NLP looks promising but still word processing is still a tough task all together.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 18: JULY 12 2019 (FREECODECAMP)+(PYTHON)+(NLP)
+
+**Today's Progress**:So gone through different ambiguity in nlp . Had hands on experience with the nltk . Also had some coding on functions in python .
+
+**Thoughts**:NLU is much complex than NLG as here we tends to teach the system about the text and the grammers.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
