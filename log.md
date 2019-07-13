@@ -137,3 +137,11 @@
 **Thoughts**:NLU is much complex than NLG as here we tends to teach the system about the text and the grammers.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 19: JULY 13 2019 (FREECODECAMP)+(PYTHON)+(AI)
+
+**Today's Progress**:Today i looked some of the use-cases of AI. Started my first python project in the form of tic toc toe game. learned about python classes and js arrays.
+
+**Thoughts**:IBM Cognitive has immense potential to power major infrastructure.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
