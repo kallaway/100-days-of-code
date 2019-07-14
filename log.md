@@ -145,3 +145,11 @@
 **Thoughts**:IBM Cognitive has immense potential to power major infrastructure.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 20: JULY 14 2019 (FREECODECAMP)+(PYTHON)
+
+**Today's Progress**:completed my first python project.Also looked inheritance concepts in python.
+
+**Thoughts**:project are crucial.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
