@@ -153,3 +153,11 @@
 **Thoughts**:project are crucial.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 21: JULY 15 2019 (FREECODECAMP)+(PYTHON)+(IBM WATSON)
+
+**Today's Progress**: Today i witness one of the most amazing platforms to learn chatbots i.e IBM WATSON ASSISTANT. Really enjoyed the course. Along side i also got some understanding of the python polymorphism.
+
+**Thoughts**:Found IBM WATSON ASSISTANT more flexible.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
