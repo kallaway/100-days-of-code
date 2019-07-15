@@ -8,17 +8,13 @@
 
 **Thoughts:** JavaScript is not my friend yet. I still don't really understand its use, eventhough I think today's work helped a lot. I rewarded myself by going back to HTML/CSS and learned a lot about it, and had a lot of fun. It's what I feel is missing from JavaScript right now, the fun. I hope it'll come soon. 
 
-**Link to work:** No link... I twitted though (@MagaliMilbergue).
-
 
 ### Day 2: June 9, 2019.
 
 **Today's Progress**: Finished the Basic JavaScript chapter from the Javascript Algorithms And Data Structures Certification on Free Code Camp. Then had a little fun with HTML and CSS. 
 
 **Thoughts:** I guess I understand Javascript a little better. I even found some of the exercises to be fun. (Yes, I actually had fun with javascript ! unbelievable!). I still don't really grasp what it can be usefull for in web developpment.... I guess I'll get it later. 
-I also got some suggestions on twitter on how to have a little bit of fun with javascript and better grasp its usefullness so I'm really happy about that. 
-
-**Link to work:** No link... I still twitted though (@MagaliMilbergue).
+I also got some suggestions on twitter on how to have a little bit of fun with javascript and better grasp its usefullness so I'm really happy about that.
 
 
 ### Day 3: June 10, 2019.
@@ -71,8 +67,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** I only read some articles but mostly stayed away from coding. It was my first no-code day since the 6th of May and I think I need it. I need to be more careful to not overdo it, burning out would be bad.
 
-**Link to work:** Nope. 
-
 
 ### Day 9: June 16, 2019.
 
@@ -90,8 +84,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** Changed close to everything in the CSS, still not happy about it but it's better. 
 
-**Link to work:** Not yet. 
-
 
 
 ### Day 11: June 18, 2019.
@@ -99,8 +91,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 **Today's Progress**: Passed my javascript exam at my bootcamp.
 
 **Thoughts:** Really struggled but finally got it right. It was very frustrating though, kinda wanted to give up after two hours with not one of my attempt at a code working. 
-
-**Link to work:** Nope. 
 
 
 
@@ -120,8 +110,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** Had some fun with it and it kinda help me understand some javascript stuff. 
 
-**Link to work:** Nothing worth sharing today. 
-
 
 
 ### Day 14: June 21, 2019.
@@ -130,7 +118,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** I was sick so it was not a very productive day, but I still did some code so I'm okay with myself. 
 
-**Link to work:** Nothing to show. 
 
 
 ### Day 15: June 22, 2019.
@@ -139,7 +126,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** Was still sick so getting my brains to work was still a struggle tbh. 
 
-**Link to work:** Not today. 
 
 
 ### Day 16: June 23, 2019.
@@ -148,7 +134,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** I still feel kinda scared of javascript. I need to finally connect to that language.  
 
-**Link to work:** Still learning the basics. 
 
 
 ### Day 17: June 24, 2019.
@@ -157,7 +142,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** Got my ass kicked and still don't really get why.  
 
-**Link to work:** Big nope. 
 
 
 ### Day 18: June 25, 2019.
@@ -166,7 +150,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** The heatwave is here and my brains melted. Concentrating is close to impossible, even for the teacher. 
 
-**Link to work:** No. 
 
 
 ### Day 19: June 26, 2019.
@@ -175,8 +158,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** The heatwave makes it impossible for me to really feel like my brain is working. 
 
-**Link to work:** Still a no. 
-
 
 
 ### Day 20: June 27, 2019.
@@ -184,8 +165,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 **Today's Progress**: Still worked on Angular and discovered the app SoloLearn.  
 
 **Thoughts:** Well the heat wave forced me to stay home and I tried to make the most of it but it was just impossible to do anything, and my computer did not like the heat either, so probably not the best conditions to learn yet another framework. 
-
-**Link to work:** Nothing to show. 
 
 
 
@@ -205,7 +184,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** Worst day of the heat wave so I kept it light.
 
-**Link to work:** Nothing to show. 
 
 
 
@@ -215,7 +193,7 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** Found nice ressources and tried to code but still feel a little lost. 
 
-**Link to work:** Nothing. 
+
 
 
 
@@ -225,7 +203,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** Not sold on Ionic, probably because I did not understand Angular well enough. 
 
-**Link to work:** Nope. 
 
 
 
@@ -235,7 +212,6 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** I'm already at a quarter of my first round and it's unbelievable ! But also, javascript is hard. But also, I think I understood things I did not before, yay ! 
 
-**Link to work:** Sorry still no. 
 
 
 ### Day 26: July 3rd, 2019.
@@ -244,4 +220,47 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 **Thoughts:** I really think I'm gettin it but very slowly, step by step by step by step... Kinda worried about the pace...  
 
-**Link to work:** Nothing to show. 
+
+
+### Day 27: July 4th, 2019.
+
+**Today's Progress**: Learned some of the basics of SQL.
+
+**Thoughts:** Had a lot of fun.  
+
+
+
+### Day 28: July 5th, 2019.
+
+**Today's Progress**: Another day of SQL.
+
+**Thoughts:** Still having fun, feels good to feel like I'm not lost while learning for once. 
+
+
+
+### Day 29: July 6th, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 30: July 7th, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day 31: July  8th, 2019.
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
