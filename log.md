@@ -222,7 +222,7 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 
 
-### Day 27: July 4th, 2019.
+### Day 27: July 4, 2019.
 
 **Today's Progress**: Learned some of the basics of SQL.
 
@@ -230,7 +230,7 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 
 
-### Day 28: July 5th, 2019.
+### Day 28: July 5, 2019.
 
 **Today's Progress**: Another day of SQL.
 
@@ -238,29 +238,92 @@ I also got some suggestions on twitter on how to have a little bit of fun with j
 
 
 
-### Day 29: July 6th, 2019.
+### Day 29: July 6, 2019.
 
-**Today's Progress**: 
+**Today's Progress**: Took a break. 
 
-**Thoughts:** 
-
-**Link to work:** 
-
-
-### Day 30: July 7th, 2019.
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** 
+**Thoughts:** I really needed it, feeling less burnt out. 
 
 
 
-### Day 31: July  8th, 2019.
 
-**Today's Progress**: 
+### Day 30: July 7, 2019.
 
-**Thoughts:** 
+**Today's Progress**: Went back to javascript for another try. 
 
-**Link to work:** 
+**Thoughts:** Stil struggling which is kinda disheartening. 
+
+
+
+### Day 31: July  8, 2019.
+
+**Today's Progress**: SQL and Workbench at bootcamp then my projects at home. 
+
+**Thoughts:** SQL is still pretty fun and my projects are okay eventhough I'm not always happy with what I am doing. 
+
+
+
+
+
+### Day 32: July  9, 2019.
+
+**Today's Progress**: Began to learn PHP. 
+
+**Thoughts:** So excited !! 
+
+
+
+
+### Day 33: July  10, 2019.
+
+**Today's Progress**: Impromptu group project at bootcamp. Was in the PHP team (eventhough we only had done half a day of it). 
+
+**Thoughts:** Very fun and exciting. I really like our project and hope we'll get to finish it. Also, I learned so much about PHP by having to research stuff and learn by myself. 
+
+
+
+### Day 34: July  11, 2019.
+
+**Today's Progress**: Learned more about PHP.
+
+**Thoughts:** It actually helped me understand some javascript stuff so yay for that I guess. Also, I really like PHP at the moment. 
+
+
+
+
+### Day 35: July  12, 2019.
+
+**Today's Progress**: Learned about forms in PHP. 
+
+**Thoughts:** This week was very intense and I really liked it. So interesting !
+
+
+
+
+### Day 36: July  13, 2019.
+
+**Today's Progress**: Focused on applying for internships but still worked a little bit of code (updating my cv).
+
+**Thoughts:** Applying for internships is maybe the scariest thing I've done since begining this journey. 
+
+
+
+
+### Day 36: July  14, 2019.
+
+**Today's Progress**: Decided to restart my portfolio from scratch again, for the third time. 
+
+**Thoughts:** I'm a little bit more okay with my choices this time and probably will end up liking it a little bit more. I hope this third time is the last, because I need to move on from it. 
+
+**Link to work:** my portfolio repo here, V3. 
+
+
+### Day 36: July  15, 2019.
+
+**Today's Progress**: Still worked on the portfolio. 
+
+**Thoughts:** Yes, I think this will be the one. 
+
+**Link to work:** my portfolio repo here, V3. 
+
+
