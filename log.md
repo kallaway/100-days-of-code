@@ -161,3 +161,11 @@
 **Thoughts**:Found IBM WATSON ASSISTANT more flexible.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 22: JULY 16 2019 (FREECODECAMP)+(PYTHON)+(IBM WATSON)
+
+**Today's Progress**:Today i successfully completed my IBM WATSON ASSISTANT certification. Also gone through some of the method of classes in python. Again continued the chore of going through the fcc course.
+
+**Thoughts**:Decided to start NODEJS which one of the famous buzz words in the field.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
