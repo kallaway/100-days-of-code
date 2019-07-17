@@ -169,3 +169,11 @@
 **Thoughts**:Decided to start NODEJS which one of the famous buzz words in the field.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   and https://github.com/sakigo9/My_Python_Code
+
+### Day 23: JULY 17 2019 (FREECODECAMP)+(NODE JS)
+
+**Today's Progress**:Today i started NODEJS and gone through some prior concepts in that. Also looked at javascript library called D3 in fcc.
+
+**Thoughts**:Javascript is surly a thing to look for because of the different library present in it.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   
