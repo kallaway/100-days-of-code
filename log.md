@@ -177,3 +177,11 @@
 **Thoughts**:Javascript is surly a thing to look for because of the different library present in it.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   
+
+### Day 24: JULY 18 2019 (FREECODECAMP)+(NODE JS)
+
+**Today's Progress**:Today came across bunch of things .Really enjoyed a lot as i discovered some new topics like jade/pug , nodemailer to complete a project in NODEJS by BRAD TRAVERSY.
+
+**Thoughts**:Jade is really awesome for server type  markup language which is similar to HTML
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   
