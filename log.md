@@ -185,3 +185,12 @@
 **Thoughts**:Jade is really awesome for server type  markup language which is similar to HTML
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   
+
+### Day 25: JULY 19 2019 (FREECODECAMP)+(NODE JS)
+
+**Today's Progress**:Gone through some NODEJS concepts and also brushed up mongodb for the next NODEJS project . Also did fcc D3.
+
+
+**Thoughts**:Finding NODEJS interesting.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo   
