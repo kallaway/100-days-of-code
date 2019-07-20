@@ -194,3 +194,12 @@
 **Thoughts**:Finding NODEJS interesting.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo   
+
+### Day 26: JULY 20 2019 (FREECODECAMP)+(NODE JS)
+
+**Today's Progress**:Did a course on NODEJS by Brad Traversy which was a crash course. Learned a lot in that crash course.
+
+
+**Thoughts**:Finding NODEJS interesting.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
