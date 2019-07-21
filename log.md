@@ -203,3 +203,12 @@
 **Thoughts**:Finding NODEJS interesting.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 27: JULY 21 2019 (FREECODECAMP)+(EXPRESS JS)
+
+**Today's Progress**:Today i enjoyed studying one of BRAD TRAVERSY crash course on EXPRESS. Really enjoyed the stuff and the content of the course. Alaso looked another javascript stuff known as D3 in fcc.
+
+
+**Thoughts**:The potential of javascript is surely wide spread in technical world.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
