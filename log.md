@@ -206,9 +206,18 @@
 
 ### Day 27: JULY 21 2019 (FREECODECAMP)+(EXPRESS JS)
 
-**Today's Progress**:Today i enjoyed studying one of BRAD TRAVERSY crash course on EXPRESS. Really enjoyed the stuff and the content of the course. Alaso looked another javascript stuff known as D3 in fcc.
+**Today's Progress**:Today i enjoyed studying one of BRAD TRAVERSY crash course on EXPRESS. Really enjoyed the stuff and the content of the course. Also looked another javascript stuff known as D3 in fcc.
 
 
 **Thoughts**:The potential of javascript is surely wide spread in technical world.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 28: JULY 22 2019 (FREECODECAMP)+(FLUTTER)
+
+**Today's Progress**:Again started flutter. Wrote small code regarding stateless and statefull widgets . Also made a login page using this cross-platform framework.
+
+
+**Thoughts**:Revision is essential parameter.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
