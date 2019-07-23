@@ -221,3 +221,12 @@
 **Thoughts**:Revision is essential parameter.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 29: JULY 23 2019 (FREECODECAMP)+(EXPRESS)
+
+**Today's Progress**:Had some express practice with template engines like jade/pug .Got the work flow of the express to broader aspect.
+
+
+**Thoughts**:Express framework makes NODEJS much easier.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
