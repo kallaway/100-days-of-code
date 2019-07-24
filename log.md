@@ -230,3 +230,11 @@
 **Thoughts**:Express framework makes NODEJS much easier.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 30: JULY 24 2019 (FREECODECAMP)+(FLUTTER + DIALOGFLOW)
+
+**Today's Progress**:Looking Forward to integrate flutter and DIALOGFLOW for better use case.
+
+**Thoughts**:Integration opens up new possibilities.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
