@@ -238,3 +238,11 @@
 **Thoughts**:Integration opens up new possibilities.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 31: JULY 25 2019 (FREECODECAMP)+(FLUTTER + DIALOGFLOW + GCP)
+
+**Today's Progress**: Successfully integrated flutter and DIALOGFLOW with the json file provided by the google cloud platform .Its working well for the flight booking agent. Also tried multi-lingual with DIALOGFLOW to make it more generalized for the users.
+
+**Thoughts**: Now will be heading towards the WHATSAPP BUSINESS API INTEGRATION.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
