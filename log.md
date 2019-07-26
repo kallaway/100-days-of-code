@@ -246,3 +246,11 @@
 **Thoughts**: Now will be heading towards the WHATSAPP BUSINESS API INTEGRATION.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 32: JULY 26 2019 (FREECODECAMP)+(FLUTTER + EXPRESS)
+
+**Today's Progress**: Learning some use cases to apply flutter to perfection. Also learn some more basics about the express for implementing in mini projects. Started the API and AJAX section in D3 of fcc.
+
+**Thoughts**:Using APIs is todo for building  a fully functioning application.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
