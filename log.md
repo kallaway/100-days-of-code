@@ -254,3 +254,11 @@
 **Thoughts**:Using APIs is todo for building  a fully functioning application.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 33: JULY 27 2019 (FREECODECAMP)+(FLUTTER + EXPRESS)
+
+**Today's Progress**:Started a new flutter project named uber_clone . Quite challenging in the first go. Faced lots of difficulty but thats the beauty of learning . Had a look at some API and AJAX module in fcc.
+
+**Thoughts**: Error gives you more option to learn better.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
