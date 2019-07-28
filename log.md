@@ -262,3 +262,11 @@
 **Thoughts**: Error gives you more option to learn better.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 34: JULY 28 2019 (FREECODECAMP)+(ANGULAR)
+
+**Today's Progress**:Started angular and getting the knowledge about basic commands. Also continued with fcc.
+
+**Thoughts**: consistency reaps reward.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
