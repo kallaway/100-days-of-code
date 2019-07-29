@@ -270,3 +270,11 @@
 **Thoughts**: consistency reaps reward.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 35: JULY 29 2019 (FREECODECAMP)+(ANGULAR)
+
+**Today's Progress**:Did fcc javascript and other modules.
+
+**Thoughts**: move on
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
