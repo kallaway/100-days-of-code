@@ -278,3 +278,11 @@
 **Thoughts**: move on
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 36: JULY 30 2019 (FREECODECAMP)+(FLUTTER WEB)
+
+**Today's Progress**:Started flutter web . Done with the installments and started a new project under a course.
+
+**Thoughts**: Projects are vital.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
