@@ -286,3 +286,11 @@
 **Thoughts**: Projects are vital.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 37: JULY 31 2019 (FREECODECAMP)+(JQUERY+ API + TENSORFLOW)
+
+**Today's Progress**:Started a course on gcp with tensorflow .Also studied jquery and javascript which is handy too.
+
+**Thoughts**: Excited for the new course enrollment.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
