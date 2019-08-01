@@ -294,3 +294,11 @@
 **Thoughts**: Excited for the new course enrollment.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 38: AUGUST 1 2019 (FREECODECAMP)+(WHATSAPP API)
+
+**Today's Progress**: Worked with whatsapp api to integrate that with chatbot. Also did javascript under fcc.
+
+**Thoughts**: Getting hands on api .
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
