@@ -302,3 +302,11 @@
 **Thoughts**: Getting hands on api .
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 39: AUGUST 3 2019 (FREECODECAMP)+(REACT)
+
+**Today's Progress**:Started react for completing MERN stack . Did some fcc work in js.
+
+**Thoughts**: React is famous along with vue and angular.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
