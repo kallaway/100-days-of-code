@@ -310,3 +310,11 @@
 **Thoughts**: React is famous along with vue and angular.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 40: AUGUST 4 2019 (FREECODECAMP)+(REACT + TWILIO)
+
+**Today's Progress**:Successfully integrated whatsapp,twilio and DIALOGFLOW . The sample is working properly. Also doing a mini project on react guided by brad TRAVERSY.
+
+**Thoughts**: React is all about components.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
