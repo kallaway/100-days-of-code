@@ -318,3 +318,11 @@
 **Thoughts**: React is all about components.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 41: AUGUST 5 2019 (FREECODECAMP)+(REACT)
+
+**Today's Progress**: Clearing the basics of react under fcc. Also integrating all my previous work for the sample.
+
+**Thoughts**: Integration is crucial part.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
