@@ -334,3 +334,11 @@
 **Thoughts**: Integration is crucial part.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 43: AUGUST 8 2019 (FREECODECAMP)+(REACT)
+
+**Today's Progress**: implementing new techniques in react . Working on small mini-projects.
+
+**Thoughts**: Integration is crucial part.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
