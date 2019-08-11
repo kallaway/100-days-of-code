@@ -342,3 +342,19 @@
 **Thoughts**: Integration is crucial part.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 44: AUGUST 10 2019 (FREECODECAMP)+(REACT)
+
+**Today's Progress**: Came across the props and state under the class and functional components of react under a youtube channel.
+
+**Thoughts**: Integration is crucial part.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 45: AUGUST 11 2019 (FREECODECAMP)+(DIALOGFLOW)
+
+**Today's Progress**: Dialogflow intent for a elective selection done.
+
+**Thoughts**: Looking forward for website Integration with dialogflow.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
