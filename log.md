@@ -358,3 +358,10 @@
 **Thoughts**: Looking forward for website Integration with dialogflow.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+### Day 46: AUGUST 12 2019 (FREECODECAMP)+(DIALOGFLOW)+(FIREBASE)+(REACT)
+
+**Today's Progress**: Dialogflow intent for a elective selection done. And integrated firebase to extract the users information and storing it.Also fcc react done.
+
+**Thoughts**: INTEGRATION done with firebase.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
