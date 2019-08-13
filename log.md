@@ -365,3 +365,11 @@
 **Thoughts**: INTEGRATION done with firebase.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 47: AUGUST 13 2019 (FREECODECAMP)+(REACT)
+
+**Today's Progress**: React concepts under freecodecamp.
+
+**Thoughts**: react work.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
