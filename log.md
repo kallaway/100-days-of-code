@@ -373,3 +373,11 @@
 **Thoughts**: react work.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 48: AUGUST 14 2019 (FREECODECAMP)+(REACT)
+
+**Today's Progress**: Getting the proper understanding of setstate with few module from fcc.
+
+**Thoughts**: react work.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
