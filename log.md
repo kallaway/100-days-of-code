@@ -381,3 +381,11 @@
 **Thoughts**: react work.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 49: AUGUST 15 2019 (FREECODECAMP)+(REACT)
+
+**Today's Progress**: React concepts under freecodecamp. Completed introduction to machine learning in coursera.
+
+**Thoughts**: ML under GCP.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
