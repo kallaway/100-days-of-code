@@ -3,5 +3,8 @@
 
 **Log**
 
-**R1D1 - August 8th, 2019**
+**R1D1 - August 15th, 2019**
 Set up VSCode to work with Unity and managed to start working on the first challenge of the Udemy Unity course called Complete C# Unity Developer 2D: Learn to Code Making Games.
+
+**R1D2 - August 16th, 2019**
+Learned how to handle User Input through the keyboard and worked a little with updating variables, decision making and creating methods to handle calculations and prompts to users.
