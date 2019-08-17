@@ -397,3 +397,11 @@
 **Thoughts**: react work.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 51: AUGUST 17 2019 (FREECODECAMP)+(REACT)+(ML)
+
+**Today's Progress**: React if statements . Also gone through ml basics for the event.
+
+**Thoughts**: Time to provide knowledge to others.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
