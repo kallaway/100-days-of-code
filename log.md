@@ -405,3 +405,11 @@
 **Thoughts**: Time to provide knowledge to others.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 52: AUGUST 18 2019 (FREECODECAMP)+(REACT)+(ML)
+
+**Today's Progress**: Fcc react . Also saw video of tensorflow in a coursera course. And a medium article for the same.
+
+**Thoughts**: TENSORFLOW a giant thing.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
