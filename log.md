@@ -421,3 +421,11 @@
 **Thoughts**: TENSORFLOW a giant thing.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 54: AUGUST 21 2019 (FREECODECAMP)+(REACT)
+
+**Today's Progress**: Started redux which is state management techiques and handles the react components.
+
+**Thoughts**: Redux insights.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
