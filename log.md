@@ -429,3 +429,11 @@
 **Thoughts**: Redux insights.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 55: AUGUST 22 2019 (FREECODECAMP)+(REDUX)
+
+**Today's Progress**: Started redux which is state management techiques and handles the react components.
+
+**Thoughts**: Redux insights.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
