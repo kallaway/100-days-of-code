@@ -14,3 +14,6 @@ Finished Section 2 of the Complete C# Unity Developer 2D: Learn to Code Making G
 
 **R1D4 - August 23th, 2019**
 Started Section 3 of the C# Unity Developer course, learned about how to make sprites in Unity and got introduced to the next project, we're supposed to create a text based adventure, looking forward to it.
+
+**R1D5 - August 25th, 2019**
+Completed the sprite challenge from section 3. I have been noticing that I have to push myself to keep on advancing on this course. My motivation is at an all time low, I rather be wasting time doing stupid stuff, don't know why this is since making games has always been a dream of mine.
