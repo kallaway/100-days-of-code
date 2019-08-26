@@ -11,7 +11,7 @@
 
 ## Jeżeli zdecydowałeś/aś się dołączyć:
 0.  Zajrzyj na [oficjalną stronę](http://100daysofcode.com/) aby dowiedzieć się o #100DaysOfCode. Łącz się z innymi na platformach z tej listy: www.100DaysOfCode.com/connect
-    i, [tutaj](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE) jest link do zaproszenia aby dołączyć do 100DaysOfCode na platformie Slack.
+    i, [tutaj](https://join.slack.com/t/100xcode/shared_invite/enQtNzQwMzIwMzQxODc5LWQwMjU5Mjg0N2ZiMzIzYzJiZmE0YjNiYTBiZDBjNjlkNjBmMTYxNDBmNmE2YmE2YzY4NTgzY2Y5NDQxNWY5ZDM) jest link do zaproszenia aby dołączyć do 100DaysOfCode na platformie Slack.
 1.  Przeczytaj [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2.  Forkuj to repozytorium i aktualizuj [Log](log.md) albo alternatywnie, [R1 Log](r1-log.md) (R1 oznacza Runda 1) dziennie. [Przykład](https://github.com/Kallaway/100-days-kallaway-log).
 3.  **Programuj przez minimum jedną godzinę dziennie przez następne sto dni.**

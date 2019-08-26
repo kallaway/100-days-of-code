@@ -11,7 +11,7 @@
 
 
 ## Vous avez décidé de vous inscrire:
-0. Faites un tour sur [le site officiel](http://100daysofcode.com/) des #100JoursDeCode. Rejoignez les autres participants sur la plateforme de votre choix figurant dans cette liste: www.100DaysOfCode.com/connect En outre, vous trouverez [ici](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE) une invitation pour le canal slack 100JoursDeCode. 
+0. Faites un tour sur [le site officiel](http://100daysofcode.com/) des #100JoursDeCode. Rejoignez les autres participants sur la plateforme de votre choix figurant dans cette liste: www.100DaysOfCode.com/connect En outre, vous trouverez [ici](https://join.slack.com/t/100xcode/shared_invite/enQtNzQwMzIwMzQxODc5LWQwMjU5Mjg0N2ZiMzIzYzJiZmE0YjNiYTBiZDBjNjlkNjBmMTYxNDBmNmE2YmE2YzY4NTgzY2Y5NDQxNWY5ZDM) une invitation pour le canal slack 100JoursDeCode. 
 1. Lisez [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4). 
 2. Forkez ce repo and faites vos commits chaque jour dans le [log](log.md) ou dans le log rapide [R1 Log](r1-log.md) (R1 veut dire Round 1). [Exemple](https://github.com/Kallaway/100-days-kallaway-log). 
 3. **Codez au minimum 1 heure par jour pendant 100 jours.** 

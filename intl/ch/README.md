@@ -13,7 +13,7 @@
 ## 如果你已经决定要加入：
 
 0.  查看 #100DaysOfCode 运动的[官方网站](http://100daysofcode.com/)。与其他人在这些平台上建立联系：www.100DaysOfCode.com/connect
-    除此之外，这是 100DaysOfCode Slack channel的邀请[链接](https://join.slack.com/t/100xcode/shared_invite/enQtNTk0MzA1MDcyMDMzLTZhMDdlZDZhYTExYTM1ZTY1NWIxZjVhZjEwYjdhMjQ3YzE4MGMyYjMxMWMwMTY0YTJlYWU4ZGM5NDYyMmNjOGE)。
+    除此之外，这是 100DaysOfCode Slack channel的邀请[链接](https://join.slack.com/t/100xcode/shared_invite/enQtNzQwMzIwMzQxODc5LWQwMjU5Mjg0N2ZiMzIzYzJiZmE0YjNiYTBiZDBjNjlkNjBmMTYxNDBmNmE2YmE2YzY4NTgzY2Y5NDQxNWY5ZDM)。
 1.  阅读 [加入 #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Fork这个repo并且每天更新[日志](log.md)，或者[R1日志](r1-log.md) （R1是round 1，即第一轮）。[例子](https://github.com/Kallaway/100-days-kallaway-log)。
 1.  **在之后的100天，每天至少写一个小时的代码。**
