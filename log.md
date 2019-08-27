@@ -461,3 +461,11 @@
 **Thoughts**: deeplearning
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 59: AUGUST 27 2019 (FREECODECAMP)+(REDUX)
+
+**Today's Progress**: Started redux which is state management techiques and handles the react components.
+
+**Thoughts**: Redux insights.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
