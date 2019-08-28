@@ -469,3 +469,9 @@
 **Thoughts**: Redux insights.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 60: AUGUST 28 2019 (NEURAL NETS)
+
+**Today's Progress**: neural network Revision for the workshop. and fcc redux.
+
+**Thoughts**: workshop preparations.
