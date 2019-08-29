@@ -475,3 +475,11 @@
 **Today's Progress**: neural network Revision for the workshop. and fcc redux.
 
 **Thoughts**: workshop preparations.
+
+### Day 61: AUGUST 29 2019 (FREECODECAMP)+(REDUX+REACT)
+
+**Today's Progress**: New Module Started in FREECODECAMP.
+
+**Thoughts**: Redux and react combination.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
