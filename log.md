@@ -499,3 +499,11 @@
 **Thoughts**: Redux and react combination.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 64: SEPTEMBER 2 2019 (FREECODECAMP)+(REDUX+REACT)
+
+**Today's Progress**: New Module Started in FREECODECAMP.
+
+**Thoughts**: Redux and react combination.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
