@@ -507,3 +507,11 @@
 **Thoughts**: Redux and react combination.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 65: SEPTEMBER 5 2019 (FREECODECAMP)+(ES6)
+
+**Today's Progress**: Looking for the ES6 syntax.
+
+**Thoughts**: ES6 makes less code use.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
