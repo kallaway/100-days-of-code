@@ -515,3 +515,11 @@
 **Thoughts**: ES6 makes less code use.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 66: SEPTEMBER 6 2019 (QWIKLABS)
+
+**Today's Progress**: GCP warm up challenge completed with four labs.
+
+**Thoughts**: QWIKLABs ASSETS
+
+**Link(s) to work**:https://www.qwiklabs.com/public_profiles/2d99f176-a117-4ccb-9fc0-904ac6aab2d7
