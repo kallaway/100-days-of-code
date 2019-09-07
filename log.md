@@ -523,3 +523,11 @@
 **Thoughts**: QWIKLABs ASSETS
 
 **Link(s) to work**:https://www.qwiklabs.com/public_profiles/2d99f176-a117-4ccb-9fc0-904ac6aab2d7
+
+### Day 67: SEPTEMBER 7 2019 (FREECODECAMP)+(ES6)
+
+**Today's Progress**: Looking for the ES6 syntax.
+
+**Thoughts**: ES6 makes less code use.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
