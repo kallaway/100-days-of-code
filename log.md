@@ -531,3 +531,11 @@
 **Thoughts**: ES6 makes less code use.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 68: SEPTEMBER 8 2019 (FREECODECAMP)+(ES6)
+
+**Today's Progress**: parameters concepts in ES6.
+
+**Thoughts**: ES6 makes less code use.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
