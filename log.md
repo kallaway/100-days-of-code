@@ -571,3 +571,11 @@
 **Thoughts**: ES6 makes less code use.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 73: SEPTEMBER 14 2019 (FREECODECAMP)+(ES6)
+
+**Today's Progress**: Brushing ES6.
+
+**Thoughts**: ES6 makes less code use.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
