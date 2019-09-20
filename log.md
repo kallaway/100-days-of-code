@@ -579,3 +579,9 @@
 **Thoughts**: ES6 makes less code use.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 74: SEPTEMBER 14 2019
+
+**Today's Progress**: Allmost 5 days break. was busy with exams now all set to complete the last quater.
+
+**Thoughts**: consistency is mandatory.
