@@ -591,3 +591,11 @@
 **Today's Progress**: Started front end library project in fcc.
 
 **Thoughts**: Mini projects keeps u motivated.
+
+### Day 76: SEPTEMBER 23 2019 (FREECODECAMP)+(ES6)
+
+**Today's Progress**: Node work sorted out. Revision for mini projects.
+
+**Thoughts**: keep working.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
