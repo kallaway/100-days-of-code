@@ -599,3 +599,11 @@
 **Thoughts**: keep working.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 77: SEPTEMBER 25 2019 (ACTIONS ON GOOGLE)
+
+**Today's Progress**: Deployed elective bot to google ASSISTANT.
+
+**Thoughts**: review
+
+**Link(s) to work**:Talk to my elective bot- AOG
