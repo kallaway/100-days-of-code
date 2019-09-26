@@ -607,3 +607,11 @@
 **Thoughts**: review
 
 **Link(s) to work**:Talk to my elective bot- AOG
+
+### Day 78: SEPTEMBER 26 2019 (FREECODECAMP)+(Javascript)
+
+**Today's Progress**: Javascript slicing techiques.
+
+**Thoughts**: user data analysis are important.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
