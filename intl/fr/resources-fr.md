@@ -34,7 +34,7 @@
 
 ### Programmation
 1. "Professional Node.js" by Teixeira
-2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - disponble en ligne (gratuitement) & en version papier
+2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - disponible en ligne (gratuitement) & en version papier
 3. "Mastering JavaScript" by Ved Antani
 
 ## Contenu

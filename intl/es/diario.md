@@ -46,6 +46,6 @@
 ## Tabla de contenidos
 
 * [Reglas](reglas.md)
-* [Registro - haga clic aquí para ver mi progreso](registro.md)
+* [Diario - haga clic aquí para ver mi progreso](registro.md)
 * [Preguntas frecuentes](preguntas_frecuentes.md)
 * [Recursos](recursos.md)

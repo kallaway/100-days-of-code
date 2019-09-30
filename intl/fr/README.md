@@ -6,9 +6,12 @@
 * [FAQ](FAQ-fr.md)
 * [Ressources](resources-fr.md)
 
+## Translations
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md)
+
 
 ## Vous avez décidé de vous inscrire:
-0. Faites un tour sur [le site officiel](http://100daysofcode.com/) des #100JoursDeCode. Rejoignez les autres participants sur la plateforme de votre choix figurant dans cette liste: www.100DaysOfCode.com/connect En outre, vous trouverez [ici](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) une invitation pour le canal slack 100JoursDeCode. 
+0. Faites un tour sur [le site officiel](http://100daysofcode.com/) des #100JoursDeCode. Rejoignez les autres participants sur la plateforme de votre choix figurant dans cette liste: www.100DaysOfCode.com/connect En outre, vous trouverez [ici](https://join.slack.com/t/100xcode/shared_invite/enQtNzQwMzIwMzQxODc5LWQwMjU5Mjg0N2ZiMzIzYzJiZmE0YjNiYTBiZDBjNjlkNjBmMTYxNDBmNmE2YmE2YzY4NTgzY2Y5NDQxNWY5ZDM) une invitation pour le canal slack 100JoursDeCode. 
 1. Lisez [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4). 
 2. Forkez ce repo and faites vos commits chaque jour dans le [log](log.md) ou dans le log rapide [R1 Log](r1-log.md) (R1 veut dire Round 1). [Exemple](https://github.com/Kallaway/100-days-kallaway-log). 
 3. **Codez au minimum 1 heure par jour pendant 100 jours.** 
