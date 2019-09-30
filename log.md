@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+### Day 1: September 28, 2019
+
+**Today's Progress** I finished basic HTML on FreeCodeCamp
+
+**Thoughts** Im pretty slow, I'm trying to develop a good habit of touch typing, to increase my speed and consistency.
+
+**Link(s) to work** I have not yet published work..... I will soon!
+
+
+### Day 2: September 29, 2019
+
+**Today's Progress** I Started CSS on freecodecamp.
+
+**Thoughts** Second day! Now it is more than just a one of hour! My streak begins. CSS is pretty cool, I am starting to get a feel for what its like to write code, CSS is more rewarding/interesting for me than HTML.
+
+**Link(s) to work** Soon I will create and publish my own project.
+
+
+### Day 3: September 30, 2019
+
+**Today's Progress** 
+
+**Thoughts**
+
+**Link(s) to work** 
+
+
+
+
+
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
