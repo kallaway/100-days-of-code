@@ -6,16 +6,16 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### Day 1: 20191001, Tue
 
-**Today's Progress**: Forked the [100DaysOfCode project] (https://www.100daysofcode.com/). Updates will be made to this log from sourcetree. 
+**Today's Progress**: Forked the [100DaysOfCode project](https://www.100daysofcode.com/). Updates will be made to this log from sourcetree. 
 Goal is to get some working python code that can make REST API calls to complete simple tasks on BIG-IP, BIG-IQ, and in multiple environments like AWS, GCP, Azure, etc. 
 
 Method is to use an existing linuxacademy account for some training vids
 
-[Introduction to Python Development] (https://linuxacademy.com/cp/modules/view/id/311)
-[Programming Use Cases with Python] (https://linuxacademy.com/cp/modules/view/id/383)
-[Python 3 Scripting for System Administrators] (https://linuxacademy.com/cp/modules/view/id/168)
+[Introduction to Python Development](https://linuxacademy.com/cp/modules/view/id/311)
+[Programming Use Cases with Python](https://linuxacademy.com/cp/modules/view/id/383)
+[Python 3 Scripting for System Administrators](https://linuxacademy.com/cp/modules/view/id/168)
 
-, [talkpython repo ] (https://github.com/talkpython/100daysofcode-with-python-course) to get ideas on topics to cover, and also spend time working on my REST API code. 
+, [talkpython repo ](https://github.com/talkpython/100daysofcode-with-python-course) to get ideas on topics to cover, and also spend time working on my REST API code. 
 
 Built lab using altinstall
 
