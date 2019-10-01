@@ -12,7 +12,9 @@ Goal is to get some working python code that can make REST API calls to complete
 Method is to use an existing linuxacademy account for some training vids
 
 [Introduction to Python Development](https://linuxacademy.com/cp/modules/view/id/311)
+
 [Programming Use Cases with Python](https://linuxacademy.com/cp/modules/view/id/383)
+
 [Python 3 Scripting for System Administrators](https://linuxacademy.com/cp/modules/view/id/168)
 
 , [talkpython repo ](https://github.com/talkpython/100daysofcode-with-python-course) to get ideas on topics to cover, and also spend time working on my REST API code. 
