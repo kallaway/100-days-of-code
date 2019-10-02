@@ -33,3 +33,10 @@ pip 19.2.3 from /usr/local/lib/python3.7/site-packages/pip (python 3.7)
 **Link to work:**  
 
 ### Day 2: 20191002, Wed
+
+**Today's Progress**: 
+
+* Python 3 Scripting for System Administrators - Interacting with files
+* exercies 1-3, key points to remember are setting variables up front, then iterate over the list/dict, modifying the var as you go, printing its value at the end. Use += to concatenate. Going forward, think about how you can use other functions to populate those dicts/lists. 
+
+**Thoughts:**:  Wrote my own code before looking at the solution. I need to remember to keep it simple at first. For instance, I tried to do list.append(dict) but should have just defined the list of dicts without making the dicts variables. 
