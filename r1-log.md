@@ -40,3 +40,15 @@ pip 19.2.3 from /usr/local/lib/python3.7/site-packages/pip (python 3.7)
 * exercies 1-3, key points to remember are setting variables up front, then iterate over the list/dict, modifying the var as you go, printing its value at the end. Use += to concatenate. Going forward, think about how you can use other functions to populate those dicts/lists. 
 
 **Thoughts:**:  Wrote my own code before looking at the solution. I need to remember to keep it simple at first. For instance, I tried to do list.append(dict) but should have just defined the list of dicts without making the dicts variables. 
+
+
+### Day 3: 20191003, Thu
+
+**Today's Progress**: 
+
+* Python 3 Scripting for System Administrators - pip, virtualenv, third party packages review
+* Learning Python (linkedin) - vscode python extension config, fetching internet data, working with JSON
+
+Finally get to work with real data, and also get a better understanding of main() funtion and what it means to a project with potentially multiple functions split over multiple files. 
+
+**Thoughts:**:  I wonder if there is a better way to grab deal with deeply nested dictionary or list items instead of typing them all out. Also, is the json function in requests library same as the json library? Need to spend more time figuring out third party libs.
