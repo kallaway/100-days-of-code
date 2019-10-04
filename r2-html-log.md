@@ -46,3 +46,6 @@ I fixed the issue with the documentation site at work, the problem was caused be
 
 **R2D17, May 23rd, 2019**
 It's been almost two weeks since the last time I updated this, I have not stopped tinkering around with HTML and CSS but have done nothing major worth updating here anyways. Truth is that I have been kind of down, but even if I don't post I won't stop making progress.
+
+**R2D1 and R2D2, October 3rd-4th, 2019**
+Restarted the Second Round of the 100 Days of Code Challenge since I had stopped at May 23rd of this year and haven't posted since then. Last time I managed to go 17 days into the second round, now I gotta finish it this time. I'll also try to keep advancing my Game Development course since creating games was what got me started into programming in the first place and it's always been a dream of mine. Meanwhile, I'll keep posting the updates to my WebDev Bootcamp on this file. I'm feeling really excited right now about getting back on track. Now I'm learning about basic JavaScript concepts. I had stopped the course but now I'm at unit 9.
