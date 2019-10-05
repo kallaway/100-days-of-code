@@ -49,3 +49,6 @@ It's been almost two weeks since the last time I updated this, I have not stoppe
 
 **R2D1 and R2D2, October 3rd-4th, 2019**
 Restarted the Second Round of the 100 Days of Code Challenge since I had stopped at May 23rd of this year and haven't posted since then. Last time I managed to go 17 days into the second round, now I gotta finish it this time. I'll also try to keep advancing my Game Development course since creating games was what got me started into programming in the first place and it's always been a dream of mine. Meanwhile, I'll keep posting the updates to my WebDev Bootcamp on this file. I'm feeling really excited right now about getting back on track. Now I'm learning about basic JavaScript concepts. I had stopped the course but now I'm at unit 9.
+
+**R2D3, October 5th, 2019**
+Had some fun with boolean operators in JavaScript and a fun little HTML page to display the results. Got totally sidetracked from today's lesson but I just wanted to see if I was able to do it.
