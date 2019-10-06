@@ -52,3 +52,6 @@ Restarted the Second Round of the 100 Days of Code Challenge since I had stopped
 
 **R2D3, October 5th, 2019**
 Had some fun with boolean operators in JavaScript and a fun little HTML page to display the results. Got totally sidetracked from today's lesson but I just wanted to see if I was able to do it.
+
+**R2D4, October 6th, 2019**
+Fooled around a bit more with JavaScript's boolean operators. Really getting hooked on practicing once again. I'm really enjoying this.
