@@ -1,3 +1,4 @@
+
 # 100 Days Of Code - Log
 
 ### Day 1: January 13, 2019
@@ -38,4 +39,14 @@
 
 https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 https://help.github.com/articles/cloning-a-repository/
+
+
+
+###started the journey again 
+Day 1: October 6 2019
+**Today's Progress**: Created some work for Lwiiyo
+ 
+**Link to work:** had to remind myself about a lot of things
+
+**Link to work:** [Lwiiyo](https://github.com/lwiiyo/LwiiyoCommunityLiteracyInitiative)
 

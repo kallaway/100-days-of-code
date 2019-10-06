@@ -1,4 +1,4 @@
-#100DaysOfCode Log - Round 1 - Alumakankaleanda Sh
+#100DaysOfCode Log - Round 1 - Alumanda Shakankale
 
 The log of my #100DaysOfCode challenge. Started on [January 13, Sunday, 2019].
 
@@ -31,3 +31,9 @@ learnt Java from Progate
 Basic CSS: Understand Absolute versus Relative Units
 started the course:Learn the command line in Terminal
 Resources:https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal
+
+
+##Started again October 6th 2019
+-Updated the lesson on Lwiiyo in html and Python
+Resources used
+https://github.com/lwiiyo/LwiiyoCommunityLiteracyInitiative
