@@ -55,3 +55,6 @@ Had some fun with boolean operators in JavaScript and a fun little HTML page to 
 
 **R2D4, October 6th, 2019**
 Fooled around a bit more with JavaScript's boolean operators. Really getting hooked on practicing once again. I'm really enjoying this.
+
+**R2D5-6, October 7th-8th, 2019**
+Finished Section 9 of the WebDev Bootcamp and got through most of Section 10. Wasting time is becoming harder, even though staying focused is even harder. At least I stop myself from procrastinating too much and am able to stay on track for longer periods of time.
