@@ -18,4 +18,4 @@
 
 **Link to code:** [Blinking Lights](cpp/BlinkingLights/main.cpp)
 
-**Link to Medium article:** [Creating a console animation with C++](https://medium.com/building-a-simple-text-correction-tool/creating-a-console-animation-with-c-18bf9e8ca582)
+**Link to Medium article:** [Creating a console animation with C++](https://medium.com/building-a-simple-text-correction-tool/creating-a-console-animation-with-c-18bf9e8ca582?source=friends_link&sk=661d7038741a3053e98bcc5576bf364b)
