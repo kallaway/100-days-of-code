@@ -9,3 +9,13 @@
 **Link to code:** [Two Thirds of Average](cpp/TwoThirds/main.cpp)
 
 **Link to Medium article:** [Building the game Two Thirds of Average with C++](https://medium.com/building-a-simple-text-correction-tool/building-the-game-two-thirds-of-average-with-c-1749d94111c9)
+
+### Day 2: October 9, 2019
+
+**Today's Progress**: Today, inspired by the console Star Wars animation at *towel.blinkenlights.nl*, I decided to build a C++ animation called BlinkingLights. It is a simple animation that involves characters on the screen blinking and changing colour.
+
+**Thoughts:** I found this very interesting and not as difficult as I expected.
+
+**Link to code:** [Blinking Lights](cpp/BlinkingLights/main.cpp)
+
+**Link to Medium article:** [Creating a console animation with C++](https://medium.com/building-a-simple-text-correction-tool/creating-a-console-animation-with-c-18bf9e8ca582?source=friends_link&sk=661d7038741a3053e98bcc5576bf364b)
