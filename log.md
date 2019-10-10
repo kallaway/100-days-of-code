@@ -19,3 +19,13 @@
 **Link to code:** [Blinking Lights](cpp/BlinkingLights/main.cpp)
 
 **Link to Medium article:** [Creating a console animation with C++](https://medium.com/building-a-simple-text-correction-tool/creating-a-console-animation-with-c-18bf9e8ca582?source=friends_link&sk=661d7038741a3053e98bcc5576bf364b)
+
+### Day 3: October 10, 2019
+
+**Today's Progress**: Today, I created an application to extract text from images using Tesseract's C++ OCR library and OpenCV.
+
+**Thoughts:** This project is something I've wanted to do for a long time. I'm glad I finally got to it. It was a bit easy and I did not really learn any new thing in C++, just how to use the Tesseract and OpenCV libraries. Also, having to write about it forced me to make sure I understood the code.
+
+**Link to code:** [Basic OCR](cpp/BasicOCR/main.cpp)
+
+**Link to Medium article:** [Basic OCR with Tesseract and OpenCV](https://medium.com/building-a-simple-text-correction-tool/creating-a-console-animation-with-c-18bf9e8ca582?source=friends_link&sk=661d7038741a3053e98bcc5576bf364b)
