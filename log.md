@@ -28,4 +28,4 @@
 
 **Link to code:** [Basic OCR](cpp/BasicOCR/main.cpp)
 
-**Link to Medium article:** [Basic OCR with Tesseract and OpenCV](https://medium.com/building-a-simple-text-correction-tool/creating-a-console-animation-with-c-18bf9e8ca582?source=friends_link&sk=661d7038741a3053e98bcc5576bf364b)
+**Link to Medium article:** [Basic OCR with Tesseract and OpenCV](https://medium.com/building-a-simple-text-correction-tool/basic-ocr-with-tesseract-and-opencv-34fae6ab3400?source=friends_link&sk=ee332a0577322e2d2a051aca50b5cae8)
