@@ -58,3 +58,6 @@ Fooled around a bit more with JavaScript's boolean operators. Really getting hoo
 
 **R2D5-6, October 7th-8th, 2019**
 Finished Section 9 of the WebDev Bootcamp and got through most of Section 10. Wasting time is becoming harder, even though staying focused is even harder. At least I stop myself from procrastinating too much and am able to stay on track for longer periods of time.
+
+**R2D7, October 9th, 2019**
+Well, actually realized I was not in Unit 9 of the course but Unit 12, and I already finished it and started Unit 13. Can't wait to get to the good stuff since right now we're just touching basic concepts. But I know I have to be patient.
