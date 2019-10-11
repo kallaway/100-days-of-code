@@ -29,3 +29,12 @@
 **Link to code:** [Basic OCR](cpp/BasicOCR/main.cpp)
 
 **Link to Medium article:** [Basic OCR with Tesseract and OpenCV](https://medium.com/building-a-simple-text-correction-tool/basic-ocr-with-tesseract-and-opencv-34fae6ab3400?source=friends_link&sk=ee332a0577322e2d2a051aca50b5cae8)
+
+### Day 4: October 11, 2019
+
+**Today's Progress**: Today, I installed ReactJS, added a library for text to speech and wrote some code to call the library.
+
+**Thoughts:** I got a bit frustrated due to technical issues with my system, but I will continue tomorrow.
+
+**Link to code:** [Image to speech](web/front-end/image-to-speech)
+
