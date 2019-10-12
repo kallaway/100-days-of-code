@@ -61,3 +61,6 @@ Finished Section 9 of the WebDev Bootcamp and got through most of Section 10. Wa
 
 **R2D7, October 9th, 2019**
 Well, actually realized I was not in Unit 9 of the course but Unit 12, and I already finished it and started Unit 13. Can't wait to get to the good stuff since right now we're just touching basic concepts. But I know I have to be patient.
+
+**R2D8-9, October 10th-11th, 2019**
+Advancing through Unit 13 of the Web Dev Bootcamp, learning about handling Arrays in JavaScript, made a simple TODO list. Almost halfway through until I get to OOP in JS
