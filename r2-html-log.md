@@ -64,3 +64,6 @@ Well, actually realized I was not in Unit 9 of the course but Unit 12, and I alr
 
 **R2D8-9, October 10th-11th, 2019**
 Advancing through Unit 13 of the Web Dev Bootcamp, learning about handling Arrays in JavaScript, made a simple TODO list. Almost halfway through until I get to OOP in JS
+
+**R2D10, October 14th, 2019**
+Kept learning about handling arrays in JavaScript. Practiced today how to use Array.forEach() and learned about using Array.splice() to remove elements from the array using an index, which I didn't know about. Thinking about improving my TODO page that's on my portfolio.
