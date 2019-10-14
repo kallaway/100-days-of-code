@@ -38,3 +38,12 @@
 
 **Link to code:** [Image to speech](web/front-end/image-to-speech)
 
+### Day 5: October 14, 2019
+
+**Today's Progress**: Today, I installed NodeJS, and created the back end for the image to speech project. I learnt how to create a basic web app with Express.js, how to call commands from Node.js, how to receive an uploaded file and save it to the file system.
+
+**Thoughts:** Today's task was quite interesting as I learnt many new things.
+
+**Link to code:** [Image to speech](web/front-end/image-to-speech)
+
+**Link to Medium article:** [Building a web app to read out the text in images, Part 1](https://medium.com/@ehioroboevans/building-a-web-app-to-read-out-the-text-in-images-c5029b32f6e2?sk=9ae5dd7209a6aab35be9cf68175aa59a)
