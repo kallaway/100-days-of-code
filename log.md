@@ -56,4 +56,4 @@
 
 **Link to code:** [Image to speech](js/ImageToSpeech/client)
 
-**Link to Medium article:** [Building a web app to read out the text in images, Part 2](https://medium.com/@ehioroboevans/building-a-web-app-to-read-out-the-text-in-images-c5029b32f6e2?sk=9ae5dd7209a6aab35be9cf68175aa59a)
+**Link to Medium article:** [Building a web app to read out the text in images, Part 2](https://medium.com/building-a-simple-text-correction-tool/building-a-web-app-to-read-out-the-text-in-images-part-2-102560df70a4?source=friends_link&sk=d6e58d1ff9f72fb92c259cb8e6ae6d99)
