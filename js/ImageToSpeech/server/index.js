@@ -1,7 +1,9 @@
-var exec = require('child_process').exec;
 const cors = require('cors');
+const exec = require('child_process').execSync;
 const express = require('express');
+const fs = require('fs');
 const multer = require("multer");
+const path = require('path');
 
 const handleError = (err, res) => {
   res
@@ -11,53 +13,47 @@ const handleError = (err, res) => {
 };
 
 const upload = multer({
-  dest: "/path/to/temporary/directory/to/store/uploaded/files"
+  dest: "tmp"
   // you might also want to set some limits: https://github.com/expressjs/multer#limits
 });
 
+function saveImage(req, res) {
+  const tempPath = req.file.path;
+  const extension = req.file.extension;
+  const randomNumber = Math.random();
+  const targetPath = path.join(__dirname, "./uploads/image" + randomNumber + path.extname(
+    req.file.originalname).toLowerCase());
+  
+  try {
+    fs.renameSync(tempPath, targetPath);
+    const proc = exec("./basic_ocr uploads/image" + randomNumber + path.extname(
+      req.file.originalname).toLowerCase());
 
-app.post(
-  "/upload",
-  upload.single("image" /* name attribute of <file> element in your form */),
-  (req, res) => {
-    const tempPath = req.file.path;
-    const targetPath = path.join(__dirname, "./uploads/image.png");
+    fs.unlinkSync(targetPath);
+    
+    console.log(proc.toString());
 
-    if (path.extname(req.file.originalname).toLowerCase() === ".png") {
-      fs.rename(tempPath, targetPath, err => {
-        if (err) return handleError(err, res);
-
-        res
-          .status(200)
-          .contentType("text/plain")
-          .end("File uploaded!");
-      });
-    } else {
-      fs.unlink(tempPath, err => {
-        if (err) return handleError(err, res);
-
-        res
-          .status(403)
-          .contentType("text/plain")
-          .end("Only .png files are allowed!");
-      });
-    }
+    return res.send(proc.toString());
+  } catch (error) {
+    return handleError(err, res);
   }
-);
-
-function log(error, stdout, stderr) {
-    console.log(stdout);
 }
-
-exec("echo hiii", log);
 
 const app = express();
 
 app.use(cors());
+
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+  res
+    .send("Hello World!");
 });
 
-app.listen(3000, () =>
-    console.log(`Example app listening on port ${3000}!`),
+app.post(
+  "/upload",
+  upload.single("image" /* name attribute of <file> element in your form */),
+  saveImage
+);
+
+app.listen(5000, () =>
+    console.log(`Listening on port 5000.`),
 );

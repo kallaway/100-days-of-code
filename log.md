@@ -36,7 +36,7 @@
 
 **Thoughts:** I got a bit frustrated due to technical issues with my system, but I will continue tomorrow.
 
-**Link to code:** [Image to speech](web/front-end/image-to-speech)
+**Link to code:** [Image to speech](js/ImageToSpeech/server)
 
 ### Day 5: October 14, 2019
 
@@ -44,6 +44,16 @@
 
 **Thoughts:** Today's task was quite interesting as I learnt many new things.
 
-**Link to code:** [Image to speech](web/front-end/image-to-speech)
+**Link to code:** [Image to speech](js/ImageToSpeech/client)
 
 **Link to Medium article:** [Building a web app to read out the text in images, Part 1](https://medium.com/@ehioroboevans/building-a-web-app-to-read-out-the-text-in-images-c5029b32f6e2?sk=9ae5dd7209a6aab35be9cf68175aa59a)
+
+### Day 6: October 15, 2019
+
+**Today's Progress**: Today, I installed React.js and wrote the front end for the image to speech project. I learnt how to make requests in React using axios, how to call the SpeechSynthesis API to read out text and how to write a React application in general.
+
+**Thoughts:** Today's task was very interesting. I learnt many new things.
+
+**Link to code:** [Image to speech](js/ImageToSpeech/client)
+
+**Link to Medium article:** [Building a web app to read out the text in images, Part 2](https://medium.com/@ehioroboevans/building-a-web-app-to-read-out-the-text-in-images-c5029b32f6e2?sk=9ae5dd7209a6aab35be9cf68175aa59a)
