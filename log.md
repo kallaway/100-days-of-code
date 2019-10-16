@@ -57,3 +57,13 @@
 **Link to code:** [Image to speech](js/ImageToSpeech/client)
 
 **Link to Medium article:** [Building a web app to read out the text in images, Part 2](https://medium.com/building-a-simple-text-correction-tool/building-a-web-app-to-read-out-the-text-in-images-part-2-102560df70a4?source=friends_link&sk=d6e58d1ff9f72fb92c259cb8e6ae6d99)
+
+### Day 7: October 16, 2019
+
+**Today's Progress**: Today, I learnt how to add simple auto-completion to a C++ application.
+
+**Thoughts:** Although I learnt some new things like how to manipulate strings (which was my goal), I still wish to improve this auto-completion tool as it's not perfect yet.
+
+**Link to code:** [Console Complete](cpp/ConsoleComplete/main.cpp)
+
+**Link to Medium article:** [How to add auto-completion to your C++ console application](https://medium.com/building-a-simple-text-correction-tool/how-to-add-auto-completion-to-your-c-console-application-8d02f49547c1?source=friends_link&sk=47b04937a67a1d3fde8a0ea597e48b98)
