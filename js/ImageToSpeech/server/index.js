@@ -44,8 +44,19 @@ const app = express();
 app.use(cors());
 
 app.get('/', (req, res) => {
-  res
-    .send("Hello World!");
+  res.sendFile(path.join(__dirname + '/index.html'));
+});
+
+app.get('/static/js/2.ff727787.chunk.js', (req, res) => {
+  res.sendFile(path.join(__dirname + '/static/js/2.ff727787.chunk.js'));
+});
+
+app.get('/static/js/main.b339802c.chunk.js', (req, res) => {
+  res.sendFile(path.join(__dirname + '/static/js/main.b339802c.chunk.js'));
+});
+
+app.get('/static/css/main.c19c5f7a.chunk.css', (req, res) => {
+  res.sendFile(path.join(__dirname + '/static/css/main.c19c5f7a.chunk.css'));
 });
 
 app.post(
