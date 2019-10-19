@@ -67,3 +67,19 @@
 **Link to code:** [Console Complete](cpp/ConsoleComplete/main.cpp)
 
 **Link to Medium article:** [How to add auto-completion to your C++ console application](https://medium.com/building-a-simple-text-correction-tool/how-to-add-auto-completion-to-your-c-console-application-8d02f49547c1?source=friends_link&sk=47b04937a67a1d3fde8a0ea597e48b98)
+
+### Day 8: October 18, 2019
+
+**Today's Progress**: Today, I started a project to search images for text with C++. I added a header file to the basicOCR project so I could reuse it. 
+
+**Thoughts:** Had some trouble with lack of string methods which I am used to in other languages. May have to implement them myself. Also had trouble figuring out how to list files in a directory with C++.
+
+**Link to code:** [Image Search](cpp/ImageSearch/)
+
+### Day 9: October 19, 2019
+
+**Today's Progress**: Today, I completed the project on searching images for text with C++. Also hosted the project for today at https://bit.ly/2J4KFvu
+
+**Thoughts:** Today, I fixed the issues I had yesterday, like the trouble with strings (created the functions I needed) and the trouble with the file system. Though I was delayed by external factors, I'm glad I was able to complete today's coding task. Can't say the same for the writing though :(.
+
+**Link to code:** [Image Search](cpp/ImageSearch/)
