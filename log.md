@@ -76,6 +76,8 @@
 
 **Link to code:** [Image Search](cpp/ImageSearch/)
 
+**Link to Medium article:** [Creating a C++ application to search images for text](https://medium.com/building-a-simple-text-correction-tool/creating-a-c-application-to-search-images-for-text-26da36015bfc?source=friends_link&sk=f0b9d4ee9cf1c468efee18234af7b71d)
+
 ### Day 9: October 19, 2019
 
 **Today's Progress**: Today, I completed the project on searching images for text with C++. Also hosted the project for today at https://bit.ly/2J4KFvu
@@ -83,3 +85,5 @@
 **Thoughts:** Today, I fixed the issues I had yesterday, like the trouble with strings (created the functions I needed) and the trouble with the file system. Though I was delayed by external factors, I'm glad I was able to complete today's coding task. Can't say the same for the writing though :(.
 
 **Link to code:** [Image Search](cpp/ImageSearch/)
+
+**Link to Medium article:** [Creating a C++ application to search images for text](https://medium.com/building-a-simple-text-correction-tool/creating-a-c-application-to-search-images-for-text-26da36015bfc?source=friends_link&sk=f0b9d4ee9cf1c468efee18234af7b71d)
