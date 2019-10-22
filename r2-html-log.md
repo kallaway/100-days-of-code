@@ -72,4 +72,4 @@ Kept learning about handling arrays in JavaScript. Practiced today how to use Ar
 Done with Unit 13 and now started Unit 14, an introduction to Object in JavaScript, really excited by this and then it's on to DOM manipulation.
 
 **R2D12, October 22nd, 2019**
-Got through Unit 14 of the Web Developer Bootcamp on Udemy. Object manipulation in JavaScript is a little bit different than what I'm familiar with. Now on to Unit 15 where I'll learn about DOM manipulation.
+Got through Unit 14 of the Web Developer Bootcamp on Udemy. Object manipulation in JavaScript is a little bit different than what I'm familiar with. Now on to Unit 15 where I'll learn about DOM manipulation. And also started working on a project that I've always wanted to make.
