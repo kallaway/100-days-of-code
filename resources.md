@@ -28,11 +28,15 @@
 2. ["The Obstacle is the Way" by Ryan Holiday](http://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way?ac=1&from_search=true)
 3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
 4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
+5. ["Design for Screen" by Wang Shaoqiang](http://www.promopresseditions.com/detalles.php?sec=FMDIS&titulo=Design&ref=A1120198000)
+6. ["WWabi-Sabi: For Artists, Designers, Poets & Philosophers" by Leonard Koren](https://www.goodreads.com/book/show/42190.Wabi_Sabi)
 
 ### Coding
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
+4. ["The Pragmatic Programmer" by Andrew Hunt and David Thomas](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
+5. ["Cracking the Coding Interview" by Gayle Laakmann McDowell](http://www.crackingthecodinginterview.com/) 
 
 ## Contents
 * [Rules](rules.md)
