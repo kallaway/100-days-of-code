@@ -1,7 +1,7 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will code for at least an hour every day for the next 100 days. I will also find the solution to at least one algorithm problem a day using JavaScript.*
 
 #### Start Date
 October 23rd, 2019.
