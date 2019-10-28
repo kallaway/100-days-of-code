@@ -108,4 +108,10 @@
 
 **Link to Medium article:** [How to add text formatting to your web page with React](https://medium.com/building-a-simple-text-correction-tool/how-to-add-text-formatting-to-your-web-page-with-react-36db19d24b)
 
+### Day 12: October 27, 2019
 
+**Today's Progress**: Today, I began building a web application with Express.js to allow users run console commands in their browser. Something like SSH-ing to a remote server but in your browser.
+
+**Thoughts:** Today's was an interesting project as it is something I have wanted to do for a while.
+
+**Link to code:** [Web Console](js/WebConsole/server)
