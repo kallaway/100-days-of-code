@@ -37,7 +37,7 @@ int main(int argc, char **argv)
 	DIR *dir;
 	struct dirent *ent;
 	char *imFolder = argv[1];
-	string fileName, query, results;
+	string fileName, query, results = "";
 	
 	cout << "Enter the text to search for: ";
 

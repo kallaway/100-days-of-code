@@ -80,10 +80,32 @@
 
 ### Day 9: October 19, 2019
 
-**Today's Progress**: Today, I completed the project on searching images for text with C++. Also hosted the project for today at https://bit.ly/2J4KFvu
+**Today's Progress**: Today, I completed the project on searching images for text with C++. Also hosted the project for Day 6 at https://bit.ly/2J4KFvu
 
 **Thoughts:** Today, I fixed the issues I had yesterday, like the trouble with strings (created the functions I needed) and the trouble with the file system. Though I was delayed by external factors, I'm glad I was able to complete today's coding task. Can't say the same for the writing though :(.
 
 **Link to code:** [Image Search](cpp/ImageSearch/)
 
 **Link to Medium article:** [Creating a C++ application to search images for text](https://medium.com/building-a-simple-text-correction-tool/creating-a-c-application-to-search-images-for-text-26da36015bfc?source=friends_link&sk=f0b9d4ee9cf1c468efee18234af7b71d)
+
+### Day 10: October 22, 2019
+
+**Today's Progress**: Today, I started an application with React to add text formatting to a web page.
+
+**Thoughts:** Today was a bit difficult. This is my second project with React and I am trying to resist the temptation to do things the normal JavaScript way rather than learning how to do them in React. Had issues with the formatting.
+
+**Link to code:** [Basic Text Formatting](js/BasicFormatting/)
+
+**Link to Medium article:** [How to add text formatting to your web page with React](https://medium.com/building-a-simple-text-correction-tool/how-to-add-text-formatting-to-your-web-page-with-react-36db19d24b)
+
+### Day 11: October 23, 2019
+
+**Today's Progress**: Today, I completed the text formatting project with React. It supports bold, italics and underlining.
+
+**Thoughts:** I learnt a lot today about React. I learnt about how to properly reference elements and how to update their properties the right way, how to manipulate the DOM, how to update the state of a component and many other things. I am happy I did not have to resort to mixing JavaScript methods with React's.
+
+**Link to code:** [Basic Text Formatting](js/BasicFormatting/)
+
+**Link to Medium article:** [How to add text formatting to your web page with React](https://medium.com/building-a-simple-text-correction-tool/how-to-add-text-formatting-to-your-web-page-with-react-36db19d24b)
+
+
