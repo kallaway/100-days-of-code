@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Web Console</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            text-align: center;
+        }
+        .input {
+            width: 98vw;
+            margin-top: 20px;
+            background-color: black;
+            color: white;
+            font-family: monospace;
+            font-size: 12pt;
+        }
+    </style>
+</head>
+
+<body>
+    <textarea rows="20" class="input" onkeyup="onInputChange(this)"></textarea>
+    <script>
+        function execute(command) {
+            alert(command);
+        }
+        
+        function onInputChange(inputElem) {
+            if (inputElem.value[inputElem.value.length - 1] === "\n") {
+                const commands = inputElem.value.split("\n");
+                execute(commands[commands.length - 2]);
+            }
+        }
+    </script>
+</body>
+
+</html>
