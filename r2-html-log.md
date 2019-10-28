@@ -73,3 +73,6 @@ Done with Unit 13 and now started Unit 14, an introduction to Object in JavaScri
 
 **R2D12, October 22nd, 2019**
 Got through Unit 14 of the Web Developer Bootcamp on Udemy. Object manipulation in JavaScript is a little bit different than what I'm familiar with. Now on to Unit 15 where I'll learn about DOM manipulation. And also started working on a project that I've always wanted to make.
+
+**R2D13, R2D14, R2D15, October 28th, 2019**
+Not completely sure if it's been three or four days, but I'm gonna assume it's been only three. I finished Section 15 of the Web Dev course and finished with the basics of DOM manipulation. Now it's on to Section 16 to learn about advanced DOM manipulation, which is where I stopped the course last time on 2018
