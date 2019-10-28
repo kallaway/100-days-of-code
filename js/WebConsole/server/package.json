@@ -1,0 +1,11 @@
+{
+  "name": "web-console",
+  "version": "1.0.0",
+  "description": "Accessing the console of a remote system using a web browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evans Ehiorobo",
+  "license": "MIT"
+}
