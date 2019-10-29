@@ -115,3 +115,23 @@
 **Thoughts:** Today's was an interesting project as it is something I have wanted to do for a while.
 
 **Link to code:** [Web Console](js/WebConsole/server)
+
+### Day 13: October 28, 2019
+
+**Today's Progress**: Today, I began building a neural network with Keras.
+
+**Thoughts:** Today's was an interesting project as it is something I have wanted to do for a while.
+
+**Link to code:** [Web Console](py/NeuralNet/main.py)
+
+**Link to Medium article:** [A gentle introduction to Artificial Neural Networks](https://medium.com/building-a-simple-text-correction-tool/a-gentle-introduction-to-artificial-neural-networks-7fb976b0d04?sk=ad68a351fd23781696d4b85fe9ad6958)
+
+### Day 14: October 29, 2019
+
+**Today's Progress**: Today, I completed the neural network. I made one able to recognise handwritten digits from the MNIST database.
+
+**Thoughts:** The neural network seems to work well with the curated data from MNIST, however, testing its accuracy on real world data is a bit difficult (due to having to prepare the data in the right format). The project was nevertheless fun to work on.
+
+**Link to code:** [Web Console](py/NeuralNet/main.py)
+
+**Link to Medium article:** [A gentle introduction to Artificial Neural Networks](https://medium.com/building-a-simple-text-correction-tool/a-gentle-introduction-to-artificial-neural-networks-7fb976b0d04?sk=ad68a351fd23781696d4b85fe9ad6958)
