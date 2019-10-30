@@ -76,3 +76,6 @@ Got through Unit 14 of the Web Developer Bootcamp on Udemy. Object manipulation 
 
 **R2D13, R2D14, R2D15, October 28th, 2019**
 Not completely sure if it's been three or four days, but I'm gonna assume it's been only three. I finished Section 15 of the Web Dev course and finished with the basics of DOM manipulation. Now it's on to Section 16 to learn about advanced DOM manipulation, which is where I stopped the course last time on 2018
+
+**R2D16, R2D17, October 29th and October 30th, 2019**
+Finished with Section 16 of the Web Development Bootcamp on Udemy about advanced DOM manipulation. Did some fun projects and learned about separation of concerns between the styles, the structure and the programming logic behind it all. I'm pretty excited to be starting Section 17.
