@@ -10,6 +10,7 @@
         body {
             text-align: center;
         }
+
         .input {
             width: 98vw;
             margin-top: 20px;
@@ -24,16 +25,27 @@
 <body>
     <textarea rows="20" class="input" onkeyup="onInputChange(this)"></textarea>
     <script>
-        function execute(command) {
-            alert(command);
+        function execute(command, elem) {
+            let xhr = new XMLHttpRequest();
+
+            xhr.onreadystatechange = () => {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    elem.value += xhr.responseText;
+                }
+            }
+
+            xhr.open("GET", "http://localhost:5000/exec/?cmd=" + command);
+            xhr.send();
         }
-        
+
         function onInputChange(inputElem) {
             if (inputElem.value[inputElem.value.length - 1] === "\n") {
                 const commands = inputElem.value.split("\n");
-                execute(commands[commands.length - 2]);
+                execute(commands[commands.length - 2], inputElem);
             }
         }
+
+        getWorkingDir();
     </script>
 </body>
 
