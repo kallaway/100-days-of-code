@@ -3,7 +3,7 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](log.md), or For Summaries [RLog](r1-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
