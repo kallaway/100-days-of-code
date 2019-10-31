@@ -23,14 +23,20 @@
 </head>
 
 <body>
-    <textarea rows="20" class="input" onkeyup="onInputChange(this)"></textarea>
+    <textarea rows="20" class="input" onkeyup="onInputChange(this)" autofocus>> </textarea>
     <script>
-        function execute(command, elem) {
+        function prependArrow(inputElem) {
+            inputElem.value += "> ";
+        }
+
+        function execute(command, inputElem) {
             let xhr = new XMLHttpRequest();
 
             xhr.onreadystatechange = () => {
                 if (xhr.readyState == 4 && xhr.status == 200) {
-                    elem.value += xhr.responseText;
+                    inputElem.value += xhr.responseText + "\n";
+                    prependArrow(inputElem);
+                    inputElem.scrollTop = inputElem.scrollHeight;
                 }
             }
 
@@ -41,11 +47,9 @@
         function onInputChange(inputElem) {
             if (inputElem.value[inputElem.value.length - 1] === "\n") {
                 const commands = inputElem.value.split("\n");
-                execute(commands[commands.length - 2], inputElem);
+                execute(commands[commands.length - 2].replace("> ", ""), inputElem);
             }
         }
-
-        getWorkingDir();
     </script>
 </body>
 

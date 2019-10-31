@@ -143,3 +143,11 @@
 **Thoughts:** Today refreshed my memory on some things I'd forgotten.
 
 **Link to code:** [Web Console](js/WebConsole/server)
+
+### Day 16: October 31, 2019
+
+**Today's Progress**: Today, I completed the project (at least the first release) that allow users run console commands in their browser.
+
+**Thoughts:** I'm really proud of my progress with this project.
+
+**Link to code:** [Web Console](js/WebConsole/server)
