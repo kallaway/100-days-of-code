@@ -146,8 +146,8 @@
 
 ### Day 16: October 31, 2019
 
-**Today's Progress**: Today, I completed the project (at least the first release) that allow users run console commands in their browser.
+**Today's Progress**: Today, I completed the project (at least the first release) that allow users run console commands in their browser. Also, I reviewed Ifeoluwa Onigbinde's first article (submitted to How-Tos).
 
-**Thoughts:** I'm really proud of my progress with this project.
+**Thoughts:** I'm really proud of my progress with this project. I also hosted the project online (on a private server) to test out its performance and it was successful.
 
 **Link to code:** [Web Console](js/WebConsole/server)
