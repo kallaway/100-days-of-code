@@ -14,5 +14,8 @@
 
 ## Log ToC:
 
+[day 1](./logs/D1.md)  
+> A bit of basic PHP
+
 [day 0](./logs/D0.md), [pull](https://github.com/panik-stricken/100-days-of-code/pull/1)
 > basic setup: initial planning: 
