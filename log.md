@@ -14,6 +14,9 @@
 
 ## Log ToC:
 
+[day 2](./logs/D2.md)  
+> Vue is fun.
+
 [day 1](./logs/D1.md)  
 > A bit of basic PHP
 
