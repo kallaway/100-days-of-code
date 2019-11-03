@@ -79,3 +79,6 @@ Not completely sure if it's been three or four days, but I'm gonna assume it's b
 
 **R2D16, R2D17, October 29th and October 30th, 2019**
 Finished with Section 16 of the Web Development Bootcamp on Udemy about advanced DOM manipulation. Did some fun projects and learned about separation of concerns between the styles, the structure and the programming logic behind it all. I'm pretty excited to be starting Section 17. In the mean time, I used what I learned from these lessons and updated my TODO List, now you can Add a new entry to the TODO list, and it is added with a cool little animation, but you can also remove the entries by right clicking on them, they fade away graciously with another neat little animation. Check it out: https://mr2much.github.io/webdev/todolist/html/index
+
+**R2D18, R2D19, R2D20, October 31st, November 1st, November 2nd, 2019**
+I have been learning about class creation in JavaScript, it's kind of confusing since I'm used to how it is done in C++, Java and C#, but JavaScript is a Prototypal language so there's no such thing as "Classes" in the classical sense. Also I'm almost finished with unit 17 of the course, gonna finish it tomorrow since I'm tired for today
