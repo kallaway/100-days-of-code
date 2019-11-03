@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 30th, 201
 
 ## Log Summaries
 
+> [R1D3](./logs/D3.md) 
+Saw a possible solution. Tracked it far enough to over extend my thalamus. Discovered a lot about routing, more to practice of course, but have touched it for future reference. 
+
 > [R1D2](./logs/D2.md)  
 Domestication begins for awhile... Hopefully I can hold on to what I have learned until I get time to dive back in.
 

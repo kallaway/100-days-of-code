@@ -14,6 +14,9 @@
 
 ## Log ToC:
 
+[day 3](./logs/D3.md)  
+> I like where this is going, just wish it would get there a bit faster. 
+
 [day 2](./logs/D2.md)  
 > Vue is fun.
 
