@@ -14,6 +14,9 @@
 
 ## Log ToC:
 
+[day 4](./logs/D4.md)  
+> ... Four year hurdle raised it's head again...
+
 [day 3](./logs/D3.md)  
 > I like where this is going, just wish it would get there a bit faster. 
 
