@@ -82,3 +82,6 @@ Finished with Section 16 of the Web Development Bootcamp on Udemy about advanced
 
 **R2D18, R2D19, R2D20, October 31st, November 1st, November 2nd, 2019**
 I have been learning about class creation in JavaScript, it's kind of confusing since I'm used to how it is done in C++, Java and C#, but JavaScript is a Prototypal language so there's no such thing as "Classes" in the classical sense. Also I'm almost finished with unit 17 of the course, gonna finish it tomorrow since I'm tired for today
+
+**R2D21, November 5, 2019**
+Finished the color guessing game project. I'm feeling really excited about the course and I'm really looking forward to keep digging into how JavaScript handles OOP. Now I'm starting unit 18, which is an intro to jQuery. Here's the link to the game: https://mr2much.github.io/webdev/colorgame/
