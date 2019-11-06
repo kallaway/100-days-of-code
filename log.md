@@ -151,3 +151,9 @@
 **Thoughts:** I'm really proud of my progress with this project. I also hosted the project online (on a private server) to test out its performance and it was successful.
 
 **Link to code:** [Web Console](js/WebConsole/server)
+
+### Days 17-19: November 1, November 3, November 4, 2019
+
+**Today's Progress**: On these days, I completed coding challenges on Hackerrank and LeetCode.
+
+**Thoughts:** I know these probably do not count for my 100DaysOfCode, but I had to do them in preparation for interviews.
