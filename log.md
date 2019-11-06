@@ -157,3 +157,13 @@
 **Today's Progress**: On these days, I completed coding challenges on Hackerrank and LeetCode.
 
 **Thoughts:** I know these probably do not count for my 100DaysOfCode, but I had to do them in preparation for interviews.
+
+### Day 20: November 6, 2019
+
+**Today's Progress**: Today, I reinvented the Counting Sort algorithm and implemented it in Python.
+
+**Thoughts:** I've been introduced to a variant of this algorithm. It was fun today to think about the differences between my version and the variant and compare their performances.
+
+**Link to code:** [Neural Net](py/CountingSort/main.py)
+
+**Link to Medium article:** [Counting sort](https://medium.com/@ehioroboevans/counting-sort-ef8b3cd7ffb0)
