@@ -623,3 +623,11 @@
 **Thoughts**: Getting looping knowledge right.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 80: NOVEMBER 11 2019 (REACT)
+
+**Today's Progress**: Took a long break but now up and running. FCC challenge for front end library first task officially added on github . And the title being RANDOM QUOTE POSTER made using React and CSS .
+
+**Thoughts**: React is a library with great components and strength .
+
+**Link(s) to work**:https://github.com/sakigo9/100daysOfCode/tree/master/QUOTE/my-app
