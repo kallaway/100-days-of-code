@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: November 10, 2019
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Built first solution to Kaggle titanic competition using Logistic Regression. Score = 48%
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** Did basic data prep, made dummies, one hot encoded. Then deployed a basic model with no optimisation or customisation.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 2: November 11, 2019
+
+
+**Today's Progress**: Added more to the data prep pipeline with imputation of missing data for "Fare" column. Added RandomForestClassifier and submitted solution. Score _74%_
+
+**Thoughts**: Trying to work on visualisations and understanding by using Seaborn to see insights before running model.
+
+**Link(s) to work**: [Titanic Repo](https://github.com/comaraDOTcom/kaggle-titanic)
+
+**Reading Material**: 
+1.  [Titanic stacking & ensemble kernel](https://www.kaggle.com/nicapotato/titanic-voting-pipeline-stack-and-guide)
+2.  [Making a website on Github pages using Jekyll](https://pages.github.com/)
+
