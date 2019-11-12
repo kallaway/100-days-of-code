@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Code Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            text-align: center;
+        }
+
+        .margin {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .input {
+            width: 98vw;
+            font-family: monospace;
+            font-size: 12pt;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="margin">
+        Find the maximum number in an array of integers.
+        <br/>
+        For example, in the array [1, -3, 5], the maximum number is 5.
+    </div>
+    <textarea rows="20" class="margin input" id="code" autofocus>def solution(arr):</textarea>
+    <button onclick="runTests(this)">RUN TESTS</button>
+    <br/><br/>
+    <span id="results"></span>
+    <script>
+        function runTests(btn) {
+            btn.style.display = "none";
+            document.getElementById("results").innerHTML = "Running...";
+
+            const code = document.getElementById("code").value;
+            let xhr = new XMLHttpRequest();
+
+            xhr.onreadystatechange = () => {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    document.getElementById("results").innerHTML = xhr.responseText;
+                    btn.style.display = "initial";
+                }
+            }
+
+            xhr.open("POST", "http://localhost:5000/test/");
+            xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xhr.send("code=" + code);
+        }
+    </script>
+</body>
+
+</html>

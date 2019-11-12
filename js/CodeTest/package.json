@@ -1,0 +1,21 @@
+{
+  "name": "codetest",
+  "version": "1.0.0",
+  "description": "Web app for running code snippets against predefined test cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "interview"
+  ],
+  "author": "Evans Ehiorobo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "merge-descriptors": "^1.0.1"
+  }
+}
