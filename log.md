@@ -175,3 +175,11 @@
 **Thoughts:** Today's project was inspired by Hackerrank, Codility and the like. It's an interesting project. I am not happy that I spent 6 days off this challenge, I will try to improve my consistency.
 
 **Link to code:** [Coding Test](js/CodeTest)
+
+### Day 22: November 13, 2019
+
+**Today's Progress**: Today, I continued working on the web application to conduct coding tests. I worked on the front end design today, made it look more presentable. I used plain CSS and JavaScript.
+
+**Thoughts:** Faced some CSS issues, but resolved them.
+
+**Link to code:** [Coding Test](js/CodeTest)

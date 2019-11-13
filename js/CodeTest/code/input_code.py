@@ -1,7 +1,4 @@
 def solution(arr):
-  mx = arr[0]
+  maximum = arr[0]
 
-  for i in arr:
-    mx = max(i, mx)
-
-  return mx
+  return maximum
