@@ -183,3 +183,11 @@
 **Thoughts:** Faced some CSS issues, but resolved them.
 
 **Link to code:** [Coding Test](js/CodeTest)
+
+### Day 23: November 14, 2019
+
+**Today's Progress**: Today, I finished working on the web application to conduct coding tests.
+
+**Thoughts:** Eh.
+
+**Link to code:** [Coding Test](js/CodeTest)

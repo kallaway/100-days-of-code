@@ -1,4 +1,8 @@
 def solution(arr):
-  maximum = arr[0]
+  maximum = 0
+  
+  for elem in arr:
+    if elem > maximum:
+      maximum = elem
 
   return maximum
