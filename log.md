@@ -176,6 +176,8 @@
 
 **Link to code:** [Coding Test](js/CodeTest)
 
+**Link to Medium article:** [How to create a web app for coding tests](https://medium.com/@ehioroboevans/how-to-create-a-web-app-for-coding-tests-750ef97bf1e3?sk=8f25961531bafc8dc62a505b304cc41a)
+
 ### Day 22: November 13, 2019
 
 **Today's Progress**: Today, I continued working on the web application to conduct coding tests. I worked on the front end design today, made it look more presentable. I used plain CSS and JavaScript.
@@ -184,6 +186,8 @@
 
 **Link to code:** [Coding Test](js/CodeTest)
 
+**Link to Medium article:** [How to create a web app for coding tests](https://medium.com/@ehioroboevans/how-to-create-a-web-app-for-coding-tests-750ef97bf1e3?sk=8f25961531bafc8dc62a505b304cc41a)
+
 ### Day 23: November 14, 2019
 
 **Today's Progress**: Today, I finished working on the web application to conduct coding tests.
@@ -191,3 +195,6 @@
 **Thoughts:** Eh.
 
 **Link to code:** [Coding Test](js/CodeTest)
+
+**Link to Medium article:** [How to create a web app for coding tests](https://medium.com/@ehioroboevans/how-to-create-a-web-app-for-coding-tests-750ef97bf1e3?sk=8f25961531bafc8dc62a505b304cc41a)
+
