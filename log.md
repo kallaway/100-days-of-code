@@ -167,3 +167,27 @@
 **Link to code:** [Neural Net](py/CountingSort/main.py)
 
 **Link to Medium article:** [Counting sort](https://medium.com/@ehioroboevans/counting-sort-ef8b3cd7ffb0)
+
+### Day 21: November 12, 2019
+
+**Today's Progress**: Today, I began working on a web application to conduct coding tests. It allows the user enter their code and then runs the code against some predefined test cases on the server, then returns the results.
+
+**Thoughts:** Today's project was inspired by Hackerrank, Codility and the like. It's an interesting project. I am not happy that I spent 6 days off this challenge, I will try to improve my consistency.
+
+**Link to code:** [Coding Test](js/CodeTest)
+
+### Day 22: November 13, 2019
+
+**Today's Progress**: Today, I continued working on the web application to conduct coding tests. I worked on the front end design today, made it look more presentable. I used plain CSS and JavaScript.
+
+**Thoughts:** Faced some CSS issues, but resolved them.
+
+**Link to code:** [Coding Test](js/CodeTest)
+
+### Day 23: November 14, 2019
+
+**Today's Progress**: Today, I finished working on the web application to conduct coding tests.
+
+**Thoughts:** Eh.
+
+**Link to code:** [Coding Test](js/CodeTest)
