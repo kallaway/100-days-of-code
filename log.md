@@ -31,3 +31,13 @@
 **Reading Material**: 
 1.  [Got stuck reading about iterators HERE](https://docs.python.org/3/library/itertools.html?)
 2.  [Using re.split to retrieve person's title in one function, currently have very clunky way of doing it using .split() twice.](https://docs.python.org/2/library/re.html)
+
+### Day 4: November 18, 2019
+
+
+**Today's Progress**: Learning from a notebook on Stacking models, building a wrapper for Sklearn functions. Also some good ideas on feature engineering and visualisations.
+
+**Thoughts**: Object oriented programming - work on basics. 
+
+**Reading Material**: 
+1.  [Notebook on Stacking](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
