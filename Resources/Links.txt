@@ -1,3 +1,4 @@
 
 -- http://javascriptbook.com ---------------> Javascript & jQuery
--- https://fontawesome.com/download ------------> fontawesome icons
+-- https://fontawesome.com --------------> fontawesome icons
+-- https://getwallpapers.com --------------> website theme wall papers
