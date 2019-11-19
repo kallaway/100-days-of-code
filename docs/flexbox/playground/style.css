@@ -1,0 +1,62 @@
+/*
+There are two categories; --> Flex Container properties & --> Flex Item properties.
+*/
+body {
+
+}
+#container {
+   display: flex; /* This property gives the element flex context. */
+   flex-direction: row; /* Default - row || column || row-reverse || column-reverse */
+   justify-content: space-around; /* flex-start || flex-end || center|| space-around|| space-between */
+   align-items: stretch; /* Default - stretch || flex-start || flex-end || center || baseline */
+   flex-wrap: wrap; /* Default - nowrap || wrap || wrap-reverse */
+   flex-flow: row wrap; /* Short-hand for flex-direction & flex-wrap */
+   align-content: center; /* Default - stretch || flex-start || flex-end || center */
+}
+.overlay {
+   background-color: #ccc;
+   position: fixed;
+   width: 100%;
+   height: 100%;
+   top: 0px;
+   left: 0px;
+}
+div {
+   display: block;
+   margin-left: 10px;
+   margin-top: 5px;
+   margin-right: 5px;
+   margin-bottom: 5px;
+   border: 2px solid black;
+}
+div p {
+   text-align: center;
+}
+#box-one {
+   background-color: greenyellow;
+   height: auto; /* Height set to auto, stretch acts here */
+   width: 120px;
+   flex-basis: 120px; /* Default - auto || px, em, % */
+   /*flex: ;*/ /* flex-grow, flex-shrink, flex-basis */
+}
+#box-two {
+   background-color:orange;
+   height: 120px;
+   width: 120px;
+   align-self: center; /* Overrides align items for one single child element */
+
+}
+#box-three {
+   background-color: red;
+   height: 120px;
+   width: 120px;
+   flex-grow: 1; /* 0 || positive number: */
+}
+#box-four {
+   background-color: blue;
+   height: 120px;
+   width: 120px;
+}
+#box-four:nth-child(4){ /* Order property - takes position of element and assigns new position relative to sibling elements */
+   order: -1;
+}

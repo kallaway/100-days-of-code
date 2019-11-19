@@ -1,2 +1,3 @@
 
 -- http://javascriptbook.com ---------------> Javascript & jQuery
+-- https://fontawesome.com/download ------------> fontawesome icons
