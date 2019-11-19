@@ -8,7 +8,7 @@
 
 ### Day 1: November 19, 2019
 
-**Today's Progress**: Set up workspace including making notes of the rules and boilerplate for these daily entries. Started the web developement bootcamp on Udemy, again.
+**Today's Progress**: Set up workspace including making notes of the rules, the boilerplate for these daily entries and the remote for pushing my file to git. Started the web developement bootcamp on Udemy, again.
 
 **Thoughts**: I'm personally fulfilled that I am establishing order  and intention with my time to lay the right foundation for the tough journey ahead.
 
