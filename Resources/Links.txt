@@ -1,4 +1,4 @@
 
 -- http://javascriptbook.com ---------------> Javascript & jQuery
 -- https://fontawesome.com --------------> fontawesome icons
--- https://getwallpapers.com --------------> website theme wall papers
+-- https://getwallpapers.com --------------> website theme wall papers--http ://api . j query .com -----------------> jQuery documentation
