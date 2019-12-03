@@ -1,4 +1,14 @@
 
 -- http://javascriptbook.com ---------------> Javascript & jQuery
 -- https://fontawesome.com --------------> fontawesome icons
--- https://getwallpapers.com --------------> website theme wall papers--http ://api . j query .com -----------------> jQuery documentation
+-- https://getwallpapers.com --------------> website theme wall papers
+--http ://api.jquery.com -----------------> jQuery documentation
+--http: //plugins.jquery.com --------------> free jQuery plugins
+--jqueryui. com ---------------------------> jquery ui script
+--www.modernizr.com ---------------------------> checks for browser api features support for html, css and javascript
+--modernizr.github.io/Moderniz -----------> Modernizr github account
+--http: //angul arjs. org -------------------------> Angularjs
+--http : //backbonejs .org ------------------------> Backbonejs
+--https: //developers.google.com/maps ---------> Google maps api
+--https://cloud .google.com/console -------------> Google api key
+466
