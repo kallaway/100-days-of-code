@@ -28,9 +28,8 @@ Responsive Web Design Principles| 4/4
 | ES6           |      91       |
 
 
-**Thoughts** I've been been steadily progressing with PluralSight and FreeCodeCamp but with my limited time I dont feel as if I am retaining everything I am going over. I hope that this log will act as a summary and a Cornell like note taking process.
+**Thoughts** I've been steadily progressing with PluralSight and FreeCodeCamp but with my limited time, I don't feel as if I am retaining everything I am going over. I hope that this log will act as a summary and a Cornell like note-taking process.
 
 **Link(s) to work**
-1. [Link to my FCC Profil](https://www.freecodecamp.org/notkharon)
-2. [Link to my PluralSight Profil](https://pluralsight.com/profile/kyle-moreira)
-
+1. [Link to my FCC Profile](https://www.freecodecamp.org/notkharon)
+2. [Link to my PluralSight Profile](https://pluralsight.com/profile/kyle-moreira)
