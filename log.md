@@ -1,30 +1,33 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 4th, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I'm progressing through FreeCodeCamp's responsive web design section. I've already completed several sections and now I've decided to log my progress.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**FreeCodeCamp Progress**
+Basic HTML and HTML5: 28/28
+Basic CSS:  44/44
+Applied Visual Design:  52/52
+Applied Accessibility:  22/22
+Responsive Web Design Principles: 4/4
 
-**Link to work:** [Calculator App](http://www.example.com)
+**PluralSight IQs**
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+| Subject       | IQ            | 
+| ------------- |:-------------:|
+| Java          |      86       |
+| Vue           |      46       |
+| CSS           |      123      |
+| JavaScript    |      159      |
+| HTML5         |      180      |
+| GIT           |      29       |
+| NPM           |      87       |
+| ES6           |      91       |
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've been been steadily progressing with PluralSight and FreeCodeCamp but with my limited time I dont feel as if I am retaining everything I am going over. I hope that this log will act as a summary and a Cornell like note taking process.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Link to my FCC Profil](https://www.freecodecamp.org/notkharon)
+2. [Link to my PluralSight Profil](https://pluralsight.com/profile/kyle-moreira)
+
