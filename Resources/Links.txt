@@ -11,4 +11,6 @@
 --http : //backbonejs .org ------------------------> Backbonejs
 --https: //developers.google.com/maps ---------> Google maps api
 --https://cloud .google.com/console -------------> Google api key
-466
+--jsbin.com, jsfiddle. com, dabblet. com + cssdeck.com, codepen.com ----------> javascript code online playgrounds
+--http://www.jslint.com, http://www.jshint .com, http:// www.jsonlint.com -------> javascript and jason validation tools
+507
