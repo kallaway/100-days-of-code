@@ -33,3 +33,15 @@ Responsive Web Design Principles| 4/4
 **Link(s) to work**
 1. [Link to my FCC Profile](https://www.freecodecamp.org/notkharon)
 2. [Link to my PluralSight Profile](https://pluralsight.com/profile/kyle-moreira)
+
+### Day 2: December 5th, 2019
+
+**Today's Progress**:
+
+**FreeCodeCamp Progress**
+
+**PluralSight Progress**
+
+**Thoughts**
+
+**Link(s) to work**
