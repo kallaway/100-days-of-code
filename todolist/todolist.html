@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>To-do List</title>
+      <meta name="description" content="A simple to-do list webpage"/>
+      <meta name="keywords" content="To-list, life management, task organization"/>
+      <!--prevents the browser from caching the page-->
+      <meta http-equiv="pragma" content="no-cache"/>
+      <meta name="author" content="Bubuka Sharif"/>
+      <link href="todolist.css" type="text/css" rel="stylesheet"/>
+      <!--<link href="bootstrap.min.css" rel="stylesheet"/>-->
+      <!--link to fontawesome css support file-->
+      <link href="fontawesome.min.css" rel="stylesheet"/>
+   </head>
+   <body>
+      <div class="container">
+         <div class="row">
+            <div class="intro col-12">
+               <h1>Work To-Dos</h1>
+               <div>
+                  <div class="border1">
+                     <div></div>
+                  </div><!--end of .border1-->
+               </div>
+            </div><!--end of .intro col-12-->
+         </div><!--#row-->
+
+         <div class="row">
+            <div class="helpText col-12">
+               <p id="first">Enter text into the input field to add items to your list.</p>
+               <p id="second">Click the item to mark it as complete.</p>
+               <p id="third">Click the "X" to remove the item from your list.</p>
+            </div><!--end of .helpText col-12-->
+         </div><!--end of .row-->
+
+         <div class="row">
+            <div class="col-12">
+               <input id="userInput" type="text" placeholder="New Item..." maxlength="27">
+               <!--button with icon-->
+               <button id="enter"><i class="fas fa-pencil-alt"></i></button>
+            </div><!--end of .col-12-->
+         </div><!--end of .row-->
+
+         <!--Empty unordered list-->
+         <div class="row">
+            <div class="listItems col-12">
+               <ul class="col-12 offset-0 col-sm-8 offset-sm-2">
+               </ul><!--end of .col-12 offset-0 col-sm-8 offset-sm-2-->
+            </div><!--end of .listItems col-12-->
+         </div><!--end of .row-->
+
+      </div><!--end of #container-->
+      <script src="todolist.js" type="text/javascript"/>
+   </body>
+</html>
