@@ -5,11 +5,13 @@
 **Today's Progress**: I'm progressing through FreeCodeCamp's responsive web design section. I've already completed several sections and now I've decided to log my progress.
 
 **FreeCodeCamp Progress**
-Basic HTML and HTML5: 28/28
-Basic CSS:  44/44
-Applied Visual Design:  52/52
-Applied Accessibility:  22/22
-Responsive Web Design Principles: 4/4
+| Subject       | Complete            | 
+| ------------- |:-------------:|
+Basic HTML and HTML5 | 28/28
+Basic CSS | 44/44
+Applied Visual Design | 52/52
+Applied Accessibility | 22/22
+Responsive Web Design Principles| 4/4
 
 **PluralSight IQs**
 
