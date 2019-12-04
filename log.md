@@ -28,3 +28,14 @@ Completed CodeWars Katas:
 
 **Thoughts:** 
 Thanks to Katas I practice array and string methods, among others. Every day I feel that it is easier for me to find a better solution, although sometimes after checking solutions of others I can learn a lot and use better and much shorter solutions in the future. Plan for tomorrow - start to code some small project, maybe a quiz? I'm looking forward to it!
+
+### Day 3: December 4th, 2019 
+
+**Today's Progress**: 
+Solved Leet Code problems:
+1. Two Sum (number 1)
+2. Palindrome Number (number 9)
+3. Single Number (numer 136)
+
+**Thoughts:** 
+Inspired by YouTube video I signed in on Leet Code website and it made me so involved I've spent more than hour solving tasks. I completed three of them and started the fourth one but I still can't figure out the solution.
