@@ -39,3 +39,22 @@ Solved Leet Code problems:
 
 **Thoughts:** 
 Inspired by YouTube video I signed in on Leet Code website and it made me so involved I've spent more than hour solving tasks. I completed three of them and started the fourth one but I still can't figure out the solution.
+
+### Day 4: December 5th, 2019 
+
+**Today's Progress**: 
+Solved Code Wars Katas:
+1. Sum The Strings
+2. The Wide-Mouthed frog!
+3. Convert a String to a Number!
+4. Return Negative
+5. Do you speak "English"?
+6. Sum of positive
+7. Will there be enough space?
+8. L1: Set Alarm
+
+I also started to code a header with a navbar and call-to-action section for a new website project received from CodersLab as part of Portolio Lab.
+
+**Thoughts:** 
+I need to practice reduce and filter methods as I use them too rarely. 
+I learned about the RegExp test() method today and I read its documentation.
