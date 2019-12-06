@@ -6,13 +6,13 @@
 
 **FreeCodeCamp Progress**
 
-| Subject       | Complete            | 
+| Subject       | Complete      | 
 | ------------- |:-------------:|
-| Basic HTML and HTML5 | 28/28 |
-Basic CSS | 44/44
-Applied Visual Design | 52/52
-Applied Accessibility | 22/22
-Responsive Web Design Principles| 4/4
+| Basic HTML and HTML5 |  28/28 |
+|Basic CSS       |   44/44      |
+|Applied Visual Design | 52/52  |
+|Applied Accessibility | 22/22  |
+|Responsive Web Design Principles| 4/4  |
 
 **PluralSight IQs**
 
@@ -28,7 +28,8 @@ Responsive Web Design Principles| 4/4
 | ES6           |      91       |
 
 
-**Thoughts** I've been steadily progressing with PluralSight and FreeCodeCamp but with my limited time, I don't feel as if I am retaining everything I am going over. I hope that this log will act as a summary and a Cornell like note-taking process.
+**Thoughts** 
+I've been steadily progressing with PluralSight and FreeCodeCamp but with my limited time, I don't feel as if I am retaining everything I am going over. I hope that this log will act as a summary and a Cornell like note-taking process.
 
 **Link(s) to work**
 1. [Link to my FCC Profile](https://www.freecodecamp.org/notkharon)
@@ -37,11 +38,22 @@ Responsive Web Design Principles| 4/4
 ### Day 2: December 5th, 2019
 
 **Today's Progress**:
+Today I finished up FCC's responsive web design section. The last sections covered how to use Flexbox and CSS Grids. 
+I've started working on my tribute page which I've decided to dedicate to mwY.
+
 
 **FreeCodeCamp Progress**
+
+| Subject       | Complete      | 
+| ------------- |:-------------:|
+| CSS Flexbox   | 17/17         |
+| CSS Grid      | 22/22         |
 
 **PluralSight Progress**
 
 **Thoughts**
 
 **Link(s) to work**
+1. [Link to my FCC Profile](https://www.freecodecamp.org/notkharon)
+2. [Link to my PluralSight Profile](https://pluralsight.com/profile/kyle-moreira)
+3. [Tribute Page](https://github.com/NotKharon/FCC-mwY-Tribute.git)
