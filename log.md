@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
 
  Day 1: December 3, 2019
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Today's Progress: Finished up HTML Essential Course @lynda, I need to consolidate my learning.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Thoughts:At first, it looked so easy but it has some key-points to learn more and more.
 
-**Link to work:** [Calculator App](http://www.example.com)
+Day 2: December 4, 2019
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Today's Progress: studied CSS and HTML, forked 100-days-of-code project. I watched some github videos, but I couldn't manage to do a pull request. I will figure out tomorrow.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Thoughts: I like interactive apps like SoloLearn, it gives me motivation when I see everyone is doing the same thing like a virtual school. I made some progress in HTML and CSS.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Day 3: December 5, 2019
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Today's Progress: I have found my mistake while cloning a repo.I mistakenly didn't check where I cloned and everything got messed up. I couldn't make any changes since I couldn't find the local file.After reading and checking some websites, I could delete and clone and tracked the local file at last.I ddid Sololearn exercises, and tried to write some code about how to build a blog.
+
+Thoughts: I noticed that it's better to think and analyze myself rather than relying on tutorials.Practice is the best and permanent solution.
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
