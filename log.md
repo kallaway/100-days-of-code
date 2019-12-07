@@ -14,3 +14,13 @@ Code Wars Katas solved:
 **Thoughts:** It's the beginning of my journey with 100 Days of Code. I started with some simple Katas from Code Wars website. It is a good tool to practice string and array methods as well as iteration. 
 
 **Link to work:** [My CodeWars Account](https://www.codewars.com/users/lavretta)
+
+### Day 2: December 6, 2019 
+
+**Today's Progress**: 
+Code Wars Katas solved:
+1. Remove First and Last Character
+2. Be Concise I - The Ternary Operator
+3. Convert a string to an array
+
+**Thoughts:** It's Friday night but I need to keep goin'.
