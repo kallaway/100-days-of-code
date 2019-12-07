@@ -18,4 +18,9 @@ Today's Progress: I have found my mistake while cloning a repo.I mistakenly didn
 
 Thoughts: I noticed that it's better to think and analyze myself rather than relying on tutorials.Practice is the best and permanent solution.
 
+Day 4: December 6, 2019
+
+Today's Progress: I focused on finishing SoloLearn course and I did. But I didn't understand the parts related to JavaScript. I will look at them after learning JS.Then, I read some documentation and watching w3cx courses.
+
+Thougts:I am feeling overwhelmed by so many courses and resources.I don't know so many things. I hope I will have enough knowledge to build my own projects soon. I'll do my best to achieve that!Again, I will learn HTML and CSS, because I don't know totally. 
 
