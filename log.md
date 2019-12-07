@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: December 2nd, 2019 
+### Day 1: December 2, 2019 
 
 **Today's Progress**: 
 Completed CodeWars Katas:
@@ -13,7 +13,7 @@ Completed CodeWars Katas:
 **Thoughts:** 
 It was not easy to start as I couldn't decide what I should do first - start a bigger project or complete some smaller ones. Finally I decided to complete some CodeWars Katas as a warm up.
 
-### Day 2: December 3rd, 2019 
+### Day 2: December 3, 2019 
 
 **Today's Progress**: 
 Completed CodeWars Katas:
@@ -29,7 +29,7 @@ Completed CodeWars Katas:
 **Thoughts:** 
 Thanks to Katas I practice array and string methods, among others. Every day I feel that it is easier for me to find a better solution, although sometimes after checking solutions of others I can learn a lot and use better and much shorter solutions in the future. Plan for tomorrow - start to code some small project, maybe a quiz? I'm looking forward to it!
 
-### Day 3: December 4th, 2019 
+### Day 3: December 4, 2019 
 
 **Today's Progress**: 
 Solved Leet Code problems:
@@ -40,7 +40,7 @@ Solved Leet Code problems:
 **Thoughts:** 
 Inspired by YouTube video I signed in on Leet Code website and it made me so involved I've spent more than hour solving tasks. I completed three of them and started the fourth one but I still can't figure out the solution.
 
-### Day 4: December 5th, 2019 
+### Day 4: December 5, 2019 
 
 **Today's Progress**: 
 Solved Code Wars Katas:
@@ -58,3 +58,14 @@ I also started to code a header with a navbar and call-to-action section for a n
 **Thoughts:** 
 I need to practice reduce and filter methods as I use them too rarely. 
 I learned about the RegExp test() method today and I read its documentation.
+
+### Day 5: December 6, 2019 
+
+**Today's Progress**: 
+I almost finished the header I mentioned yesterday in the log. I added some Routing as well as styled the component a bit to be as similar to given graphic project as possible. 
+Then I started a course on freeCodeCamp from a scratch. Finished 22 of 28 HTML/HTML5 lessons from Responsive Web Design Certification.
+
+**Thoughts:** 
+I think I will continue the course on freeCodeCamp. 
+While working on the header I had some issues with an image inside a div in this section. Image was outside the div. I fixed it but it taught me that learning of CSS can't be neglected.
+
