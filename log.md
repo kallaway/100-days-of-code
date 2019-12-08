@@ -31,3 +31,10 @@ Code Wars Katas solved:
 I've started a new React project - a charity website. 
 
 **Thoughts:** Hopefully I will finish it till the end of December. I really like the feeling of the new beginning!
+
+### Day 4: December 8, 2019 
+
+**Today's Progress**: 
+I created basic structure of my new project (with routing) and header with links, intro and hero image. 
+
+**Thoughts:** This is the part I like most. Tomorrow I will try to make it look more stylish ;) 
