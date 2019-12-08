@@ -24,3 +24,10 @@ Code Wars Katas solved:
 3. Convert a string to an array
 
 **Thoughts:** It's Friday night but I need to keep goin'.
+
+### Day 3: December 7, 2019 
+
+**Today's Progress**: 
+I've started a new React project - a charity website. 
+
+**Thoughts:** Hopefully I will finish it till the end of December. I really like the feeling of the new beginning!
