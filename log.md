@@ -69,3 +69,13 @@ Then I started a course on freeCodeCamp from a scratch. Finished 22 of 28 HTML/H
 I think I will continue the course on freeCodeCamp. 
 While working on the header I had some issues with an image inside a div in this section. Image was outside the div. I fixed it but it taught me that learning of CSS can't be neglected.
 
+### Day 6: December 7, 2019 
+
+**Today's Progress**: 
+Two Katas on Code Wars done: 
+1. All Star Code Challenge #18
+2. Welcome!
+I also finished 6 HTML/HTML5 lessons from Responsive Web Design Certification.
+
+**Thoughts:** 
+Saturday is a hard day to code for me. Maybe not the whole Saturday but the evening because of the meetings with friends. Next Saturday I need to code earlier. 
