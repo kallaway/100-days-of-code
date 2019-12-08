@@ -79,3 +79,11 @@ I also finished 6 HTML/HTML5 lessons from Responsive Web Design Certification.
 
 **Thoughts:** 
 Saturday is a hard day to code for me. Maybe not the whole Saturday but the evening because of the meetings with friends. Next Saturday I need to code earlier. 
+
+### Day 7: December 8, 2019 
+
+**Today's Progress**:
+I was working on my version of 'oddaj-rzeczy' project from Coders Lab Portfolio Lab. I created navbar with Link from React Scroll and styled it. Fixed issue with width of header's elements. 
+
+**Thoughts:** 
+It was more than 1 hour of working on the project because I needed to rebuild the structure of React components and Sass folder. Dividing the code for smaller parts makes it more readable for me.
