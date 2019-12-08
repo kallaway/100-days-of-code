@@ -28,5 +28,5 @@ Day 4: December 7, 2019
 
 Today's Progress: I studied at FreeCodeCamp and finished CSS section and moved on to Applied Visual Design.I stopped in the middle, I decided to learn more first, about what is written, I checked lynda course. Then, I downloaded Adobe Photoshop, and learnt a little. My computer got slow down, and it made me go nuts!
 
-Thoughts:I decided to not to compare to others, because my life and my background is totally different, I'm a different person, I will just focus on my progress.I wish I had a better and fast computer to work for Adobe Creative Cloud apps.
+Thoughts:I decided to not to compare myself to others, because my life and my background is totally different, I'm a different person, I will just focus on my progress.I wish I had a better and fast computer to work for Adobe Creative Cloud apps.
 
