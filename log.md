@@ -24,9 +24,14 @@ Today's Progress: I focused on finishing SoloLearn course and I did. But I didn'
 
 Thougts:I am feeling overwhelmed by so many courses and resources.I don't know so many things. I hope I will have enough knowledge to build my own projects soon. I'll do my best to achieve that!Again, I will learn HTML and CSS, because I don't know totally. 
 
-Day 4: December 7, 2019
+Day 5: December 7, 2019
 
 Today's Progress: I studied at FreeCodeCamp and finished CSS section and moved on to Applied Visual Design.I stopped in the middle, I decided to learn more first, about what is written, I checked lynda course. Then, I downloaded Adobe Photoshop, and learnt a little. My computer got slow down, and it made me go nuts!
 
 Thoughts:I decided to not to compare myself to others, because my life and my background is totally different, I'm a different person, I will just focus on my progress.I wish I had a better and fast computer to work for Adobe Creative Cloud apps.
 
+Day 6: December 8, 2019
+
+Today's Progress:I worked with a blog project and tried to understand and worked with CSS on FreeCodeCamp.
+
+Thoughts:I think I need to immerse everything before moving more. I will use and practice what I learnt.
