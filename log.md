@@ -35,3 +35,9 @@ Day 6: December 8, 2019
 Today's Progress:I worked with a blog project and tried to understand and worked with CSS on FreeCodeCamp.
 
 Thoughts:I think I need to immerse everything before moving more. I will use and practice what I learnt.
+
+Day 7: December 9, 2019
+
+Today's Progress:I watched TraversyMedia video and did CSS practice, and watching and taking notes while watching an EdX course.
+
+Thoughts: I'm feeling like I'm moving so slow,but i have decided I will focus on what I'm learning not focusing on progress. Because you can move so quick but if i won't remember later, there is no use for me. So, take it slow. Relax and enjoy!
