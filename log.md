@@ -41,3 +41,9 @@ Day 7: December 9, 2019
 Today's Progress:I watched TraversyMedia video and did CSS practice, and watching and taking notes while watching an EdX course.
 
 Thoughts: I'm feeling like I'm moving so slow,but i have decided I will focus on what I'm learning not focusing on progress. Because you can move so quick but if i won't remember later, there is no use for me. So, take it slow. Relax and enjoy!
+
+Day 8:December 10, 2019
+
+Today's progress:I felt like I have so many information and I need to group them altogether. That's why I decided to create my own templates. I checked everything I wrote on my notebooks and files on my computer.Then, I found one tutorial about how to design a form, I decided to watch and practice at the same time. I couldn't finish because I don't know some parts.I will finish tomorrow.
+
+Feelings:I wish I had more time to learn especially know, but impossible.I'm doing whatever I can. I will continue to FreeCodeCamp;but I have so many other resources, too. I don't know which way to go. All of them is highly interesting!
