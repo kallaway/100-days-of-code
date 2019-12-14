@@ -59,3 +59,9 @@ Day 10: December 12, 2019
 Today's Progress: I started doing Flatiron School's Bootcamp Course. I watched Traversy Media's CSS and Flexbox videos and learnt a lot. 
 
 Feelings : I'm feeling motivated.
+
+Day 11: December 13, 2019
+
+Today's Progress: I decided to work with Tribute Page project. It has become a huge help for me to understand all the CSS properties. I'm feeling I' m getting the logic better now.
+
+Feelings: I was more involved in concepts while making the project. Now, I understand why it's really important to make my hands dirty and tackle the problems myself. I see them now like a learning resource, really important.
