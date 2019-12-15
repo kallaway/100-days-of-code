@@ -65,3 +65,9 @@ Day 11: December 13, 2019
 Today's Progress: I decided to work with Tribute Page project. It has become a huge help for me to understand all the CSS properties. I'm feeling I' m getting the logic better now.
 
 Feelings: I was more involved in concepts while making the project. Now, I understand why it's really important to make my hands dirty and tackle the problems myself. I see them now like a learning resource, really important.
+
+Day 12: December 14, 2019
+
+Today's Progress: I finished CSS Essential Training on Lynda.com then I started another CSS course about building an online resume page.I worked on Codepen and tried some CSS code on my project. I watched a little WesBos CSS Grid videos. They look so awesome.Learnt  about CSS Regions, Columns, and Exclusions.
+
+Feelings: I wanted to do more than this but I couldn't finish all that I wanted. I don't know how to manage my time. I have so many things to do and continue to FreeCodeCamp.
