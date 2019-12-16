@@ -71,3 +71,9 @@ Day 12: December 14, 2019
 Today's Progress: I finished CSS Essential Training on Lynda.com then I started another CSS course about building an online resume page.I worked on Codepen and tried some CSS code on my project. I watched a little WesBos CSS Grid videos. They look so awesome.Learnt  about CSS Regions, Columns, and Exclusions.
 
 Feelings: I wanted to do more than this but I couldn't finish all that I wanted. I don't know how to manage my time. I have so many things to do and continue to FreeCodeCamp.
+
+Day 13: December 15, 2019
+
+Today's Progress: I finished my Survey Page project and finished CSS Grid and Flexbox parts in FreeCodeCamp. Reviewed animations and transitions.
+
+Feelings:I felt a little tired because of studying all week. I wanted to do something else and learnt other things also. 
