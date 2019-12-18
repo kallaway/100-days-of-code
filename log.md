@@ -77,3 +77,9 @@ Day 13: December 15, 2019
 Today's Progress: I finished my Survey Page project and finished CSS Grid and Flexbox parts in FreeCodeCamp. Reviewed animations and transitions.
 
 Feelings:I felt a little tired because of studying all week. I wanted to do something else and learnt other things also. 
+
+Day 14: December 17, 2019
+
+Today's Progress: I finished CSS Essential Course on Lynda but I didn't understand some parts. I will checck Mozilla doc. tomorrow and I did Sololearn.
+
+Feelings: I felt unmotivated and I am thinking I'm forgetting easily.I don't know what to to do. I need more time to learn deeper.
