@@ -85,7 +85,7 @@ Today's Progress: I finished CSS Essential Course on Lynda but I didn't understa
 Feelings: I felt unmotivated and I am thinking I'm forgetting easily.I don't know what to to do. I need more time to learn deeper.
 
 Day 15: December 18, 2019
-
+sssss
 Today's Progress: I studied on Sololearn about CSS, after I come home, I decided to start FreeCodeCamp's Project. I'm having hard time while designing the website. I will search try to make better.
 
 Feelings:I'm feeling better than yesterday, I'm feeling so sluggish these days, that's making me sleepy always. About progress, I think progress is better than perfection; so, I'll progress in my own way.
@@ -95,3 +95,9 @@ Day 16: December 19, 2019
 Today's Progress: I studied on SoloLearn and searched some questions that I didn't quite undertsand. Continued to my project and finished it but I have some problem with my grid and images.
 
 Feelings: I can focus for longer hours while coding now. I need to plan before coding. Every part of the project got messed up becuase I didn't group them before hand. But, I'm learning everyday, this should make it better.
+
+Day 17: December 20, 2019
+
+Today's Progress:I did "Technical Documentation Page" on freeCodeCamp, I will try to design navigation bar.I read some blogs and listened to syntax podcast,read some information on w3schools and MDN.
+
+Feelings:I'm feeling okay, today I noticed that I should work with Github, after making my projects betteer, I want to deploy to my account.
