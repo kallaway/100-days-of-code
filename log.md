@@ -101,3 +101,9 @@ Day 17: December 20, 2019
 Today's Progress:I did "Technical Documentation Page" on freeCodeCamp, I will try to design navigation bar.I read some blogs and listened to syntax podcast,read some information on w3schools and MDN.
 
 Feelings:I'm feeling okay, today I noticed that I should work with Github, after making my projects betteer, I want to deploy to my account.
+
+Day 18:December 21, 2019
+
+Today's Progress:I discovered netninja Youtube channel, I didn't completely understood CSS Positioning and I watched all the videos in the playlist. I am feeling I have a better picture in my min now.Then, finished my projects but I have still some problem with my design and responsive screen.I couldn't adjust, always some parts are going at the edge of the page or overlapping each other. I will try to fix that tomorrow. Then, I did challenge with logical questions, I learned so many new terms and HTML tags, it was informative. Then, I started to learn about Skeleton and started my last project. I found a very good course.I'm following that course, too. And, I finished one project about navigation bars with a video.
+
+Feelings: I am feeling so happy actually, I wish I could discover this area before going to university. I never had any chance to see such websites before. This year I learned so many things and all by myself. This is incredible. I think school didn't teach me anything and I am really sad about that.
