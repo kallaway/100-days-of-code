@@ -114,4 +114,5 @@ Today's Progress: I continued on my last project. Portfolio page, styling is rea
 
 Feelings: I'm happy but I haven't mastered everything yet; I listened to traversymedia and he also said we don't need to be a master in CSS before moving onto JS. That's why I will continue to learn different stuff, it is necessary to learn and combine different languages or programs. 
 
-Certificates: <a href="https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx" 
+Certificates:https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx"  
+https://www.freecodecamp.org/hulyakarakaya
