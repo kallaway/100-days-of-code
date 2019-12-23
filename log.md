@@ -85,10 +85,10 @@ Today's Progress: I finished CSS Essential Course on Lynda but I didn't understa
 Feelings: I felt unmotivated and I am thinking I'm forgetting easily.I don't know what to to do. I need more time to learn deeper.
 
 Day 15: December 18, 2019
-sssss
+
 Today's Progress: I studied on Sololearn about CSS, after I come home, I decided to start FreeCodeCamp's Project. I'm having hard time while designing the website. I will search try to make better.
 
-Feelings:I'm feeling better than yesterday, I'm feeling so sluggish these days, that's making me sleepy always. About progress, I think progress is better than perfection; so, I'll progress in my own way.
+Feelings: I'm feeling better than yesterday, I'm feeling so sluggish these days, that's making me sleepy always. About progress, I think progress is better than perfection; so, I'll progress in my own way.
 
 Day 16: December 19, 2019
 
@@ -98,12 +98,20 @@ Feelings: I can focus for longer hours while coding now. I need to plan before c
 
 Day 17: December 20, 2019
 
-Today's Progress:I did "Technical Documentation Page" on freeCodeCamp, I will try to design navigation bar.I read some blogs and listened to syntax podcast,read some information on w3schools and MDN.
+Today's Progress: I did "Technical Documentation Page" on freeCodeCamp, I will try to design navigation bar.I read some blogs and listened to syntax podcast,read some information on w3schools and MDN.
 
-Feelings:I'm feeling okay, today I noticed that I should work with Github, after making my projects betteer, I want to deploy to my account.
+Feelings: I'm feeling okay, today I noticed that I should work with Github, after making my projects betteer, I want to deploy to my account.
 
-Day 18:December 21, 2019
+Day 18: December 21, 2019
 
-Today's Progress:I discovered netninja Youtube channel, I didn't completely understood CSS Positioning and I watched all the videos in the playlist. I am feeling I have a better picture in my min now.Then, finished my projects but I have still some problem with my design and responsive screen.I couldn't adjust, always some parts are going at the edge of the page or overlapping each other. I will try to fix that tomorrow. Then, I did challenge with logical questions, I learned so many new terms and HTML tags, it was informative. Then, I started to learn about Skeleton and started my last project. I found a very good course.I'm following that course, too. And, I finished one project about navigation bars with a video.
+Today's Progress: I discovered netninja Youtube channel, I didn't completely understood CSS Positioning and I watched all the videos in the playlist. I am feeling I have a better picture in my min now.Then, finished my projects but I have still some problem with my design and responsive screen.I couldn't adjust, always some parts are going at the edge of the page or overlapping each other. I will try to fix that tomorrow. Then, I did challenge with logical questions, I learned so many new terms and HTML tags, it was informative. Then, I started to learn about Skeleton and started my last project. I found a very good course.I'm following that course, too. And, I finished one project about navigation bars with a video.
 
 Feelings: I am feeling so happy actually, I wish I could discover this area before going to university. I never had any chance to see such websites before. This year I learned so many things and all by myself. This is incredible. I think school didn't teach me anything and I am really sad about that.
+
+Day 19: December 22, 2019
+
+Today's Progress: I continued on my last project. Portfolio page, styling is really making me stressful. I see that there are better options than using CSS. I want to learn other frameworks and and Adobe products to make it better the style. But, I got my certificate anyway. I'm happy that I finished; but I will keep coming back again.In this 20 days almost, I got so many certificates and different resources, it's amazing, I will share my certificates from Lynda, Sololearn and FreeCodeCamp.
+
+Feelings: I'm happy but I haven't mastered everything yet; I listened to traversymedia and he also said we don't need to be a master in CSS before moving onto JS. That's why I will continue to learn different stuff, it is necessary to learn and combine different languages or programs. 
+
+Certificates: <a href="https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx" 
