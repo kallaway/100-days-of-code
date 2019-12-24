@@ -114,5 +114,11 @@ Today's Progress: I continued on my last project. Portfolio page, styling is rea
 
 Feelings: I'm happy but I haven't mastered everything yet; I listened to traversymedia and he also said we don't need to be a master in CSS before moving onto JS. That's why I will continue to learn different stuff, it is necessary to learn and combine different languages or programs. 
 
-Certificates:https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx"  
+Certificates:https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx 
 https://www.freecodecamp.org/hulyakarakaya
+
+Day 20: Decemeber 23, 2019
+
+Today's Progress: I took MTA exam today, I learnt also some different information while preparing the exam. It was easy but time was on time. I just finished on time, I mean. 45 min. 41 questions..I liked it, I will take other ones, as well. Because, I like to get certificate and test myself.
+
+Feelings: I would like to move on but I want to learn more about CSS, too. I couldn't finish some resources. After finishing one course, I will continue because I want to style my portfolio better.
