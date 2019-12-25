@@ -122,3 +122,9 @@ Day 20: Decemeber 23, 2019
 Today's Progress: I took MTA exam today, I learnt also some different information while preparing the exam. It was easy but time was on time. I just finished on time, I mean. 45 min. 41 questions..I liked it, I will take other ones, as well. Because, I like to get certificate and test myself.
 
 Feelings: I would like to move on but I want to learn more about CSS, too. I couldn't finish some resources. After finishing one course, I will continue because I want to style my portfolio better.
+
+Day 21: December 24, 2019
+
+Today's Progress: I studied on Sololearn and finished CSS course. Then, I started to search about JavaScript and watched some videos about fundamentals o JS, I will study the specific topic soon. Then, I worked with my CSS project.
+
+Feelings: I' m feeling bored a little, because of Xmas I think,studying generally. I wish I could travel somewhere; but I need to continue, and I decided to start new challenges first one is workout everyday, after that meditation and writing a little.
