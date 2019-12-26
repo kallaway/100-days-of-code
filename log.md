@@ -128,3 +128,10 @@ Day 21: December 24, 2019
 Today's Progress: I studied on Sololearn and finished CSS course. Then, I started to search about JavaScript and watched some videos about fundamentals o JS, I will study the specific topic soon. Then, I worked with my CSS project.
 
 Feelings: I' m feeling bored a little, because of Xmas I think,studying generally. I wish I could travel somewhere; but I need to continue, and I decided to start new challenges first one is workout everyday, after that meditation and writing a little.
+
+Day 22: December 25, 2019
+
+Today's Progress: Today, I couldn't get up early; beacuse I slept like at 3 am. After waking up, I studied at CSS project, then searched and found so many JavaScript resources. I continued on Lynda course and watched WesBos's CSS flexbox videos. I will finish those because design is important still and I need to use CSS always.
+
+Feelings: I also started doing yoga challenge today, I felt a little stressed and I wanted to relax by listening to self-awareness videos and watching women in tech videos. I looked through FCC blog and it looks so helpful.
+Feelings: I also started doing yoga challenge today, I felt a little stressed and I wanted to relax by listening to self-awareness videos and watching "women in tech" videos. I looked through FCC blog and it looks so helpful.
