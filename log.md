@@ -134,4 +134,9 @@ Day 22: December 25, 2019
 Today's Progress: Today, I couldn't get up early; beacuse I slept like at 3 am. After waking up, I studied at CSS project, then searched and found so many JavaScript resources. I continued on Lynda course and watched WesBos's CSS flexbox videos. I will finish those because design is important still and I need to use CSS always.
 
 Feelings: I also started doing yoga challenge today, I felt a little stressed and I wanted to relax by listening to self-awareness videos and watching women in tech videos. I looked through FCC blog and it looks so helpful.
-Feelings: I also started doing yoga challenge today, I felt a little stressed and I wanted to relax by listening to self-awareness videos and watching "women in tech" videos. I looked through FCC blog and it looks so helpful.
+
+Day 23 : December 26, 2019
+
+Today's Progress: I'm studying JavaScript basics on FreeCodeCamp, SoloLearn and The Odin Project. I hope I will learn very well and it will be not so hard.
+
+Feelings: I am so sleepy and lazy these days. It is so hard to open my eyes sometimes, I'm fasting or maybe my sleeping pattern changed a lot. They can cause this and I am waking up early without sleeping enough. I don't know what to do. Let's see.
