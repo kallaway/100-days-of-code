@@ -140,3 +140,9 @@ Day 23 : December 26, 2019
 Today's Progress: I'm studying JavaScript basics on FreeCodeCamp, SoloLearn and The Odin Project. I hope I will learn very well and it will be not so hard.
 
 Feelings: I am so sleepy and lazy these days. It is so hard to open my eyes sometimes, I'm fasting or maybe my sleeping pattern changed a lot. They can cause this and I am waking up early without sleeping enough. I don't know what to do. Let's see.
+
+Day 24 : December 27, 2019
+
+Today's Progress: I managed to study on freeCodeCamp, finished almost half of the JavaScript challenges and did a little SoloLearn. Also, continued with Lynda course.
+
+Feelings: I couldn't study today because I came home late and I am feeling chronically fatigued. I am feeling so sleepy and makes it so hard to focus on subject. I need to get iron supplement to get better again.
