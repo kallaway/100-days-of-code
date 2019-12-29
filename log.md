@@ -146,3 +146,9 @@ Day 24 : December 27, 2019
 Today's Progress: I managed to study on freeCodeCamp, finished almost half of the JavaScript challenges and did a little SoloLearn. Also, continued with Lynda course.
 
 Feelings: I couldn't study today because I came home late and I am feeling chronically fatigued. I am feeling so sleepy and makes it so hard to focus on subject. I need to get iron supplement to get better again.
+
+Day 25 : December 28, 2019
+
+Today's Progress: I searched through all the bookmarks that I had before, and checked out the websites. I decided to take FrontEnd Masters courses, I started with Web Development and git by Brian Holt; after that I continued with Kyle Simpson's javaScript course. Tomorrow I will continue.
+
+Feelings: These days I am feeling so distracted; that's why I searched through what I can do. First, I found a Coursera course about how to study and I will take that course when it is accepted. The, I listened to "Getting Things Done". I understood my problem and I will use the strategies like instructed in the video. It looks so effective. I am planning to be more organized. I need to work systematically and I should have a schedule including every hour and everyday. 
