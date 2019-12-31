@@ -159,3 +159,12 @@ Day 26 : December 29, 2019
 Today's Progress : I started with lynda course and learnt functions and closures. It took me a while. I did some FreeCodeCamp and 3/4 finished.
 
 Feelings: I decided to manage my time and focus better. I am gonna check myself when I lose track of what I am doing. I am feeling motivated for new year.
+
+Day 27 : December 30, 2019
+
+Today's Progress : I tried to use CodeAcademy, it was looking good; but I checked the comments and I experienced also that their course system is not organized. Then I continued with lynda course. Learning about DOM, query selectors and elements.
+
+Feelings: I'm having some mental issues; I'm trying to push myself; but my brain is making me so hopeless. I want to achieve something; but there is always something in my brain telling me "No, you cannot do that!". I'm trying to motivate myself and learning about time and focus management; I am feeling so sleepy suddenly while studying or I'm getting distracted easily. I asked to my boyfriend about this. He is always motivated when he wants to do something and he told me that I learned so many things in this whole year and it's better to compare myself with the year before.I think he is right, I want to be like those people who are getting jobs and being a master in everything; but I am not seeing my progress. Ok, I will read motivational posts but I will try not to compare myself with others. In this new year, I am planning to learn and feeling good about it not thinking about other people's progress; but only mine.
+
+Links:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards
+https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html
