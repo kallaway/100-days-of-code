@@ -168,3 +168,9 @@ Feelings: I'm having some mental issues; I'm trying to push myself; but my brain
 
 Links:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards
 https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html
+
+Day 28 : December 31, 2019
+
+Today's Progress : I studied on Udacity about Github. I want to work on Github more this year. I studied a little about class methods on Mozilla Developer. 
+
+Feelings: I felt so alone today, it's the last day of 2019 and I am alone. However, I searched about Udacity free courses and scholarships and Coursera courses. I applied to them. It took some of my time. I felt a little sleepy again but I didn't sleep; but I could use my time wisely. 
