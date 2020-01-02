@@ -174,3 +174,11 @@ Day 28 : December 31, 2019
 Today's Progress : I studied on Udacity about Github. I want to work on Github more this year. I studied a little about class methods on Mozilla Developer. 
 
 Feelings: I felt so alone today, it's the last day of 2019 and I am alone. However, I searched about Udacity free courses and scholarships and Coursera courses. I applied to them. It took some of my time. I felt a little sleepy again but I didn't sleep; but I could use my time wisely. 
+
+Day 29 : January 1, 2020
+
+Today's Progress: I studied about how to write inline CSS with JavaScript and how to combine DOM elements. After that, I studied on FreeCodeCamp and udacity. I repeated my GitHub knowledge a little; but I liked to course.Then, I decided to learn about OOP, I found one course is teaching with real life events. I watched and took notes. Learnt about black boxing, abstraction, polymorhism,encapsulation and inheritance.
+
+Feelings: I was feeling so happy and energetic today. I want to achieve my goals this year. I felt so motivated. I hope this feeling won't change.  But I'm feeling still not so knowledgeable about what I have been studying yet there are so many syntax rules and I don't know how to use them in a problem. I started to Intro to JavaScript and I want to continue there. Their system is good.
+
+Links:https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/0f5b4af1-c639-4cf1-85e7-933f31ad823a
