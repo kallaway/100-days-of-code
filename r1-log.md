@@ -182,3 +182,10 @@ Today's Progress: I studied about how to write inline CSS with JavaScript and ho
 Feelings: I was feeling so happy and energetic today. I want to achieve my goals this year. I felt so motivated. I hope this feeling won't change.  But I'm feeling still not so knowledgeable about what I have been studying yet there are so many syntax rules and I don't know how to use them in a problem. I started to Intro to JavaScript and I want to continue there. Their system is good.
 
 Links:https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/0f5b4af1-c639-4cf1-85e7-933f31ad823a
+
+Day 30 : January 2, 2019
+
+Today's Progress: I continued with JavaScript to create an analog clock. I followed the course. I did some FreeCodeCamp and finished two courses. One is about How Web Works other one is about Fuzzy Logic. Also, I studied JS on udacity a little.
+
+Feelings: I am feeling motivated, I need to learn more things, I will continue to learn. 
+
