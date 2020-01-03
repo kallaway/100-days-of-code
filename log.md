@@ -8,4 +8,12 @@
 
 **Link to work:** [Programming Fundamentals] https://www.coursera.org/learn/programming-fundamentals/home/welcome
 
+### Day 1: January 2, 2020
+
+**Today's Progress**: Created a Random Meal Generator using fetch API from a recipe database.
+
+**Thoughts:** Fun small project because I'm tired. Fetch API is a fun mechanic in JavaScript.
+
+**Link to work:** [Random Meal Generator] https://codepen.io/christinameador/pen/zYxPKPv
+
 
