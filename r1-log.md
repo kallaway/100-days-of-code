@@ -189,3 +189,14 @@ Today's Progress: I continued with JavaScript to create an analog clock. I follo
 
 Feelings: I am feeling motivated, I need to learn more things, I will continue to learn. 
 
+Links: https://share.getcloudapp.com/eDu9RkD8
+
+Day 31: January 3, 2019
+
+Today's Progress:I started doing so many courses again;because I am not so consciously aware of why I need to use what I am using. I started on lynda course, watched udemy course and finished it, did FreeCodeCAMP, it's getting harder; that's why I want to fully understand everything before going into more. 
+
+Feelings: I felt so tired and sleepy today; because I slept so late. Today is againg becoming late. I will try to work better tomorrow I hope. 
+
+Links:https://www.lynda.com/JavaScript-tutorials/Learning-JavaScript-Language/782146-2.html
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
