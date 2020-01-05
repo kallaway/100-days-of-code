@@ -200,3 +200,11 @@ Feelings: I felt so tired and sleepy today; because I slept so late. Today is ag
 Links:https://www.lynda.com/JavaScript-tutorials/Learning-JavaScript-Language/782146-2.html
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+
+Day 32: January 4, 2019
+
+Today's Progress: I started with watchandcode, and first time I felt, this course is very different than others. It really resonated to me. I finished until the objects part. I did some freeCodeCamp; but information didn't sink in, I will read books and follow watchandcode. I also found MIT and Harvard courses; they really look good and comprehensive.
+
+Feelings: I am noticing that I need to know more than programming. I need to go inside the computer structure and how it is working. 
+
+Links:https://watchandcode.com/courses/enrolled/60264
