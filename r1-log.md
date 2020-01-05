@@ -183,7 +183,7 @@ Feelings: I was feeling so happy and energetic today. I want to achieve my goals
 
 Links:https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/0f5b4af1-c639-4cf1-85e7-933f31ad823a
 
-Day 30 : January 2, 2019
+Day 30 : January 2, 2020
 
 Today's Progress: I continued with JavaScript to create an analog clock. I followed the course. I did some FreeCodeCamp and finished two courses. One is about How Web Works other one is about Fuzzy Logic. Also, I studied JS on udacity a little.
 
@@ -191,7 +191,7 @@ Feelings: I am feeling motivated, I need to learn more things, I will continue t
 
 Links: https://share.getcloudapp.com/eDu9RkD8
 
-Day 31: January 3, 2019
+Day 31: January 3, 2020
 
 Today's Progress:I started doing so many courses again;because I am not so consciously aware of why I need to use what I am using. I started on lynda course, watched udemy course and finished it, did FreeCodeCAMP, it's getting harder; that's why I want to fully understand everything before going into more. 
 
@@ -201,7 +201,7 @@ Links:https://www.lynda.com/JavaScript-tutorials/Learning-JavaScript-Language/78
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
 
-Day 32: January 4, 2019
+Day 32: January 4, 2020
 
 Today's Progress: I started with watchandcode, and first time I felt, this course is very different than others. It really resonated to me. I finished until the objects part. I did some freeCodeCamp; but information didn't sink in, I will read books and follow watchandcode. I also found MIT and Harvard courses; they really look good and comprehensive.
 
