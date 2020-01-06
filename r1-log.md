@@ -208,3 +208,9 @@ Today's Progress: I started with watchandcode, and first time I felt, this cours
 Feelings: I am noticing that I need to know more than programming. I need to go inside the computer structure and how it is working. 
 
 Links:https://watchandcode.com/courses/enrolled/60264
+
+Day 33: January 5, 2020
+
+Today's Progress: I did watchandcode, course is going well and I did until version 5. I studied git and created repository for watchandcode.
+
+Feelings: I am always trying to study and I am neglecting some things in my life. I need to reorganize my daily routine better. 
