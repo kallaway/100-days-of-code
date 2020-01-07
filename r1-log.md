@@ -214,3 +214,9 @@ Day 33: January 5, 2020
 Today's Progress: I did watchandcode, course is going well and I did until version 5. I studied git and created repository for watchandcode.
 
 Feelings: I am always trying to study and I am neglecting some things in my life. I need to reorganize my daily routine better. 
+
+Day 34: January 6, 2020
+
+Today's Progress: I am doing todo app and trying to complete Git course on udacity.
+
+Feelings: I have been so sleepy and stressful today, I slept like 30 minutes; I couldn't focus when I study. I did yoga and some meditation. I will work better tomorrow. 
