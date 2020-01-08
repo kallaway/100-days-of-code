@@ -220,3 +220,9 @@ Day 34: January 6, 2020
 Today's Progress: I am doing todo app and trying to complete Git course on udacity.
 
 Feelings: I have been so sleepy and stressful today, I slept like 30 minutes; I couldn't focus when I study. I did yoga and some meditation. I will work better tomorrow. 
+
+Day 35 : January 7, 2020
+
+Today's Progress: I wasn't at home, I studied on my phone with Sololearn,learned more about date and math objects. Then, studied with galvanizer, doing some challenges and reading tutorials. Also, finished the recursion part in FreeCodeCamp. I didn't have time for todo app.
+
+Feelings: I am still trying to finish the courses, I will try to finish at least some of them. All of them is very good; I'm feeling stuck. I need to continue with ES6 on freecodecamp; but I will revise the topics first.
