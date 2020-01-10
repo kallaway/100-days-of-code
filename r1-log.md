@@ -226,3 +226,18 @@ Day 35 : January 7, 2020
 Today's Progress: I wasn't at home, I studied on my phone with Sololearn,learned more about date and math objects. Then, studied with galvanizer, doing some challenges and reading tutorials. Also, finished the recursion part in FreeCodeCamp. I didn't have time for todo app.
 
 Feelings: I am still trying to finish the courses, I will try to finish at least some of them. All of them is very good; I'm feeling stuck. I need to continue with ES6 on freecodecamp; but I will revise the topics first.
+
+Day 36: January 8, 2020
+
+Today's Progress: I started to learn about ES6 and and functional programming.
+
+Feelings: I didn't feel good today, I was distracted so much.
+
+Day 37: January 9, 2020
+
+Today's Progress: I tried to do FreeCodeCamp but system didn't accept my correct answers. First time, it passed then it didn't accept. I'm trying to figure out. I continued with todo app and galvanizer. Did some practices about objects and DOM manipulation.
+
+Feelings: After reading one article, and listening to happiness tips, I am feeling much better. I will keep this attitude. I am moving slowly; but I am learning everyday; so I accept it and I will move on like this.
+
+
+
