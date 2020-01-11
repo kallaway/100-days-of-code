@@ -240,4 +240,8 @@ Today's Progress: I tried to do FreeCodeCamp but system didn't accept my correct
 Feelings: After reading one article, and listening to happiness tips, I am feeling much better. I will keep this attitude. I am moving slowly; but I am learning everyday; so I accept it and I will move on like this.
 
 
+Day 38: January 10, 2020
 
+Today's Progress: I started with FreeCodeaCamp Es6, I couldn't understand very well from tutoria, I watched youtube videos and supplemented with Linkedin Learning course. I didn't move on so much; because topic are so new. Then I started learning debugging and refactoring the code. I watched some videos about those and practiced with my project. I used plunker, too. 
+
+Feelings: It was so good, I managed to do yoga for an hour and meditated half an hour with self-help tips. I need to implement those tips to my life.
