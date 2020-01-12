@@ -245,3 +245,9 @@ Day 38: January 10, 2020
 Today's Progress: I started with FreeCodeaCamp Es6, I couldn't understand very well from tutoria, I watched youtube videos and supplemented with Linkedin Learning course. I didn't move on so much; because topic are so new. Then I started learning debugging and refactoring the code. I watched some videos about those and practiced with my project. I used plunker, too. 
 
 Feelings: It was so good, I managed to do yoga for an hour and meditated half an hour with self-help tips. I need to implement those tips to my life.
+
+Day 39: January 11, 2020
+
+Today's Progress: Today was perfect!I started with the slack channel that I'm signed up for working on a project together. Westarted with git, I was stuck and I couldn't solve the problem, I started to watch udacity course then tried, tried, searhed,read so many things and found my silly mistake. Then, I moved on to freeaCodeCamp to learn deconstructing assignment, also learned from a little Lynda course; but I didn't fullly ubderstand. I need to learn deeper. After that, I did a little Odin Project readings and practices, I really liked, they are so effective and have good repetitions. Then, I moved on to watchandcode; but I decided to learn DOM fully with Odin project and it took me to Traversy Media. I watched one 40 minute video and at the end I learned about workflow tools, extensions, plug-ins and add-ons. Learned more about JavaScript,html and CSS debugging. 
+
+Feelings: I am feling great, I think those positive thinking videos are making me to focus on positive things and keep me positive. I will not make myself upset anymore. It's okay to be slow, I am learning a lot.
