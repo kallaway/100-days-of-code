@@ -23,7 +23,7 @@ Day 4: December 6, 2019
 
 Today's Progress: I focused on finishing SoloLearn course and I did. But I didn't understand the parts related to JavaScript. I will look at them after learning JS.Then, I read some documentation and watching w3cx courses.
 
-Thougts: I am feeling overwhelmed by so many courses and resources.I don't know so many things. I hope I will have enough knowledge to build my own projects soon. I'll do my best to achieve that!Again, I will learn HTML and CSS, because I don't know totally. 
+Thougts: I am feeling overwhelmed by so many courses and resources.I don't know so many things. I hope I will have enough knowledge to build my own projects soon. I'll do my best to achieve that!Again, I will learn HTML and CSS, because I don't know totally.
 
 Day 5: December 7, 2019
 
@@ -57,7 +57,7 @@ Feelings:I'm feeling good,just need to practice always. I will do SoloLearn, edx
 
 Day 10: December 12, 2019
 
-Today's Progress: I started doing Flatiron School's Bootcamp Course. I watched Traversy Media's CSS and Flexbox videos and learnt a lot. 
+Today's Progress: I started doing Flatiron School's Bootcamp Course. I watched Traversy Media's CSS and Flexbox videos and learnt a lot.
 
 Feelings : I'm feeling motivated.
 
@@ -77,7 +77,7 @@ Day 13: December 15, 2019
 
 Today's Progress: I finished my Survey Page project and finished CSS Grid and Flexbox parts in FreeCodeCamp. Reviewed animations and transitions.
 
-Feelings:I felt a little tired because of studying all week. I wanted to do something else and learnt other things also. 
+Feelings:I felt a little tired because of studying all week. I wanted to do something else and learnt other things also.
 
 Day 14: December 17, 2019
 
@@ -113,9 +113,9 @@ Day 19: December 22, 2019
 
 Today's Progress: I continued on my last project. Portfolio page, styling is really making me stressful. I see that there are better options than using CSS. I want to learn other frameworks and and Adobe products to make it better the style. But, I got my certificate anyway. I'm happy that I finished; but I will keep coming back again.In this 20 days almost, I got so many certificates and different resources, it's amazing, I will share my certificates from Lynda, Sololearn and FreeCodeCamp.
 
-Feelings: I'm happy but I haven't mastered everything yet; I listened to traversymedia and he also said we don't need to be a master in CSS before moving onto JS. That's why I will continue to learn different stuff, it is necessary to learn and combine different languages or programs. 
+Feelings: I'm happy but I haven't mastered everything yet; I listened to traversymedia and he also said we don't need to be a master in CSS before moving onto JS. That's why I will continue to learn different stuff, it is necessary to learn and combine different languages or programs.
 
-Certificates:https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx 
+Certificates:https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx
 https://www.freecodecamp.org/hulyakarakaya
 
 Day 20: Decemeber 23, 2019
@@ -152,7 +152,7 @@ Day 25 : December 28, 2019
 
 Today's Progress: I searched through all the bookmarks that I had before, and checked out the websites. I decided to take FrontEnd Masters courses, I started with Web Development and git by Brian Holt; after that I continued with Kyle Simpson's javaScript course. Tomorrow I will continue.
 
-Feelings: These days I am feeling so distracted; that's why I searched through what I can do. First, I found a Coursera course about how to study and I will take that course when it is accepted. The, I listened to "Getting Things Done". I understood my problem and I will use the strategies like instructed in the video. It looks so effective. I am planning to be more organized. I need to work systematically and I should have a schedule including every hour and everyday. 
+Feelings: These days I am feeling so distracted; that's why I searched through what I can do. First, I found a Coursera course about how to study and I will take that course when it is accepted. The, I listened to "Getting Things Done". I understood my problem and I will use the strategies like instructed in the video. It looks so effective. I am planning to be more organized. I need to work systematically and I should have a schedule including every hour and everyday.
 
 Day 26 : December 29, 2019
 
@@ -171,9 +171,9 @@ https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-
 
 Day 28 : December 31, 2019
 
-Today's Progress : I studied on Udacity about Github. I want to work on Github more this year. I studied a little about class methods on Mozilla Developer. 
+Today's Progress : I studied on Udacity about Github. I want to work on Github more this year. I studied a little about class methods on Mozilla Developer.
 
-Feelings: I felt so alone today, it's the last day of 2019 and I am alone. However, I searched about Udacity free courses and scholarships and Coursera courses. I applied to them. It took some of my time. I felt a little sleepy again but I didn't sleep; but I could use my time wisely. 
+Feelings: I felt so alone today, it's the last day of 2019 and I am alone. However, I searched about Udacity free courses and scholarships and Coursera courses. I applied to them. It took some of my time. I felt a little sleepy again but I didn't sleep; but I could use my time wisely.
 
 Day 29 : January 1, 2020
 
@@ -187,15 +187,15 @@ Day 30 : January 2, 2020
 
 Today's Progress: I continued with JavaScript to create an analog clock. I followed the course. I did some FreeCodeCamp and finished two courses. One is about How Web Works other one is about Fuzzy Logic. Also, I studied JS on udacity a little.
 
-Feelings: I am feeling motivated, I need to learn more things, I will continue to learn. 
+Feelings: I am feeling motivated, I need to learn more things, I will continue to learn.
 
 Links: https://share.getcloudapp.com/eDu9RkD8
 
 Day 31: January 3, 2020
 
-Today's Progress:I started doing so many courses again;because I am not so consciously aware of why I need to use what I am using. I started on lynda course, watched udemy course and finished it, did FreeCodeCAMP, it's getting harder; that's why I want to fully understand everything before going into more. 
+Today's Progress:I started doing so many courses again;because I am not so consciously aware of why I need to use what I am using. I started on lynda course, watched udemy course and finished it, did FreeCodeCAMP, it's getting harder; that's why I want to fully understand everything before going into more.
 
-Feelings: I felt so tired and sleepy today; because I slept so late. Today is againg becoming late. I will try to work better tomorrow I hope. 
+Feelings: I felt so tired and sleepy today; because I slept so late. Today is againg becoming late. I will try to work better tomorrow I hope.
 
 Links:https://www.lynda.com/JavaScript-tutorials/Learning-JavaScript-Language/782146-2.html
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion
@@ -205,7 +205,7 @@ Day 32: January 4, 2020
 
 Today's Progress: I started with watchandcode, and first time I felt, this course is very different than others. It really resonated to me. I finished until the objects part. I did some freeCodeCamp; but information didn't sink in, I will read books and follow watchandcode. I also found MIT and Harvard courses; they really look good and comprehensive.
 
-Feelings: I am noticing that I need to know more than programming. I need to go inside the computer structure and how it is working. 
+Feelings: I am noticing that I need to know more than programming. I need to go inside the computer structure and how it is working.
 
 Links:https://watchandcode.com/courses/enrolled/60264
 
@@ -213,13 +213,13 @@ Day 33: January 5, 2020
 
 Today's Progress: I did watchandcode, course is going well and I did until version 5. I studied git and created repository for watchandcode.
 
-Feelings: I am always trying to study and I am neglecting some things in my life. I need to reorganize my daily routine better. 
+Feelings: I am always trying to study and I am neglecting some things in my life. I need to reorganize my daily routine better.
 
 Day 34: January 6, 2020
 
 Today's Progress: I am doing todo app and trying to complete Git course on udacity.
 
-Feelings: I have been so sleepy and stressful today, I slept like 30 minutes; I couldn't focus when I study. I did yoga and some meditation. I will work better tomorrow. 
+Feelings: I have been so sleepy and stressful today, I slept like 30 minutes; I couldn't focus when I study. I did yoga and some meditation. I will work better tomorrow.
 
 Day 35 : January 7, 2020
 
@@ -242,12 +242,18 @@ Feelings: After reading one article, and listening to happiness tips, I am feeli
 
 Day 38: January 10, 2020
 
-Today's Progress: I started with FreeCodeaCamp Es6, I couldn't understand very well from tutoria, I watched youtube videos and supplemented with Linkedin Learning course. I didn't move on so much; because topic are so new. Then I started learning debugging and refactoring the code. I watched some videos about those and practiced with my project. I used plunker, too. 
+Today's Progress: I started with FreeCodeaCamp Es6, I couldn't understand very well from tutoria, I watched youtube videos and supplemented with Linkedin Learning course. I didn't move on so much; because topic are so new. Then I started learning debugging and refactoring the code. I watched some videos about those and practiced with my project. I used plunker, too.
 
 Feelings: It was so good, I managed to do yoga for an hour and meditated half an hour with self-help tips. I need to implement those tips to my life.
 
 Day 39: January 11, 2020
 
-Today's Progress: Today was perfect!I started with the slack channel that I'm signed up for working on a project together. Westarted with git, I was stuck and I couldn't solve the problem, I started to watch udacity course then tried, tried, searhed,read so many things and found my silly mistake. Then, I moved on to freeaCodeCamp to learn deconstructing assignment, also learned from a little Lynda course; but I didn't fullly ubderstand. I need to learn deeper. After that, I did a little Odin Project readings and practices, I really liked, they are so effective and have good repetitions. Then, I moved on to watchandcode; but I decided to learn DOM fully with Odin project and it took me to Traversy Media. I watched one 40 minute video and at the end I learned about workflow tools, extensions, plug-ins and add-ons. Learned more about JavaScript,html and CSS debugging. 
+Today's Progress: Today was perfect!I started with the slack channel that I'm signed up for working on a project together. Westarted with git, I was stuck and I couldn't solve the problem, I started to watch udacity course then tried, tried, searhed,read so many things and found my silly mistake. Then, I moved on to freeaCodeCamp to learn deconstructing assignment, also learned from a little Lynda course; but I didn't fullly ubderstand. I need to learn deeper. After that, I did a little Odin Project readings and practices, I really liked, they are so effective and have good repetitions. Then, I moved on to watchandcode; but I decided to learn DOM fully with Odin project and it took me to Traversy Media. I watched one 40 minute video and at the end I learned about workflow tools, extensions, plug-ins and add-ons. Learned more about JavaScript,html and CSS debugging.
 
 Feelings: I am feling great, I think those positive thinking videos are making me to focus on positive things and keep me positive. I will not make myself upset anymore. It's okay to be slow, I am learning a lot.
+
+Day 40: January 12, 2020
+
+Today's Progress: I started with Udacity course, git and github. I finished the last chapter about how to delete and remove commits. After that, I found some interesting resources, A Smart Way To Learn JS, I did some tests. Then, watched Brad Travery video again. Practiced with HTML5 application development and JavaScript exercises, also finished  Workflow Tools Course on lynda.
+
+Feelings: I had headache and my eyes were sore a little. I think I should rest a little. When I woke up, I felt I didn't rest at all. I started a new book about how to struggle better and try not chase happiness, solve your problems.
