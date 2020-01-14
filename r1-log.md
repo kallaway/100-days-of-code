@@ -257,3 +257,9 @@ Day 40: January 12, 2020
 Today's Progress: I started with Udacity course, git and github. I finished the last chapter about how to delete and remove commits. After that, I found some interesting resources, A Smart Way To Learn JS, I did some tests. Then, watched Brad Travery video again. Practiced with HTML5 application development and JavaScript exercises, also finished  Workflow Tools Course on lynda.
 
 Feelings: I had headache and my eyes were sore a little. I think I should rest a little. When I woke up, I felt I didn't rest at all. I started a new book about how to struggle better and try not chase happiness, solve your problems.
+
+ Day 41: January 13, 2020
+
+ Today's Progress: I read JavaScript book and solved test about HTML, CSS an JavaScript. I felt like I don't know anything. I will revise my learning. I did Pomodoro for the first time. I liked it, it keeps me more organized and focused. I will continue to learn about the concepts more because logic is so important in programming.
+
+ Feelings: I am motivated; but really it's so hard to retain information. I got started Coursera course, I will watch and learn more about learning.
