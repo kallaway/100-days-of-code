@@ -263,3 +263,9 @@ Feelings: I had headache and my eyes were sore a little. I think I should rest a
  Today's Progress: I read JavaScript book and solved test about HTML, CSS an JavaScript. I felt like I don't know anything. I will revise my learning. I did Pomodoro for the first time. I liked it, it keeps me more organized and focused. I will continue to learn about the concepts more because logic is so important in programming.
 
  Feelings: I am motivated; but really it's so hard to retain information. I got started Coursera course, I will watch and learn more about learning.
+
+ Day 42: January 14, 2020
+
+ Today's Progress: Today, I have read and practiced so many things for the exam. I know the concepts like API, WEB Worker, SVG, Canvas, animations with JS. There were so many HTML tags that I didn't know I practiced those.
+
+ Feelings: I want to pass the exam tomorrow; however I am not feeling that everything is on my mind. I just want to certify myself, I know it's not so important but I studied for that already(read books, solved four tests and searched everything), I hope these will be enough.
