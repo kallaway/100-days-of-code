@@ -269,3 +269,14 @@ Feelings: I had headache and my eyes were sore a little. I think I should rest a
  Today's Progress: Today, I have read and practiced so many things for the exam. I know the concepts like API, WEB Worker, SVG, Canvas, animations with JS. There were so many HTML tags that I didn't know I practiced those.
 
  Feelings: I want to pass the exam tomorrow; however I am not feeling that everything is on my mind. I just want to certify myself, I know it's not so important but I studied for that already(read books, solved four tests and searched everything), I hope these will be enough.
+
+ Links:https://codepen.io/hulya95/pen/NWPBddL
+
+ Day 43: January 15, 2020
+
+ Today's Progress: I passed the exam, it was so easier than practice questions. I started my Coursera course, I finished the first week. It was about quick review of HTML and CSS and I built a simple webpage. I read and studied about so many things before exam, I will learn those later in detailed.
+
+ Feelings: I am feeling off track a little bit, but I don't just want to stick  myself to FCC, I want to explore and repeat to remember. I am forgetting still even some basic things and I need to improve my web design skills, I'm not so creative. I am listening to creativity talks to improve my thinking.
+
+ Links:https://www.coursera.org/learn/duke-programming-web/home/welcome
+       https://codepen.io/hulya95/pen/gObjeWo
