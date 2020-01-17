@@ -280,3 +280,13 @@ Feelings: I had headache and my eyes were sore a little. I think I should rest a
 
  Links:https://www.coursera.org/learn/duke-programming-web/home/welcome
        https://codepen.io/hulya95/pen/gObjeWo
+
+Day 44: January 16, 2020
+
+Today's Progress: I went through Green Screen Algoritm and learned about image coding based on pixels. I didn't know that we can use getGreen or setGreen methods. I' m learning diferent things, also I found a similar course in Stanford online. I'm chefcking out that course, too. I did also some SoloLearn and Grasshopper.
+
+Feelings: I felt so sleepy and tired today, I couldn't my eyes open , I took two naps and I got better. 
+
+Links:https://web.stanford.edu/class/cs101/image-2-code.html
+https://web.stanford.edu/class/cs101/lecture01.html#/20
+https://quizlet.com/223620220/java-html-css-week-2-flash-cards/
