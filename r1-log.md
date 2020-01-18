@@ -285,8 +285,18 @@ Day 44: January 16, 2020
 
 Today's Progress: I went through Green Screen Algoritm and learned about image coding based on pixels. I didn't know that we can use getGreen or setGreen methods. I' m learning diferent things, also I found a similar course in Stanford online. I'm chefcking out that course, too. I did also some SoloLearn and Grasshopper.
 
-Feelings: I felt so sleepy and tired today, I couldn't my eyes open , I took two naps and I got better. 
+Feelings: I felt so sleepy and tired today, I couldn't my eyes open , I took two naps and I got better.
 
 Links:https://web.stanford.edu/class/cs101/image-2-code.html
 https://web.stanford.edu/class/cs101/lecture01.html#/20
 https://quizlet.com/223620220/java-html-css-week-2-flash-cards/
+
+Day 45: January 17, 2020
+
+Today's Progress: Today, I went through Stanford Curriculum read about metacognitive learning and how to tackle the courses before starting the course. My day passed with the "do it yourself!" activities, tomorrow I will learn blue/green screen algorithms.
+
+Feelings: Today, I listened to a podcast and I decided to do what it has been told and I just put my timer on for 10 minutes and stayed silent, without thinking anything. I felt relieved, I had headache a little related to my overthinking. I decided that I have so many notes written about self-help or any topic; I am thinking maybe I can put my notes into my website. It is time to prepare my own website.
+
+Links:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+https://lagunita.stanford.edu/courses/OLI/PrinciplesOfComputing/Open/courseware/d1714dd9a6f84dd683be1eb737b6dbfe/80370d8713f74890ab042d48d80df3ed/3?activate_block_id=i4x%3A%2F%2FOLI%2FPrinciplesOfComputing%2Fvertical%2F9c50be3dd4a84b34a5e4f44f21872871
+https://introcomputing.org/
