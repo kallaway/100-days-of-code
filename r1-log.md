@@ -300,3 +300,9 @@ Feelings: Today, I listened to a podcast and I decided to do what it has been to
 Links:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 https://lagunita.stanford.edu/courses/OLI/PrinciplesOfComputing/Open/courseware/d1714dd9a6f84dd683be1eb737b6dbfe/80370d8713f74890ab042d48d80df3ed/3?activate_block_id=i4x%3A%2F%2FOLI%2FPrinciplesOfComputing%2Fvertical%2F9c50be3dd4a84b34a5e4f44f21872871
 https://introcomputing.org/
+
+Day 46: January 18, 2020
+
+Today's Progress: I worked through Coursera and Stanford online course. It took me long time to finish. The assignments were challenging. I don't know why the curriculum is based on image manipulation. I was expecting different. I don't know I will use or not.
+
+Feelings: I'm feeling like I need to know math, but I cannot give my time for that now. It is hard to convert normal words into code. I need deliberate practice and recall. Also, I did my yoga challenge, I couldn't use pomodoro technique so much. I was trying to finish the assignments.
