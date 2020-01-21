@@ -307,7 +307,7 @@ Today's Progress: I worked through Coursera and Stanford online course. It took 
 
 Feelings: I'm feeling like I need to know math, but I cannot give my time for that now. It is hard to convert normal words into code. I need deliberate practice and recall. Also, I did my yoga challenge, I couldn't use pomodoro technique so much. I was trying to finish the assignments.
 
-Day 47: January 19, 223620220
+Day 47: January 19, 2020
 
 Today's Progress: I studied on Coursera, first I wanted to practice yesterday's coding. After that, I did practice on DOM and Canvas; but didn't finish all. Then, I studied on Udacity about DOM and canvas. I want to finish them, too.
 
@@ -316,3 +316,13 @@ Feelings: I've felt tired today, and slow. I hope tomorrow I will do better.
 Links:https://classroom.udacity.com/courses/ud117/lessons/39d760cf-9593-420d-9a97-57bff31e29c1/concepts/c7c27fc1-e611-4b5c-84e3-7d1b0075b45f
 https://developer.mozilla.org/en-US/docs/Web/API/Element
 https://developer.mozilla.org/en-US/docs/Web/API/Node
+
+Day 48: January 20, 2020
+
+Today's Progress: I'm studying with canvas and click events on buttons. Sometimes, my brain gets stuck, I remember then I forget. I need more and more practice; but how will I learn other stuff then??
+
+Feelings: I felt so tired today, I have headache sometimes. I hope it will pass.
+
+Links:https://codepen.io/hulya95/pen/oNgQVRX
+https://codepen.io/hulya95/pen/RwNqdyr
+https://codepen.io/hulya95/pen/MWYzeXq
