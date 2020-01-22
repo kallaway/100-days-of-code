@@ -1,0 +1,65 @@
+using System.CodeDom.Compiler;
+using System.Collections.Generic;
+using System.Collections;
+using System.ComponentModel;
+using System.Diagnostics.CodeAnalysis;
+using System.Globalization;
+using System.IO;
+using System.Linq;
+using System.Reflection;
+using System.Runtime.Serialization;
+using System.Text.RegularExpressions;
+using System.Text;
+using System;
+
+class Solution {
+
+    // Complete the jumpingOnClouds function below.
+    static int jumpingOnClouds(int[] c) {
+       int minNoOfJumps = 0;
+       int arrayLength = c.Length-1;
+       int nextJumpNumber = 0;
+       bool jump = false;
+
+       for (int i = 0 ; i < arrayLength; i++){
+           var precInteger = i+1;
+           var secondPrecInteger = i+2;
+           if (nextJumpNumber == c[i] && jump )
+           {
+               minNoOfJumps ++;
+                jump = false;
+               continue;
+           }
+           if (secondPrecInteger <= arrayLength){
+             if(c[i] == 0 &&  c[precInteger] == 0 && c[secondPrecInteger] == 0){
+               nextJumpNumber = c[precInteger];
+               jump = true;
+               continue;
+               }
+           }
+           if(c[i] == 0 && (c[precInteger] == 1 && c[secondPrecInteger] == 0) ){
+           minNoOfJumps ++;
+           }
+            if(c[i] == 0 && c[precInteger] == 0 ){
+           minNoOfJumps ++;
+            }
+       }
+      
+       return minNoOfJumps;
+    }
+
+    static void Main(string[] args) {
+        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+
+        int n = Convert.ToInt32(Console.ReadLine());
+
+        int[] c = Array.ConvertAll(Console.ReadLine().Split(' '), cTemp => Convert.ToInt32(cTemp))
+        ;
+        int result = jumpingOnClouds(c);
+
+        textWriter.WriteLine(result);
+
+        textWriter.Flush();
+        textWriter.Close();
+    }
+}
