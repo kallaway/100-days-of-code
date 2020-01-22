@@ -326,3 +326,9 @@ Feelings: I felt so tired today, I have headache sometimes. I hope it will pass.
 Links:https://codepen.io/hulya95/pen/oNgQVRX
 https://codepen.io/hulya95/pen/RwNqdyr
 https://codepen.io/hulya95/pen/MWYzeXq
+
+Day 49: January 21, 2020 
+
+Today's Progress: Studied on FreeCodeCamp, debugging and data structures. It was easy; but I have some issues with objects. I need to focus on that. Then, I finished Computer Science Lab: JavaScript on lynda and I studied about DOM on udacity and openclassrooms.
+
+Feelings: In the mornings, I don't have so much energy; I felt empty then, I found one article about kaize, the reason of being. The reason to get out of the bed, I felt I'm not so passionate enough, I mean I feel like I need more resting. I'm studying anyway, just I don't need to start at 8. I am trying to find my kaize.
