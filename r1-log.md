@@ -327,8 +327,14 @@ Links:https://codepen.io/hulya95/pen/oNgQVRX
 https://codepen.io/hulya95/pen/RwNqdyr
 https://codepen.io/hulya95/pen/MWYzeXq
 
-Day 49: January 21, 2020 
+Day 49: January 21, 2020
 
 Today's Progress: Studied on FreeCodeCamp, debugging and data structures. It was easy; but I have some issues with objects. I need to focus on that. Then, I finished Computer Science Lab: JavaScript on lynda and I studied about DOM on udacity and openclassrooms.
 
 Feelings: In the mornings, I don't have so much energy; I felt empty then, I found one article about kaize, the reason of being. The reason to get out of the bed, I felt I'm not so passionate enough, I mean I feel like I need more resting. I'm studying anyway, just I don't need to start at 8. I am trying to find my kaize.
+
+Day 50: January 22, 2020
+
+Today's Progress: I finished regular expressions sections on FCC; but I am feeling I will forget so quickly. It's like all syntax rules, I think I need a cheat sheet for that. Then, I studied on Sololearn, I wanted to finish JS part but ES6 part is harder a little. I will try to finish tomorrow. I learned how to make animations in JS and event propagation.
+
+Feelings: I wanted to have more time to do more stuff; I have a lot to do and I want to build something; but I am not feeling ready. 
