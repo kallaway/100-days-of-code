@@ -337,4 +337,18 @@ Day 50: January 22, 2020
 
 Today's Progress: I finished regular expressions sections on FCC; but I am feeling I will forget so quickly. It's like all syntax rules, I think I need a cheat sheet for that. Then, I studied on Sololearn, I wanted to finish JS part but ES6 part is harder a little. I will try to finish tomorrow. I learned how to make animations in JS and event propagation.
 
-Feelings: I wanted to have more time to do more stuff; I have a lot to do and I want to build something; but I am not feeling ready. 
+Feelings: I wanted to have more time to do more stuff; I have a lot to do and I want to build something; but I am not feeling ready.
+
+Day 51: January 23, 2020
+
+Today's Progress: Today, I finished SoloLearn JavaScript tutorial. Then, I did udacity course of ES6, finished first lesson. Also, did some practice on openclassrooms.
+
+Feelings: I am motivated to learn just sometimes my brain is feeling so fulll; like I'm putting in and in and I'm losing at the end. I don't want this.
+
+Day 52: January 24, 2020
+
+Today's Progress: I completed Coursera course; but I don't know it was useful. Then, I started OOP on FCC; couldn't do much until 30%. Then, I wanted to learn exercism.io; I tried to download, then downloaded; but I don't know how to start solving problems in my editor yet.
+
+FEELINGS:I want to learn useful and practical information from now on. I felt like certificates are not so useful. Really, who cares? I need to learn to build. I don't know the things that I'm giving my time, are not real life examples generally. However, I need to learn to build; I'm so confused. I will just check the courses first; if I'm gonna just watch and listen. I will not start. 
+
+Links:https://coursera.org/share/efea39e2c881ec76f9683d3d64462811
