@@ -349,6 +349,12 @@ Day 52: January 24, 2020
 
 Today's Progress: I completed Coursera course; but I don't know it was useful. Then, I started OOP on FCC; couldn't do much until 30%. Then, I wanted to learn exercism.io; I tried to download, then downloaded; but I don't know how to start solving problems in my editor yet.
 
-FEELINGS:I want to learn useful and practical information from now on. I felt like certificates are not so useful. Really, who cares? I need to learn to build. I don't know the things that I'm giving my time, are not real life examples generally. However, I need to learn to build; I'm so confused. I will just check the courses first; if I'm gonna just watch and listen. I will not start. 
+FEELINGS: I want to learn useful and practical information from now on. I felt like certificates are not so useful. Really, who cares? I need to learn to build. I don't know the things that I'm giving my time, are not real life examples generally. However, I need to learn to build; I'm so confused. I will just check the courses first; if I'm gonna just watch and listen. I will not start.
 
 Links:https://coursera.org/share/efea39e2c881ec76f9683d3d64462811
+
+Day 53: January 25, 2020
+
+Today's Progress: I studied on openclassrooms and FCC- Object Oriented Programming. There was so much information to take in. I need to study more about those. Also registered Microsoft EDX courseand computational thinking and logic.
+
+Feelings: I felt helpless today, I am feeling so unconfident about my skills, and didn't know what to do. Then, I searched about brain capacity and downloaded apps to improve my brain, I really want to change my mind. I am so regretful about those university years that I was stuck on Instagram , I got very dumb; because of that superficial environment and physical superiority was the first priority in my life. I didn't invest enough to improve myself just crammed the books before exams and graduated without giving enough time to implement. I wish I knew the value of time that time, too.
