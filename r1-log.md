@@ -358,3 +358,10 @@ Day 53: January 25, 2020
 Today's Progress: I studied on openclassrooms and FCC- Object Oriented Programming. There was so much information to take in. I need to study more about those. Also registered Microsoft EDX courseand computational thinking and logic.
 
 Feelings: I felt helpless today, I am feeling so unconfident about my skills, and didn't know what to do. Then, I searched about brain capacity and downloaded apps to improve my brain, I really want to change my mind. I am so regretful about those university years that I was stuck on Instagram , I got very dumb; because of that superficial environment and physical superiority was the first priority in my life. I didn't invest enough to improve myself just crammed the books before exams and graduated without giving enough time to implement. I wish I knew the value of time that time, too.
+
+Day 54: January 26, 2020
+
+Today's Progress: Almost finished OpenClassrooms JavaScript course;but I couldn't solve the last project.I searched and I don't know my mistake. I will search tomorrow. Then I studied about classes and objects in next.tech sandbox. It's very good, they are courses that you can interact. After that, I did some flexbox zombies and also styled Google terms and privacy page.Then, I remembered scotch.io and started doing the course because there are so many projects. I am enjoying so far.
+
+Feelings: good, just I don't have enough time to finish everything, I have so much knowledge gap, still. I mean I am forgetting.
+
