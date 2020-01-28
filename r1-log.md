@@ -365,3 +365,10 @@ Today's Progress: Almost finished OpenClassrooms JavaScript course;but I couldn'
 
 Feelings: good, just I don't have enough time to finish everything, I have so much knowledge gap, still. I mean I am forgetting.
 
+Day 55: January 27, 2020
+
+Today's Progress: I continued with scotch.io, I really liked the course. I tried when I first started and I forgot, basics are given very swiftly and going on to projects. I think I wouldn't understand if I first started with this course. Not beginner level, but for me now, it's perfect. Also, finished 3rd section of flexbox zombies. Then, I watched some scrimba projects.
+
+Feelings: I'm feeling good, just again I wanted to do more things, but time passed again so fast. I used timer and used pomodoro; but anyway, today, I also used anki app, to make flashcards. It is a good feeling that I can check the information any time. I think I should do this every time. I watched so many things but all the notes are inside the code files and I will never open them, I should make this habit. I am thinking to look back to old courses that I took and take good notes. My brain is grasping the idea better like this than looking at MDN page for every single thing.
+
+Links:https://scotch.io/courses
