@@ -372,3 +372,7 @@ Today's Progress: I continued with scotch.io, I really liked the course. I tried
 Feelings: I'm feeling good, just again I wanted to do more things, but time passed again so fast. I used timer and used pomodoro; but anyway, today, I also used anki app, to make flashcards. It is a good feeling that I can check the information any time. I think I should do this every time. I watched so many things but all the notes are inside the code files and I will never open them, I should make this habit. I am thinking to look back to old courses that I took and take good notes. My brain is grasping the idea better like this than looking at MDN page for every single thing.
 
 Links:https://scotch.io/courses
+
+Day 56: I finished the Stopwatch project; but couldn't practice much. And, watched and finished first section of Microsoft Edx course. Played a little Flexbox Zombies; but I don't know I feel like it's not exactly teaching. Instructions are so ambiguous and learned about Emmet package. Also I'm reviewing lynda course JavaScript Essential Training, I still couldn't finish. It seemed not so beginner level and not so explanatory when I first started, now I am reviewing and want to finish immediately.
+
+Feelings: I couldn't study well and felt sleepy after coming home. But I studied anyway, it's a good day.
