@@ -376,3 +376,7 @@ Links:https://scotch.io/courses
 Day 56: I finished the Stopwatch project; but couldn't practice much. And, watched and finished first section of Microsoft Edx course. Played a little Flexbox Zombies; but I don't know I feel like it's not exactly teaching. Instructions are so ambiguous and learned about Emmet package. Also I'm reviewing lynda course JavaScript Essential Training, I still couldn't finish. It seemed not so beginner level and not so explanatory when I first started, now I am reviewing and want to finish immediately.
 
 Feelings: I couldn't study well and felt sleepy after coming home. But I studied anyway, it's a good day.
+
+Day 57:Today, I took MTA javaScript exam, and did JavaScript course about Dom, I'm still not so comfortable about DOM, I couldn't finish the course yet. I will continue with the project tomorrow.
+
+Feelings: The exam was harder than I expected, I thought I will fail. To my surprise, I passed with 85 points. I finished until the time ends, and I didn't have any chance to review and I didn't think so much about the answers. I am so relieved that I won't need to take again. I want to take this kind of exam because I am seeing at least I am learning something useful and I fully understood everything. It's not about some career plan, I just want to see myself.
