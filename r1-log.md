@@ -377,6 +377,10 @@ Day 56: I finished the Stopwatch project; but couldn't practice much. And, watch
 
 Feelings: I couldn't study well and felt sleepy after coming home. But I studied anyway, it's a good day.
 
-Day 57:Today, I took MTA javaScript exam, and did JavaScript course about Dom, I'm still not so comfortable about DOM, I couldn't finish the course yet. I will continue with the project tomorrow.
+Day 57: Today, I took MTA javaScript exam, and did JavaScript course about Dom, I'm still not so comfortable about DOM, I couldn't finish the course yet. I will continue with the project tomorrow.
 
 Feelings: The exam was harder than I expected, I thought I will fail. To my surprise, I passed with 85 points. I finished until the time ends, and I didn't have any chance to review and I didn't think so much about the answers. I am so relieved that I won't need to take again. I want to take this kind of exam because I am seeing at least I am learning something useful and I fully understood everything. It's not about some career plan, I just want to see myself.
+
+Day 58: I continued with Lynda course, learned more about Dom and how to use Dom in the project, calculations about time was hard. I didn't understand very well. It isn't explained, then I learned how to calculate prime numbers and how to break and continue to code. I need to repeat these projects.
+
+Feelings: I didn't sleep early on time yesterday and I felt so tired and sleepy while studying. That's why I decided not to look at phone before sleep. I was doing some Spanish practice, but it wasn't a good idea at that time. I want to move forward from JavaScript but I still didn't finish yet. I need to finish FreeCodeCamp, Lynda, and OpenClassrooms. I forgot about my Coursera, Edx, Stanford and Harvard courses. I don't know how to move on.  
