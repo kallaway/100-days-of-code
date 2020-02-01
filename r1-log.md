@@ -383,4 +383,8 @@ Feelings: The exam was harder than I expected, I thought I will fail. To my surp
 
 Day 58: I continued with Lynda course, learned more about Dom and how to use Dom in the project, calculations about time was hard. I didn't understand very well. It isn't explained, then I learned how to calculate prime numbers and how to break and continue to code. I need to repeat these projects.
 
-Feelings: I didn't sleep early on time yesterday and I felt so tired and sleepy while studying. That's why I decided not to look at phone before sleep. I was doing some Spanish practice, but it wasn't a good idea at that time. I want to move forward from JavaScript but I still didn't finish yet. I need to finish FreeCodeCamp, Lynda, and OpenClassrooms. I forgot about my Coursera, Edx, Stanford and Harvard courses. I don't know how to move on.  
+Feelings: I didn't sleep early on time yesterday and I felt so tired and sleepy while studying. That's why I decided not to look at phone before sleep. I was doing some Spanish practice, but it wasn't a good idea at that time. I want to move forward from JavaScript but I still didn't finish yet. I need to finish FreeCodeCamp, Lynda, and OpenClassrooms. I forgot about my Coursera, Edx, Stanford and Harvard courses. I don't know how to move on.
+
+Day 58: I finished my Lynda course, last part was about how to add automated responsive images markup to javascript with loops. And learned about srcset and sizes attributes for images. Then, went back to Coursera course, I learned about steganography, how to clear pixels and how to hide pixels in another picture using binary. Then, I found about Brilliant app, learned how to think about algorithms.
+
+Feelings: I felt sleepy again and distracted, I couldn't focus today, and searched about memory and brain, how to remember things easily as such. Then watched some informational videos and did brain exercises. My eyes are so tired today, heavy and gets worse when I look at the screen.
