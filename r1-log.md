@@ -373,18 +373,35 @@ Feelings: I'm feeling good, just again I wanted to do more things, but time pass
 
 Links:https://scotch.io/courses
 
-Day 56: I finished the Stopwatch project; but couldn't practice much. And, watched and finished first section of Microsoft Edx course. Played a little Flexbox Zombies; but I don't know I feel like it's not exactly teaching. Instructions are so ambiguous and learned about Emmet package. Also I'm reviewing lynda course JavaScript Essential Training, I still couldn't finish. It seemed not so beginner level and not so explanatory when I first started, now I am reviewing and want to finish immediately.
+Day 56:  January 28, 2020
+
+Today's Progress: I finished the Stopwatch project; but couldn't practice much. And, watched and finished first section of Microsoft Edx course. Played a little Flexbox Zombies; but I don't know I feel like it's not exactly teaching. Instructions are so ambiguous and learned about Emmet package. Also I'm reviewing lynda course JavaScript Essential Training, I still couldn't finish. It seemed not so beginner level and not so explanatory when I first started, now I am reviewing and want to finish immediately.
 
 Feelings: I couldn't study well and felt sleepy after coming home. But I studied anyway, it's a good day.
 
-Day 57: Today, I took MTA javaScript exam, and did JavaScript course about Dom, I'm still not so comfortable about DOM, I couldn't finish the course yet. I will continue with the project tomorrow.
+Day 57: January 29, 2020
+
+Today's Progress:Today, I took MTA javaScript exam, and did JavaScript course about Dom, I'm still not so comfortable about DOM, I couldn't finish the course yet. I will continue with the project tomorrow.
 
 Feelings: The exam was harder than I expected, I thought I will fail. To my surprise, I passed with 85 points. I finished until the time ends, and I didn't have any chance to review and I didn't think so much about the answers. I am so relieved that I won't need to take again. I want to take this kind of exam because I am seeing at least I am learning something useful and I fully understood everything. It's not about some career plan, I just want to see myself.
 
-Day 58: I continued with Lynda course, learned more about Dom and how to use Dom in the project, calculations about time was hard. I didn't understand very well. It isn't explained, then I learned how to calculate prime numbers and how to break and continue to code. I need to repeat these projects.
+Day 58: January 30, 2020
+
+Today's Progress: I continued with Lynda course, learned more about Dom and how to use Dom in the project, calculations about time was hard. I didn't understand very well. It isn't explained, then I learned how to calculate prime numbers and how to break and continue to code. I need to repeat these projects.
 
 Feelings: I didn't sleep early on time yesterday and I felt so tired and sleepy while studying. That's why I decided not to look at phone before sleep. I was doing some Spanish practice, but it wasn't a good idea at that time. I want to move forward from JavaScript but I still didn't finish yet. I need to finish FreeCodeCamp, Lynda, and OpenClassrooms. I forgot about my Coursera, Edx, Stanford and Harvard courses. I don't know how to move on.
 
-Day 58: I finished my Lynda course, last part was about how to add automated responsive images markup to javascript with loops. And learned about srcset and sizes attributes for images. Then, went back to Coursera course, I learned about steganography, how to clear pixels and how to hide pixels in another picture using binary. Then, I found about Brilliant app, learned how to think about algorithms.
+Day 59: January 31, 2020
+
+Today's Progress: I finished my Lynda course, last part was about how to add automated responsive images markup to javascript with loops. And learned about srcset and sizes attributes for images. Then, went back to Coursera course, I learned about steganography, how to clear pixels and how to hide pixels in another picture using binary. Then, I found about Brilliant app, learned how to think about algorithms.
 
 Feelings: I felt sleepy again and distracted, I couldn't focus today, and searched about memory and brain, how to remember things easily as such. Then watched some informational videos and did brain exercises. My eyes are so tired today, heavy and gets worse when I look at the screen.
+
+Day 60: February 1, 2020
+
+Progress: Today, I started with Coursera to review everything and created github repo for that. It took me so long and wanted to switch to sth else. Then, I searched about Software Development Fundamentals, then watched for more than 2 hours on Microsoft EDX. First time, I felt like recursion is not so hard. But the language was C#, then I moved on to lynda's algorithm course, that is covering python examples.I think I can follow the courses. Also, I started to learn Bootstrap on OpenClassrooms a little.
+
+Feelings: wow, 1 month finished already, time is really really passing; but at least I gave effort and I am highly motivated to learn more. Just, practice practice practice. I am also following "Learn How To Learn" course, I listened to one math professor and he is also telling, he is taking breaks and he is also practicing to get better at it. Also, learned about one Iranian mathematician and I searched about here, I felt so sorry that she passed away because of beast cancer at 40 years old, in wikipedia, it's written about her that she was slow to learn; but she was so deterministic and always asking questions to teachers and she was taking her notes in Persian and later in her life she won a Nobel prize. This is an amazing story and motivator for me. I used my to-do list today decisively by checking everytime, to cross out the things that I did. It's really a good technique. I learned from the course that if you don't write it down your todos, you will use up your mental space in your brain. To keep your brain calm and happy, make a to-do list and eat your frogs early in the morning.(start with the hard stuff)
+
+Links:https://github.com/hulya95/duke-learn-to-code
+https://www.lynda.com/Software-Development-tutorials/Common-algorithms-programming/718636/5001512-4.html
