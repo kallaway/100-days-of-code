@@ -399,9 +399,15 @@ Feelings: I felt sleepy again and distracted, I couldn't focus today, and search
 
 Day 60: February 1, 2020
 
-Progress: Today, I started with Coursera to review everything and created github repo for that. It took me so long and wanted to switch to sth else. Then, I searched about Software Development Fundamentals, then watched for more than 2 hours on Microsoft EDX. First time, I felt like recursion is not so hard. But the language was C#, then I moved on to lynda's algorithm course, that is covering python examples.I think I can follow the courses. Also, I started to learn Bootstrap on OpenClassrooms a little.
+Today's Progress: Today, I started with Coursera to review everything and created github repo for that. It took me so long and wanted to switch to sth else. Then, I searched about Software Development Fundamentals, then watched for more than 2 hours on Microsoft EDX. First time, I felt like recursion is not so hard. But the language was C#, then I moved on to lynda's algorithm course, that is covering python examples.I think I can follow the courses. Also, I started to learn Bootstrap on OpenClassrooms a little.
 
 Feelings: wow, 1 month finished already, time is really really passing; but at least I gave effort and I am highly motivated to learn more. Just, practice practice practice. I am also following "Learn How To Learn" course, I listened to one math professor and he is also telling, he is taking breaks and he is also practicing to get better at it. Also, learned about one Iranian mathematician and I searched about here, I felt so sorry that she passed away because of beast cancer at 40 years old, in wikipedia, it's written about her that she was slow to learn; but she was so deterministic and always asking questions to teachers and she was taking her notes in Persian and later in her life she won a Nobel prize. This is an amazing story and motivator for me. I used my to-do list today decisively by checking everytime, to cross out the things that I did. It's really a good technique. I learned from the course that if you don't write it down your todos, you will use up your mental space in your brain. To keep your brain calm and happy, make a to-do list and eat your frogs early in the morning.(start with the hard stuff)
 
 Links:https://github.com/hulya95/duke-learn-to-code
 https://www.lynda.com/Software-Development-tutorials/Common-algorithms-programming/718636/5001512-4.html
+
+Day 61: February 2, 2020
+
+Today's Progress: I started with algorithms in JS on Scotch; but couldn't do much. Because I don't remember set or map. Then I switched to OpenClassrooms project about a book-tracking-app. I texted to Ro(I don't know her name) on Twitter, then she told me to change && to || but it didn't work in my computer. She said it worked in hers. I deployed the project on github. Then, I deployed some of the Duke's course's to github. Then, I studied a little algorithms on Python. And learned a little bit about O-Notation. I need to search more about that, and learned Euclid's problem in python.After that, I noticed I don't know the syntax of MarkDown and searched and continue watching about that.
+
+Feelings: I am grappling with the deluge of information about so many thing: Python, JavaScript, ES6, C#, algorithms, data structures, markdown,...I don't know how to organize myself. I need to find a way. 
