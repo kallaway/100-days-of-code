@@ -397,7 +397,7 @@ Today's Progress: I finished my Lynda course, last part was about how to add aut
 
 Feelings: I felt sleepy again and distracted, I couldn't focus today, and searched about memory and brain, how to remember things easily as such. Then watched some informational videos and did brain exercises. My eyes are so tired today, heavy and gets worse when I look at the screen.
 
-Day 60: February 1, 2020
+Day 60: February 01, 2020
 
 Today's Progress: Today, I started with Coursera to review everything and created github repo for that. It took me so long and wanted to switch to sth else. Then, I searched about Software Development Fundamentals, then watched for more than 2 hours on Microsoft EDX. First time, I felt like recursion is not so hard. But the language was C#, then I moved on to lynda's algorithm course, that is covering python examples.I think I can follow the courses. Also, I started to learn Bootstrap on OpenClassrooms a little.
 
@@ -406,8 +406,14 @@ Feelings: wow, 1 month finished already, time is really really passing; but at l
 Links:https://github.com/hulya95/duke-learn-to-code
 https://www.lynda.com/Software-Development-tutorials/Common-algorithms-programming/718636/5001512-4.html
 
-Day 61: February 2, 2020
+Day 61: February 02, 2020
 
-Today's Progress: I started with algorithms in JS on Scotch; but couldn't do much. Because I don't remember set or map. Then I switched to OpenClassrooms project about a book-tracking-app. I texted to Ro(I don't know her name) on Twitter, then she told me to change && to || but it didn't work in my computer. She said it worked in hers. I deployed the project on github. Then, I deployed some of the Duke's course's to github. Then, I studied a little algorithms on Python. And learned a little bit about O-Notation. I need to search more about that, and learned Euclid's problem in python.After that, I noticed I don't know the syntax of MarkDown and searched and continue watching about that.
+Today's Progress: I started with algorithms in JS on Scotch; but couldn't do much. Because I don't remember set or map. Then I switched to OpenClassrooms project about a book-tracking-app. I texted to Ro(I don't know her name) on Twitter, then she told me to change && to || but it didn't work in my computer. She said it worked in her computer. I deployed the project on github. Then, I deployed some of the Duke's course's to github. Then, I studied a little algorithms on Python. And learned a little bit about O-Notation. I need to search more about that, and learned Euclid's problem in python. After that, I noticed I don't know the syntax of MarkDown and searched and continue watching about that.
 
-Feelings: I am grappling with the deluge of information about so many thing: Python, JavaScript, ES6, C#, algorithms, data structures, markdown,...I don't know how to organize myself. I need to find a way. 
+Feelings: I am grappling with the deluge of information about so many thing: Python, JavaScript, ES6, C#, algorithms, data structures, markdown,...I don't know how to organize myself. I need to find a way.
+
+Day 62: February 03, 2020
+
+Today's Progress: Today, I studied on Microsoft topics, about classes in c#, how to use encapsulation, polymorphism and inheritance in code. Then; learned about Web Apps, and Web Services. ASP.NET, hosting websites and Desktop apps like GUIs.I didn't learn much, it was an overview.
+
+Feelings: I wanted to complete the "Learn How To Learn " course in Coursera. I couldn't start the Honor project yet. But I got my certificate. I liked the course a lot, it gave me so many ideas and techniques that I have been doing wrong all the time. I am using Pomodoro technique and To-do list, and try to refresh my mind always and doing exercise everyday, generally yoga and hiit workout.
