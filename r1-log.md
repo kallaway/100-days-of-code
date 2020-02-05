@@ -417,3 +417,10 @@ Day 62: February 03, 2020
 Today's Progress: Today, I studied on Microsoft topics, about classes in c#, how to use encapsulation, polymorphism and inheritance in code. Then; learned about Web Apps, and Web Services. ASP.NET, hosting websites and Desktop apps like GUIs.I didn't learn much, it was an overview.
 
 Feelings: I wanted to complete the "Learn How To Learn " course in Coursera. I couldn't start the Honor project yet. But I got my certificate. I liked the course a lot, it gave me so many ideas and techniques that I have been doing wrong all the time. I am using Pomodoro technique and To-do list, and try to refresh my mind always and doing exercise everyday, generally yoga and hiit workout.
+
+Day 63: February 04, 2020
+
+Today's Progress: Finished Microsoft course and also started watching lynda course about Database Foundations: Core Concepts. Also, took a test about object oriented programming and databases. Learned about databases, SQL, Microsoft SQL, Database Management System (DMS),Flat file databases, hierarchical databases, relational databases, sql server management and much more..
+And, I reviewed my code about green screen algorithm.
+
+Feelings: Feeling headache and a little confused about what to study, I think I need to learn algorithms and related javascript, but I want to take software development fundamentals certicate, too. Already finished some parts; but I checked out the book and it's covering a lot. Lynda has courses ; but they are explained in python not C#. I don't know how I can study both JavaScript, C# and SQL.
