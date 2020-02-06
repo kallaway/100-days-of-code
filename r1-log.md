@@ -424,3 +424,10 @@ Today's Progress: Finished Microsoft course and also started watching lynda cour
 And, I reviewed my code about green screen algorithm.
 
 Feelings: Feeling headache and a little confused about what to study, I think I need to learn algorithms and related javascript, but I want to take software development fundamentals certicate, too. Already finished some parts; but I checked out the book and it's covering a lot. Lynda has courses ; but they are explained in python not C#. I don't know how I can study both JavaScript, C# and SQL.
+
+Day 64: February 05, 2020
+
+Today's Progress: First, I tried to decode the steganography quiz questions and solved them and upgraded certificate to honors.
+Watched videos about object oriented design in general and in python. Started doing algorithm challenges and spent time watching data structures course in general. I was trying to finish more; but time passed quickly.
+
+Feelings: I am feeling good, just when I see people's project I get jealous, then I try to say to myself that my focus is not designing a page right now, keep going. I am studying different things and everyone has different goals. If I turn my attention into those things, I will not feel that I am doing what I need to do. This is my motivation and reality.
