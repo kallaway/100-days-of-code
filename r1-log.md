@@ -431,3 +431,9 @@ Today's Progress: First, I tried to decode the steganography quiz questions and 
 Watched videos about object oriented design in general and in python. Started doing algorithm challenges and spent time watching data structures course in general. I was trying to finish more; but time passed quickly.
 
 Feelings: I am feeling good, just when I see people's project I get jealous, then I try to say to myself that my focus is not designing a page right now, keep going. I am studying different things and everyone has different goals. If I turn my attention into those things, I will not feel that I am doing what I need to do. This is my motivation and reality.
+
+Day 65: February 06, 2020
+
+Today's Progress: I started with data structures, learned about jagged arrays and linked lists and used jdoodle.com, after that I watched a little SQL Express videos; because my computer couldn't download; I lost so much time and I also downloaded Visual Studio, both of them made the computer so slow and I decided to check CodeAcademy and I really liked their C# course. I will continue with that.
+
+Feelings: I am good, just I am feeling I am mixing up; but I checked out reports related with SQL and C# and they are very important. I will try to continue with JavaScript and libraries later.
