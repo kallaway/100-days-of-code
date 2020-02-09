@@ -438,8 +438,14 @@ Today's Progress: I started with data structures, learned about jagged arrays an
 
 Feelings: I am good, just I am feeling I am mixing up; but I checked out reports related with SQL and C# and they are very important. I will try to continue with JavaScript and libraries later.
 
-Day 66: February 07, 2020 
+Day 66: February 07, 2020
 
-Today's Progress: I found out that PluralSight is giving free weekend this weekend and I signed up. I studied about C# Fundamentals, learned about loops and lists in C#, also tried to download projects; but my computer was so slow. I will try tomorrow again. Read some chapters from the book, too. Also, I watched JavaScript objects and prototypes course, just one module left. 
+Today's Progress: I found out that PluralSight is giving free weekend this weekend and I signed up. I studied about C# Fundamentals, learned about loops and lists in C#, also tried to download projects; but my computer was so slow. I will try tomorrow again. Read some chapters from the book, too. Also, I watched JavaScript objects and prototypes course, just one module left.
 
 Feelings: Feeling good, I have been reading " 7 Habits of Highly Effective People", it doesn't say something new; but it gave me a chance to look at myself again. You are the choices you make or don't make. No one can hurt you if you don't want to. It's my choice what I will be in the future, and I don't need to worry about other people's choices. Everyone has their own life, just do what you want to be.
+
+Day 67: February 08, 2020
+
+Today's Progress: I started with SQL interactive course; I learned so many new codes for SQL. Then, I watched some CSS positioning course. I really liked PluralSight. Then, did one project about average calculator app. It was short; but I need to use ES6 more. Also, did some short javascript interactive courses and learned error handling in c#.
+
+Feelings: I am feeling motivated; but I wish I could also live my life a little. I am not even going outside. I hope it will not be always like this.
