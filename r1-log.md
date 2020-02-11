@@ -13,3 +13,9 @@ Started learning Python from Lambda School's Training Kit's 'Intro to Python' an
 Today's Progress: Continued to work on Lamdba Schoo's Training Kit's 'Intro to Python'. Learning to creat new functions, boolean expressions, logical operators, etc. and doing exercises in the Training kit.
 
 Thoughts: Enjoying learning Python.
+
+### R1D2 Day 2: February 9, 2020. Sunday
+
+Today's Progress: Still working on Lamdba Schoo's Training Kit's 'Intro to Python'. Learning Sets, Lists, Dictionaries and Tuples. Also doing the exercises/challenges in the training kit.
+
+Thoughts: LS TK is very through.
