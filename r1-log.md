@@ -14,8 +14,14 @@ Today's Progress: Continued to work on Lamdba Schoo's Training Kit's 'Intro to P
 
 Thoughts: Enjoying learning Python.
 
-### R1D2 Day 2: February 9, 2020. Sunday
+### R1D2 Day 3: February 10, 2020. Monday
 
 Today's Progress: Still working on Lamdba Schoo's Training Kit's 'Intro to Python'. Learning Sets, Lists, Dictionaries and Tuples. Also doing the exercises/challenges in the training kit.
 
 Thoughts: LS TK is very through.
+
+### R1D2 Day 4: February 11, 2020. Tuesday
+
+Today's Progress: Lambda School Intro to Python-I lecture today, and working working on a Python class project.
+
+Thoughts: Python is turing out to be great. Really enjoying the syntax and how it works.
