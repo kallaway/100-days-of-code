@@ -454,4 +454,17 @@ Day 68: February 09, 2020
 
 Today's Progress: Continued PluralSight Courses, finished ES6 course, it was good; but I need to look back to slides and take its course. Then, watched and coded along in C# project. Learned about fields and states. I learned about constructors in C# and learned that classes especially constructors are used to make the code to encapsulate. Also, started landing project; but I didn't complete.
 
-Feelings: I am so motivated because of PluralSight free weekend courses. I tried to absotb every course I could take and I checked my settings to see the expiration day. It gave me 2 more days. I'm stoked, I want to see other courses, tooo.
+Feelings: I am so motivated because of PluralSight free weekend courses. I tried to absotb every course I could take and I checked my settings to see the expiration day. It gave me 2 more days. I'm stoked, I want to see other courses, too.
+
+Day 69: February 10, 2020
+
+Today's Progress: I spent time with my boyfriend today, studied a little C# and finished C# variables interactive course.
+
+Feelings: I felt so relaxed and I recharged myself. 
+
+Day 70: February 11, 2020
+
+Today's Progress: Started JavaScript course about web design form control. Then, watched algorithms course on Frontend Masters and watched youtube video about O notation. Then, started SQL course on dataquest.io, I finished the first part. Then, started C# course on OpenClassrooms, learned about lists, arrays and data types.
+
+Feelings: I want to do more things still and going back to CSS and make better designed websites. I felt like I am still not sure about how  to use JS. I reviwed some codes and I will continue to review.
+
