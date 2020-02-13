@@ -468,3 +468,8 @@ Today's Progress: Started JavaScript course about web design form control. Then,
 
 Feelings: I want to do more things still and going back to CSS and make better designed websites. I felt like I am still not sure about how  to use JS. I reviwed some codes and I will continue to review.
 
+Day 71: February 12, 2020 
+
+Today's Progress: Today, I couldn't study like how I wanted. I came home a little late and studied JS one hour with web design in HTML forms, then I finished 2nd section in SQL course. Learned about summary statistics and aggregating functions. Also, how to find unique values with distinct keyword. Then, studied C# a little on lynda, learned about string formatting and stringBuilders.Also, tried to study on SoloLearn and watched algorithm video on Youtube, it was related to Java. 
+
+Feelings: I am feeling c# and Java are so similar to each other. I will learn that, too. After I get used to C# and I will continuously learn JavaScript and CSS. 
