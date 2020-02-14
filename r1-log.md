@@ -450,7 +450,7 @@ Today's Progress: I started with SQL interactive course; I learned so many new c
 
 Feelings: I am feeling motivated; but I wish I could also live my life a little. I am not even going outside. I hope it will not be always like this.
 
-Day 68: February 09, 2020 
+Day 68: February 09, 2020
 
 Today's Progress: Continued PluralSight Courses, finished ES6 course, it was good; but I need to look back to slides and take its course. Then, watched and coded along in C# project. Learned about fields and states. I learned about constructors in C# and learned that classes especially constructors are used to make the code to encapsulate. Also, started landing project; but I didn't complete.
 
@@ -460,16 +460,26 @@ Day 69: February 10, 2020
 
 Today's Progress: I spent time with my boyfriend today, studied a little C# and finished C# variables interactive course.
 
-Feelings: I felt so relaxed and I recharged myself. 
+Feelings: I felt so relaxed and I recharged myself.
 
 Day 70: February 11, 2020
 
 Today's Progress: Started JavaScript course about web design form control. Then, watched algorithms course on Frontend Masters and watched youtube video about O notation. Then, started SQL course on dataquest.io, I finished the first part. Then, started C# course on OpenClassrooms, learned about lists, arrays and data types.
 
-Feelings: I want to do more things still and going back to CSS and make better designed websites. I felt like I am still not sure about how  to use JS. I reviwed some codes and I will continue to review.
+Feelings: I want to do more things still and going back to CSS and make better designed websites. I felt like I am still not sure about how  to use JS. I reviewed some codes and I will continue to review.
 
-Day 71: February 12, 2020 
+Day 71: February 12, 2020
 
-Today's Progress: Today, I couldn't study like how I wanted. I came home a little late and studied JS one hour with web design in HTML forms, then I finished 2nd section in SQL course. Learned about summary statistics and aggregating functions. Also, how to find unique values with distinct keyword. Then, studied C# a little on lynda, learned about string formatting and stringBuilders.Also, tried to study on SoloLearn and watched algorithm video on Youtube, it was related to Java. 
+Today's Progress: Today, I couldn't study like how I wanted. I came home a little late and studied JS one hour with web design in HTML forms, then I finished 2nd section in SQL course. Learned about summary statistics and aggregating functions. Also, how to find unique values with distinct keyword. Then, studied C# a little on lynda, learned about string formatting and stringBuilders. Also, tried to study on SoloLearn and watched algorithm video on Youtube, it was related to Java.
 
-Feelings: I am feeling c# and Java are so similar to each other. I will learn that, too. After I get used to C# and I will continuously learn JavaScript and CSS. 
+Feelings: I am feeling c# and Java are so similar to each other. I will learn that, too. After I get used to C# and I will continuously learn JavaScript and CSS.
+
+Day 72: February 13, 2020
+
+Today's Progress: I started with Database Fundamentals course, at last my computer opened the sql management system. I was getting error because I downloaded the older version. I deleted, again tried and waited. Finished one chapter.
+Second, I passed to DataQuest course, finished 3rd chapter about group summary statistics. Learned about HAVING and ROUND.
+Thirdly, I did my JavaScript shopping cart project. I finished, it is not so hard; just need to be careful, because of little mistakes my code didn't work sometimes.
+Then, I passed to my C# course, finished syntax, practiced Math static method, DateTime object, and encapsulation with access identifiers and backing variable.
+Also, I purchased Udemy course, JavaScript BootCamp course from Colt Steele. I really got interested in Udemy, today. I checked course contents and I felt like I am missing amazing courses. I finished 2 sections. It is starting from scratch; but going so deep with projects. I hope I will like it.
+
+Feelings: Today, I was in the flow, I was so motivated and always switched between learning different stuff. I woke up at 7.30 and started coding! Wow, today I am feeling so awesome! I hope it will last. I can still continue; but I am feeling my brain is a little full and heavy now. I will stop.      
