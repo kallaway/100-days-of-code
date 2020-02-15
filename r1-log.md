@@ -483,3 +483,9 @@ Then, I passed to my C# course, finished syntax, practiced Math static method, D
 Also, I purchased Udemy course, JavaScript BootCamp course from Colt Steele. I really got interested in Udemy, today. I checked course contents and I felt like I am missing amazing courses. I finished 2 sections. It is starting from scratch; but going so deep with projects. I hope I will like it.
 
 Feelings: Today, I was in the flow, I was so motivated and always switched between learning different stuff. I woke up at 7.30 and started coding! Wow, today I am feeling so awesome! I hope it will last. I can still continue; but I am feeling my brain is a little full and heavy now. I will stop.      
+
+Day 73: February 14, 2020
+
+Today's Progress: I started with SQL course, finished another chapter. Learned about altering the table, and did a little DataQuest course, I couldn't finish because it seemed hard a little. Then I finished clock project from course. Did some courses from Udemy about JS. Then, started doing C# course and read about Application Management Lifecycle and Databases.
+
+Feelings: I felt today so nervous, like I need to go back and review everything that I learned already. I need to go back to CSS especially, I am not so good at design. I am trying to study but I am studying for exam and doing Udemy course, too. I want to review everything, I hope I can do it! Soon!
