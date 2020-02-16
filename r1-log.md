@@ -489,3 +489,9 @@ Day 73: February 14, 2020
 Today's Progress: I started with SQL course, finished another chapter. Learned about altering the table, and did a little DataQuest course, I couldn't finish because it seemed hard a little. Then I finished clock project from course. Did some courses from Udemy about JS. Then, started doing C# course and read about Application Management Lifecycle and Databases.
 
 Feelings: I felt today so nervous, like I need to go back and review everything that I learned already. I need to go back to CSS especially, I am not so good at design. I am trying to study but I am studying for exam and doing Udemy course, too. I want to review everything, I hope I can do it! Soon!
+
+Day 74: February 15, 2020
+
+Today's Progress: Started by reading book about software development, C# and algorithms.(bubble sort and quick sort)Then I finished JavaScript course and learned how to use Google Map API in projects. It is like copy-paste, but hard to know where to find what you are looking for. Then, finished Database Fundamentals: Core Concepts course, learned about how to use wild cards, use constraints and schemas.
+
+Feelings: I felt so tired today, but managed to finish the courses.  
