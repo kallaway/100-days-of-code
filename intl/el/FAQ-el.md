@@ -2,7 +2,7 @@
   **Q:** Πώς επικοινωνώ με τους υπόλοιπους ανθρώπους που κάνουν αυτή την πρόκληση;  
   **A:** Ο καλύτερος τρόπος να συνδεθείς με την κοινότητα είναι να χρησιμοποιήσεις την λίστα των πόρων που είναι διαθέσιμη στην επίσημη ιστοσελίδα του 100DaysOfCode:
   www.100DaysOfCode.com/connect
-  Επίσης, εδώ μπορείς να βρεις [ένα σύνδεσμο-πρόσκληση για το κανάλι Slack του 100DaysOfCode](https://join.slack.com/t/100xcode/shared_invite/enQtNzQwMzIwMzQxODc5LWQwMjU5Mjg0N2ZiMzIzYzJiZmE0YjNiYTBiZDBjNjlkNjBmMTYxNDBmNmE2YmE2YzY4NTgzY2Y5NDQxNWY5ZDM).
+  Επίσης, εδώ μπορείς να βρεις [ένα σύνδεσμο-πρόσκληση για το κανάλι Slack του 100DaysOfCode](https://100xcode.slack.com/join/shared_invite/enQtOTE0NjE3Nzc3ODg4LTY0NDliODc5YWYyODc1OWVmNTllYWRhMDZmMTQwMmI3MTY0N2UxYWQwYjRiMjEzZTI0ZTIzYTdkNWY4MWM5MzE).
 
   Ψάξε το 100DaysOfCode στο Twitter, ή μπες στο [Gitter room του 100DaysOfCode](https://gitter.im/Kallaway/100DaysOfCode) - δεν χρειάζεσαι πρόσκληση, είναι ανοιχτό σε όλο τον κόσμο. Επίσης, ακολούθησε το [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) στο Twitter για να μείνεις σε επαφή με την κοινότητα.
 

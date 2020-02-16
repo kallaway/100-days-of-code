@@ -20,7 +20,7 @@ Note: Якщо ви бажаєте допомогти більшій кільк�
 (http://100daysofcode.com/).
 Також, знайдіть друзів і однодумців на будь якій іншій платформі зі [списку](http://www.100DaysOfCode.com/connect). 
 Також, ось [посилання із запрошенням]
-(https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) 
+(https://100xcode.slack.com/join/shared_invite/enQtOTE0NjE3Nzc3ODg4LTY0NDliODc5YWYyODc1OWVmNTllYWRhMDZmMTQwMmI3MTY0N2UxYWQwYjRiMjEzZTI0ZTIzYTdkNWY4MWM5MzE) 
 на офіційну Slack спільноту #100DaysOfCode.
 
 1. Прочитайте статтю, з якої все почалося. Вона на англійській, але, вона коротка та, в основному, написана простими реченнями: [Приєднуйся до #100DaysOfCode]
