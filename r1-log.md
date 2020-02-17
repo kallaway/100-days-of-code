@@ -495,3 +495,9 @@ Day 74: February 15, 2020
 Today's Progress: Started by reading book about software development, C# and algorithms.(bubble sort and quick sort)Then I finished JavaScript course and learned how to use Google Map API in projects. It is like copy-paste, but hard to know where to find what you are looking for. Then, finished Database Fundamentals: Core Concepts course, learned about how to use wild cards, use constraints and schemas.
 
 Feelings: I felt so tired today, but managed to finish the courses.  
+
+Day 75: February 16, 2020
+
+Today's Progress: Started with Udemy course, finished one section about if-logical Statements. Then, read about values vs references and memory allocation, structs, delegates, events, auto-implemented properties, and static members. But it wasn't so detailed. Then, finished C# Syntax-OOP course on lynda. Tried to use WindowsForm Application; but tools didn't work. I searched I uninstalled and installed Tools again; but didn't work again. Learned so many things about how to use inheritance and virtual methods. Utility classes, abstract methods, many more. I need to look back again.
+
+Feelings: I felt so tired after working out. Slept and studied after again. I was planning more; but I am feeling I need to go back and check more before moving on. 
