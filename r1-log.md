@@ -501,3 +501,9 @@ Day 75: February 16, 2020
 Today's Progress: Started with Udemy course, finished one section about if-logical Statements. Then, read about values vs references and memory allocation, structs, delegates, events, auto-implemented properties, and static members. But it wasn't so detailed. Then, finished C# Syntax-OOP course on lynda. Tried to use WindowsForm Application; but tools didn't work. I searched I uninstalled and installed Tools again; but didn't work again. Learned so many things about how to use inheritance and virtual methods. Utility classes, abstract methods, many more. I need to look back again.
 
 Feelings: I felt so tired after working out. Slept and studied after again. I was planning more; but I am feeling I need to go back and check more before moving on. 
+
+Day 76: February 17, 2020 
+
+Today's Progress: Watched traversy media C# app building project. I really liked, it was explained in very simple way. Then, I watched Udemy course, it's getting better.
+
+Feelings: I want to build projects myself; but I am still scared, I watched video about how to get out of tutorials, but I decided not to watch every course until I understand and add sth to it.
