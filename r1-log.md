@@ -507,3 +507,9 @@ Day 76: February 17, 2020
 Today's Progress: Watched traversy media C# app building project. I really liked, it was explained in very simple way. Then, I watched Udemy course, it's getting better.
 
 Feelings: I want to build projects myself; but I am still scared, I watched video about how to get out of tutorials, but I decided not to watch every course until I understand and add sth to it.
+
+Day 77: February 18, 2020 
+
+Today's Progress: Started with JavaScript course on Udemy, then studied C# and read some chapters from the book about C# concepts and object oriented programming.
+
+Feelings: Today, I did lots of brain, focus and memory trainings and my eyes ached a little. I found some different websites, I searched and looked around a little.
