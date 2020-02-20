@@ -500,16 +500,22 @@ Day 75: February 16, 2020
 
 Today's Progress: Started with Udemy course, finished one section about if-logical Statements. Then, read about values vs references and memory allocation, structs, delegates, events, auto-implemented properties, and static members. But it wasn't so detailed. Then, finished C# Syntax-OOP course on lynda. Tried to use WindowsForm Application; but tools didn't work. I searched I uninstalled and installed Tools again; but didn't work again. Learned so many things about how to use inheritance and virtual methods. Utility classes, abstract methods, many more. I need to look back again.
 
-Feelings: I felt so tired after working out. Slept and studied after again. I was planning more; but I am feeling I need to go back and check more before moving on. 
+Feelings: I felt so tired after working out. Slept and studied after again. I was planning more; but I am feeling I need to go back and check more before moving on.
 
-Day 76: February 17, 2020 
+Day 76: February 17, 2020
 
 Today's Progress: Watched traversy media C# app building project. I really liked, it was explained in very simple way. Then, I watched Udemy course, it's getting better.
 
 Feelings: I want to build projects myself; but I am still scared, I watched video about how to get out of tutorials, but I decided not to watch every course until I understand and add sth to it.
 
-Day 77: February 18, 2020 
+Day 77: February 18, 2020
 
 Today's Progress: Started with JavaScript course on Udemy, then studied C# and read some chapters from the book about C# concepts and object oriented programming.
 
 Feelings: Today, I did lots of brain, focus and memory trainings and my eyes ached a little. I found some different websites, I searched and looked around a little.
+
+Day 78: February 19, 2020
+
+Today's Progress: Started with SQL course, and finished it. I learned some extra information like how to link tables with UNION and UNION ALL. Then, studied on Udemy, course is really good; but there isn't enough practice. I hope there will be practice. Then, I read from the book about ASP.NET and HTTP, I took notes and I had headache.
+
+Feelings: These days I have always headache and my eyes are aching. I am also stressful, I wanted to learn Algorithms from coursera then I looked at the course, it's written in Java. I need to learn Java to fully understand, at least it's similar to C#, I am just so confused. I want to go back and make projects with everything I learned but there is always something new to learn and I am really bad at Math, I am thinking to take Math course, Adobe course, and chingu projects and to finish Udemy course while I am preparing for C# and SQL exams. It's so hard to stick to one thing. I am thinking after taking exams, I will go back also learn Bootstrap and Java, then they will help me to create projects easier and to understand algorithms better. 
