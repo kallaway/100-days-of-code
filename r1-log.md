@@ -524,6 +524,14 @@ Day 79&80 : I'm studying in CBT Nuggets with free trial. The course that I am ta
 
 Feelings: I am feeling good; but I couldn't get my head  around like how I wanted, I need to retain the information. I have so many flashcards, I need to revise them.
 
-Day 81: Today, I studied encapsulation with cbtnuggets, after that algorithms, web page development, web application development, application lifecycle management, application specifications, web hosting, IIS and ASP.Net. It was very detailed, I will look back to my notes later.
+Day 81: February 23, 2020
 
-Feelings: Feeling good, just I focused on the exam I want to pass; I will practice more these days. I am hoping finish the course in two days. Total 12 hours. 
+Today's Progress : Today, I studied encapsulation with cbtnuggets, after that algorithms, web page development, web application development, application lifecycle management, application specifications, web hosting, IIS and ASP.Net. It was very detailed, I will look back to my notes later.
+
+Feelings: Feeling good, just I focused on the exam I want to pass; I will practice more these days. I am hoping finish the course in two days. Total 12 hours.
+
+Day 82: February 24, 2020
+
+Today's Progress: I finished cbtnuggets course, it took 12 hours to finish and learned so many things about exam topics. ASP.NET , web services, Microsoft web services and databases.
+
+Feelings: I have some pain behind my eye and it's coming on and off, I hope it will pass.
