@@ -10,7 +10,7 @@
 1. Tuitejaré el meu progrés cada dia -> utilitzant el hashtag #100DaysOfCode
 2. Si programo a la feina, el temps dedicat no comptarà per al repte.
 3. Pujaré el meu codi al Github cada dia per tal que tothom pugui veure el meu progrés.
-4. Actualitzaré el fitxer (Log)[log.md] amb el meu progrés diari incloent un link per a que els altres puguin veure el meu progrés.
+4. Actualitzaré el fitxer [Log](log.md) amb el meu progrés diari incloent un link per a que els altres puguin veure el meu progrés.
 5. Treballaré en projectes reals que solucionin reptes reals. El temps realitzant tutorials, cursos online i recursos similars no comptaràn per al repte. (Si estàs començant a aprendre a programar, llegeix les [FAQ](FAQ.md))
 
 

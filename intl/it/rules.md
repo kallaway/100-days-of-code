@@ -10,7 +10,7 @@
 1. Twitterò i miei progressi ogni giorno usando l'hashtag #100DaysOfCode
 2. Se programmo al lavoro, quel tempo non conterà per la challange.
 3. Pusherò il codice su GitHub tutti i giorni così chiunque potrà vedere i miei progressi.
-4. Aggiornerò il (Log)[log.md] con i progressi del giorno e ne fornirò il link così chiunqu potrà vedere i miei progressi.
+4. Aggiornerò il [Log](log.md) con i progressi del giorno e ne fornirò il link così chiunqu potrà vedere i miei progressi.
 5. Lavorerò su progetti reali, affrontando problemi reali. Il tempo impiegato a fare tutorial, corsi online e simili non conterà per la challange. (Se stai imparando a programmare leggi le [FAQ](FAQ.md))
 
 
