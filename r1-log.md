@@ -535,3 +535,10 @@ Day 82: February 24, 2020
 Today's Progress: I finished cbtnuggets course, it took 12 hours to finish and learned so many things about exam topics. ASP.NET , web services, Microsoft web services and databases.
 
 Feelings: I have some pain behind my eye and it's coming on and off, I hope it will pass.
+
+
+Day 83 & 84 : February 25. 2020 
+
+Today's Progress: Completed C# course on Sololearn and watched cbtnuggets. Prepared for the exam generally.
+
+Feelings: I have just bought Mac and it's my first time, I am trying to understand how to use it, that's why it is takingmy time, I spoke with specialists for support. Soon, I will like I hope.
