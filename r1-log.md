@@ -423,7 +423,7 @@ Day 63: February 04, 2020
 Today's Progress: Finished Microsoft course and also started watching lynda course about Database Foundations: Core Concepts. Also, took a test about object oriented programming and databases. Learned about databases, SQL, Microsoft SQL, Database Management System (DMS),Flat file databases, hierarchical databases, relational databases, sql server management and much more..
 And, I reviewed my code about green screen algorithm.
 
-Feelings: Feeling headache and a little confused about what to study, I think I need to learn algorithms and related javascript, but I want to take software development fundamentals certicate, too. Already finished some parts; but I checked out the book and it's covering a lot. Lynda has courses ; but they are explained in python not C#. I don't know how I can study both JavaScript, C# and SQL.
+Feelings: Feeling headache and a little confused about what to study, I think I need to learn algorithms and related javascript, but I want to take software development fundamentals certificate, too. Already finished some parts; but I checked out the book and it's covering a lot. Lynda has courses ; but they are explained in python not C#. I don't know how I can study both JavaScript, C# and SQL.
 
 Day 64: February 05, 2020
 
@@ -537,8 +537,14 @@ Today's Progress: I finished cbtnuggets course, it took 12 hours to finish and l
 Feelings: I have some pain behind my eye and it's coming on and off, I hope it will pass.
 
 
-Day 83 & 84 : February 25. 2020 
+Day 83 & 84 : February 25. 2020
 
 Today's Progress: Completed C# course on Sololearn and watched cbtnuggets. Prepared for the exam generally.
 
-Feelings: I have just bought Mac and it's my first time, I am trying to understand how to use it, that's why it is takingmy time, I spoke with specialists for support. Soon, I will like I hope.
+Feelings: I have just bought Mac and it's my first time, I am trying to understand how to use it, that's why it is taking my time, I spoke with specialists for support. Soon, I will like I hope.
+
+Day 85 & 86 : February 27, 2020
+
+Today's Progress: Studying C# and reading about desktop app, console apps, windows forms and windows services. Studied so much for the exam but couldn't pass. I am checking the things that I don'y know very well.
+
+Feelings: These days are not going well, I have always ache around my eyes and it's hurting so much. Also, I have some internal problems, different responsibilities. However, today I finished my library book, I squeezed 6 hours of listening in one day. I noticed I need to wait for 10 months to get the book and I decided to finish all today. Good that it finished, it was really moving and interesting.
