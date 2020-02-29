@@ -81,7 +81,7 @@ Feelings:I felt a little tired because of studying all week. I wanted to do some
 
 Day 14: December 17, 2019
 
-Today's Progress: I finished CSS Essential Course on Lynda but I didn't understand some parts. I will checck Mozilla doc. tomorrow and I did Sololearn.
+Today's Progress: I finished CSS Essential Course on Lynda but I didn't understand some parts. I will check Mozilla doc. tomorrow and I did Sololearn.
 
 Feelings: I felt unmotivated and I am thinking I'm forgetting easily.I don't know what to to do. I need more time to learn deeper.
 
@@ -93,15 +93,15 @@ Feelings: I'm feeling better than yesterday, I'm feeling so sluggish these days,
 
 Day 16: December 19, 2019
 
-Today's Progress: I studied on SoloLearn and searched some questions that I didn't quite undertsand. Continued to my project and finished it but I have some problem with my grid and images.
+Today's Progress: I studied on SoloLearn and searched some questions that I didn't quite undersTand. Continued to my project and finished it but I have some problem with my grid and images.
 
-Feelings: I can focus for longer hours while coding now. I need to plan before coding. Every part of the project got messed up becuase I didn't group them before hand. But, I'm learning everyday, this should make it better.
+Feelings: I can focus for longer hours while coding now. I need to plan before coding. Every part of the project got messed up becaUse I didn't group them before hand. But, I'm learning everyday, this should make it better.
 
 Day 17: December 20, 2019
 
-Today's Progress: I did "Technical Documentation Page" on freeCodeCamp, I will try to design navigation bar.I read some blogs and listened to syntax podcast,read some information on w3schools and MDN.
+Today's Progress: I did "Technical Documentation Page" on freeCodeCamp, I will try to design navigation bar.I read some blogs and listened to syntax podcast, read some information on w3schools and MDN.
 
-Feelings: I'm feeling okay, today I noticed that I should work with Github, after making my projects betteer, I want to deploy to my account.
+Feelings: I'm feeling okay, today I noticed that I should work with Github, after making my projects better, I want to deploy to my account.
 
 Day 18: December 21, 2019
 
@@ -118,7 +118,7 @@ Feelings: I'm happy but I haven't mastered everything yet; I listened to travers
 Certificates:https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx
 https://www.freecodecamp.org/hulyakarakaya
 
-Day 20: Decemeber 23, 2019
+Day 20: December 23, 2019
 
 Today's Progress: I took MTA exam today, I learnt also some different information while preparing the exam. It was easy but time was on time. I just finished on time, I mean. 45 min. 41 questions..I liked it, I will take other ones, as well. Because, I like to get certificate and test myself.
 
@@ -128,11 +128,11 @@ Day 21: December 24, 2019
 
 Today's Progress: I studied on Sololearn and finished CSS course. Then, I started to search about JavaScript and watched some videos about fundamentals o JS, I will study the specific topic soon. Then, I worked with my CSS project.
 
-Feelings: I' m feeling bored a little, because of Xmas I think,studying generally. I wish I could travel somewhere; but I need to continue, and I decided to start new challenges first one is workout everyday, after that meditation and writing a little.
+Feelings: I' m feeling bored a little, because of Xmas I think studying generally. I wish I could travel somewhere; but I need to continue, and I decided to start new challenges first one is workout everyday, after that meditation and writing a little.
 
 Day 22: December 25, 2019
 
-Today's Progress: Today, I couldn't get up early; beacuse I slept like at 3 am. After waking up, I studied at CSS project, then searched and found so many JavaScript resources. I continued on Lynda course and watched WesBos's CSS flexbox videos. I will finish those because design is important still and I need to use CSS always.
+Today's Progress: Today, I couldn't get up early; because I slept like at 3 am. After waking up, I studied at CSS project, then searched and found so many JavaScript resources. I continued on Lynda course and watched WesBos's CSS flexbox videos. I will finish those because design is important still and I need to use CSS always.
 
 Feelings: I also started doing yoga challenge today, I felt a little stressed and I wanted to relax by listening to self-awareness videos and watching women in tech videos. I looked through FCC blog and it looks so helpful.
 
@@ -177,7 +177,7 @@ Feelings: I felt so alone today, it's the last day of 2019 and I am alone. Howev
 
 Day 29 : January 1, 2020
 
-Today's Progress: I studied about how to write inline CSS with JavaScript and how to combine DOM elements. After that, I studied on FreeCodeCamp and udacity. I repeated my GitHub knowledge a little; but I liked to course.Then, I decided to learn about OOP, I found one course is teaching with real life events. I watched and took notes. Learnt about black boxing, abstraction, polymorhism,encapsulation and inheritance.
+Today's Progress: I studied about how to write inline CSS with JavaScript and how to combine DOM elements. After that, I studied on FreeCodeCamp and udacity. I repeated my GitHub knowledge a little; but I liked to course.Then, I decided to learn about OOP, I found one course is teaching with real life events. I watched and took notes. Learnt about black boxing, abstraction, polymorhism, encapsulation and inheritance.
 
 Feelings: I was feeling so happy and energetic today. I want to achieve my goals this year. I felt so motivated. I hope this feeling won't change.  But I'm feeling still not so knowledgeable about what I have been studying yet there are so many syntax rules and I don't know how to use them in a problem. I started to Intro to JavaScript and I want to continue there. Their system is good.
 
@@ -193,9 +193,9 @@ Links: https://share.getcloudapp.com/eDu9RkD8
 
 Day 31: January 3, 2020
 
-Today's Progress:I started doing so many courses again;because I am not so consciously aware of why I need to use what I am using. I started on lynda course, watched udemy course and finished it, did FreeCodeCAMP, it's getting harder; that's why I want to fully understand everything before going into more.
+Today's Progress:I started doing so many courses again; because I am not so consciously aware of why I need to use what I am using. I started on lynda course, watched udemy course and finished it, did FreeCodeCAMP, it's getting harder; that's why I want to fully understand everything before going into more.
 
-Feelings: I felt so tired and sleepy today; because I slept so late. Today is againg becoming late. I will try to work better tomorrow I hope.
+Feelings: I felt so tired and sleepy today; because I slept so late. Today is again becoming late. I will try to work better tomorrow I hope.
 
 Links:https://www.lynda.com/JavaScript-tutorials/Learning-JavaScript-Language/782146-2.html
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion
@@ -223,7 +223,7 @@ Feelings: I have been so sleepy and stressful today, I slept like 30 minutes; I 
 
 Day 35 : January 7, 2020
 
-Today's Progress: I wasn't at home, I studied on my phone with Sololearn,learned more about date and math objects. Then, studied with galvanizer, doing some challenges and reading tutorials. Also, finished the recursion part in FreeCodeCamp. I didn't have time for todo app.
+Today's Progress: I wasn't at home, I studied on my phone with Sololearn, learned more about date and math objects. Then, studied with galvanizer, doing some challenges and reading tutorials. Also, finished the recursion part in FreeCodeCamp. I didn't have time for todo app.
 
 Feelings: I am still trying to finish the courses, I will try to finish at least some of them. All of them is very good; I'm feeling stuck. I need to continue with ES6 on freecodecamp; but I will revise the topics first.
 
@@ -242,19 +242,19 @@ Feelings: After reading one article, and listening to happiness tips, I am feeli
 
 Day 38: January 10, 2020
 
-Today's Progress: I started with FreeCodeaCamp Es6, I couldn't understand very well from tutoria, I watched youtube videos and supplemented with Linkedin Learning course. I didn't move on so much; because topic are so new. Then I started learning debugging and refactoring the code. I watched some videos about those and practiced with my project. I used plunker, too.
+Today's Progress: I started with FreeCodeaCamp Es6, I couldn't understand very well from tutoriaL, I watched youtube videos and supplemented with Linkedin Learning course. I didn't move on so much; because topic are so new. Then I started learning debugging and refactoring the code. I watched some videos about those and practiced with my project. I used plunker, too.
 
 Feelings: It was so good, I managed to do yoga for an hour and meditated half an hour with self-help tips. I need to implement those tips to my life.
 
 Day 39: January 11, 2020
 
-Today's Progress: Today was perfect!I started with the slack channel that I'm signed up for working on a project together. Westarted with git, I was stuck and I couldn't solve the problem, I started to watch udacity course then tried, tried, searhed,read so many things and found my silly mistake. Then, I moved on to freeaCodeCamp to learn deconstructing assignment, also learned from a little Lynda course; but I didn't fullly ubderstand. I need to learn deeper. After that, I did a little Odin Project readings and practices, I really liked, they are so effective and have good repetitions. Then, I moved on to watchandcode; but I decided to learn DOM fully with Odin project and it took me to Traversy Media. I watched one 40 minute video and at the end I learned about workflow tools, extensions, plug-ins and add-ons. Learned more about JavaScript,html and CSS debugging.
+Today's Progress: Today was perfect!I started with the slack channel that I'm signed up for working on a project together. We tarted with git, I was stuck and I couldn't solve the problem, I started to watch udacity course then tried, tried, searhed, read so many things and found my silly mistake. Then, I moved on to freeaCodeCamp to learn deconstructing assignment, also learned from a little Lynda course; but I didn't fullly understand. I need to learn deeper. After that, I did a little Odin Project readings and practices, I really liked, they are so effective and have good repetitions. Then, I moved on to watchandcode; but I decided to learn DOM fully with Odin project and it took me to Traversy Media. I watched one 40 minute video and at the end I learned about workflow tools, extensions, plug-ins and add-ons. Learned more about JavaScript, html and CSS debugging.
 
-Feelings: I am feling great, I think those positive thinking videos are making me to focus on positive things and keep me positive. I will not make myself upset anymore. It's okay to be slow, I am learning a lot.
+Feelings: I am feeling great, I think those positive thinking videos are making me to focus on positive things and keep me positive. I will not make myself upset anymore. It's okay to be slow, I am learning a lot.
 
 Day 40: January 12, 2020
 
-Today's Progress: I started with Udacity course, git and github. I finished the last chapter about how to delete and remove commits. After that, I found some interesting resources, A Smart Way To Learn JS, I did some tests. Then, watched Brad Travery video again. Practiced with HTML5 application development and JavaScript exercises, also finished  Workflow Tools Course on lynda.
+Today's Progress: I started with Udacity course, git and github. I finished the last chapter about how to delete and remove commits. After that, I found some interesting resources, A Smart Way To Learn JS, I did some tests. Then, watched Brad Traversy video again. Practiced with HTML5 application development and JavaScript exercises, also finished  Workflow Tools Course on lynda.
 
 Feelings: I had headache and my eyes were sore a little. I think I should rest a little. When I woke up, I felt I didn't rest at all. I started a new book about how to struggle better and try not chase happiness, solve your problems.
 
@@ -283,7 +283,7 @@ Feelings: I had headache and my eyes were sore a little. I think I should rest a
 
 Day 44: January 16, 2020
 
-Today's Progress: I went through Green Screen Algoritm and learned about image coding based on pixels. I didn't know that we can use getGreen or setGreen methods. I' m learning diferent things, also I found a similar course in Stanford online. I'm chefcking out that course, too. I did also some SoloLearn and Grasshopper.
+Today's Progress: I went through Green Screen Algorithm and learned about image coding based on pixels. I didn't know that we can use getGreen or setGreen methods. I' m learning different things, also I found a similar course in Stanford online. I'm checking out that course, too. I did also some SoloLearn and Grasshopper.
 
 Feelings: I felt so sleepy and tired today, I couldn't my eyes open , I took two naps and I got better.
 
@@ -343,7 +343,7 @@ Day 51: January 23, 2020
 
 Today's Progress: Today, I finished SoloLearn JavaScript tutorial. Then, I did udacity course of ES6, finished first lesson. Also, did some practice on openclassrooms.
 
-Feelings: I am motivated to learn just sometimes my brain is feeling so fulll; like I'm putting in and in and I'm losing at the end. I don't want this.
+Feelings: I am motivated to learn just sometimes my brain is feeling so full; like I'm putting in and in and I'm losing at the end. I don't want this.
 
 Day 52: January 24, 2020
 
@@ -355,13 +355,13 @@ Links:https://coursera.org/share/efea39e2c881ec76f9683d3d64462811
 
 Day 53: January 25, 2020
 
-Today's Progress: I studied on openclassrooms and FCC- Object Oriented Programming. There was so much information to take in. I need to study more about those. Also registered Microsoft EDX courseand computational thinking and logic.
+Today's Progress: I studied on openclassrooms and FCC- Object Oriented Programming. There was so much information to take in. I need to study more about those. Also registered Microsoft EDX course and computational thinking and logic.
 
 Feelings: I felt helpless today, I am feeling so unconfident about my skills, and didn't know what to do. Then, I searched about brain capacity and downloaded apps to improve my brain, I really want to change my mind. I am so regretful about those university years that I was stuck on Instagram , I got very dumb; because of that superficial environment and physical superiority was the first priority in my life. I didn't invest enough to improve myself just crammed the books before exams and graduated without giving enough time to implement. I wish I knew the value of time that time, too.
 
 Day 54: January 26, 2020
 
-Today's Progress: Almost finished OpenClassrooms JavaScript course;but I couldn't solve the last project.I searched and I don't know my mistake. I will search tomorrow. Then I studied about classes and objects in next.tech sandbox. It's very good, they are courses that you can interact. After that, I did some flexbox zombies and also styled Google terms and privacy page.Then, I remembered scotch.io and started doing the course because there are so many projects. I am enjoying so far.
+Today's Progress: Almost finished OpenClassrooms JavaScript course; but I couldn't solve the last project.I searched and I don't know my mistake. I will search tomorrow. Then I studied about classes and objects in next.tech sandbox. It's very good, they are courses that you can interact. After that, I did some flexbox zombies and also styled Google terms and privacy page.Then, I remembered scotch.io and started doing the course because there are so many projects. I am enjoying so far.
 
 Feelings: good, just I don't have enough time to finish everything, I have so much knowledge gap, still. I mean I am forgetting.
 
@@ -454,7 +454,7 @@ Day 68: February 09, 2020
 
 Today's Progress: Continued PluralSight Courses, finished ES6 course, it was good; but I need to look back to slides and take its course. Then, watched and coded along in C# project. Learned about fields and states. I learned about constructors in C# and learned that classes especially constructors are used to make the code to encapsulate. Also, started landing project; but I didn't complete.
 
-Feelings: I am so motivated because of PluralSight free weekend courses. I tried to absotb every course I could take and I checked my settings to see the expiration day. It gave me 2 more days. I'm stoked, I want to see other courses, too.
+Feelings: I am so motivated because of PluralSight free weekend courses. I tried to absorb every course I could take and I checked my settings to see the expiration day. It gave me 2 more days. I'm stoked, I want to see other courses, too.
 
 Day 69: February 10, 2020
 
