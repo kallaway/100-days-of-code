@@ -548,3 +548,9 @@ Day 85 & 86 : February 27, 2020
 Today's Progress: Studying C# and reading about desktop app, console apps, windows forms and windows services. Studied so much for the exam but couldn't pass. I am checking the things that I don'y know very well.
 
 Feelings: These days are not going well, I have always ache around my eyes and it's hurting so much. Also, I have some internal problems, different responsibilities. However, today I finished my library book, I squeezed 6 hours of listening in one day. I noticed I need to wait for 10 months to get the book and I decided to finish all today. Good that it finished, it was really moving and interesting.
+
+Day 87: February 28, 2020
+
+Today's Progress: Today, I signed up for itProTv, and watched web apis, and html, css, bootstrap classes. I didn't finish yet.
+
+Feelings: These days are passing so stressful because of a problem and waiting to see what will happen for next week. I am trying to relax; but it's hard. I need to also study Microsoft resources before exam.
