@@ -554,3 +554,15 @@ Day 87: February 28, 2020
 Today's Progress: Today, I signed up for itProTv, and watched web apis, and html, css, bootstrap classes. I didn't finish yet.
 
 Feelings: These days are passing so stressful because of a problem and waiting to see what will happen for next week. I am trying to relax; but it's hard. I need to also study Microsoft resources before exam.
+
+Day 88: February 29, 2020
+
+Today's Progress: I woke up at 7 am and started with unity, checked some tutorials, then continued to ITPROTV finished Bootstrap and Algorithms course. I learned how to plan before coding, code became easier to understand with drawing.
+
+Feelings: I have studied a lot, and didn't have time for workout. I have a little headache and stress.
+
+Day 89: March 1, 2020
+
+Today's Progress: I started with practice book, I liked the problems related to real life problems, how to approach, how to use code, etc.. Then finished the book, but I checked the reference Microsoft documentations and related to everything I studied until this time. I am forgetting always. Learned about BitArray, BitMapData and HashTables, DataSet, ADO.NET, disconnected approach, XmlWriter and XmlReader.
+
+Feelings: I hope I will remember everything easily tomorrow.
