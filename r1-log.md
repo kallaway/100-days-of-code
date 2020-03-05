@@ -566,3 +566,16 @@ Day 89: March 1, 2020
 Today's Progress: I started with practice book, I liked the problems related to real life problems, how to approach, how to use code, etc.. Then finished the book, but I checked the reference Microsoft documentations and related to everything I studied until this time. I am forgetting always. Learned about BitArray, BitMapData and HashTables, DataSet, ADO.NET, disconnected approach, XmlWriter and XmlReader.
 
 Feelings: I hope I will remember everything easily tomorrow.
+
+
+Day 90: March 2, 2020
+
+Today's Progress: I passed MTA exam Software Development Fundamentals, studied before exam, and did a little udemy course.
+
+Feelings: I need to practice and use what I have been learning, I learned so many things, now I need to go deeper and make it permanent.
+
+Day 91-92: March 4, 2020
+
+Today's Progress: Tuesday studied algorithms and functions, today started my Mimo account and finished some courses, I am checking also hacking, security, networks, cookies, APIs, and big data. Also learned about chartJs and did one small project using different array methods.
+
+Feelings: I have so much desire to learn new stuff; but I need to stick to one thing, this is really hard.
