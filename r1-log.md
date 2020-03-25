@@ -9,3 +9,6 @@ Started working on __Free Code Camp's Responsive Web Design Certification__ begi
 
 ### R1D2
 Completed __Basic HTML and HTML5__ coding challenges.
+
+### R1D3
+Started working on __Basic CSS__ coding challenges.
