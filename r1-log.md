@@ -15,3 +15,6 @@ Started working on __Basic CSS__ coding challenges.
 
 ### R1D4-D5
 Worked on various __Basic CSS__ coding challenges. I still have a number of challenges ramaining.
+
+### R1D6-D7
+Completed __Basic CSS__ coding challenges. I learnt about ID and class selectors, fonts, styling images, the CSS box model, clockwise notation as a shorthand, specifying colors as HEX codes and as RGB values, overriding styles and CSS variables.
