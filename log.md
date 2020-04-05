@@ -55,3 +55,11 @@
 **Thoughts**:
 
 **Link(s) to work**: []()
+
+### Day 8: April 13, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: []()
