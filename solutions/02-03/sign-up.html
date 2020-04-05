@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="center">
+            <form>
+                <div class="row">
+                  <h4>Account</h4>
+                  <div class="input-group input-group-icon">
+                    <div class="input-icon"><i class="fa fa-user"></i></div>
+                    <input type="text" placeholder="Full Name"/>
+                  </div>
+                  <div class="input-group input-group-icon">
+                      <div class="input-icon"><i class="fa fa-envelope"></i></div>
+                      <input type="email" placeholder="Email Adress"/>
+                  </div>
+                  <div class="input-group input-group-icon">
+                      <div class="input-icon"><i class="fa fa-key"></i></div>
+                      <input type="password" placeholder="Password"/>
+                  </div>
+                </div>
+                <div class="row">
+                    <h4>Date of Birth</h4>
+                    <div class="input-group">
+                      <div class="col-third">
+                        <input type="text" placeholder="DD"/>
+                      </div>
+                      <div class="col-third">
+                        <input type="text" placeholder="MM"/>
+                      </div>
+                      <div class="col-third">
+                        <input type="text" placeholder="YYYY"/>
+                      </div>
+                    </div>
+                  <div class="col-half">
+                    <h4>Gender</h4>
+                    <div class="input-group">
+                      <label for="gender-male">Male</label>
+                      <input id="gender-male" type="radio" name="gender" value="male"/>
+                      <label for="gender-female">Female</label>
+                      <input id="gender-female" type="radio" name="gender" value="female"/>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <h4>Payment Details</h4>
+                  <div class="input-group">
+                    <label for="payment-method-card"><span><i class="fa fa-cc-visa"></i>Credit Card</span></label>
+                    <input id="payment-method-card" type="radio" name="payment-method" value="card" checked="true"/>
+                    <label for="payment-method-paypal"><span><i class="fa fa-cc-paypal"></i>Paypal</span></label>
+                    <input id="payment-method-paypal" type="radio" name="payment-method" value="paypal"/>
+                  </div>
+                  <div class="input-group input-group-icon">
+                    <div class="input-icon"><i class="fa fa-credit-card"></i></div>
+                    <input type="text" placeholder="Card Number"/>
+                  </div>
+                  <div class="col-half">
+                    <div class="input-group input-group-icon">
+                      <div class="input-icon"><i class="fa fa-user"></i></div>
+                      <input type="text" placeholder="Card CVC"/>
+                    </div>
+                  </div>
+                  <div class="input-group">
+                    <select>
+                      <option>01 Mar</option>
+                      <option>02 Mar</option>
+                    </select>
+                    <select>
+                      <option>2019</option>
+                      <option>2020</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="row">
+                  <h4>Terms and Conditions</h4>
+                  <div class="input-group">
+                    <label for="terms">I accept the terms and conditions for signing up to this service, and hereby confirm I have read the privacy policy.</label>
+                    <input id="terms" type="checkbox"/>
+                  </div>
+                </div>
+              </form>
+        </div>
+    </div>
+</body>
+</html>
