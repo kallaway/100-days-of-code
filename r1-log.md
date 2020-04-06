@@ -6,6 +6,6 @@ The log of my #100DaysOfCode challenge. Started on April 6, Monday, 2020.
 
 ### R1D1
 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Going through the Gatsby tutorial https://www.gatsbyjs.org/tutorial/part-seven/
 
 ### R1D2
