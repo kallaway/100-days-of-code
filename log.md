@@ -2,11 +2,11 @@
 
 ### Day 1: April 6, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Working through Gatsby's tutorial step 6/7
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: The markdown plugin didn't seem to work properly even after I restarted development. The pages were partly showing up but not fully on the /sdf page like the example. I'm planning on finishing the tutorial and then working on a podcast website so I can play around with an api.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [My Gatsby Tutorial Repo](https://github.com/nikkiricks/gatsby-tutorial-part-four)
 
 ### Day 2: April 7, 2020
 
