@@ -1,0 +1,35 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.box1 {
+    background-image: url(img/_4.jpeg);
+}
+
+.box2 {
+    background-image: url(img/_5.jpeg);
+}
+
+.box3 {
+    background-image: url(img/_6.jpeg);
+}
+
+.box1, .box2, .box3 {
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 48px;
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
