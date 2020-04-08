@@ -173,7 +173,7 @@ select {
 }
 
 html {
-    background: url(https://i.imgur.com/gjEZAJ7.jpg) bottom center;
+    background: url(./gjEZAJ7.jpeg) bottom center;
     background-size: cover;
     font-family: sans-serif;
 }
@@ -193,8 +193,8 @@ body {
     max-width: 70%;
     border: 1px solid #2d2d2d;
     -webkit-box-shadow: 3px 10px 33px 14px rgba(31,27,31,0.9);
--moz-box-shadow: 3px 10px 33px 14px rgba(31,27,31,0.9);
-box-shadow: 3px 10px 33px 14px rgba(31,27,31,0.9);
+    -moz-box-shadow: 3px 10px 33px 14px rgba(31,27,31,0.9);
+    box-shadow: 3px 10px 33px 14px rgba(31,27,31,0.9);
 }
 
 .row {
@@ -210,6 +210,15 @@ input {
 
 button {
     width: 25%;
+    transition:color 0.25s ease;
+}
+
+button:hover {
+    background-color: #add8e6;
+}
+
+button:focus {
+    outline: none;
 }
 
 input,
