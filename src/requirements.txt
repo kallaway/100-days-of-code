@@ -1,0 +1,9 @@
+certifi==2020.4.5.1
+chardet==3.0.4
+gunicorn==20.0.4
+heroku==0.1.4
+idna==2.9
+python-dateutil==1.5
+requests==2.23.0
+urllib3==1.25.8
+python==3.8.1
