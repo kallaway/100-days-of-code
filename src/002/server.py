@@ -3,13 +3,12 @@
 # Dunder here means “Double Under (Underscores)”. These are commonly used for operator overloading. 
 
 from flask import Flask
-
+import time
 app = Flask(__name__)
 
 @app.route("/")
-def home   ():
-    return render_template("index.html")
+def hello():
+    return "Hello World - From Flask"
 
-@app.route("/404")
-def error   ():
-    return render_template("error.html")
+if __name__ == "__main__":
+    app.run(host='0.0.0.0',port='3000')
