@@ -62,4 +62,52 @@ list(reversed(sorted("abracadabra"))
 'This is a long string'.split(" ")
 ['This', 'is', 'a', 'long', 'string']
 
+"There are " + str(5) + " items in your cart"
+
+a_list ['This', 'a', 'is', 'long', 'string']
+a_list.reverse()
+
+a_list.pop()
+
+a_list.remove('long')
+
+b_list = a_list
+
+c_list = a_list.copy()
+
+c_list.append("Owls")
+
+
+def noop(): pass
+#does nothing
+
+def greet(name): print ("Hello, {0}".format(name))
+
+greet("Robin")
+
+
+def product(numbers):
+    p = 1
+    for n in numbers:
+        p *= n
+    return p
+
+product([1, 2, 3, 4])
+
+def combine_and_sort(first, second):
+    return sorted((first + second))
+
+combine_and_sort([1, 3, 5], [2, 4, 6])
+
+
+def naughty_product(numbers):
+    p = 1
+    while numbers:
+        p *= numbers.pop()
+    return p
+
+    naughty_product([1, 2, 3, 4])
+
+
+
 
