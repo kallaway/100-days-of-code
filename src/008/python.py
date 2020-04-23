@@ -7,6 +7,7 @@ def to_val(letters):
     letters["l"] = 50
     letters["c"] = 100
     letters["m"] = 1000
+    print(letters.__str__)
     return 0
 
 #This will set total to 0 and then whatever the numerals we want in roman pulls values from correlated number
