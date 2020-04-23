@@ -1,6 +1,6 @@
-#task 2
+#Numurus 2 - make code into a dictionary
 
-#numerus
+#Task 1 
 
 def to_val(letter):
     if letter == "i" : return 1
@@ -62,3 +62,21 @@ def numurus(roman):
         total += cur
         prev = cur
     return total
+
+##Work with Dictionary
+letters={}
+a_list=[]
+
+letters["i"] = 1
+letters["v"] = 5
+letters["x"] = 10
+letters["l"] = 50
+letters["c"] = 100
+letters["m"] = 1000
+
+
+
+
+#Task 2
+#Model some data in your life with all the data types we have learned.
+
