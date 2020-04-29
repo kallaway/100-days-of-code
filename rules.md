@@ -1,17 +1,21 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+*I will code for at least an hour (almost) every day for the next 100 days.*
+The goal is to deliver the following:
+1. A tutorial on how to get from list of names in Google Sheets to Hunter.io to updated list with emails in Google Sheets
+2. A script that looks for growth hacking jobs on Welcome to the Jungle, exports job descriptions to Google Sheets, sends a daily email with one offer
+
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+April 29th, 2020
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+5. I WILL WORK ON REAL PROJECTS, FACING REAL CHALLENGES. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 
 ## Ideas to make this challenge more effective
