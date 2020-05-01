@@ -29,6 +29,7 @@
 **Today's Progress**: 
 * Found a solution to my `<script type="application/ld+json">` scraping problem! It's a little bit dirty and not very elegant but it works! 
 * Also worked on a new personal blog project using Ghost and Digital Ocean. 
+* Struggled with the push to GitHub :/
 * TODO: Need to take the time to give feedback on StackOverflow: explain that proposed solution didn't work and share the work-around I found.
 
 **Thoughts** So much exciting stuff to do. Feels like the #100DaysOfCode focus on only counting project time and not online courses or tutorials time really spurred me on. Feels like I haven't made this much progress since the 1 week sessions with VonStruddle :) Feel very focused and driven. Long may it last.
