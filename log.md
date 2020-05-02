@@ -37,3 +37,14 @@
 **Link(s) to work**
 1. [Python Project on job boards](https://github.com/EWMAs/perfect_job)
 2. [Personal blog project](https://joycekettering.rocks/)
+
+
+## Day 4: Saturday, May 2nd 2020
+
+**Today's Progress**: Not much. Restarted personal blog project from scratch. Was working fine and then it wasn't :/
+
+**Thoughts** Feels like no progress at all! Destroyed Digital Ocean droplet I had created last night and redid entire Ghost / Digital Ocean setup following tutorial. Worked fine for an hour or so and now site seems to be down even though I was only editing a post in the Ghost editor! Weird. Oh well, I'm giving up for the day. Don't want to spend the whole weekend on this.
+
+**Link(s) to work**
+1. [Personal blog project](https://joycekettering.rocks/)
+
