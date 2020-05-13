@@ -5,7 +5,16 @@
 ##### Thoughts:
  Struggled in figuring out the idea of placeholders.
 ##### Link to work:
- https://github.com/PriyaShrinithi/Tic-Tac-Toe)
+ (https://github.com/PriyaShrinithi/Tic-Tac-Toe)
 
+# Day 2: 13th May, 2020
+
+##### Today's progress:
+ Worked on the Tic Tac Toe game again. 
+ Done with marking a single box. Still figuring out ways to mark multiple boxes.
+##### Thoughts:
+ Struggling in figuring out the scoring paradigm.
+##### Link to work:
+ (https://github.com/PriyaShrinithi/Tic-Tac-Toe)
 
  
