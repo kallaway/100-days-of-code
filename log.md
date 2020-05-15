@@ -27,4 +27,16 @@
 ##### Link to work:
  (https://github.com/PriyaShrinithi/Tic-Tac-Toe)
 
+# Day 4: 15th May, 2020
+
+##### Today's progress:
+ Worked on the Tic Tac Toe game again. 
+ Figured out I was wrong about the scoring paradigm and ended up righting it.
+ Figured out the player switch
+##### Thoughts:
+ Struggling in exception handling. 
+ Should probably look it up before I begin again tomorrow.
+##### Link to work:
+ (https://github.com/PriyaShrinithi/Tic-Tac-Toe)
+
  
