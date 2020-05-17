@@ -49,3 +49,11 @@
  ##### Link to work:
  (https://github.com/PriyaShrinithi/Tic-Tac-Toe)
 
+# Day 6: 17th May, 2020
+
+##### Today's progress:
+ Attended Kickstart Round C
+##### Thoughts:
+ Could have done better 
+##### Link to work:
+ (https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2)
