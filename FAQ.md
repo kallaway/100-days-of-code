@@ -10,7 +10,7 @@
   **A:** Don't worry. Restore as much info on the previous days, but if you can't then just continue from where you are right now. If you have been tweeting about your progress every day, put the links to your tweets in the Log for each day. Then, follow the format.  
 
   **Q:** I am new to coding (or just deciding to learn to code) and can’t build projects yet, what should I do?  
-  **A:** The best way to start would be to follow the [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.com/) from the very beginning. The further you get during the 100 days, the better.  
+  **A:** The best way to start would be to follow the [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.org/) from the very beginning. The further you get during the 100 days, the better.  
 
   **Q:** I’ve missed a day, does it mean I’ve failed the challenge?  
   **A:** Absolutely not. You are allowed to miss one day (then make it up by adding one more day to the end of the 100), but never miss two days in a row. This is a great piece of advice on habit formation that I got from Leo Babauta at zen habits.  
