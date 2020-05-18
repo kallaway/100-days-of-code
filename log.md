@@ -57,3 +57,14 @@
  Could have done better 
 ##### Link to work:
  (https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2)
+ 
+ # Day 7: 18th May, 2020
+ 
+ ##### Today;s progress:
+  Looked up K nearest Neighbours
+  Began a guided project using SVM in coursera
+ ##### Thoughts:
+  Should spend a little more time with the math
+ ##### Link to reference:
+  (https://rhyme.com/run/K4A4ES)
+ 
