@@ -68,3 +68,11 @@
  ##### Link to reference:
   (https://rhyme.com/run/K4A4ES)
  
+ # Day 8: 19th May, 2020
+ 
+ ##### Today's progress:
+  Started a freecodecamp web dev course
+ ##### Thoughts:
+  None
+ ##### Link to reference:
+  (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
