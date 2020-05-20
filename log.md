@@ -76,3 +76,12 @@
   None
  ##### Link to reference:
   (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
+  
+  # Day 9: 20th may, 2020
+  
+  ##### Today's progress:
+   Solved a leetcode question in arrays
+  ##### Thoughts:
+   Should take care in problem solving
+  ##### Link to reference:
+   (https://leetcode.com/explore/featured/card/fun-with-arrays/525/inserting-items-into-an-array/3253/)
