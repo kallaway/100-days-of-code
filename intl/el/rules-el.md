@@ -16,7 +16,7 @@
 
 ## Ιδέες για να κάνεις αυτή την πρόκληση πιο αποτελεσματική
 1. Για να αυξήσεις τις πιθανότητες επιτυχίας σου, πρέπει υποχρεωτικά να προσθέσεις ένα σύνδεσμο προς κάθε ημερήσιο post στο [Ημερολόγιο](log-el.md). Μπορεί να είναι σύνδεσμος προς ένα commit στο GitHub, προς ένα blog post...
-2. Αν κολλήσεις κάπου, διάβασε αυτό το άρθρο [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
+2. Αν κολλήσεις κάπου, διάβασε αυτό το άρθρο [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
 3. Αν δεν ξέρεις γιατί υπάρχει τόση έμφαση στο να δουλεύεις πάνω σε πραγματικά project αντί για tutorials ή online μαθήματα, διάβασε αυτό: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 4. Αν δεν μπορείς να ανεβάσεις τον κώδικά σου στο GitHub (για παράδειγμα μόλις έχεις ξεκινήσει να προγραμματίζεις και κάνεις διαδραστικές ασκήσεις), πρόσθεσε ένα σύνδεσμο προς ένα tweet σου. Μπορείς να σκεφτείς και κάτι άλλο, αρκεί η πρόκλησή σου να μείνει δημόσια - λαμβάνεις το όφελος του να είσαι δεσμευμένος και υπεύθυνος για την πρόοδό σου.
 5. Άλλο ένα bonus του να κάνεις fork αυτό το repo -> αν δεν έχεις δουλέψει με Markdown στο παρελθόν, είναι μια καλή ευκαιρία να εξασκηθείς.

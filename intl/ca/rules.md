@@ -16,7 +16,7 @@
 
 ## Idees per fer aquest repte més efectiu
 1. Per millorar la possibilitat d'èxit, és necessari que afegeixis un link al teu post en el [log](log.md). Pot ser un link a un commit a github o un link a un articleal teu blog
-2. Si et trobes molest o encallat llegeix : [Aprendre a programar: Quan es fa fosc (Anglès)](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
+2. Si et trobes molest o encallat llegeix : [Aprendre a programar: Quan es fa fosc (Anglès)](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
 3. Si no entens aquest èmfasi en treballar en projectes enlloc de fer tutorials o cursos online, llegeix això: [Com aconseguir un treball com a desenvolupador en menys d'un any](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 4. Si no pots pujar el teu codi a Github per alguna raó (p.ex. estàs començant a programar i només fas exercicis interactius), enllaça un tuit. Pots pensar en qualsevol altra cosa sempre i quan facis el repte públic - obtenint el benefici del compromís i la responsabilitat del seu progrés.
 5. Un altra benefici de bifurcar aquest repositori -> SI no has treballat anteriorment amb el format Markdown, és una molt bona manera de practicar.
