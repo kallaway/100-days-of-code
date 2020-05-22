@@ -28,7 +28,7 @@
 
     * Está en ingles
 
-3.  Si no sabe por qué hay tanto énfasis en programar proyectos frente hacer tutoriales o cursos en línea, lea esto: [Como obtener un trabajo de programando en menos de un año](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
+3.  Si no sabe por qué hay tanto énfasis en programar proyectos frente hacer tutoriales o cursos en línea, lea esto: [Como obtener un trabajo de programando en menos de un año](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 
     * Está en ingles
 
