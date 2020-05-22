@@ -94,3 +94,13 @@
   None
  ##### Link to reference:
   (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
+  
+  # Day 11: 22nd May, 2020
+  
+   ##### Today's progress:
+   Attempted Solving a leetcode question in May challenge
+  ##### Thoughts:
+   Should concentrate in problem solving
+  ##### Link to reference:
+   (https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/)
+  
