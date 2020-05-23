@@ -104,3 +104,11 @@
   ##### Link to reference:
    (https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/)
   
+# Day 12: 23rd May, 2020
+
+##### Today's progress:
+ Continued the web dev course
+##### Thoughts:
+ None
+##### Link to reference:
+ (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes)
