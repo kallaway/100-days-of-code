@@ -116,8 +116,17 @@
 # Day 13: 24th May, 2020
 
 ###### Today's progress:
- Stated Learning Web Scraping using Beautiful Soup
+ Started Learning Web Scraping using Beautiful Soup
 ##### Thoughts:
  Should look up other ways of web scraping and analyse them all
 ##### Link to work:
  (https://github.com/PriyaShrinithi/Web-Scraping)
+ 
+ # Day 14: 25th May, 2020
+ 
+ ##### Today's progress:
+  Continued the web dev course
+ ##### Thoughts:
+  None
+ ##### Link to reference:
+  (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font)
