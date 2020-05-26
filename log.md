@@ -130,3 +130,13 @@
   None
  ##### Link to reference:
   (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font)
+
+# Day 15: 26th May, 2020
+
+###### Today's progress:
+ Continued Learning Web Scraping using Beautiful Soup
+##### Thoughts:
+  BeautifulSoup is slow.
+  Using PyQt, a browser can be mimiced and script text can be parsed
+##### Link to work:
+ (https://github.com/PriyaShrinithi/Web-Scraping)
