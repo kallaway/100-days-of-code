@@ -140,3 +140,12 @@
   Using PyQt, a browser can be mimiced and script text can be parsed
 ##### Link to work:
  (https://github.com/PriyaShrinithi/Web-Scraping)
+
+# Day 16: 27th May, 2020
+ 
+ ##### Today's progress:
+  Started a freecodecamp web dev course
+ ##### Thoughts:
+  None
+ ##### Link to reference:
+  (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/size-your-images)
