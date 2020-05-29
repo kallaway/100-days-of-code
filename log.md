@@ -150,7 +150,7 @@
  ##### Link to reference:
   (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/size-your-images)
   
-# Day 16: 27th May, 2020
+# Day 17: 29th May, 2020
  
 ##### Today's progress:
  Started a freecodecamp web dev course
