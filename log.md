@@ -149,3 +149,12 @@
   None
  ##### Link to reference:
   (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/size-your-images)
+  
+# Day 16: 27th May, 2020
+ 
+##### Today's progress:
+ Started a freecodecamp web dev course
+##### Thoughts:
+ None
+##### Link to reference:
+ (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
