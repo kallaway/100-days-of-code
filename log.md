@@ -1,17 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 28th, 2020
+### Day 0: February 30, 2016 (Example 1)
+##### (delete me or comment me out)
 
-**Today's Progress**: Cleaned up an old html email, and started a responsive version using Cerberus. [Committed to Github](https://github.com/christinavoudouris/responsive-emails).
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** Feeling less overwhelmed by the project and seeing how helpful the notes in the template are.
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work:** https://responsive-emails.netlify.app
+**Link to work:** [Calculator App](http://www.example.com)
 
-### Day 2: May 29th, 2020
+### Day 0: February 30, 2016 (Example 2)
+##### (delete me or comment me out)
 
-**Today's Progress**: Continued work on responsive HTML email. [Committed to Github](https://github.com/christinavoudouris/responsive-emails).
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** Many thoughts! The original email is from 2012; the navigation bar needs to either stack or maybe not be displayed on small devices. More media queries need to be considered. Mixed feelings on 3 columns for 3 rows worth of products; perhaps 2 columns would work, but the original images are small. Forcing the initial-scale also made the email mobile friendly, though the template notes said it shouldn't be forced. Hmmm...
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work:** https://responsive-emails.netlify.app
+**Link(s) to work**: [Calculator App](http://www.example.com)
+
+
+### Day 1: June 27, Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
