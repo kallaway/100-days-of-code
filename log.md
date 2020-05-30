@@ -153,8 +153,17 @@
 # Day 17: 29th May, 2020
  
 ##### Today's progress:
- Started a freecodecamp web dev course
+  Continued the freecodecamp web dev course
 ##### Thoughts:
  None
 ##### Link to reference:
  (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
+ 
+# Day 18: 30th May, 2020
+ 
+##### Today's progress:
+ Continued the freecodecamp web dev course
+##### Thoughts:
+ Need to learn to visualise style elements
+##### Link to reference:
+ (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
