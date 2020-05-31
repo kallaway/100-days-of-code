@@ -139,8 +139,8 @@
   BeautifulSoup is slow.
   Using PyQt, a browser can be mimiced and script text can be parsed
 ##### Link to work:
- (https://github.com/PriyaShrinithi/Web-Scraping)
-
+ (https://github.com/PriyaShrinithi/Web-Scraping
+ 
 # Day 16: 27th May, 2020
  
  ##### Today's progress:
@@ -167,3 +167,12 @@
  Need to learn to visualise style elements
 ##### Link to reference:
  (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
+ 
+# Day 19: 31st May, 2020
+
+##### Today's progress:
+ Solved a Leet Code Problem
+##### Thoughts:
+ None
+##### Link To reference:
+ (https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3247/)
