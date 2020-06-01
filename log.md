@@ -176,3 +176,11 @@
  None
 ##### Link To reference:
  (https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3247/)
+ 
+# Day 20: 1st June, 2020
+##### Today's progress:
+ An Attempt at understanding HashSet using arrays.
+##### Thoughts:
+ Could have tried linked list or a height balanced binary search tree
+##### Link to work:
+ (https://github.com/PriyaShrinithi/DataStructures-and-Java)
