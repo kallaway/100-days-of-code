@@ -184,3 +184,12 @@
  Could have tried linked list or a height balanced binary search tree
 ##### Link to work:
  (https://github.com/PriyaShrinithi/DataStructures-and-Java)
+ 
+ # Day 21: 2nd June, 2020
+##### Today's progress:
+ An Attempt at inverting a tree.
+##### Thoughts:
+ None
+ ##### Link to work:
+  (https://github.com/PriyaShrinithi/DataStructures-and-Java)
+
