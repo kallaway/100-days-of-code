@@ -13,6 +13,7 @@
 
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+2. [Build a Laravel CRUD Application from scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
