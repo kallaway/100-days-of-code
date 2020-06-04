@@ -27,6 +27,22 @@ If you want to help by providing a translation of content/rules in the language 
 9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
 10.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
+## ⚡ Interested in meaningfully changing your life & getting the results you want? ⚡
+
+I publish a newsletter called [Do the Opposite](https://dotheopposite.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
+
+The themes covered are:
+- **Habit Change**. Learn how to successfully acquire good habits and how to quit bad ones.
+- **Book Recommendations & Takeaways**. Get awesome book recommendations and golden nuggets of wisdom extracted from these books so you can put them into action right away!
+- **Personal Finance**. Even tiny change you make about how you manage your money will bring mind-boggling results over time. Find out what these changes are!
+- **Starting a Business**. Whether you're a wanna-be indie maker or want to become the next Elon Musk, you will find some great resources here!
+- **Overcoming Creative Blocks**. Together we explore how to beat the Resistance and finish that project you've been day-dreaming about.
+- **Minimalism** Living with less has lots of benefits: reduced stress, less cleaning, better finances and a lot more!
+- **Other topics**. Psychology, learning to code, alternative lifestyles and more.
+
+💌 [Join the Do the Opposite Community! Subscribe to the newsletter and start changing your life!](https://dotheopposite.substack.com/)
+
+
 ## Want to change other habits?
 
 Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
