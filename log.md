@@ -200,3 +200,12 @@
  Look into a better solution
 ##### Link to reference:
  (https://leetcode.com/explore/featured/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/) 
+
+# Day 23: 4th June, 2020
+##### Today's progress:
+ Solved a Leetcode Question
+##### Thoughts:
+ Look into a better solution
+##### Link to reference:
+ (https://leetcode.com/explore/featured/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/) 
+
