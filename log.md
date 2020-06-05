@@ -208,4 +208,12 @@
  Look into a better solution
 ##### Link to reference:
  (https://leetcode.com/explore/featured/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/) 
-
+ 
+# Day 24: 5th June, 2020
+ 
+##### Today's progress:
+ Continued a freecodecamp web dev course
+##### Thoughts:
+ None
+##### Link to reference:
+ (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/decrease-the-opacity-of-an-element)
