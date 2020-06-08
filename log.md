@@ -217,3 +217,11 @@
  None
 ##### Link to reference:
  (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/decrease-the-opacity-of-an-element)
+ 
+# Day 25: 8th June, 2020
+##### Today's progress:
+ Solved a June Challenge Leetcode Question
+##### Thoughts:
+ None
+##### Link to reference:
+ (https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/) 
