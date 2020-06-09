@@ -225,3 +225,11 @@
  None
 ##### Link to reference:
  (https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/) 
+ 
+# Day 26: 9th June, 2020
+##### Today's progress:
+ Solved a June Challenge Leetcode Question
+##### Thoughts:
+ Had trouble in identifying Stackoverflow Error
+##### Link to reference:
+ (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/) 
