@@ -233,3 +233,12 @@
  Had trouble in identifying Stackoverflow Error
 ##### Link to reference:
  (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/) 
+
+# Day 27: 10th June, 2020
+##### Today's progress:
+ Solved a June Challenge Leetcode Question
+##### Thoughts:
+ Had trouble in identifying Stackoverflow Error
+##### Link to reference:
+ (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/) 
+
