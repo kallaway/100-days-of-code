@@ -230,7 +230,7 @@
 ##### Today's progress:
  Solved a June Challenge Leetcode Question
 ##### Thoughts:
- Had trouble in identifying Stackoverflow Error
+ None
 ##### Link to reference:
  (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/) 
 
@@ -238,7 +238,7 @@
 ##### Today's progress:
  Solved a June Challenge Leetcode Question
 ##### Thoughts:
- Had trouble in identifying Stackoverflow Error
+ None
 ##### Link to reference:
  (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3356/) 
  
@@ -246,8 +246,15 @@
 ##### Today's progress:
  Solved a June Challenge Leetcode Question
 ##### Thoughts:
- Had trouble in identifying Stackoverflow Error
+ None
 ##### Link to reference:
  (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/) 
 
+# Day 29: 11th June, 2020
+##### Today's progress:
+ Attempted a June Challenge Leetcode Question
+##### Thoughts:
+ Have trouble in debugging the run time error.
+##### Link to reference:
+ (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/) 
 
