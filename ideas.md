@@ -8,4 +8,4 @@
 * Work on [front-end code challenges](https://css-tricks.com/front-end-challenges/)
 * Work on python pdf editor [project](https://realpython.com/creating-modifying-pdf/)
 * Do something with  [Raspberry Pi](https://opensource.com/article/17/4/5-projects-raspberry-pi-home)
-
+* Re-familiraize myself with CS concepts: [design patterns](https://www.geeksforgeeks.org/software-design-patterns/), data structures, algorithms

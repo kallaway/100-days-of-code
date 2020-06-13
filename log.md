@@ -1,23 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: June 12th, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Contact icon showing in mobile. Change project links to go to repos. Open projects in new tab. Add Remember me project. Added snapshots of blog and new projects. Pretty much a bunch of clean up. Need to add link to blog site that links back to my personal page.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: So glad I got feedback on my site. It's looking much better now.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**:
+[blog](https://my-experience.netlify.app)
+[site](https://tia-rose.dev/#)
+
+Template:
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:
 
+Example:
 
 ### Day 1: June 27, Monday
 
