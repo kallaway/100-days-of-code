@@ -258,3 +258,12 @@
 ##### Link to reference:
  (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/) 
 
+# Day 30: 12th June, 2020
+##### Today's progress:
+ Attempted a Leetcode Questions
+##### Thoughts:
+ Have trouble in understanding DP.
+##### Link to reference:
+ (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)
+ (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)
+
