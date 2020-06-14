@@ -267,3 +267,10 @@
  (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)
  (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)
 
+# Day 31: 14th May, 2020
+##### Today's progress:
+ Continued the web dev course
+##### Thoughts:
+ None
+##### Link to reference:
+ (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-an-elements-relative-position)
