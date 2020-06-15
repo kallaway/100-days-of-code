@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 12th, 2020
+### Day 1: June 12th, 2020
 
-**Today's Progress**: Contact icon showing in mobile. Change project links to go to repos. Open projects in new tab. Add Remember me project. Added snapshots of blog and new projects. Pretty much a bunch of clean up. Need to add link to blog site that links back to my personal page.
+**Today's Progress**: Personal site: Contact icon showing in mobile. Change project links to go to repos. Open projects in new tab. Add Remember me project. Added snapshots of blog and new projects. Pretty much a bunch of clean up. Need to add link to blog site that links back to my personal page.
 
 **Thoughts**: So glad I got feedback on my site. It's looking much better now.
 
@@ -10,9 +10,18 @@
 [blog](https://my-experience.netlify.app)
 [site](https://tia-rose.dev/#)
 
+### Day 2: June 14th, 2020
+
+**Today's Progress**: Blog: Spelled checked all articles. Fixed contrasting. Added links to go back to my site and made sure all links open in new tabs.
+
+**Thoughts**: A lot of work maintaining two sites by yourself, but satisfying at the same time.
+
+**Link(s) to work**:
+[blog](https://my-experience.netlify.app)
+
 Template:
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: June 14th, 2020 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**:
