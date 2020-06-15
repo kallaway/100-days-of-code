@@ -274,3 +274,11 @@
  None
 ##### Link to reference:
  (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-an-elements-relative-position)
+ 
+# Day 32: 15th June, 2020
+##### Today's progress:
+ Attempted a June Challenge Leetcode Question
+##### Thoughts:
+ None
+##### Link to reference:
+ (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3361/) 
