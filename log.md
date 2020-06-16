@@ -19,6 +19,14 @@
 **Link(s) to work**:
 [blog](https://my-experience.netlify.app)
 
+### Day 3: June 15th, 2020 
+
+**Today's Progress**: Doing JS code challenges on repl.it
+
+**Thoughts**: Having some trouble with reduce method. Need to look into that more.
+
+**Link(s) to work**: My repl.it account
+
 Template:
 
 ### Day 2: June 14th, 2020 (Example 2)
