@@ -290,3 +290,12 @@
  None
 ##### Link to reference:
  (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3362/)
+ 
+ # Day 34: 17th June, 2020
+##### Today's progress:
+ Attempted a Leetcode Question in arrays
+##### Thoughts:
+ None
+##### Link to reference:
+ (https://leetcode.com/explore/featured/card/fun-with-arrays/523/conclusion/3228/)
+
