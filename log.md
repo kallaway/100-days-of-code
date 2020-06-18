@@ -299,3 +299,11 @@
 ##### Link to reference:
  (https://leetcode.com/explore/featured/card/fun-with-arrays/523/conclusion/3228/)
 
+# Day 35: 18th June, 2020
+##### Today's progress:
+ Attempted a Leetcode Question in arrays
+##### Thoughts:
+ None
+##### Link to reference:
+ (https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/)
+ (https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3231/)
