@@ -307,3 +307,11 @@
 ##### Link to reference:
  (https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/)
  (https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3231/)
+ 
+# Day 36: 19th June, 2020
+##### Today's progress:
+ Continued learning about Web Scraping using scrapy
+##### Thoughts:
+ None
+##### Link to reference:
+ (https://github.com/PriyaShrinithi/Web-Scraping-and-Web-Crawling)
