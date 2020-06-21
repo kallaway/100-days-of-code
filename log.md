@@ -315,3 +315,11 @@
  None
 ##### Link to reference:
  (https://github.com/PriyaShrinithi/Web-Scraping-and-Web-Crawling)
+
+# Day 37: 21th May, 2020
+##### Today's progress:
+ Continued the web dev course
+##### Thoughts:
+ None
+##### Link to reference:
+ (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-the-position-of-overlapping-elements-with-the-z-index-property)
