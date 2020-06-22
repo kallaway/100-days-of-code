@@ -316,10 +316,21 @@
 ##### Link to reference:
  (https://github.com/PriyaShrinithi/Web-Scraping-and-Web-Crawling)
 
-# Day 37: 21th May, 2020
+# Day 37: 21th jUNE, 2020
 ##### Today's progress:
  Continued the web dev course
 ##### Thoughts:
  None
 ##### Link to reference:
  (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-the-position-of-overlapping-elements-with-the-z-index-property)
+ 
+# Day 38: 22nd June, 2020
+##### Today's progress:
+ Solved a bunch of leetcode questions
+##### Thoughts:
+ Need to understand Memoization better
+##### Link to references:
+ (https://leetcode.com/explore/learn/card/recursion-i/256/complexity-analysis/2380/)
+ (https://leetcode.com/explore/learn/card/recursion-i/255/recursion-memoization/1662/)
+ (https://leetcode.com/explore/learn/card/recursion-i/255/recursion-memoization/1661/)
+ (https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/)
