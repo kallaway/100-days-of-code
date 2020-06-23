@@ -334,3 +334,12 @@
  (https://leetcode.com/explore/learn/card/recursion-i/255/recursion-memoization/1662/)
  (https://leetcode.com/explore/learn/card/recursion-i/255/recursion-memoization/1661/)
  (https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/)
+ 
+ # Day 38: 22nd June, 2020
+##### Today's progress:
+ Solved a bunch of leetcode questions
+##### Thoughts:
+ None
+##### Link to references:
+ (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3369/)
+ (https://leetcode.com/problems/palindrome-number/)
