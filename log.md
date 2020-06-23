@@ -18,3 +18,9 @@
 
 **Link to work:**[golf_scraper](https://github.com/ryfo18/100-days-of-code)
 
+### Day 2: June 23, 2020
+#####
+
+** Today's Progress**: Found a script to get PGA Tour Stats from the PGA site.
+
+**Thoughts:**  Althought it's been a long time since I originally started this, I decided it was time to get back on the horse and get this going.  I am going to continue pursuing the golf scraper to start.  I have found a [new site](https://bigishdata.com/2016/03/05/gather-all-the-pga-tour-stats/) that shows how to get all of the stats from the PGA Tour site.
