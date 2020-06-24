@@ -27,6 +27,14 @@
 
 **Link(s) to work**: My repl.it account
 
+### Day 2: June 24th, 2020 
+
+**Today's Progress**: Create repo for hamburger menus so I have something to reference
+
+**Thoughts**: Super busy with interviews, and contract work these past few days.
+
+**Link(s) to work**: [Github](https://github.com/TRose2014/hamburger-menus)
+
 Template:
 
 ### Day 2: June 14th, 2020 (Example 2)
