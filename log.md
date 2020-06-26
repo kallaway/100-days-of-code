@@ -27,13 +27,26 @@
 
 **Link(s) to work**: My repl.it account
 
-### Day 2: June 24th, 2020 
+### Day 4: June 24th, 2020 
 
 **Today's Progress**: Create repo for hamburger menus so I have something to reference
 
 **Thoughts**: Super busy with interviews, and contract work these past few days.
 
 **Link(s) to work**: [Github](https://github.com/TRose2014/hamburger-menus)
+
+
+### Day 5: June 25th, 2020 
+
+**Today's Progress**: Started on todo app in node.js
+
+**Thoughts**: Really want to get comfortable in node, things are starting to connect. After this app, maybe I can do gamer node using node and react native...or flutter??
+
+Articles:
+[nodeAndNative](https://medium.com/coderinred/creating-a-react-native-app-with-node-js-backend-part-1-8fe79ac0f893)
+[nodeAndFlutter](https://medium.com/@suragch/minimal-client-server-example-for-flutter-and-node-js-3e1b376f1093)
+
+**Link(s) to work**: [GitHub](https://github.com/TRose2014/todo-app-node-vue)
 
 Template:
 
