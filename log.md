@@ -352,3 +352,13 @@
 ##### Link to references:
  (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3371/)
  (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3372/)
+ 
+# Day 40: 27th June, 2020
+
+##### Today's progress:
+ Solved a random leetcode question and attempted a june leetcode question
+##### Thoughts:
+ DP application 
+##### Link to references:
+ (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3373/)
+ (https://leetcode.com/problems/sqrtx/submissions/)
