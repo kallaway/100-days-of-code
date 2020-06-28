@@ -14,7 +14,7 @@
 
 ### Challenge Goals
 
-By day 100, I would like to have had exposure to or learned:
+At the end of this challenge i would love to have learnt the following:
 
 - Gsap Animation
 - Object Oriented Programming in JS
@@ -70,3 +70,37 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 ---
 
+### Day 2
+##### Pull request and my first contribution
+
+**Today's Progress**: I always wanted to know how to do pull request and contribute to projects on Github.
+
+**Task Accomplished:** I went ahead to do my research on youtube and I was able to do my first simple contribution to the Github community.
+
+**Results:** In the blog I created I made a bonus section on how to do a pull request and a quick guide to open source contribution.
+
+**Tweet:** https://twitter.com/TracyCss/status/1275057548131856384
+
+**Link to my blog:**
+- [Blog](https://dev.to/tracycss/git-and-github-for-beginners-po3)
+
+
+[![Day 2 image](assets/img/day-2.gif)](https://dev.to/tracycss/git-and-github-for-beginners-po3)
+
+---
+
+### Day 3
+##### Learning boostarp 5 alpha 1
+
+**Today's Progress**: I decided to learn about boostrap 5 and it's components.
+
+**Task Accomplished:** I was able to create different components like navbar forms and the new grid system.
+
+**Results:** I created a simple website which I also designed it with Balsamiq desktop app.
+
+**Tweet:** https://twitter.com/TracyCss/status/1275057548131856384
+
+**Link to my blog:**
+- [Githut repository](https://github.com/muchirijane/boostrap-5-website)
+
+---
