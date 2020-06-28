@@ -12,7 +12,7 @@
 
 [100daysofcode.com](https://100daysofcode.com) &bull; [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode) &bull; [@ka11away](https://twitter.com/ka11away)
 
-### Challenge Goals
+### My Goals
 
 At the end of this challenge i would love to have learnt the following:
 
@@ -51,24 +51,6 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 ---
 
-### Day 2: May 27, 2020
-##### Pull request and my first contribution
-
-**Today's Progress**: I always wanted to know how to do pull request and contribute to projects on Github.
-
-**Task Accomplished:** I went ahead to do my research on youtube and I was able to do my first simple contribution to the Github community.
-
-**Results:** In the blog I created I made a bonus section on how to do a pull request and a quick guide to open source contribution.
-
-**Tweet:** https://twitter.com/TracyCss/status/1275057548131856384
-
-**Link to my blog:**
-- [Blog](https://dev.to/tracycss/git-and-github-for-beginners-po3)
-
-
-[![Day 2 image](assets/img/day-2.gif)](https://dev.to/tracycss/git-and-github-for-beginners-po3)
-
----
 
 ### Day 2
 ##### Pull request and my first contribution
@@ -82,7 +64,7 @@ This are the sections I am going to focus on to improve my front end skills. I h
 **Tweet:** https://twitter.com/TracyCss/status/1275057548131856384
 
 **Link to my blog:**
-- [Blog](https://dev.to/tracycss/git-and-github-for-beginners-po3)
+- [Blog post](https://dev.to/tracycss/git-and-github-for-beginners-po3)
 
 
 [![Day 2 image](assets/img/day-2.gif)](https://dev.to/tracycss/git-and-github-for-beginners-po3)
@@ -102,5 +84,21 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 **Link to my blog:**
 - [Githut repository](https://github.com/muchirijane/boostrap-5-website)
+
+---
+
+### Day 4
+##### Getting started with Gsap animation
+
+**Today's Progress**: I started going through the Gsap documentation to know how to use it in both logos and images
+
+**Task Accomplished:** I was able to learn how to use animations in images and create different timeing durations.
+
+**Results:** I started coding an amazing websited designed by [Shamima Nasrin](https://dribbble.com/shamimanasrin?ref=uistore.design). I used Gsap to create the amazing       animations
+
+**Tweet:** https://twitter.com/TracyCss/status/1276560015395094529
+
+
+[![Day 4 image](assets/img/day-4.gif)](https://dev.to/tracycss/git-and-github-for-beginners-po3)
 
 ---
