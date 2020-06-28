@@ -362,3 +362,12 @@
 ##### Link to references:
  (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3373/)
  (https://leetcode.com/problems/sqrtx/submissions/)
+ 
+# Day 41: 28th June, 2020
+
+##### Today's progress: 
+ Solved a leetcode question
+##### Thoughts:
+ Work on HashSets
+##### Link To Reference:
+ (https://leetcode.com/contest/weekly-contest-195/problems/path-crossing/)
