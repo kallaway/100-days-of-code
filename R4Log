@@ -1,5 +1,5 @@
 Day XX
-September XX, 2019
+September XX, 2020
 
 Today's Progress: 
 
@@ -7,57 +7,11 @@ Thoughts:
 
 Link to work: https://fbo-scorecard.glitch.me/
 
-Day 09
-September 19, 2019
-
-Today's Progress: Started looking at my old Python code and worked on a design for my new code.
-
-Thoughts: I want to move faster and make more progress, but it's clear I need to learn Python first, which takes time.
-
-Link to work: https://fbo-scorecard.glitch.me/
-
-Day 08
-September 18, 2019
-
-Today's Progress: Design Python app for csv file and did some Stack Overflow research to implement.
-
-Thoughts: Great that I was able to schedule it, execute it, and do it early in the morning while I was still fresh.  Need to do that every day.
-
-Link to work: https://fbo-scorecard.glitch.me/
-
-Day 5-7
-September 17, 2019
-
-Today's Progress: Data ingest and design of a couple of different things, one for my node.js workflow and one in Python for work.
-
-Thoughts: Still not committing to really do the coding.  I need to lean into this.
-
-Link to work: https://fbo-scorecard.glitch.me/
-
-Day 03, 04
-September 14, 2019
-
-Today's Progress: Designed a new workflow component for my glitch app, to view interesting deals so that I can start gathering relevant content for topic model development.
-
-Thoughts: I feel like the thing to do is to get back into coding, build this next step in the workflow, and build a corpus.  Then it will be time to dive head first into topic modeling in Python.
-
-Link to work: https://fbo-scorecard.glitch.me/
-
-Day 02
-September 12, 2019
-
-Today's Progress: Played around with my code and watched Andrew NG interview of Jeremy Hinton.  
-
-Thoughts: Made me kind of itchy to get out of the theoretical and start building topic models and structured response models.  I want to do some coding.
-
-Link to work: https://fbo-scorecard.glitch.me/
 
 Day 01
-September 11, 2019
+June XX, 2020
 
-Today's Progress: Used my fbo-scorecard to ingest daily FBO files for the last four months.  Also reviewed some opportunities oer the most recent week.
+Today's Progress: Set some coding goals, including learning the MERN stack.  Watched a REACT hooks pair-programming session on Twitch.TV.
 
-Thoughts: It feels good to be up early and working with my coding tool again.  I am feeling excited and energized to make this a daily habit and to commit my early morning time to it.  I think I'm on the brink of making something really useful.  Just keep moving forward, an hour at a time.  And find someone to review (maybe Canute?).
-
-Link to work: https://fbo-scorecard.glitch.me/
+Thoughts: It's been kind of a long layoff.  But I'm ready to commit to coding for the next 100 days.  I feel like I'm in a good position to make material progress on my project.
 
