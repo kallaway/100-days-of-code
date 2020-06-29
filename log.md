@@ -48,6 +48,15 @@ Articles:
 
 **Link(s) to work**: [GitHub](https://github.com/TRose2014/todo-app-node-vue)
 
+
+### Day 6: June 27th, 2020
+
+**Today's Progress**: Read a few chapters of the nature of software development
+
+**Thoughts**: Understanding the importance of deploying via feature to feature vs. project as a whole. When you deploy feature by feature, you know what you want it to do and how it should interact with other features. When is comes to planning for the project as a whole, you are focused on multiple parts at a time and don't have time to get into the entire ins and outs on what exactly what specific things should truly do. You don't give the features they deserve and in turn get the results you are expecting. When we set timelines and base getting the project at a certain time, features hav to be compromised in order to set those timelines. When we take it a feature by featue basis, we get the features we are expecting and even though we may not make the deadline, the project as a whole is of much better quality.
+
+**Link(s) to work**: The Nature of Software Development
+
 Template:
 
 ### Day 2: June 14th, 2020 (Example 2)
