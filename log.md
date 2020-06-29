@@ -371,3 +371,12 @@
  Work on HashSets
 ##### Link To Reference:
  (https://leetcode.com/contest/weekly-contest-195/problems/path-crossing/)
+ 
+# Day 42: 28th June, 2020
+
+##### Today's progress: 
+ Solved a June leetcode question
+##### Thoughts:
+ Work on thinking in DP as opposed to recursion
+##### Link To Reference:
+ (https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3375/)
