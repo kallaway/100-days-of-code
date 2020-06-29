@@ -3,6 +3,7 @@
 #### My social media platform
 
 [Twitter](https://twitter.com/TracyCss "Follow me on Twitter") 
+
 [GitHub](https://github.com/muchirijane "Follow me om GitHub or check out my projects")  
 [CodePen](https://codepen.io/tracey_jane "Follow me on CodePen or check out my pens")  
 [Dev Community Blog](https://dev.to/janetracydev "Follow me and  check out my posts")
@@ -19,12 +20,11 @@ At the end of this challenge i would love to have learnt the following:
 - Gsap Animation
 - Object Oriented Programming in JS
 - Create more front-end websites
-- Learn Vue js
-- Learn reat Js
+- Learn Vue/react js
 - Pug and/or Haml
 - Improve in refactoring code and degugging
 
-This are the sections I am going to focus on to improve my front end skills. I hope during or by the end of the challange I will have a job in front end development.
+This are the sections I am going to focus on to improve my front end skills. I hope during or by the end of the challange I will have a job in front end development or freelancing.
 
 ### Contents
 
@@ -92,13 +92,30 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 **Today's Progress**: I started going through the Gsap documentation to know how to use it in both logos and images
 
-**Task Accomplished:** I was able to learn how to use animations in images and create different timeing durations.
+**Task Accomplished:** I was able to learn how to use animations in images and create different timing durations.
 
 **Results:** I started coding an amazing websited designed by [Shamima Nasrin](https://dribbble.com/shamimanasrin?ref=uistore.design). I used Gsap to create the amazing       animations
 
 **Tweet:** https://twitter.com/TracyCss/status/1276560015395094529
 
 
-[![Day 4 image](assets/img/day-4.gif)](https://dev.to/tracycss/git-and-github-for-beginners-po3)
+[![Day 4 image](assets/img/day-4.gif)]
+
+---
+
+### Day 5
+##### Getting started with Gsap animation
+
+**Today's Progress**: I continued going through the Gsap documentation to know how to use to make stagger animation.
+
+**Task Accomplished:** I was able to learn how to use rotation animation in images and create different timing durations.
+
+**Results:** I continued coding the amazing websited designed by [Shamima Nasrin](https://dribbble.com/shamimanasrin?ref=uistore.design).
+             I used Gsap to create the amazing  animations
+
+**Tweet:** https://twitter.com/TracyCss/status/1276560015395094529
+
+
+[![Day 5 image](assets/img/day-5.gif)]
 
 ---
