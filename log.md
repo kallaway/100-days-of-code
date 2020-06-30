@@ -57,6 +57,17 @@ Articles:
 
 **Link(s) to work**: The Nature of Software Development
 
+
+### Day 7: June 28th, 2020
+
+**Today's Progress**: Finished up my todo app using vue.js and node.js
+
+**Thoughts**: Vue.js is very interesting. So far am I loving the feel of it. I like how everything for that component is in one file so it makes it easier to manage. I still need to do more practice to understand the in and out, but so far I am having fun with it.
+
+**Link(s) to work**:
+[Repo](https://github.com/TRose2014/todo-app-node-vue)
+
+
 Template:
 
 ### Day 2: June 14th, 2020 (Example 2)
