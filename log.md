@@ -389,3 +389,12 @@
  None
 ##### Link To Reference:
  (https://github.com/PriyaShrinithi/DataStructures-and-Java/blob/master/Trie.java)
+
+# Day 44: 1st July, 2020
+
+##### Today's progress:
+ Solved a July leetcode question
+##### Thoughts:
+ None
+##### Link to Reference:
+ (https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)
