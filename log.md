@@ -68,6 +68,14 @@ Articles:
 [Repo](https://github.com/TRose2014/todo-app-node-vue)
 
 
+### Day 8: June 30th, 2020
+
+**Today's Progress**: Started Tic Tac Toe game using vue.js
+
+**Thoughts**: Alot to learn still on vue.js, but it really makes things easier to me
+
+**Link(s) to work**: [Repo](https://github.com/TRose2014/tictactoe-vue)
+
 Template:
 
 ### Day 2: June 14th, 2020 (Example 2)
@@ -90,3 +98,8 @@ Example:
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+[Flutter](https://blog.codeminer42.com/build-your-first-app-with-flutter-getting-data-from-api-c9fb4c2a6812/)
+[TicTacToe](https://levelup.gitconnected.com/building-tic-tac-toe-in-vue-js-57a23822313d)
+[Authentication](https://scotch.io/tutorials/build-and-understand-a-simple-nodejs-website-with-user-authentication)
