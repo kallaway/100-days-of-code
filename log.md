@@ -78,6 +78,16 @@ Articles:
 
 Template:
 
+### Day 9: July 1st, 2020 
+
+**Today's Progress**: Working through tic tac toe computer moves
+
+**Thoughts**: Ran into a few bugs working on pinpointing the issue and fixing them
+
+**Link(s) to work**:
+
+Template:
+
 ### Day 2: June 14th, 2020 (Example 2)
 ##### (delete me or comment me out)
 
