@@ -398,3 +398,14 @@
  None
 ##### Link to Reference:
  (https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)
+ 
+# Day 45: 2nd July, 2020
+
+##### Today's progress:
+ Solved a Bunch of DFS leetcode problems using trees. 
+##### Thoughts:
+ Faster Problem Solving
+##### Link to Reference:
+ (https://leetcode.com/problems/same-tree/)
+ (https://leetcode.com/problems/symmetric-tree/)
+ (https://leetcode.com/problems/validate-binary-search-tree/)
