@@ -409,3 +409,13 @@
  (https://leetcode.com/problems/same-tree/)
  (https://leetcode.com/problems/symmetric-tree/)
  (https://leetcode.com/problems/validate-binary-search-tree/)
+ 
+ # Day 46: 3rd July, 2020
+ 
+ ##### Today's progress:
+  Solved a couple leetcode questions
+ ##### Thoughts:
+  Speed and could have thought of set sooner  than I did maps.
+ ##### Link to references
+  (https://leetcode.com/problems/two-sum/submissions/)
+  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)
