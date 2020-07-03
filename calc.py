@@ -1,0 +1,6 @@
+num1 = input("Enter a number: ")
+num2 = input("Enter another number: ")
+addition = float(num1) + float(num2)
+multiplication = float(num1) * float(num2)
+print(addition)
+print(multiplication)
