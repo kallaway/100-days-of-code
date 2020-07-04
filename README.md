@@ -3,7 +3,6 @@
 #### My social media platform
 
 [Twitter](https://twitter.com/TracyCss "Follow me on Twitter") 
-
 [GitHub](https://github.com/muchirijane "Follow me om GitHub or check out my projects")  
 [CodePen](https://codepen.io/tracey_jane "Follow me on CodePen or check out my pens")  
 [Dev Community Blog](https://dev.to/janetracydev "Follow me and  check out my posts")
@@ -119,3 +118,33 @@ This are the sections I am going to focus on to improve my front end skills. I h
 [![Day 5 image](assets/img/day-5.gif)]
 
 ---
+### Day 6
+##### Getting started with Gsap animation
+
+**Today's Progress**: I continued going through the Gsap documentation to know how to use to make stagger animation.
+
+**Task Accomplished:** I was able to learn how to use rotation and scale animation in images and create different timing durations.
+
+**Results:** I continued coding the amazing websited designed by [Shamima Nasrin](https://dribbble.com/shamimanasrin?ref=uistore.design).
+             I used Gsap to create the amazing  animations
+
+**Tweet:** https://twitter.com/TracyCss/status/1277547377658933253
+
+
+[![Day 6 image](assets/img/day-6.gif)]
+
+---
+### Day 7
+##### Getting started with Gsap animation
+
+**Today's Progress**: I continued going through the Gsap documentation to know how to use to make stagger animation.
+
+**Task Accomplished:** I was able to learn how to use scale and position animation(x and y) in images and create different timing durations.
+
+**Results:** I continued coding the amazing websited designed by [Shamima Nasrin](https://dribbble.com/shamimanasrin?ref=uistore.design).
+             I used Gsap to create the amazing  animations
+
+**Tweet:** https://twitter.com/TracyCss/status/1277873031004684288
+
+
+[![Day 7 image](assets/img/day-7.mkv)]
