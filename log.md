@@ -419,3 +419,12 @@
  ##### Link to references
   (https://leetcode.com/problems/two-sum/submissions/)
   (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)
+  
+ # Day 47: 5th July, 2020
+ 
+ ##### Today's progress:
+  Solved a July leetcode question
+ ##### Thoughts
+  Application of bitwise operations in java
+ ##### Link to refeences:
+ (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)
