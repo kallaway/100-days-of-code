@@ -3,7 +3,7 @@
 #### My social media platform
 
 [Twitter](https://twitter.com/TracyCss "Follow me on Twitter") 
-[GitHub](https://github.com/muchirijane "Follow me om GitHub or check out my projects")  
+[GitHub account](https://github.com/muchirijane "Follow me om GitHub or check out my projects")  
 [CodePen](https://codepen.io/tracey_jane "Follow me on CodePen or check out my pens")  
 [Dev Community Blog](https://dev.to/janetracydev "Follow me and  check out my posts")
 
