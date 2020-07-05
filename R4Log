@@ -5,7 +5,16 @@ Today's Progress:
 
 Thoughts: 
 
-Link to work: https://fbo-scorecard.glitch.me/
+Link to work: http://localhost:3000/
+
+Day 08
+July 05, 2020
+
+Today's Progress: Created the capability on my app to delete a record from the MongoDB database (with an 'are you sure?' modal.
+
+Thoughts: It makes a little more sense every day, and I'm trying to value the time I take to do outside reading to learn about and internalize the structure and various components and packages that I'm using.  I know all that stuff is important, and it keeps my thoughts from swirling.  The best idea is to take time to examine each component that interests me, do a little research, and try to explain it to a non-technical person.  If I can explain it at that level, I understand its function and value in my overall project.  That way, as I get better at this and am building my own stuff, I can better recall (or at least search my notes) to find and incorporate the components I need in my project.
+
+Link to work: http://localhost:3000/
 
 Day 07
 July 04, 2020
