@@ -428,3 +428,12 @@
   Application of bitwise operations in java
  ##### Link to refeences:
  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)
+ 
+# Day 48: 6th July, 2020
+
+##### Today's progress:
+ Solved a July Leetcode Challenge
+##### Thoughts:
+ Understood the applications of dynamic arrays
+##### Link to references:
+ (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)
