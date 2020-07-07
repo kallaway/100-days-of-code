@@ -437,3 +437,11 @@
  Understood the applications of dynamic arrays
 ##### Link to references:
  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)
+ 
+# Day 49: 7th July, 2020
+##### Today's progress:
+ Solved a DFS based LeetCode Question
+##### Thoughts:
+ Need to learn more about applying dfs and when to prefer it over bfs
+##### Link to references:
+ (https://leetcode.com/problems/surrounded-regions/submissions/)
