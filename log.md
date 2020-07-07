@@ -86,6 +86,13 @@ Template:
 
 **Link(s) to work**:
 
+### Day 10: July 7th, 2020
+**Today's Progress**: Got started on creating a react native app hiting a video game api.
+
+**Thoughts**: Took a bit of break, had a hard time getting motivated. Also had a few things going on. But now I am back at it, and want to make a mobile video game search app. Expo snack is limited in what it can do so need to bring it down to my local environment.
+
+**Link(s) to work**: [Expo-Snack](https://snack.expo.io/@tiarose2014/game-search)
+
 Template:
 
 ### Day 2: June 14th, 2020 (Example 2)
