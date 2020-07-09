@@ -445,3 +445,12 @@
  Need to learn more about applying dfs and when to prefer it over bfs
 ##### Link to references:
  (https://leetcode.com/problems/surrounded-regions/submissions/)
+ 
+# Day 50: 9th July, 2020
+##### Today's progress:
+ Solved a couple leetcode qyestions based on linked list
+##### Thoughts:
+ Manipulation of references is quite important
+##### Link to references:
+ (https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1205/)
+ (https://leetcode.com/problems/add-two-numbers/submissions/)
