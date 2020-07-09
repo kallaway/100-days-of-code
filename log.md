@@ -76,7 +76,6 @@ Articles:
 
 **Link(s) to work**: [Repo](https://github.com/TRose2014/tictactoe-vue)
 
-Template:
 
 ### Day 9: July 1st, 2020 
 
@@ -92,6 +91,15 @@ Template:
 **Thoughts**: Took a bit of break, had a hard time getting motivated. Also had a few things going on. But now I am back at it, and want to make a mobile video game search app. Expo snack is limited in what it can do so need to bring it down to my local environment.
 
 **Link(s) to work**: [Expo-Snack](https://snack.expo.io/@tiarose2014/game-search)
+
+
+### Day 11: July 8th, 2020 
+
+**Today's Progress**: Started a vue.js app that hits a video game api
+
+**Thoughts**: Going to do the video game api using vue and make it mobile friendly. Brining Native down to my local env would cause me to downgrade npm. Vue is super cool. Plan is to render the info I am getting, add some authentication, and CSS it up
+
+**Link(s) to work**: Haven't push it yet, some commented out code I need to delete
 
 Template:
 
