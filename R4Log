@@ -7,6 +7,15 @@ Thoughts:
 
 Link to work: http://localhost:3000/
 
+Day 11
+July 08, 2020
+
+Today's Progress: Built a form to add a product to my database, and validate all of the form data in the #React client. Tomorrow I'll work on the transfer into #MongoDB.
+
+Thoughts: I'm getting a little concerned because I'm not internalizing how to create these React components.  The code is so asynchronous, and so complex, and so tightly integrated.  Coding the MERN stack seems more an exercise in memorizing and researching functional attributes, and less about logic and data flow.  It's a real challenge, but if I'm honest I understand that it's how modern code works.  It's a longer learning curve for me because I don't have as much background in functional programming.  But that's the challenge, because if I learn it I'll be many times more powerful as a developer than if I stick to the old way.
+
+Link to work: http://localhost:3000/
+
 Day 10
 July 7, 2020
 
