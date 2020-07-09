@@ -7,6 +7,14 @@ Thoughts:
 
 Link to work: http://localhost:3000/
 
+Day 12
+July 09, 2020
+
+Today's Progress: Successfully buit the POST request to add a record to the database, set up Cloudinary to hold my image data and successfully uploaded the record there as well. 
+
+Thoughts: I'm making tactical progress and am impressed with myself that I can debug a little.  Some of the API logic is making sense to me, and I guess I'm getting sort of accustomed to the asynchronous function calls.  But I'm definitaly a long way from writing code on my own.
+
+Link to work: http://localhost:3000/
 Day 11
 July 08, 2020
 
