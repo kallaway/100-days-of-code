@@ -9,3 +9,12 @@
 **Link(s) to work**
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
 
+
+### Day 2: July 9, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
