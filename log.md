@@ -19,10 +19,18 @@ Was able to reverse a string with a for loop. Unable to solve recursively(need t
 understanding of syntax).
 
 **Thoughts** 
+<<<<<<< HEAD
 Today I've learned:
 * `length` method can be applied to arrays and string
 * Javascript follows the _lexical scope_ principle 
   * i.e. in nested functions, the inner function has access to both inner and outer variables. Whereas the outer function only has access to outer variables.  
+=======
+Todays I've learned:
+* `length` method can be applied to arrays and string
+* Javascript follows the _lexical scope_ principle 
+  * i.e. in nested functions, the inner function has access to both inner and outer variables.
+    Whereas the outer function only has access to outer variables.  
+>>>>>>> 486d819d7035a72805f6a99f7346ba40358cb832
 
 **Link(s) to work**
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
