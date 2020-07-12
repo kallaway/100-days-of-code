@@ -101,6 +101,15 @@ Articles:
 
 **Link(s) to work**: Haven't push it yet, some commented out code I need to delete
 
+
+### Day 12: July 11th, 2020 
+
+**Today's Progress**: Have video games items rendering and added some CSS
+
+**Thoughts**: Vue.js is really easy to understand and work with. Liking it a lot. Need to add auth
+
+**Link(s) to work**: Still haven't pushed up code. Need to clean some files and componentize.
+
 Template:
 
 ### Day 2: June 14th, 2020 (Example 2)
