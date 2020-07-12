@@ -10,6 +10,7 @@ I have seen numerous examples of solving this with a for loop, recursion and bui
 
 **Link(s) to work**
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
+{:target="_blank"}
 
 
 ### Day 2: July 9, 2020
@@ -26,12 +27,13 @@ Today I've learned:
 
 **Link(s) to work**  
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
+{:target="_blank"}
 
 
 ### Day 3: July 11, 2020
 
 **Today's Progress**   
-Skips a day because I fell asleep last night😓. Was unable to reverse a string recursively.   
+Skiped a day because I fell asleep last night😓. Was unable to reverse a string recursively.   
 
 **Thoughts**     
 Kept trying to make my solution similar to loop by declaring variables.  
@@ -42,3 +44,19 @@ Today I've learned:
 
 **Link(s) to work**    
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
+{:target="_blank"}
+
+
+### Day 4: July 12, 2020
+
+**Today's Progress**   
+Attempt _Sock Merchant_ problem on Hacker Rank. Was able to solve for key-paired values sock object.  
+
+**Thoughts**     
+Hacker Rank consider this a warmup problem, but it is definetely not for beginners.  
+
+Today I've learned:
+* how to create/add key-paired values to an empty object with conditional statement   
+
+**Link(s) to work**    
+1. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant</a>
