@@ -473,3 +473,12 @@
  ##### Link to Reference:
   (https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/)
   
+ # Day 53: 12th July, 2020
+ 
+ ##### Today's progress:
+  Solved July LeetCode Challemge
+ ##### Thoughts:
+  Had to Look up a lot about a lot of things before coming up with a solution.
+ ##### Link to Reference:
+  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)
+  
