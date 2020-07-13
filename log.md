@@ -482,3 +482,11 @@
  ##### Link to Reference:
   (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)
   
+ # Day 54: 13th July, 2020
+ 
+ ##### Today's progress:
+  Solved July leetcode question
+ ##### Thoughts:
+  Got an idea on Recursive bfs
+ ##### Link to Reference:
+  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)
