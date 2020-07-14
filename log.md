@@ -6,11 +6,10 @@
 Tried working on a solution for reversing a string with a while loop. 
 
 **Thoughts**   
-I have seen numerous examples of solving this with a for loop, recursion and built-in methods. A while loop may not be the most optimal but I wanted to mix things up to see if it was possible to solve. 
+I have seen numerous examples of solving this with a for loop, recursion and built-in methods. A while loop may not be the optimal, but I wanted to mix things up to see if it was possible to solve. 
 
 **Link(s) to work**
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
-{:target="_blank"}
 
 
 ### Day 2: July 9, 2020
@@ -27,7 +26,6 @@ Today I've learned:
 
 **Link(s) to work**  
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
-{:target="_blank"}
 
 
 ### Day 3: July 11, 2020
@@ -36,7 +34,7 @@ Today I've learned:
 Skiped a day because I fell asleep last night😓. Was unable to reverse a string recursively.   
 
 **Thoughts**     
-Kept trying to make my solution similar to loop by declaring variables.  
+Kept trying to make my solution similar to a for loop by declaring variables.  
 Recursion is sometimes not the most optimal solution, which is true in this case.  
 
 Today I've learned:
@@ -44,19 +42,33 @@ Today I've learned:
 
 **Link(s) to work**    
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
-{:target="_blank"}
 
 
 ### Day 4: July 12, 2020
 
 **Today's Progress**   
-Attempt _Sock Merchant_ problem on Hacker Rank. Was able to solve for key-paired values sock object.  
+Attempted _Sock Merchant_ problem on Hacker Rank. Was able to solve for key-paired values sock object.  
 
 **Thoughts**     
-Hacker Rank consider this a warmup problem, but it is definetely not for beginners.  
+Hacker Rank considered this a warmup problem, but it is definetely not for beginners.  
 
 Today I've learned:
 * how to create/add key-paired values to an empty object with conditional statement   
+
+**Link(s) to work**    
+1. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant</a>
+
+
+### Day 5: July 13, 2020
+
+**Today's Progress**   
+Attempted _Sock Merchant_ problem on Hacker Rank again. Was able to target all property values. Was unable to get tally of even pairs of socks to solve problem.
+
+**Thoughts**     
+Once I am able to get tally of even pairs, this solution will need to be combined with first solution(key-paired values sock object).
+
+Today I've learned:
+* `Object.values` method can be used to return property values within an object
 
 **Link(s) to work**    
 1. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant</a>
