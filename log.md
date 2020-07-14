@@ -490,3 +490,12 @@
   Got an idea on Recursive bfs
  ##### Link to Reference:
   (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)
+  
+ # Day 55: 14th July, 2020
+ 
+ ##### Today's progress:
+  Solved July Leetcode Question
+ ##### Thoughts:
+  None
+ ##### Link to Reference:
+  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)
