@@ -2,9 +2,14 @@
 
 #### My social media platform
 
+<<<<<<< HEAD
 [Twitter](https://twitter.com/TracyCss "Follow me on Twitter") <br>
 [GitHub](https://github.com/muchirijane "Follow me om GitHub or check out my projects")  
+=======
+[Twitter](https://twitter.com/TracyCss "Follow me on Twitter") 
+>>>>>>> e3e428f4e5fa31b92d72f016bf2211f71239a3a9
 [CodePen](https://codepen.io/tracey_jane "Follow me on CodePen or check out my pens")  
+[GitHub](https://github.com/muchirijane "Follow me om GitHub or check out my projects")  
 [Dev Community Blog](https://dev.to/janetracydev "Follow me and  check out my posts")
 
 ## Welcome to my journey!
@@ -147,6 +152,7 @@ This are the sections I am going to focus on to improve my front end skills. I h
 **Tweet:** https://twitter.com/TracyCss/status/1277873031004684288
 
 
+<<<<<<< HEAD
 [![Day 7 image](assets/img/day-7.gif)]
 
 ### Day 8
@@ -216,3 +222,5 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 
 ![Day 12 image](assets/img/day-12.gif)
+
+
