@@ -148,3 +148,20 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 
 [![Day 7 image](assets/img/day-7.gif)]
+
+### Day 8
+##### Getting started with Regex in javascript
+
+**Today's Progress**: I started learning about regex syntax and how to work with it to validate forms.
+
+**Task Accomplished:** I was able to understand regex syntax and how it operates in JavaScript. Getting to know about single characters, the greedy characters and the quantifiers. 
+
+**Results:** I was able to create a simple login in form that has validation with the help of regex characters.
+
+**Tweet:** https://twitter.com/TracyCss/status/1278316219968479232
+
+[Github source files](https://github.com/muchirijane/regex-basic)
+
+**Update:** My Git and Github for beginners post got in the top 7 post in Dev community and also got the Git badge. Totally amazing for my first tech blog article to get this far.
+
+[![Day 8 image](assets/img/day-8.gif)]
