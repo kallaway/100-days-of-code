@@ -47,7 +47,7 @@ Today I've learned:
 ### Day 4: July 12, 2020
 
 **Today's Progress**   
-Attempted _Sock Merchant_ problem on Hacker Rank. Was able to solve for key-paired values sock object.  
+Attempted _Sock Merchant_ problem from Hacker Rank on *Repl.it* website. Was able to solve for key-paired values sock object.  
 
 **Thoughts**     
 Hacker Rank considered this a warmup problem, but it is definetely not for beginners.  
@@ -56,13 +56,14 @@ Today I've learned:
 * how to create/add key-paired values to an empty object with conditional statement   
 
 **Link(s) to work**    
-1. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant</a>
+1. <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5" target="_blank">Sock Merchant HackerRank </a>
+2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Sock-Merchant" target="_blank">Sock Merchant repl attempt</a>
 
 
 ### Day 5: July 13, 2020
 
 **Today's Progress**   
-Attempted _Sock Merchant_ problem on Hacker Rank again. Was able to target all property values. Was unable to get tally of even pairs of socks to solve problem.
+Attempted to _Sock Merchant_ problem on *Repl.it* again. Was able to target all property values. Was unable to get tally of even pairs of socks to solve problem.
 
 **Thoughts**     
 Once I am able to get tally of even pairs, this solution will need to be combined with first solution(key-paired values sock object).
@@ -71,4 +72,20 @@ Today I've learned:
 * `Object.values` method can be used to return property values within an object
 
 **Link(s) to work**    
-1. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant</a>
+1. <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5" target="_blank">Sock Merchant HackerRank </a>
+
+2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
+
+
+### Day 6: July 14, 2020
+
+**Today's Progress**   
+Attempted to solve _Sock Merchant_ problem on *Repl.it* again. Was able to get tally of all even pairs with reduce method.
+
+**Thoughts**     
+The `reduce` method is a powerful one and can be used to perform tally-up an object for number of occurence and getting total count of an array. Will attempt to use only `reduce` to arrive at solution.
+
+**Link(s) to work**    
+1. <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5" target="_blank">Sock Merchant HackerRank </a>
+
+2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
