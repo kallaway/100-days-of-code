@@ -147,4 +147,4 @@ This are the sections I am going to focus on to improve my front end skills. I h
 **Tweet:** https://twitter.com/TracyCss/status/1277873031004684288
 
 
-[![Day 7 image](assets/img/day-7.mkv)]
+[![Day 7 image](assets/img/day-7.gif)]
