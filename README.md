@@ -1,8 +1,8 @@
-# 100 Days Of Code - [Jane Muthoni](https://dev.to/janetracydev)
+# 100 Days Of Code - [Dev blog artices](https://dev.to/janetracydev)
 
 #### My social media platform
 
-[Twitter](https://twitter.com/TracyCss "Follow me on Twitter") 
+[Twitter](https://twitter.com/TracyCss "Follow me on Twitter") <br>
 [GitHub](https://github.com/muchirijane "Follow me om GitHub or check out my projects")  
 [CodePen](https://codepen.io/tracey_jane "Follow me on CodePen or check out my pens")  
 [Dev Community Blog](https://dev.to/janetracydev "Follow me and  check out my posts")
@@ -165,3 +165,20 @@ This are the sections I am going to focus on to improve my front end skills. I h
 **Update:** My Git and Github for beginners post got in the top 7 post in Dev community and also got the Git badge. Totally amazing for my first tech blog article to get this far.
 
 [![Day 8 image](assets/img/day-8.gif)]
+
+### Day 9 - 10
+#####  Regex expression in javascript
+
+**Today's Progress**: I continued learning about regex syntax and how to work with it in code editors or strings in inputs.
+
+**Task Accomplished:** I was able to get to know how to a string and group it into individual groups with regex pattern.
+
+**Results:** I was able to code a fun project where text value from the textarea is converted into span tags that you can hover over and they change their background color.
+
+**Tweet:** https://twitter.com/TracyCss/status/1278964521613303808
+
+[Github source files](https://github.com/muchirijane/regex-word-generator) <br>
+[Live Preview](https://muchirijane.github.io/regex-word-generator/)
+
+
+[![Day 10 image](assets/img/day-10.gif)]
