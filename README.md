@@ -182,3 +182,19 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 
 [![Day 10 image](assets/img/day-10.gif)]
+
+### Day 11
+#####  Regex expression in javascript
+
+**Today's Progress**: After learn about regex expression and how it's applied in forms, card validation and other areas.
+
+**Task Accomplished:** Learn more about regex and write an artcle.
+
+**Results:** I was able to publish my second tech post about Regex expression in Javascript for beginners. This is a deep drive of regex,, it's aplication and resources to use to learn it.
+
+**Tweet:** https://twitter.com/TracyCss/status/1279770095225647104
+
+**Dev Post:** [Regex expression in Javascript for beginners](https://dev.to/tracycss/basic-regex-in-javascript-for-beginners-1dnn)
+
+
+[![Day 10 image](assets/img/day-10.gif)]
