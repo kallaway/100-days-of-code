@@ -2,12 +2,7 @@
 
 #### My social media platform
 
-<<<<<<< HEAD
 [Twitter](https://twitter.com/TracyCss "Follow me on Twitter") <br>
-[GitHub](https://github.com/muchirijane "Follow me om GitHub or check out my projects")  
-=======
-[Twitter](https://twitter.com/TracyCss "Follow me on Twitter") 
->>>>>>> e3e428f4e5fa31b92d72f016bf2211f71239a3a9
 [CodePen](https://codepen.io/tracey_jane "Follow me on CodePen or check out my pens")  
 [GitHub](https://github.com/muchirijane "Follow me om GitHub or check out my projects")  
 [Dev Community Blog](https://dev.to/janetracydev "Follow me and  check out my posts")
@@ -25,7 +20,7 @@ At the end of this challenge i would love to have learnt the following:
 - Object Oriented Programming in JS
 - Create more front-end websites
 - Learn Vue/react js
-- Pug and/or Haml
+- Node Js
 - Improve in refactoring code and degugging
 
 This are the sections I am going to focus on to improve my front end skills. I hope during or by the end of the challange I will have a job in front end development or freelancing.
@@ -103,7 +98,7 @@ This are the sections I am going to focus on to improve my front end skills. I h
 **Tweet:** https://twitter.com/TracyCss/status/1276560015395094529
 
 
-[![Day 4 image](assets/img/day-4.gif)]
+![Day 4 image](assets/img/day-4.gif)
 
 ---
 
@@ -120,9 +115,11 @@ This are the sections I am going to focus on to improve my front end skills. I h
 **Tweet:** https://twitter.com/TracyCss/status/1276560015395094529
 
 
-[![Day 5 image](assets/img/day-5.gif)]
+![Day 5 image](assets/img/day-5.gif)
 
 ---
+
+
 ### Day 6
 ##### Getting started with Gsap animation
 
@@ -136,9 +133,10 @@ This are the sections I am going to focus on to improve my front end skills. I h
 **Tweet:** https://twitter.com/TracyCss/status/1277547377658933253
 
 
-[![Day 6 image](assets/img/day-6.gif)]
+![Day 6 image](assets/img/day-6.gif)
 
 ---
+
 ### Day 7
 ##### Getting started with Gsap animation
 
@@ -151,9 +149,11 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 **Tweet:** https://twitter.com/TracyCss/status/1277873031004684288
 
+![Day 7 image](assets/img/day-7.gif)
 
-<<<<<<< HEAD
-[![Day 7 image](assets/img/day-7.gif)]
+
+---
+
 
 ### Day 8
 ##### Getting started with Regex in javascript
@@ -166,12 +166,15 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 **Tweet:** https://twitter.com/TracyCss/status/1278316219968479232
 
-[Github source files 📜 ](https://github.com/muchirijane/regex-basic)
-[Live preview 🎥 ](https://muchirijane.github.io/regex-basic/)
+[💻 Github source files](https://github.com/muchirijane/regex-basic) <br>
+[🎥 Live preview](https://muchirijane.github.io/regex-basic/)
 
 **Update:** My Git and Github for beginners post got in the top 7 post in Dev community and also got the Git badge. Totally amazing for my first tech blog article to get this far.
 
 ![Day 8 image](assets/img/day-8.gif)
+
+
+---
 
 ### Day 9 - 10
 #####  Regex expression in javascript
@@ -184,11 +187,15 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 **Tweet:** https://twitter.com/TracyCss/status/1278964521613303808
 
-[Github source files 📜 ](https://github.com/muchirijane/regex-word-generator) <br>
-[Live Preview 🎥 ](https://muchirijane.github.io/regex-word-generator/)
+[📜 Github source files](https://github.com/muchirijane/regex-word-generator) <br>
+[🎥 Live Preview ](https://muchirijane.github.io/regex-word-generator/)
 
 
 ![Day 10 image](assets/img/day-10.gif)
+
+---
+
+
 
 ### Day 11
 #####  Regex expression in javascript
@@ -201,10 +208,13 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 **Tweet:** https://twitter.com/TracyCss/status/1279770095225647104
 
-**Dev Post:** [Regex expression in Javascript for beginners ✍ ](https://dev.to/tracycss/basic-regex-in-javascript-for-beginners-1dnn)
+**Dev Post:** [✍ Regex expression in Javascript for beginners](https://dev.to/tracycss/basic-regex-in-javascript-for-beginners-1dnn)
 
 
 ![Day 11 image](assets/img/day-11.gif)
+
+---
+
 
 ### Day 12 - 13
 #####   Web speech API in javascript
@@ -217,10 +227,11 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 **Tweet:** https://twitter.com/TracyCss/status/1281474098326114305
 
-[Github source files 📜 ](https://github.com/muchirijane/chat-trial) <br>
-[Live Preview 🎥 ](https://muchirijane.github.io/chat-trial/)
+[📜 Github source files ](https://github.com/muchirijane/chat-trial) <br>
+[🎥  Live Preview ](https://muchirijane.github.io/chat-trial/)
 
 
 ![Day 12 image](assets/img/day-12.gif)
 
+---
 
