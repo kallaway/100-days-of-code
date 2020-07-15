@@ -160,11 +160,12 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 **Tweet:** https://twitter.com/TracyCss/status/1278316219968479232
 
-[Github source files](https://github.com/muchirijane/regex-basic)
+[Github source files 📜 ](https://github.com/muchirijane/regex-basic)
+[Live preview 🎥 ](https://muchirijane.github.io/regex-basic/)
 
 **Update:** My Git and Github for beginners post got in the top 7 post in Dev community and also got the Git badge. Totally amazing for my first tech blog article to get this far.
 
-[![Day 8 image](assets/img/day-8.gif)]
+![Day 8 image](assets/img/day-8.gif)
 
 ### Day 9 - 10
 #####  Regex expression in javascript
@@ -177,11 +178,11 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 **Tweet:** https://twitter.com/TracyCss/status/1278964521613303808
 
-[Github source files](https://github.com/muchirijane/regex-word-generator) <br>
-[Live Preview](https://muchirijane.github.io/regex-word-generator/)
+[Github source files 📜 ](https://github.com/muchirijane/regex-word-generator) <br>
+[Live Preview 🎥 ](https://muchirijane.github.io/regex-word-generator/)
 
 
-[![Day 10 image](assets/img/day-10.gif)]
+![Day 10 image](assets/img/day-10.gif)
 
 ### Day 11
 #####  Regex expression in javascript
@@ -194,7 +195,24 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 **Tweet:** https://twitter.com/TracyCss/status/1279770095225647104
 
-**Dev Post:** [Regex expression in Javascript for beginners](https://dev.to/tracycss/basic-regex-in-javascript-for-beginners-1dnn)
+**Dev Post:** [Regex expression in Javascript for beginners ✍ ](https://dev.to/tracycss/basic-regex-in-javascript-for-beginners-1dnn)
 
 
-[![Day 10 image](assets/img/day-10.gif)]
+![Day 11 image](assets/img/day-11.gif)
+
+### Day 12 - 13
+#####   Web speech API in javascript
+
+**Today's Progress**: Started learning about speech recognition and speech synthesis.
+
+**Task Accomplished:** I was able to go through Mozilla developer documentation about Web Speech API and build their examples as I learn.
+
+**Results:** I was able to publish my second tech post about Regex expression in Javascript for beginners. This is a deep drive of regex,, it's aplication and resources to use to learn it. I found a git repo from coding curry and I also used it in my learning process.
+
+**Tweet:** https://twitter.com/TracyCss/status/1281474098326114305
+
+[Github source files 📜 ](https://github.com/muchirijane/chat-trial) <br>
+[Live Preview 🎥 ](https://muchirijane.github.io/chat-trial/)
+
+
+![Day 12 image](assets/img/day-12.gif)
