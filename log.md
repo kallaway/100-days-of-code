@@ -500,3 +500,12 @@
  ##### Link to Reference:
   (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)
   (https://leetcode.com/problems/reverse-integer/submissions/)
+  
+ # Day 56: 15th Juky, 2020
+ 
+ ##### Today's progress:
+  Solved July Leetcode question
+ ##### Thoughts:
+  Slow in Regex
+ ##### Link to Reference:
+  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)
