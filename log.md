@@ -89,3 +89,17 @@ The `reduce` method is a powerful one and can be used to perform tally-up an obj
 1. <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5" target="_blank">Sock Merchant HackerRank </a>
 
 2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
+
+
+### Day 7: July 15, 2020
+
+**Today's Progress**   
+Attempted to solve _Sock Merchant_ problem on *Repl.it* on final time. Was unable to combine *for loop* with *reduce* method successfully. This was probably due to scoping issues from the *reduce* function. 
+
+**Thoughts**     
+After looking at HackerRank solutions, I had the correct idea with solving for object then solving for even pairs. This does give me some assurance. 
+
+**Link(s) to work**    
+1. <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5" target="_blank">Sock Merchant HackerRank </a>
+
+2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
