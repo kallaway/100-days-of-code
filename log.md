@@ -110,6 +110,14 @@ Articles:
 
 **Link(s) to work**: Still haven't pushed up code. Need to clean some files and componentize.
 
+### Day 13: July 16th, 2020 
+
+**Today's Progress**: Was working on routes with vue, then stumbled upon [Dev Challenges](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
+
+**Thoughts**: Dev Challenges is more front end focused but it gives me something to strive for without me trying to figure out projects on my own
+
+**Link(s) to work**: [Rep](https://github.com/TRose2014/404-dev-challenge)
+
 Template:
 
 ### Day 2: June 14th, 2020 (Example 2)
