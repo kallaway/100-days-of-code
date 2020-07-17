@@ -509,3 +509,11 @@
   Slow in Regex
  ##### Link to Reference:
   (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)
+  
+ # Day 57:16th July, 2020
+ ##### Today's progress:
+  Solved July Leetcode Question
+ ##### Thoughts:
+  None
+ ##### Link to References:
+  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)
