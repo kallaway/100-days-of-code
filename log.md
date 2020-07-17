@@ -103,3 +103,18 @@ After looking at HackerRank solutions, I had the correct idea with solving for o
 1. <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5" target="_blank">Sock Merchant HackerRank </a>
 
 2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
+
+
+### Day 8: July 16, 2020
+
+**Today's Progress**   
+Attempted to review other users solutions from HackerRank. Was unable to understand solutions and get them to work in text editor.
+
+**Thoughts**     
+Instead of copying/pasting  solutions in text editor try to recreate the problem and apply solution in a different text editor. 
+
+**Link(s) to work**    
+1. <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5" target="_blank">Sock Merchant HackerRank </a>
+
+2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
+
