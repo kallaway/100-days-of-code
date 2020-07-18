@@ -118,3 +118,15 @@ Instead of copying/pasting  solutions in text editor try to recreate the problem
 
 2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
 
+
+### Day 9: July 17, 2020
+
+**Today's Progress**   
+Took an assessment(expired) for a job I previously applied for. Format of the test was as follow:  
+* 5 multiple choice problems
+* 1 Array sort problem
+* 2 React project problems 
+
+**Thoughts**     
+Will look for similar problems to practice with. Unfortunately I was unable to start server after cloning project.
+
