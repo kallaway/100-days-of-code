@@ -130,3 +130,15 @@ Took an assessment(expired) for a job I previously applied for. Format of the te
 **Thoughts**     
 Will look for similar problems to practice with. Unfortunately I was unable to start server after cloning project.
 
+
+
+### Day 10: July 18, 2020
+
+**Today's Progress**   
+Attempted to sort a random array in meandering order. Was able to sort array in descending order but unable to sort in meandering order. 
+
+**Thoughts**     
+Today I've learned:  
+* methods such as `push`, `unshift` cannot be applied to an empty variable
+
+
