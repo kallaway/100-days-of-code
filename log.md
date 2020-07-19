@@ -118,6 +118,15 @@ Articles:
 
 **Link(s) to work**: [Rep](https://github.com/TRose2014/404-dev-challenge)
 
+### Day 14: July 18th, 2020
+
+**Today's Progress**: Started a node.js project using okta and express-generator. 
+
+**Thoughts**: I am really, really loving working with node. Will wrap up this project and go back to do a dev challenge
+
+**Link(s) to work**: [Tutorial](https://scotch.io/tutorials/build-and-understand-a-simple-nodejs-website-with-user-authentication)
+
+
 Template:
 
 ### Day 2: June 14th, 2020 (Example 2)
