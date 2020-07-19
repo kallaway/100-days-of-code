@@ -122,7 +122,7 @@ Articles:
 
 **Today's Progress**: Started a node.js project using okta and express-generator. 
 
-**Thoughts**: I am really, really loving working with node. Will wrap up this project and go back to do a dev challenge
+**Thoughts**: I am really, really love working with node. Will wrap up this project and go back to do a dev challenge
 
 **Link(s) to work**: [Tutorial](https://scotch.io/tutorials/build-and-understand-a-simple-nodejs-website-with-user-authentication)
 
