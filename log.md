@@ -525,3 +525,11 @@
   Difficulty in understanding maps and Priority Queues. (Especially Prioriyt Queues)
  ##### Link to References:
   (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)
+  
+ # Day 59: 19th July, 2020
+ ##### Today's progress:
+  Solved a July leetcode question
+ ##### Thoughts:
+  None. 
+ ##### Link to References:
+  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)
