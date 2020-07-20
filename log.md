@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+<hr>
+
 ### Day 1: July 8, 2020
 
 **Today's Progress**  
@@ -11,6 +13,7 @@ I have seen numerous examples of solving this with a for loop, recursion and bui
 **Link(s) to work**
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
 
+<hr>
 
 ### Day 2: July 9, 2020
 
@@ -27,6 +30,7 @@ Today I've learned:
 **Link(s) to work**  
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
 
+<hr>
 
 ### Day 3: July 11, 2020
 
@@ -43,6 +47,7 @@ Today I've learned:
 **Link(s) to work**    
 1. [Reverse a string](https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js)
 
+<hr>
 
 ### Day 4: July 12, 2020
 
@@ -59,6 +64,7 @@ Today I've learned:
 1. <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5" target="_blank">Sock Merchant HackerRank </a>
 2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Sock-Merchant" target="_blank">Sock Merchant repl attempt</a>
 
+<hr>
 
 ### Day 5: July 13, 2020
 
@@ -76,6 +82,7 @@ Today I've learned:
 
 2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
 
+<hr>
 
 ### Day 6: July 14, 2020
 
@@ -90,6 +97,7 @@ The `reduce` method is a powerful one and can be used to perform tally-up an obj
 
 2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
 
+<hr>
 
 ### Day 7: July 15, 2020
 
@@ -104,6 +112,7 @@ After looking at HackerRank solutions, I had the correct idea with solving for o
 
 2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
 
+<hr>
 
 ### Day 8: July 16, 2020
 
@@ -118,6 +127,7 @@ Instead of copying/pasting  solutions in text editor try to recreate the problem
 
 2. <a href="https://repl.it/@simonxiong/100DaysOfCode-Reverse-a-string#index.js" target="_blank">Sock Merchant repl attempt</a>
 
+<hr>
 
 ### Day 9: July 17, 2020
 
@@ -130,15 +140,29 @@ Took an assessment(expired) for a job I previously applied for. Format of the te
 **Thoughts**     
 Will look for similar problems to practice with. Unfortunately I was unable to start server after cloning project.
 
-
+<hr>
 
 ### Day 10: July 18, 2020
 
 **Today's Progress**   
-Attempted to sort a random array in meandering order. Was able to sort array in descending order but unable to sort in meandering order. 
+Attempted to sort an array in meandering order. Was able to sort array in descending order but not in meandering order. 
 
 **Thoughts**     
 Today I've learned:  
 * methods such as `push`, `unshift` cannot be applied to an empty variable
 
+**Link(s) to work**    
+1. <a href="https://repl.it/@simonxiong/Meandering-Array#index.js" target="_blank">Meandering Array</a>
 
+<hr>
+
+### Day 11: July 19, 2020
+
+**Today's Progress**   
+Attempted to sort an array in meandering order. Was unable to solve even after looking at a solution for a similar problem. 
+
+**Thoughts**     
+Will have to take things down a notch working then work my way up toward interview type questions.  
+
+**Link(s) to work**    
+1. <a href="https://repl.it/@simonxiong/Meandering-Array#index.js" target="_blank">Meandering Array</a>
