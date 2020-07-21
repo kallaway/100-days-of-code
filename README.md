@@ -252,4 +252,25 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 ![Day 16 image](assets/img/day-16.gif)
 
+--- 
+
+### Day 17
+#####   Advanced ES6 features
+
+**Today's Progress**: Learned about rest, spread syntax
+
+**Task Accomplished:** Rest parameter - Helps to put all parameters inside a function in one array. <br>
+Spread syntax (arrays) - turns array components into individual values <br>
+Symbol is a primitive type - Can be used as keys or property names in objects
+
+**Results:** I was able to understand how set, rest and spread are used in a array. Also how to use set and it's  properties like .add, .size, .has and .delete .
+**Tweet:** https://twitter.com/TracyCss/status/1284146667097382912
+
+[Github source files 📜 ](https://github.com/muchirijane/chat-trial) <br>
+[Live Preview 🎥 ](https://muchirijane.github.io/chat-trial/)
+
+
+![Day 17 image](assets/img/day-17.png)
+
 ---
+
