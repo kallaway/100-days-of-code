@@ -126,6 +126,13 @@ Articles:
 
 **Link(s) to work**: [Tutorial](https://scotch.io/tutorials/build-and-understand-a-simple-nodejs-website-with-user-authentication)
 
+### Day 15: July 20th, 2020
+
+**Today's Progress**: Working on Okta redirect uri bug
+
+**Thoughts**: The url that I put in the okta dashboard is /users/callback but the redirect url in the browser is just localhost:3000. Added that to the okta dev console and still get 404 error. Need to revist.
+
+**Link(s) to work**: Not pushed
 
 Template:
 
