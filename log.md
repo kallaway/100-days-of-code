@@ -166,3 +166,20 @@ Will have to take things down a notch working then work my way up toward intervi
 
 **Link(s) to work**    
 1. <a href="https://repl.it/@simonxiong/Meandering-Array#index.js" target="_blank">Meandering Array</a>
+
+<hr>
+
+### Day 12: July 20, 2020
+
+**Today's Progress**   
+Started the **10 Days of JavaScript** challenge on HackerRank. Was able to solve *Day 2: Conditional Statement: Switch*.
+
+**Thoughts**     
+Taking it back to the basic to build momentum   
+Today I've Learned:  
+* fall-though technique can be used for multiple cases that will execute the same statement
+* return statement cannot be used inside switch statement
+
+**Link(s) to work**    
+1. <a href="https://www.hackerrank.com/challenges/js10-switch/problem" target="_blank">HackerRank Problem</a>
+1. <a href="https://www.hackerrank.com/rest/contests/master/challenges/js10-switch/hackers/simonxiong11/download_solution" target="_blank">HackerRank Solution</a>
