@@ -235,3 +235,21 @@ This are the sections I am going to focus on to improve my front end skills. I h
 
 ---
 
+### Day 14 - 16
+#####   Web speech API in javascript
+
+**Today's Progress**: Continued learning about speech recognition and speech synthesis.
+
+**Task Accomplished:** I was able to build a chatbot with JavaScript.
+
+**Results:** I built a deve assist chatbot which can help code newbies get started with web developement. I named the chatbot Rico. He can get the basic resources such where to learn Javascript or react Js. Also it recommends junior developers on youtube who have documented their journey into the field.
+
+**Tweet:** https://twitter.com/TracyCss/status/1283366013531234305
+
+[Github source files 📜 ](https://github.com/muchirijane/chat-trial) <br>
+[Live Preview 🎥 ](https://muchirijane.github.io/chat-trial/)
+
+
+![Day 16 image](assets/img/day-16.gif)
+
+---
