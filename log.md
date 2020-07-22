@@ -183,3 +183,23 @@ Today I've Learned:
 **Link(s) to work**    
 1. <a href="https://www.hackerrank.com/challenges/js10-switch/problem" target="_blank">HackerRank Problem</a>
 1. <a href="https://www.hackerrank.com/rest/contests/master/challenges/js10-switch/hackers/simonxiong11/download_solution" target="_blank">HackerRank Solution</a>
+
+
+<hr>
+
+### Day 13: July 21, 2020
+
+**Today's Progress**  
+Attempted to solve a loop and *Regex* problem. Was unsucessful and may be over complicting problem with a *for* or *while* loop. 
+
+
+**Thoughts**     
+Try to solve problem without using a *for* or *while* loop and only `match()` with *Regex*
+
+
+**Link(s) to work**    
+1. <a href="https://www.hackerrank.com/challenges/js10-loops/problem" target="_blank">Hacker Rank Loop Problem</a>
+
+
+
+
