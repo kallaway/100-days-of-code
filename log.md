@@ -541,3 +541,11 @@
   Have become quite independent in recursing as well as constructing linked list applications in Java
  ##### Link to References:
   (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)
+  
+ # Day 61: 22nd July, 2020
+ ##### Today's progress:
+  Solved a July Leetcode Question afte a two day sabbatical
+ ##### Thoughts:
+  Maps are key to speed.
+ ##### Link to References:
+  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)
