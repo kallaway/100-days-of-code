@@ -544,7 +544,7 @@
   
  # Day 61: 22nd July, 2020
  ##### Today's progress:
-  Solved a July Leetcode Question afte a two day sabbatical
+  Solved a July Leetcode Question after a two day sabbatical
  ##### Thoughts:
   Maps are key to speed.
  ##### Link to References:
