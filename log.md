@@ -134,6 +134,14 @@ Articles:
 
 **Link(s) to work**: Not pushed
 
+### Day 16: July 20th, 2020
+
+**Today's Progress**: Created another app for Okta and got that working fine. Need to go back to original app and fixing that issue
+
+**Thoughts**: Once I get the original app to where I want it. Plan on pushing it to Github. Then I want to add OAuth for GitHub, LinkedIn, Google
+
+**Link(s) to work**: Not pushed yet
+
 Template:
 
 ### Day 2: June 14th, 2020 (Example 2)
