@@ -201,5 +201,20 @@ Try to solve problem without using a *for* or *while* loop and only `match()` wi
 1. <a href="https://www.hackerrank.com/challenges/js10-loops/problem" target="_blank">Hacker Rank Loop Problem</a>
 
 
+<hr>
+
+### Day 14: July 23, 2020
+
+**Today's Progress**  
+Atttempted to solve Loop problem with Regex again. Was unsuccessful when trying to use both `exec` and `match` method in a function.
+
+**Thoughts**     
+After looking at solution, Regex was not required as it was not part of the lesson. That said, I was overcomplicating the problem with trying to use Regex. The problem could have been solved using two for loop. 
+
+**Link(s) to work**    
+1. <a href="https://www.hackerrank.com/challenges/js10-loops/problem" target="_blank">Hacker Rank Loop Problem</a>
+
+
+
 
 
