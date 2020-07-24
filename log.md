@@ -549,3 +549,11 @@
   Maps are key to speed.
  ##### Link to References:
   (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)
+
+# Day 62: 23rd July, 2020
+##### Today's progress:
+ Solved a binary search tree leetcode question
+##### Thoughts:
+ Queues and Trees and lists 
+##### Link to references:
+ (https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/)
