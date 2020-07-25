@@ -557,3 +557,11 @@
  Queues and Trees and lists 
 ##### Link to references:
  (https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/)
+
+# Day 63: 24th July, 2020
+##### Today's progress:
+ Zigzaged a binary tree
+##### Thoughts:
+ Turns out Locks can help in dsa
+##### Link to References:
+ (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/)
