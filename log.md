@@ -184,7 +184,6 @@ Today I've Learned:
 1. <a href="https://www.hackerrank.com/challenges/js10-switch/problem" target="_blank">HackerRank Problem</a>
 1. <a href="https://www.hackerrank.com/rest/contests/master/challenges/js10-switch/hackers/simonxiong11/download_solution" target="_blank">HackerRank Solution</a>
 
-
 <hr>
 
 ### Day 13: July 21, 2020
@@ -200,7 +199,6 @@ Try to solve problem without using a *for* or *while* loop and only `match()` wi
 **Link(s) to work**    
 1. <a href="https://www.hackerrank.com/challenges/js10-loops/problem" target="_blank">Hacker Rank Loop Problem</a>
 
-
 <hr>
 
 ### Day 14: July 23, 2020
@@ -213,6 +211,22 @@ After looking at solution, Regex was not required as it was not part of the less
 
 **Link(s) to work**    
 1. <a href="https://www.hackerrank.com/challenges/js10-loops/problem" target="_blank">Hacker Rank Loop Problem</a>
+
+<hr>
+
+### Day 15: July 24, 2020
+
+**Today's Progress**  
+Reviewed and brokedown submitted solutions to the *Loop* problem for understanding. 
+
+**Thoughts**   
+Today I've Learned:    
+* *for...of* statement is a shorthand way of iterating over an object that is iterable. 
+
+
+
+
+
 
 
 
