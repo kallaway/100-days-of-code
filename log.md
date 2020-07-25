@@ -223,7 +223,18 @@ Reviewed and brokedown submitted solutions to the *Loop* problem for understandi
 Today I've Learned:    
 * *for...of* statement is a shorthand way of iterating over an object that is iterable. 
 
+<hr>
 
+### Day 16: July 25, 2020
+
+**Today's Progress**  
+Attempted to solve *Array* problem on HackerRank. Was unable to target last element of array for a conditional statement to arrive at solution. 
+
+**Thoughts**   
+After looking at multiple solutions I came pretty close to solving this problem. My stratergy was the following:  
+* 1. sort through the array(ascending order)
+* 2. remove duplicates
+* 3. target second to last element and return value 
 
 
 
