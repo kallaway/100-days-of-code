@@ -565,3 +565,11 @@
  Turns out Locks can help in dsa
 ##### Link to References:
  (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/)
+
+# Day 64: 25th July, 2020
+##### Today's progress:
+ Summed digits of a number until a single digit number is returned
+##### Thoughts:
+ Gotten Faster
+##### Link to References:
+ (https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)
