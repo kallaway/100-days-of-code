@@ -542,7 +542,7 @@
  ##### Link to References:
   (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)
   
- # Day 61: 22nd July, 2020
+ # Day 61: 23nd July, 2020
  ##### Today's progress:
   Solved a July Leetcode Question after a two day sabbatical
  ##### Thoughts:
@@ -550,7 +550,7 @@
  ##### Link to References:
   (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)
 
-# Day 62: 23rd July, 2020
+# Day 62: 24rd July, 2020
 ##### Today's progress:
  Solved a binary search tree leetcode question
 ##### Thoughts:
@@ -558,7 +558,7 @@
 ##### Link to references:
  (https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/)
 
-# Day 63: 24th July, 2020
+# Day 63: 25th July, 2020
 ##### Today's progress:
  Zigzaged a binary tree
 ##### Thoughts:
@@ -566,10 +566,21 @@
 ##### Link to References:
  (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/)
 
-# Day 64: 25th July, 2020
+# Day 64: 26th July, 2020
 ##### Today's progress:
  Summed digits of a number until a single digit number is returned
+ Half way through Rotate Image
 ##### Thoughts:
  Gotten Faster
+ Slight Logical errors
 ##### Link to References:
  (https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)
+ (https://leetcode.com/problems/rotate-image/)
+ 
+# Day 65: 27th July, 2020
+##### Today's progress:
+ Debugged a problem I attempted and half solved yesterday
+##### Thoughts:
+ Understanding how looping happens is essential in Debugging (Runtime Errors) Algorithms 
+##### Link to Reference:
+ (https://leetcode.com/problems/rotate-image/submissions/)
