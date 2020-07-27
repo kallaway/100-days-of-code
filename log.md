@@ -236,9 +236,25 @@ After looking at multiple solutions I came pretty close to solving this problem.
 * 2. remove duplicates
 * 3. target second to last element and return value 
 
+**Link(s) to work**    
+1. <a href="https://www.hackerrank.com/challenges/js10-arrays/problem" target="_blank">Hacker Rank Array Problem</a>
 
+1. <a href="https://repl.it/@simonxiong/Arrays-100DaysOfCode" target="_blank">repl.it attempt</a>
 
+<hr>
 
+### Day 17: July 26, 2020
+
+**Today's Progress**  
+Attempted the *Try, Catch, and Finally* problem on HackerRank. Was unsuccessful, however my attempt in repl.it did return the correct results.
+
+**Thoughts**   
+More than likely will have to try and use *conditional catch-blocks* to arrive at correct solution.
+
+**Link(s) to work**    
+
+1. <a href="https://repl.it/@simonxiong/Arrays-100DaysOfCode" target="_blank">Try, Catch, and Finally: HackerRank</a>
+2. <a href="https://repl.it/@simonxiong/Arrays-100DaysOfCode" target="_blank">Try, Catch, and Finally: repl.it</a>
 
 
 
