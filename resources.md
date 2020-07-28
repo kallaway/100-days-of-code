@@ -21,6 +21,7 @@
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+2. [WakaTime - Auto tweet your daily code time](https://wakatime.com/100-days-of-code)
 
 ## Books (both coding and non-coding)
 
