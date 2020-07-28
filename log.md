@@ -253,9 +253,24 @@ More than likely will have to try and use *conditional catch-blocks* to arrive a
 
 **Link(s) to work**    
 
-1. <a href="https://repl.it/@simonxiong/Arrays-100DaysOfCode" target="_blank">Try, Catch, and Finally: HackerRank</a>
-2. <a href="https://repl.it/@simonxiong/Arrays-100DaysOfCode" target="_blank">Try, Catch, and Finally: repl.it</a>
+1. <a href="https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem" target="_blank">Try, Catch, and Finally: HackerRank</a>
+2. <a href="https://repl.it/@simonxiong/Try-Catch-and-Finally-100DayOfCode" target="_blank">Try, Catch, and Finally: repl.it</a>
 
+<hr>
+
+### Day 18: July 27, 2020
+
+**Today's Progress**  
+Attempted the *Try, Catch, and Finally* problem again. After looking at the solution it appears we need to chain all methods(*Try, Catch, Finally*)inside the global function. 
+
+**Thoughts**   
+In practice, control flow will satisfy most error handling scenario unless an *exception* is required to be throwned. 
+
+**Link(s) to work**    
+
+1. <a href="https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem" target="_blank">Problem</a>
+
+1. <a href="https://www.hackerrank.com/challenges/js10-try-catch-and-finally/submissions/code/171204084" target="_blank">Solution</a>
 
 
 
