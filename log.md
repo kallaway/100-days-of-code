@@ -580,7 +580,18 @@
 # Day 65: 27th July, 2020
 ##### Today's progress:
  Debugged a problem I attempted and half solved yesterday
+ Partial Solution (180/203) for today's leetcode question
 ##### Thoughts:
- Understanding how looping happens is essential in Debugging (Runtime Errors) Algorithms 
+ Understanding how looping happens is essential in Debugging (Runtime Errors) Algorithms
+ Memory Complexity issues and Special Cases
 ##### Link to Reference:
  (https://leetcode.com/problems/rotate-image/submissions/)
+ (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/)
+
+# Day 66: 28th July, 2020
+##### Today's progress:
+ Resolved yesterday's partial solution problem
+##### Thoughts:
+ Took a long time to decide whether to use the same array in parts or use a completely new memory and tried it in both ways.
+##### Link to Reference:
+ (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/)
