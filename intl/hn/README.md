@@ -15,7 +15,7 @@
 ## यदि आप भाग लेना चाहते हैं:
 
 1. #100DaysOfCode की [आधिकारिक वेबसाइट] (http://100daysofcode.com/) पर जाएं। इस सूची में से अपनी पसंद के किसी भी मंच पर दूसरों से जुड़ें: www.100DaysOfCode.com/connect
-  इसके अलावा, [it] (https://join.slack.com/t/100xcode/sared_invite/zt-eivg7x1x-wgNPD77_u4GcUwZNT8Zgg) 100DaysOfCode के स्लैक चैनल के लिए लिंक लिंक।
+  इसके अलावा, [it] (https://100xcode.slack.com/join/shared_invite/zt-eivg7x1x-wgNPDh7ug_u4GcUwZNT8Zg) 100DaysOfCode के स्लैक चैनल के लिए लिंक लिंक।
 2. पढ़ें [# 100DaysOfCode] (https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) से जुड़ें
 3. इस रेपो को फोर्क करें और प्रतिदिन [डायरी] (log.md) या वैकल्पिक रूप से [R1 Log] (r1-log.md) (R1 का अर्थ है राउंड 1) करें। [उदाहरण] (https://github.com/Kallaway/100-days-kallaway-log)
 
