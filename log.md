@@ -595,3 +595,13 @@
  Took a long time to decide whether to use the same array in parts or use a completely new memory and tried it in both ways.
 ##### Link to Reference:
  (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/)
+ 
+# Day 67: 29th July, 2020:
+##### Today's progress:
+ Revisited All tree traversal algorithms
+##### Thoughts:
+ None
+##### Link to Reference:
+ (https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/930/)
+ (https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/929/)
+ (https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/928/)
