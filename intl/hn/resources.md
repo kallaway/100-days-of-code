@@ -3,7 +3,7 @@
 [# 100DaysOfCode अधिकृत वेबसाइट](http://100daysofcode.com/)
 
 ### लेख
-1. [# 100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp माध्यम से जुड़ें
+1. [# 100DaysOfCode]( https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/) freeCodeCamp माध्यम से जुड़ें
 2. [# 100DaysOfCode चैलेंज](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce60bb237b) freeCodeCamp माध्यम के साथ एक बूट अप 2017
 3. [प्रतिरोध, आदत बदलें और # 100DaysOfCode मूवमेंट] (https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
