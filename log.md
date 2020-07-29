@@ -599,9 +599,12 @@
 # Day 67: 29th July, 2020:
 ##### Today's progress:
  Revisited All tree traversal algorithms
+ Solved a Nim Game Question
 ##### Thoughts:
  None
+ Gotten better at solving easy level question fast
 ##### Link to Reference:
  (https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/930/)
  (https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/929/)
  (https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/928/)
+ (https://leetcode.com/problems/nim-game/submissions/)
