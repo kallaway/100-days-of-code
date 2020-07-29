@@ -182,7 +182,7 @@ Today I've Learned:
 
 **Link(s) to work**    
 1. <a href="https://www.hackerrank.com/challenges/js10-switch/problem" target="_blank">HackerRank Problem</a>
-1. <a href="https://www.hackerrank.com/rest/contests/master/challenges/js10-switch/hackers/simonxiong11/download_solution" target="_blank">HackerRank Solution</a>
+2. <a href="https://www.hackerrank.com/rest/contests/master/challenges/js10-switch/hackers/simonxiong11/download_solution" target="_blank">HackerRank Solution</a>
 
 <hr>
 
@@ -239,7 +239,7 @@ After looking at multiple solutions I came pretty close to solving this problem.
 **Link(s) to work**    
 1. <a href="https://www.hackerrank.com/challenges/js10-arrays/problem" target="_blank">Hacker Rank Array Problem</a>
 
-1. <a href="https://repl.it/@simonxiong/Arrays-100DaysOfCode" target="_blank">repl.it attempt</a>
+2. <a href="https://repl.it/@simonxiong/Arrays-100DaysOfCode" target="_blank">repl.it attempt</a>
 
 <hr>
 
@@ -270,7 +270,23 @@ In practice, control flow will satisfy most error handling scenario unless an *e
 
 1. <a href="https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem" target="_blank">Problem</a>
 
-1. <a href="https://www.hackerrank.com/challenges/js10-try-catch-and-finally/submissions/code/171204084" target="_blank">Solution</a>
+2. <a href="https://www.hackerrank.com/challenges/js10-try-catch-and-finally/submissions/code/171204084" target="_blank">Solution</a>
 
+<hr>
 
+### Day 19: July 28, 2020
 
+**Today's Progress**  
+Attempted *Throw* problem on HackerRank and was able to solve. The purpose of this exercise was to learn how to throw different exceptions for custom error messages.
+
+**Thoughts**   
+Today I've learned: 
+* There are 3 types of errors in programming  
+  * Syntax Error(Parsing Error)
+  * Runtime Error(Exception)
+  * Logical Error
+* Resource: https://www.hackerrank.com/challenges/js10-throw/topics/javascript-errors
+
+**Link(s) to work**    
+1. <a href="https://www.hackerrank.com/challenges/js10-throw/problem" target="_blank">Problem</a>
+2. <a href="https://www.hackerrank.com/challenges/js10-throw/submissions/code/171394719" target="_blank">Solution</a>
