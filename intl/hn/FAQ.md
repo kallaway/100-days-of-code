@@ -4,7 +4,7 @@
 **क्यू:** मैं उन लोगों के साथ कैसे जुड़ सकता हूं जो इस चुनौती को उठाते हैं?
 
 **उत्तर:** 100DaysOfCode की अधिकृत वेबसाइट पर प्रस्तुत संसाधनों की सूची का उपयोग करने का सबसे अच्छा तरीका है: www.100DaysOfCode.com/connect
-  इसके अलावा, आप [100DaysOfCode Slack चैनल](https://join.slack.com/t/100xcode/sared_invite/zt-eivg7x1x-wgNPD77__4GcUwZNT8Zg) पर निमंत्रण लिंक का उपयोग करके स्लैक चैनल से जुड़ सकते हैं।
+  इसके अलावा, आप [100DaysOfCode Slack चैनल](https://join.slack.com/t/100xcode/shared_invite/zt-eivg7x1x-wgNPDh7ug_u4GcUwZNT8Zg) पर निमंत्रण लिंक का उपयोग करके स्लैक चैनल से जुड़ सकते हैं।
   
   ट्विटर पर # 100DaysOfCode टाइप करके, या इस लिंक पर क्लिक करके [100DaysOfCode Gitter](https://gitter.im/Kallaway/100DaysOfCode) पर क्लिक करें। यह सभी के लिए खुला है, किसी भी निमंत्रण की आवश्यकता नहीं है। आप ट्विटर पर [@ _100DaysOfCode](https://twitter.com/_100DaysOfCode) का अनुसरण करके समुदाय से भी जुड़ सकते हैं।
   
