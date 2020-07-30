@@ -608,3 +608,11 @@
  (https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/929/)
  (https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/928/)
  (https://leetcode.com/problems/nim-game/submissions/)
+ 
+ # Day 68: 30th July, 2020
+ ##### Today's progress:
+  Came up with a rough algorithm
+ ##### Thoughts:
+  Debugging troubles
+ ##### Link to Reference:
+  (https://leetcode.com/problems/design-browser-history/submissions/)
