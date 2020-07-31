@@ -610,9 +610,17 @@
  (https://leetcode.com/problems/nim-game/submissions/)
  
  # Day 68: 30th July, 2020
- ##### Today's progress:
-  Came up with a rough algorithm
- ##### Thoughts:
-  Debugging troubles
- ##### Link to Reference:
-  (https://leetcode.com/problems/design-browser-history/submissions/)
+##### Today's progress:
+ Came up with a rough algorithm
+##### Thoughts:
+ Debugging troubles
+##### Link to Reference:
+ (https://leetcode.com/problems/design-browser-history/submissions/)
+
+# Day 69: 31st July, 2020
+##### Today's progress:
+ Debugged a browser history based design question
+##### Thoughts:
+ Should have read the description properly
+##### Link to Reference:
+(https://leetcode.com/problems/design-browser-history/submissions/)
