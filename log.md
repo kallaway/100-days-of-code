@@ -290,3 +290,19 @@ Today I've learned:
 **Link(s) to work**    
 1. <a href="https://www.hackerrank.com/challenges/js10-throw/problem" target="_blank">Problem</a>
 2. <a href="https://www.hackerrank.com/challenges/js10-throw/submissions/code/171394719" target="_blank">Solution</a>
+
+<hr>
+
+### Day 20: July 30, 2020
+
+**Today's Progress**  
+Checked out https://binarysearch.io/ for the first time. Created a chat room for a problem I wanted to solve. It is probably suggested to plan chat room ahead of time due to lack of active users. 
+
+Problem attempted was *Sum of Two Numbers* which was listed as an easy problem. 
+
+**Thoughts**   
+Based on the provided hint, I will need to learn how to use a *hash table* to solve. 
+
+**Link(s) to work**    
+1. <a href="https://binarysearch.io/problems/Sum-of-Two-Numbers" target="_blank">Problem</a>
+2. <a href="https://repl.it/@simonxiong/Sum-of-Two-Numbers-100DaysOfCode#index.js" target="_blank">Attempt</a> 
