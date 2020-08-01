@@ -144,6 +144,15 @@ Articles:
 
 Template:
 
+### Day 17: July 31st, 2020
+
+**Today's Progress**: Started [DevChallenges](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) button component
+
+**Thoughts**: This week was my first week at work. I missed doing some front-end so decided to start this challege, I do need to go back and finish up implementing Okta. Will probably continue my 100 day journey on the weekends only.
+
+**Link(s) to work**: [Repo](https://github.com/TRose2014/vue-button-component-dev-challenge)
+
+
 ### Day 2: June 14th, 2020 (Example 2)
 ##### (delete me or comment me out)
 
