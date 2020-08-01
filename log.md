@@ -142,6 +142,7 @@ Articles:
 
 **Link(s) to work**: Not pushed yet
 
+
 Template:
 
 ### Day 17: July 31st, 2020
@@ -151,6 +152,8 @@ Template:
 **Thoughts**: This week was my first week at work. I missed doing some front-end so decided to start this challege, I do need to go back and finish up implementing Okta. Will probably continue my 100 day journey on the weekends only.
 
 **Link(s) to work**: [Repo](https://github.com/TRose2014/vue-button-component-dev-challenge)
+
+**Side Note**: Did a few code challenges for about 30 minutes to an hour. Really enjoying [Edabit](https://edabit.com/challenge/hwWLHcDoPZmXcGHyd)
 
 
 ### Day 2: June 14th, 2020 (Example 2)
