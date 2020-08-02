@@ -306,3 +306,42 @@ Based on the provided hint, I will need to learn how to use a *hash table* to so
 **Link(s) to work**    
 1. <a href="https://binarysearch.io/problems/Sum-of-Two-Numbers" target="_blank">Problem</a>
 2. <a href="https://repl.it/@simonxiong/Sum-of-Two-Numbers-100DaysOfCode#index.js" target="_blank">Attempt</a> 
+
+<hr>
+
+### Day 21: July 31, 2020
+
+**Today's Progress**  
+Reviewed *Hash Table* on Colt's Steele Algorithm and Data Structure course: https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
+
+Topics covered today includes:  
+ * What is a Hash Table
+ * Example of Hash Tables in *Objects* and *Map* 
+ * Writing a Hash Table for string input
+
+**Thoughts**   
+I am still not too sure how this will help solve the *Sum of Two Numbers* problem. 
+
+**Link(s) to work**    
+1. <a href="https://repl.it/@simonxiong/Hash-Table-100DaysOfCode#index.js" target="_blank">Hash Function</a>
+
+<hr>
+
+### Day 22: August 1, 2020
+
+**Today's Progress**  
+Continued reviewing *Hash Table* and learned how to handle collision with *Separate Chaining* and *Linear Probing*. 
+
+Topics covered today includes:  
+ * Handling collision
+ * *Separate Chaining* and *Linear Probing* 
+ * Using *set* and *get* method with *Separate Chaining* 
+
+**Thoughts**   
+Need to understand this data structure thoroughly as it is one of the most common one.  
+
+**Link(s) to work**    
+1. <a href="https://repl.it/@simonxiong/Hash-Table-100DaysOfCode#index.js" target="_blank">Hash Function</a>
+ 
+
+ 
