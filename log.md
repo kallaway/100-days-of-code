@@ -156,6 +156,15 @@ Template:
 **Side Note**: Did a few code challenges for about 30 minutes to an hour. Really enjoying [Edabit](https://edabit.com/challenge/hwWLHcDoPZmXcGHyd)
 
 
+### Day 18: August 1st, 2020
+
+**Today's Progress**: Worked on a few code challenged from edabit
+
+**Thoughts**: Having a real fun time doing these challenges. I love doing logic puzzles, and this reminds me of those.
+
+**Link(s) to work**: I really want to work on this next code challenge [Edabit](https://edabit.com/challenge/SrCTGbhwPRyHZSAGu)
+
+Example:
 ### Day 2: June 14th, 2020 (Example 2)
 ##### (delete me or comment me out)
 
