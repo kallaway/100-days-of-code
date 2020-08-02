@@ -324,4 +324,24 @@ I am still not too sure how this will help solve the *Sum of Two Numbers* proble
 
 **Link(s) to work**    
 1. <a href="https://repl.it/@simonxiong/Hash-Table-100DaysOfCode#index.js" target="_blank">Hash Function</a>
+
+<hr>
+
+### Day 22: August 1, 2020
+
+**Today's Progress**  
+Continued reviewing *Hash Table* and learned how to handle collision with *Separate Chaining* and *Linear Probing*. 
+
+Topics covered today includes:  
+ * Handling collision
+ * *Separate Chaining* and *Linear Probing* 
+ * Using *set* and *get* method with *Separate Chaining* 
+
+**Thoughts**   
+Need to understand this data structure thoroughly as it is one of the most common one.  
+
+**Link(s) to work**    
+1. <a href="https://repl.it/@simonxiong/Hash-Table-100DaysOfCode#index.js" target="_blank">Hash Function</a>
+ 
+
  
