@@ -342,6 +342,17 @@ Need to understand this data structure thoroughly as it is one of the most commo
 
 **Link(s) to work**    
 1. <a href="https://repl.it/@simonxiong/Hash-Table-100DaysOfCode#index.js" target="_blank">Hash Function</a>
- 
 
+<hr>
+
+### Day 23: August 2, 2020
+
+**Today's Progress**  
+Continued reviewing *Hash Table* and learned how to retrieve a *keys* and *values* array.
+
+**Thoughts**   
+The working example does not account for duplicates and is only intended to detail what happens under the hood. 
+
+**Link(s) to work**    
+1. <a href="https://repl.it/@simonxiong/Hash-Table-100DaysOfCode#index.js" target="_blank">Hash Function</a>
  
