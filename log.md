@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +28,7 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
+## I started my #100DaysofCode journey from 26 May,2020
+I am starting commiting to log file daily from Day 70.
+Previous logs are there on my [twitter](https://twitter.com/sidsri99)
