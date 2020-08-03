@@ -29,6 +29,14 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
+
 ## I started my #100DaysofCode journey from 26 May,2020
 I am starting commiting to log file daily from Day 70.
 Previous logs are there on my [twitter](https://twitter.com/sidsri99)
+
+### Day 70: 3 August 2020 , Monday
+
+**Today's Progress**: Practiced some competitive programming questions in Java.
+
+**Thoughts**: Focusing on algorithms and which data structure is required for its best implementation
+
