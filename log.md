@@ -38,3 +38,9 @@ Previous logs are there on my [twitter](https://twitter.com/sidsri99)
 **Today's Progress**: Practiced some competitive programming questions in Java.
 
 **Thoughts**: Focusing on algorithms and which data structure is required for its best implementation
+
+### Day 71: 4 August 2020 , Tuesday
+
+**Today's Progress**: Started practising recursion programs using Java.
+
+**Thoughts**: Recursive function is a function that calls itself to solve a smaller sub-problem of same type. But necessary conditions are it must have a base case along with recursive case.
