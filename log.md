@@ -624,3 +624,11 @@
  Should have read the description properly
 ##### Link to Reference:
 (https://leetcode.com/problems/design-browser-history/submissions/)
+
+# Day 70: 3rd August, 2020
+##### Today's progress:
+ Trying to design a login page with bootstrap
+##### Thoughts:
+ Trouble understanding bootstrap
+##### Link to reference:
+ (--will be attached later--)
