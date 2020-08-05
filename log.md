@@ -355,4 +355,21 @@ The working example does not account for duplicates and is only intended to deta
 
 **Link(s) to work**    
 1. <a href="https://repl.it/@simonxiong/Hash-Table-100DaysOfCode#index.js" target="_blank">Hash Function</a>
+
+<hr>
+
+### Day 24: August 3, 2020
+
+**Today's Progress**  
+Finshed course on *Hash Table* and learned that all Hash functions has Big O Notation, O(1) or constant time. As the number of input grows only one operation will be required to execute function. 
+
+**Thoughts**
+The best and worst Hash functions will always be O(1), this includes operations such as *Insertion*, *Deletion* and *Access*.  
+
+
+
+
+
+
+
  
