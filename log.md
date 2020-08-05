@@ -366,19 +366,6 @@ Finshed course on *Hash Table* and learned that all Hash functions has Big O Not
 **Thoughts**
 The best and worst Hash functions will always be O(1), this includes operations such as *Insertion*, *Deletion* and *Access*.  
 
-<hr>
-
-### Day 25: August 4, 2020
-
-**Today's Progress**  
-Took a React assessment from a recruiter today. All questions were multiple choice, allowing multiple answers, with correct/incorrect answers having different value. 
-
-**Thoughts**  
-Top 3 areas I need to improve on are:  
- * 1. JavaScript Control Flow  
- * 2. Classes  
- * 3. React.js Props
-
 
 
 
