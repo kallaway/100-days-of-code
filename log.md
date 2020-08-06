@@ -366,6 +366,7 @@ Finshed course on *Hash Table* and learned that all Hash functions has Big O Not
 **Thoughts**
 The best and worst Hash functions will always be O(1), this includes operations such as *Insertion*, *Deletion* and *Access*.  
 
+<hr>
 
 ### Day 25: August 4, 2020
 
@@ -377,6 +378,19 @@ Top 3 areas in needs of improvements:
   1. JavaScript control flow
   2. Classes
   3. React.js Props
+
+<hr>
+
+### Day 26: August 5, 2020
+
+**Today's Progress**  
+Applied for a remote UI Engineer role and looked into how to add numbers to a Hash Table. The exampled covered from previous day only work on strings. 
+
+**Thoughts**  
+Need to find a working example for adding numbers to a Hash Table 
+
+
+
 
 
 
