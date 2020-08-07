@@ -630,5 +630,21 @@
  Trying to design a login page with bootstrap
 ##### Thoughts:
  Trouble understanding bootstrap
-##### Link to reference:
+##### Link to Reference:
+ (--will be attached later--)
+ 
+# Day 71: 5th August,2020
+##### Today's progress:
+ Tried out mongodb
+ ##### Thoughts:
+  Need to learn about Working
+ ##### Link to Reference:
+ (--will be attached later--)
+ 
+# Day 72: 7th August, 2020
+##### Today's progress:
+ Learning ML practically via Kaggle
+##### Thoughts:
+ A vague idea on Data Mining and Data warehousing is helpful
+##### Link to Reference:
  (--will be attached later--)
