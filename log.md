@@ -647,4 +647,4 @@
 ##### Thoughts:
  A vague idea on Data Mining and Data warehousing is helpful
 ##### Link to Reference:
- (--will be attached later--)
+ (https://www.kaggle.com/priyashrinithi/exercise-your-first-machine-learning-model?scriptVersionId=40341887)
