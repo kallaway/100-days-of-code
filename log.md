@@ -389,8 +389,20 @@ Applied for a remote UI Engineer role and looked into how to add numbers to a Ha
 **Thoughts**  
 Need to find a working example for adding numbers to a Hash Table 
 
+<hr>
 
+### Day 27: August 6, 2020
+Attempted *Sum of Two Numbers* problem again and did not solve. After peaking at solution to a similar problem, a brute force nested loops or one pass hash table will solve the problem.
 
+**Today's Progress**  
+No progress made, but I've decided to look at solution because I had a feeling writing out a Hash Table function from scratch was not practical(since this was an "easy" problem).
+
+**Thoughts**  
+Created an Oject to iterate over was part of solution. Will need to break down the solution line by line for understanding. 
+
+**Link(s) to work**    
+1. <a href="https://binarysearch.io/problems/Sum-of-Two-Numbers" target="_blank">Sum of Two Numbers</a>
+1. <a href="https://leetcode.com/problems/two-sum" target="_blank">Two Sum</a>
 
 
 
