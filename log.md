@@ -404,6 +404,27 @@ Created an Oject to iterate over was part of solution. Will need to break down t
 1. <a href="https://binarysearch.io/problems/Sum-of-Two-Numbers" target="_blank">Sum of Two Numbers</a>
 1. <a href="https://leetcode.com/problems/two-sum" target="_blank">Two Sum</a>
 
+<hr>
+
+### Day 28: August 7, 2020
+
+**Today's Progress**  
+Went over the *Two Sum* solution to get a better understanding of *Map* object. 
+*Mozilla* defintion of a *Map* object is:  
+ * it holds key-value pairs and remember the original insertion order of the keys
+ * any value(both objects and primitive values) may be used as either a key or value
+
+ In attempt to solve another problem, I mixed up these two methods *for...in* and *for...of*.
+ *Modzilla* definition for both are the following:  
+  * *for of*:  
+    * is use to iterate over the values in an iterable, like an array
+  * for in*:  
+    * is use to iterate over the property of an object or used to iterate over the index value of an array  
+
+**Thoughts**  
+Practice more problems and try not to get too obsessed with remembering definitions. 
+
+
 
 
 
