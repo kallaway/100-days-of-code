@@ -35,7 +35,7 @@ Today I've learned:
 ### Day 3: July 11, 2020
 
 **Today's Progress**   
-Skiped a day because I fell asleep last night😓. Was unable to reverse a string recursively.   
+Skipped a day because I fell asleep last night😓. Was unable to reverse a string recursively.   
 
 **Thoughts**     
 Kept trying to make my solution similar to a for loop by declaring variables.  
@@ -55,7 +55,7 @@ Today I've learned:
 Attempted _Sock Merchant_ problem from Hacker Rank on *Repl.it* website. Was able to solve for key-paired values sock object.  
 
 **Thoughts**     
-Hacker Rank considered this a warmup problem, but it is definetely not for beginners.  
+Hacker Rank considered this a warmup problem, but it is definitely not for beginners.  
 
 Today I've learned:
 * how to create/add key-paired values to an empty object with conditional statement   
@@ -90,7 +90,7 @@ Today I've learned:
 Attempted to solve _Sock Merchant_ problem on *Repl.it* again. Was able to get tally of all even pairs with reduce method.
 
 **Thoughts**     
-The `reduce` method is a powerful one and can be used to perform tally-up an object for number of occurence and getting total count of an array. Will attempt to use only `reduce` to arrive at solution.
+The `reduce` method is a powerful one and can be used to perform tally-up an object for number of occurrence and getting total count of an array. Will attempt to use only `reduce` to arrive at solution.
 
 **Link(s) to work**    
 1. <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5" target="_blank">Sock Merchant HackerRank </a>
@@ -189,7 +189,7 @@ Today I've Learned:
 ### Day 13: July 21, 2020
 
 **Today's Progress**  
-Attempted to solve a loop and *Regex* problem. Was unsucessful and may be over complicting problem with a *for* or *while* loop. 
+Attempted to solve a loop and *Regex* problem. Was unsuccessful and may be over complicating problem with a *for* or *while* loop. 
 
 
 **Thoughts**     
@@ -204,10 +204,10 @@ Try to solve problem without using a *for* or *while* loop and only `match()` wi
 ### Day 14: July 23, 2020
 
 **Today's Progress**  
-Atttempted to solve Loop problem with Regex again. Was unsuccessful when trying to use both `exec` and `match` method in a function.
+Attempted to solve Loop problem with Regex again. Was unsuccessful when trying to use both `exec` and `match` method in a function.
 
 **Thoughts**     
-After looking at solution, Regex was not required as it was not part of the lesson. That said, I was overcomplicating the problem with trying to use Regex. The problem could have been solved using two for loop. 
+After looking at solution, Regex was not required as it was not part of the lesson. That said, I was over complicating the problem with trying to use Regex. The problem could have been solved using two for loop. 
 
 **Link(s) to work**    
 1. <a href="https://www.hackerrank.com/challenges/js10-loops/problem" target="_blank">Hacker Rank Loop Problem</a>
@@ -217,7 +217,7 @@ After looking at solution, Regex was not required as it was not part of the less
 ### Day 15: July 24, 2020
 
 **Today's Progress**  
-Reviewed and brokedown submitted solutions to the *Loop* problem for understanding. 
+Reviewed and broke down submitted solutions to the *Loop* problem for understanding. 
 
 **Thoughts**   
 Today I've Learned:    
@@ -264,7 +264,7 @@ More than likely will have to try and use *conditional catch-blocks* to arrive a
 Attempted the *Try, Catch, and Finally* problem again. After looking at the solution it appears we need to chain all methods(*Try, Catch, Finally*)inside the global function. 
 
 **Thoughts**   
-In practice, control flow will satisfy most error handling scenario unless an *exception* is required to be throwned. 
+In practice, control flow will satisfy most error handling scenario unless an *exception* is required be called. 
 
 **Link(s) to work**    
 
@@ -361,7 +361,7 @@ The working example does not account for duplicates and is only intended to deta
 ### Day 24: August 3, 2020
 
 **Today's Progress**  
-Finshed course on *Hash Table* and learned that all Hash functions has Big O Notation, O(1) or constant time. As the number of input grows only one operation will be required to execute function. 
+Finished course on *Hash Table* and learned that all Hash functions has Big O Notation, O(1) or constant time. As the number of input grows only one operation will be required to execute function. 
 
 **Thoughts**
 The best and worst Hash functions will always be O(1), this includes operations such as *Insertion*, *Deletion* and *Access*.  
@@ -398,11 +398,11 @@ Attempted *Sum of Two Numbers* problem again and did not solve. After peaking at
 No progress made, but I've decided to look at solution because I had a feeling writing out a Hash Table function from scratch was not practical(since this was an "easy" problem).
 
 **Thoughts**  
-Created an Oject to iterate over was part of solution. Will need to break down the solution line by line for understanding. 
+Created an Object to iterate over was part of solution. Will need to break down the solution line by line for understanding. 
 
 **Link(s) to work**    
 1. <a href="https://binarysearch.io/problems/Sum-of-Two-Numbers" target="_blank">Sum of Two Numbers</a>
-1. <a href="https://leetcode.com/problems/two-sum" target="_blank">Two Sum</a>
+2. <a href="https://leetcode.com/problems/two-sum" target="_blank">Two Sum</a>
 
 <hr>
 
@@ -410,12 +410,12 @@ Created an Oject to iterate over was part of solution. Will need to break down t
 
 **Today's Progress**  
 Went over the *Two Sum* solution to get a better understanding of *Map* object. 
-*Mozilla* defintion of a *Map* object is:  
+*Mozilla* definition of a *Map* object is:  
  * it holds key-value pairs and remember the original insertion order of the keys
  * any value(both objects and primitive values) may be used as either a key or value
 
  In attempt to solve another problem, I mixed up these two methods *for...in* and *for...of*.
- *Modzilla* definition for both are the following:  
+ *Mozilla* definition for both are the following:  
   * *for of*:  
     * is use to iterate over the values in an iterable, like an array
   * for in*:  
@@ -424,9 +424,15 @@ Went over the *Two Sum* solution to get a better understanding of *Map* object.
 **Thoughts**  
 Practice more problems and try not to get too obsessed with remembering definitions. 
 
+<hr>
 
+### Day 29: August 8, 2020
 
+**Today's Progress**  
+Read material about Map object and went over examples for creating, setting and getting key-pair values.
 
+**Link(s) to work**  
+1. <a href="https://repl.it/@simonxiong/Map-100DaysOfCode#index.js" target="_blank">repl.it notes on Map</a>
 
 
 
