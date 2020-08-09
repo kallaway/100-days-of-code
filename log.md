@@ -648,3 +648,11 @@
  A vague idea on Data Mining and Data warehousing is helpful
 ##### Link to Reference:
  (https://www.kaggle.com/priyashrinithi/exercise-your-first-machine-learning-model?scriptVersionId=40341887)
+
+# Day 73: 7th August, 2020
+##### Today's progress:
+ Learning ML practically via Kaggle
+##### Thoughts:
+ A vague idea on Data Mining and Data warehousing is helpful
+##### Link to Reference:
+ (https://www.kaggle.com/priyashrinithi/exercise-model-validation?scriptVersionId=40382792)
