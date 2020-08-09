@@ -649,10 +649,18 @@
 ##### Link to Reference:
  (https://www.kaggle.com/priyashrinithi/exercise-your-first-machine-learning-model?scriptVersionId=40341887)
 
-# Day 73: 7th August, 2020
+# Day 73: 8th August, 2020
 ##### Today's progress:
  Learning ML practically via Kaggle
 ##### Thoughts:
  A vague idea on Data Mining and Data warehousing is helpful
 ##### Link to Reference:
  (https://www.kaggle.com/priyashrinithi/exercise-model-validation?scriptVersionId=40382792)
+ 
+# Day 74: 9th August, 2020
+##### Today's progres:
+ Finished the Intro too ML microcourse via Kaggle
+##### Thoughts:
+ Gained enough confidence on how to build a model
+##### Link to Reference:
+ (https://www.kaggle.com/priyashrinithi/exercise-machine-learning-competitions?scriptVersionId=40439714)
