@@ -164,6 +164,14 @@ Template:
 
 **Link(s) to work**: I really want to work on this next code challenge [Edabit](https://edabit.com/challenge/SrCTGbhwPRyHZSAGu)
 
+### Day 19: August 9th, 2020
+
+**Today's Progress**: Did a few more code challenges via Edabit
+
+**Thoughts**: Haven't had a chance to work on my other apps but still wanted to get some coding in on the weekends.
+
+**Link(s) to work**: Next challenge I want to work on [Edabit](https://edabit.com/challenge/s5Sz2ovKsvtGxNGgn)
+
 Example:
 ### Day 2: June 14th, 2020 (Example 2)
 ##### (delete me or comment me out)
