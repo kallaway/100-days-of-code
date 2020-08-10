@@ -374,10 +374,9 @@ The best and worst Hash functions will always be O(1), this includes operations 
 Took a React assessment from a recruiter. Test format was multiple choice, allowing multiple answers, with each correct/wrong answers holding a different value.  
 
 **Thoughts**  
-Top 3 areas in needs of improvements:  
-  1. JavaScript control flow
-  2. Classes
-  3. React.js Props
+
+
+
 
 <hr>
 
@@ -387,7 +386,7 @@ Top 3 areas in needs of improvements:
 Applied for a remote UI Engineer role and looked into how to add numbers to a Hash Table. The exampled covered from previous day only work on strings. 
 
 **Thoughts**  
-Need to find a working example for adding numbers to a Hash Table 
+Need to find a working example for adding numbers to a Hash Table. 
 
 <hr>
 
@@ -433,6 +432,21 @@ Read material about Map object and went over examples for creating, setting and 
 
 **Link(s) to work**  
 1. <a href="https://repl.it/@simonxiong/Map-100DaysOfCode#index.js" target="_blank">repl.it notes on Map</a>
+
+<hr>
+
+### Day 30: August 9, 2020
+
+**Today's Progress**  
+Took a HTML/CSS/JavaScript assessment from the same source as React assessment. Results 56 out of 100: Weak. 
+
+**Thoughts**  
+There were 30 questions total. I am not too worried with my results as I do not think it is a complete assessment of my overall knowledge on topic. 
+
+Top 3 areas in needs of improvements:  
+  1. CSS Attributes and Properties
+  2. HTML Images and External Documents
+  3. Using JavaScript 
 
 
 
