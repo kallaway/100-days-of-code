@@ -1,4 +1,4 @@
-# Me uní el reto #100DaysOfCode
+# Únete al reto #100DaysOfCode
 
 ## Tabla de contenidos
 
@@ -7,7 +7,7 @@
 * [Preguntas frecuentes](preguntas_frecuentes.md)
 * [Recursos](recursos.md)
 
-## Translations
+## Traducciones
 [বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) - [srpski](intl/sr/README-sr.md)
 
 ## Si ha decidido unirse:
@@ -16,7 +16,7 @@
 1.  Lea [Unirse a #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Bifúrquese (fork) este repositorio y añada al [diario](diario.md) o al diario rápido [R1 diario](r1-diario.md) (R1 significa ronda 1). [Ejemplo](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Programe por un mínimo de una hora por día durante los próximos 100 días.**
-1.  **¡Incentive al menos a otras dos personas en el reto en Twitter cada día! Devuelva el favor a alguien más.**
+1.  **¡Incentive al menos a otras dos personas diariamente al reto en Twitter! Devuelva el favor a alguien más.**
 1.  Cambie el día en [reglas](reglas.md) al día en que empezó el reto.
 1.  Elimine o comente los ejemplos en el diario, y empiece a llenarlo con su propio contenido.
 1.  **Tuitee su progreso cada día usando el hashtag #100DaysofCode**
@@ -26,7 +26,7 @@
 
 ## ¿Quieres cambiar otros hábitos?
 
-Mira [el proyecto reto #100DaysOfX](http://100daysofx.com/). Cambiando sus hábitos está cambiando su vida. Recuerde que el mejor tiempo empezar siempre será ahora.
+Mira [el proyecto del reto #100DaysOfX](http://100daysofx.com/). Cambiando sus hábitos está cambiando su vida. Recuerde que el mejor tiempo para empezar siempre será ahora.
 
 Le recomiendo que se comprometa con no más de 2 o 3 retos a la vez, idealmente 2. Si está haciendo el # 100DaysOfCode que implica mucha actividad mental, pruebe el [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), o [#100DaysOfFitness](http://100daysofx.com/challenges/). ¡Hay mucho más en el sitio web, compruebe todas las opciones y elija los hábitos que desea cambiar! Idiomas, escritura, meditación, llevar un diario, cocina y más.
 
