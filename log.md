@@ -664,3 +664,11 @@
  Gained enough confidence on how to build a model
 ##### Link to Reference:
  (https://www.kaggle.com/priyashrinithi/exercise-machine-learning-competitions?scriptVersionId=40439714)
+ 
+# Day 75: 10th August, 2020
+ ##### Today's progress:
+  Solved today's leetcode problem after quite a long break
+ ##### Thoughts:
+  It was pretty easy
+ ##### Link to Reerence: 
+  (https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3419/)
