@@ -448,7 +448,41 @@ Top 3 areas in needs of improvements:
   2. HTML Images and External Documents
   3. Using JavaScript 
 
+<hr>
 
+### Day 31: August 10, 2020
 
+**Today's Progress**  
+Started prepping for Hacker Rank JavaScript Skills Certificate Test. This time will prep for 7 days and take exam next Monday(Day 38). Topics to study for assessment includes:  
 
+* Functions, Events and Error Handling(2 days)
+* Currying(2 days)
+* Hoisting, Scope, Inheritance(3 days)
+
+**Thoughts**  
+Need to find out how many questions and what type of challenges will be on exam. 
+
+**Link(s) to work**  
+1. <a href="https://www.hackerrank.com/skills-verification/javascript_basic" target="_blank">JavaScript Skills Certificate Test</a>
+
+<hr>
+
+### Day 32: August 10, 2020
+
+**Today's Progress**  
+Reviewed materials on *Arrow Functions*, *Map()* and *Ternary Operator* and went over examples of each. Attempted *Arrow Function* problem on Hacker Rank and was able to solve! :D 
+
+**Thoughts**  
+My process for solving this problem:  
+* 1. Read materials on primary concept and work on examples
+* 2. Determine if secondary concepts are needed
+  * If so, read materials on those concepts and work on examples
+* 3. Finally combine secondary concepts to primary concept 
+
+Once I get a better understanding and retention of concepts will need to trim down this process. 
+
+**Link(s) to work**  
+1. <a href="https://www.hackerrank.com/challenges/js10-arrows/problem" target="_blank">Problem</a>
+2. <a href="https://repl.it/@simonxiong/Arrow-Function-100DaysOfCode#index.js" target="_blank">Solution</a>
+ 
  
