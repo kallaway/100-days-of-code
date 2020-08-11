@@ -464,4 +464,6 @@ Need to find out how many questions and what type of challenges will be on exam.
 
 **Link(s) to work**  
 1. <a href="https://www.hackerrank.com/skills-verification/javascript_basic" target="_blank">JavaScript Skills Certificate Test</a>
+
+
  
