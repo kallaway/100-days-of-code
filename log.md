@@ -448,7 +448,20 @@ Top 3 areas in needs of improvements:
   2. HTML Images and External Documents
   3. Using JavaScript 
 
+<hr>
 
+### Day 31: August 10, 2020
 
+**Today's Progress**  
+Started prepping for Hacker Rank JavaScript Skills Certificate Test. This time will prep for 7 days and take exam next Monday(Day 38). Topics to study for assessment includes:  
 
+* Functions, Events and Error Handling(2 days)
+* Currying(2 days)
+* Hoisting, Scope, Inheritance(3 days)
+
+**Thoughts**  
+Need to find out how many questions and what type of challenges will be on exam. 
+
+**Link(s) to work**  
+1. <a href="https://www.hackerrank.com/skills-verification/javascript_basic" target="_blank">JavaScript Skills Certificate Test</a>
  
