@@ -465,5 +465,24 @@ Need to find out how many questions and what type of challenges will be on exam.
 **Link(s) to work**  
 1. <a href="https://www.hackerrank.com/skills-verification/javascript_basic" target="_blank">JavaScript Skills Certificate Test</a>
 
+<hr>
+
+### Day 32: August 11, 2020
+
+**Today's Progress**  
+Reviewed materials on *Arrow Functions*, *map()* and *ternary operator* and went over examples of each. Attempted *Arrow Functions* on Hacker Rank and was able to solve! :D 
+
+**Thoughts**  
+ My long extended approach to solving problem was:  
+ * 1. Read documentation on primary concept and work on examples
+ * 2. Read documentation on secondary concepts and work on examples
+ * 3. Combine all concepts toward solving given problem 
+
+Once I get a better understanding and retention of these concepts my process can be trimmed. 
+
+**Link(s) to work**  
+1. <a href="https://www.hackerrank.com/challenges/js10-arrows/problem" target="_blank">Problem</a>
+2. <a href="https://repl.it/@simonxiong/Arrow-Function-100DaysOfCode#index.js" target="_blank">Solution</a>
+
 
  
