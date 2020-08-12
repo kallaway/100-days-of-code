@@ -15,7 +15,7 @@ Ako želite pomoći pružanjem prijevoda sadržaja/pravila na jeziku koji poznaj
 ## Ako ste se odlučili pridružiti:
 
 0.  Pogledajte [Zvanični sajt](http://100daysofcode.com/) za #100DaysOfCode promjene. Povežite se s drugima na platformi po vašem izboru s ove liste: www.100DaysOfCode.com/connect
-    Takođe, [ovdje](https://join.slack.com/t/100xcode/shared_invite/zt-eivg7x1x-wgNPDh7ug_u4GcUwZNT8Zg) je pozivni link na 100DaysOfCode Slack kanal
+    Takođe, [ovdje](https://join.slack.com/t/100xcode/shared_invite/zt-gaxsv2fp-N8ORl8wxsOF3rHaXgavMLA) je pozivni link na 100DaysOfCode Slack kanal
 1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2.  Fork-ujte ovaj repo i commit-ujte na [Dnevnik](log-sr.md) ili na alternativu, rapidan [R1 Dnevnik](r1-log-sr.md) (R1 znači Runda 1) dnevno. [Primjer](https://github.com/Kallaway/100-days-kallaway-log).
 3.  **Programirajte minimalno sat vremena svaki dan u narednih 100 dana.**
