@@ -484,5 +484,18 @@ Once I get a better understanding and retention of these concepts my process can
 1. <a href="https://www.hackerrank.com/challenges/js10-arrows/problem" target="_blank">Problem</a>
 2. <a href="https://repl.it/@simonxiong/Arrow-Function-100DaysOfCode#index.js" target="_blank">Solution</a>
 
+<hr>
+
+### Day 33: August 12, 2020
+
+**Today's Progress**  
+Read articles on the purpose of *Currying* and how it works. By definition Currying is when a function which takes multiple argument is broken down to a series of functions each with one parameter. Benefits are simplify code and caching expensive operation.  
+
+**Thoughts**  
+Currying is a tricky one and I will need to revisit for retention and understanding. 
+
+**Link(s) to work**  
+2. <a href="https://repl.it/@simonxiong/Currying-100DaysOfCode#index.js" target="_blank">Currying Example</a>
+
 
  
