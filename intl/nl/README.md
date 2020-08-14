@@ -33,7 +33,7 @@ Bekijk [de #100DaysOfX Challenges-projecten](http://100daysofx.com/). Als je je 
 
 Ik raad aan dat je niet meer dan 2-3 challenges tegelijkertijd doet, idealiter 2. Als je #100DaysOfCode doet dat veel metale activiteit vereist, probeer dan ook de [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/) of [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. Er is zo veel meer op de site, loop ze eens door en kies de challenges die je wilt doen! Talen, schrijven, mediteren, logboekopname, koken en meer!
 
-## Notitie
+## Opmerkingen
 
 * Als je vragen of ideeën hebt over 100DaysOfCode (of andere ideeën), voel je vrij om contact op te nemen op Twitter: [@ka11away](https://twitter.com/ka11away)
 * Als je deze repository leuk en het nuttig vindt, overweeg om het een &#9733; sterretje te geven (rechtsboven op de pagina) en het te forken :)
