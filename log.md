@@ -680,3 +680,11 @@
   Took me  a little more time than I'd liek to admit since it'de been days
  ##### Link to Reference:
   (https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/)
+  
+ # Day 77: 14th August, 2020
+ ##### Today's progress:
+  Solved it in under 30 minutes
+ ##### Thoughts:
+  Gotten better at solving 1D array based problems
+ ##### Link to References:
+  (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/)
