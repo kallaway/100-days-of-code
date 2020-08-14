@@ -375,9 +375,6 @@ Took a React assessment from a recruiter. Test format was multiple choice, allow
 
 **Thoughts**  
 
-
-
-
 <hr>
 
 ### Day 26: August 5, 2020
@@ -496,6 +493,17 @@ Currying is a tricky one and I will need to revisit for retention and understand
 
 **Link(s) to work**  
 2. <a href="https://repl.it/@simonxiong/Currying-100DaysOfCode#index.js" target="_blank">Currying Example</a>
+
+<hr>
+
+### Day 34: August 13, 2020
+
+**Today's Progress**  
+Attempted to review *Hoisting, Scope and Inheritance* only to realize this was too much to take within one study session. Ended up focusing on *Classes* because *inheritance* is a functionality of *Classes* 
+
+**Thoughts**  
+These are pretty advance topic so I will probably need to cover prerequisites concepts first.  
+
 
 
  
