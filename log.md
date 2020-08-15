@@ -231,7 +231,7 @@ Today I've Learned:
 Attempted to solve *Array* problem on HackerRank. Was unable to target last element of array for a conditional statement to arrive at solution. 
 
 **Thoughts**   
-After looking at multiple solutions I came pretty close to solving this problem. My stratergy was the following:  
+After looking at multiple solutions I came pretty close to solving this problem. My strategy was the following:  
 * 1. sort through the array(ascending order)
 * 2. remove duplicates
 * 3. target second to last element and return value 
@@ -504,6 +504,25 @@ Attempted to review *Hoisting, Scope and Inheritance* only to realize this was t
 **Thoughts**  
 These are pretty advance topic so I will probably need to cover prerequisites concepts first.  
 
+<hr>
 
+### Day 35: August 14, 2020
+
+**Today's Progress**  
+Attempted to solve *Classes* problem on HackerRank but was unsuccessful. After looking at solution I had the correct idea.
+
+**Thoughts**  
+Over complicating the solution either means that you do not understand the problem and/or do not have a strategy for solving the problem. If your strategy does not work, then you need to test your assumption and make sure there are no syntax errors. 
+
+Today I've learned:  
+* input argument does not have to be represented explicitly in *constructor* method  
+ * for example the array for rectangle([10,20,10,20]) was represented with object *sides*
+ * *sides* was initialize in the `Polygon`  
+* syntax for *constructor* method is always the same: 
+* `constructor ([argument]){ ... }`
+
+**Link(s) to work** 
+1. <a href="https://www.hackerrank.com/challenges/js10-class/problem" target="_blank">Problem</a>
+2. <a href="https://repl.it/@simonxiong/Classes-Challenge-100DaysOfCode#index.js" target="_blank">Attempt</a>
 
  
