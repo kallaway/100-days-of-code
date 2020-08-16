@@ -688,3 +688,11 @@
   Gotten better at solving 1D array based problems
  ##### Link to References:
   (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/)
+  
+# Day 78: 16th August, 2020
+##### Today's progress:
+ Solved Shuffle String
+##### Thoughts:
+ Still prone to simple logic errors
+##### Link to References:
+ (https://leetcode.com/problems/shuffle-string/submissions/)
