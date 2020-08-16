@@ -525,4 +525,23 @@ Today I've learned:
 1. <a href="https://www.hackerrank.com/challenges/js10-class/problem" target="_blank">Problem</a>
 2. <a href="https://repl.it/@simonxiong/Classes-Challenge-100DaysOfCode#index.js" target="_blank">Attempt</a>
 
+<hr>
+
+### Day 36: August 15, 2020
+
+**Today's Progress**  
+Attempted *Rectangle Object* and *Count Object* problem on HackerRank. Was able to solve only *Rectangle Object* problem.
+
+**Thoughts**  
+For the first problem reading resource materials and going over examples did help. The second problem was more complicated and will require another attempt. Looking at the hidden code in text editor on Hacker Rank provides a lot of hints. 
+
+Today I've Learned:  
+* Accessing object property with bracket notation should be used when property names are dynamically determined(not known until run time).
+
+**Link(s) to work** 
+1. <a href="https://www.hackerrank.com/challenges/js10-objects/problem" target="_blank">Rectangle Object - Problem</a>
+2. <a href="https://repl.it/@simonxiong/Rectangle-Object-100DaysOfCode#index.js" target="_blank">Rectangle Object - Attempt</a>
+3. <a href="https://www.hackerrank.com/challenges/js10-count-objects/problem" target="_blank">Count Object - Attempt</a>
+4. <a href="https://repl.it/@simonxiong/Count-Objects-100DaysOfCode#index.js" target="_blank">Count Object - Attempt </a>
+
  
