@@ -172,6 +172,14 @@ Template:
 
 **Link(s) to work**: Next challenge I want to work on [Edabit](https://edabit.com/challenge/s5Sz2ovKsvtGxNGgn)
 
+### Day 20: August 15th, 2020
+
+**Today's Progress**: Decided to create an image uploader using serverless, AWS S3, AWS Lambda all in node.js, with the front end in vue.js
+
+**Thoughts**: Created AWS account, installed serverless, configured aws cli. Sls deployed hello world [resources used was lambda and api gateway]. Next up is to set up s3 and upload and get items from bucket and view via front end.
+
+**Link(s) to work**: Not deployed yet
+
 Example:
 ### Day 2: June 14th, 2020 (Example 2)
 ##### (delete me or comment me out)
@@ -198,3 +206,8 @@ Example:
 [Flutter](https://blog.codeminer42.com/build-your-first-app-with-flutter-getting-data-from-api-c9fb4c2a6812/)
 [TicTacToe](https://levelup.gitconnected.com/building-tic-tac-toe-in-vue-js-57a23822313d)
 [Authentication](https://scotch.io/tutorials/build-and-understand-a-simple-nodejs-website-with-user-authentication)
+
+**Blog ideas:
+* 10 things I found about breastfeeding
+* 10 things I found about being a first time mom
+* I got 3 job offers back to back, how I did it
