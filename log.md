@@ -544,4 +544,24 @@ Today I've Learned:
 3. <a href="https://www.hackerrank.com/challenges/js10-count-objects/problem" target="_blank">Count Object - Attempt</a>
 4. <a href="https://repl.it/@simonxiong/Count-Objects-100DaysOfCode#index.js" target="_blank">Count Object - Attempt </a>
 
+<hr>
+
+### Day 37: August 16, 2020
+
+**Today's Progress**  
+Attempted *Count Object* problem on HackerRank and was able to solve. 
+
+**Thoughts**  
+After attempting problem with *for loop* strategy for 3hrs, I realized that it was not going to work. 
+However, I did do a good job on working over small examples with this attempt. Eventually I switched to a `filter` strategy and was able to solve in 15 minutes. 
+
+Today I've Learned:  
+* When a strategy is not working don't get obsessed over it and move on to another strategy 
+
+**Link(s) to work** 
+1. <a href="https://www.hackerrank.com/challenges/js10-count-objects/problem" target="_blank">Problem</a>
+2. <a href="https://repl.it/@simonxiong/Count-Objects-100DaysOfCode#index.js" target="_blank">Solution</a>
+
+
+
  
