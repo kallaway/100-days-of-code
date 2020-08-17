@@ -700,7 +700,10 @@
 # Day 79: 17th August, 2020
 ##### Today's progress:
  Learning Pandas through Titanic Dataset
+ Solved a little more of the Regex Matching Problem
 ##### Thoughts:
  Learnt about filling in nAn values in columns and the reason behind Encoding.
+ Troube figuring out the logic
 ##### Link to References:
  (https://github.com/PriyaShrinithi/Titanic/blob/master/Titanic.ipynb)
+ (https://leetcode.com/problems/regular-expression-matching/)
