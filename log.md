@@ -696,3 +696,11 @@
  Still prone to simple logic errors
 ##### Link to References:
  (https://leetcode.com/problems/shuffle-string/submissions/)
+ 
+# Day 79: 17th August, 2020
+##### Today's progress:
+ Learning Pandas through Titanic Dataset
+##### Thoughts:
+ Learnt about filling in nAn values in columns and the reason behind Encoding.
+##### Link to References:
+ (https://github.com/PriyaShrinithi/Titanic/blob/master/Titanic.ipynb)
