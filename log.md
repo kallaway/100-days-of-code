@@ -707,3 +707,11 @@
 ##### Link to References:
  (https://github.com/PriyaShrinithi/Titanic/blob/master/Titanic.ipynb)
  (https://leetcode.com/problems/regular-expression-matching/)
+
+# Day 80: 18th August, 2020
+##### Today's progress:
+ Took a long time but finally figued out the recursive logic of Regex Match Problem
+##### Thoughts:
+ High Time Complexity. Should redo in DP
+##### Link to References:
+ (https://leetcode.com/problems/regular-expression-matching/submissions/)
