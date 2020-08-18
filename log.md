@@ -562,6 +562,20 @@ Today I've Learned:
 1. <a href="https://www.hackerrank.com/challenges/js10-count-objects/problem" target="_blank">Problem</a>
 2. <a href="https://repl.it/@simonxiong/Count-Objects-100DaysOfCode#index.js" target="_blank">Solution</a>
 
+<hr>
+
+### Day 38: August 17, 2020
+
+**Today's Progress**  
+Took the HackerRank Javascript "basic" assessment and do not attempt. 
+
+**Thoughts**  
+There was nothing "basic" about it, as I had a hard time understanding the problems itself. This was probably the most difficult assessment I ever attempted, even more difficult then the one I received from actual companies. 
+
+
+
+
+
 
 
  
