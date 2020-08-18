@@ -272,4 +272,70 @@ Symbol is a primitive type - Can be used as keys or property names in objects
 
 ---
 
+### Day 18-19
+#####   Webpack and babel
 
+**Today's Progress**: Learned about how to use webpack and babel
+
+**Task Accomplished:** I learnt how important it is to use babel to convert modern ES6 javascript code to code that older websites can run. Also I got to work with webpack and even use the webpack-dev-server to run a local server for distributed coding files. It was important for me to see how to use both production and development modes in a project.
+
+**Results:** I was able to install babel and webpack packages from scratch and write some digital notes from my lessons. Moving from a simple environment of just html, css and js file to webpack development is new and I will need more practice to be able to run this development smoothly.
+**Tweet:** https://twitter.com/TracyCss/status/1284146667097382912
+
+![Day 19 image](assets/img/day-19.gif)
+
+---
+
+### Day 21-22
+#####   Introduction to promblem solving 
+
+**Today's Progress**: Learned about about problem solving and how to approach them step by step.
+
+**Task Accomplished:** Finished watching a few videos about frquency problems and did some quizzes too.
+
+**Results:**  I can now use frequency approach to solve problems. I am not fully confident with this approach but with some practice I will be.
+
+**Tweet:** https://twitter.com/TracyCss/status/1289094299913793536
+
+![Day 22 image](assets/img/day-20.png)
+---
+
+### Day 23
+#####   Webpack and Babel blog 
+
+**Today's Progress**: I was able to read some materials on Webpack and babel to fresh my knowledge. I decided to write something about it, in order to help beginners understand it better and have a boilerplate for a project. I went through net ninja crash course about babel.
+
+**Task Accomplished:** Yeas, I wrote an article and published it to dev.to platform. 
+
+**Results:** My webpack and babel [blog post](https://dev.to/tracycss/webpack-and-babel-for-beginners-103l) on dev.to platform.
+
+**Tweet:** https://twitter.com/TracyCss/status/1290319063701499904
+
+[Blog post about babel](https://dev.to/tracycss/webpack-and-babel-for-beginners-103l)
+
+---
+
+### Day 24
+#####   Introduction to Node
+
+**Today's Progress**: I got started with Node Js as my first JavaScript framework. Went through the introduction section about how to use it and the pros and cons of node. Since I have used Javascript it was the best framwork to chooose instead of another language. 
+
+**Task Accomplished:**  I was able to understand the synchronous and asynchronous nature of Node Js and how to know when to use it. Got to learn how to use a server and how to create one. 
+
+**Results:** Created a simple web server in node js and import https and file system modules.
+
+**Tweet:** https://twitter.com/TracyCss/status/1290683830458777602
+
+
+---
+
+### Day 25
+#####   Introduction to multiple pointers in problem solving
+
+**Today's Progress**: I learnt how to use multiple pointers to solve problems in algorithms question. To be honest, It's better to know different approaches and choose the onw you are most comfortable with.
+
+
+**Tweet:** https://twitter.com/TracyCss/status/1290683830458777602
+
+![Day 25 image](assets/img/day-25.png)
+---
