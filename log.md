@@ -710,8 +710,11 @@
 
 # Day 80: 18th August, 2020
 ##### Today's progress:
- Took a long time but finally figued out the recursive logic of Regex Match Problem
+ Took a long time but finally figured out the recursive logic of Regex Match Problem
+ Dabbled in Data Visualization through Seaborn
 ##### Thoughts:
  High Time Complexity. Should redo in DP
+ Data Visualization is important
 ##### Link to References:
  (https://leetcode.com/problems/regular-expression-matching/submissions/)
+ (https://github.com/PriyaShrinithi/Titanic/blob/master/Titanic.ipynb)
