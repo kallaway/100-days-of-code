@@ -180,6 +180,13 @@ Template:
 
 **Link(s) to work**: Not deployed yet
 
+### Day 21: August 18th, 2020
+
+**Today's Progress**: Can get objects from S3 bucket
+
+**Thoughts**: However images are in bytes. Need to re-think and draw out architecture to understand what I want to accomplish
+
+**Link(s) to work**:
 Example:
 ### Day 2: June 14th, 2020 (Example 2)
 ##### (delete me or comment me out)
@@ -206,8 +213,3 @@ Example:
 [Flutter](https://blog.codeminer42.com/build-your-first-app-with-flutter-getting-data-from-api-c9fb4c2a6812/)
 [TicTacToe](https://levelup.gitconnected.com/building-tic-tac-toe-in-vue-js-57a23822313d)
 [Authentication](https://scotch.io/tutorials/build-and-understand-a-simple-nodejs-website-with-user-authentication)
-
-**Blog ideas:
-* 10 things I found about breastfeeding
-* 10 things I found about being a first time mom
-* I got 3 job offers back to back, how I did it
