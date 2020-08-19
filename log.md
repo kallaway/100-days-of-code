@@ -718,3 +718,11 @@
 ##### Link to References:
  (https://leetcode.com/problems/regular-expression-matching/submissions/)
  (https://github.com/PriyaShrinithi/Titanic/blob/master/Titanic.ipynb)
+
+# Day 81: 19th August, 2020
+##### Today's progress:
+ Half way through figuring out Regex matchinng in dp
+##### Thoughts:
+ Struggling in figuring out minute details
+##### Link to References:
+ (https://leetcode.com/problems/regular-expression-matching/solution/)
