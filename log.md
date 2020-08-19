@@ -582,6 +582,27 @@ Applied for a Dev job on LinkedIn. Messaged and followed up with a recruiters.
 **Thoughts**  
 Something I get writer's block when writing a cover letter. Some companies are less appealing than others. 
 
+<hr>
+
+### Day 40: August 19, 2020
+
+**Today's Progress**  
+Attempted *Array* problem(again) on Hacker Rank and was able to solve. My strategy for solving problem was the following:  
+  1. Sort array from lowest to highest
+  2. Remove duplicates 
+  3. Return second highest integer 
+
+**Thoughts**  
+Although my solution was not the most succinct or optimal, I was able to solve the problem with a pragmatic approach. 
+
+Today I've Learned:  
+* `sort()` can be used to sort an array in ascending or descending order
+* `indexOf` can be used with *index* keyword within `filter()` callback to determine unique values
+* `Set`object is used to store unique values of any types 
+
+**Link(s) to work** 
+1. <a href="https://www.hackerrank.com/challenges/js10-arrays/problem" target="_blank">Problem</a>
+2. <a href="https://repl.it/@simonxiong/Arrays-100DaysOfCode#index.js" target="_blank">Solution</a>
 
 
  
