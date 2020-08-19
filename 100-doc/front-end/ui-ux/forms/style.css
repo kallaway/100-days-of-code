@@ -1,0 +1,47 @@
+* {
+  background-color: lightblue;
+  font-family: 'Courier New', Courier, monospace;
+}
+#outside {
+  /* background-color: lightblue; */
+}
+#header h1 {
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px 0px 10px 0px;
+  border: 1px black solid;
+  margin: 20px 30px 20px 30px;
+}
+p.note {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+}
+fieldset legend {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-variant-caps: small-caps;
+}
+div label {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+#gender-selection {
+  margin: 5px 10px;
+}
+#characteristics-note {
+  margin: 5px 20px;
+  font-weight: bold;
+}
+#intellectual-category {
+  padding: 15px 10px;
+} 
+#essay-section {
+  padding: 10px 15px;
+}
+.essay-box {
+  /* padding: 10px 5px; */
+  margin: 10px 5px;
+}
