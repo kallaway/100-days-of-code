@@ -3,41 +3,52 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
   <title>Form 1</title>
 </head>
 <body>
   <div id="outside">
     <div id="header">
       <h1>Application For Permission To Date My Daughter</h1>
-      <p>Note: form is to be completed at least 21 days prior to date.</p>
+      <p class="note">Form is to be completed at least 21 days prior to date.</p>
       <!--  -->
       <fieldset>
         <legend>Personal Details</legend>
         <!-- Text -->
         <div>
-          <label for="name">Name:</label>
+          <label for="name">Name
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            :</label>
           <input type="text" id="name" placeholder="enter name here" required><br>
         </div>
         <div>
-          <label for="address">Address:</label>
+          <label for="address">Address
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            :</label>
           <input type="text" id="address" placeholder="enter address here" required><br>
         </div>
         <div>
-          <label for="email">Email:</label>
+          <label for="email">Email
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            :</label>
           <input type="text" id="email" placeholder="enter email here" required><br>
         </div>
         <div>
-          <label for="phoneNumber">Phone Number:</label>
+          <label for="phoneNumber">Phone Number
+            
+            :</label>
           <input type="text" id="phoneNumber" placeholder="enter 10 digit number" required><br>
         </div>
         <div>
-          <label for="iq">IQ:</label>
+          <label for="iq">IQ
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            :</label>
           <input type="text" id="iq" placeholder="enter iq here" required>
         </div>
         <!-- Labels -->
         <div>
           <label for="gender">Gender</label>
-          <p>
+          <p id="gender-selection">
             <!-- value di name = for, biar cuma bisa kepilih 1. Gatau kenapa, kalo pake id itu dia bs kepilih >1-->
             <input type="radio" name="gender" value="male">Male<br>
             <input type="radio" name="gender" value="female">Female<br>
@@ -50,7 +61,7 @@
 
       <fieldset>
         <div>
-          <p>Check all that apply</p>
+          <p id="characteristics-note">Check all that apply</p>
         </div>
         <input type="checkbox" id="features">I have tattoos and/or piercings<br>
         <input type="checkbox" id="features">I am more than 2 years older than my daughter<br>
@@ -60,13 +71,14 @@
         <input type="checkbox" id="features">The date is at a well lit public location<br>
       </fieldset>
 
-      <fieldset>
+      <fieldset id="intellectual-category">
         <label for="political-persuasion">Political Persuasion:</label>
         <select name="political-persuasion" id="political-persuasion">
           <option value="left-wing">Left Wing</option>
           <option value="right-wing">Right Wing</option>
           <option value="moderate">Moderate</option>
         </select>
+        <span>&nbsp;&nbsp;&nbsp;</span>
         <label for="education-completed">Education Level Completed</label>
         <select name="education-completed" id="education-completed">
           <option value="graduate-or-higher">Graduate or higher</option>
@@ -76,13 +88,13 @@
         </select>
       </fieldset>
 
-      <fieldset>
+      <fieldset id="essay-section">
         <legend>Essay Section</legend>
         <label for="reasons">In 50 words or more, explain why you want to date my daughter</label><br>
-        <textarea name="reasons" id="reasons" cols="40" rows="10" placeholder="enter your reasons here" required></textarea>
+        <textarea name="reasons" id="reasons" cols="40" rows="10" placeholder="enter your reasons here" required class="essay-box"></textarea>
         <br>
         <label for="contact-ref">Please upload contact details for 2 references</label><br>
-        <textarea name="contact-ref" id="contact-refd" cols="40" rows="10" placeholder="enter your contact details here" required></textarea><br>
+        <textarea name="contact-ref" id="contact-refd" cols="40" rows="10" placeholder="enter your contact details here" required class="essay-box"></textarea><br>
         <label for="clearance">Upload police clearance certificate, bank statement, and medical certificates here:</label>
         <input type="file" id="file" name="file" multiple>
       </fieldset>
@@ -92,3 +104,15 @@
 </body>
 
 </html>
+
+<!-- 
+  Notes
+  useful attributes
+  form
+  fieldset
+  legend
+  input type=""
+  - the for in <label> should be equal to the <id> attribute of the <input> element to bind them together
+  - input type="submit" -> hrs ada <form action="/action_page.php">
+  select -> drop down list -> dlm nya ada <option>
+ -->
