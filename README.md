@@ -311,7 +311,7 @@ Symbol is a primitive type - Can be used as keys or property names in objects
 
 **Tweet:** https://twitter.com/TracyCss/status/1290319063701499904
 
-[Blog post about babel](https://dev.to/tracycss/webpack-and-babel-for-beginners-103l)
+✍  [Blog post about babel](https://dev.to/tracycss/webpack-and-babel-for-beginners-103l)
 
 ---
 
@@ -338,4 +338,78 @@ Symbol is a primitive type - Can be used as keys or property names in objects
 **Tweet:** https://twitter.com/TracyCss/status/1290683830458777602
 
 ![Day 25 image](assets/img/day-25.png)
+
+---
+
+### Day 26
+#####   Taking problem solving quizzes
+
+**Today's Progress**: I did some quizzes on problem solving and wen't through some notes from yestarday.
+
+**Task Accomplished:**  I was able to understand how multiple pointers works in different situations. Also how to use sets in an Array to remove numbers that are repetitive. 
+
+**Results:** Got 3 questions out of 5 that I did.
+
+**Tweet:** https://twitter.com/TracyCss/status/1290683830458777602
+
+![Day 26 image](assets/img/day-26.png)
+
+---
+
+### Day 27
+#####   Finished the Node farm oroject
+
+**Today's Progress**: Finished up the my first node project today! I got to learn a lot about node js. Just the basic on how to set up a server, use API and how to connect your Json data to the client server.
+
+**Task Accomplished:**  Complected the node farm from scratch by watching the node bootcamp course by Jonas.
+
+**Results:** I was able to connect the frontend to the backend data using a simple API aerver with Node Js.
+
+**Tweet:** https://twitter.com/TracyCss/status/1292140857236258828
+
+![Day 27 image](assets/img/day-27.gif)
+
+---
+
+
+### Day 28-29
+#####   Quizzes on multiple pointers
+
+**Today's Progress**: Today I repeated the questions I didn't get in the problem solving. It is always good to go back and see where you did wrong and how you can improve. It takes time to fully know algorithms. 
+
+
+**Tweet:** https://twitter.com/TracyCss/status/1293594758246473728
+
+![Day 29 image](assets/img/day-29.jpg)
+
+---
+
+### Day 30-31
+#####   Created Node home chef 
+
+**Today's Progress**: I went to figma to create some mockups for the Node home chef website. Then I proceeded to make the prototype just to see how the website would function. Then did the actual coding of the  project.
+
+**Task Accomplished:**  Used Html, CSS and node Js to make the full website function in the server. I learnt a lot about filling html templates and making simple modules to functions that can be reused across the application. 
+
+
+**Tweet:** https://twitter.com/TracyCss/status/1294357477794996224
+
+![Day 31 image](assets/img/day-32.gif)
+
+---
+
+### Day 32
+#####   Finished the Node farm oroject
+
+**Today's Progress**: Created an app on how to build a simple Api by using Jona's course and trying to explain each line of code.  
+
+
+**Results:** Make a 9 minute read blog on how I created the node home chef application. I also shared why I was learning node Js as a way to learn Javascript.
+
+Blog ✍  : [How to make a simple API server with Node Js for Beginners](https://dev.to/tracycss/build-an-simple-api-with-node-js-for-beginners-oi)
+
+**Tweet:** https://twitter.com/TracyCss/status/1292140857236258828
+
+![Day 32 image](assets/img/day-blog.gif)
+
 ---
