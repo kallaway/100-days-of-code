@@ -572,9 +572,15 @@ Took the HackerRank Javascript "basic" assessment and do not attempt.
 **Thoughts**  
 There was nothing "basic" about it, as I had a hard time understanding the problems itself. This was probably the most difficult assessment I ever attempted, even more difficult then the one I received from actual companies. 
 
+<hr>
 
+### Day 39: August 18, 2020
 
+**Today's Progress**  
+Applied for a Dev job on LinkedIn. Messaged and followed up with a recruiters. 
 
+**Thoughts**  
+Something I get writer's block when writing a cover letter. Some companies are less appealing than others. 
 
 
 
