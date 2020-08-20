@@ -11,6 +11,8 @@
 **Link to work:** 
 1. https://github.com/jeremyalv/100-days-of-code/blob/master/100-doc/front-end/ui-ux/forms/form-1.html
 
+<hr>
+
 ### Day 1: August 19, 2020 
 
 **Today's Progress**: Started working on form styling using CSS.
@@ -21,3 +23,18 @@
 
 **Link to work:** 
 1. https://github.com/jeremyalv/100-days-of-code/tree/ad6904a412853a4ef2367550068031c69dda4a61/100-doc/front-end/ui-ux/forms
+
+<hr>
+
+### Day 2: August 20, 2020 
+
+**Today's Progress**: Continued working on form CSS, studied other similar form structures.
+
+**Thoughts:** My first session today, I got confused which attributes I should add because there are so many. I will do another one in the afternoon.
+
+**Coding time:** Around 45 minutes (1st).
+
+**Link to work:** 
+1. https://github.com/jeremyalv/100-days-of-code/tree/ad6904a412853a4ef2367550068031c69dda4a61/100-doc/front-end/ui-ux/forms
+
+<hr>
