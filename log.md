@@ -604,5 +604,12 @@ Today I've Learned:
 1. <a href="https://www.hackerrank.com/challenges/js10-arrays/problem" target="_blank">Problem</a>
 2. <a href="https://repl.it/@simonxiong/Arrays-100DaysOfCode#index.js" target="_blank">Solution</a>
 
+<hr>
 
- 
+ ### Day 41: August 20, 2020
+
+**Today's Progress**  
+Applied for a UI Software Developer job on LinkedIn. A recruiter for a job I applied to recently messaged me and I messaged back.
+
+**Thoughts**  
+Will attempt a Hacker Rank problem before midnight and kick it into overdrive. 
