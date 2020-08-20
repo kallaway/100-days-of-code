@@ -6,9 +6,8 @@
   <link rel="stylesheet" href="style.css">
   <title>Form 1</title>
 </head>
-<body>
   <div id="outside">
-    <div id="header">
+    <form id="survey-form" action="actionpage.php" method="POST">
       <h1>Application For Permission To Date My Daughter</h1>
       <p class="note">Form is to be completed at least 21 days prior to date.</p>
       <!--  -->
@@ -96,11 +95,16 @@
         <label for="contact-ref">Please upload contact details for 2 references</label><br>
         <textarea name="contact-ref" id="contact-refd" cols="40" rows="10" placeholder="enter your contact details here" required class="essay-box"></textarea><br>
         <label for="clearance">Upload police clearance certificate, bank statement, and medical certificates here:</label>
-        <input type="file" id="file" name="file" multiple>
+        <button>Attach Files</button>
+
+        <div id="submit-button">
+          <button type="submit" id="submit">Send your application</button>
+        </div>
       </fieldset>
-    </div>
-    
+    </form>
   </div>
+    
+
 </body>
 
 </html>
