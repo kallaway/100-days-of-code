@@ -1,22 +1,40 @@
 * {
-  background-color: lightblue;
+  /* background-color: lightgoldenrodyellow; */
   font-family: 'Courier New', Courier, monospace;
+}
+body {
+  display: block;
+  margin: 0px;
 }
 #outside {
-  /* background-color: lightblue; */
+  background-color: lightgoldenrodyellow;
 }
-#header h1 {
+h1 {
   font-family: 'Courier New', Courier, monospace;
+  font-size: 2em;
+  text-transform: capitalize;
   color: black;
   font-weight: bold;
   text-align: center;
   padding: 20px 0px 10px 0px;
-  border: 1px black solid;
   margin: 20px 30px 20px 30px;
+}
+form {
+  margin: 0 auto;
+  width: 80%;
+  height: 90%;
+  padding: 1em;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+  
+}
+#survey-form {
+  background-color: white;
 }
 p.note {
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
+  font-size: 1.5em;
   text-align: center;
 }
 fieldset legend {
@@ -44,4 +62,14 @@ div label {
 .essay-box {
   /* padding: 10px 5px; */
   margin: 10px 5px;
+}
+button {
+  font-weight: bold;
+  margin: .5em;
+  background-color: red;
+  color: white;
+}
+#submit-button {
+  display: flex;
+  justify-content: center;
 }
