@@ -454,3 +454,31 @@ The user/client types in the url of a webpage in a browser, the request is sent 
 ![how internet works](assets/img/internet.png)
 
 ---
+
+### Day 33
+
+##### NPM packages and how the internet works
+
+**Today's Progress**
+
+#### Static, Dynamic and Api-powered websites
+
+- Static websites have ready files that are served to the browser. Like Html, Css, Jvascript and images files. They display the same content for every user.
+
+- Dynamic website are built on the server each time a new request comes in. It has a database which get the data, with a pre-defined template it builds each page the user requests. From each client based request the page is build with Html, css, images and javascript. This pages are then sent to the browser. This process is also callled server-side rendering. Thus it dynamic beccause the content can change according to the user actions or data in the database. Example is the Twitter website, every time you login you see different tweets.
+
+Web application are dynamic websites with functionality like logging in, signing up or creating profiles.
+
+- API-powered website are websites that have a database that fetches data and its build in two steps:
+  a) Building the Api
+  b) Consuming the Api
+  The Api-powered websites are dynamic websites but the only difference is that Api-powered website send JSON data format to the browser not the entire website. Only the data is sent to the client, no Html,css or js files. When it reaches the browser, it builds the website through the templates created.
+  An API is Aplication Programming Interface which is a software that allows application to talk to each other.
+
+(Amazing summary notes from Jonas course)
+
+**Results:** I was able to understand how the internet works behind the scenes.
+
+![Dynamic website process](assets/img/dynamic.png)
+
+---
