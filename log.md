@@ -187,6 +187,16 @@ Template:
 **Thoughts**: However images are in bytes. Need to re-think and draw out architecture to understand what I want to accomplish
 
 **Link(s) to work**:
+
+
+### Day 22: August 21st, 2020 
+
+**Today's Progress**: Created lambda function that post and gets ingo from dynamo db while using serverless
+
+**Thoughts**: Glad that I am getting use to cloud services. Serverless is super cool and learning a ton.
+
+**Link(s) to work**: Will deploy to gitHub once clean up is done
+
 Example:
 ### Day 2: June 14th, 2020 (Example 2)
 ##### (delete me or comment me out)
@@ -213,3 +223,4 @@ Example:
 [Flutter](https://blog.codeminer42.com/build-your-first-app-with-flutter-getting-data-from-api-c9fb4c2a6812/)
 [TicTacToe](https://levelup.gitconnected.com/building-tic-tac-toe-in-vue-js-57a23822313d)
 [Authentication](https://scotch.io/tutorials/build-and-understand-a-simple-nodejs-website-with-user-authentication)
+
