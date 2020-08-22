@@ -1,0 +1,36 @@
+* {
+  width: 100vw;
+}
+body {
+  text-align: center;
+  font-size: 32px;
+  color: #fff;
+  /* color: black; */
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+}
+header {
+  background-color: #626362;
+  height: 15%;
+}
+aside {
+  background-color: #78668a;
+  height: 70vh;
+  float: left;
+  width: 15%;
+}
+section {
+  background-color: #242b2a;
+  height: 70vh;
+  float: left;
+  width: 70%;
+}
+/* sectionnya jadi di antara dua aside karena urutan kodenya ditulis diantara kedua aside */
+footer {
+  background-color: #ed6464;
+  height: 15vh;
+  width: 100%;
+  float: left;
+}
+/* kalo height/width pake vh/vw */
