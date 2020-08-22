@@ -116,3 +116,6 @@ Another thing that demotivates me is that I seem to be only accumulating knowled
 Asked around on the Discord group for the challenge and someone pointed me to two helpful resources for ideas on projects I should be making. Today I started working on the logic and JavaScript code for a simple Binary to Decimal converter, and I managed to make it work without googling around. Just had to freshen up the logic by watching a Math course on Khan Academy. Noted a few things that I have yet to implement to make the project better and what's this? two post made in two consecutive days?
 
 I know it doesn't seem like much, and that I should be able to do those things already, but my goal here is to get back into the habit of coding, and I am learning JavaScript. So, I am going to take this as I do going back to the gym after a long hiatus, I am going to start back at a newbie level, even when I know that that might be detrimental to my success. Yet I am still taking a leapt of faith and getting back to the beginnings, so that I can make it to the end.
+
+**R2D8, August 22nd, 2020**
+I finished the JavaScript project for converting binary numbers to decimals, filling up all the requirements from the project. Now I have to work into making it look nicer since everything is just HTML with barely any CSS in it and have to polish the code up a bit.
