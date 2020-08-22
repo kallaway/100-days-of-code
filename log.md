@@ -516,8 +516,8 @@ Over complicating the solution either means that you do not understand the probl
 
 Today I've learned:  
 * input argument does not have to be represented explicitly in *constructor* method  
- * for example the array for rectangle([10,20,10,20]) was represented with object *sides*
- * *sides* was initialize in the `Polygon`  
+ * for example the array for rectangle([10,20,10,20]) was represented with object *sides* property
+ * *sides* property was initialize in the `Polygon`  
 * syntax for *constructor* method is always the same: 
 * `constructor ([argument]){ ... }`
 
@@ -613,3 +613,30 @@ Applied for a UI Software Developer job on LinkedIn. A recruiter for a job I app
 
 **Thoughts**  
 Will attempt a Hacker Rank problem before midnight and kick it into overdrive. 
+
+<hr>
+
+ ### Day 42: August 21, 2020
+
+**Today's Progress**  
+Attempted *Inheritance* problem on Hacker Rank. Was about to solve only 1 out of 2 test cases. The test case for *Square* class was tricky because it only contained 1 property, whereas the *Rectangle* class contained 2 properties. 
+
+**Thoughts**  
+For the second test case the *constructor* method will convert `this.w` and `this.h` to the value of *s*
+
+```class Square extends Rectangle {
+  constructor(s){
+    super(s,s)
+  }
+}
+```
+
+Today I've Learned: 
+* *extends* is used to create a inheritance  
+ * classes that uses *extends* are called child classes or subclasses
+* a subclass inherit the superclass method and behaviors but can also declare new ones and override existing ones 
+* Inheritance is useful for code reusability 
+
+**Link(s) to work** 
+1. <a href="https://www.hackerrank.com/challenges/js10-inheritance/problem" target="_blank">Problem</a>
+2. <a href="https://repl.it/@simonxiong/Inheritance-100DaysOfCode#index.js" target="_blank">Solution</a>
