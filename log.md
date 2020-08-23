@@ -640,3 +640,20 @@ Today I've Learned:
 **Link(s) to work** 
 1. <a href="https://www.hackerrank.com/challenges/js10-inheritance/problem" target="_blank">Problem</a>
 2. <a href="https://repl.it/@simonxiong/Inheritance-100DaysOfCode#index.js" target="_blank">Solution</a>
+
+<hr>
+
+ ### Day 43: August 22, 2020
+
+**Today's Progress**  
+Applied for a dev role at a Healthcare software company. Application did require writing a cover letter and answering a question about self. Attempted the *Template Literals* problem on Hacker Rank which was NOT good question as it required more than just applying the *Template Literals* concept. 
+
+**Thoughts**  
+The challenges in *10 Days of JavaScript* are meant to reinforce concepts and are not typical of what will be seen during assessment for technical interviews.  
+
+Today I've Learned:  
+* Template Literals can be used for spanning strings across multiple lines
+* can contain place holder: `${expression}` which can be passed into a function 
+
+**Link(s) to work** 
+1.  <a href="https://www.hackerrank.com/challenges/js10-template-literals/problem" target="_blank">Problem</a>
