@@ -729,9 +729,11 @@
 
 # Day 82: 20th August, 2020
 ##### Today's progress:
+ Revisited Regex in DP Problem. Still not done with it 
 ##### Thoughts:
+ Logical Errors
 ##### Link to References:
- ()
+ (https://leetcode.com/problems/regular-expression-matching/solution/)
 
 # Day 83: 21st August, 2020
 ##### Today's progress:
@@ -740,3 +742,19 @@
  None
 ##### Link to References:
  (https://github.com/PriyaShrinithi/DataStructures-and-Java/blob/master/Tower%20of%20Hanoi)
+ 
+# Day 84: 23rd August, 2020
+##### Today's progress:
+ Spent a little time in buuilding a comic scraper using python
+##### Thoughts:
+ None
+##### Link to References:
+ ()
+
+# Day 85: 24th August, 2020
+##### Today's progress:
+ Spent a lot more time in building the comic scraper
+##### Thoughts:
+ Debugging troubles
+##### Link to References:
+ ()
