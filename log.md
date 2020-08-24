@@ -657,3 +657,34 @@ Today I've Learned:
 
 **Link(s) to work** 
 1.  <a href="https://www.hackerrank.com/challenges/js10-template-literals/problem" target="_blank">Problem</a>
+
+<hr>
+
+ ### Day 44: August 23, 2020
+
+**Today's Progress**  
+Started *Binary Tree* card on LeetCode and reviewed concepts on what is a tree, Binary Tree and how to traverse a tree.
+
+**Thoughts**  
+ The overall design of the LeetCode website is appealing. I also like the visual animation for the Traverse examples. 
+
+Today I've Learned:  
+* Pre-order Traversal(RT-L-R):  
+ 1. visit the root first
+ 2. then traverse the left subtree
+ 3. finally, traverse the right subtree
+
+* In-order Traversal(L-RT-R):
+ 1. traverse the left subtree first
+ 2. then visit the root
+ 3. finally, traverse right subtree
+
+ * Post-order Traversal(L-R-RT):
+  1. traverse the left subtree first
+  2. then traverse the right subtree
+  3. finally, visit the root  
+
+
+**Link(s) to work** 
+1.  <a href="https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/" target="_blank">Resource</a>
+
