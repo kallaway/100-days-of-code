@@ -119,3 +119,9 @@ I know it doesn't seem like much, and that I should be able to do those things a
 
 **R2D8, August 22nd, 2020**
 I finished the JavaScript project for converting binary numbers to decimals, filling up all the requirements from the project. Now I have to work into making it look nicer since everything is just HTML with barely any CSS in it and have to polish the code up a bit.
+
+**R2D9, August 24th, 2020**
+I did a dopamine detox yesterday on August 23rd of 2020 trying to become more productive. I won't say much changed but at least I learned how to motivate myself, why some things don't motivate me, or why some motivate me more than others. I managed to read 100 pages of a book that I had put off for almost two years.
+I also did a lot of practice learning about HTML tables and how to style them which is something I also wanted to do for a personal project. But I have yet to finish styling the Binary to Decimal converter though.
+
+I will try to do the dopamine detox at least once a week since when you are a parent with two kids, it's almost impossible to completely avoid some stimuli from reaching you -like when they start singing or listening to music, for example-, all in all, I think it wasn't as bad as I expected it to be, and at least I managed to code for several hours today.
