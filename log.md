@@ -758,3 +758,11 @@
  Debugging troubles
 ##### Link to References:
  ()
+ 
+# Day 86: 25th August, 2020
+##### Today's progress:
+ Tried to build an image scraper
+##### Thoughts:
+ Network debugging troubles
+##### Link to References:
+ ()
