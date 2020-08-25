@@ -684,7 +684,10 @@ Today I've Learned:
   2. then traverse the right subtree
   3. finally, visit the root  
 
-
 **Link(s) to work** 
 1.  <a href="https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/" target="_blank">Resource</a>
 
+ ### Day 45: August 24, 2020
+
+ **Today's Progress**  
+ Did not code today. Had to revise a resume for a job I applied for. Hopefully recruiters can understand why I chose a functional format. 
