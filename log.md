@@ -687,7 +687,19 @@ Today I've Learned:
 **Link(s) to work** 
 1.  <a href="https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/" target="_blank">Resource</a>
 
+<hr>
+
  ### Day 45: August 24, 2020
 
  **Today's Progress**  
- Did not code today. Had to revise a resume for a job I applied for. Hopefully recruiters can understand why I chose a functional format. 
+ Did not code today. Had to reformat my resume at the request of a recruiter. Hopefully they can understand why I chose a functional format resume over chronological format. 
+
+ <hr>
+
+## Day 46: August 25, 2020
+
+**Today's Progress**  
+Decided to learn take a few steps back and learn recursion before Traversal methods. Review materials on Recursion on Colt's Steel course on Udemy.
+
+Recursion is a function that call itself until a condition is met. Understanding the *Call Stack* is important to see how Recursion works under the hood.
+ 
