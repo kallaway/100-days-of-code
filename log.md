@@ -749,7 +749,7 @@
 ##### Thoughts:
  None
 ##### Link to References:
- ()
+ (https://github.com/PriyaShrinithi/comic-scraper/blob/master/README.md)
 
 # Day 85: 24th August, 2020
 ##### Today's progress:
@@ -757,7 +757,7 @@
 ##### Thoughts:
  Debugging troubles
 ##### Link to References:
- ()
+ (https://github.com/PriyaShrinithi/comic-scraper/blob/master/README.md)
  
 # Day 86: 25th August, 2020
 ##### Today's progress:
@@ -765,4 +765,12 @@
 ##### Thoughts:
  Network debugging troubles
 ##### Link to References:
- ()
+ (https://github.com/PriyaShrinithi/comic-scraper/blob/master/README.md)
+ 
+# Day 87: 26th August, 2020
+##### Today's progress:
+ Practically done building the comic-scraper
+##### Thoughts:
+ Minor issues to be soted out. 
+##### Link to References:
+ (https://github.com/PriyaShrinithi/comic-scraper/blob/master/README.md)
