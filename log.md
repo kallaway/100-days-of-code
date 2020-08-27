@@ -703,3 +703,19 @@ Decided to learn take a few steps back and learn recursion before Traversal meth
 
 Recursion is a function that call itself until a condition is met. Understanding the *Call Stack* is important to see how Recursion works under the hood.
  
+<hr>
+
+## Day 47: August 26, 2020
+
+
+**Today's Progress** 
+Review 2 recursion examples. Review the requirements for structuring a recursive function. 
+
+**Thoughts**  
+Requirement for a recursive function are:  
+ * 1. Base case
+ * 2. Recursive case  
+   * with a different parameter for each case 
+
+**Link(s) to work** 
+1.  <a href="https://repl.it/@simonxiong/Recursion-100DaysOfCode#index.js/" target="_blank">Resource</a>
