@@ -774,3 +774,19 @@
  Minor issues to be soted out. 
 ##### Link to References:
  (https://github.com/PriyaShrinithi/comic-scraper/blob/master/README.md)
+ 
+# Day 88: 27th August, 2020
+##### Today's progress:
+ Tweaked the cracks for a smoother experience
+##### Thoughts:
+ Troubled by Server-side errors (5xx)
+##### Link to References:
+ (https://github.com/PriyaShrinithi/comic-scraper)
+ 
+# Day 89: 28th August, 2020
+##### Today's progress:
+ Tried building a scraper for http://www.mangapanda.com.
+##### Thoughts:
+ Learnt the hard way that cloudflare restricts bots. Should look if workarounds are possible. Else, give up
+##### Link to References:
+ (https://github.com/PriyaShrinithi/comic-scraper)
