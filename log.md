@@ -707,15 +707,27 @@ Recursion is a function that call itself until a condition is met. Understanding
 
 ## Day 47: August 26, 2020
 
-
 **Today's Progress** 
 Review 2 recursion examples. Review the requirements for structuring a recursive function. 
 
 **Thoughts**  
-Requirement for a recursive function are:  
+Requirements for a recursive function are:  
  * 1. Base case
  * 2. Recursive case  
    * with a different parameter for each case 
 
 **Link(s) to work** 
 1.  <a href="https://repl.it/@simonxiong/Recursion-100DaysOfCode#index.js/" target="_blank">Resource</a>
+
+<hr>
+
+## Day 48: August 27, 2020
+
+**Today's Progress** 
+Reviewed call stack in dev tools to get better understanding of recursion. Wrote a description of walk through for a recursive function. Learned about common pit falls of recursive functions, which includes:  
+ * no base case(or wrong base case)
+ * forgetting to return or returning the wrong thing 
+
+**Link(s) to work** 
+1.  <a href="https://repl.it/@simonxiong/Recursion-100DaysOfCode#index.js/" target="_blank">Resource</a>
+
