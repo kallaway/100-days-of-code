@@ -785,8 +785,11 @@
  
 # Day 89: 28th August, 2020
 ##### Today's progress:
- Tried building a scraper for http://www.mangapanda.com.
+ Tried building a scraper for http://www.mangapanda.com
+ Tried my hand in competitive coding. Completely solved only one question.
 ##### Thoughts:
  Learnt the hard way that cloudflare restricts bots. Should look if workarounds are possible. Else, give up
+ Get familar with tg=he compiler
 ##### Link to References:
  (https://github.com/PriyaShrinithi/comic-scraper)
+ (https://practice.geeksforgeeks.org/contest-problem/contest-preparation/1/)
