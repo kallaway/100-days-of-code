@@ -793,3 +793,11 @@
 ##### Link to References:
  (https://github.com/PriyaShrinithi/comic-scraper)
  (https://practice.geeksforgeeks.org/contest-problem/contest-preparation/1/)
+ 
+# Day 90: 29th August, 2020
+##### Today's progress:
+ Looked into the Titanic Project again. Looking to decide a gameplan to proceed 
+##### Thoughts:
+ Shouldn't have merged the train and the test dataset
+##### Link to Reference:
+ (https://github.com/PriyaShrinithi/Titanic)
