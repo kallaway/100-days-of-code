@@ -731,3 +731,20 @@ Reviewed call stack in dev tools to get better understanding of recursion. Wrote
 **Link(s) to work** 
 1.  <a href="https://repl.it/@simonxiong/Recursion-100DaysOfCode#index.js/" target="_blank">Resource</a>
 
+<hr>
+
+## Day 49: August 28, 2020
+
+**Today's Progress** 
+Reviewed final section on Recursion for Udemy course. Topics included *helper function* and *pure recursive* function. A *helper function* design pattern is helpful when we need to return a new array. It requires a few more lines of code but is more understandable and has completeness. 
+
+**Thoughts**  
+Corrected an assumption I made from *Day 10*  
+* Assumption: methods such as `push`, `unshift` cannot be applied to an empty variable
+* Correction: `push` and `unshift` **can** be applied to an empty variable when it is outside of the function scope 
+
+**Link(s) to work** 
+1.  <a href="https://repl.it/@simonxiong/Recursion-Helper-Function-100DaysOfCode#index.js" target="_blank">Helper Function</a>
+
+2.  <a href="https://repl.it/@simonxiong/Pure-Recursion-100DaysOfCode#index.js" target="_blank">Pure Recursion</a>
+
