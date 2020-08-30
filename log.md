@@ -768,3 +768,19 @@ Need to work on recursive case. Things to remember:
 1.  <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#content" target="_blank">Problem</a>
 
 2.  <a href="https://repl.it/@simonxiong/Reverse-a-StringRecursively-100DaysOfCode#index.js" target="_blank">Attempt</a>
+
+<hr>
+
+## Day 51: August 30, 2020
+
+**Today's Progress** 
+Attempted *reverse* again and was unsuccessful. Just to redeem some confidence attempted *power* exercise and was able to solve.
+
+**Thoughts**  
+After peeking at solution for *reverse* I overcomplicated the solution again.
+Keep solving the simple problem and breakdown their call stack for better understanding.  
+
+**Link(s) to work** 
+1.  <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425998#content" target="_blank">Problem</a>
+
+2.  <a href="https://repl.it/@simonxiong/Power-Recursion-100DaysOfCode#index.js" target="_blank">Attempt</a>
