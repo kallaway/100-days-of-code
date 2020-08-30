@@ -748,3 +748,23 @@ Corrected an assumption I made from *Day 10*
 
 2.  <a href="https://repl.it/@simonxiong/Pure-Recursion-100DaysOfCode#index.js" target="_blank">Pure Recursion</a>
 
+<hr>
+
+## Day 50: August 29, 2020
+
+**Today's Progress** 
+Attempted *reverse* exercise from Udemy course. Objective is to write a recursive function that will return a string in reverse. Did not solve yet...will attempt again tomorrow. 
+
+**Thoughts**  
+Need to work on recursive case. Things to remember:  
+ * recursive case must take a new parameter for each call
+ * recursive case must be returned 
+ * use a *helper function* for completeness(optional)
+
+ Possibly helper methods:  
+  * *substr*, *substring*, *slice*
+
+**Link(s) to work** 
+1.  <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#content" target="_blank">Problem</a>
+
+2.  <a href="https://repl.it/@simonxiong/Reverse-a-StringRecursively-100DaysOfCode#index.js" target="_blank">Attempt</a>
