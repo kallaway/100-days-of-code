@@ -801,3 +801,11 @@
  Shouldn't have merged the train and the test dataset
 ##### Link to Reference:
  (https://github.com/PriyaShrinithi/Titanic)
+ 
+# Day 91: 30th August, 2020
+##### Today's progress:
+ In progress with Titanic EDA. 
+##### Thoughts:
+ Thinking if concatenation of test and train dataset is the best way. Although I've separated the X_train, y_train, X_test and y_test without concatenation, testing model       accuracy based on a dataset whose label is completely empty is a bit troubling
+##### Link to Reference:
+ (https://github.com/PriyaShrinithi/Titanic)
