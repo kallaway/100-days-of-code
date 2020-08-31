@@ -125,3 +125,6 @@ I did a dopamine detox yesterday on August 23rd of 2020 trying to become more pr
 I also did a lot of practice learning about HTML tables and how to style them which is something I also wanted to do for a personal project. But I have yet to finish styling the Binary to Decimal converter though.
 
 I will try to do the dopamine detox at least once a week since when you are a parent with two kids, it's almost impossible to completely avoid some stimuli from reaching you -like when they start singing or listening to music, for example-, all in all, I think it wasn't as bad as I expected it to be, and at least I managed to code for several hours today.
+
+**R2D10, August 31st, 2020**
+This week's advancement has been slower than I had desired, but still not fully stopped. I managed to configure WakaTime on VS Code to track how much time I spent on conding. Althought I cannot track in there how much time I spend reading or investigating about how something works, like I have been doing with table elements in HTML for my simple personal project, I spent more than two hours just on that alone today. I have to also finish working on the Binary to Decimal Converter's styling and some other details, but that's on my list of TO-DOs before I set out to work on a third project. I have read about three chapters of the book that I was reading, and did some exercise too.
