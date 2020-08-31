@@ -9,14 +9,14 @@
 
 **Link to work:** [My React Portfolio](http://www.github.com/laurengarelick/react.portfolio)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: August 29, 2020 
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continuing work on my portfolio. For some reason it's been difficult even adding photos from my o;d portfolio over to the new react one. I cant remembr if i'll need to set up the entire server side now but if so, it's going to take quitea bit of review!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [My React Portfolio](http://www.github.com/laurengarelick/react.portfolio)
 
 
 ### Day 1: June 27, Monday
