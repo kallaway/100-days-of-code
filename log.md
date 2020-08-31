@@ -809,3 +809,11 @@
  Thinking if concatenation of test and train dataset is the best way. Although I've separated the X_train, y_train, X_test and y_test without concatenation, testing model       accuracy based on a dataset whose label is completely empty is a bit troubling
 ##### Link to Reference:
  (https://github.com/PriyaShrinithi/Titanic)
+ 
+# Day 92: 31st August, 2020
+##### Today's progress:
+ Built  a Random Forest Model Got an accuray measure of 78%
+##### Thoughts:
+ Should look up about the bias, the variance and the consusion matrix in detail. Also parallely build a naive bayes classifier
+ ##### Link to References:
+ (https://github.com/PriyaShrinithi/Titanic)
