@@ -817,3 +817,11 @@
  Should look up about the bias, the variance and the consusion matrix in detail. Also parallely build a naive bayes classifier
  ##### Link to References:
  (https://github.com/PriyaShrinithi/Titanic)
+ 
+# Day 93: 1st September, 2020
+##### Today's progress:
+ Build Naive Bayes Model (32%) and Logistic Regression Model(90%)
+##### Thoughts:
+ Should do a heatmap and lookup xgb lgb (dunno what they even mean... C/O Mentor) and also playaround with Random Forest Depth and Leaves number. To get optimal score
+##### Link to References:
+ (https://github.com/PriyaShrinithi/Titanic)
