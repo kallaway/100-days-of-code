@@ -784,3 +784,17 @@ Keep solving the simple problem and breakdown their call stack for better unders
 1.  <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425998#content" target="_blank">Problem</a>
 
 2.  <a href="https://repl.it/@simonxiong/Power-Recursion-100DaysOfCode#index.js" target="_blank">Attempt</a>
+
+<hr>
+
+## Day 52: August 31, 2020
+
+**Today's Progress** 
+Prep for interview with Recruiter from *Reibus*. Unfortunately did not review the notes prior to interview. Attempted *factorial* problem and was able to solve with comments detailing call stack. The solution may have been based on memory.   
+
+**Thoughts**  
+ After researching and taking notes on a company, make sure to review it right before interview. 
+ Did not do too well on interview as I stumbled a lot and was not speaking clearly and concisely when answering questions. 
+
+**Link(s) to work** 
+1.  <a href="https://repl.it/@simonxiong/Factorial-100DaysOfCode#index.js" target="_blank">Factorial solution</a>
