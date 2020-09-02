@@ -798,3 +798,22 @@ Prep for interview with Recruiter from *Reibus*. Unfortunately did not review th
 
 **Link(s) to work** 
 1.  <a href="https://repl.it/@simonxiong/Factorial-100DaysOfCode#index.js" target="_blank">Factorial solution</a>
+
+<hr>
+
+## Day 53: September 1, 2020
+
+**Today's Progress** 
+Attempt *productOfArray* problem on Udemy and was able to solve. 
+
+Approach was the following:  
+ * use the zero index of *arr* to hold value we want to return: `arr[0]`
+ * for each recursive case *pop* the last element from the initial array and multiply it against `arr[0`]`
+ * when we are left with one element, it will be the cumulative product of the array 
+ * we finally return the value of that array
+
+**Thoughts**  
+This one was a bit tricky because we needed to iterate through the array without creating a new variable into memory. We also needed to determine how to multiply the last element against the first element. 
+
+**Link(s) to work** 
+1.  <a href="https://repl.it/@simonxiong/productOfArray-100DaysOfCode#index.js" target="_blank">productOfArray Solution</a>
