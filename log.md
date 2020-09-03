@@ -817,3 +817,20 @@ This one was a bit tricky because we needed to iterate through the array without
 
 **Link(s) to work** 
 1.  <a href="https://repl.it/@simonxiong/productOfArray-100DaysOfCode#index.js" target="_blank">productOfArray Solution</a>
+
+<hr>
+
+## Day 54: September 2, 2020
+
+**Today's Progress** 
+Dusted off my portfolio project and started working on it again. Merged a few pull requests to fixed vulnerability issues. Need to fixed issue with pushing working branch to `origin dev`.  
+
+Issue: *tip of current branch is behind its remote counterpart*  
+Solution: merge *remote* dev branch to *working* dev branch with a `git pull`. If local branch is up-to-date then do a `git pull --rebase`.
+
+**Thoughts**  
+Felt lost and confused working on portfolio. Its been over 2 months.
+
+
+
+
