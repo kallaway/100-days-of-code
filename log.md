@@ -831,6 +831,15 @@ Solution: merge *remote* dev branch to *working* dev branch with a `git pull`. I
 **Thoughts**  
 Felt lost and confused working on portfolio. Its been over 2 months.
 
+<hr>
 
+## Day 55: September 3, 2020
 
+**Today's Progress** 
+Attempted another recursive problem and was able to solve. Attempted to fix issue with portfolio repo but was unsuccessful. No sure why but `Feature/blog-page` branch does not seem to be tracking remote repo. I am unable to `push origin dev` when making changes. 
 
+**Thoughts**  
+Might have to delete `Feature/blog-page` entirely. Will test other branches and see if they are experience the same issues. Might have to delete `Feature/blog-page` entirely. Felt like a complete newb on the command-line today. 
+
+**Link(s) to work** 
+1.  <a href="https://repl.it/@simonxiong/recursiveRange-100DaysOfCode" target="_blank">Recursive Range</a>
