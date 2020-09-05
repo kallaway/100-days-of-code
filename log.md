@@ -843,3 +843,19 @@ Might have to delete `Feature/blog-page` entirely. Will test other branches and 
 
 **Link(s) to work** 
 1.  <a href="https://repl.it/@simonxiong/recursiveRange-100DaysOfCode" target="_blank">Recursive Range</a>
+
+<hr>
+
+## Day 56: September 4, 2020
+
+**Today's Progress** 
+Attempted to fix issue with `Feature/blog-page` again and was unsuccessful. Did test `Feature/GraphQL` and it had the same issue, but I was able to fix issue(pushing changes to `origin dev`). Solution was doing a `git pull rebase origin dev`. Unfortunately this did not work for `Feature/blog-page`.
+
+**Thoughts**  
+Possible causes of problem, *detached head* on local branch   
+ * How does a branch head get detached?
+ * How can this be fixed?
+ * How can this be avoided in the future? 
+
+**Link(s) to work** 
+1.  <a href="https://github.com/simonxcode/simonxcode.com/tree/Feature/blog-page" target="_blank">Branch with Issue</a>
