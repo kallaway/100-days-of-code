@@ -859,3 +859,11 @@ Possible causes of problem, *detached head* on local branch
 
 **Link(s) to work** 
 1.  <a href="https://github.com/simonxcode/simonxcode.com/tree/Feature/blog-page" target="_blank">Branch with Issue</a>
+
+<hr>
+
+## Day 57: September 5, 2020
+
+**Today's Progress** 
+Applied for a job on LinkedIn. Took React assessment on LinkedIn and did not place in 70th percentile. These multiple choice questions are pretty random and not a good measure of aptitude. 
+
