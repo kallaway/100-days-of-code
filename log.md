@@ -867,3 +867,23 @@ Possible causes of problem, *detached head* on local branch
 **Today's Progress** 
 Applied for a job on LinkedIn. Took React assessment on LinkedIn and did not place in 70th percentile. These multiple choice questions are pretty random and not a good measure of aptitude. 
 
+<hr>
+
+## Day 58: September 6, 2020
+
+**Today's Progress** 
+Was able to fix problem with *detached head* on branch for my portfolio site repo. It turns out I kept on making a command line error without even realizing it. Such a total newbie mistake! 
+
+While on working branch `Feature/blog-page`  
+ * I kept on pushing to origin with `git push origin dev`
+ * When I should have pushed to origin with `git push origin Feature/blog-site` 
+
+Also attempt *Fibonacci* problem on Udemy and was able to solve. Was able to determine solution by looking at how *Fibonacci* are calculated in sequence. 
+
+**Thoughts**  
+When you cannot find the solution to a *Git* repo or command line issue, chances are you made a typo or inputted the wrong command without even realizing it. 
+
+
+**Link(s) to work** 
+1.  <a href="https://en.wikipedia.org/wiki/Fibonacci_number" target="_blank">Fibonacci Sequence</a>
+2.  <a href="https://repl.it/@simonxiong/Fibonacci#index.js" target="_blank">Fibonacci Problem</a>
