@@ -198,6 +198,15 @@ Template:
 **Link(s) to work**: Will deploy to gitHub once clean up is done
 
 Example:
+### Day 23: Sept 5th, 2020
+
+**Today's Progress**: Set up a back-end for my front-end fact project.
+
+**Thoughts**: Also since mlab will no longer be on Heroku, I moved my Remember Me collection over to Atlas. Everything is moved over, just need to update the info in repo. Lots I still need to work on when it comes to back-end, but enjoying the challenge. Next time plan on adding authentication in for fact repo since that is where I struggle with the most.
+
+**Link(s) to work**: Not pushed yet
+
+Example:
 ### Day 2: June 14th, 2020 (Example 2)
 ##### (delete me or comment me out)
 
@@ -223,4 +232,3 @@ Example:
 [Flutter](https://blog.codeminer42.com/build-your-first-app-with-flutter-getting-data-from-api-c9fb4c2a6812/)
 [TicTacToe](https://levelup.gitconnected.com/building-tic-tac-toe-in-vue-js-57a23822313d)
 [Authentication](https://scotch.io/tutorials/build-and-understand-a-simple-nodejs-website-with-user-authentication)
-
