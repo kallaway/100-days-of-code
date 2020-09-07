@@ -128,3 +128,6 @@ I will try to do the dopamine detox at least once a week since when you are a pa
 
 **R2D10, August 31st, 2020**
 This week's advancement has been slower than I had desired, but still not fully stopped. I managed to configure WakaTime on VS Code to track how much time I spent on conding. Althought I cannot track in there how much time I spend reading or investigating about how something works, like I have been doing with table elements in HTML for my simple personal project, I spent more than two hours just on that alone today. I have to also finish working on the Binary to Decimal Converter's styling and some other details, but that's on my list of TO-DOs before I set out to work on a third project. I have read about three chapters of the book that I was reading, and did some exercise too.
+
+**R2D11, September 7th, 2020**
+Today was one of the most productives days I've had so far. I managed to wake up early, read a few pages of a book, and managed to invest time learning about HTML, styling them and even threw in some JavaScript in there. All in all I spent 2 and a half hours coding, and almost four hours in total doing just that. It's only 10:00 AM and I can even spend the rest of the day leisurely without feeling any regrets. The only thing I'm missing is doing some exercise, let's see if I'm in the mood for that later in the day. I'm loving this day.
