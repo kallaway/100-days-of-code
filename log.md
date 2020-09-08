@@ -825,3 +825,11 @@
  Should do a heatmap and lookup xgb lgb (dunno what they even mean... C/O Mentor) and also playaround with Random Forest Depth and Leaves number. To get optimal score
 ##### Link to References:
  (https://github.com/PriyaShrinithi/Titanic)
+ 
+# Day 94: 8th September, 2020
+##### Today's progress:
+ Learnt about Heatmaps 
+##### Thoughts:
+ Should learn about indexing error
+##### Link to References:
+ (https://github.com/PriyaShrinithi/Titanic)
