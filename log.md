@@ -887,3 +887,17 @@ When you cannot find the solution to a *Git* repo or command line issue, chances
 **Link(s) to work** 
 1.  <a href="https://en.wikipedia.org/wiki/Fibonacci_number" target="_blank">Fibonacci Sequence</a>
 2.  <a href="https://repl.it/@simonxiong/Fibonacci#index.js" target="_blank">Fibonacci Problem</a>
+
+<hr>
+
+<hr>
+
+## Day 59: September 7, 2020
+
+**Today's Progress** 
+Spent 2 hours modifying my resume and applying for a job on LinkedIn, only to find out I've already applied for this job a few weeks again.
+
+**Thoughts**  
+Watch out for companies that re-post the same job multiple times. If it looks familiar double check to see if you'd already applied for it. 
+
+
