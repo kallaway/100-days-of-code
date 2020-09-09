@@ -833,3 +833,11 @@
  Should learn about indexing error
 ##### Link to References:
  (https://github.com/PriyaShrinithi/Titanic)
+ 
+# Day 95:9th September, 2020
+##### Today's Progress:
+ Did a bunch if stuff to Titanic
+##### Thoughts:
+ Should look at what's not working
+##### Link to References:
+ (https://github.com/PriyaShrinithi/Titanic)
