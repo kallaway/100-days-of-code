@@ -890,8 +890,6 @@ When you cannot find the solution to a *Git* repo or command line issue, chances
 
 <hr>
 
-<hr>
-
 ## Day 59: September 7, 2020
 
 **Today's Progress** 
@@ -900,4 +898,17 @@ Spent 2 hours modifying my resume and applying for a job on LinkedIn, only to fi
 **Thoughts**  
 Watch out for companies that re-post the same job multiple times. If it looks familiar double check to see if you'd already applied for it. 
 
+<hr>
 
+## Day 60: September 8, 2020
+
+**Today's Progress** 
+Attended first Zoom Meetup for a React group in Atlanta. Everyone seem pretty friendly and the guest speaker was really knowledgeable. 
+
+**Thoughts**  
+Todays presentation was about *Progressive Imaging and Handling in Webpack*. Techniques for improving loading of images includes:  
+ * Lazy Loading
+ * Eager Loading 
+ * Scroll Event Listeners
+
+ Take away from today's talk: **Performance should be considered a feature when building an app and not be left until the end.**
