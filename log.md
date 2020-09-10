@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 1:  Sept 9, 2020
+
+**Today's Progress**: Worked on Edabit and leveled up from 1 to 3
+
+**Thoughts:** Enjoyed this time.  
+
+**Link to work:**  [Edabit profile] https://edabit.com/user/3HXerrkHzddPZhJCw
+
+
 ### Day 0: Sept 9, 2020
 
 
@@ -14,3 +23,12 @@ Ideas:
 **Link to work:**  they will come as I dive into this challenge.
 
 
+
+### Day 0: Sept 8, 2020
+
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**  
