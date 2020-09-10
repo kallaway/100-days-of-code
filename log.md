@@ -912,3 +912,18 @@ Todays presentation was about *Progressive Imaging and Handling in Webpack*. Tec
  * Scroll Event Listeners
 
  Take away from today's talk: **Performance should be considered a feature when building an app and not be left until the end.**
+
+ <hr>
+
+## Day 61: September 9, 2020
+
+**Today's Progress**  
+Continued working on portfolio site and completed the following:  
+ * generate a *Slug* for each blog post
+ * create blog post page template 
+ * generate link to individual blog post 
+
+Also updated *serialize-javascript* to fix vulnerability issues. 
+
+**Thoughts**  
+Resource: Andrew Mead's [Gatsby Course](https://www.youtube.com/watch?v=8t0vNu2fCCM&t=10069s) 
