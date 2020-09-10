@@ -841,3 +841,11 @@
  Should look at what's not working
 ##### Link to References:
  (https://github.com/PriyaShrinithi/Titanic)
+ 
+# Day 96: 10th September, 2020
+##### Today's progress:
+ Finished Version 1 of Titanic Dataset
+##### Thoughts:
+ Need to figure out ways to not overfit for RandomForest
+##### Link to References:
+ (https://github.com/PriyaShrinithi/Titanic)
