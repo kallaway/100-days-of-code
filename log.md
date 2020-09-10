@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 2:  Sept 10, 2020
+
+**Today's Progress**: Created validation for viewmodel
+
+**Thoughts:** Need to rethink data flow, views, and overall organization
+
+**Link to work:**  --
+
+**------------------------------------------------------**
+
 ### Day 1:  Sept 9, 2020
 
 **Today's Progress**: Worked on Edabit and leveled up from 1 to 3
@@ -8,6 +18,7 @@
 
 **Link to work:**  [Edabit profile] https://edabit.com/user/3HXerrkHzddPZhJCw
 
+**------------------------------------------------------**
 
 ### Day 0: Sept 9, 2020
 
