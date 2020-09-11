@@ -849,3 +849,11 @@
  Need to figure out ways to not overfit for RandomForest
 ##### Link to References:
  (https://github.com/PriyaShrinithi/Titanic)
+
+# Day 97: 11th September, 2020
+##### Today's progress:
+ Began imporvising Titanic
+##### Thoughts:
+ Need to work more on the Optimising Random Forest Thing
+##### Link to References:
+ (http://localhost:8888/notebooks/Titanic.ipynb)
