@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3:  Sept 11, 2020
+
+**Today's Progress**: Edabit practice
+
+**Thoughts:** When I compare my understanding of JS to C#; JS comes easier.  C# is still very odd.  Glad I switched to C# today, practice needed.
+
+**Link to work:**  --
+
+**------------------------------------------------------**
+
 ### Day 2:  Sept 10, 2020
 
 **Today's Progress**: Created validation for viewmodel
