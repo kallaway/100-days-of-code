@@ -3,14 +3,14 @@
 ## Komitmen Utama
 ### *Saya akan melakukan coding setidaknya satu jam setiap hari hingga 100 hari kedepan.*
 
-#### Start Date
+#### Tanggal Mulai
 11 September 2020. [UBAH TANGGAL MULAI KAMU DISINI]
 
 ## Peraturan Tambahan
 1. Saya akan melakukan tweet berkaitan dengan kemajuan saya -> menggunakan hashtag #100DaysOfCode
 2. Jika saya coding di tempat kerja / coding berkaitan dengan pekerjaan, waktu itu tidak akan dihitung sebagai tantangan.
 3. Saya akan push kode ke GitHub setiap hari sehingga orang lain dapat melihat kemajuan saya.
-4. Saya akan memperbaharui (Catatan)[log.md] dengan kemajuan hari ini dan berikan tautan agar orang lain dapat melihat kemajuan saya. 
+4. Saya akan memperbaharui [Catatan](log.md) dengan kemajuan hari ini dan berikan tautan agar orang lain dapat melihat kemajuan saya. 
 5. Saya akan mengerjakan proyek nyata, menghadapi tantangan nyata. Waktu yang saya habiskan untuk melakukan tutorial, online courses dan sumber daya serupa lainnya TIDAK akan diperhitungkan dalam tantangan ini. (Jika kamu baru memulai belajar coding, baca [Hal yang sering ditanyakan](FAQ.md))
 
 ## Ide-ide yang Membuat Tantangan ini Menjadi Lebih Efektif
