@@ -943,3 +943,10 @@ Resource: Andrew Mead's [Gatsby Course](https://www.youtube.com/watch?v=8t0vNu2f
   * organize blog post directory  
   * adding a few styling changes for blog page and blog post  
     
+<hr>
+
+## Day 63: September 11, 2020
+
+**Today's Progress** 
+Completed the trifecta of integrating *Contentful* CMS into *Gatsby* with *GraphQL* for blogging. 
+
