@@ -927,3 +927,19 @@ Also updated *serialize-javascript* to fix vulnerability issues.
 
 **Thoughts**  
 Resource: Andrew Mead's [Gatsby Course](https://www.youtube.com/watch?v=8t0vNu2fCCM&t=10069s) 
+
+<hr>
+
+## Day 62: September 10, 2020
+
+**Today's Progress** 
+ Continued working on portfolio site and completed the following:  
+  * Render blog post in blog template  
+    - setup dynamic *graphQL* query  
+    - utilize *variable* and *arguments*
+  * Add images to blog post  
+    - install and configure the following *Gastby* plugins:  
+    -  *gatsby-plugin-sharp*, *gatsby-remark-images*, *gatsby-remark-relative-images*
+  * organize blog post directory  
+  * adding a few styling changes for blog page and blog post  
+    
