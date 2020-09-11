@@ -2,7 +2,7 @@
 
 ### Day 3:  Sept 11, 2020
 
-**Today's Progress**: Edabit practice
+**Today's Progress**: Edabit practice: rocked up to level 4! :)
 
 **Thoughts:** When I compare my understanding of JS to C#; JS comes easier.  C# is still very odd.  Glad I switched to C# today, practice needed.
 
