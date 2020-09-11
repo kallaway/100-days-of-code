@@ -133,4 +133,7 @@ This week's advancement has been slower than I had desired, but still not fully 
 Today was one of the most productives days I've had so far. I managed to wake up early, read a few pages of a book, and managed to invest time learning about HTML, styling them and even threw in some JavaScript in there. All in all I spent 2 and a half hours coding, and almost four hours in total doing just that. It's only 10:00 AM and I can even spend the rest of the day leisurely without feeling any regrets. The only thing I'm missing is doing some exercise, let's see if I'm in the mood for that later in the day. I'm loving this day.
 
 **R2D12, September 8th, 2020**
-Today I kept learning about some tips and tricks to style HTML Tables, and make some cool effects using JavaScript and CSS.
+Today I kept learning about some tips and tricks to style HTML Tables, and make some cool effects using JavaScript and CSS. I also managed to code for another 2 and a half hours today.
+
+**R2D13, September 11th, 2020**
+Today was a fun day. Instead of trying to keep advancing on the tips and tricks from the Complete Guide to the Table Element, I focused on practicing what I have learned so far. I started tweaking around trying to create a table with editable cells. Ran into some issues with some incorrect padding that was being added between the cell and the input field but I managed to fix it, thought I confess I had to do some googling around the final solution I found it on my own, since none of the results I found solved it. Then practiced styling the table without checking on my previous lessons and with minimal google-fu except for looking at syntax at MDN, and I am very happy with the end result. I practiced for about 2 hours and 50 minutes today.
