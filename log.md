@@ -857,3 +857,11 @@
  Need to work more on the Optimising Random Forest Thing
 ##### Link to References:
  (http://localhost:8888/notebooks/Titanic.ipynb)
+
+# Day 98: 12th September, 2020
+##### Today's progress:
+ Began to look about and roc and auc and to see if they improve the performances
+##### Thoughts:
+ Procrastinated a lot
+##### Link to References:
+ (http://localhost:8888/notebooks/Titanic.ipynb)
