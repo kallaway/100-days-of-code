@@ -865,3 +865,11 @@
  Procrastinated a lot
 ##### Link to References:
  (http://localhost:8888/notebooks/Titanic.ipynb)
+ 
+# Day 99: 13th September, 2020
+##### Today's progress:
+Looked about differentr ways to handle hyperparameter tuning
+##### Thoughts:
+ Need to look at all of the in detail before proceeding further
+##### Link to References:
+ (http://localhost:8888/notebooks/Titanic.ipynb)
