@@ -950,3 +950,14 @@ Resource: Andrew Mead's [Gatsby Course](https://www.youtube.com/watch?v=8t0vNu2f
 **Today's Progress** 
 Completed the trifecta of integrating *Contentful* CMS into *Gatsby* with *GraphQL* for blogging. 
 
+<hr>
+
+## Day 64: September 12, 2020
+
+**Today's Progress** 
+Worked on finishing up website with blog. Features that were completed today includes:  
+* Rendering body to blog post
+* Adding more complexity to body(headers, bold texts and images)
+* Create and route *404* page
+* Use *react-helmet* to customize header titles 
+
