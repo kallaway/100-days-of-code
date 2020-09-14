@@ -961,3 +961,12 @@ Worked on finishing up website with blog. Features that were completed today inc
 * Create and route *404* page
 * Use *react-helmet* to customize header titles 
 
+<hr>
+
+## Day 65: September 13, 2020
+
+**Today's Progress** 
+Deconstructed 2 recursive solutions for better understanding. Updated job profile on *StackOverflow* and *AngelList*. Search for jobs in Atlanta area on LinkedIn.
+
+**Link's to Work**  
+1. [Recursion Solutions](https://repl.it/@simonxiong/Reverse-a-StringRecursively-100DaysOfCode#index.js)
