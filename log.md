@@ -868,8 +868,16 @@
  
 # Day 99: 13th September, 2020
 ##### Today's progress:
-Looked about differentr ways to handle hyperparameter tuning
+Looked about different ways to handle hyperparameter tuning
 ##### Thoughts:
  Need to look at all of the in detail before proceeding further
 ##### Link to References:
  (http://localhost:8888/notebooks/Titanic.ipynb)
+
+# Day 100: 14th September, 2020
+##### Today's progress:
+ Studied about GridSearchCV
+##### Thoughts:
+ Need to understand about the parametes part for models like Logistic Regression
+##### Link to References:
+ (https://github.com/PriyaShrinithi/Titanic)
