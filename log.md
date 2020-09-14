@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 4:  Sept 14, 2020
+
+**Today's Progress**: Working on class assigned HackerRank challenges.  
+
+**Thoughts:** Read the "Easy" questions and got lost.  Decided to sign up for their 30 days of code (which will help with the 100 days) to become more familiar with their directions.  Also, working on MVC project with persistent data.  
+
+**Link to work:**  --
+
+**------------------------------------------------------**
+
+
 ### Day 3:  Sept 11, 2020
 
 **Today's Progress**: Edabit practice: rocked up to level 4! :)
@@ -39,7 +51,8 @@ Ideas:
 * Second MVC project idea
 * revisit studios and exercises from Launch
 
-**Thoughts:** This will be a challenge for sure, but I am ready to give it a try and grow in my skills and condfidence.
+**Thoughts:** This will be a challenge for sure, but I am ready to give it a try and grow in my skills and condfidence.  
+Counting Weekdays.  Weekends are for family/fun/chilling.
 
 **Link to work:**  they will come as I dive into this challenge.
 
