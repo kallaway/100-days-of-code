@@ -970,3 +970,20 @@ Deconstructed 2 recursive solutions for better understanding. Updated job profil
 
 **Link's to Work**  
 1. [Recursion Solutions](https://repl.it/@simonxiong/Reverse-a-StringRecursively-100DaysOfCode#index.js)
+
+<hr>
+
+## Day 66: September 14, 2020
+
+**Today's Progress** 
+Will be creating a simple *form project* with *unit testing* for blog instead of writing about the *unit testing* I did for a volunteer gig. Reasons for this is because the volunteer project is a little complex and may be hard for others follow. Once I finish the *form project* I will write a blog for it.  
+
+Things to do:  
+* Create Kanban board with Jira  
+ + will experiment with Jira(similar to Trello)  
+* Create Repo for *form-unit-test
+* Write unit test for form 
+* Write blog about unit testing
+
+**Link's to Work**  
+1. [Jira Kanban Board](https://form-unit-test.atlassian.net/jira/software/projects/FUT/boards/1)
