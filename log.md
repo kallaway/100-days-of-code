@@ -981,9 +981,24 @@ Will be creating a simple *form project* with *unit testing* for blog instead of
 Things to do:  
 * Create Kanban board with Jira  
  + will experiment with Jira(similar to Trello)  
-* Create Repo for *form-unit-test
+* Create Repo for *form-unit-test*
 * Write unit test for form 
 * Write blog about unit testing
 
 **Link's to Work**  
 1. [Jira Kanban Board](https://form-unit-test.atlassian.net/jira/software/projects/FUT/boards/1)
+
+<hr>
+
+## Day 67: September 15, 2020
+
+**Today's Progress** 
+Update Job Hunt spreadsheet. Update and organize previous interviews notes. Research and take notes to prep for tomorrow's phone screening. Create new repo for unit testing.
+
+
+**Thoughts**  
+It's been a while since I used *create-react-app*. Many updates were required and errors had to be fixed but I was able to create repo and push to Github.
+
+**Link's to Work**
+1. [form-unit-test repo](https://github.com/simonxcode/form-unit-test)
+
