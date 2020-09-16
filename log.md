@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 6:  Sept 16, 2020
+
+**Today's Progress**: Hackerrank 30 day challenge day 2.  
+
+**Thoughts:**   Ugh...
+
+**Link to work:**  --
+
+**------------------------------------------------------**
+
+### Day 5:  Sept 15, 2020
+
+**Today's Progress**: Edabit  
+
+**Thoughts:** working on c# and js  
+
+**Link to work:**  --
+
+**------------------------------------------------------**
 
 ### Day 4:  Sept 14, 2020
 
