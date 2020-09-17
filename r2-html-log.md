@@ -140,3 +140,6 @@ Today was a fun day. Instead of trying to keep advancing on the tips and tricks 
 
 **R2D14, September 12th, 2020**
 Started doing some experiments with styling my simple project using what I have learned so far about HTML tables. Managed to create an element from scratch in JavaScript and improved the styling of the table I was using to show the data. Tested that the new elements being added were appearing with the correct stylings and now I only have to make all new entries editable and implement the functionality for deleting entries.
+
+**R2D15, September 13th, 2020**
+Improved the styling of my project a bit more and managed to make all the new entries added to the table editable. Now I only have to implement the delete functionality and a way to store the entries.
