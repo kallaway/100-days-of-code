@@ -24,3 +24,21 @@
 **Thoughts**: I need to go through the logic again, and create this in React.
 
 **Link(s) to work**: [DragNdrop app](https://github.com/SharonTahar/DragnDrop)
+
+
+### Day 4: Sept 17, 2020 
+
+**Today's Progress**: Continued the new Dragndrop project.
+
+**Thoughts**: I need to go through the logic again, and create this in React.
+
+**Link(s) to work**: [DragNdrop app](https://github.com/SharonTahar/DragnDrop)
+
+
+### Day 5: Sept 18, 2020 
+
+**Today's Progress**: Finished the Dragndrop project.
+
+**Thoughts**: The final tweaks were challenging, reviewed the documentry.
+
+**Link(s) to work**: [DragNdrop app](https://github.com/SharonTahar/DragnDrop)
