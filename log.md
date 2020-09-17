@@ -1002,3 +1002,14 @@ It's been a while since I used *create-react-app*. Many updates were required an
 **Link's to Work**
 1. [form-unit-test repo](https://github.com/simonxcode/form-unit-test)
 
+<hr>
+
+## Day 68: September 16, 2020
+
+**Today's Progress** 
+Had interview with recruiter from big telecommunication company. Awaiting email with assessment. Worked on *form-unit-test* project and completed:  
+* form inputs
+* form validations 
+
+**Thoughts**  
+Making good progress on job application call backs. Keep it up. 
