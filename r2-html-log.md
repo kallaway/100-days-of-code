@@ -137,3 +137,6 @@ Today I kept learning about some tips and tricks to style HTML Tables, and make 
 
 **R2D13, September 11th, 2020**
 Today was a fun day. Instead of trying to keep advancing on the tips and tricks from the Complete Guide to the Table Element, I focused on practicing what I have learned so far. I started tweaking around trying to create a table with editable cells. Ran into some issues with some incorrect padding that was being added between the cell and the input field but I managed to fix it, thought I confess I had to do some googling around the final solution I found it on my own, since none of the results I found solved it. Then practiced styling the table without checking on my previous lessons and with minimal google-fu except for looking at syntax at MDN, and I am very happy with the end result. I practiced for about 2 hours and 50 minutes today.
+
+**R2D14, September 12th, 2020**
+Started doing some experiments with styling my simple project using what I have learned so far about HTML tables. Managed to create an element from scratch in JavaScript and improved the styling of the table I was using to show the data. Tested that the new elements being added were appearing with the correct stylings and now I only have to make all new entries editable and implement the functionality for deleting entries.
