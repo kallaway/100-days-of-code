@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7:  Sept 18, 2020
+
+**Today's Progress**: Building One Page More
+
+**Thoughts:**   Getting closer to figuring out the tables
+
+**Link to work:**  --
+
+**------------------------------------------------------**
+
+
 ### Day 6:  Sept 16, 2020
 
 **Today's Progress**: Hackerrank 30 day challenge day 2.  
