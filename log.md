@@ -1013,3 +1013,18 @@ Had interview with recruiter from big telecommunication company. Awaiting email 
 
 **Thoughts**  
 Making good progress on job application call backs. Keep it up. 
+
+<hr>
+
+## Day 69: September 17, 2020
+
+**Today's Progress** 
+Prepare for an interview tomorrow with a hiring manager(first time). Wrote 3 test cases for  elements within the sign-up form.  
+
+**Thoughts**  
+Need to find out how to write test case for button submission. Might need to declare `onChange` event to reference an updater function in order for a button simulation test case to work. 
+
+
+**Link to Work**
+1. [form-unit-test repo](https://github.com/simonxcode/form-unit-test)
+
