@@ -8,6 +8,7 @@
 
 **Link to work:** No link
 
+
 ### Day 2: Sept 15, 2020 
 
 **Today's Progress**: Created new Dragndrop project.
@@ -28,17 +29,17 @@
 
 ### Day 4: Sept 17, 2020 
 
-**Today's Progress**: Continued the new Dragndrop project.
+**Today's Progress**: Finished the Dragndrop project.
 
-**Thoughts**: I need to go through the logic again, and create this in React.
+**Thoughts**: The final tweaks were challenging, reviewed the documentry.
 
 **Link(s) to work**: [DragNdrop app](https://github.com/SharonTahar/DragnDrop)
 
 
 ### Day 5: Sept 18, 2020 
 
-**Today's Progress**: Finished the Dragndrop project.
+**Today's Progress**: Started to create the drag and drop project in React (I also started exploring creating an heroku app from scratch).
 
-**Thoughts**: The final tweaks were challenging, reviewed the documentry.
+**Thoughts**: I need to get all the components separated that is the challenge.
 
 **Link(s) to work**: [DragNdrop app](https://github.com/SharonTahar/DragnDrop)
