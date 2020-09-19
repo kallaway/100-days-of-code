@@ -2,8 +2,35 @@ import React from 'react';
 import './style.css';
 
 
+class Board extends React.Component {
+    constructor(props){
+        super(props); 
+        this.state = {
+            updatedOnLoad: false,
+            backlogListArray: [],
+            progressListArray: [],
+            completeListArray: [],
+            onHoldListArray: [],
+            listArrays: [],
+            dragging: false
+        }
+      }
 
-export default function Board() {
+    getSavedColumns = () => {
+        if (localStorage.getItem('backlogItems')) {
+          const backlogListArray = JSON.parse(localStorage.backlogItems);
+          const progressListArray = JSON.parse(localStorage.progressItems);
+          const completeListArray = JSON.parse(localStorage.completeItems);
+          const onHoldListArray = JSON.parse(localStorage.onHoldItems);
+        } else {
+          let backlogListArray = ['Release the course', 'Sit back and relax'];
+          let progressListArray = ['Work on projects', 'Listen to music'];
+          let completeListArray = ['Being cool', 'Getting stuff done'];
+          let onHoldListArray = ['Being uncool'];
+        }
+      }
+
+    render () {
     return (
         <div>
         <h1 class="main-title">Todo Board</h1>
@@ -113,3 +140,6 @@ export default function Board() {
         </div>
     )
 }
+}
+
+export default Board;
