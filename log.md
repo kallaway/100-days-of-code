@@ -33,7 +33,7 @@
 
 **Thoughts**: The final tweaks were challenging, reviewed the documentry.
 
-**Link(s) to work**: [DragNdrop app](https://github.com/SharonTahar/DragnDrop)
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
 
 ### Day 5: Sept 18, 2020 
@@ -42,12 +42,12 @@
 
 **Thoughts**: I need to get all the components separated that is the challenge.
 
-**Link(s) to work**: [DragNdrop app](https://github.com/SharonTahar/DragnDrop)
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
 ### Day 6: Sept 19, 2020 
 
-**Today's Progress**: Created the functionality from
+**Today's Progress**: Created the functionality from the js file
 
-**Thoughts**: I need to get all the components separated that is the challenge.
+**Thoughts**: I need to work on the state management and grab elements based on css id, in React
 
-**Link(s) to work**: [DragNdrop app](https://github.com/SharonTahar/DragnDrop)
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
