@@ -1024,7 +1024,19 @@ Prepare for an interview tomorrow with a hiring manager(first time). Wrote 3 tes
 **Thoughts**  
 Need to find out how to write test case for button submission. Might need to declare `onChange` event to reference an updater function in order for a button simulation test case to work. 
 
-
 **Link to Work**
 1. [form-unit-test repo](https://github.com/simonxcode/form-unit-test)
+
+<hr>
+
+## Day 70: September 18, 2020
+
+**Today's Progress** 
+Interview with hiring manager and felt I did not do too well answer some technical question, however I was given a take home project due on Monday. Started on *clutch-weather-app* for take home project assignment. 
+
+**Thoughts**  
+Will need to compile list of questions that was asked for future reference and maybe a blog post. 
+
+**Link to Work**
+1. [clutch-weather-app repo](https://github.com/simonxcode/clutch-weather-app)
 
