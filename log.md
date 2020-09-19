@@ -43,3 +43,11 @@
 **Thoughts**: I need to get all the components separated that is the challenge.
 
 **Link(s) to work**: [DragNdrop app](https://github.com/SharonTahar/DragnDrop)
+
+### Day 6: Sept 19, 2020 
+
+**Today's Progress**: Created the functionality from
+
+**Thoughts**: I need to get all the components separated that is the challenge.
+
+**Link(s) to work**: [DragNdrop app](https://github.com/SharonTahar/DragnDrop)
