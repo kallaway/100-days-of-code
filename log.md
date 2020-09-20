@@ -1032,7 +1032,7 @@ Need to find out how to write test case for button submission. Might need to dec
 ## Day 70: September 18, 2020
 
 **Today's Progress** 
-Interview with hiring manager and felt I did not do too well answer some technical question, however I was given a take home project due on Monday. Started on *clutch-weather-app* for take home project assignment. 
+Interviewed with hiring manager and did not do too well answering some technical questions, however I was given a take home project due on Monday. Started on *clutch-weather-app* for take home project assignment. 
 
 **Thoughts**  
 Will need to compile list of questions that was asked for future reference and maybe a blog post. 
@@ -1040,3 +1040,19 @@ Will need to compile list of questions that was asked for future reference and m
 **Link to Work**
 1. [clutch-weather-app repo](https://github.com/simonxcode/clutch-weather-app)
 
+
+<hr>
+
+## Day 71: September 19, 2020
+
+**Today's Progress** 
+Worked on *clutch-weather-app* and struggled to make progress. Was able to complete the following tasks:  
+ * set up first component with redux store  
+  + properly declared `changeLocation` with action object  
+  + render `newLocation` into `currentLocation`
+
+**Thoughts**  
+One more day to go and it does not look like I will finish project. Tomorrow's goal is to get `Search` component working with `OpenWeather` api to render current location weather. 
+
+**Link to Work**
+1. [clutch-weather-app repo](https://github.com/simonxcode/clutch-weather-app)
