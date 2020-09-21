@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>React</title>
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    
+    <script type="text/babel">
+    const props = {
+      className: 'title',
+      children: ['I am Groot']
+    };
+    const element = React.createElement('h1', props);
+
+    ReactDOM.render(element, document.getElementById('app'));
+    </script>
+  </head>
+  <body>
+    <div id="app" />
+  </body>
+</html>

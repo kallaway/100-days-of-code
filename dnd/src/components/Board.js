@@ -1,34 +1,23 @@
 import React from 'react';
 import './style.css';
+import React, { Component } from 'react';
+import ScriptTag from 'react-script-tag';
 
 
 class Board extends React.Component {
-    constructor(props){
-        super(props); 
-        this.state = {
-            updatedOnLoad: false,
-            backlogListArray: [],
-            progressListArray: [],
-            completeListArray: [],
-            onHoldListArray: [],
-            listArrays: [],
-            dragging: false
-        }
-      }
+    // constructor(props){
+    //     super(props); 
+    //     this.state = {
+    //         updatedOnLoad: false,
+    //         backlogListArray: [],
+    //         progressListArray: [],
+    //         completeListArray: [],
+    //         onHoldListArray: [],
+    //         listArrays: [],
+    //         dragging: false
+    //     }
+    //   }
 
-    getSavedColumns = () => {
-        if (localStorage.getItem('backlogItems')) {
-          const backlogListArray = JSON.parse(localStorage.backlogItems);
-          const progressListArray = JSON.parse(localStorage.progressItems);
-          const completeListArray = JSON.parse(localStorage.completeItems);
-          const onHoldListArray = JSON.parse(localStorage.onHoldItems);
-        } else {
-          let backlogListArray = ['Release the course', 'Sit back and relax'];
-          let progressListArray = ['Work on projects', 'Listen to music'];
-          let completeListArray = ['Being cool', 'Getting stuff done'];
-          let onHoldListArray = ['Being uncool'];
-        }
-      }
 
     render () {
     return (

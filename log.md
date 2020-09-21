@@ -51,3 +51,14 @@
 **Thoughts**: I need to work on the state management and grab elements based on css id, in React
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+### Day 7: Sept 21, 2020 
+
+**Today's Progress**: Worked on a hack to get vanila.js TO React
+
+**Thoughts**: Follow through on breaking the functions on the js file to smaller components. to go slower and get the methadology of it, in order to reassemble it! 
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+
+
