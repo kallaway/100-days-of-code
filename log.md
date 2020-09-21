@@ -56,7 +56,7 @@
 
 **Today's Progress**: Worked on a hack to get vanila.js TO React
 
-**Thoughts**: Follow through on breaking the functions on the js file to smaller components. to go slower and get the methadology of it, in order to reassemble it! 
+**Thoughts**: Follow through on breaking the functions on the js file to smaller components. to go slower and get the methodology of it, in order to reassemble it! 
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
