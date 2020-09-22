@@ -1056,3 +1056,15 @@ One more day to go and it does not look like I will finish project. Tomorrow's g
 
 **Link to Work**
 1. [clutch-weather-app repo](https://github.com/simonxcode/clutch-weather-app)
+
+<hr>
+
+## Day 72: September 21, 2020
+
+**Today's Progress** 
+Wrote a step-by-step summary for how one of the component in the *clutch-weather-app* was set up with Redux. The summary was split into 2 sections:     
+ * how the component is set up 
+ * how the component state is updated  
+
+**Thoughts**  
+The purpose of the summary was to get a better understanding of Redux state management. I am not too sure how useful this summary will be...hopefully it can be serve as a reference. Lastly, from a quick Google I stumbled upon this article. [explain Redux like I'm five | Redux Cheatsheet](https://dev.to/rahuldkjain/redux-cheatsheet-23g2). Seem like an interesting and insightful read. 
