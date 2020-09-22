@@ -60,5 +60,13 @@
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
+### Day 8: Sept 22, 2020 
+
+**Today's Progress**: Created new form validation in HTML and then React
+
+**Thoughts**: Once i createsd it on HTML i created it on React at the same time. following up with JS functionality component.  
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
 
 
