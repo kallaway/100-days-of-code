@@ -1068,3 +1068,35 @@ Wrote a step-by-step summary for how one of the component in the *clutch-weather
 
 **Thoughts**  
 The purpose of the summary was to get a better understanding of Redux state management. I am not too sure how useful this summary will be...hopefully it can be serve as a reference. Lastly, from a quick Google I stumbled upon this article. [explain Redux like I'm five | Redux Cheatsheet](https://dev.to/rahuldkjain/redux-cheatsheet-23g2). Seem like an interesting and insightful read. 
+
+<hr>
+
+## Day 73: September 22, 2020
+
+**Today's Progress** 
+May have spread myself thin today. Completed and attempted a few things:   
+* organized take-away summary from last week's interview for future reference  
+* finished summary of yesterday component story for *clutch-weather-app*
+* finished reading [this](https://dev.to/rahuldkjain/redux-cheatsheet-23g2) Redux article and made some notes.  
+  * also created my own summary to get a better understanding 
+* attempted to work on creating an event handler for *form-unit-test* project in order to write a unit test  
+  * at this stage of the day I was burnt out and not really focused. 
+
+**Thoughts**  
+Expanding on the Redux article and wrote out a simple way to better understand Redux by comparing it to a Bank. Redux manages state like how a bank manages money. Key concepts of a bank and Redux are the following:  
+
+
+## Redux Bank :bank: ##
+Purpose: understand Redux better with a real world analogy. Redux manages state like how a bank manages money. 
+
+**Store:** responsible for holding the *state*  
+**Bank Vault:** responsible for hold all the *cash* 
+
+**State:** the data that is placed in the *store*  
+**Cash:** the money that is placed in the *bank vault*
+
+**Reducer:** the function that updates the *state*, only they have access to the *store*  
+**Teller:** the person handling the *transaction*, only they have access to the *bank vault*  
+
+**Action:** objects that defines how to update the *state*   
+**Transaction:** the task required to process the *cash*
