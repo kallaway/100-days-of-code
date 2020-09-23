@@ -143,3 +143,6 @@ Started doing some experiments with styling my simple project using what I have 
 
 **R2D15, September 13th, 2020**
 Improved the styling of my project a bit more and managed to make all the new entries added to the table editable. Now I only have to implement the delete functionality and a way to store the entries.
+
+**R2D16, September 23rd, 2020**
+Kept tweaking a bit more with stylings and managed to implement the JavaScript code for deleting entries from the table, implemented it on a weird fugly way at first, and then a friend told me of a simpler way with Element.closest(). I have finally finished a basic CRUD in a web project which is a first for me. Now I only have to make the data persist in some way, so it might be a good time to start learning how to do it on Node. Althought I want to keep learning JavaScript since my current understanding of it is kind of bogus. Also learned a bit about Math, Number and String in JavaScript, as well as how includes(), trim(), split(), toUpperCase() toLowerCase() and a bunch of other methods work in JavaScript and comparing the similarities it has with Java which is the language I am most familiar with.
