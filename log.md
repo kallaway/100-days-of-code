@@ -68,5 +68,13 @@
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
+### Day 9: Sept 23, 2020 
+
+**Today's Progress**: Form functionality from HTML to React
+
+**Thoughts**: Working on the JS functionality in React
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
 
 
