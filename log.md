@@ -1100,3 +1100,20 @@ Purpose: understand Redux better with a real world analogy. Redux manages state 
 
 **Action:** objects that defines how to update the *state*   
 **Transaction:** the task required to process the *cash*
+
+
+<hr>
+
+## Day 74: September 23, 2020
+
+**Today's Progress** 
+Messaged recruiter back on LinkedIn and scheduled a call with another for tomorrow. Applied for a junior role at a local startup but application was buggy. Luckily I was able to apply directly on company site. Had a hard time writing a unit test and event handler to simulate a button click in **form-unit-test**. This was due to me not realizing that `App.js` is a stateless function component. Although it is possible to write handlers for function component, it is not best practice. 
+
+**Thoughts**  
+Will have to create a component class event handler  
+Will experiment with handlers for function component   
+This could be a good opportunity to learn *Hooks* also
+
+**Links to writing handler for function components**
+https://stackoverflow.com/questions/39260595/event-handlers-in-react-stateless-components
+https://stackoverflow.com/questions/37737340/clickhandler-in-stateless-component?noredirect=1&lq=1
