@@ -77,4 +77,13 @@
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
 
+### Day 10: Sept 24, 2020 
+
+**Today's Progress**: Working on Form functionality
+
+**Thoughts**: State mangement, html in React, Value in input 
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+
 
