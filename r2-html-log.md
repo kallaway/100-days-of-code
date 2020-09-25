@@ -146,3 +146,9 @@ Improved the styling of my project a bit more and managed to make all the new en
 
 **R2D16, September 23rd, 2020**
 Kept tweaking a bit more with stylings and managed to implement the JavaScript code for deleting entries from the table, implemented it on a weird fugly way at first, and then a friend told me of a simpler way with Element.closest(). I have finally finished a basic CRUD in a web project which is a first for me. Now I only have to make the data persist in some way, so it might be a good time to start learning how to do it on Node. Althought I want to keep learning JavaScript since my current understanding of it is kind of bogus. Also learned a bit about Math, Number and String in JavaScript, as well as how includes(), trim(), split(), toUpperCase() toLowerCase() and a bunch of other methods work in JavaScript and comparing the similarities it has with Java which is the language I am most familiar with.
+
+**R2D17, September 24th, 2020**
+Keep going through the basics of JavaScript, today was templatized strings, and how to create Objects and assign them properties and methods.
+
+**R2D18, September 25th, 2020**
+Got an intro into Function Context in JavaScript, how to add properties and methods to objects, and nested objects. And also learned that JSON meant 'Java Script Object Notation'. I have used JSON files before in Java, but never bothered to learn where the format came from. Watched a couple of videos on how JavaScript handles Control Flow statements, and the different logical comparators it uses. Pretty basic stuff, but I'm trying to advance this with baby steps even thought I know how most of these stuff are handled already.
