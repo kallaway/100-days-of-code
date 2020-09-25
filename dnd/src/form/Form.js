@@ -5,6 +5,7 @@ class Form extends React.Component {
     constructor(){
         super();
         this.state = {
+            isValid: false,
             name: '',
             phone: '',
             email: '',
@@ -15,8 +16,17 @@ class Form extends React.Component {
     }
 
     textInput = (e) => {
-        console.log('value:', e.target.value);
-        // this.setState({[e.target.name]: e.target.value})
+        // console.log('value:', e.target.value);
+        this.setState({[e.target.name]: e.target.value})
+    }
+
+    validateForm(e) {
+        console.log(e.target.name);
+
+    }
+
+    processFormData() {
+        validateForm();
     }
 
     render() {
@@ -28,19 +38,32 @@ class Form extends React.Component {
                 <div id="form">
                     <div className="form group">
                         <label htmlFor="name" >Full Name</label>
-                        <input type="text" id="name" name="name" value={this.state.name} onChange={this.textInput} placeholder="Full Name"
-                                required minLength="3" maxLength="100"/>
+                        <input 
+                        type="text" 
+                        id="name" 
+                        name="name" 
+                        value={this.state.name} 
+                        onChange={this.textInput} 
+                        placeholder="Full Name"
+                        required minLength="3" 
+                        maxLength="100"/>
                     </div>
                     {/* <!-- Phone Nuber --> */}
                     <div className="form group">
                         <label htmlFor="phone" >Phone</label>
-                        <input type="tel" id="phone" placeholder="555-555-5555"
-                                required pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"/>
+                        <input 
+                        type="tel" 
+                        id="phone" 
+                        placeholder="555-555-5555"
+                        required pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"/>
                     </div>
                     {/* <!-- email --> */}
                     <div className="form group">
                         <label htmlFor="email" >Email</label>
-                        <input type="email" id="email" placeholder="email@adress.com"
+                        <input 
+                        type="email" 
+                        id="email" 
+                        placeholder="email@adress.com"
                                 required/>
                     </div>
                     {/* <!-- Website Url --> */}
@@ -62,7 +85,9 @@ class Form extends React.Component {
                         <input type="password" id="password2" placeholder="Confirm password"
                                 required pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,}$"/>
                     </div>
-                    <button type="submit">Register</button>
+                    <button type="submit" 
+                    onClick={() => processFormData()}
+                    >Register</button>
                 </div>
                     <div className="message-container">
                         <h3 id="message">Don't Hesitate!</h3>
