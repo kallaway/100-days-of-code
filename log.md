@@ -1117,3 +1117,15 @@ This could be a good opportunity to learn *Hooks* also
 **Links to writing handler for function components**
 https://stackoverflow.com/questions/39260595/event-handlers-in-react-stateless-components
 https://stackoverflow.com/questions/37737340/clickhandler-in-stateless-component?noredirect=1&lq=1
+
+<hr>
+
+## Day 75: September 24, 2020
+
+**Today's Progress**
+Worked on *form-unit-test* and wrote out a functional component with event handler. Was able to get event handler to work. Was unable to get unit testing for even handler to work. 
+
+
+**Thoughts**  
+ * Will have to determine if unit test is not working because component is  a class
+ * May have to learn *Context API* if I decide to work with a stateful component  
