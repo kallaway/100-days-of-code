@@ -1125,7 +1125,19 @@ https://stackoverflow.com/questions/37737340/clickhandler-in-stateless-component
 **Today's Progress**
 Worked on *form-unit-test* and wrote out a functional component with event handler. Was able to get event handler to work. Was unable to get unit testing for even handler to work. 
 
-
 **Thoughts**  
  * Will have to determine if unit test is not working because component is  a class
  * May have to learn *Context API* if I decide to work with a stateful component  
+
+<hr>
+
+## Day 76: September 25, 2020
+
+**Today's Progress**
+RSVP a few online meetups for October. Was able to submit a job application I started the other day due to a bug. Was able to successfully write a unit test for a function component. Solution was to change `onClick` method to `onSubmit` within `<form>`. See link below for working example. 
+
+**Thoughts**  
+Still not sure if this test would be best practice due to the component structure. Need to research how an actual login form is constructed. From there replicate the structure without actual having it routed. Must try to keep it as simple but realistic as possible. 
+
+**Link to Work**
+1. [form unit test](https://codesandbox.io/s/form-er737)
