@@ -1141,3 +1141,16 @@ Still not sure if this test would be best practice due to the component structur
 
 **Link to Work**
 1. [form unit test](https://codesandbox.io/s/form-er737)
+
+<hr>
+
+## Day 77: September 26, 2020
+
+**Today's Progress**
+While looking at how to write a form in React with Hooks, got caught up with relearning object destructuring. Destructuring *objects* and *array* is essential for writing clean and succinct code. It is also an effective for creating *ad hoc* data when needed. 
+
+**Thoughts**  
+Went down the learning rabbit hole with this one. Not a waste of time because *destructuring* should be used as often as possible. 
+
+**Link to Work**
+1. [object destructuring](https://repl.it/@simonxiong/Object-Destructuring-100DaysOfCode)
