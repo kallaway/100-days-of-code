@@ -86,4 +86,29 @@
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
 
+### Day 11: Sept 25, 2020 
+
+**Today's Progress**: Working on Form validation in React
+
+**Thoughts**: Validating data without a server, and creating the functionality in React. to do a saved into document, where the data is being saved in a json file. 
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+
+### Day 12: Sept 27, 2020 
+
+**Today's Progress**: Learning hooks to implemnt in the main app
+
+**Thoughts**: Using the useState and useEffect hooks on an example app, to implement in the main todo app
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+
+### Day 13: Sept 28, 2020 
+
+**Today's Progress**: Created all fields updated with states
+
+**Thoughts**: Used the bind(this) defined in the constructor, to read more about it
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 

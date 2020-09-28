@@ -2,40 +2,65 @@ import React from 'react';
 import './style.css';
 
 class Form extends React.Component {
-    constructor(){
-        super();
+    constructor(props){
+        super(props);
         this.state = {
+            value: '',
             isValid: false,
             name: '',
             phone: '',
             email: '',
+            url: '',
             password1: '',
             password2: '',
-            message: ''
+            message: 'Dont Hesitate'
         }
+        this.handleChange = this.handleChange.bind(this);
+        this.handlePhone = this.handlePhone.bind(this);
+        this.handleEmail = this.handleEmail.bind(this);
+        this.handleDomain = this.handleDomain.bind(this);
+        this.handleSubmit = this.handleSubmit.bind(this);
     }
+    
+      handleChange(event) {
+        // this.setState({isValid: true})
+        this.setState({name: event.target.value});
+      }
 
-    textInput = (e) => {
-        // console.log('value:', e.target.value);
-        this.setState({[e.target.name]: e.target.value})
-    }
+      handlePhone(event) {
+        this.setState({phone: event.target.value});
+      }
 
-    validateForm(e) {
-        console.log(e.target.name);
+      handleEmail(event) {
+        this.setState({email: event.target.value});
+      }
 
-    }
+      handleDomain(event) {
+        this.setState({url: event.target.value});
+      }
 
-    processFormData() {
-        validateForm();
-    }
+    
+      handleSubmit(event) {
+        const valid = this.state.isValid
+        if(valid === true) {
+            alert('A name was submitted: ' + this.state.value);
+            event.preventDefault();
+        }
+        else {
+            // alert('Please fill in the fields')
+            this.setState({message: 'Please fill out all fields'});
+        }
+
+      }
 
     render() {
-        const { name } = this.state;
+        console.log('isValid:', this.state.isValid);
+        const {message} = this.state
         return (
             <div className="container">
                 <h1>Form Validation</h1>
                 {/* form */}
-                <div id="form">
+                <form onSubmit={this.handleSubmit}>
                     <div className="form group">
                         <label htmlFor="name" >Full Name</label>
                         <input 
@@ -43,7 +68,7 @@ class Form extends React.Component {
                         id="name" 
                         name="name" 
                         value={this.state.name} 
-                        onChange={this.textInput} 
+                        onChange={this.handleChange} 
                         placeholder="Full Name"
                         required minLength="3" 
                         maxLength="100"/>
@@ -53,7 +78,9 @@ class Form extends React.Component {
                         <label htmlFor="phone" >Phone</label>
                         <input 
                         type="tel" 
-                        id="phone" 
+                        id="phone"
+                        value={this.state.phone} 
+                        onChange={this.handlePhone} 
                         placeholder="555-555-5555"
                         required pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"/>
                     </div>
@@ -63,6 +90,8 @@ class Form extends React.Component {
                         <input 
                         type="email" 
                         id="email" 
+                        value={this.state.email} 
+                        onChange={this.handleEmail} 
                         placeholder="email@adress.com"
                                 required/>
                     </div>
@@ -70,6 +99,8 @@ class Form extends React.Component {
                     <div className="form group">
                         <label htmlFor="Website" >Website URL</label>
                         <input type="url" id="Website" placeholder="http://Website.com"
+                            value={this.state.url} 
+                            onChange={this.handleDomain} 
                                 required/>
                     </div>
                     {/* <!-- Password --> */}
@@ -86,11 +117,11 @@ class Form extends React.Component {
                                 required pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,}$"/>
                     </div>
                     <button type="submit" 
-                    onClick={() => processFormData()}
+                    value="Submit"
                     >Register</button>
-                </div>
+                </form>
                     <div className="message-container">
-                        <h3 id="message">Don't Hesitate!</h3>
+                        <h3 id="message">{message}</h3>
                     </div>
             </div>
 
