@@ -1154,3 +1154,16 @@ Went down the learning rabbit hole with this one. Not a waste of time because *d
 
 **Link to Work**
 1. [object destructuring](https://repl.it/@simonxiong/Object-Destructuring-100DaysOfCode)
+
+<hr>
+
+## Day 78: September 27, 2020
+
+**Today's Progress**
+Applied for a Full Stack role at a consulting company. Started working on Portfolio again. Completed the following:  
+* modify and shorten `.env` file
+* remove `target=_blank` to prevent vulnerability and for UX best practice
+* add Contentful credential to Netlify environment build 
+
+**Thoughts**  
+It's been over 2 week since I worked on portfolio. There is no need to write a blog before deployment. Need to stop finding excuses to further delay site launch. 
