@@ -112,3 +112,11 @@
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
+
+### Day 14: Sept 29, 2020 
+
+**Today's Progress**: JS functionality plus API 
+
+**Thoughts**: Dom manipulation for responsive styling
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
