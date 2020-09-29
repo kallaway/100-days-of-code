@@ -1167,3 +1167,18 @@ Applied for a Full Stack role at a consulting company. Started working on Portfo
 
 **Thoughts**  
 It's been over 2 week since I worked on portfolio. There is no need to write a blog before deployment. Need to stop finding excuses to further delay site launch. 
+
+<hr>
+
+## Day 79: September 28, 2020
+
+**Today's Progress**
+Searched for jobs on several websites. Why are there some many expired jobs on LinkedIn? Applied for a role at a media company. Looked into different frameworks for developing image editing software, notable frameworks includes:  
+* GIMP(GNU Image Manipulation Program)  
+* GTK(GNOME Toolkit)
+* GEGL(Generic Graphic Library)
+* ImageMagicK
+* OpenCV(Computer Vision) 
+
+**Thoughts**  
+The research on image editing tools stems from my photography hobby. I am probably better off being a user of these tools instead of a builder.  
