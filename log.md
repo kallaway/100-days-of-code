@@ -120,3 +120,12 @@
 **Thoughts**: Dom manipulation for responsive styling
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+
+### Day 15: Sept 30, 2020 
+
+**Today's Progress**: JS functionality of resizing in DOm 
+
+**Thoughts**: Dom manipulation for responsive styling
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)

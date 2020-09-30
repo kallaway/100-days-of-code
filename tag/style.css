@@ -1,0 +1,16 @@
+div {
+    position: relative;
+    float:left;
+    overflow: hidden;
+    background: blue;
+    height: 200px;
+    width: 200px;
+  }
+  #element {
+    position: relative;
+    overflow: hidden;
+    background: green;
+    height: 200px;
+    width: 200px;
+   }
+   
