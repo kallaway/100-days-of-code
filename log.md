@@ -1182,3 +1182,14 @@ Searched for jobs on several websites. Why are there some many expired jobs on L
 
 **Thoughts**  
 The research on image editing tools stems from my photography hobby. I am probably better off being a user of these tools instead of a builder.  
+
+<hr>
+
+## Day 80: September 29, 2020
+
+**Today's Progress**
+Worked on the portfolio and did removed a few unnecessary files. Also attempted to remove Gatsby favicon but was unable to.
+
+**Thoughts**  
+Similar to coding challenges after a few attempts on a certain task, don't get fixated on it. Move on and get back to it later, especially if it is a minor task.   
+
