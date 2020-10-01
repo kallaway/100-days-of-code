@@ -1,99 +1,54 @@
 # 100 Days Of Code - Log
 
-### Day 7:  Sept 18, 2020
+
+
+### Day 1:  Oct 1, 2020
 
 **Today's Progress**: Building One Page More
 
-**Thoughts:**   Getting closer to figuring out the tables
+**Thoughts/Notes/Braindump space:**   
 
-**Link to work:**  --
+**Pre-Build Space -->** The Reading List (RL) can exist without the Book (B) objects.  RL is basically a shelf to display things, anything really, books, people, rotary phones, etc.  The shelf can exist without the book in this context.  The B can not exist without the shelf (they would be floating like fruit in a jello ring.  We need to bring jello rings back.)
 
-**------------------------------------------------------**
+Okay, so now that I better understand this relationship, I see how I need to incorporate the ORM and collections.  
 
+**Post-Build Space -->**
 
-### Day 6:  Sept 16, 2020
-
-**Today's Progress**: Hackerrank 30 day challenge day 2.  
-
-**Thoughts:**   Ugh...
-
-**Link to work:**  --
+**Link to work:**  https://github.com/speudusa/OPM
 
 **------------------------------------------------------**
 
-### Day 5:  Sept 15, 2020
-
-**Today's Progress**: Edabit  
-
-**Thoughts:** working on c# and js  
-
-**Link to work:**  --
-
-**------------------------------------------------------**
-
-### Day 4:  Sept 14, 2020
-
-**Today's Progress**: Working on class assigned HackerRank challenges.  
-
-**Thoughts:** Read the "Easy" questions and got lost.  Decided to sign up for their 30 days of code (which will help with the 100 days) to become more familiar with their directions.  Also, working on MVC project with persistent data.  
-
-**Link to work:**  --
-
-**------------------------------------------------------**
+### Day 0: Oct 1, 2020
 
 
-### Day 3:  Sept 11, 2020
+**Today's Progress**: I did code, but I wanted to set my intention and create a space for me to work through my blocks.  This Project is my final project for LaunchCode's LiftOff.  It is the (first) and biggest thing I have ever build on my own.  I am trying to make space for it in my day to day life, and hope that creating a place to plan, ponder, and grow from will be more helpful than just a list of Ta-Da's!  For me.  
 
-**Today's Progress**: Edabit practice: rocked up to level 4! :)
+I added a place to drop things.  I added space to list my goal for the day and a place to list where I stopped.  But these spaces are also places that can hold more than just facts and figures, but the story behind it all, the place when connections are made.  So, if you want to read along, you are welcome to.  I will try to keep these updates short and to the point.  
 
-**Thoughts:** When I compare my understanding of JS to C#; JS comes easier.  C# is still very odd.  Glad I switched to C# today, practice needed.
+I should make a parking lot...  but not here.  
 
-**Link to work:**  --
+**Thoughts/Notes/Braindump space:** 
+
+**Pre-Build Space -->**  Rethink my process.  How do I best learn?  Stories, writing about it, making connections.
+
+**Post-Build Space: -->**  So, here is my redesigned log.  My rekindled passion to make this project happen.  
+
+**Link to work:**  https://github.com/speudusa/OPM
 
 **------------------------------------------------------**
 
-### Day 2:  Sept 10, 2020
-
-**Today's Progress**: Created validation for viewmodel
-
-**Thoughts:** Need to rethink data flow, views, and overall organization
-
-**Link to work:**  --
-
 **------------------------------------------------------**
 
-### Day 1:  Sept 9, 2020
-
-**Today's Progress**: Worked on Edabit and leveled up from 1 to 3
-
-**Thoughts:** Enjoyed this time.  
-
-**Link to work:**  [Edabit profile] https://edabit.com/user/3HXerrkHzddPZhJCw
-
-**------------------------------------------------------**
-
-### Day 0: Sept 9, 2020
-
-
-**Today's Progress**: Creating a plan for the start of this challenge.  
-Ideas:
-* Current MVC project
-* Second MVC project idea
-* revisit studios and exercises from Launch
-
-**Thoughts:** This will be a challenge for sure, but I am ready to give it a try and grow in my skills and condfidence.  
-Counting Weekdays.  Weekends are for family/fun/chilling.
-
-**Link to work:**  they will come as I dive into this challenge.
-
-
-
-### Day 0: Sept 8, 2020
+### Day 0: TEMPLATE
 
 
 **Today's Progress**: 
 
-**Thoughts:** 
+**Thoughts/Notes/Braindump space:** 
+
+**Pre-Build Space -->**  
+
+**Post-Build Space: -->**
 
 **Link to work:**
 
