@@ -1,14 +1,11 @@
-import React from 'react';
-// import Board1 from './components/Board1';
-import Form from './form/Form';
+import * as React from 'react';
+import Form2 from './form/Form2';
 import './App.css';
-// import Playground from './hooks/Playground';
-// import Name from './hooks/Name';
 
 function App() {
   return (
     <div>
-        <Form />
+        <Form2 />
     </div>
   );
 }

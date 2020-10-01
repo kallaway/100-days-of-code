@@ -9,6 +9,7 @@
     "randomcolor": "^0.6.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-hook-form": "^6.8.6",
     "react-script-tag": "^1.1.2",
     "react-scripts": "3.4.3"
   },
