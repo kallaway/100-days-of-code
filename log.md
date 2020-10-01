@@ -12,7 +12,9 @@
 
 Okay, so now that I better understand this relationship, I see how I need to incorporate the ORM and collections.  
 
-**Post-Build Space -->**
+**Post-Build Space -->**  So, don't get mad.  I added Users instead.  This made a lot of sense with the section of the book I was reading.  While I was trying to figure out how to build the Book/RL relationship, the set up in the book made the most sense here.  Parent can add child AND book, but can now assign book to specific child (I hope)
+
+(having a hard time testing this right now since I didn't finish my inital task and that is full of errors preventing me from running it, BUT in spirit I think it is a good start)
 
 **Link to work:**  https://github.com/speudusa/OPM
 
