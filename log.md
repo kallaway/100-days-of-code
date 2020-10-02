@@ -1,6 +1,105 @@
 # 100 Days Of Code - Log
 
 
+### Day 2:  Oct 2, 2020 
+
+
+**Today's Progress**: Reviewing my TechJobsPersistent project for the flow, presentation, and relationships of data and views.
+
+**Thoughts/Notes/Braindump space:**   
+  *What I like:*  
+       1- I created a list by category section that will list every item added (employer and skill).
+       2- When I add a new job, I can add name and select which employer.  
+            A- I would like to have this for my parent user to select which child the book will be assigned to (if multiple children signed up)
+            B- there is also an option to add tags, which could also be used to select if fiction, non-fiction, chapter book, (or whatever they want to add)  
+        3- There is a Skill option that allows the user to create tags to then group books by the similar tags.
+            - this could be great for grouping books based on genre or type (see 2-B)
+        
+
+**Pre-Build Space -->**  *parts review* -
+        
+        
+        1- Home (Controller and Views ONLY)
+              A- CONTROLLER 
+                  i- uses both jobContext and ID with private set
+                  ii- HttpGet Index()
+                      a- creates List of Jobs using context and referring to an lambda that pulls the Employer  **Look into the Job Model**
+                      b- returns view of the list on the index
+                  iii- HttpGET Add()
+                      a.  uses the AddJobVM and Employers to build the list on the Index Page  
+                      **THIS IS WHAT I AM LOOKING FOR**
+                  iv- HttpPOST ProcessAddJobForm()
+                      a.  takes both AddJbVM and a string[] of JobSkills to fill a table
+                          1- creates a job object that pulls data from 2 sources
+                                A- addJobVM.Name and addJobVM.EmployerId
+                                B- JobSkills are created in a new List of JobSkill Objects
+                          2- then there is FOREACH loop to find the job skills associated with each new job object we created (See 1.A.iv.1.B above) Adding them to the job object
+                          3.  We update the table by saving changes and we return to the Home Index View OR Add Job View if we're missig a step  (Validation)
+                  v. Detail()
+                      a. creating new objects to display on the index page (theJob and jobSkills)
+                      uses the new Job object's id to create the list
+                          i- we pull out the employer, and the id for the job title presentd
+                          ii - We sort through the list of Jobsklls objects for the skills we want
+                              a- find the skill Id, make sure to bring the skills along and then add to a list  
+                           iii- call to the JobDetailVM to present theJob and jobSkills and return that viewmodel
+             B- VIEWS (Index, Detail, AddJob)
+                 1- INDEX
+                    a- using the List of Job objects
+                    b- calling our controllers as "buttons" to open other views
+                    c- TABLE
+                        i- Using the Model Count to initiate table
+                        ii- table created with Job Name and Employer Name
+                            a- looking for the Job in the Model (as called from the list)
+                                1. Using the DETAIL action on the HOME Controller, find the id and Name
+                   2-DETAIL
+                        a- using the JobDetailVM
+                        b- Using the acutal Models to full in the Name and text in TABLE
+                        c- Option to add skills to this particular job, pulls on the JobId for its route
+                        There are checkboxes AND DD on this view.  I like the idea of both.  See how they are built.
+                           
+          
+        2- Employer (controller, views, model, viewmodel)
+              A- CONTROLLER
+                  i-dbContext, has Employer DbSet in the data folder
+                  ii- HttpGet Add() - uses VM to present form for user 
+                  iii- HttpPost ProcessAddEmployerForm() - renamed Add fucntion
+                         a- pulls name and location from VM, and redirects to Employer index view
+                         **b- I don't understand like 56**
+                  iv- About() - uses id and Employer context to find the selected employer
+                        a- in the view, you can select the name of the employer and it will take you to a view that has only the info about that employer 
+                        b- used in the LIST view
+                              1- the spacing in this view could be better -
+                              
+                B- VIEWMODEL (AddEmployerViewModel)
+                    i- Validation for each Item
+                    ii- collecting Name and Location only
+                    
+                C- MODEL
+                    i- Contains Id, Name, Location
+                    ii- Default constructor AND loaded constructor
+                    
+                D - VIEW (About, Add, Index)
+                    i- ABOUT 
+                        a- pulling Employer using Model.Name
+                        b- Listing Name and Location
+                        c- simple heading a p tags
+                    ii- ADD
+                        a- this one uses the validation that was created in the ViewModel
+                        b- collecting Name and Location (exactly what was in both Model and VM)
+                    iii- INDEX
+                        a- This has a table that is filled based on employers created
+                            1- I wonder if I could play around with this table to practice my Book/RL 
+          3- 
+**AND BREAK FOR LUNCH WITH THE CHICKADEES**
+
+
+**Post-Build Space: -->**
+
+**Link to work:**
+
+**------------------------------------------------------**
+
+
 
 ### Day 1:  Oct 1, 2020
 
