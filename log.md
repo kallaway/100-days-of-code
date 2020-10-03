@@ -1193,3 +1193,16 @@ Worked on the portfolio and did removed a few unnecessary files. Also attempted 
 **Thoughts**  
 Similar to coding challenges after a few attempts on a certain task, don't get fixated on it. Move on and get back to it later, especially if it is a minor task.   
 
+<hr>
+
+## Day 81: September 30, 2020
+
+**Today's Progress**
+Attempted to use `gatsby-image` component to render thumbnail images on portfolio page. Was unsuccessful due to an error with structuring query in `image.js` file: `The fragment "GatsbyImageSharpFixed" does not exist.`
+
+**Thoughts** 
+Was unaware that simply referencing `jpeg` from source file into a `<img>` was not possible with Gatsby. Need to read this article to get a better understanding for using `gastby-image`.  
+
+[gatsby-image README.md](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-image)
+
+
