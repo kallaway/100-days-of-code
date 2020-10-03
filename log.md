@@ -1195,7 +1195,7 @@ Similar to coding challenges after a few attempts on a certain task, don't get f
 
 <hr>
 
-## Day 81: September 30, 2020
+## Day 81: October 2, 2020
 
 **Today's Progress**
 Attempted to use `gatsby-image` component to render thumbnail images on portfolio page. Was unsuccessful due to an error with structuring query in `image.js` file: `The fragment "GatsbyImageSharpFixed" does not exist.`
