@@ -36,3 +36,6 @@ Had another technical interview today and got the rejection email a few hours la
 
 ### [R2D11](https://twitter.com/ZettStai/status/1288008452191563778?s=20)
 I thought about restarting this round again completely, but I anticipate this won't be the last time I break the streak. It is more important that I keep going. Today I got familiar with git again and am getting ready for #hacktoberfest2020
+
+### [R2D12](https://twitter.com/ZettStai/status/1312287751560019968?s=20)
+I decided to spend time working on my personal website. First a basic portfolio like website and adding a blog portion. Started looking into this template and getting familiar with the basics https://github.com/cobidev/gatsby-simplefolio
