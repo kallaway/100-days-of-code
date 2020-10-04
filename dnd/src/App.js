@@ -1,11 +1,12 @@
 import * as React from 'react';
-import Form2 from './form/Form2';
+// import Form3 from './form/Form3';
+import Board1 from './components/Board1';
 import './App.css';
 
 function App() {
   return (
     <div>
-        <Form2 />
+        <Board1 />
     </div>
   );
 }

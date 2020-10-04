@@ -1,40 +1,74 @@
 import React from 'react';
 import './style.css';
-var React = require('react');
 var ReactDOM = require('react-dom');
 
+const addBtns = [];
+const saveItemBtns = [];
+const addItemContainers = [];
 
-class Board extends React.Component {
+class Board1 extends React.Component {
+    constructor(props){
+        super(props); 
+        this.state = {
+
+        }
+    }
+
+    addItem = () => {
+        const [showResults, setShowResults] = React.useState(false)
+        return (
+          <div>
+            <input type="submit" value="Search" />
+            { showResults ? <results /> : null }
+          </div>
+        )
+      }
+
+
+
+ results = React.createClass({
+    render: function () {
+        return (
+            <div id="results" className="search-results">
+                Some Results
+            </div>
+        );
+    }
+});
+
+
 
     render () {
+        this.addItem()
     return (
         <div>
-        <h1 class="main-title">Todo Board</h1>
-        <div class="drag-container"></div>
-            <ul class="drag-list">
+        <h1 className="main-title">Todo Board</h1>
+        <div className="drag-container"></div>
+            <ul className="drag-list">
                 {/* <!-- Backlog Column --> */}
-                <li class="drag-column backlog-column">
-                    <span class="header">
+                <li className="drag-column backlog-column">
+                    <span className="header">
                         <h1>Backlog</h1>
                     </span>
                     {/* <!-- Backlog Content --> */}
-                    <div id="backlog-content" class="custom-scroll">
-                        <ul class="drag-item-list" id="backlog-list" 
+                    <div id="backlog-content" className="custom-scroll">
+                        <ul className="drag-item-list" id="backlog-list" 
                         ondrop="drop(event)" ondragover="allowDrop(event)" 
                         ondragenter="dragEnter(0)"></ul>
                     </div>
                     {/* <!-- Add button Group--> */}
-                    <div class="add-btn-group">
-                        <div class="add-btn" onclick="showInputBox(0)">
-                            <span class="plus-sign">+</span>
-                            <span>Add Item</span>
+                    <div className="add-btn-group">
+                        <div className="add-btn" onclick={showInputBox(true)}>
+                            <span className="plus-sign">+</span>
+                            <span >Add Item</span>
+                            { showResults ? <Results /> : null }
                         </div>
-                        <div class="add-btn solid" onclick="hideInputBox(0)">
+                        <div className="add-btn solid" onclick="hideInputBox(0)">
                             <span>Save Item</span>
                         </div>
                     </div>
-                    <div class="add-container">
-                        <div class="add-item" contenteditable="true"></div>
+                    <div className="add-container">
+                        <div className="add-item" contenteditable="true"></div>
                     </div>
                 </li>
             </ul>
@@ -43,4 +77,4 @@ class Board extends React.Component {
 }
 }
 
-export default Board;
+export default Board1;

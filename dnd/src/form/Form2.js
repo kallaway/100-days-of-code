@@ -3,12 +3,23 @@ import ReactDOM from "react-dom";
 import { useForm } from 'react-hook-form';
 import "./style2.css";
 
+//creating a form with react hooks
+
 function Form2() {
+  //useForm hook has 3 arrays: register, handleSubmit, errors
   const { register, handleSubmit, errors } = useForm();
   const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
   const onSubmit = (data) => {
       console.log(data);
-  }
+  };
+
+  // const validateUserName = async (value) => {
+  //   await sleep(1000);
+  //   if (value === 'bill') return true;
+
+  //   return false;
+  // };
+  
 
   return (
     <form className="App" onSubmit={handleSubmit(onSubmit)}>
@@ -37,6 +48,9 @@ function Form2() {
 
       <label>Username</label>
       <input name="username" ref={ register({ required: true }) } />
+
+        {/* An input line To validate username */}
+      {/* <input name="username" ref={ register({ required: true, validate: validateUserName }) } /> */}
       {errors.username && (<p>This is required</p>)}
 
       <label>Email</label>
