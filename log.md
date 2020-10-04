@@ -129,3 +129,31 @@
 **Thoughts**: Dom manipulation for responsive styling
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+
+### Day 16: October 01, 2020 
+
+**Today's Progress**: Form validation in React using hooks 
+
+**Thoughts**: To finish form validation using the validate function, used a new way to create a multi fields form,. 
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+
+### Day 17: October 02, 2020 
+
+**Today's Progress**: Form validation in React using hooks 
+
+**Thoughts**: To finish form validation using the validate function, used a new way to create a multi fields form,. 
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+
+### Day 17: October 04, 2020 
+
+**Today's Progress**: Show and hide span element in React 
+
+**Thoughts**: Using hooks to show and hide span input element, and creating its functionality  
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
