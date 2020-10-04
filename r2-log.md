@@ -39,3 +39,7 @@ I thought about restarting this round again completely, but I anticipate this wo
 
 ### [R2D12](https://twitter.com/ZettStai/status/1312287751560019968?s=20)
 I decided to spend time working on my personal website. First a basic portfolio like website and adding a blog portion. Started looking into this template and getting familiar with the basics https://github.com/cobidev/gatsby-simplefolio
+
+### [R2D13](https://twitter.com/ZettStai/status/1312657030419685376?s=20)
+Working on Discord bot. Did some research and started playing around with parsing RSS feeds. I want to be able to have the bot check for new episodes of podcasts and post them in a channel.
+
