@@ -1185,7 +1185,7 @@ The research on image editing tools stems from my photography hobby. I am probab
 
 <hr>
 
-## Day 80: September 29, 2020
+## Day 80: September 30, 2020
 
 **Today's Progress**
 Worked on the portfolio and did removed a few unnecessary files. Also attempted to remove Gatsby favicon but was unable to.
@@ -1201,8 +1201,19 @@ Similar to coding challenges after a few attempts on a certain task, don't get f
 Attempted to use `gatsby-image` component to render thumbnail images on portfolio page. Was unsuccessful due to an error with structuring query in `image.js` file: `The fragment "GatsbyImageSharpFixed" does not exist.`
 
 **Thoughts** 
-Was unaware of referencing `jpeg` from source file into a `<img>` was not possible with Gatsby. Need to read this article to get a better understanding for using `gastby-image`.  
+Was unaware that referencing `jpeg` from source file into a `<img>` was not possible with Gatsby. Need to read this article to get a better understanding for using `gastby-image`.  
 
 [gatsby-image README.md](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-image)
 
+<hr>
 
+## Day 82: October 3, 2020
+
+**Today's Progress**
+Attempted to work with `gatsby-images` again by downloading and reviewing `gastby-starter-kit`. Everything looked good when comparing my code base to the starter kit. Eventually ran into the same `fragment` issues again. 
+
+**Thoughts** 
+Need to get a better understanding of how GraphQL query are structure with `GraphiQL` and `graphql-playground` to determine why there is a issue with fragment. 
+
+(GraphiQL)[https://github.com/graphql/graphiql]
+(GraphQL Playground)[https://github.com/graphql/graphql-playground]
