@@ -93,9 +93,12 @@
 **AND BREAK FOR LUNCH WITH THE CHICKADEES**
 
 
-**Post-Build Space: -->**
+**Post-Build Space: -->**  
 
-**Link to work:**
+Not able to get back to project.  But did learn about what features I want, and have a better understanding of calling between views and contollers.
+
+**Link to work:** https://github.com/speudusa/OPM && https://github.com/speudusa/TechJobsMOREPersistent
+
 
 **------------------------------------------------------**
 
