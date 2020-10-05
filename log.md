@@ -1217,3 +1217,12 @@ Need to get a better understanding of how GraphQL query are structure with `Grap
 
 (GraphiQL)[https://github.com/graphql/graphiql]
 (GraphQL Playground)[https://github.com/graphql/graphql-playground]
+
+<hr>
+
+## Day 83: October 4, 2020
+
+**Today's Progress**
+Was able to get conditional statement *Picture not found* in `images.js` to return on DOM. Possible causes `scoreKeeper.jpeg` not rendering onto page are:  
+* not properly distinguishing `image` file in **gatsby-config.js**
+* not properly setting fixed width/height for `<Image />` in **portfolio.js**
