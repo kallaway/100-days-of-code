@@ -1,4 +1,5 @@
 import React from 'react';
+import Search from './components/Search'
 import './style.css';
 var ReactDOM = require('react-dom');
 
@@ -7,39 +8,40 @@ const saveItemBtns = [];
 const addItemContainers = [];
 
 class Board1 extends React.Component {
-    constructor(props){
-        super(props); 
+    constructor(){
+        super(); 
         this.state = {
 
         }
     }
 
-    addItem = () => {
-        const [showResults, setShowResults] = React.useState(false)
-        return (
-          <div>
-            <input type="submit" value="Search" />
-            { showResults ? <results /> : null }
-          </div>
-        )
-      }
+    // addItem = () => {
+    //     // const [showResults, setShowResults] = React.useState(false)
+    //     return (
+    //       <div>
+    //         <input type="submit" value="Search" />
+    //         {/* { showResults ? <results /> : null } */}
+    //       </div>
+    //     )
+        
+    //   }
 
 
 
- results = React.createClass({
-    render: function () {
-        return (
-            <div id="results" className="search-results">
-                Some Results
-            </div>
-        );
-    }
-});
+//  results = React.createClass({
+//     render: function () {
+//         return (
+//             <div id="results" className="search-results">
+//                 Some Results
+//             </div>
+//         );
+//     }
+// });
 
 
 
     render () {
-        this.addItem()
+    const {Search} = this.state
     return (
         <div>
         <h1 className="main-title">Todo Board</h1>
@@ -58,10 +60,10 @@ class Board1 extends React.Component {
                     </div>
                     {/* <!-- Add button Group--> */}
                     <div className="add-btn-group">
-                        <div className="add-btn" onclick={showInputBox(true)}>
+                        <div className="add-btn" >
                             <span className="plus-sign">+</span>
                             <span >Add Item</span>
-                            { showResults ? <Results /> : null }
+
                         </div>
                         <div className="add-btn solid" onclick="hideInputBox(0)">
                             <span>Save Item</span>
