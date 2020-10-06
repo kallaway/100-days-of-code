@@ -1226,3 +1226,11 @@ Need to get a better understanding of how GraphQL query are structure with `Grap
 Was able to get conditional statement *Picture not found* in `images.js` to return on DOM. Possible causes `scoreKeeper.jpeg` not rendering onto page are:  
 * not properly distinguishing `image` file in **gatsby-config.js**
 * not properly setting fixed width/height for `<Image />` in **portfolio.js**
+
+
+<hr>
+
+## Day 84: October 5, 2020
+
+**Today's Progress**
+Search, found, modify resume and applied for a Front End role at a consulting company. Attempted to pull assets from Contentful to Gatsby but did not get too far. Will do a deep dive tomorrow and take a look at tutorial for reference. 
