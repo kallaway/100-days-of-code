@@ -1234,3 +1234,13 @@ Was able to get conditional statement *Picture not found* in `images.js` to retu
 
 **Today's Progress**
 Search, found, modify resume and applied for a Front End role at a consulting company. Attempted to pull assets from Contentful to Gatsby but did not get too far. Will do a deep dive tomorrow and take a look at tutorial for reference. 
+
+<hr>
+
+## Day 85: October 7, 2020
+
+**Today's Progress**
+Was able to get `gatsby-image` to work on portfolio site. Root cause of issue not working was due to typo in mixing up `GatsbyImageSharpFixed` and `GatsbyImageSharpFluid` in GraphQL query.
+
+**Thoughts** 
+It is common that a bug lies in an obvious typo when copying code without understanding how it works.  
