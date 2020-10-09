@@ -1244,3 +1244,20 @@ Was able to get `gatsby-image` to work on portfolio site. Root cause of issue no
 
 **Thoughts** 
 It is common that a bug lies in an obvious typo when copying code without understanding how it works.  
+
+<hr>
+
+## Day 85: October 8, 2020
+
+**Today's Progress**
+Was able to get multiple images to render on portfolio page. This was achieved by doing the following:  
+* create a component for each project thumbnail
+* write query for each component using `gatsby-image` design pattern
+* import all components and render on portfolio page 
+
+**Thoughts** 
+The above approach required more files to be created to render thumbnail for each project. A possibility for rendering multiple images in one component is provided in the following links:  
+* https://stackoverflow.com/questions/63912871/how-can-i-dynamically-add-images-to-my-pages-in-gatsby-using-the-image-component
+* https://stackoverflow.com/questions/55122752/reusable-gatsby-image-component-with-dynamic-image-sources
+
+*Note: This approach may be expensive and cause a lot of bloating if there are many images stored locally.*
