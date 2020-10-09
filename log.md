@@ -157,3 +157,19 @@
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
+
+### Day 18: October 06, 2020 
+
+**Today's Progress**: Working on JS functionality 
+
+**Thoughts**: Worked out some objects and loops challenges code wars 
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+### Day 19: October 08, 2020 
+
+**Today's Progress**: Creating additem input  
+
+**Thoughts**: Worked on add item input, breaking out diffrent function for the board 
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
