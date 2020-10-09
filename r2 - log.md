@@ -31,3 +31,11 @@
   ##### Link to References:
     (https://leetcode.com/problems/valid-parentheses/submissions/)
     (https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/)
+    
+ # Day 5: 9th October, 2020
+   ##### Today's progress:
+    Tried learning flutter. 
+   ##### Thoughts:
+    Although the language is easy, the number of widgets to remember is quite large
+   ##### Link to Reference:
+    ()
