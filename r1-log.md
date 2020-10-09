@@ -3,6 +3,8 @@
 The log of my #100DaysOfCode challenge. Started on [October 9, 2020].
 
 ## Log
+I copied some requirements from a job listing that I would like to have, and will focus on learning those requirements initially. Since I am interested in a front end position, I will mainly focus on learning front end stuff.
+
 Requirements:
 
     You have a deep understanding of HTML, CSS, and JS.
@@ -17,6 +19,6 @@ Preferred Requirements:
     Familiarity with MongoDB or other NoSQL databases is a plus.
 
 ### R1D1 
-I copied some requirements from a job listing that I would like to have, and will focus on learning those requirements initially. Since I am interested in a front end position, I will mainly focus on learning front end stuff. 
+ For today, October 9, 2020, I created a simple counter app, using Bulma and Fontawesome, and vanilla javascript. You can see the counter <a href="https://codewriting.dev/100daysofcode/counter/index.html">here</a>
 
 ### R1D2
