@@ -166,10 +166,21 @@
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
+
 ### Day 19: October 08, 2020 
 
 **Today's Progress**: Creating additem input  
 
 **Thoughts**: Worked on add item input, breaking out diffrent function for the board 
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+
+### Day 20: October 10, 2020 
+
+**Today's Progress**: Form validator component in React 
+
+**Thoughts**: After some practice, trials and 4 diffrent forms created,
+created a full working form validator component. Adding now the Dom changes according to the data submission
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)

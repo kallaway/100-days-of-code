@@ -15,26 +15,26 @@
             <!-- full name -->
             <div class="form group">
                 <label for="name" >Full Name</label>
-                <input type="text" id="name" placeholder="Full Name"
+                <input type="text" id="name" placeholder="Full Name" name="name"
                         required minlength="3" maxlength="100">
             </div>
             <!-- Phone Nuber -->
             <div class="form group">
                 <label for="phone" >Phone</label>
-                <input type="tel" id="phone" placeholder="555-555-5555"
+                <input type="tel" id="phone" placeholder="555-555-5555" name="phone"
                         required pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
             </div>
             <!-- email -->
             <div class="form group">
                 <label for="email" >Email</label>
                 <input type="email" id="email" placeholder="email@adress.com"
-                        required>
+                        required name="email">
             </div>
             <!-- Website Url -->
             <div class="form group">
                 <label for="Website" >Website URL</label>
                 <input type="url" id="Website" placeholder="http://Website.com"
-                        required>
+                        required name="website">
             </div>
             <!-- Password -->
             <div class="form group">
@@ -46,13 +46,13 @@
             <!-- Confirm Password -->
             <div class="form group">
                 <label for="password2" >Confirm Password</label>
-                <input type="password" id="password2" placeholder="Confirm password"
+                <input type="password" id="password2" placeholder="Confirm password" name="password"
                         required pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,}$">
             </div>
             <button type="submit">Register</button>
         </form>
         <!-- Error/Success message -->
-        <div class="message-container">
+        <div class="message-container" id="message-container">
             <h3 id="message">Don't Hesitate!</h3>
         </div>
     </div>
