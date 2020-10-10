@@ -1247,7 +1247,7 @@ It is common that a bug lies in an obvious typo when copying code without unders
 
 <hr>
 
-## Day 85: October 8, 2020
+## Day 86: October 8, 2020
 
 **Today's Progress**
 Was able to get multiple images to render on portfolio page. This was achieved by doing the following:  
@@ -1261,3 +1261,13 @@ The above approach required more files to be created to render thumbnail for eac
 * https://stackoverflow.com/questions/55122752/reusable-gatsby-image-component-with-dynamic-image-sources
 
 *Note: This approach may be expensive and cause a lot of bloating if there are many images stored locally.*
+
+<hr>
+
+## Day 87: October 9, 2020
+
+**Today's Progress**
+Attempted to use Sass preprocessor to style components and make page responsive but was unsuccessful. Some of the concepts attempted were *variables*, *nesting* and *partials* similar to previous project.
+
+**Thoughts** 
+File `index.scss` contains a lot of selectors and declarations that was downloaded, therefore I do not know what many of them are doing. It also appears that this file has specificity priority. Will plan to start Sass preprocessor from scratch to get a better understand and better manage styling. 
