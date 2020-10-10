@@ -11,3 +11,15 @@ I was thinking today about me being older than all of my classmates in the bootc
 
 **Link(s) to work**
 
+<a href="https://codewriting.dev/100daysofcode/counter">Simple Counter</a>
+
+### Day 2: Saturday, October 10, 2020
+
+**Today's Progress**: Today I combined the simple counter with a solution for the FizzBuzz challenge.
+
+**Thoughts** 
+It's certainly not pretty but it works. I added an extra span to display the multiples of 3 and 5, and I kinda like it. That way, you can compare the number and the word for yourself and see if it works. 
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev/100daysofcode/day2">FizzBuzz Counter</a>
