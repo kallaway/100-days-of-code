@@ -39,3 +39,11 @@
     Although the language is easy, the number of widgets to remember is quite large
    ##### Link to Reference:
     ()
+ 
+ # Day 6: 10th October, 2020
+   ##### Today's progress:
+    Re-did flutter
+   ##### Thoughts:
+    Buttons are a bit confusing
+   ##### Link to Reference:
+    ()
