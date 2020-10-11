@@ -1271,3 +1271,13 @@ Attempted to use Sass preprocessor to style components and make page responsive 
 
 **Thoughts** 
 File `index.scss` contains a lot of selectors and declarations that was downloaded, therefore I do not know what many of them are doing. It also appears that this file has specificity priority. Will plan to start Sass preprocessor from scratch to get a better understand and better manage styling. 
+
+<hr>
+
+## Day 88: October 10, 2020
+
+**Today's Progress**
+Was able to make portfolio page responsive. Created a `max-width` breakpoint for smaller size screen with `flex-direction: column`. Resources to get this completed was from [W3schools](https://www.w3schools.com/csS/tryit.asp?filename=trycss3_flexbox_responsive).
+
+**Thoughts** 
+Took a long time looking at collapsible nav menus examples to integrate for project. Was able to find a few good ones [Free Frontend](https://freefrontend.com/css-menu/). 
