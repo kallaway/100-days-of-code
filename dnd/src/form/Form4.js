@@ -2,14 +2,15 @@ import React from 'react';
 import './style.css';
 
 class Form4 extends React.Component {
-    constructor(){
-        super();
+    constructor(props){
+        super(props);
         this.state = {
             isValid: false,
             passwordsMatch: false,
             name: '',
             email: '',
-            password: ''
+            password: '',
+            message: 'Dont Hesitate'
         }
     }
 
@@ -27,25 +28,50 @@ class Form4 extends React.Component {
         onPasswordChange = (e) => {
             this.setState({password: e.target.value})
         }
-    
+
+
         //Add all messages and Dom changes according to the data submitted
-        validateForm = () => {
-            const isValid = this.state;
-            console.log(isValid);
-        }
+        // validateForm = (props) => {
+        //     const form = 
+        //     const { isValid } = this.state;
+        //     console.log(isValid);
+        //     if (isValid) {
+        //         this.setState({message: 'Please fill out all fields'});
+        //         //block return statement, that ends crawling the script
+        //         return;
+        //     }
+        // }        
 
-        storeFormData = () => {
-            const user = {
-                name: this.state.name,
-                email: this.state.email,
-                password: this.state.password
+        processFormData(e) {
+            // e.preventDefault();
+            const form = e.target
+            const ifValid = form.checkValidity()
+            // Validate Form
+            // validateForm(props);
+            // Submit Data if Valid
+            if (ifValid) {
+                const user = {
+                    name: this.state.name,
+                    email: this.state.email,
+                    password: this.state.password
+                }
+                console.log(user);
             }
-            console.log(user);
+            console.log('process', ifValid );
         }
 
+        // storeFormData = () => {
+        //     const user = {
+        //         name: this.state.name,
+        //         email: this.state.email,
+        //         password: this.state.password
+        //     }
+        //     console.log(user);
+        // }
 
     render() {
-        console.log('isValid:', this.state.isValid);
+        // console.log('isValid:', this.state.isValid);
+        const {message} = this.state;
         return (
             <div className="container">
                 <h1>Form Validation</h1>
@@ -89,12 +115,12 @@ class Form4 extends React.Component {
                     </div>
                     <button type="submit" 
                     value="Submit"
-                    onClick={ this.storeFormData }
-                    disabled={(this.state.name === "" || this.state.name.length > 8 || this.state.email === "" || this.state.password === "") ? true : false }
+                    onClick={ this.processFormData() }
+                    // disabled={(this.state.name === "" || this.state.name.length > 8 || this.state.email === "" || this.state.password === "") ? true : false }
                     >Register</button>
                 </form>
                     <div className="message-container">
-                        <h3 id="message">Dont Hesitate!</h3>
+                        <h3 id="message">{ message }}</h3>
                     </div>
                     <div className="flex flex-wrap mt-6">
                   <div className="w-1/2">

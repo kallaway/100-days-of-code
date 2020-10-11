@@ -184,3 +184,12 @@
 created a full working form validator component. Adding now the Dom changes according to the data submission
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+
+### Day 21: October 11, 2020 
+
+**Today's Progress**: Form validator component in React 
+
+**Thoughts**: Working on data storing, and the messages changing according to the submitted inputs
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
