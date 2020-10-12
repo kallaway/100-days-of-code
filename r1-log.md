@@ -22,3 +22,13 @@ Preferred Requirements:
  For today, October 9, 2020, I created a simple counter app, using Bulma and Fontawesome, and vanilla javascript. You can see the counter <a href="https://codewriting.dev/100daysofcode/counter/index.html">here</a>
 
 ### R1D2
+
+For today, October 10, 2020, I combined the counter with a FizzBuzz solution. FizzBuzz is the classic challenge of how to replace multiples of 3 and 5 with the strings "Fizz", "Buzz", and "FizzBuzz"; multiples of 3 become "Fizz", multiples of 5 become "Buzz", and multiples of both 3 and 5 become "FizzBuzz". You can see the enhanced counter <a href="https://codewriting.dev/100daysofcode/day2">here</a>
+
+### R1D3
+
+For day 3, October 11, 2020, based on the suggestion of Sandra, I added some information to the page to explain why seemingly random text appeared next to certain numbers in the counter. You can find this version <a href="https://codewriting.dev/100daysofcode/day3">here</a>
+
+### R1D4
+
+For day 4, October 12, 2020, Started a simple site with just html and css, using some images I took last week or so. <a href="https://codewriting.dev/100daysofcode/day4">here</a>

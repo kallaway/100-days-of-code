@@ -24,3 +24,25 @@ It's certainly not pretty but it works. I added an extra span to display the mul
 **Link(s) to work**
 
 <a href="https://codewriting.dev/100daysofcode/day2">FizzBuzz Counter</a>
+
+### Day 3: Sunday, October 11, 2020
+
+**Today's Progress**: Added some documentation on how the counter works, and why it displays seemingly random text next to multiples of 3 and 5
+
+**Thoughts** 
+I do need to work on making my sites more accessible and with better user experiences, so this is good practice.
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev/100daysofcode/day3">Enhanced FizzBuzz Counter</a>
+
+### Day 4: :Monday, October 12, 2020
+
+**Today's Progress**: Started a site using just html and css and flexbox via Bulma.
+
+**Thoughts** 
+I want to practice some css, including Css grid, but started with Flexbox today.
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev/100daysofcode/day4">Flexbox with Bulma</a>
