@@ -12,7 +12,7 @@
   ##### Thoughts:
     None
  ##### Link to Reference:
-    ()
+    (https://github.com/PriyaShrinithi/Web-Scraping-and-Web-Crawling)
  
  # Day 3: 7th October, 2020
   ##### Today's progress:
@@ -20,7 +20,7 @@
   ##### Thoughts:
     None
   ##### Link to Reference:
-    ()
+    (https://github.com/PriyaShrinithi/Web-Scraping-and-Web-Crawling)
   
  # Day 4: 8th October, 2020
   ##### Today's progress:
