@@ -38,7 +38,7 @@
    ##### Thoughts:
     Although the language is easy, the number of widgets to remember is quite large
    ##### Link to Reference:
-    ()
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
  
  # Day 6: 10th October, 2020
    ##### Today's progress:
@@ -46,4 +46,12 @@
    ##### Thoughts:
     Buttons are a bit confusing
    ##### Link to Reference:
-    ()
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
+
+# Day 7: 11th October, 2020
+   ##### Today's progress:
+    Revised flutter
+   ##### Thoughts:
+    
+   ##### Link to Reference:
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
