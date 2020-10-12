@@ -1281,3 +1281,20 @@ Was able to make portfolio page responsive. Created a `max-width` breakpoint for
 
 **Thoughts** 
 Took a long time looking at collapsible nav menus examples to integrate for project. Was able to find a few good ones [Free Frontend](https://freefrontend.com/css-menu/). 
+
+<hr>
+
+## Day 89: October 11, 2020
+
+**Today's Progress**
+Was able to hide `.sidebar` with media query. Attempted to separate `<Footer />` in *layout.js* in order to have a fixed *Footer* in smaller views. This only resulted in footer not being visible.    
+
+**Thoughts** 
+Need to determine why *`<Footer />` is not visible in full size view when separated in *layout.js*.  
+
+Possible solution:  
+* modify `.sidebar` in `layout.module.scss` to only show footer in smaller size view  
+ * modify footer to be fixed to bottom of screen
+ * modify footer width to be 100%
+
+From here create *Hamburger* menu that will contain nav links. 
