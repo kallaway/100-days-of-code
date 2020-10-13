@@ -14,6 +14,7 @@ https://codewriting.dev/100daysofcode/counter/index.html
 
 <a href="https://codewriting.dev/100daysofcode/counter">Simple Counter</a>
 
+
 ### Day 2: Saturday, October 10, 2020
 
 **Today's Progress**: Today I combined the simple counter with a solution for the FizzBuzz challenge.
@@ -36,7 +37,7 @@ I do need to work on making my sites more accessible and with better user experi
 
 <a href="https://codewriting.dev/100daysofcode/day3">Enhanced FizzBuzz Counter</a>
 
-### Day 4: :Monday, October 12, 2020
+### Day 4: Monday, October 12, 2020
 
 **Today's Progress**: Started a site using just html and css and flexbox via Bulma.
 
@@ -46,3 +47,15 @@ I want to practice some css, including Css grid, but started with Flexbox today.
 **Link(s) to work**
 
 <a href="https://codewriting.dev/100daysofcode/day4">Flexbox with Bulma</a>
+
+### Day 5: Tuesday, October 13, 2020
+
+**Today's Progress**: Found a very simple photo template and added some of my own photos
+
+**Thoughts** 
+I want to have a simple site for my photography.
+
+**Link(s) to work**
+
+<a href="https://aquariusphotographyaz.com">Aquarius Photography</a>
+

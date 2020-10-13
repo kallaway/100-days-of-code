@@ -31,4 +31,8 @@ For day 3, October 11, 2020, based on the suggestion of Sandra, I added some inf
 
 ### R1D4
 
-For day 4, October 12, 2020, Started a simple site with just html and css, using some images I took last week or so. <a href="https://codewriting.dev/100daysofcode/day4">here</a>
+For day 4, October 12, 2020, Started a simple site with just html and css, using some images I took last month. <a href="https://codewriting.dev/100daysofcode/day4">here</a>
+
+### R1D5
+
+For day 5, October 13, 2020, Continued to develop my photography site-to-be. <a href="https://aquariusphotographyaz.com">Aquarius Photography</a>
