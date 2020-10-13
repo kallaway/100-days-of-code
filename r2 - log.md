@@ -55,3 +55,19 @@
     
    ##### Link to Reference:
     (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
+    
+ # Day 8: 12th October, 2020
+   ##### Today's progress:
+    Revised flutter
+   ##### Thoughts:
+    
+   ##### Link to Reference:
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
+    
+  # Day 9: 13th October, 2020
+   ##### Today's progress:
+    Revised html and css
+   ##### Thoughts:
+    
+   ##### Link to Reference:
+    (F:\Study Material\LAB\UI LAB\EXP 2)
