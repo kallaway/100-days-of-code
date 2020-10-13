@@ -1,0 +1,24 @@
+/* colors:
+header #918e89 */
+
+.navbar-menu {
+    color: #FFF;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #918e89;
+    padding: 40px;
+    margin-bottom: 40px;
+}
+
+footer {
+    color: #FFF;
+    text-align: center;
+    font-size: 1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #918e89;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+
+
