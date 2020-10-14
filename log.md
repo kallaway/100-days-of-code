@@ -1310,3 +1310,15 @@ Was able to get a *fixed footer* working on portfolio site. Eventually realized 
 * Need to import `footer.js` into all `pages` 
 * Only show footer in pages for smaller screen size
 * Integrate *Hamburger* menu 
+
+<hr>
+
+## Day 91: October 13, 2020
+
+**Today's Progress**
+Was able to separate footer and match styling of side bar in desktop view. Was able to get footer to be sticky(not fixed) in mobile view. This was achieved by having 2 media query in `footer.module.scss`, one for desktop view and one for mobile view.
+
+**Thoughts**  
+Breakthrough for getting sticky footer to work was not taking a break when timer went off. In the future, if close to solving a problem and time goes off, do not stop. Continue with solving problem to maintain momentum. 
+
+
