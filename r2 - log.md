@@ -64,10 +64,18 @@
    ##### Link to Reference:
     (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
     
-  # Day 9: 13th October, 2020
+ # Day 9: 13th October, 2020
    ##### Today's progress:
     Revised html and css
    ##### Thoughts:
     
    ##### Link to Reference:
     (F:\Study Material\LAB\UI LAB\EXP 2)
+    
+# Day 10: 14th October, 2020
+   ##### Today's progress:
+    Learnt a bit about state management
+   ##### Thoughts:
+    A bit more restless than usual
+   ##### Link to Reference:
+    (F:\Study Material\LAB\MAD LAB\Ptential Mini\notes_app)
