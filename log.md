@@ -59,3 +59,14 @@ I want to have a simple site for my photography.
 
 <a href="https://aquariusphotographyaz.com">Aquarius Photography</a>
 
+### Day 6: Wednesday, October 14, 2020
+
+**Today's Progress**: Re-visited day 3, and added some sounds to the counter
+
+**Thoughts** 
+I figure I should add some annoying sounds to the counter, for audio learners.
+
+**Link(s) to work**
+
+<a href="https://youtu.be/ygYwRFvxi2Q">FizzBuzz on Youtube</a>
+
