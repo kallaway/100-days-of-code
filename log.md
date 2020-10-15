@@ -210,7 +210,7 @@ created a full working form validator component. Adding now the Dom changes acco
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
 
-### Day 23: October 15, 2020 
+### Day 24: October 15, 2020 
 
 **Today's Progress**: Created new React ecommerce app 
 
