@@ -1319,6 +1319,17 @@ Was able to get a *fixed footer* working on portfolio site. Eventually realized 
 Was able to separate footer and match styling of side bar in desktop view. Was able to get footer to be sticky(not fixed) in mobile view. This was achieved by having 2 media query in `footer.module.scss`, one for desktop view and one for mobile view.
 
 **Thoughts**  
-Breakthrough for getting sticky footer to work was not taking a break when timer went off. In the future, if close to solving a problem and time goes off, do not stop. Continue with solving problem to maintain momentum. 
+Breakthrough for getting sticky footer to work was not taking a break when timer went off. In the future, if close to solving a problem and timer goes off, do not stop. Continue with solving problem to maintain momentum. 
+
+<hr>
+
+## Day 92: October 14, 2020
+
+**Today's Progress**
+Was able to get footer to properly be sticky on remaining pages. This was achieved by declaring `min-height: 100vh` for `.content` selector in *layout.module.scss*. 
+In CSS *vh* is equivalent to 1/100 the height of the viewport, for example if the height of the browser is 800px, 1vh would equal 8px.   
+
+**Thoughts**
+Start hamburger menu tomorrow.
 
 
