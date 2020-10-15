@@ -36,3 +36,7 @@ For day 4, October 12, 2020, Started a simple site with just html and css, using
 ### R1D5
 
 For day 5, October 13, 2020, Continued to develop my photography site-to-be. <a href="https://aquariusphotographyaz.com">Aquarius Photography</a>
+
+### R1D6
+
+For day 6, October 14, 2020, I added some fizz and buzz sounds to my counter, and uploaded it to my Learn Code Youtube site.

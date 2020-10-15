@@ -35,20 +35,20 @@ btns.forEach(function (btn) {
             
             document.getElementById("word").innerHTML="FizzBuzz";
             // play sound
-            var audio = new Audio('Fizzle-SoundBible.com-1439537520.mp3');
+            var audio = new Audio('assets/sounds/Fizzle-SoundBible.com-1439537520.mp3');
             audio.play();
-            var audio = new Audio('Buzz Fade Out-SoundBible.com-286120031.mp3');
+            var audio = new Audio('assets/sounds/Buzz Fade Out-SoundBible.com-286120031.mp3');
             audio.play();
             
         } else if (count % 3 === 0) {
             document.getElementById("word").innerHTML="Fizz";
             // play sound
-            var audio = new Audio('Fizzle-SoundBible.com-1439537520.mp3');
+            var audio = new Audio('assets/sounds/Fizzle-SoundBible.com-1439537520.mp3');
             audio.play();
         } else if (count % 5 === 0) {
             document.getElementById("word").innerHTML="Buzz";
             // play sound
-            var audio = new Audio('Buzz Fade Out-SoundBible.com-286120031.mp3');
+            var audio = new Audio('assets/sounds/Buzz Fade Out-SoundBible.com-286120031.mp3');
             audio.play();
         } else {
             document.getElementById("word").innerHTML="";
