@@ -193,3 +193,27 @@ created a full working form validator component. Adding now the Dom changes acco
 **Thoughts**: Working on data storing, and the messages changing according to the submitted inputs
 
 **Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+### Day 22: October 13, 2020 
+
+**Today's Progress**: Created new branch, Server and Frontend
+
+**Thoughts**: Working on Github repositories and creating new branches.
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+### Day 23: October 14, 2020 
+
+**Today's Progress**: Created new React ecommerce app 
+
+**Thoughts**: Building the baseline, with ecommerce theme
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)
+
+### Day 23: October 15, 2020 
+
+**Today's Progress**: Created new React ecommerce app 
+
+**Thoughts**: Working on the homepage 
+
+**Link(s) to work**: [The challenge](https://github.com/SharonTahar/100-days-of-code/tree/mychallenge)

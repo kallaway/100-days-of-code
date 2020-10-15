@@ -120,7 +120,7 @@ class Form4 extends React.Component {
                     >Register</button>
                 </form>
                     <div className="message-container">
-                        <h3 id="message">{ message }}</h3>
+                        <h3 id="message">{ message } </h3>
                     </div>
                     <div className="flex flex-wrap mt-6">
                   <div className="w-1/2">
