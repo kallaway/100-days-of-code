@@ -79,3 +79,20 @@
     A bit more restless than usual
    ##### Link to Reference:
     (F:\Study Material\LAB\MAD LAB\Ptential Mini\notes_app)
+    
+ # Day 11: 15th October, 2020
+   ##### Today's progress:
+    Learnt a bit about inheritance in dart and the basics of Image Recognition
+   ##### Thoughts:
+    A lot to learn and too little time
+   ##### Link to Reference:
+    ()
+  
+  # Day 12: 16th October, 2020
+   ##### Today's progress:
+    Was finetuning Titanic
+   ##### Thoughts:
+    Need to build a flask interface and host it in heroku
+   ##### Link to Reference:
+    (github.com/PriyaShrinithi/Titanic)
+  
