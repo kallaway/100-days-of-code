@@ -1326,10 +1326,18 @@ Breakthrough for getting sticky footer to work was not taking a break when timer
 ## Day 92: October 14, 2020
 
 **Today's Progress**
-Was able to get footer to properly be sticky on remaining pages. This was achieved by declaring `min-height: 100vh` for `.content` selector in *layout.module.scss*. 
+Applied for a local contract dev role.  Was able to get footer to properly be sticky on remaining pages. This was achieved by declaring `min-height: 100vh` for `.content` selector in *layout.module.scss*. 
 In CSS *vh* is equivalent to 1/100 the height of the viewport, for example if the height of the browser is 800px, 1vh would equal 8px.   
 
 **Thoughts**
 Start hamburger menu tomorrow.
+
+<hr>
+
+## Day 93: October 15, 2020
+
+**Today's Progress**
+Applied for another contract dev role directly on company site. Revised resume and scored pretty high on ATS helper. Was also about to markup and style menu icon.
+There still is a bug with footer being sticky to bottom and screen and not page for all pages except portfolio. 
 
 
