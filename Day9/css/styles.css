@@ -1,0 +1,34 @@
+body {
+    font-family: "Poppins", sans-serif;
+  }
+
+  ul {
+    padding-left: 24px;
+  }
+
+  li {
+    margin-bottom: 8px;
+  }
+
+  .welcome {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .welcome-text {
+    margin-top: 30vh;
+    font-weight: 500;
+  }
+
+  .welcome-text p {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .welcome-text h1 {
+    font-size: 1.5rem;
+  }
+
+  .welcome-text a {
+    color: #f7542e;
+  }
