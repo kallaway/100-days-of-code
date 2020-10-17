@@ -96,3 +96,10 @@
    ##### Link to Reference:
     (github.com/PriyaShrinithi/Titanic)
   
+# Day 13: 17th October, 2020
+   ##### Today's progress:
+    Learnt a bit about thresholding in Image Recognition
+   ##### Thoughts:
+    Trouble shooting
+   ##### Link to Reference:
+    ()
