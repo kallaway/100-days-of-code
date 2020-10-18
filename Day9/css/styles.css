@@ -1,34 +1,61 @@
 body {
-    font-family: "Poppins", sans-serif;
-  }
+  font-family: "Poppins", sans-serif;
+}
 
-  ul {
-    padding-left: 24px;
-  }
+figure {
+  display: block;
+  position: relative;
+  margin: 20px 0;
+}
 
-  li {
-    margin-bottom: 8px;
-  }
+.vert {
+  margin: 0px;
+  padding: 0px;
+  width: 20px;
+}
 
-  .welcome {
-    max-width: 800px;
-    margin: 0 auto;
-  }
+.title {
+  font-size: 20px;
+  
+  transform: rotate(90deg);
 
-  .welcome-text {
-    margin-top: 30vh;
-    font-weight: 500;
-  }
 
-  .welcome-text p {
-    font-size: 1rem;
-    font-weight: 400;
-  }
+  /* Legacy vendor prefixes that you probably don't need... */
 
-  .welcome-text h1 {
-    font-size: 1.5rem;
-  }
+  /* Safari */
+  -webkit-transform: rotate(90deg);
 
-  .welcome-text a {
-    color: #f7542e;
-  }
+  /* Firefox */
+  -moz-transform: rotate(90deg);
+
+  /* IE */
+  -ms-transform: rotate(90deg);
+
+  /* Opera */
+  -o-transform: rotate(90deg);
+
+  /* Internet Explorer */
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+.top {
+  margin-top: 40px;
+}
+
+h1 {
+  font-size: 1.75em;
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.who {
+  line-height: inherit;
+}
+
+figure {
+  margin: 10px;
+}
