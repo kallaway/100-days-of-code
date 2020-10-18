@@ -103,3 +103,12 @@
     Trouble shooting
    ##### Link to Reference:
     ()
+    
+# Day 14: 18th October, 2020
+   ##### Today's progress:
+    Studied up a little more on Image Recognition
+   ##### Thoughts:
+    Have a basic Idea on Image Recognition
+   ##### Link to Reference:
+    ()
+
