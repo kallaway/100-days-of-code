@@ -70,3 +70,47 @@ I figure I should add some annoying sounds to the counter, for audio learners.
 
 <a href="https://youtu.be/ygYwRFvxi2Q">FizzBuzz on Youtube</a>
 
+### Day 7: Thursday, October 15, 2020
+
+**Today's Progress**: Re-visited day 3, and added some sounds to the counter
+
+**Thoughts** 
+I figure I should add some annoying sounds to the counter, for audio learners.
+
+**Link(s) to work**
+
+<a href="https://youtu.be/ygYwRFvxi2Q">FizzBuzz on Youtube</a>
+
+### Day 8: Friday, October 16, 2020
+
+**Today's Progress**: Re-visited day 3, and added some sounds to the counter
+
+**Thoughts** 
+I figure I should add some annoying sounds to the counter, for audio learners.
+
+**Link(s) to work**
+
+<a href="https://youtu.be/ygYwRFvxi2Q">FizzBuzz on Youtube</a>
+
+### Day 9: Saturday, October 17, 2020
+
+**Today's Progress**: Re-visited day 3, and added some sounds to the counter
+
+**Thoughts** 
+I figure I should add some annoying sounds to the counter, for audio learners.
+
+**Link(s) to work**
+
+<a href="https://youtu.be/ygYwRFvxi2Q">FizzBuzz on Youtube</a>
+
+### Day 10: Sunday, October 18, 2020
+
+**Today's Progress**: Re-visited day 3, and added some sounds to the counter
+
+**Thoughts** 
+I figure I should add some annoying sounds to the counter, for audio learners.
+
+**Link(s) to work**
+
+<a href="https://youtu.be/ygYwRFvxi2Q">FizzBuzz on Youtube</a>
+
