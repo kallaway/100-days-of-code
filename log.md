@@ -19,12 +19,14 @@
 **Link(s) to work**: [My React Portfolio](http://www.github.com/laurengarelick/react.portfolio)
 
 
-### Day 1: June 27, Monday
+### Day 3: October 18, 2020 
+##### 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Had tutoring with Chad. Went over data types and basic functions. This time it was much much easier to understand and not nearly as overwhelming.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: 
 
-**Link(s) to work**
+**Link(s) to work**: []
+#
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
