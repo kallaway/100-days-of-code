@@ -40,3 +40,24 @@ For day 5, October 13, 2020, Continued to develop my photography site-to-be. <a 
 ### R1D6
 
 For day 6, October 14, 2020, I added some fizz and buzz sounds to my counter, and uploaded it to my Learn Code Youtube site.
+
+### R1D7
+
+For day 7, October 15, 2020, I added some pages to my photography site. <a href="https://aquariusphotographyaz.com">Aquarius Photography</a>
+
+### R1D8
+
+For day 8, October 17, 2020, Completed a DevChallenge today, a simple 404 error page.  <a href="https://codewriting.dev/100daysofcode/day8">404 Error Page</a>
+
+### R1D9
+
+For day 9, October 17, 2020, Started the team page DevChallenge project. <a href="https://codewriting.dev/100daysofcode/day9">Team Page Challenge</a>
+
+### R1D10
+
+For day 10, October 18, 2020, continued team page challenge. <a href="https://codewriting.dev/100daysofcode/day9">Team Page Challenge</a>
+
+### R1D11
+
+For day 11, October 19, 2020, Did some debugging work on the FizzBuzz counter. <a href="https://codewriting.dev/100daysofcode/day3">FizzBuzz Counter</a>
+
