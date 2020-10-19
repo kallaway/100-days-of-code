@@ -72,45 +72,57 @@ I figure I should add some annoying sounds to the counter, for audio learners.
 
 ### Day 7: Thursday, October 15, 2020
 
-**Today's Progress**: Re-visited day 3, and added some sounds to the counter
+**Today's Progress**: Added some pages to my photography site
 
 **Thoughts** 
-I figure I should add some annoying sounds to the counter, for audio learners.
+Not really sure why, but using basic html/css, rather than React
 
 **Link(s) to work**
 
-<a href="https://youtu.be/ygYwRFvxi2Q">FizzBuzz on Youtube</a>
+<a href="https://aquariusphotographyaz.com">Aquarius Photography</a>
 
-### Day 8: Friday, October 16, 2020
+### Day 8: Saturday, October 17, 2020
 
-**Today's Progress**: Re-visited day 3, and added some sounds to the counter
+**Today's Progress**: Completed a DevChallenge today, a simple 404 error page. 
 
 **Thoughts** 
-I figure I should add some annoying sounds to the counter, for audio learners.
+Did the challenge as given, but also added my own take on it with the https status dogs.
 
 **Link(s) to work**
 
-<a href="https://youtu.be/ygYwRFvxi2Q">FizzBuzz on Youtube</a>
+<a href="https://codewriting.dev/100daysofcode/day8/">404 Error Page</a>
 
 ### Day 9: Saturday, October 17, 2020
 
-**Today's Progress**: Re-visited day 3, and added some sounds to the counter
+**Today's Progress**: Started the team page DevChallenge project
 
 **Thoughts** 
-I figure I should add some annoying sounds to the counter, for audio learners.
+Not to bad to start, but can see I will need to research how to rotate text
 
 **Link(s) to work**
 
-<a href="https://youtu.be/ygYwRFvxi2Q">FizzBuzz on Youtube</a>
+<a href="https://codewriting.dev/100daysofcode/day8/">404 Error Page</a>
+
 
 ### Day 10: Sunday, October 18, 2020
 
-**Today's Progress**: Re-visited day 3, and added some sounds to the counter
+**Today's Progress**: Still working on team page challenge
 
 **Thoughts** 
-I figure I should add some annoying sounds to the counter, for audio learners.
+Having issues with getting rotated text to display properly.
 
 **Link(s) to work**
 
-<a href="https://youtu.be/ygYwRFvxi2Q">FizzBuzz on Youtube</a>
+<a href="https://codewriting.dev/day9">Team Page Challenge</a>
+
+### Day 11: Monday, October 19, 2020
+
+**Today's Progress**: Revisited FizzBuzz counter, since it wasn't working for Tasneem.
+
+**Thoughts** 
+I think I fixed the problem. Sound is now working on the server.
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev/day3">FizzBuzz Counter</a>
 
