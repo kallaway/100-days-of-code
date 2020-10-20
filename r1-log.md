@@ -61,3 +61,6 @@ For day 10, October 18, 2020, continued team page challenge. <a href="https://co
 
 For day 11, October 19, 2020, Did some debugging work on the FizzBuzz counter. <a href="https://codewriting.dev/100daysofcode/day3">FizzBuzz Counter</a>
 
+### R1D12
+
+For day 12, October 20, 2020, continued to figure out the layout for the team page challenge. <a href="https://codewriting.dev/100daysofcode/day9">Team Page Challenge</a> 

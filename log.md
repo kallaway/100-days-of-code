@@ -126,3 +126,14 @@ I think I fixed the problem. Sound is now working on the server.
 
 <a href="https://codewriting.dev/day3">FizzBuzz Counter</a>
 
+### Day 12: Tuesday, October 20, 2020
+
+**Today's Progress**: Continue on team page challenge.
+
+**Thoughts** 
+Doing some research on captions on the side of images
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev/day9">Team Page</a>
+
