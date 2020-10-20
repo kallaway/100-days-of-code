@@ -78,7 +78,7 @@
    ##### Thoughts:
     A bit more restless than usual
    ##### Link to Reference:
-    (F:\Study Material\LAB\MAD LAB\Ptential Mini\notes_app)
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
     
  # Day 11: 15th October, 2020
    ##### Today's progress:
@@ -111,4 +111,19 @@
     Have a basic Idea on Image Recognition
    ##### Link to Reference:
     ()
-
+    
+# Day 15: 19th October, 2020
+   ##### Today's progress:
+    Did a basic calculator using android studio and a little bit of flutter
+   ##### Thoughts:
+    Need to learn to debug both
+   ##### Link to Reference:
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
+    
+# Day 16: 20th October,2020
+  ##### Today's progress
+    Got back on the wagon with State Management in Flutter
+  ##### Thoughts:
+    Debugging Troubles
+  ##### Link to References:
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
