@@ -14,9 +14,14 @@ figure {
   width: 20px;
 }
 
+
 .title {
+  margin-top: 105px;
+  margin-left: -80px;
   font-size: 20px;
-  
+  font-weight: 100;
+  height: 10px;
+  width: 200px;
   transform: rotate(90deg);
 
 
@@ -38,8 +43,21 @@ figure {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
 
+.media + .media {
+  border: none;
+}
+
 .top {
   margin-top: 40px;
+}
+
+.column-2 {
+  margin-top: 160px;
+}
+
+figcaption {
+  font-size: 22px;
+  font-weight: 600;
 }
 
 h1 {
@@ -54,8 +72,34 @@ h2 {
 
 .who {
   line-height: inherit;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+.top-image {
+  margin-bottom: 140px;
 }
 
 figure {
   margin: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  figcaption {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .title {
+    font-size: 14px;
+  }
+
+  .figure {
+    margin: 0px;
+  }
+
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
 }
