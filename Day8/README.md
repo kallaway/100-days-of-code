@@ -36,8 +36,8 @@
 
 ## Overview
 
-![challenge screenshot](https://images/404_challenge.jpg)
-![my version](https://images/my_404.jpg)
+![challenge screenshot](images/404_challenge.jpg)
+![my version](images/my_404.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
