@@ -64,3 +64,12 @@ For day 11, October 19, 2020, Did some debugging work on the FizzBuzz counter. <
 ### R1D12
 
 For day 12, October 20, 2020, continued to figure out the layout for the team page challenge. <a href="https://codewriting.dev/100daysofcode/day9">Team Page Challenge</a> 
+
+### R1D13
+
+For day 13, October 21, 2020, did some readme housekeeping, and began the interior design page layout  challenge. <a href="https://codewriting.dev/100daysofcode/day13">Team Page Challenge</a> 
+
+### R1D14
+
+For day 14, October 22, 2020, continued the interior design page layout challenge. <a href="https://codewriting.dev/100daysofcode/day13">Team Page Challenge</a> 
+

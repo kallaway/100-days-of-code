@@ -137,3 +137,25 @@ Doing some research on captions on the side of images
 
 <a href="https://codewriting.dev/day9">Team Page</a>
 
+### Day 13: Wednesday, October 21, 2020
+
+**Today's Progress**: Began Interior Design Page Challenge
+
+**Thoughts** 
+Need to research how to make images round
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev/day13">Interior Design Layout</a>
+
+### Day 14: Thursday, October 22, 2020
+
+**Today's Progress**: Continued Interior Design Page
+
+**Thoughts** 
+Got things looking pretty good for desktop
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev/day13">Interior Design Layout</a>
+
