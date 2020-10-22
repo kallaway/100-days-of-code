@@ -15,7 +15,7 @@ Als je wilt helpen met het bijdragen van een vertaling van de inhoud/regels in d
 ## Als je hebt besloten om deel te nemen:
 
 0.  Bekijk [de officiële site](http://100daysofcode.com/) voor de #100DaysOfCode-beweging. Kom in contact met anderen op het platform naar jouw keuze van deze lijst: www.100DaysOfCode.com/connect
-    Trouwens, [hier](https://join.slack.com/t/100xcode/shared_invite/zt-gaxsv2fp-N8ORl8wxsOF3rHaXgavMLA) is een uitnodigingslink naar het 100DaysOfCode Slackkanaal
+    Trouwens, [hier](https://www.100daysofcode.com/slack) is een uitnodigingslink naar het 100DaysOfCode Slackkanaal
 1.  Lees [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2.  Fork deze repository en commit dagelijks naar [Log](log-nl.md) of naar het alternatieve, snelle R1 Log](r1-log-nl.md) (R1 staat voor Ronde 1). [Voorbeeld](https://github.com/Kallaway/100-days-kallaway-log)
 3.  **Codeer voor minimaal één uur per dag voor de volgende 100 dagen.**

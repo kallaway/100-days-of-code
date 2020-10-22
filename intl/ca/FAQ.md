@@ -2,7 +2,7 @@
   **P:** Com em poso en contacte amb les altres persones que estan duent a terme el repte?
   **R:** La millor manera de connectar és utilitzant la llista de recursos disponible al lloc oficial de 100DaysOfCode:
   www.100DaysOfCode.com/connect
-  Tembé, aquí hi ha [una invitació per al canal de Slack de 100DaysOfCode](https://join.slack.com/t/100xcode/shared_invite/zt-gaxsv2fp-N8ORl8wxsOF3rHaXgavMLA).
+  Tembé, aquí hi ha [una invitació per al canal de Slack de 100DaysOfCode](https://www.100daysofcode.com/slack).
 
   Busca #100DaysOfCode a Twitter, o uneix-te a [la sala 100DaysOfCode a Gitter](https://gitter.im/Kallaway/100DaysOfCode) — no necessites invitació, està obert a qualsevol persona a unir-se. A més, segueix [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) a Twitter i estigues en contacte amb la comunitat.
 

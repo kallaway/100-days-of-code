@@ -2,7 +2,7 @@
   **Q:** Kako stupiti u kontakt s ljudima koji takođe rade ovaj izazov?
   **A:** Najbolji način povezivanja je korištenje popisa resursa dostupnih na službenoj web stranici 100DaysOfCode:
   www.100DaysOfCode.com/connect
-  Takođe, ovde je [pozivnica u 100DaysOfCode Slack kanal](https://join.slack.com/t/100xcode/shared_invite/zt-gaxsv2fp-N8ORl8wxsOF3rHaXgavMLA).
+  Takođe, ovde je [pozivnica u 100DaysOfCode Slack kanal](https://www.100daysofcode.com/slack).
 
   Pretražite #100DaysOfCode na Twitter-u, ili se pridružite [100DaysOfCode sobi na Gitter-u](https://gitter.im/Kallaway/100DaysOfCode) — ne treba vam pozivnica, otvoreno je za sve da se pridruže. Takođe, zapratite [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) na Twitter-u da ostanete u kontaktu sa zajednicom.
 

@@ -2,7 +2,7 @@
   **Q:** Hoe kom ik in contact met andere mensen die ook deze challenge aan het doen zijn?
   **A:** De beste manier is via de lijst van bronnen die beschikbaar is op de officiële 100DaysOfCode-site:
   www.100DaysOfCode.com/connect
-  Hier is ook een [uitnodigingslink naar het 100DaysOfCode Slackkanaal](https://join.slack.com/t/100xcode/shared_invite/zt-gaxsv2fp-N8ORl8wxsOF3rHaXgavMLA).
+  Hier is ook een [uitnodigingslink naar het 100DaysOfCode Slackkanaal](https://www.100daysofcode.com/slack).
 
   Zoek op Twitter naar #100DaysOfCode, of word lid van [de 100DaysOfCode room op Gitter](https://gitter.im/Kallaway/100DaysOfCode) — je hebt geen ivnite nodig, iedereen kan lid worden. Volg ook [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) op Twitter om in contact te blijven met de gemeenschap.
 
