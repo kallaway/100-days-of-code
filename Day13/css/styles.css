@@ -1,5 +1,27 @@
 body {
+    margin: 0 auto;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #FFF;
     background-color: black;
+    
+}
+
+.navbar {
+    width: 100%;
+    background-color: black;
+    margin-bottom: 100px;
+}
+
+h1 {
+    font-size: 1.75em;
+    margin-bottom: 30px;
+}
+
+img {
+    padding: 40px;
+    margin-right: 50px;
+}
+
+footer {
+    text-align: center;
 }
