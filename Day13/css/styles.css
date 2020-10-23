@@ -38,8 +38,12 @@ h1 {
     margin-bottom: 30px;
 }
 
+.description {
+    margin-bottom: 40px;
+}
+
 img {
-    padding: 40px;
+    padding: 10px;
     margin-right: 50px;
 }
 
@@ -49,13 +53,14 @@ img {
     left: 360px;
     width: 55%;
     background-color: black;
-    border: 1px solid #FFF;
+    
 }
 
 .card-img-top {
     height: 35%;
     width: 35%;
-    margin: 10px;
+    margin-bottom: 20px;
+    padding: 40px;
 border-radius: 50%;
 }
 
@@ -71,7 +76,8 @@ border-radius: 50%;
 
 .card-title {
     margin-top: -150px;
-    
+    margin-right: 25px;
+    text-align: center;
 }
 
 .card-text {
