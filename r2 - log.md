@@ -127,3 +127,11 @@
     Debugging Troubles
   ##### Link to References:
     (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
+    
+# Day 17: 23rd October, 2020
+  ##### Today's progress:
+    Attempted a leetcode question
+  ##### Thoughts:
+    Couldn't think properly
+  ##### Link to reference:
+    (https://leetcode.com/problems/132-pattern/submissions/)
