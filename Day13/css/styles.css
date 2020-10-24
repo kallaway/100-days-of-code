@@ -88,3 +88,9 @@ border-radius: 50%;
 footer {
     text-align: center;
 }
+
+/* @media only screen and (max-width: 600px) {
+    body {
+        text-align: left;
+    }
+}  */
