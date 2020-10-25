@@ -17,3 +17,6 @@ Started Section 3 of the C# Unity Developer course, learned about how to make sp
 
 **R1D5 - August 25th, 2019**
 Completed the sprite challenge from section 3. I have been noticing that I have to push myself to keep on advancing on this course. My motivation is at an all time low, I rather be wasting time doing stupid stuff, don't know why this is since making games has always been a dream of mine.
+
+**R1D6 - October 10th, 2020**
+Had to do the Canvas and setup the GameObject for the Choose Your Own Journey project. Have everything up and running, and tidied up a bit the assets of the game into their respective folders.
