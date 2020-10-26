@@ -8,7 +8,9 @@
 * [Πόροι](resources-el.md)
 
 ## Μεταφράσεις
-[español](/intl/es/README.md) – [français](/intl/fr/FAQ-fr.md) – [polski](/intl/pl/README.md) - [русский](/intl/ru/README-ru.md) - [português do Brasil](/intl/pt-br/LEIAME.md) – [deutsch](/intl/de/README.md) – [українська](/intl/ua/README-ua.md) – [한국어](/intl/ko/README-ko.md) – [中文](/intl/ch/README.md) - [ελληνικά](/intl/el/README.md) - [srpski](intl/sr/README-sr.md) – [nederlands](intl/nl/README.md)
+[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [
+Türkçe] (intl/tr/README-ua.md) -  [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)
+
 
 Αν θέλεις να βοηθήσεις προσφέροντας μια μετάφραση του περιεχομένου/των κανόνων σε κάποια γλώσσα που ξέρεις, κάνε ένα pull request (ή στείλε μου ένα προσωπικό μήνυμα στο Twitter @ka11away), προσθέτοντας έναν υπό-φάκελο στον φάκελο « intl » με τα αρχεία που μετέφρασες.
 
