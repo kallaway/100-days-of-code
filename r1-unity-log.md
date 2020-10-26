@@ -20,3 +20,6 @@ Completed the sprite challenge from section 3. I have been noticing that I have 
 
 **R1D6 - October 10th, 2020**
 Had to do the Canvas and setup the GameObject for the Choose Your Own Journey project. Have everything up and running, and tidied up a bit the assets of the game into their respective folders.
+
+**R1D7 - October 11th, 2020**
+Started porting all of the Story Design cards I had online and implemented them on Unity, making a somewhat workable game. Everything is ready to the first path that you would be taking, but now I have realized that I still have to implement Paths two and three, before moving on with the game. Also, I have to translate all of the text that's in Spanish as well as complete the cards with some better worded text.
