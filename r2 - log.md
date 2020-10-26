@@ -135,3 +135,21 @@
     Couldn't think properly
   ##### Link to reference:
     (https://leetcode.com/problems/132-pattern/submissions/)
+
+
+# Day 18: 24th October, 2020
+  ##### Today's progress:
+    Looked up mongodb
+  ##### Thoughts:
+    Installation problems
+  ##### Link to reference:
+    ()
+
+# Day 19: 26th October, 2020
+  ##### Today's progress:
+    Looked up cnn, dl and mongodb
+  ##### Thoughts:
+    Installation problems in mongodb.
+    Got a basic idea on cnn and dl. Need to learn more
+  ##### Link to reference:
+    ()
