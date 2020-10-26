@@ -1,0 +1,96 @@
+body {
+    margin: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #FFF;
+    background-color: black;
+    
+}
+
+.navbar-brand {
+    font-size: 12px;
+    border: 1px solid #FFF;
+    padding: 10px;
+}
+
+.navbar {
+    width: 100%;
+    background-color: black;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
+.navbar-nav {
+    margin-left: 400px;
+    
+}
+
+.nav-item {
+    padding: 10px;
+    margin-right: 70px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 1.75em;
+    margin-bottom: 30px;
+}
+
+.description {
+    margin-bottom: 40px;
+}
+
+img {
+    padding: 10px;
+    margin-right: 50px;
+}
+
+.card {
+    position: relative;
+    top: -120px;
+    left: 360px;
+    width: 55%;
+    background-color: black;
+    
+}
+
+.card-img-top {
+    height: 35%;
+    width: 35%;
+    margin-bottom: 20px;
+    padding: 40px;
+border-radius: 50%;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-body h1 {
+    width: 60%;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.card-title {
+    margin-top: -150px;
+    margin-right: 25px;
+    text-align: center;
+}
+
+.card-text {
+    margin-bottom: 50px;
+    
+}
+
+footer {
+    text-align: center;
+}
+
+/* @media only screen and (max-width: 600px) {
+    body {
+        text-align: left;
+    }
+}  */
