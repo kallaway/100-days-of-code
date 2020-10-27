@@ -17,29 +17,47 @@
 - Font size: 14px */
 body {
     margin: 0 auto;
-    padding: 400px;
     color: #FFF;
     font-family: 'Raleway';
     font-size: 14px;
     text-align: center;
     background: hsl(229, 57%, 11%);
     background-image: url("../images/bg-desktop.png" );
+    
+    background-position-y: center top;
     background-repeat: no-repeat;
-    background-position: center;
 }
 
-.left {
+img {
+    padding: 10px;
+}
+
+
+.icon1, .icon2, .icon3 {
+    margin: 5px;
+    padding: 10px;
+    height: 50px;
+    background: black;
+    border-radius: 10px;
+}
+
+.right {
     background: hsl(229, 57%, 11%);
-    width: 50%;
-    padding: 20px;
+    border-radius: 10px;
+    
     
 }
 
-.icons {
-    display: flex;
-    flex-direction: row;
-    margin: 5px;
-}
+@media only screen and (max-width: 600px) {
+    
+    body {
+        width: 100%;
+    }
+    .left {
+
+        width: 100%;
+    }
+} 
 
 
 
