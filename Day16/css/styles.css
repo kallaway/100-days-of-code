@@ -22,9 +22,9 @@ body {
     font-size: 14px;
     text-align: center;
     background: hsl(229, 57%, 11%);
-    background-image: url("../images/bg-desktop.png" );
+    background-image: url("../images/bg-desktop.png");
     
-    background-position-y: center top;
+    background-position: center top;
     background-repeat: no-repeat;
 }
 
@@ -36,7 +36,7 @@ img {
 .icon1, .icon2, .icon3 {
     margin: 5px;
     padding: 10px;
-    height: 50px;
+    height: 40px;
     background: black;
     border-radius: 10px;
 }
