@@ -153,3 +153,13 @@
     Got a basic idea on cnn and dl. Need to learn more
   ##### Link to reference:
     ()
+
+# Day 20: 27th October, 2020
+  ##### Today's progress:
+    Looked up dl, socket programming in java, tried debugging my notes_app.  
+  ##### Thoughts:
+    Began Logistic Regression
+    Have Troubles with Socket Programming
+    Still haven't debugged the notes app 
+  ##### Link to reference:
+    ()
