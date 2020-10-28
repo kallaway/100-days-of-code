@@ -1,0 +1,6 @@
+function day2(name){
+    console.log(`Hello, ${name}`);
+
+}
+day2("Sherrie");
+day2("Block Chain Engineer");
