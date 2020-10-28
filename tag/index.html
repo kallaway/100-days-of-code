@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="mapDiv" >
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381.4633036189857!2d64.791765315119086!3d35.01!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAzJzI0LjIiTiAzNMKwNDcnMzguMiJF!5e0!3m2!1sen!2sil!4v1601397468473!5m2!1sen!2sil" 
+            width="1400" height="900" frameborder="0" style="border:0;" 
+            allowfullscreen="" aria-hidden="false" tabindex="0">
+        </iframe>
+    </div>
+
+        <!-- Script -->
+        <!-- <script src="script.js"></script> -->
+        <script>
+            var mainMap = document.getElementById('mapDiv'); 
+
+            //Resizing the element to be responsive
+            window.addEventListener('resize', checkBreakPoint);
+
+            function checkBreakPoint() {
+                    //width of viewport
+                    var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+                    var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+                    mainMap.children[0].setAttribute('width', w);
+                    mainMap.children[0].setAttribute('height', h);
+            }
+        </script>
+</body>
+</html>

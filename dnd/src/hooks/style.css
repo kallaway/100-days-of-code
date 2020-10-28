@@ -1,0 +1,100 @@
+html {
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    font-family: system-ui, 'Helevetica Neue', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+  }
+  
+  header {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-bottom: 1px solid black;
+  }
+  
+  header > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header-name {
+    flex: 1;
+  }
+  .header-name input {
+    width: 100%;
+    background: transparent;
+    border: none;
+    text-overflow: ellipsis;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 5px;
+    margin-left: 5px;
+    border-bottom: 1px solid transparent;
+  }
+  .header-name input:hover, .header-name input:focus {
+    border-bottom: 1px solid gray;
+    outline: none;
+  }
+  .header-name input:not(:focus) {
+    cursor: pointer;
+  }
+  
+  .header-coords {
+    user-select: none;
+  }
+  .coord-label {
+    text-transform: uppercase;
+    font-size: 0.5rem;
+    margin-left: 10px;
+  }
+  
+  .button-refresh-colors {
+    border: 0;
+    background: none;
+    cursor: pointer;
+    font-size: 2rem;
+  }
+  
+  .color-picker {
+    border: none;
+    padding: 0;
+  }
+  .color-picker input {
+    opacity: 0;
+    position: absolute;
+  }
+  .color-picker span {
+    content: '';
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: 5px 15px;
+    border: 2px solid black;
+    transition: 0.3s;
+  }
+  .color-picker label {
+    cursor: pointer;
+  }
+  .color-picker label:hover span {
+    transform: rotate(45deg);
+  }
+  .color-picker input:checked + span {
+    transform: scale(1.5);
+  }
+  
+  canvas {
+    flex: 1;
+    overflow: hidden;
+    cursor: crosshair;
+  }
+  
