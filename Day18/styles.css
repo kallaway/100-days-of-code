@@ -156,14 +156,14 @@ main {
 Nav
 ===============
 */
-nav {
+navbar {
   background: var(--clr-white);
   height: 3rem;
   display: grid;
   align-items: center;
   box-shadow: var(--dark-shadow);
 }
-.nav-center {
+.center-nav {
   width: 90vw;
   max-width: var(--fixed-width);
   margin: 0 auto;
@@ -171,14 +171,14 @@ nav {
   align-items: center;
   justify-content: space-between;
 }
-.nav-center h4 {
+.center-nav h4 {
   margin-bottom: 0;
   color: var(--clr-primary-5);
 }
-.nav-links {
+.nav-items {
   display: flex;
 }
-nav a {
+navbar a {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 1rem;
@@ -186,7 +186,7 @@ nav a {
   letter-spacing: var(--spacing);
   margin-right: 1rem;
 }
-nav a:hover {
+navbar a:hover {
   color: var(--clr-primary-5);
 }
 /*
@@ -212,7 +212,7 @@ main {
 .color {
   color: var(--clr-primary-5);
 }
-.btn-hero {
+.btn-flip {
   font-family: var(--ff-primary);
   text-transform: uppercase;
   background: transparent;
@@ -228,7 +228,7 @@ main {
   font-size: 1rem;
   padding: 0.75rem 1.25rem;
 }
-.btn-hero:hover {
+.btn-flip:hover {
   color: var(--clr-white);
   background: var(--clr-black);
 }
