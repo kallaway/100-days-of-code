@@ -162,4 +162,13 @@
     Have Troubles with Socket Programming
     Still haven't debugged the notes app 
   ##### Link to reference:
-    ()
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
+
+# Day 21: 28th October, 2020
+  ##### Today's progress:
+    Looked up dl, finished debugging my notes_app.  
+  ##### Thoughts:
+    Week2 lectures
+    Need to lean about setState and why the function was empty inside
+  ##### Link to reference:
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
