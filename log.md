@@ -9,13 +9,21 @@ responsive web design challenge.
 **Link to work:**
 [Today's PR](https://github.com/newwebash/fcc-tribute-page/pull/5)
 
-### Day X:
+### Day 2: October 28, 2020
 
-**Today's Progress**:
+**Today's Progress**: Applied more styles to Michelle Obama tribute page, also
+fixed some typos. I copied the code into a Codepen and linked to it from my
+repo's readme.
 
-**Thoughts**:
+**Thoughts**: This is really fun! This first coding challenge is pretty simple
+though. Actually, I considered adding more flourishes to the site but thought
+it just didn't fit the challenge brief.
 
 **Link(s) to work**:
+
+1. [Updated readme](https://github.com/newwebash/fcc-tribute-page)
+2. [PR 7](https://github.com/newwebash/fcc-tribute-page/pull/7) and [PR 5](https://github.com/newwebash/fcc-tribute-page/pull/5)
+3. [Live site on Codepen](https://codepen.io/NewWebAsh/pen/MWerNqq)
 
 
 ### Day X:
