@@ -172,3 +172,12 @@
     Need to lean about setState and why the function was empty inside
   ##### Link to reference:
     (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
+
+# Day 22: 29th October, 2020
+  ##### Today's progress:
+    Looked up dl, began database part of my notes_app.  
+  ##### Thoughts:
+    Week2 lectures
+    Need to learn basics of sqlite
+  ##### Link to reference:
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
