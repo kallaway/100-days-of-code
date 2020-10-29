@@ -26,6 +26,33 @@ it just didn't fit the challenge brief.
 3. [Live site on Codepen](https://codepen.io/NewWebAsh/pen/MWerNqq)
 
 
+### Day 3: October 29, 2020
+
+**Today's Progress**: Started working on the Survey Form challenge.
+
+**Thoughts**: It's been awhile since I last created an HTML form. It's like
+riding a bike - I just have to glance at the documentation for a refresher on
+things, but it's all coming back.
+
+**Link(s) to work**
+1. [Source code in new repo](https://github.com/newwebash/fcc-survey-form)
+
+**Screenshot**
+
+Here's where I left off today:
+
+<img src="images/fcc-survey-form-29Oct20.PNG" alt="screenshot of survey site">
+
+
+### Day X:
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+
 ### Day X:
 
 **Today's Progress**:
