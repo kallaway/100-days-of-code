@@ -44,13 +44,22 @@ Here's where I left off today:
 <img src="images/fcc-survey-form-29Oct20.PNG" alt="screenshot of survey site">
 
 
-### Day X:
+### Day 4: October 30, 2020
 
-**Today's Progress**:
+**Today's Progress**: Finished the user stories in FCC's
+[Responsive Web Design Projects - Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
-**Thoughts**
+**Thoughts** Today was slower than previous days. I got stuck on
+trying to style the checkboxes in my form. I found some advice on the w3schools
+site, as well as on Stack Overflow, but wasn't able to successfully style the
+checkboxes as I had wanted to.
 
-**Link(s) to work**
+I also asked in FCC Discord and the person who
+responded reaffirmed that these are notoriously difficult to manage with CSS.
+
+So after awhile I moved on without applying the styles I had wanted.
+
+**Link(s) to work**: https://github.com/newwebash/fcc-survey-form/pull/3
 
 
 ### Day X:
