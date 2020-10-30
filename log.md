@@ -159,3 +159,70 @@ Got things looking pretty good for desktop
 
 <a href="https://codewriting.dev/day13">Interior Design Layout</a>
 
+
+### Day 15: Friday, October 23, 2020
+
+**Today's Progress**: Added CSS reset code to fix browser display issues
+
+**Thoughts** 
+Got things looking pretty good for desktop
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev/day13">Interior Design Layout</a>
+
+### Day 16: Monday, October 26, 2020
+
+**Today's Progress**: Downloaded and setup Fylo data storage component project from Front End Mentor
+
+**Thoughts** 
+It looks simple enough. Haha
+
+**Link(s) to work**
+
+<a href="https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n">Data Storage Component</a>
+
+### Day 17: Tuesday, October 27, 2020
+
+**Today's Progress**: Having some issues getting things to align properly.
+
+**Thoughts** 
+Much more challenging than I originally thought.
+
+**Link(s) to work**
+
+<a href="https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n">Data Storage Component</a>
+
+### Day 18: Wednesday, October 28, 2020
+
+**Today's Progress**: Started color flipper project from 15 vanilla javascript projects.
+
+**Thoughts** 
+Used the MCC (Milk, Cookies, and Code) pattern. :)
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev/100daysofcode/day18">Color Flipper</a>
+
+### Day 19: Thursday, October 29, 2020
+
+**Today's Progress**: Completed the color flipper, complete with basic and hex color codes
+
+**Thoughts** 
+Good review of random number generation
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev/100daysofcode/day18">Color Flipper</a>
+
+### Day 20: Fridday, October 30, 2020
+
+**Today's Progress**: Updated readme files, and started to fix hideous homepage for codewriting.dev
+
+**Thoughts** 
+The home page for my codewriting site is horrible.
+
+**Link(s) to work**
+
+<a href="https://codewriting.dev">Code Writing</a>
+
