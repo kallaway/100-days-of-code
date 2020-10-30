@@ -181,3 +181,11 @@
     Need to learn basics of sqlite
   ##### Link to reference:
     (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
+
+# Day 23: 30th October, 2020
+  ##### Today's progress:
+    Continued database part of my notes_app.  
+  ##### Thoughts:
+    Need to learn basics of sqlite
+  ##### Link to reference:
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
