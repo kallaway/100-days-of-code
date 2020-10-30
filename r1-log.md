@@ -71,5 +71,29 @@ For day 13, October 21, 2020, did some readme housekeeping, and began the interi
 
 ### R1D14
 
-For day 14, October 22, 2020, continued the interior design page layout challenge. <a href="https://codewriting.dev/100daysofcode/day13">Team Page Challenge</a> 
+For day 14, October 22, 2020, continued the interior design page layout challenge. <a href="https://codewriting.dev/100daysofcode/day13">Interior Design Challenge</a> 
+
+### R1D15
+
+For day 14, October 23, 2020, continued the interior design page layout challenge. <a href="https://codewriting.dev/100daysofcode/day13">Interior Design Challenge</a>
+
+### R1D16
+
+For day 16, October 26, 2020, Began the Fylo data storage component challenge from Front End Mentor. <a href="https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n">Fylo Data Storage Component</a>
+
+### R1D17
+
+For day 17, October 27, 2020, continued work on the data storage component layout. <a href="https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n">Fylo Data Storage Component</a>
+
+### R1D18
+
+For day 18, October 28, 2020, started the color flipper project. <a href="https://codewriting.dev/100daysofcode/day18">Color Flipper</a>
+
+### R1D19
+
+For day 19, October 29, 2020, finished the color flipper with basic and hex colors. <a href="https://codewriting.dev/100daysofcode/day18">Color Flipper</a>
+
+### R1D20
+
+For day 20, October 30, 2020, updated my readme files. 
 
