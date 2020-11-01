@@ -71,10 +71,33 @@ any code.
 **Thoughts**: I've used this stuff before but it's been awhile, so it's good
 to review. I think that layout is the toughest part about CSS, in my experience.
 
+
+### Day 6: November 1, 2020
+
+**Today's Progress**: Adjusted survey form layout using CSS grid but it looks
+pretty buggy and needs more work.
+
+**Thoughts**: On the one hand, I'm a little frustrated that CSS layouts are so
+hard to get right, but glad that I'm focusing my attention here so I can level
+up.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-survey-form/pull/5)
+
+
 ### Day X:
 
 **Today's Progress**:
 
-**Thoughts**
+**Thoughts**:
 
-**Link(s) to work**
+**Link(s) to work**:
+
+
+
+### Day X:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
