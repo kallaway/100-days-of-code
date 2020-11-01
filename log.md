@@ -44,11 +44,14 @@ Here's where I left off today:
 <img src="images/fcc-survey-form-29Oct20.PNG" alt="screenshot of survey site">
 
 
-### Day X:
+### Day 5: October 31, 2020
 
-**Today's Progress**:
+**Today's Progress**: Went through FreeCodeCamp lessons on CSS Flexbox and CSS
+grid. I experimented with applying the material to my site but didn't merge 
+any code.
 
-**Thoughts**
+**Thoughts**: I've used this stuff before but it's been awhile, so it's good
+to review. I think that layout is the toughest part about CSS, in my experience.
 
 **Link(s) to work**
 
