@@ -197,3 +197,15 @@
     Learnt basics of sqlite
   ##### Link to reference:
     (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
+
+# Day 25: 1st November, 2020
+  ##### Today's progress:
+    Finished what I intended of my notes_app.
+    About to finish week 2 of dl course in coursera
+  ##### Thoughts:
+    Learned about multiline keyboard in flutter
+    Have a basic math understanding of logistic regression and backward propogration
+    
+  ##### Link to reference:
+    (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
+    (https://www.coursera.org/learn/neural-networks-deep-learning/ungradedLab/PBeOH/lab)
