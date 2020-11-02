@@ -84,14 +84,23 @@ up.
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-survey-form/pull/5)
 
 
-### Day X:
+### Day 7: November 2, 2020
 
-**Today's Progress**:
+**Today's Progress**: Made lots of progress on adjusting layout using a combo
+of CSS grid and flexbox! I'm pretty much done with this challenge. I just need
+to make some adjustments to my HTML markup before I can submit it.
 
-**Thoughts**:
+**Thoughts**: This was fun! I'm glad I was able to overcome the layout challenges
+I encountered after some more effort!
 
 **Link(s) to work**:
+1. [Source code in CodePen](https://codepen.io/NewWebAsh/pen/GRqdweX)
 
+**Screenshot**
+
+Here's the finished layout on a large screen:
+
+<img src="images/fcc-survey-form-2Nov20.PNG" alt="screenshot of survey site">
 
 
 ### Day X:
