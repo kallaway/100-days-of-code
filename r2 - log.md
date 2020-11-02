@@ -209,3 +209,13 @@
   ##### Link to reference:
     (F:\Study Material\LAB\MAD LAB\Potential Mini\notes_app)
     (https://www.coursera.org/learn/neural-networks-deep-learning/ungradedLab/PBeOH/lab)
+    
+# Day 26: 2nd November, 2020
+  ##### Today's progress:
+    Finished week 2 of dl course in coursera
+    Created a student collection in mongodb
+  ##### Thoughts:
+    Have a basic math understanding of logistic regression and backward propogration
+    Can thus insert documents into a collection and also create an auto incrementing '_id' field
+  ##### Link to reference:
+    (https://www.coursera.org/learn/neural-networks-deep-learning/ungradedLab/63Vsy/lab)
