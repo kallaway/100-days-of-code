@@ -103,6 +103,24 @@ Here's the finished layout on a large screen:
 <img src="images/fcc-survey-form-2Nov20.PNG" alt="screenshot of survey site">
 
 
+### Day 8:
+
+**Today's Progress**: I made a few last changes to my survey form to be able
+to pass the automated tests by FCC. The only noticeable user-facing change
+is that the last input field is now a `<textarea>` instead of `<input>`.
+
+I also started working on the next FCC Code challenge to create a [product
+landing page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page).
+
+**Thoughts**: Since this challenge includes using a few different images as
+well as a video, there's some risk of getting sidetracked. For example, I
+spent maybe 10 minutes creating a logo for a fictional business.
+
+I'm also not feeling 100% today, so I feel a little slow getting things going.
+
+**Link(s) to work**: First commit to new repo: https://github.com/newwebash/fcc-product-landing-page/commit/41df22410e9d22381b1ee710e3451653c28f7019
+
+
 ### Day X:
 
 **Today's Progress**:
