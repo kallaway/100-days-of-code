@@ -16,17 +16,27 @@
 - Weights: 400, 700
 - Font size: 14px */
 body {
-    margin: 0 auto;
+   
     color: #FFF;
     font-family: 'Raleway';
     font-size: 14px;
     text-align: center;
     background: hsl(229, 57%, 11%);
     background-image: url("../images/bg-desktop.png");
-    
     background-position: center top;
     background-repeat: no-repeat;
 }
+
+.row {
+    margin-top: 300px;
+}
+
+.col-left {
+    display: flex;
+    background-color: hsl(229, 57%, 11%);
+}
+
+
 
 img {
     padding: 10px;
@@ -41,8 +51,8 @@ img {
     border-radius: 10px;
 }
 
-.right {
-    background: hsl(229, 57%, 11%);
+.col-right {
+    background-color: hsl(228, 56%, 26%);
     border-radius: 10px;
     
     
