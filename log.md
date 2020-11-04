@@ -215,7 +215,7 @@ Good review of random number generation
 
 <a href="https://codewriting.dev/100daysofcode/day18">Color Flipper</a>
 
-### Day 20: Fridday, October 30, 2020
+### Day 20: Friday, October 30, 2020
 
 **Today's Progress**: Updated readme files, and started to fix hideous homepage for codewriting.dev
 
@@ -225,4 +225,26 @@ The home page for my codewriting site is horrible.
 **Link(s) to work**
 
 <a href="https://codewriting.dev">Code Writing</a>
+
+### Day 21: Tuesday, November 3, 2020
+
+**Today's Progress**: Revisited Fylo component css challenge.
+
+**Thoughts** 
+Was not in the right head space today. 
+
+**Link(s) to work**
+
+<a href="#">No Link</a>
+
+### Day 22: Wednesda, November 4, 2020
+
+**Today's Progress**: Start 100 days of Python Udemy Course, and update readme files
+
+**Thoughts** 
+This will give me ideas of things to create, while I'm learning Python
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day22">Day 22</a>
 
