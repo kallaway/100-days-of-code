@@ -219,3 +219,11 @@
     Can thus insert documents into a collection and also create an auto incrementing '_id' field
   ##### Link to reference:
     (https://www.coursera.org/learn/neural-networks-deep-learning/ungradedLab/63Vsy/lab)
+
+# Day 27: 4th November, 2020
+  ##### Today's progress:
+    Started a tiny image recognition problem statement
+  ##### Thoughts:
+    Need to finish it quick to understand the flow of execution again
+  ##### Link to reference:
+    (F:\Know_I\multiclass_test\cat or dog.ipynb)
