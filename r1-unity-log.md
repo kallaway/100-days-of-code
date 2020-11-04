@@ -23,3 +23,6 @@ Had to do the Canvas and setup the GameObject for the Choose Your Own Journey pr
 
 **R1D7 - October 11th, 2020**
 Started porting all of the Story Design cards I had online and implemented them on Unity, making a somewhat workable game. Everything is ready to the first path that you would be taking, but now I have realized that I still have to implement Paths two and three, before moving on with the game. Also, I have to translate all of the text that's in Spanish as well as complete the cards with some better worded text.
+
+**R1D8 - November 3rd, 2020**
+I don't really remember when was the last time I worked in Unity, but I know I have been working on it for several days. I managed to finish with my Story Design, translated all the text that was in Spanish, and replaced all the dummy text with proper dialogue and options. Added all the options for each one of the clues, and completed three different endings for the game. Tried adding some choices that were optional and appeared depending on other choices, but the game seemed to break down when I implemented that, so I scratched it for now. Now I want to implement the capacity of using different items and have that influence how the game is played.
