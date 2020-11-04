@@ -121,6 +121,20 @@ I'm also not feeling 100% today, so I feel a little slow getting things going.
 **Link(s) to work**: First commit to new repo: https://github.com/newwebash/fcc-product-landing-page/commit/41df22410e9d22381b1ee710e3451653c28f7019
 
 
+### Day 9:
+
+**Today's Progress**: Finished adding minimum required html elements to landing
+page and also started adding CSS.
+
+**Thoughts**: CSS can be so finicky and frustrating sometimes! I'm also trying
+to think of ways I can work more quickly. However, I also see value in taking my
+time with these basic front-end projects so I can use them as building blocks
+for future projects.
+
+**Link(s) to work**: Today's [latest PR](https://github.com/newwebash/fcc-product-landing-page/commit/7d40df14f5dffea1deaeb84b1847fc854dd906c8)
+
+
+
 ### Day X:
 
 **Today's Progress**:
