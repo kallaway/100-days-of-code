@@ -97,3 +97,11 @@ For day 19, October 29, 2020, finished the color flipper with basic and hex colo
 
 For day 20, October 30, 2020, updated my readme files. 
 
+### R1D21
+
+For day 21, revisited fylo css challenge, but wasn't feeling it.
+
+## R1D22
+
+For day 22, started 100 days of Python Udemy Course, updated readme files
+
