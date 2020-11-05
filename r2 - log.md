@@ -229,7 +229,7 @@
     (F:\Know_I\multiclass_test\cat or dog.ipynb)
     
     
-# Day 2: 5th November, 2020
+# Day 28: 5th November, 2020
   ##### Today's progress:
     Continued with the tiny image recognition problem statement
   ##### Thoughts:
