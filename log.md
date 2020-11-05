@@ -134,6 +134,18 @@ for future projects.
 **Link(s) to work**: Today's [latest PR](https://github.com/newwebash/fcc-product-landing-page/commit/7d40df14f5dffea1deaeb84b1847fc854dd906c8)
 
 
+### Day 10:
+
+**Today's Progress**: Was able to fix some spacing issues in the site for
+mobile, and made lots of progress on the nav bar for mobile.
+
+<img src="images/fcc-product-landing-page-5Nov20.PNG" alt="screenshot of mobile site styles">
+
+**Thoughts**: Although I felt frustrated yesterday, I got a rush from making
+so much progress today!
+
+**Link(s) to work**: Today's [latest commit](https://github.com/newwebash/fcc-product-landing-page/commit/b3b6ad4e8ba03152d686fba2348bfdd5fc46775b)
+
 
 ### Day X:
 
