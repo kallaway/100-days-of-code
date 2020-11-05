@@ -237,7 +237,7 @@ Was not in the right head space today.
 
 <a href="#">No Link</a>
 
-### Day 22: Wednesda, November 4, 2020
+### Day 22: Wednesday, November 4, 2020
 
 **Today's Progress**: Start 100 days of Python Udemy Course, and update readme files
 
@@ -247,4 +247,15 @@ This will give me ideas of things to create, while I'm learning Python
 **Link(s) to work**
 
 <a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day22">Day 22</a>
+
+### Day 23: Thursday, November 5, 2020
+
+**Today's Progress**: pushed remaining exercises for day 22, and completed day 2 Python course
+
+**Thoughts** 
+I missed some of the files from yesterday, so had to revisit them before completing day 2; oh, the horror of being forced to have more fun!
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day23">Day 23</a>
 
