@@ -99,9 +99,13 @@ For day 20, October 30, 2020, updated my readme files.
 
 ### R1D21
 
-For day 21, revisited fylo css challenge, but wasn't feeling it.
+For day 21, November 3, 2020; revisited fylo css challenge, but wasn't feeling it.
 
 ## R1D22
 
-For day 22, started 100 days of Python Udemy Course, updated readme files
+Coder's log, November 4, 2020; started 100 days of Python Udemy Course, updated readme files
+
+## R1D23
+
+Coder's log, day 23, November 5, 2020; pushed remaining code for day22, and completed day 2 of Python course
 
