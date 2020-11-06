@@ -147,6 +147,20 @@ so much progress today!
 **Link(s) to work**: Today's [latest commit](https://github.com/newwebash/fcc-product-landing-page/commit/b3b6ad4e8ba03152d686fba2348bfdd5fc46775b)
 
 
+### Day 11:
+
+**Today's Progress**: I more or less finalized the header nav on mobile, then
+moved on to format the intro section and am starting to work on the "Our Classes"
+section.
+
+**Thoughts**: Same as in previous days, I fluctuate between being frustrated
+with CSS layouts and then feeling very rewarded once I get it working the
+way I want, and it looks great!
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/4)
+
+
+
 ### Day X:
 
 **Today's Progress**:
