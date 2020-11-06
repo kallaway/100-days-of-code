@@ -7,11 +7,11 @@ Aynı zamanda burada, [Slack 100DaysOfCode kanalına davetiye](https://www.100da
 
 Search for #100DaysOfCode on Twitter, or join [the 100DaysOfCode room on Gitter](https://gitter.im/Kallaway/100DaysOfCode) — you don’t need an invite, it’s open for anyone to join. Also, follow [@\_100DaysOfCode](https://twitter.com/_100DaysOfCode) on Twitter to stay in touch with the community.
 
-** S: ** Yarışmaya zaten başladım ve şu anda 8. Gündeyim. İlerlememi takip etmek için bu depoyu kullanmaya nasıl başlayabilirim?
-** A: ** Merak etmeyin. Önceki günlere ait bilgileri yukleyebildiginiz kadar yuklemeye calisin, ancak yapamazsanız, şu andaki ilerlemenizden devam edin. Her gün ilerlemeniz hakkında tweet atıyorsanız, tweet'lerinizin bağlantılarını her gün için günlüğe ekleyin. Sonraki gunler icin bu formati takip edin.
+**S:** Yarışmaya zaten başladım ve şu anda 8. Gündeyim. İlerlememi takip etmek için bu depoyu kullanmaya nasıl başlayabilirim?
+**A:** Merak etmeyin. Önceki günlere ait bilgileri yukleyebildiginiz kadar yuklemeye calisin, ancak yapamazsanız, şu andaki ilerlemenizden devam edin. Her gün ilerlemeniz hakkında tweet atıyorsanız, tweet'lerinizin bağlantılarını her gün için günlüğe ekleyin. Sonraki gunler icin bu formati takip edin.
 
-**Q:** I am new to coding (or just deciding to learn to code) and can’t build projects yet, what should I do?
-**A:** The best way to start would be to follow the [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.com/) from the very beginning. The further you get during the 100 days, the better.
+**S:** Kodlamada yeniyim (veya sadece kodlamayı öğrenmeye karar veriyorum) ve henüz proje oluşturamıyorum, ne yapmalıyım?
+**C:** Başlamanın en iyi yolu, [FreeCodeCamp’ın Ön Uç Müfredatını] (https://www.freecodecamp.com/) en başından takip etmektir. 100 gün boyunca ne kadar uzağa giderseniz o kadar iyidir.
 
 **Q:** I’ve missed a day, does it mean I’ve failed the challenge?
 **A:** Absolutely not. You are allowed to miss one day (then make it up by adding one more day to the end of the 100), but never miss two days in a row. This is a great piece of advice on habit formation that I got from Leo Babauta at zen habits.
