@@ -236,3 +236,11 @@
     Need to finish it quick to understand the flow of execution again
   ##### Link to reference:
     (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
+    
+# Day 29: 6th November, 2020
+  ##### Today's progress:
+    Did a bit of android programming
+  ##### Thoughts:
+    Learnt about context and toast and learnt to build an apk for flutter
+  ##### Link to reference:
+    (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
