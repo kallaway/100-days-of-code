@@ -31,4 +31,4 @@ I don't really remember when was the last time I worked in Unity, but I know I h
 I have been learning and working on improving the overall look of my Text based game. I finally did it and I'm pretty happy with the overall look it has right now. I am thinking of changing it and making it look different, but for now I am more focused on advancing the course. I have also been working with a friend in doing a sort of "pair" project, where I'm helping him with some aspects of his game, while I can also ask him questions about things that I don't know about Unity that he does. I have seen some projects that other people have posted on the forum for the course, and that got me really inspired into what aspects of the game I can improve on, and how far I can push it.
 
 **R1D10 - November 7th, 2020**
-Simplified nextState selection code.
+Simplified nextState selection code. Also gave a few finishing touches to the game and published it. You can play it at: https://sharemygame.com/@ColdDog/monster-hunting-feast please keep in mind that it's my first game. But any feedback or suggestions are welcome.
