@@ -160,6 +160,16 @@ way I want, and it looks great!
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/4)
 
 
+### Day 12:
+
+**Today's Progress**: Finished the basic layout for small mobile screens. There's
+a bit more styling to do to smooth out the rough edges, but it's pretty good
+as of now!
+
+**Thoughts**: It's so exciting to see things coming together!
+
+**Link(s) to work**: Day's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/6)
+
 
 ### Day X:
 
