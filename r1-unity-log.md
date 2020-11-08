@@ -26,3 +26,9 @@ Started porting all of the Story Design cards I had online and implemented them 
 
 **R1D8 - November 3rd, 2020**
 I don't really remember when was the last time I worked in Unity, but I know I have been working on it for several days. I managed to finish with my Story Design, translated all the text that was in Spanish, and replaced all the dummy text with proper dialogue and options. Added all the options for each one of the clues, and completed three different endings for the game. Tried adding some choices that were optional and appeared depending on other choices, but the game seemed to break down when I implemented that, so I scratched it for now. Now I want to implement the capacity of using different items and have that influence how the game is played.
+
+**R1D9 & 10 - November 4th-5th, 2020**
+I have been learning and working on improving the overall look of my Text based game. I finally did it and I'm pretty happy with the overall look it has right now. I am thinking of changing it and making it look different, but for now I am more focused on advancing the course. I have also been working with a friend in doing a sort of "pair" project, where I'm helping him with some aspects of his game, while I can also ask him questions about things that I don't know about Unity that he does. I have seen some projects that other people have posted on the forum for the course, and that got me really inspired into what aspects of the game I can improve on, and how far I can push it.
+
+**R1D10 - November 7th, 2020**
+Simplified nextState selection code.
