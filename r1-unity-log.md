@@ -32,3 +32,6 @@ I have been learning and working on improving the overall look of my Text based 
 
 **R1D10 - November 7th, 2020**
 Simplified nextState selection code. Also gave a few finishing touches to the game and published it. You can play it at: https://sharemygame.com/@ColdDog/monster-hunting-feast please keep in mind that it's my first game. But any feedback or suggestions are welcome.
+
+**R1D11 - November 8th, 2020**
+Not much done today. Just set up github to work with my Unity project in preparation to start the NumberWizard project of the Unity course.
