@@ -184,6 +184,24 @@ a break, clear my head, and hopefully see it with a fresh set of eyes tomorrow m
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/7)
 
 
+### Day 14: November 9, 2020
+
+**Today's Progress**: Made progress on adjusting layout for mid-size screen.
+First I started working with CSS grid but scrapped that in favor of flexbox.
+
+I'd like to keep working on this more but have to stop since I've got a busy
+morning!
+
+Screenshot of section that went well today:
+
+<img src="images/fcc-product-landing-page-9Nov20.PNG" alt="screenshot of mobile site styles">
+
+**Thoughts**: Again, it feels like two steps forward and one step back. Still,
+I'm happy with the net one step made forward!
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/7)
+
+
 ### Day X:
 
 **Today's Progress**:
