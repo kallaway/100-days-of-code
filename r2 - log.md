@@ -244,3 +244,11 @@
     Learnt about context and toast and learnt to build an apk for flutter
   ##### Link to reference:
     (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
+    
+# Day 30: 7th November, 2020
+  ##### Today's progress:
+    Finished Image Recognition on cats and dogs
+  ##### Thoughts:
+    Have a clear Idea aboutn the flow
+  ##### Link to reference:
+    (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
