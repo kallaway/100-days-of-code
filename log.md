@@ -103,7 +103,7 @@ Here's the finished layout on a large screen:
 <img src="images/fcc-survey-form-2Nov20.PNG" alt="screenshot of survey site">
 
 
-### Day 8:
+### Day 8: November 3, 2020
 
 **Today's Progress**: I made a few last changes to my survey form to be able
 to pass the automated tests by FCC. The only noticeable user-facing change
@@ -121,7 +121,7 @@ I'm also not feeling 100% today, so I feel a little slow getting things going.
 **Link(s) to work**: First commit to new repo: https://github.com/newwebash/fcc-product-landing-page/commit/41df22410e9d22381b1ee710e3451653c28f7019
 
 
-### Day 9:
+### Day 9: November 4, 2020
 
 **Today's Progress**: Finished adding minimum required html elements to landing
 page and also started adding CSS.
@@ -134,7 +134,7 @@ for future projects.
 **Link(s) to work**: Today's [latest PR](https://github.com/newwebash/fcc-product-landing-page/commit/7d40df14f5dffea1deaeb84b1847fc854dd906c8)
 
 
-### Day 10:
+### Day 10: November 5, 2020
 
 **Today's Progress**: Was able to fix some spacing issues in the site for
 mobile, and made lots of progress on the nav bar for mobile.
@@ -147,7 +147,7 @@ so much progress today!
 **Link(s) to work**: Today's [latest commit](https://github.com/newwebash/fcc-product-landing-page/commit/b3b6ad4e8ba03152d686fba2348bfdd5fc46775b)
 
 
-### Day 11:
+### Day 11: November 6, 2020
 
 **Today's Progress**: I more or less finalized the header nav on mobile, then
 moved on to format the intro section and am starting to work on the "Our Classes"
@@ -160,7 +160,7 @@ way I want, and it looks great!
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/4)
 
 
-### Day 12:
+### Day 12: November 7, 2020
 
 **Today's Progress**: Finished the basic layout for small mobile screens. There's
 a bit more styling to do to smooth out the rough edges, but it's pretty good
@@ -169,6 +169,19 @@ as of now!
 **Thoughts**: It's so exciting to see things coming together!
 
 **Link(s) to work**: Day's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/6)
+
+
+### Day 13: November 8, 2020
+
+**Today's Progress**: Made a few minor adjustments to small mobile styles and
+started working on layout for mid-size screens.
+
+**Thoughts**: It felt like I spent lots of time working with CSS and getting
+nowhere. The site was just super finicky and broken on a larger screen and
+every adjustment I made had unintended effects. I decided after awhile to take
+a break, clear my head, and hopefully see it with a fresh set of eyes tomorrow morning.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/7)
 
 
 ### Day X:
