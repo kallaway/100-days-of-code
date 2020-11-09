@@ -20,14 +20,14 @@ trueCount = tCount + rCount + uCount + eCount
 print(trueCount)
 loveCount = lCount + oCount + vCount + leCount
 print(loveCount)
-total = trueCount + loveCount
+total = int(str(trueCount) + str(loveCount))
 
 if total < 10 or total > 90:
-    print(f"Your score is {trueCount}{loveCount}. You go together like coke and mentos")
-if total >= 40 and total <= 50:
-    print(f"Your score is {trueCount}{loveCount}, you are alright together.")
+    print(f"Your score is {total}. You go together like coke and mentos")
+elif total >= 40 and total <= 50:
+    print(f"Your score is {total}, you are alright together.")
 else:
-    print(f"Your score is {trueCount}{loveCount}")
+    print(f"Your score is {total}")
 
 
 
