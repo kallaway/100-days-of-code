@@ -18,15 +18,36 @@ where_to = input("Where would you like to fly to? New York, New Jersey, or New Z
 
 speed = input("How fast would you like to travel (kph)? 300, 400, 500?\n")
 
-ph_ny = 2414
-ph_nj = 2456
-ph_nz = 6953
+# options from phoenix
+if (begin == "Phoenix") and (where_to == "New York"):
+  distance = 2414
+elif (begin == "Phoenix") and (where_to == "New Jersey"):
+  distance = 2456
+elif (begin == "Phoenix") and (where_to == "New Zealand"):
+  distance = 6953
 
-ch_ny = 791
-ch_nj = 783
-ch_nz = 8374
+# options from Chicago
+elif (begin == "Chicago") and (where_to == "New York"):
+  distance = 791
+elif (begin == "Chicago") and (where_to == "New Jersey"):
+  distance = 783
+elif (begin == "Chicago") and (where_to == "New Zealand"):
+  distance = 8374
 
-da_ny = 1373
-da_nj = 1340
-da_nz = 7610
+# options from Dallas
+elif (begin == "Dallas") and (where_to == "New York"):
+  distance = 1373
+elif (begin == "Dallas") and (where_to == "New Jersey"):
+  distance = 1340
+elif (begin == "Dallas") and (where_to == "New Zealand"):
+  distance = 7610
+else: 
+  distance = 1000
 
+# in hours
+time = round(distance / int(speed),2)
+
+# convert to minutes
+
+
+print(f"It will take you about {time} hours to get from {begin} to {where_to} at {speed} knots")
