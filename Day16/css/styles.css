@@ -1,0 +1,73 @@
+/* The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px */
+
+/* Primary
+ - Gradient: hsl(6, 100%, 80%) to hsl(335, 100%, 65%) */
+
+/* Neutral
+- Pale Blue: hsl(243, 100%, 93%)
+- Grayish Blue: hsl(229, 7%, 55%)
+- Dark Blue: hsl(228, 56%, 26%)
+- Very Dark Blue: hsl(229, 57%, 11%) */
+
+/* - Family: [Raleway](https://fonts.google.com/specimen/Raleway)
+- Weights: 400, 700
+- Font size: 14px */
+body {
+   
+    color: #FFF;
+    font-family: 'Raleway';
+    font-size: 14px;
+    text-align: center;
+    background: hsl(229, 57%, 11%);
+    background-image: url("../images/bg-desktop.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.row {
+    margin-top: 300px;
+}
+
+.col-left {
+    display: flex;
+    background-color: hsl(229, 57%, 11%);
+}
+
+
+
+img {
+    padding: 10px;
+}
+
+
+.icon1, .icon2, .icon3 {
+    margin: 5px;
+    padding: 10px;
+    height: 40px;
+    background: black;
+    border-radius: 10px;
+}
+
+.col-right {
+    background-color: hsl(228, 56%, 26%);
+    border-radius: 10px;
+    
+    
+}
+
+@media only screen and (max-width: 600px) {
+    
+    body {
+        width: 100%;
+    }
+    .left {
+
+        width: 100%;
+    }
+} 
+
+
+
