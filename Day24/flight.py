@@ -12,7 +12,7 @@ print(''' |
                  jgs      `"-// \\.._\             /_..// \\-"`
                              \\_//    '._       _.'    \\_//
                               `"`        ``---``        `"`''')
-home = input("Where do you want to fly from? Phoenix, Chicago, or Dallas?\n")
+begin = input("Where do you want to fly from? Phoenix, Chicago, or Dallas?\n")
 
 where_to = input("Where would you like to fly to? New York, New Jersey, or New Zealand?\n")
 
