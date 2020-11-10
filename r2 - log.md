@@ -261,3 +261,12 @@
   ##### Link to reference:
     (F:\WebScrapping\Selenium\click.py)
 
+# Day 32: 10th November, 2020
+  ##### Today's progress:
+    Began working on Freiburg's Dataset
+  ##### Thoughts:
+    Have Basic idea about storing and handling a large dataset  of images
+    Need to work on manipulation each data
+    How to work on dataset with uneven classes?
+  ##### Link to reference:
+    (https://github.com/PriyaShrinithi/Freidburg-s-Groceries)
