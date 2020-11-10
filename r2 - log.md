@@ -252,3 +252,12 @@
     Have a clear Idea aboutn the flow
   ##### Link to reference:
     (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
+    
+# Day 31: 9th November, 2020
+  ##### Today's progress:
+    Brushed up on Beautiful Soup and Selenium
+  ##### Thoughts:
+    Learnt aboout locators and looking for much more intuitive way to extract a variable from the contents of a javascript tag
+  ##### Link to reference:
+    (F:\WebScrapping\Selenium\click.py)
+
