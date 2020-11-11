@@ -14,7 +14,7 @@ row = int(position[1])
 selected_row = map[column - 1]
 selected_row[row - 1] = "X"
 
-
+# or could use map[column - 1][row - 1]
 
 
 #Write your code above this row 👆
