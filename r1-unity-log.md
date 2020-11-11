@@ -37,4 +37,10 @@ Simplified nextState selection code. Also gave a few finishing touches to the ga
 Not much done today. Just set up github to work with my Unity project in preparation to start the NumberWizard project of the Unity course.
 
 **R1D12 - November 9th, 2020**
-Setup remote repository for the Monster Hunting Feast game. Also started adding new states, and modyfing existing ones to the Clue 3, to make it more epic and existing, as well as giving more choices to the player and help establish how much of a badass The Stone character is.
+Setup remote repository for the Monster Hunting Feast game. Also started adding new states, and modyfing existing ones to the Clue 3, to make it more epic and exciting, as well as giving more choices to the player and help establish how much of a badass The Stone character is.
+
+**R1D13 - November 10th, 2020**
+Worked a bit more on expanding the choices for the third clue. Adding more sequences to the fight against the brothers.
+
+**R1D14 - November 11th, 2020**
+Added a few more options, continuing with the fight against the brothers.
