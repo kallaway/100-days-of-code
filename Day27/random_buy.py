@@ -12,4 +12,8 @@ names = namesAsCSV.split(", ")
 how_many = len(names)
 random_choice = random.randint(0, how_many - 1)
 buyer = names[random_choice] 
+
+# can use choice() function also, instead
+# buyer = random.choice(names)
+
 print(buyer + " is going to buy the meal today!")
