@@ -202,6 +202,18 @@ I'm happy with the net one step made forward!
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/7)
 
 
+### Day 15: November 10, 2020
+
+**Today's Progress**: Finished layout for pricing section on larger mobile screen.
+
+**Thoughts**: I didn't have much time to work on this today due to other
+priorities. I'm glad I was able to spend an hour working on this but I really
+need more time to focus in order to make progress.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/8)
+
+
+
 ### Day X:
 
 **Today's Progress**:
