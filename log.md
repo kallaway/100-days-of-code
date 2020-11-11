@@ -213,6 +213,29 @@ need more time to focus in order to make progress.
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/8)
 
 
+### Day 16: November 11, 2020
+
+**Today's Progress**: Finished layout for contact form and footer. Also adjusted
+global styles for contact form fields.
+
+**Thoughts**: At this point it feels like I'm losing time just making minor
+tweaks trying to get the layout right. Are there any tips out there for how
+to work more efficiently? I think if I could do it over again, I'd create one
+empty starter section with just numbered boxes with different background colors,
+adjust and harden the layout for different screen sizes, then go back and
+duplicate that initial pattern for each new section of the landing page, then
+go back and fill in the different sections as needed. I had tried to build in
+certain structure patterns in the different sections as I initially started
+building out this landing page, but it seems to have backfired. The CSS file
+is now so long and the intermingling of different classes, etc. . .is complex
+and unwieldy, it seems like I fix one thing and another thing breaks.
+
+Anyway, at least I'm learning from this and can experiment with my idea next
+time I build a site.
+
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/9)
+
 
 ### Day X:
 
