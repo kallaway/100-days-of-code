@@ -239,6 +239,17 @@ time I build a site.
 
 ### Day X:
 
+**Today's Progress**: Tested and debugged CSS for small and mid-size screens.
+The results aren't perfect, but they're good enough for now. Some more polish
+will be needed after I do the layout for larger screens, anyway.
+
+**Thoughts**: Same as other days: CSS can be both fun and frustrating.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/10)
+
+
+### Day X:
+
 **Today's Progress**:
 
 **Thoughts**:
