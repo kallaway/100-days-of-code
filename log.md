@@ -237,7 +237,7 @@ time I build a site.
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/9)
 
 
-### Day X:
+### Day 17: November 12, 2020
 
 **Today's Progress**: Tested and debugged CSS for small and mid-size screens.
 The results aren't perfect, but they're good enough for now. Some more polish
