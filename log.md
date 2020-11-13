@@ -248,6 +248,27 @@ will be needed after I do the layout for larger screens, anyway.
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/10)
 
 
+### Day 18: November 13, 2020
+
+**Today's Progress**: Started formatting for larger screens / desktop.
+
+**Thoughts**: I'm getting anxious to finish this project so I can move on to
+try my hand at some new skills. But on the other hand I want to make sure this
+one's high-quality, so I'll take the time that I need.
+
+**Link(s) and screenshots**:
+
+1. Screenshot above the fold:
+
+   <img src="images/<img src="fcc-product-landing-page-above-fold-13Nov20.PNG" alt="screenshot yoga studio landing page above the fold">.PNG" alt="screenshot of survey site">
+
+2. Screenshot below the fold:
+
+   <img src="images/fcc-product-landing-page-below-fold-13Nov20.PNG" alt="screenshot yoga studio landing page below the fold">
+
+3. Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/12)
+
+
 ### Day X:
 
 **Today's Progress**:
