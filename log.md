@@ -260,7 +260,7 @@ one's high-quality, so I'll take the time that I need.
 
 1. Screenshot above the fold:
 
-   <img src="images/fcc-product-landing-page-above-fold-13Nov20.PNG" alt="screenshot yoga studio landing page above the fold">.PNG" alt="screenshot of survey site">
+   <img src="images/fcc-product-landing-page-above-fold-13Nov20.PNG" alt="screenshot yoga studio landing page above the fold">
 
 2. Screenshot below the fold:
 
