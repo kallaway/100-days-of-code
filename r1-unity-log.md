@@ -44,3 +44,6 @@ Worked a bit more on expanding the choices for the third clue. Adding more seque
 
 **R1D14 - November 11th, 2020**
 Added a few more options, continuing with the fight against the brothers.
+
+**R1D15 - November 12th, 2020**
+Continued adding more choices to the fight against the Waverly Brothers, and I'm pretty happy with the result. I think I'm done with that part, but now I have to correct some of the text, and polish the wording a little since some of the choices only have draft text. Also started working with implementing a way to implement choices that active or deactivate certain events within the story.
