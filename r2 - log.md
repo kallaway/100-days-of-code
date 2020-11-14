@@ -279,3 +279,12 @@
     Have a basic idea about nodejs and it's use
   ##### Link to reference:
     ()
+    
+# Day 34: 14th November, 2020
+  ##### Today's progress:
+    Began learning to insert into an app using mongodb and nodejs
+  ##### Thoughts:
+    Have a basic idea about nodejs and it's use
+  ##### Link to reference:
+    ()
+  
