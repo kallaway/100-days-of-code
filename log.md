@@ -269,6 +269,20 @@ one's high-quality, so I'll take the time that I need.
 3. Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/12)
 
 
+### Day 19: November 14, 2020
+
+**Today's Progress**: I  believe I'm done with all significant layout styles!!!
+Tomorrow I want to go through and make sure all of the project user stories are
+complete, and do some (hopefully) final testing before I can submit this project
+and move on to the next one!
+
+**Thoughts**: I'm so glad I switched to Firefox dev tools - no offense but the
+dev console in FF was way more helpful than the one in Chrome, at least for
+CSS Flexbox.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/13)
+
+
 ### Day X:
 
 **Today's Progress**:
