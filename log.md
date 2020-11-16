@@ -327,10 +327,10 @@ Reeborg hurdles were fun but also challenging.
 
 ### Day 30: Monday, November 16, 2020
 
-**Today's Progress**: pushed remaining exercises for day 22, and completed day 2 Python course
+**Today's Progress**: Reeborg random height hurdles, maze escape.
 
 **Thoughts** 
-I missed some of the files from yesterday, so had to revisit them before completing day 2; oh, the horror of being forced to have more fun!
+Pretty challenging, but learned a lot by having to use some other move functions
 
 **Link(s) to work**
 
