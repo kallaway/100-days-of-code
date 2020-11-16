@@ -259,3 +259,79 @@ I missed some of the files from yesterday, so had to revisit them before complet
 
 <a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day23">Day 23</a>
 
+### Day 24: Friday, November 6, 2020
+
+**Today's Progress**: bmi calculator 2, even/odd, leap year, and pizza.py (Still funny)
+
+**Thoughts** 
+Lots of fun today and lots of learning
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day24">Day 24</a>
+
+### Day 25: Monday, November 9, 2020
+
+**Today's Progress**: flight distance calculator with ASCII art, love match, ride costs.
+
+**Thoughts** 
+Had a lot of fun with the flight thing. Want to introduce a flight API at some point.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day25">Day 25</a>
+
+### Day 26: Tuesday, November 10, 2020
+
+**Today's Progress**: random number and pseudo random number generators
+
+**Thoughts** 
+Finished flight calculator for now, but would like to expand on the idea
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day26">Day 26</a>
+
+### Day 27: Wednesday, November 11, 2020
+
+**Today's Progress**: ASCII rock, paper, scissors; random buy, treasure map.
+
+**Thoughts** 
+I like the RPS game with the ASCII images; lot of fun
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day27">Day 27</a>
+
+### Day 28: Thursday, November 12, 2020
+
+**Today's Progress**: Redid FizzBuzz with Python; called it hissbite. :) Also, add evens, high score, and avg height.
+
+**Thoughts** 
+Updated the FizzBuzz challenge to include multiples of 5 and 9; renamed it HissBite, since it is written in Python. I make myself laugh.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day28">Day 28</a>
+
+### Day 29: Friday, November 13, 2020
+
+**Today's Progress**: Today, worked on password generator code, and reeborg hurdle challenges.
+
+**Thoughts** 
+Reeborg hurdles were fun but also challenging.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day29">Day 29</a>
+
+### Day 30: Monday, November 16, 2020
+
+**Today's Progress**: pushed remaining exercises for day 22, and completed day 2 Python course
+
+**Thoughts** 
+I missed some of the files from yesterday, so had to revisit them before completing day 2; oh, the horror of being forced to have more fun!
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day30">Day 30</a>
