@@ -283,6 +283,19 @@ CSS Flexbox.
 **Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/13)
 
 
+### Day 20: November 15, 2020
+
+**Today's Progress**: I made a few changes to my html markup to improve
+accessibility. I also imported my source code into Codepen and ran the tests
+provided by FreeCodeCamp. I failed most of the tests but this seems to be
+related to other html markup requirements. I don't think it should be too
+big of a lift to make the fixes to pass those tests.
+
+**Thoughts**: Happy to be close to finishing this project!
+
+**Link(s) to work**: My project in [Codepen](https://codepen.io/NewWebAsh/full/GRqeRbb)
+
+
 ### Day X:
 
 **Today's Progress**:
