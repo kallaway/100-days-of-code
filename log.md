@@ -296,6 +296,17 @@ big of a lift to make the fixes to pass those tests.
 **Link(s) to work**: My project in [Codepen](https://codepen.io/NewWebAsh/full/GRqeRbb)
 
 
+### Day 21: November 16, 2020
+
+**Today's Progress**: Modified HTML markup to pass automated tests, also
+modified css based on feedback from CSS Linter.
+
+**Thoughts**: It's a great day!
+
+**Link(s) to work**: My updated project [readme](https://github.com/newwebash/fcc-product-landing-page#fcc-product-landing-page)
+
+
+
 ### Day X:
 
 **Today's Progress**:
