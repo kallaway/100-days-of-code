@@ -109,3 +109,30 @@ Coder's log, November 4, 2020; started 100 days of Python Udemy Course, updated 
 
 Coder's log, day 23, November 5, 2020; pushed remaining code for day22, and completed day 2 of Python course
 
+## R1D24
+
+Coder's log, day 24, November 8, 2020; Day 3 of learn Python course. bmi calculator, even/odds, leap year, and pizza.py (haha)
+
+## R1D25
+
+Coder's log, day 25, November 9, 2020; flight distance calculator, love match, carnival ride
+
+## R1D26
+
+Coder's log, day 26, November 10, 2020; heads/tails random number generator and pseudo random number generator. Finished flight code.
+
+## R1D27
+
+Coder's log, day 27, November 11, 2020; random buy, treasure map, and rock, paper, scissors ASCII
+
+## R1D28
+
+Coder's log, day 28, November 12, 2020; add evens, avg height, high score, hiss-bite.
+
+## R1D29
+
+Coder's log, day 29, November 13, 2020; password generator, reeborg hurdles game.
+## R1D30
+
+Coder's log, day 30, November 16, 2020; Connected VS Code to Github.
+
