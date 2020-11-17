@@ -47,3 +47,9 @@ Added a few more options, continuing with the fight against the brothers.
 
 **R1D15 - November 12th, 2020**
 Continued adding more choices to the fight against the Waverly Brothers, and I'm pretty happy with the result. I think I'm done with that part, but now I have to correct some of the text, and polish the wording a little since some of the choices only have draft text. Also started working with implementing a way to implement choices that active or deactivate certain events within the story.
+
+**R1D16 - November 14th, 2020**
+Have been organizing the story design document to make it look better and help me when I want to add new pieces to the story.
+
+**R1D17 - November 16th, 2020**
+Finished organizing all three branches of the story on the Story Design document. Also managed to finish adding to Unity two out of three fight scenarios against the Waverly Brothers. I have yet to polish the text a little more, and add the last fight against Bruno and Reg.
