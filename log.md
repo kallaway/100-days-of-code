@@ -306,6 +306,22 @@ modified css based on feedback from CSS Linter.
 **Link(s) to work**: My updated project [readme](https://github.com/newwebash/fcc-product-landing-page#fcc-product-landing-page)
 
 
+### Day 22: November 17, 2020
+
+**Today's Progress**: Started refactoring CSS based on DRY principle and to avoid
+linking styles to IDs.
+
+**Thoughts**: About a week ago I expressed the need to find ways to work more
+efficiently. I had an aha! moment yesterday when I linted my CSS. Now I have
+better ideas about how to code my CSS more efficiently, but before I move onto
+the next project, I've decided to refactor the CSS in this landing page site.
+
+It's a bit disappointing that I can't move on to the next challenge yet, but
+I want my portfolio samples to be ironclad, so it's worth taking a bit more time
+to make sure this one's correct.
+
+**Link(s) to work**: Today's [PR](https://github.com/newwebash/fcc-product-landing-page/pull/17)
+
 
 ### Day X:
 
