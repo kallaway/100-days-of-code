@@ -10,3 +10,12 @@
 **Thoughts:** Gained so much experience today
 
 **Link to work:** [Media-Bits](https://github.com/danroyal001/media-bits)
+
+### Day 12: November 17, 2020
+##### (delete me or comment me out)
+
+**Today's Progress**: Trying to keep up
+
+**Thoughts:** Pushing forward, it hasn't been easy
+
+**Link to work:** [Media-Bits](https://github.com/danroyal001/media-bits)
