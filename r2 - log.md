@@ -295,3 +295,11 @@
     Need to work on diferent DP problems
    ##### Link to Reference:
     (https://leetcode.com/problems/house-robber/submissions/)
+
+# Day 36: 17th November, 2020
+  ##### Today's progress:
+    Spent time to figure out ways to look for solutions for the imbalance class issue
+  ##### Thoughts:
+    Spent a while before settling on oversampling woth data augmentation
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/Freidburg's dataset)
