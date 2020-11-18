@@ -64,7 +64,7 @@ word_list = ["aardvark", "baboon", "camel"]
 #TODO-1 - Randomly choose a word from the word_list and assign it to a variable called chosen_word.
 chosen_word = random.choice(word_list)
 lives = 6
-
+# guessed_letters = []
 display = []
 wordlength = len(chosen_word)
 
@@ -79,7 +79,8 @@ print(display)
 while not end_game:
   guess = input("Guess a letter: ").lower()
 
-  print(guess)
+  # print(guess)
+  # print(guessed_letters)
 
   #TODO-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word.
   for position in range(wordlength):
