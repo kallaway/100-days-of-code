@@ -1,10 +1,69 @@
 #Step 1 
 import random
+
+
+stages = ['''
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
+''', '''
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+''', '''
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+''', '''
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========''', '''
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+''', '''
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+''', '''
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+''']
+end_game = False
 word_list = ["aardvark", "baboon", "camel"]
 
 #TODO-1 - Randomly choose a word from the word_list and assign it to a variable called chosen_word.
 chosen_word = random.choice(word_list)
-print(chosen_word)
+lives = 6
 
 display = []
 wordlength = len(chosen_word)
@@ -15,7 +74,7 @@ print(display)
 
 #TODO-2 - Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase.
 
-end_game = False
+
 
 while not end_game:
   guess = input("Guess a letter: ").lower()
@@ -30,8 +89,19 @@ while not end_game:
     if letter == guess:
         display[position] = letter
 
+  if guess not in chosen_word:
+    lives -=1
+    if lives == 0:
+      end_game = True
+      print("You lose.")
+
+
+  print(f"{' '.join(display)}")
+
   print(display)
 
   if "_" not in display:
     end_game = True
     print("You Win!")
+
+  print(stages[lives])
