@@ -300,6 +300,32 @@
   ##### Today's progress:
     Spent time to figure out ways to look for solutions for the imbalance class issue
   ##### Thoughts:
+    Spent a while before settling on oversampling with data augmentation
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/Freidburg's dataset)
+
+# Day 37: 18th November, 2020
+  ##### Today's progress:
+    Spent time to look for simpler explanations about different snn architectures
+    Made a 1 episode anime-downloader in python
+  ##### Thoughts:
+    Spent a long time to look for the explanations so didn't exactly do anything quantfiable
+    Need to decide on the workflow of a full fledged anime downloader
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/Freidburg's dataset)
+    (# Day 36: 17th November, 2020
+  ##### Today's progress:
+    Spent time to figure out ways to look for solutions for the imbalance class issue
+  ##### Thoughts:
     Spent a while before settling on oversampling woth data augmentation
   ##### Link to Reference:
     (https://github.com/PriyaShrinithi/Freidburg's dataset)
+    (# Day 36: 17th November, 2020
+  ##### Today's progress:
+    Spent time to figure out ways to look for solutions for the imbalance class issue
+  ##### Thoughts:
+    Spent a while before settling on oversampling woth data augmentation
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/Freidburg's dataset)
+    (F:\WebScrapping\Selenium\click.py)
+
