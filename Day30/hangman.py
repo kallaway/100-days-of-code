@@ -14,16 +14,24 @@ for _ in range(wordlength):
 print(display)
 
 #TODO-2 - Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase.
-guess = input("Guess a letter: ").lower()
 
-print(guess)
+end_game = False
 
-#TODO-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word.
-for position in range(wordlength):
-  letter = chosen_word[position]
-  print(f"Current position: {position}\n Current letter: {letter}\n Guessed letter: {guess}")
-  
-  if letter == guess:
-      display[position] = letter
+while not end_game:
+  guess = input("Guess a letter: ").lower()
 
-print(display)
+  print(guess)
+
+  #TODO-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word.
+  for position in range(wordlength):
+    letter = chosen_word[position]
+    print(f"Current position: {position}\n Current letter: {letter}\n Guessed letter: {guess}")
+    
+    if letter == guess:
+        display[position] = letter
+
+  print(display)
+
+  if "_" not in display:
+    end_game = True
+    print("You Win!")
