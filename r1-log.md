@@ -136,3 +136,11 @@ Coder's log, day 29, November 13, 2020; password generator, reeborg hurdles game
 
 Coder's log, day 30, November 16, 2020; Connected VS Code to Github.
 
+## R1D31
+
+Coder's log, day 31, November 18, 2020; complete hangman
+
+## R1D32
+
+Coder's log, day 32, November 19, 2020; area calc, inputFunctions, prime_checker, caesar cipher start.
+
