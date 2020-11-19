@@ -327,11 +327,34 @@ Reeborg hurdles were fun but also challenging.
 
 ### Day 30: Monday, November 16, 2020
 
-**Today's Progress**: Reeborg random height hurdles, maze escape.
+**Today's Progress**: Connected VS Code to Github.
 
 **Thoughts** 
-Pretty challenging, but learned a lot by having to use some other move functions
+Still confused about how to commit through VS Code, so still using terminal.
 
 **Link(s) to work**
 
 <a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day30">Day 30</a>
+
+### Day 31: Wednesday, November 18, 2020
+
+**Today's Progress**: Completed hangman game.
+
+
+**Thoughts** 
+Using the ASCII art is pretty cool.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day31">Day 31</a>
+
+### Day 32: Thursday, November 19, 2020
+
+**Today's Progress**: Area calculator, prime number checker, inputFunctions, Caesar cipher start.
+
+**Thoughts** 
+I always wanted to create my own cryptograms.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day32">Day 32</a>
