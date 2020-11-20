@@ -315,3 +315,10 @@
     (https://github.com/PriyaShrinithi/Freidburg's dataset)
     (F:\WebScrapping\Selenium\click.py)
 
+# Day 38: 20th November, 2020
+  ##### Today's progress:
+    Corrected all the issues from my Comic Scraper
+  ##### Thoughts:
+    Consistency's taking a serious hit
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/comic-scraper)
