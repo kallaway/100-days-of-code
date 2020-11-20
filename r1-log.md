@@ -144,3 +144,7 @@ Coder's log, day 31, November 18, 2020; complete hangman
 
 Coder's log, day 32, November 19, 2020; area calc, inputFunctions, prime_checker, caesar cipher start.
 
+## R1D33
+
+Coder's log, day 33, November 20, 2020; complete caesar cipher.
+
