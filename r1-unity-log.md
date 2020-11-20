@@ -53,3 +53,6 @@ Have been organizing the story design document to make it look better and help m
 
 **R1D17 - November 16th, 2020**
 Finished organizing all three branches of the story on the Story Design document. Also managed to finish adding to Unity two out of three fight scenarios against the Waverly Brothers. I have yet to polish the text a little more, and add the last fight against Bruno and Reg.
+
+**R1D18 - November 19th, 2020**
+Started working with the Number Wizard UI game, managed to implement a few of the screens and the script to change scenes. I'm about halfway through Section #4 of the Unity Game Developer course.
