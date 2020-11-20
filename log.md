@@ -357,4 +357,15 @@ I always wanted to create my own cryptograms.
 
 **Link(s) to work**
 
-<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day32">Day 32</a>
+<a href="https://repl.it/@flyboy85749/caesar-cipher#main.py">Day 32</a>
+
+### Day 33: Friday, November 20, 2020
+
+**Today's Progress**: Completed cryptogram (caesar cipher) generator.
+
+**Thoughts** 
+Would like to combine this with random quote api to make cryptograms.
+
+**Link(s) to work**
+
+<a href="https://repl.it/@flyboy85749/cryptogram-generator#main.py">Day 33</a>
