@@ -56,3 +56,6 @@ Finished organizing all three branches of the story on the Story Design document
 
 **R1D18 - November 19th, 2020**
 Started working with the Number Wizard UI game, managed to implement a few of the screens and the script to change scenes. I'm about halfway through Section #4 of the Unity Game Developer course.
+
+**R1D19 - November 20th, 2020**
+Finished Section 4 of the Unity course and completed the Number Wizard UI. I learned how to create various Scenes and connect them together using SceneManager and connecting them to Buttons on the UI, as well as how to call functions when a Button is clicked. Also learned how to use Anchors, TextMesh Pro to make the text look cooler and how to anchor elements within another so that they look good even when resized, as well as making the Canvas scale up or down with the screen where it is being displayed. Last but not least, I learned how to deploy the application from Unity, to an OS.
