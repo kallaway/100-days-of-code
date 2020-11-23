@@ -322,3 +322,11 @@
     Consistency's taking a serious hit
   ##### Link to Reference:
     (https://github.com/PriyaShrinithi/comic-scraper)
+    
+# Day 39: 23rd November, 2020
+  ##### Today's progress:
+    Solved a leetcode problem for a long time
+   ##### Thoughts:
+    Need to work on diferent DP problems
+   ##### Link to Reference:
+    (https://leetcode.com/problems/maximum-product-subarray/submissions/)
