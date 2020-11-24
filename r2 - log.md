@@ -330,3 +330,11 @@
     Need to work on diferent DP problems
    ##### Link to Reference:
     (https://leetcode.com/problems/maximum-product-subarray/submissions/)
+    
+# Day 40: 24th November, 2020
+  ##### Today's progress:
+    Solved a leetcode problem for a long time
+   ##### Thoughts:
+    Need to work on diferent logics faster
+   ##### Link to Reference:
+    (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/)
