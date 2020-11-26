@@ -338,3 +338,11 @@
     Need to work on diferent logics faster
    ##### Link to Reference:
     (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/)
+    
+# Day 41: 26th November, 2020
+  ##### Today's progress:
+    Solved a leetcode problem
+  ##### Thoughts:
+    Think Maps frequently
+  ##### Link to Reference:
+    (https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/)
