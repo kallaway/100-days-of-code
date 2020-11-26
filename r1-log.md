@@ -148,3 +148,18 @@ Coder's log, day 32, November 19, 2020; area calc, inputFunctions, prime_checker
 
 Coder's log, day 33, November 20, 2020; complete caesar cipher.
 
+## R1D34
+
+Coder's log, day 34, November 23, 2020; created Python travel log.
+
+## R1D35
+
+Coder's log, day 35, November 24, 2020; Python silent auction app.
+
+## R1D36
+
+Coder's log, day 36, November 25, 2020; python days in month.
+
+## R1D37
+
+Coder's log, day 37, November 26, 2020; python calculator app.
