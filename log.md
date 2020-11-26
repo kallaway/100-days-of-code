@@ -369,3 +369,47 @@ Would like to combine this with random quote api to make cryptograms.
 **Link(s) to work**
 
 <a href="https://repl.it/@flyboy85749/cryptogram-generator#main.py">Day 33</a>
+
+### Day 34: Monday, November 23, 2020
+
+**Today's Progress**: Python travel log, dictionary, grades, nesting.
+
+**Thoughts** 
+Found it interesting to learn about python dictionaries
+
+**Link(s) to work**
+
+<a href="https://repl.it/@flyboy85749/travellog">Day 34</a>
+
+### Day 35: Tuesday, November 24, 2020
+
+**Today's Progress**: Python silent auction code.
+
+**Thoughts** 
+Would like to include actual items to bid on, so user knows about what to expect.
+
+**Link(s) to work**
+
+<a href="https://repl.it/@flyboy85749/silentauction">Day 35</a>
+
+### Day 36: Wednesday, November 25, 2020
+
+**Today's Progress**: Python output functions, days in month.
+
+**Thoughts** 
+Learned how to return in Python functions
+
+**Link(s) to work**
+
+<a href="https://repl.it/@flyboy85749/daysinmonth">Day 36</a>
+
+### Day 37: Thursday, November 26, 2020
+
+**Today's Progress**: Python calculator using ASCII art.
+
+**Thoughts** 
+Looking forward to how to do this in Python
+
+**Link(s) to work**
+
+<a href="https://repl.it/@flyboy85749/daysinmonth">Day 36</a>
