@@ -1,6 +1,6 @@
 from art import logo
-print(logo)
 
+print(logo)
 # Calculator
 
 # Add
@@ -28,16 +28,25 @@ calculator_functions = {
     "/": divide,
 }
 
-num1 = int(input("What is the first number?\n"))
-symbol_operator = input("Pick an operation from the lines above: ")
-num2 = int(input("What is the second number?\n "))
+def calculator():
 
-for symbol in calculator_functions:
-    print(symbol)
+    num1 = int(input("What is the first number?\n"))
+    for symbol in calculator_functions:
+        print(symbol)
+    should_continue = True
 
+    while should_continue: 
+        symbol_operator = input("Pick an operation from the lines above: ")
+        num2 = int(input("What is the next number?\n"))
+        calculate = calculator_functions[symbol_operator]
+        answer = calculate(num1, num2)
 
+        print(f"{num1} {symbol_operator} {num2} = {answer}")
 
-calculate = calculator_functions[symbol_operator]
-answer = calculate(num1, num2)
+        if input(f"Type 'y' to continue calculating with {answer}, or type 'n' start a new calculation.: ") == "y":
+            num1 = answer
+        else:
+            should_continue = False
+            calculator()
 
-print(f"{num1} {symbol_operator} {num2} = {answer}")
+calculator()
