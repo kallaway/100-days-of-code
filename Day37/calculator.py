@@ -1,26 +1,5 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+from art import logo
+print(logo)
 
 # Calculator
 
@@ -45,17 +24,18 @@ def divide(n1, n2):
 calculator_functions = {
     "+": add,
     "-": subtract,
-    "x": multiply,
+    "*": multiply,
     "/": divide,
 }
 
-num1 = int(input("What is the first number?:"))
-num2 = int(input("What is the second number?:"))
+num1 = int(input("What is the first number?\n"))
+symbol_operator = input("Pick an operation from the lines above: ")
+num2 = int(input("What is the second number?\n "))
 
 for symbol in calculator_functions:
     print(symbol)
 
-symbol_operator = input("Pick an operation from the lines above: ")
+
 
 calculate = calculator_functions[symbol_operator]
 answer = calculate(num1, num2)
