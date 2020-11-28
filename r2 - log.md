@@ -346,3 +346,19 @@
     Think Maps frequently
   ##### Link to Reference:
     (https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/)
+
+# Day 42: 27th November, 2020
+  ##### Today's progress:
+    Partially Solved a leetcode problem
+  ##### Thoughts:
+    Still stuck in speed-optimum solving
+  ##### Link to Reference:
+    (https://leetcode.com/problems/min-stack/)
+    
+# Day 43: 28th November, 2020
+  ##### Today's progress:
+    Solved a leetcode problem
+  ##### Thoughts:
+    Stuck at speed problem solving
+  ##### Link to Reference:
+    (https://leetcode.com/problems/min-stack/submissions/)
