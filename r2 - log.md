@@ -362,3 +362,11 @@
     Stuck at speed problem solving
   ##### Link to Reference:
     (https://leetcode.com/problems/min-stack/submissions/)
+
+# Day 44: 29th November, 2020
+  ##### Today's progress:
+    Solved a leetcode problem
+  ##### Thoughts:
+    Stuck at figuring out lower time complexities
+  ##### Link to Reference:
+    (https://leetcode.com/problems/find-peak-element/)
