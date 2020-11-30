@@ -370,3 +370,11 @@
     Stuck at figuring out lower time complexities
   ##### Link to Reference:
     (https://leetcode.com/problems/find-peak-element/)
+
+# Day 45: 30th November, 2020
+  ##### Today's progress:
+    Solved a random coding problem
+  ##### Thoughts:
+    None
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/A-December-of-Algorithms-2020/blob/main/December-01/java_PriyaShrinithi_Sherlock'sQuest.java)
