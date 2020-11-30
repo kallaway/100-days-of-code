@@ -1,0 +1,32 @@
+body {
+    margin-top: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #84613D;
+    font-family: "Lucida Console", Monaco, monospace;
+    background: #FDF9EA;
+}
+
+body > * {
+    width: 40vw;
+    height: auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    margin: 1rem 0;
+}
+
+form > * {
+    margin: .5rem 0;
+    padding: 1rem;
+}
+
+form > button {
+    padding: 0;
+}

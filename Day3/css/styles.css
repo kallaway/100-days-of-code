@@ -1,0 +1,50 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+.counter, .fizzBuzz {
+    font-weight: 400;
+    font-size: 2.5em;
+}
+
+.source_code {
+    margin-top: 20px;
+    
+}
+
+code {
+    
+    font-family: Consolas,"courier new";
+    color: crimson;
+    background-color: #f1f1f1;
+    padding: 2px;
+    font-size: 105%;
+  }
+
+svg {
+    margin-right: 10px;
+}
+
+.btn {
+    margin: 0.25em;
+    color: #FFF;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.button-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
