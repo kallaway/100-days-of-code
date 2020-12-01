@@ -412,4 +412,26 @@ Looking forward to how to do this in Python
 
 **Link(s) to work**
 
-<a href="https://repl.it/@flyboy85749/daysinmonth">Day 36</a>
+<a href="https://repl.it/@flyboy85749/daysinmonth">Day 37</a>
+
+### Day 38: Friday, November 27, 2020
+
+**Today's Progress**: Python calculator using ASCII art.
+
+**Thoughts** 
+Posted all three days on Twitter today
+
+**Link(s) to work**
+
+<a href="https://repl.it/@flyboy85749/calculator">Day 38</a>
+
+### Day 39: Monday, November 30, 2020
+
+**Today's Progress**: Blackjack game using ASCII art.
+
+**Thoughts** 
+Fun little game of blackjack
+
+**Link(s) to work**
+
+<a href="https://repl.it/@flyboy85749/Blackjack">Day 39</a>

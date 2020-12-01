@@ -163,3 +163,11 @@ Coder's log, day 36, November 25, 2020; python days in month.
 ## R1D37
 
 Coder's log, day 37, November 26, 2020; python calculator app.
+
+## R1D38
+
+Coder's log, day 38, November 27, 2020; calculator app.
+
+## R1D39
+
+Coder's log, day 39, November 30, 2020; blackjack game.
