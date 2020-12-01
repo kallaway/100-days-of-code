@@ -378,3 +378,11 @@
     None
   ##### Link to Reference:
     (https://github.com/PriyaShrinithi/A-December-of-Algorithms-2020/blob/main/December-01/java_PriyaShrinithi_Sherlock'sQuest.java)
+    
+# Day 45: 30th November, 2020
+  ##### Today's progress:
+    Solved a random coding problem
+  ##### Thoughts:
+    Troubl in Backtracking
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/A-December-of-Algorithms-2020/blob/main/December-02/java_PriyaShrinithi_Convo.java)
