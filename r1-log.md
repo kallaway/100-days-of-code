@@ -171,3 +171,7 @@ Coder's log, day 38, November 27, 2020; calculator app.
 ## R1D39
 
 Coder's log, day 39, November 30, 2020; blackjack game.
+
+## R1D40
+
+Coder's log, day 40, December 1, 2020; global and local scope.
