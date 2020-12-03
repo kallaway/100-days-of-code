@@ -17,3 +17,9 @@
 **Today's Progress**: Get data from the server, learning for *ngIf, RxJs(subscribe)
 
 **Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
+
+### Day 4: December 3, 2020
+
+**Today's Progress**: Change layout (for mobile), set styles for completed todo
+
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
