@@ -435,3 +435,14 @@ Fun little game of blackjack
 **Link(s) to work**
 
 <a href="https://repl.it/@flyboy85749/Blackjack">Day 39</a>
+
+### Day 40: Tuesday, December 1, 2020
+
+**Today's Progress**: Global and local scope practice
+
+**Thoughts** 
+Good review of scope for me
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day40">Day 40</a>
