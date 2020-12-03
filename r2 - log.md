@@ -383,6 +383,14 @@
   ##### Today's progress:
     Solved a random coding problem
   ##### Thoughts:
-    Troubl in Backtracking
+    Trouble in Backtracking
   ##### Link to Reference:
     (https://github.com/PriyaShrinithi/A-December-of-Algorithms-2020/blob/main/December-02/java_PriyaShrinithi_Convo.java)
+    
+# Day 47: 3rd December, 2020
+  ##### Today's progress:
+    Solved a random coding problem
+  ##### Thoughts:
+    None
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/A-December-of-Algorithms-2020/blob/main/December-03/java_PriyaShrinithi_MeetAndGreet.java)
