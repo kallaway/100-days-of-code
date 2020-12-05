@@ -28,3 +28,11 @@ I wanted to make sure I at least did something today, so I said "What the hell" 
 The API i once used seems to have changed a bit ( https://github.com/BurnySc2/python-sc2), so I'm going to rewrite my code from scratch again. Will be using this outdated guide for reference as an idea of where to start: https://pythonprogramming.net/starcraft-ii-ai-python-sc2-tutorial//. 
 
 But most importantly, I WAS SOMEHOW ABLE TO SET UP THE API AND GET A DEMO RUNNING IN LESS THAN HALF AN HOUR. HOW THE HELL WAS THAT SO EASY. Maybe I'm finally getting better at setting stuff up. Or maybe I was just lucky. Who knows. 
+
+### R2D5 (12/5/20)
+
+Back to the SC2 bot. Might fix flutter today so I can have multiple projects to bounce off of. 
+
+A noticable change from last time I tried this project is how much I'm actually researching the documentation before coding anything. Previously, I would just try to copy Sentdex's work (youtube linked above), and just try to replace his outdated methods with pasted methods from other examples I saw in the python-sc2 repository. This is a good sign of me getting more familiar with code. 
+
+I might come back to this later tonight, so it is possible there might be 2 'R2D5' commits in my repo. I don't know if this will be considered bad practice but oh well. 
