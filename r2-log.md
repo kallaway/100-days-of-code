@@ -18,3 +18,13 @@ ALSO, almost forgot, but added development branch to my repository. I will be po
 Finished the tutorial on docker-compose. I was able to host my own container for a page that incremented whenever refreshed. Saw cool things such as how to change text within the container without deleting data which was already created (it kept counting from where I left off). I have a feeling I have a lot farther to go before I can easily implement it to more complex projects, but who knows.
 
 Currently stuck deciding on what to do tomorrow. I could code side-by-side with this video to better understand Flutter: https://www.youtube.com/watch?v=XBKzpTz65Io. Or I could work on learning how to solve that wierd-ass puzzle I linked yesterday on my own. I could go back to making my personal website I started six months ago. Or I could even go back to programming that Starcraft bot. I really don't know yet. Flutter would be most practical, but I need to remind myself I am working on this OUTSIDE of work and not accidentally make a chore out of it. I really dont know.
+
+### R2D4 (12/4/20)
+
+I was completely lost on what to do for a project today. I accidently broke Flutter this morning, and it is taking longer than usual to reset the development environment. 
+
+I wanted to make sure I at least did something today, so I said "What the hell" and went back to making my Starcraft bot. 
+
+The API i once used seems to have changed a bit ( https://github.com/BurnySc2/python-sc2), so I'm going to rewrite my code from scratch again. Will be using this outdated guide for reference as an idea of where to start: https://pythonprogramming.net/starcraft-ii-ai-python-sc2-tutorial//. 
+
+But most importantly, I WAS SOMEHOW ABLE TO SET UP THE API AND GET A DEMO RUNNING IN LESS THAN HALF AN HOUR. HOW THE HELL WAS THAT SO EASY. Maybe I'm finally getting better at setting stuff up. Or maybe I was just lucky. Who knows. 
