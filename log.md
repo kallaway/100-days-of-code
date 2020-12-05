@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 5 December, 2020
-##### (delete me or comment me out)
 
 **Today's Progress**: Created a Gatsby project for my portfolio using the starter theme
 
