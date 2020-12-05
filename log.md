@@ -36,3 +36,9 @@
 **Today's Progress**: Implementation for deleting todos
 
 **Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
+
+### Day 6: December 5, 2020
+
+**Today's Progress**: Learning pipes, implementation for filtering todos by title
+
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
