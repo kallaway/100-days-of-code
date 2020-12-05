@@ -394,3 +394,19 @@
     None
   ##### Link to Reference:
     (https://github.com/PriyaShrinithi/A-December-of-Algorithms-2020/blob/main/December-03/java_PriyaShrinithi_MeetAndGreet.java)
+    
+# Day 48: 4th December, 2020
+  ##### Today's progress:
+    Solved a random coding problem
+  ##### Thoughts:
+    None
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/A-December-of-Algorithms-2020/blob/main/December-04/java_PriyaShrinithi_SpoiledOrNot.java)
+    
+# Day 49: 5th December, 2020
+  ##### Today's progress:
+    Spent a little time to learn about transfer learning
+  ##### Thoughts:
+    Still need to polish it
+  ##### Link to References:
+    (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
