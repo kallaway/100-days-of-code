@@ -6,8 +6,8 @@
 
 **Thoughts:** Gatsby is still very new to me. I am figuring out the project file stucture and testing out different themes. Started the tutorial by CodeAddict "Gatsby - Strapi portfolio"  https://www.youtube.com/watch?v=asB-dUwpH4Y. Learning to use React custom hooks for the first time.
 
-### Day 1: 6 December, 2020
+### Day 2: 6 December, 2020
 
-**Today's Progress**: Continue working on my internship task the Talent Profile page
+**Today's Progress**: Continue working on my internship task the Talent Profile page. Completed components: Linked Accounts, User Details, Address. Almost finished working on the Nationality component but unable to continue due to issues with microservices not responding.
 
-**Thoughts:**  
+**Thoughts:** The Microservices within the project keeps closing unexpectedly and it is creating problems with debugging/testing. I have tried clean/rebuild in visual studio and close and restarting the npm server. 
