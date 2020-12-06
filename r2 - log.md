@@ -410,3 +410,14 @@
     Still need to polish it
   ##### Link to References:
     (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
+    
+# Day 50: 6th December, 2020
+  ##### Today's progress:
+    Tried out transferlearning of vgg for cat or dog problem statement
+    Re-tried groceries
+  ##### Thoughts:
+    The output is completely wrong. Every image is classified as dog
+  ##### Link to References:
+    (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
+    (http://localhost:8888/notebooks/groceries.ipynb)
+
