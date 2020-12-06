@@ -22,14 +22,8 @@
 
 **Today's Progress**: Change layout (for mobile), set styles for completed todo
 
-**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)### Day 4: December 3, 2020
-
-
-### Day 4: December 3, 2020
-
-**Today's Progress**: Change layout (for mobile), set styles for completed todo
-
 **Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
+
 
 ### Day 5: December 4, 2020
 
@@ -40,5 +34,11 @@
 ### Day 6: December 5, 2020
 
 **Today's Progress**: Learning pipes, implementation for filtering todos by title
+
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
+
+### Day 7: December 6, 2020
+
+**Today's Progress**: Implementation for strikethrough title on click
 
 **Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
