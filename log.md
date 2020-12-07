@@ -42,3 +42,9 @@
 **Today's Progress**: Implementation for strikethrough title on click
 
 **Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
+
+### Day 8: December 7, 2020
+
+**Today's Progress**: Learning directives ngStyle, ngClass, *ngSwitch
+
+**Link to work:** [Training App](https://angular-ivy-cfekqp.stackblitz.io/)
