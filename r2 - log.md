@@ -421,3 +421,14 @@
     (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
     (http://localhost:8888/notebooks/groceries.ipynb)
 
+
+# Day 51: 7th December, 2020
+  ##### Today's progress:
+    Tried out transferlearning of vgg for cat or dog problem statement
+    Solved a coding problem
+  ##### Thoughts:
+    The output is completely wrong. Every image is classified as dog
+  ##### Link to References:
+    (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
+    (http://localhost:8888/notebooks/VGG_CATS%20OR%20DOGS.ipynb)
+    (F:\Study Material\Java\A-December-of-Algorithms-2020\December-05\java_PriyaShrinithi_GrandMaster)
