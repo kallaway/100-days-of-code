@@ -14,4 +14,7 @@
 
 ### Day 3: 7 December, 2020
 
-**Today's Progress**: Internship task
+**Today's Progress**: Internship task. Completed Nationality component which allows talents to set their nationality. Starting working on the Languages component
+
+**Thoughts:** Languages component requires tables, input text form, input option form, semantic buttons, semantic icons. Looking into semantic grids to format the components nicely
+
