@@ -11,3 +11,9 @@
 **Today's Progress**: Continue working on my internship task the Talent Profile page. Completed components: Linked Accounts, User Details, Address. Almost finished working on the Nationality component but unable to continue due to issues with microservices not responding.
 
 **Thoughts:** The Microservices within the project keeps closing unexpectedly and it is creating problems with debugging/testing. I have tried clean/rebuild in visual studio and close and restarting the npm server. 
+
+### Day 3: 6 December, 2020
+
+**Today's Progress**: Continue working on my internship task the Talent Profile page. Completed components: Linked Accounts, User Details, Address. Almost finished working on the Nationality component but unable to continue due to issues with microservices not responding.
+
+**Thoughts:** The Microservices within the project keeps closing unexpectedly and it is creating problems with debugging/testing. I have tried clean/rebuild in visual studio and close and restarting the npm server. 
