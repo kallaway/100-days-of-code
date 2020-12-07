@@ -36,3 +36,9 @@ Back to the SC2 bot. Might fix flutter today so I can have multiple projects to 
 A noticable change from last time I tried this project is how much I'm actually researching the documentation before coding anything. Previously, I would just try to copy Sentdex's work (youtube linked above), and just try to replace his outdated methods with pasted methods from other examples I saw in the python-sc2 repository. This is a good sign of me getting more familiar with code. 
 
 I might come back to this later tonight, so it is possible there might be 2 'R2D5' commits in my repo. I don't know if this will be considered bad practice but oh well. 
+
+### R2D6 (12/6/20)
+
+SC2 bot is slow but still moving at a healthy pace. Right now trying to get the home base to build more workers, but I have to figure out which libraries to import first. I'm also thinking of doing more object oriented programming for this project, so there might end up being more classes in my project than any of the examples I've seen. I just feel like a lot of the demo functions given are a lot larger than they should be.
+
+I WILL have to fix Flutter by either tonight or tomorrow morning, so expect me to start swithing around through different projects come next entry. 
