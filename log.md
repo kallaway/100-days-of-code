@@ -48,3 +48,9 @@
 **Today's Progress**: Learning directives ngStyle, ngClass, *ngSwitch
 
 **Link to work:** [Training App](https://angular-ivy-cfekqp.stackblitz.io/)
+
+### Day 9: December 8, 2020
+
+**Today's Progress**: Learning Component interaction, make layout for posts app
+
+**Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
