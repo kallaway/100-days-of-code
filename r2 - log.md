@@ -432,3 +432,14 @@
     (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
     (http://localhost:8888/notebooks/VGG_CATS%20OR%20DOGS.ipynb)
     (F:\Study Material\Java\A-December-of-Algorithms-2020\December-05\java_PriyaShrinithi_GrandMaster)
+
+# Day 52: 8th December, 2020
+  ##### Today's progress:
+    Tried out transferlearning of vgg for cat or dog problem statement and the shopping assistant
+  ##### Thoughts:
+    The output is completely wrong. Every image is classified as dog
+    The model is still processing
+  ##### Link to References:
+    (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
+    (http://localhost:8888/notebooks/VGG_CATS%20OR%20DOGS.ipynb)
+    (http://localhost:8888/notebooks/groceries.ipynb)
