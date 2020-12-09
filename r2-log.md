@@ -46,3 +46,7 @@ I WILL have to fix Flutter by either tonight or tomorrow morning, so expect me t
 ### R2D7 (12/7/20)
 
 This was a very slow and unproductive day. I was able to get Flutter running and start work on my personal flutter app project. But so far all I did was create the folder with its built in template and nothing more. Ended up falling asleep and not even commiting or pushing anything. I'll do that right now before I do today's work.
+
+### R2D8 (12/8/20)
+
+After testing the Flutter 'project' I was gonna plan to work on, I decided it best to either find a new FLutter project or go back to SC2 bot. Once I realized I could just clone the repo and get it to work, I got worried I would just copy the code and not learn anything. At least with the SC2 bot I am writing my own functions and classes. Idk, might even look for a better flutter project tomorrow. Just as long as I keep coding. 
