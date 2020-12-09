@@ -42,3 +42,7 @@ I might come back to this later tonight, so it is possible there might be 2 'R2D
 SC2 bot is slow but still moving at a healthy pace. Right now trying to get the home base to build more workers, but I have to figure out which libraries to import first. I'm also thinking of doing more object oriented programming for this project, so there might end up being more classes in my project than any of the examples I've seen. I just feel like a lot of the demo functions given are a lot larger than they should be.
 
 I WILL have to fix Flutter by either tonight or tomorrow morning, so expect me to start swithing around through different projects come next entry. 
+
+### R2D7 (12/7/20)
+
+This was a very slow and unproductive day. I was able to get Flutter running and start work on my personal flutter app project. But so far all I did was create the folder with its built in template and nothing more. Ended up falling asleep and not even commiting or pushing anything. I'll do that right now before I do today's work.
