@@ -51,6 +51,12 @@
 
 ### Day 9: December 8, 2020
 
-**Today's Progress**: Learning Component interaction, make layout for posts app
+**Today's Progress**: Learning Component interaction (@Input), make layout for posts app
+
+**Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
+
+### Day 10: December 9, 2020
+
+**Today's Progress**: Learning Component interaction (@Output), implementing for adding posts from form
 
 **Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
