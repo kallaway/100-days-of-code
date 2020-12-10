@@ -23,3 +23,9 @@
 **Today's Progress**: Made some good progress on the Languages component. I have the UI components working but cannot figure out why it is either not saving or fetching from the Database
 
 **Thoughts:** It is proving to be more difficult than i originally thought. I may have to start this component from scratch.
+
+### Day 5: 9 December, 2020
+
+**Today's Progress**: Continue on languages component
+
+**Thoughts:** 
