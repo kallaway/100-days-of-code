@@ -175,3 +175,32 @@ Coder's log, day 39, November 30, 2020; blackjack game.
 ## R1D40
 
 Coder's log, day 40, December 1, 2020; global and local scope.
+
+## R1D41
+
+Coder's log, day 40, December 2, 2020; Blackjack game.
+
+## R1D42
+
+Coder's log, day 40, December 3, 2020; Blackjack, number guess game.
+
+## R1D43
+
+Coder's log, day 43, December 4, 2020; Number guess game.
+
+## RID44
+
+Coder's log, day 44, December 7, 2020; debugging practice.
+
+## R1D45
+
+Coder's log, day 45, December 8, 2020; more debugging.
+
+## R1D46
+
+Coder's log, day 46, December 9, 2020; Higher/lower game.
+
+## R1D47
+
+Coder's log, day 47, December 10, 2020; Higher/Lower game.
+
