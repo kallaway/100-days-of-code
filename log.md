@@ -60,3 +60,9 @@
 **Today's Progress**: Learning Component interaction (@Output), implementing for adding posts from form
 
 **Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
+
+### Day 11: December 10, 2020
+
+**Today's Progress**: Learning ViewChild decorator, implementation for title field focusing
+
+**Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
