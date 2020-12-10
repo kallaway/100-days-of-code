@@ -446,3 +446,69 @@ Good review of scope for me
 **Link(s) to work**
 
 <a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day40">Day 40</a>
+
+### Day 41: Wednesday, December 2, 2020
+
+**Today's Progress**: Start blackjack game
+
+**Thoughts** 
+Fun little card game
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day41">Day 41</a>
+
+### Day 42: Thursday, December 3, 2020
+
+**Today's Progress**: Blackjack game
+
+**Thoughts** 
+Not too fancy, but it works
+
+**Link(s) to work**
+
+<a href="https://repl.it/@flyboy85749/Blackjack">Day 42</a>
+
+### Day 43: Friday, December 4, 2020
+
+**Today's Progress**: Number guess game
+
+**Thoughts** 
+Have done a similar one in javascript
+
+**Link(s) to work**
+
+<a href="https://repl.it/@flyboy85749/Numberguess">Day 43</a>
+
+### Day 44: Monday, December 7, 2020
+
+**Today's Progress**: Debugging practice
+
+**Thoughts** 
+Used an online debugger, which was fun
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day44">Day 44</a>
+
+### Day 45: Tuesday, December 8, 2020
+
+**Today's Progress**: More Debugging practice
+
+**Thoughts** 
+Used an online debugger, which was fun
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day45">Day 45</a>
+
+### Day 46: Wednesday, December 9, 2020
+
+**Today's Progress**: Higher/lower game
+
+**Thoughts** 
+Also did some Java learning, so got distracted
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day46">Day 46</a>
