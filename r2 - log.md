@@ -443,3 +443,23 @@
     (http://localhost:8888/notebooks/cat%20or%20dog.ipynb)
     (http://localhost:8888/notebooks/VGG_CATS%20OR%20DOGS.ipynb)
     (http://localhost:8888/notebooks/groceries.ipynb)
+
+# Day 53: 9th December, 2020
+  ##### Today's progress:
+    Tried out transferlearning of vgg for shopping assistant
+    Solved a coding problem
+  ##### Thoughts:
+    None
+  ##### Link to References:
+    (http://localhost:8888/notebooks/groceries.ipynb)
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
+    
+ # Day 54: 10th December, 2020
+  ##### Today's progress:
+    Tried out transferlearning of vgg for shopping assistant
+    Tried a coding problem
+  ##### Thoughts:
+    None
+  ##### Link to References:
+    (http://localhost:8888/notebooks/groceries.ipynb)
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
