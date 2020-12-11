@@ -463,3 +463,13 @@
   ##### Link to References:
     (http://localhost:8888/notebooks/groceries.ipynb)
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
+
+# Day 55: 10th December, 2020
+  ##### Today's progress:
+    Tried out transferlearning of vgg for shopping assistant
+    Tried a coding problem
+  ##### Thoughts:
+    None
+  ##### Link to References:
+    (http://localhost:8888/notebooks/groceries.ipynb)
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
