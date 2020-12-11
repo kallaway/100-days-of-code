@@ -1,15 +1,11 @@
-# import logo from art file
-from art import logo, vs
-
-# import the data file
 from game_data import data
-
-# import random
 import random
+from art import logo, vs
+# from replit import clear
 
 # pick a random entry from data
 def random_selection():
-  print(random.choice(data)) 
+  return random.choice(data) 
 
 # setup display results
 def display_data(account):
@@ -19,10 +15,9 @@ def display_data(account):
 
   return f"{name} is a {description} from {country}"
 
-def check_answer(guess, a_followers, b_followers):
-  """Check followers against user's guess 
-  and returns True if they get it right.
-  Or False if they get it wrong.""" 
+# This function will be called in start_game, and checks if user
+# guess matches correct answer
+def check_answer(guess, match1_followers, match2_followers):
   if match1_followers > match2_followers:
     return guess == "a"
   else:
@@ -43,8 +38,22 @@ def start_game():
     if match1 == match2:
       match2 = random_selection()
 
-    print(f"Compare A: {display_data(match1)}")
+    print(f"Compare A: {display_data(match1)}.")
     print(vs)
-    print(f"Compare B: {display_data(match2)}")
+    print(f"Compare B: {display_data(match2)}.")
 
     guess = input("Who do you think has more followers? Type 'A' or 'B': ").lower()
+    match1_follower_count = match1["follower_count"]
+    match2_follower_count = match2["follower_count"]
+    is_correct = check_answer(guess, match1_follower_count, match2_follower_count)
+
+    # clear()
+    print(logo)
+    if is_correct:
+      score += 1
+      print(f"You're right! Current score: {score}.")
+    else:
+      game_continue = False
+      print(f"Sorry, that's wrong. Final score: {score}")
+
+start_game()
