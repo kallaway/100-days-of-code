@@ -28,4 +28,12 @@
 
 **Today's Progress**: Continue on languages component
 
+**Thoughts:** Issues with saving languages to the Db. The function addLanguage() has null ID values after first language has been saved
+
+### Day 5: 10 December, 2020
+
+**Today's Progress**: Start looking into Skills Component
+
 **Thoughts:** 
+
+
