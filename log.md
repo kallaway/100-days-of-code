@@ -26,14 +26,20 @@
 
 ### Day 5: 9 December, 2020
 
-**Today's Progress**: Continue on languages component
+**Today's Progress**: Continue working on the languages component
 
 **Thoughts:** Issues with saving languages to the Db. The function addLanguage() has null ID values after first language has been saved
 
 ### Day 5: 10 December, 2020
 
-**Today's Progress**: Start looking into Skills Component
+**Today's Progress**: Fixed the backend code for languages component 
 
-**Thoughts:** 
+### Day 6: 11 December, 2020
+
+**Today's Progress**: Completed the languages component. There is a bug when saving a new language to the database for the first time, the ID's are saved as NULLs. After the component is refreshed, the language objects functions as normal. TODO: Look into solution
+
+**Thoughts:** . Working on the the next task.  Skills Component
+
+
 
 
