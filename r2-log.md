@@ -50,3 +50,6 @@ This was a very slow and unproductive day. I was able to get Flutter running and
 ### R2D8 (12/8/20)
 
 After testing the Flutter 'project' I was gonna plan to work on, I decided it best to either find a new FLutter project or go back to SC2 bot. Once I realized I could just clone the repo and get it to work, I got worried I would just copy the code and not learn anything. At least with the SC2 bot I am writing my own functions and classes. Idk, might even look for a better flutter project tomorrow. Just as long as I keep coding. 
+
+
+# Lost this round due to missing more than one day.
