@@ -473,3 +473,13 @@
   ##### Link to References:
     (http://localhost:8888/notebooks/groceries.ipynb)
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
+
+# Day 56: 12th December, 2020
+  ##### Today's progress:
+    Learnt a little git cli
+    Solved a December of Algorithms problem
+  ##### Thoughts:
+    Learnt to merge, commit and add using git cli
+    Learnt to read a csv file with java
+  ##### Link to References:
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
