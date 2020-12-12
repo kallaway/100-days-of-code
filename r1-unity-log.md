@@ -59,3 +59,9 @@ Started working with the Number Wizard UI game, managed to implement a few of th
 
 **R1D19 - November 20th, 2020**
 Finished Section 4 of the Unity course and completed the Number Wizard UI. I learned how to create various Scenes and connect them together using SceneManager and connecting them to Buttons on the UI, as well as how to call functions when a Button is clicked. Also learned how to use Anchors, TextMesh Pro to make the text look cooler and how to anchor elements within another so that they look good even when resized, as well as making the Canvas scale up or down with the screen where it is being displayed. Last but not least, I learned how to deploy the application from Unity, to an OS.
+
+**R1D20 - December 10th, 2020**
+I stepped away for a bit from working on my project because I was on vacation, but now we are back. Today I started working on the last bit of Story Design, finishing a missing bit of the fight against the Waverly Brothers. I also modified the story cards of the Text game on Unity and separated the Options from the Story Text. I also made the text resizable by adding two Components to the images I use as backgrounds for the text. The components were Vertical Layoug Group and Content Size Fitter.
+
+**R1D21 - December 11th, 2020**
+Kept working on the last part of the battle against the Waverly Brothers. This time The Stone vs Reg The Shinning Moon and Toothless Bruno. It's still missing a couple of parts and there are some parts that I need to translate from Spanish to English. Also added most of the extra options to Unity. I still have to organize the Story Design a bit more since I'm not happy with the way it's looking right now.
