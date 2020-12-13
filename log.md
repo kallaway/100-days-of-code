@@ -67,8 +67,14 @@
 
 **Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
 
-### Day 11: December 11, 2020
+### Day 12: December 11, 2020
 
 **Today's Progress**: Learning typescript data types (Basic types, enums, generic, interfaces)
 
 **Link to work:** [Docs](http://typescript-lang.ru/docs/, https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+### Day 13: December 12, 2020
+
+**Today's Progress**: Set typescript data types for project
+
+**Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
