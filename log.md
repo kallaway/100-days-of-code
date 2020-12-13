@@ -71,10 +71,16 @@
 
 **Today's Progress**: Learning typescript data types (Basic types, enums, generic, interfaces)
 
-**Link to work:** [Docs](http://typescript-lang.ru/docs/, https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+**Link to work:** [Docs](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 ### Day 13: December 12, 2020
 
 **Today's Progress**: Set typescript data types for project
 
 **Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
+
+### Day 14: December 13, 2020
+
+**Today's Progress**: Learning content projection in Angular, refactoring with content projection for todos
+
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
