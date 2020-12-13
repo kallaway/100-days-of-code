@@ -483,3 +483,11 @@
     Learnt to read a csv file with java
   ##### Link to References:
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
+    
+ # Day 57: 13th December, 2020
+  ##### Today's progress:
+    Solved a December of Algorithms problem
+  ##### Thoughts:
+    Learnt to parse a json using java
+  ##### Link to References:
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
