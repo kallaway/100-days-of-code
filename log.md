@@ -1,30 +1,86 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: November 30, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created application, learning for Angular binding
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: December 1, 2020
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Added style for application, training for directive *ngFor
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 3: December 2, 2020
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Get data from the server, learning for *ngIf, RxJs(subscribe)
+
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
+
+### Day 4: December 3, 2020
+
+**Today's Progress**: Change layout (for mobile), set styles for completed todo
+
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
 
 
-### Day 1: June 27, Monday
+### Day 5: December 4, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Implementation for deleting todos
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 6: December 5, 2020
+
+**Today's Progress**: Learning pipes, implementation for filtering todos by title
+
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
+
+### Day 7: December 6, 2020
+
+**Today's Progress**: Implementation for strikethrough title on click
+
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
+
+### Day 8: December 7, 2020
+
+**Today's Progress**: Learning directives ngStyle, ngClass, *ngSwitch
+
+**Link to work:** [Training App](https://angular-ivy-cfekqp.stackblitz.io/)
+
+### Day 9: December 8, 2020
+
+**Today's Progress**: Learning Component interaction (@Input), make layout for posts app
+
+**Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
+
+### Day 10: December 9, 2020
+
+**Today's Progress**: Learning Component interaction (@Output), implementing for adding posts from form
+
+**Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
+
+### Day 11: December 10, 2020
+
+**Today's Progress**: Learning ViewChild decorator, implementation for title field focusing
+
+**Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
+
+### Day 12: December 11, 2020
+
+**Today's Progress**: Learning typescript data types (Basic types, enums, generic, interfaces)
+
+**Link to work:** [Docs](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+### Day 13: December 12, 2020
+
+**Today's Progress**: Set typescript data types for project
+
+**Link to work:** [Posts App](https://angular-ivy-7bhl6g.stackblitz.io/)
+
+### Day 14: December 13, 2020
+
+**Today's Progress**: Learning content projection in Angular, refactoring with content projection for todos
+
+**Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
