@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Balint Pataki
 
-The log of my #100DaysOfCode challenge. Started on [14th December, Monday, 2020].
+The log of my #100DaysOfCode challenge. Started on 14th December, Monday, 2020.
 
 ## Log
 
