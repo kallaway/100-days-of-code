@@ -512,3 +512,36 @@ Also did some Java learning, so got distracted
 **Link(s) to work**
 
 <a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day46">Day 46</a>
+
+### Day 47: Thursday, December 10, 2020
+
+**Today's Progress**: Higher/lower game
+
+**Thoughts**
+Was concerned data was not in English :)
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day47">Day 47</a>
+
+### Day 48: Friday, December 11, 2020
+
+**Today's Progress**: Setup Python Dev environment. PyCharm, Python
+
+**Thoughts**
+No more Replit for now
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day48">Day 48</a>
+
+### Day 49: Monday, December 14, 2020
+
+**Today's Progress**: OOP intro
+
+**Thoughts**
+Always wanted to learn object-oriented programming
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day49">Day 49</a>
