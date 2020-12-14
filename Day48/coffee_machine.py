@@ -80,7 +80,7 @@ while is_on:
     elif choice == "report":
         print(f"Water: {resources['water']}fl oz.")
         print(f"Milk: {resources['milk']}fl oz.")
-        print(f"Coffee: {resources['coffee']}oz.")
+        print(f"Coffee: {resources['coffee']} oz.")
         print(f"Money: ${profit}")
     else:
         drink = MENU[choice]
