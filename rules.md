@@ -3,6 +3,8 @@
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
+# I will have two days off during Christmas period.
+
 #### Start Date
 14th December, 2020.
 
