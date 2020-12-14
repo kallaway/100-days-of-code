@@ -491,3 +491,12 @@
     Learnt to parse a json using java
   ##### Link to References:
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
+    
+# Day 58: 14th December, 2020
+  ##### Today's progress:
+    Solved a December of Algorithms problem
+  ##### Thoughts:
+    Had trouble with trie based logic
+  ##### Link to References:
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
+
