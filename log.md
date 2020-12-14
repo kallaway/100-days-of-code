@@ -38,7 +38,13 @@
 
 **Today's Progress**: Completed the languages component. There is a bug when saving a new language to the database for the first time, the ID's are saved as NULLs. After the component is refreshed, the language objects functions as normal. TODO: Look into solution
 
-**Thoughts:** . Working on the the next task.  Skills Component
+**Thoughts:** . Working on the the next task - Skills component
+
+### Day 7: 13 December, 2020
+
+**Today's Progress**: Skills component on hold for now while i am thinking of good code design. Working on Visa status component
+
+**Thoughts:** . 
 
 
 
