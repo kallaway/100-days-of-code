@@ -12,7 +12,8 @@ I concentrate on two areas:
 ## Log
 
 ### R1D1 
-
+Updated my [portfolio](https://bpataki.com) page and started Javascript Algorithms and Data Structures on [FreeCodeCamp](https://freecodecamp.org). I did 57 challanges out of 111 in that section. 
+That was quite logical and easy so far, thanks to my experience in Python and Machine Learning.
 
 ### R1D2
 
