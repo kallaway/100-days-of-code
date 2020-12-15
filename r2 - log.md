@@ -500,3 +500,10 @@
   ##### Link to References:
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
 
+# Day 59: 15th December, 2020
+  ##### Today's progress:
+    Solved a December of Algorithms problem
+  ##### Thoughts:
+    Came up with a solution with lousy time complexity
+  ##### Link to References:
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
