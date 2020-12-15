@@ -18,6 +18,7 @@ That was quite logical and easy so far, thanks to my experience in Python and Ma
 ### R1D2
 Did 22 challenges on FCC in JavaScript. 32 more from this section.
 Woke up later so I needed to code in the evening, that was not as productive as if I would have done it in the morning.
+Updated my [portfolio](https://bpataki.com) page.
 
 ### R1D3 
 
