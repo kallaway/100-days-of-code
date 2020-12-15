@@ -65,3 +65,6 @@ I stepped away for a bit from working on my project because I was on vacation, b
 
 **R1D21 - December 11th, 2020**
 Kept working on the last part of the battle against the Waverly Brothers. This time The Stone vs Reg The Shinning Moon and Toothless Bruno. It's still missing a couple of parts and there are some parts that I need to translate from Spanish to English. Also added most of the extra options to Unity. I still have to organize the Story Design a bit more since I'm not happy with the way it's looking right now.
+
+**R1D22 - December 14th, 2020**
+Added a rustic inventory manager Scriptable Object and managed to make it activate an State based on whether the player picked a weapon or not. I tested it without picking the weapon, and when I picked it and it worked fine. Also added an script to reset the game each time the player started the game, or picked the option to start the game over. I also completed the remaining text for the last part of the fight against the Weaverly brothers.
