@@ -5,7 +5,7 @@ class MoneyMachine:
     COIN_VALUES = {
         "quarters": 0.25,
         "dimes": 0.10,
-        "nickles": 0.05,
+        "nickels": 0.05,
         "pennies": 0.01
     }
 
@@ -35,4 +35,4 @@ class MoneyMachine:
         else:
             print("Sorry that's not enough money. Money refunded.")
             return False
-        self.money_received = 0
+            self.money_received = 0
