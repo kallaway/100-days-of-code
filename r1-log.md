@@ -21,6 +21,6 @@ Woke up later so I needed to code in the evening, that was not as productive as 
 Updated my [portfolio](https://bpataki.com) page.
 
 ### R1D3 
-
+Did 10+ challenges on FCC in JS. 11 more in this section. Learnt about loops. This is very similar to Python, however, Do..While is a new thing for me.
 
 ### R1D4
