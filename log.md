@@ -46,5 +46,10 @@
 
 **Thoughts:** Completed Visa stats component. The CSS styling took me a while to figure out. Initially i used inline css style on the header's to space out the dropdown box. Looked into semantic ui Grids to evenly space-out the columns. Used CSS class "ui right floated teal button" to move the button to the right.
 
+### Day 8: 15 December, 2020
+
+**Today's Progress**: Working on Job seeker status component 
+
+**Thoughts:** 
 
 
