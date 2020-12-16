@@ -507,3 +507,11 @@
     Came up with a solution with lousy time complexity
   ##### Link to References:
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
+
+# Day 60: 16th December, 2020
+  ##### Today's progress:
+    Solved a December of Algorithms problem
+  ##### Thoughts:
+    Solution's time complexity: O(mn/2)
+  ##### Link to References:
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
