@@ -48,8 +48,8 @@
 
 ### Day 8: 15 December, 2020
 
-**Today's Progress**: Working on Job seeker status component 
+**Today's Progress**: Completed job seeker status component
 
-**Thoughts:** 
+**Thoughts:** It took me a while to figure out why the avaiable date event handler wasn't working. It was because i forgot to call bind() on   this.handleAvailableDateChange = this.handleAvailableDateChange.bind(this);
 
 
