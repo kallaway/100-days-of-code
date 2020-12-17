@@ -52,4 +52,8 @@
 
 **Thoughts:** It took me a while to figure out why the avaiable date event handler wasn't working. It was because i forgot to call bind() on   this.handleAvailableDateChange = this.handleAvailableDateChange.bind(this);
 
+### Day 9: 16 December, 2020
 
+**Today's Progress**: Started working on the Profile Photo Component. The UI is set up to the requirements of the task, but i am having trouble uploading the image to the MongoDB database.
+
+**Thoughts:** Learnt a new technique of hiding a <input type="file"> and keep a ref to it using createRef(), then when the user clicks the image, the file input hanlder method is called
