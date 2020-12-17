@@ -5,7 +5,7 @@
 www.100DaysOfCode.com/connect
 Aynı zamanda burada, [Slack 100DaysOfCode kanalına davetiye](https://www.100daysofcode.com/slack).
 
-Search for #100DaysOfCode on Twitter, or join [the 100DaysOfCode room on Gitter](https://gitter.im/Kallaway/100DaysOfCode) — you don’t need an invite, it’s open for anyone to join. Also, follow [@\_100DaysOfCode](https://twitter.com/_100DaysOfCode) on Twitter to stay in touch with the community.
+Twitter'da #100DaysOfCode'u ara veya [the 100DaysOfCode room on Gitter](https://gitter.im/Kallaway/100DaysOfCode) userinden katil - davetiyeye ihtiyacin yok, herkese acik. Ayni zamanda Komunite ile baglantida kalmak icin bu adresi takip et [@\_100DaysOfCode](https://twitter.com/_100DaysOfCode).
 
 **S:** Yarışmaya zaten başladım ve şu anda 8. Gündeyim. İlerlememi takip etmek için bu depoyu kullanmaya nasıl başlayabilirim?
 **A:** Merak etmeyin. Önceki günlere ait bilgileri yukleyebildiginiz kadar yuklemeye calisin, ancak yapamazsanız, şu andaki ilerlemenizden devam edin. Her gün ilerlemeniz hakkında tweet atıyorsanız, tweet'lerinizin bağlantılarını her gün için günlüğe ekleyin. Sonraki gunler icin bu formati takip edin.
@@ -16,7 +16,7 @@ Search for #100DaysOfCode on Twitter, or join [the 100DaysOfCode room on Gitter]
 **Q:** I’ve missed a day, does it mean I’ve failed the challenge?
 **A:** Absolutely not. You are allowed to miss one day (then make it up by adding one more day to the end of the 100), but never miss two days in a row. This is a great piece of advice on habit formation that I got from Leo Babauta at zen habits.
 
-**Q:** I come home late, and by the time I am finished with my hour, it’s past midnight, does it count?
+**Q:** Eve gec geldim, kod yazmayi bitirdigimde, saat 12'yi gecti. Sayilirmi?
 **A:** Of course it counts! The rule of thumb is: have you coded for at least an hour before going to sleep that day? If yes, you are on track.
 The reason for this is that we all have different schedules and different life periods (kids, school, work, and what have you) so don’t hold yourself to some arbitrary time standard. You will not experience what Cinderella experienced once the clock strikes midnight.
 Don't worry whether you get a point on GitHub on that particular day. Yes, it’s nice to have them in a streak one by one, but don’t do yourself a disservice by measuring your efforts to a clock.
