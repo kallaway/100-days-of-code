@@ -24,3 +24,4 @@ Updated my [portfolio](https://bpataki.com) page.
 Did 10+ challenges on FCC in JS. 11 more in this section. Learnt about loops. This is very similar to Python, however, Do..While is a new thing for me.
 
 ### R1D4
+Did 10+ JS challenges on FCC. No time for project work unfortunately, Christmas-time is coming, need to arrange a lot of things in advance.
