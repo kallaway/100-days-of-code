@@ -15,15 +15,3 @@ class TestStringMethods(unittest.TestCase):
         #checks that s.split fails when the separator is not a string
         with self.assertRaises(TypeError):
             s.split(2)
-
-
-class TestGameBoard(unittest.TestCase):
-
-    def test_boardexists(game_board):
-        game_board.assertIs()
-
-
-
-if __name__ == '__main__':
-    unittest.main()
-    
