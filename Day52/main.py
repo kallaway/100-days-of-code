@@ -1,8 +1,14 @@
 from turtle import Turtle, Screen
 
-tatiana_the_turtle = Turtle()
-tatiana_the_turtle.shape("turtle")
-tatiana_the_turtle.color("red")
+tatiana = Turtle()
+tatiana.shape("turtle")
+tatiana.color("red")
+
+# draw a square
+for _ in range(4):
+    tatiana.forward(100)
+    tatiana.right(90)
+
 
 
 
