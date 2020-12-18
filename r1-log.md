@@ -25,3 +25,8 @@ Did 10+ challenges on FCC in JS. 11 more in this section. Learnt about loops. Th
 
 ### R1D4
 Did 10+ JS challenges on FCC. No time for project work unfortunately, Christmas-time is coming, need to arrange a lot of things in advance.
+
+### R1D5
+Started ES6 part of the JS Data Structures and Algorithms section on FCC. Also, I updated my portfolio.
+I felt I needed more time to deeply understand the use cases of recursive function and now it is the same as let/const/freeze.
+Challenges are great and I can proceed quite easily but I can't wait for the project work. I might want to read a book or search for additional material on JS data structures and algorithms. This part is so important, it is the core of programming.
