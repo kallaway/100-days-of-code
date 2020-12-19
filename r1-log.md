@@ -30,3 +30,7 @@ Did 10+ JS challenges on FCC. No time for project work unfortunately, Christmas-
 Started ES6 part of the JS Data Structures and Algorithms section on FCC. Also, I updated my portfolio.
 I felt I needed more time to deeply understand the use cases of recursive function and now it is the same as let/const/freeze.
 Challenges are great and I can proceed quite easily but I can't wait for the project work. I might want to read a book or search for additional material on JS data structures and algorithms. This part is so important, it is the core of programming.
+
+### R1D6
+Deep-dive into ES6 challenges, it is really interesting.
+Sometimes I compare JS to Python which is very useful, this way I can have a better understanding on both.
