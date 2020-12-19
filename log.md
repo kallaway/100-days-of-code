@@ -62,5 +62,4 @@
 
 **Today's Progress**: Took 2 days break due to a birthday and Christmas party. Finished the description component that allows users to add a short summary and a description about themselves.
 
-**Thoughts:** This was a really straight forward task to complete!
-
+**Thoughts:** This was a really straight forward task to complete! I still cannot figure out why i'm unable to save the image to MongoDB... looking for solutions online. Next task: Skills component that allows users to view, add and edit their skillsets
