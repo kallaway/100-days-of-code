@@ -60,7 +60,7 @@
 
 ### Day 10: 19 December, 2020
 
-**Today's Progress**: Coming back from a 2 day birthday and work christmas party. Finished working on a the Description component that allows job seekers to add a short summary and a description about themselves.
+**Today's Progress**: Coming back from a 2 day break beacuse it was my birthday and there was a work christmas party. Finished working on a the Description component that allows job seekers to add a short summary and a description about themselves.
 
 **Thoughts:** This was a really straight forward task to complete!
 
