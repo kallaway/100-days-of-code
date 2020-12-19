@@ -71,3 +71,6 @@ Added a rustic inventory manager Scriptable Object and managed to make it activa
 
 **R1D23 - December 15th, 2020**
 Created two new types of States, one for One Time States, which are states that can only be picked once and then are disabled, and another one for Loot States, which are States that add a specific item to the Inventory. The Inventory also enables other States that depend on which item you have, but this functionality is going to be transferred to the Game Manager, since the inventory only knows about storing, removing and retrieving items. I also modified the States related to the Jackpot state, to make them either One Time States or Loot States. Now I also have to add the proper descriptions to the items you find, and finish a tiny bit in the last fight with the Weaverly Brothers, which is the one where Toothless Bruno runs away and you slash him with either the sword, the axe, or both. I'm also thinking of adding an image instead of text to the Loot States, or maybe a combination of both.
+
+**R1D24-26, December 18th, 2020**
+Have been working in creating a few new options in the Story Design document to describe the items you find in the Jackpot, and what you do with them.
