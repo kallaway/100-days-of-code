@@ -20,7 +20,7 @@ Today was really fun. It was purely a day getting reaquanted with running tests.
 Tomorrow I plan to figure out how I intend to create the game board for Klotski. I first intended it to be just a matrix, but who knows. Maybe TDD will help me see something I'm missing. Perhaps I should focus on creating individual blocks first before I create the board? I had never thought of that until now.
 
 
-### R4D3 (12/19/2020)
+### R4D3 (12/18/2020)
 
 Aside from a few big successes, today was a big kick in the nuts at school. Almost demoralized he, but here I am. 
 
