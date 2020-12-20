@@ -31,6 +31,7 @@ Thanks to TDD, I realized one key think I didn't think of before; I will need to
 Decided to use the pygame library. Its fast to import and there are a lot of tutorials on how to use it. 
 
 So yeah. Was able to create a plane of existence I can now put my game board pieces on. UnitTest isnt working anymore, sadly, so I'm going to start tomorrow with finding out how to fix it or write new tests. 
+<<<<<<< HEAD
 
 ### R4D4 (12/19/20)
 
@@ -38,3 +39,5 @@ Writing the hour i put in for yesterday. Was stuck in writer's block. Got frustr
 
 However, after such a crappy day, read this and it make me feel a lot better about my current position: https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/. Realized I was focusing on the wrong parts of TDD, as well as not implementing it properly to begin with. Hope to change that today. 
 
+=======
+>>>>>>> 2bf6b047a7284150f2cba3f2747420387edf750b
