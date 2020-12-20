@@ -1,5 +1,8 @@
 # Requirements
 
+- Packages
+    - Pygame
+    - Unittest
 
 - Entities
     - game board

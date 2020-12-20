@@ -20,7 +20,7 @@ Today was really fun. It was purely a day getting reaquanted with running tests.
 Tomorrow I plan to figure out how I intend to create the game board for Klotski. I first intended it to be just a matrix, but who knows. Maybe TDD will help me see something I'm missing. Perhaps I should focus on creating individual blocks first before I create the board? I had never thought of that until now.
 
 
-### R4D3 (12/19/2020)
+### R4D3 (12/18/2020)
 
 Aside from a few big successes, today was a big kick in the nuts at school. Almost demoralized he, but here I am. 
 
@@ -31,3 +31,10 @@ Thanks to TDD, I realized one key think I didn't think of before; I will need to
 Decided to use the pygame library. Its fast to import and there are a lot of tutorials on how to use it. 
 
 So yeah. Was able to create a plane of existence I can now put my game board pieces on. UnitTest isnt working anymore, sadly, so I'm going to start tomorrow with finding out how to fix it or write new tests. 
+
+### R4D4 (12/19/20)
+
+Writing the hour i put in for yesterday. Was stuck in writer's block. Got frustrated with most of my code and deleted most of it. Almost gave up on TDD.
+
+However, after such a crappy day, read this and it make me feel a lot better about my current position: https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/. Realized I was focusing on the wrong parts of TDD, as well as not implementing it properly to begin with. Hope to change that today. 
+
