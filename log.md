@@ -63,3 +63,9 @@
 **Today's Progress**: Took 2 days break due to a birthday and Christmas party. Finished the description component that allows users to add a short summary and a description about themselves.
 
 **Thoughts:** This was a really straight forward task to complete! I still cannot figure out why i'm unable to save the image to MongoDB... looking for solutions online. Next task: Skills component that allows users to view, add and edit their skillsets
+
+### Day 11: 20 December, 2020
+
+**Today's Progress**: Finished the Skills component that allows users to view, add, edit, and delete their skills and competency level in the Talent profile page. Started working on the Work Experience component.
+
+**Thoughts:** The Skills component is very similar to the Languages component, this meant that i was able to copy the languages component and change the relevant fields to suit. 
