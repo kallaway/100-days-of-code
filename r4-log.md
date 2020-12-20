@@ -41,3 +41,13 @@ However, after such a crappy day, read this and it make me feel a lot better abo
 
 =======
 >>>>>>> 2bf6b047a7284150f2cba3f2747420387edf750b
+### R4D5 (12/20/20)
+
+I have somewhere else to be, else I would spend more than an hour on this today. 
+
+May not have made any production code today, but I learned some very valuable lessons.
+1: TDD is not a substitution for the design phase of a program. 
+2: Performance tuning in the Green phase of TDD is usually premature optimization. 
+3: Separate your GUI and your program logic as much as possible. 
+
+I should have lerned this by now from my capstone. Also, I switched to tkinter as my GUI for the time being. Lets see if it works well tomorrow. 
