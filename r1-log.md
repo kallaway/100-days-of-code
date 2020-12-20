@@ -34,3 +34,8 @@ Challenges are great and I can proceed quite easily but I can't wait for the pro
 ### R1D6
 Deep-dive into ES6 challenges, it is really interesting.
 Sometimes I compare JS to Python which is very useful, this way I can have a better understanding on both.
+
+### R1D7
+Finished ES6 challenges of FCC. It was massive, even if I could solve everything, this was challenging here and there. 
+I need to recap those ideas from another sources. I found You Don't Know JS book which seems extraordinary.
+I am currently looking for some project ideas in ML/DL for days when I don't want spend much time on FCC. Considering a web app for time series/RNN or image segmentation.
