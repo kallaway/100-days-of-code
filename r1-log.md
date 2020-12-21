@@ -39,3 +39,9 @@ Sometimes I compare JS to Python which is very useful, this way I can have a bet
 Finished ES6 challenges of FCC. It was massive, even if I could solve everything, this was challenging here and there. 
 I need to recap those ideas from another sources. I found You Don't Know JS book which seems extraordinary.
 I am currently looking for some project ideas in ML/DL for days when I don't want spend much time on FCC. Considering a web app for time series/RNN or image segmentation.
+
+### R1D8
+Did tons of JS regex challenges on #freeCodeCamp.
+Lucky to had similar problems to solve before in #Python3.
+Also finished a small-scale coding project at work.
+Apart from Christmas and family time, it seems to be a month full of coding.
