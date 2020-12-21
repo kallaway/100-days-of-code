@@ -204,3 +204,30 @@ Coder's log, day 46, December 9, 2020; Higher/lower game.
 
 Coder's log, day 47, December 10, 2020; Higher/Lower game.
 
+## R1D48
+
+Coder's log, day 48, December 11, 2020; Setup Python dev environment.
+
+## R1D49
+
+Coder's log, day 49, December 14, 2020; OOP review, learned how to add packages
+
+## R1D50
+
+Coder's log, day 50, December 15, 2020; Convert coffee machine to OOP
+
+## R1D51
+
+Coder's log, day 51, December 16, 2020; Trivia game using open trivia API
+
+## R1D52
+
+Coder's log, day 52, December 17, 2020; Basic shape drawing
+
+## R1D53
+
+Coder's log, day 53, December 18, 2020; Spirograph, Hirst dot drawing
+
+## R1D54
+
+Coder's log, day 54, December 21, 2020; Turtle race, etch-o-sketch

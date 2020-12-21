@@ -545,3 +545,58 @@ Always wanted to learn object-oriented programming
 **Link(s) to work**
 
 <a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day49">Day 49</a>
+
+### Day 50: Tuesday, December 15, 2020
+
+**Today's Progress**: Converted coffee machine to OOP
+
+**Thoughts**
+Not too bad of a conversion. Need to learn more about it
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day50">Day 50</a>
+
+### Day 51: Wednesday, December 16, 2020
+
+**Today's Progress**: Trivia Game
+
+**Thoughts**
+Used the open trivia API to import questions from.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day51">Day 51</a>
+
+### Day 52: Thursday, December 17, 2020
+
+**Today's Progress**: Draw some basic shapes with the turtle module
+
+**Thoughts**
+Tatiana the turtle did some nice work. 
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day52">Day 52</a>
+
+### Day 53: Friday, December 18, 2020
+
+**Today's Progress**: Drew a spirograph, with overlapping circles
+
+**Thoughts**
+Was a lot of fun to code a spirograph
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day53">Day 53</a>
+
+### Day 54: Monday, December 21, 2020
+
+**Today's Progress**: Made an etch-o-sketch, and started turtle race game.
+
+**Thoughts**
+The etch-o-sketch was very fun. Managed to get turtles to starting positions.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day54">Day 54</a>
