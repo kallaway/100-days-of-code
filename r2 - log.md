@@ -532,10 +532,19 @@
   ##### Link to References:
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
 
-# Day 63: 21th December, 2020
+# Day 63: 21st December, 2020
   ##### Today's progress:
     Solved a December of Algorithms problem
   ##### Thoughts:
     None
   ##### Link to References:
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
+  
+# Day 64: 22nd December, 2020
+  ##### Today's progress:
+    Solved a December of Algorithms problem
+  ##### Thoughts:
+    Learnt about center selection algorithm
+  ##### Link to References:
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
+
