@@ -69,3 +69,9 @@
 **Today's Progress**: Finished the Skills component that allows users to view, add, edit, and delete their skills and competency level in the Talent profile page. Started working on the Work Experience component.
 
 **Thoughts:** The Skills component is very similar to the Languages component, this meant that i was able to copy the languages component and change the relevant fields to suit. 
+
+### Day 12: 21 December, 2020
+
+**Today's Progress**: Taking a break from my project work to start working on my portfolio. Created a gatsby cloud account and generated a starter template from https://github.com/LekoArts/gatsby-starter-minimal-blog
+
+**Thoughts:** Gatsby is a powerful static site generator that leverages React.js, I was able to get it up and running within 20mins!
