@@ -45,3 +45,12 @@ Did tons of JS regex challenges on #freeCodeCamp.
 Lucky to had similar problems to solve before in #Python3.
 Also finished a small-scale coding project at work.
 Apart from Christmas and family time, it seems to be a month full of coding.
+
+### R1D9
+Finished JS Regex and Debugging sections on #freeCodeCamp. Regex was quite challenging at the end.
+Really motivated to get better in JavaScript, I think this makes me a better programmer. 
+Generally any new language or knowledge makes you better.
+
+### R1D10
+Went through some JS data structure challenges on #FreeCodeCamp.
+Still exciting about JS and web development.
