@@ -2,6 +2,8 @@
 
 The log for my fourth round. Started 12/16/20
 
+## REMINDER: I WILL NEED TO ADD 1 DAY TO THIS STREAK TO MAKE UP FOR MISSED DAYS
+
 ## Log
 
 ### R4D1 (12/16/20)
@@ -51,3 +53,14 @@ May not have made any production code today, but I learned some very valuable le
 3: Separate your GUI and your program logic as much as possible. 
 
 I should have lerned this by now from my capstone. Also, I switched to tkinter as my GUI for the time being. Lets see if it works well tomorrow. 
+
+### R4D6 (12/22/20)
+
+Was originally going to code late last night, but opened my powershell exactly 12:00 midnight, so I felt it would have been cheating saying it would have counted. 
+
+An awesome epiphany occured to me today: I've already been working with GUI management and automatic tests in Flutter. I could kill two birds in one stone with this project by getting more familiar with my Capstone environment AND by having a GUI I already know how to run tests in. 
+
+So yeah, all I pretty much did today was set up a flutter environment in this repo. Took a sec, but all the demos run perfectly. Will be changing my current coding language from python to dart. 
+
+I SWEAR, I will have actual coding progress made tomorrow. I feel bad for not coding sooner, but I do think this will be more useful for me down the road. Besides, I'm still following the rule I learned Sunday: TDD is not a substitution for the design phase of a program.
+
