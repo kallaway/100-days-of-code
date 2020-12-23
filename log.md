@@ -75,3 +75,9 @@
 **Today's Progress**: Taking a break from my project work to start working on my portfolio. Created a gatsby cloud account and generated a starter template from https://github.com/LekoArts/gatsby-starter-minimal-blog
 
 **Thoughts:** Gatsby is a powerful static site generator that leverages React.js, I was able to get it up and running within 20mins!
+
+### Day 13: 22 December, 2020
+
+**Today's Progress**: Going through Gatsby tutorial by CodeAddict on youtube
+
+**Thoughts:** Deployed portfolio on firebase, might look into deploying to AWS free
