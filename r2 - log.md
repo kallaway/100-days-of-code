@@ -548,3 +548,10 @@
   ##### Link to References:
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
 
+# Day 65: 23rd December, 2020
+  ##### Today's progress:
+    Solved a December of Algorithms problem
+  ##### Thoughts:
+    Solved a graph problem for 1 specific path. But dunno how it'd work for the other paths 
+  ##### Link to References:
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
