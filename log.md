@@ -78,6 +78,6 @@
 
 ### Day 13: 22 December, 2020
 
-**Today's Progress**: Going through Gatsby tutorial by CodeAddict on youtube
+**Today's Progress**: Going through Gatsby tutorial by CodeAddict on youtube. Started a new project called Smooth Brew Coffe Shop, learning how to create an e-commerce website using Gatsby. 
 
-**Thoughts:** Deployed portfolio on firebase, might look into deploying to AWS free
+**Thoughts:** Deployed portfolio on firebase, might look into deploying to AWS free. 
