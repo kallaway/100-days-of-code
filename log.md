@@ -1,20 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: December 23, 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Forked the 100 Day challenge!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Excited to embark on this journey, but I am scared that I won't be able to do it :( Regardless I think I'll learn a lot!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [100 Days of Code Website](https://www.100daysofcode.com/)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: December 24, 2020 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Trying to piece together how GitHub works exactly... especially linking my projects. As long as it works as my daily log though, I can figure out how to link my projects later. I believe I created a local repository? 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: It's already hard but I'm not going to quit! Sometimes figuring out how things work is more than half the battle...
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
