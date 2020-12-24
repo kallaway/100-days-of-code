@@ -1,0 +1,28 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 600;
+}
+
+.counter, .fizzBuzz {
+    font-weight: 400;
+    font-size: 2.5em;
+}
+
+
+
+svg {
+    margin-right: 10px;
+}
+
+.btn {
+    margin: 0.25em;
+    color: #FFF;
+    font-size: 1em;
+    font-weight: bold;
+}
+

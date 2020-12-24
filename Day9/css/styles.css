@@ -1,0 +1,61 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+figure {
+  display: block;
+  position: relative;
+  margin: 20px 0;
+}
+
+.vert {
+  margin: 0px;
+  padding: 0px;
+  width: 20px;
+}
+
+.title {
+  font-size: 20px;
+  
+  transform: rotate(90deg);
+
+
+  /* Legacy vendor prefixes that you probably don't need... */
+
+  /* Safari */
+  -webkit-transform: rotate(90deg);
+
+  /* Firefox */
+  -moz-transform: rotate(90deg);
+
+  /* IE */
+  -ms-transform: rotate(90deg);
+
+  /* Opera */
+  -o-transform: rotate(90deg);
+
+  /* Internet Explorer */
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+.top {
+  margin-top: 40px;
+}
+
+h1 {
+  font-size: 1.75em;
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.who {
+  line-height: inherit;
+}
+
+figure {
+  margin: 10px;
+}
