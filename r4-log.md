@@ -33,7 +33,6 @@ Thanks to TDD, I realized one key think I didn't think of before; I will need to
 Decided to use the pygame library. Its fast to import and there are a lot of tutorials on how to use it. 
 
 So yeah. Was able to create a plane of existence I can now put my game board pieces on. UnitTest isnt working anymore, sadly, so I'm going to start tomorrow with finding out how to fix it or write new tests. 
-<<<<<<< HEAD
 
 ### R4D4 (12/19/20)
 
@@ -41,8 +40,6 @@ Writing the hour i put in for yesterday. Was stuck in writer's block. Got frustr
 
 However, after such a crappy day, read this and it make me feel a lot better about my current position: https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/. Realized I was focusing on the wrong parts of TDD, as well as not implementing it properly to begin with. Hope to change that today. 
 
-=======
->>>>>>> 2bf6b047a7284150f2cba3f2747420387edf750b
 ### R4D5 (12/20/20)
 
 I have somewhere else to be, else I would spend more than an hour on this today. 
@@ -63,4 +60,12 @@ An awesome epiphany occured to me today: I've already been working with GUI mana
 So yeah, all I pretty much did today was set up a flutter environment in this repo. Took a sec, but all the demos run perfectly. Will be changing my current coding language from python to dart. 
 
 I SWEAR, I will have actual coding progress made tomorrow. I feel bad for not coding sooner, but I do think this will be more useful for me down the road. Besides, I'm still following the rule I learned Sunday: TDD is not a substitution for the design phase of a program.
+
+### R4D7 (12/23/20) 
+
+Upgrading to Flutter was a great decision. I feel so much more in my element now, and running tests is better than ever. 
+
+The only con I feel I've gotten from switching are the overreliance of packages. I was looking for an example of chess to reference off of, since I am having trouble finding a widget which is just moving a piece around the page. But it seems to me everyone in the Flutter community just uses the exact same chess package on pub.dev and nothing else. You'd think a community as large as flutter's would have mor originality. 
+
+I was going to code more, but I've done my hour, and I need to learn to just relax when I know I've done my part for the day. I spend so much time cathing up on classes and code, it almost never feels like there's a stopping point. I also want to play Destiny rn, so whatever. 
 
