@@ -69,3 +69,24 @@ The only con I feel I've gotten from switching are the overreliance of packages.
 
 I was going to code more, but I've done my hour, and I need to learn to just relax when I know I've done my part for the day. I spend so much time cathing up on classes and code, it almost never feels like there's a stopping point. I also want to play Destiny rn, so whatever. 
 
+
+### R4D8 (12/24/20)
+
+To anyone who reads this, Merry Christmas Eve. 
+
+Trying to pass my first test, which is to get the main page running XD. I could have just worked with the demo the flutter project started me with, but I want to simulate as much of my Capstone project as I can, without using a backend. So I'm making my main file very barebones, just the initiation and root of my application. It's definitely a lot of extra work to just past my first test, but I can at least say I am working toward making it pass. 
+
+Today's coding feels very comfortable. It might be me just getting used to coding daily, or it could be the relieve of not spending another day deciding my development environment. I don't know, today just feels good.
+
+Just did some more research on good coding ideas: 
+
+ - https://www.freecodecamp.org/ (Decided to finally look at a reccomendation by another Twitter user, and holy crap this is some good shit. Might do this alongside making my game, and i could start testing each challenge from the very beginning so I can slowly build up my testing skills.)
+ - https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/ 
+ - https://www.udemy.com/course/100-days-of-code/ (This costs money and only focuses on python so this might be a bad idea)
+
+ Again, Merry Christmas Eve, everyone.
+
+
+
+
+
