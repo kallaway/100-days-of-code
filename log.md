@@ -81,3 +81,9 @@
 **Today's Progress**: Going through Gatsby tutorial by CodeAddict on youtube. Started a new project called Smooth Brew Coffe Shop, learning how to create an e-commerce website using Gatsby. 
 
 **Thoughts:** Deployed portfolio on firebase, might look into deploying to AWS free. 
+
+### Day 13: 24 December, 2020
+
+**Today's Progress**: Continue on coffee shop porject using Gatsby and deployed on 
+
+**Thoughts:** Netlify is an amazing tool to host static sites, it supports github continuous deployment
