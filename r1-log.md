@@ -54,3 +54,9 @@ Generally any new language or knowledge makes you better.
 ### R1D10
 Went through some JS data structure challenges on #FreeCodeCamp.
 Still exciting about JS and web development.
+
+### R1D11
+Finished Data Structures in JS and started Algorithms section on FCC.
+Proceeded with #100DaysOfCode translation as well.
+
+### R1D12
