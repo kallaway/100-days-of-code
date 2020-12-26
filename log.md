@@ -84,6 +84,10 @@
 
 ### Day 13: 24 December, 2020
 
-**Today's Progress**: Continue on coffee shop porject using Gatsby and deployed on 
+**Today's Progress**: Continued on coffee shop project using Gatsby.
 
 **Thoughts:** Netlify is an amazing tool to host static sites, it supports github continuous deployment
+
+### Day 13: 25 December, 2020
+
+**Today's Progress**: Christmas!!! Continued on coffee shop project using Gatsby.
