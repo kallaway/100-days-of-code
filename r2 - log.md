@@ -555,3 +555,20 @@
     Solved a graph problem for 1 specific path. But dunno how it'd work for the other paths 
   ##### Link to References:
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
+
+# Day 66: 24th December, 2020
+  ##### Today's progress:
+    Solved a December of Algorithms problem
+  ##### Thoughts:
+    None 
+  ##### Link to References:
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
+    
+# Day 67: 26th December, 2020
+  ##### Today's progress:
+    Solved a December of Algorithms problem
+  ##### Thoughts:
+    None
+  ##### Link to References:
+    (F:\Study Material\Java\A-December-of-Algorithms-2020)
+
