@@ -60,3 +60,4 @@ Finished Data Structures in JS and started Algorithms section on FCC.
 Proceeded with #100DaysOfCode translation as well.
 
 ### R1D12
+Finished Algorithms section on FCC.
