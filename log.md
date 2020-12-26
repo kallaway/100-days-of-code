@@ -91,3 +91,5 @@
 ### Day 13: 25 December, 2020
 
 **Today's Progress**: Christmas!!! Continued on coffee shop project using Gatsby.
+
+**Thoughts:** I learnt how to setup my Gatsby project with Contentful headless CMS. It is very easy to use and the royalty free stock images integration was very useful when creating entries for my coffee shop. However the paid plans are very exepnsive and starts from $489 a month! 
