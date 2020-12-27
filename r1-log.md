@@ -61,3 +61,7 @@ Proceeded with #100DaysOfCode translation as well.
 
 ### R1D12
 Finished Algorithms section on FCC.
+
+### R1D13
+Completed the whole OOP section in the #freeCodeCamp curriculum.
+Read/watched some other sources about OOP features in JS, at first it was a bit strange without classes.
