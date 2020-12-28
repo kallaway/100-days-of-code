@@ -65,3 +65,7 @@ Finished Algorithms section on FCC.
 ### R1D13
 Completed the whole OOP section in the #freeCodeCamp curriculum.
 Read/watched some other sources about OOP features in JS, at first it was a bit strange without classes.
+
+### R1D14
+Did some functional programming challenges and read about it. Quite interesting topic.
+I am also planning a Python Data Science project on the side.
