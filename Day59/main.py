@@ -1,5 +1,7 @@
-from turtle import Screen
+from turtle import Screen, Turtle
 from paddle import Paddle
+from ball import Ball
+import time
 
 screen = Screen()
 screen.bgcolor("black")
@@ -10,6 +12,7 @@ screen.tracer(0)
 r_paddle = Paddle((350, 0))
 l_paddle = Paddle((-350, 0))
 
+ball = Ball()
 
 screen.listen()
 # research ways to make paddle scroll
@@ -21,6 +24,8 @@ screen.onkey(l_paddle.go_down, "s")
 
 game_on = True
 while game_on:
+    time.sleep(0.1)
+    ball.move()
     screen.update()
 
 screen.exitonclick()
