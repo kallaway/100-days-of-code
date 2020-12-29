@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:klotski_flutter/board/game_board.dart';
+// import 'package:klotski_flutter/board/game_board.dart';
 
 
 void main() {
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget{
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: GamePage(),
+      // home: GamePage(),
     );
 
 
