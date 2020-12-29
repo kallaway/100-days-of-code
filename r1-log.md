@@ -69,3 +69,8 @@ Read/watched some other sources about OOP features in JS, at first it was a bit 
 ### R1D14
 Did some functional programming challenges and read about it. Quite interesting topic.
 I am also planning a Python Data Science project on the side.
+
+### R1D15
+Proceeding with Functional Programming challenges on #freeCodeCamp 
+Needed to do it before work, but if I find some time after work, I'll continue it.
+Can' wait for the projects of this section.
