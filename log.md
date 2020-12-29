@@ -103,3 +103,10 @@
 **Today's Progress**: Made huge progress on my coffee shop website. Added Menu Items, Product Items, Contact us section with getform, CSS styling. Looking into Snipcart for cart checkout integration 
 
 **Thoughts:** Discovered a new javascript built in object called Set that lets you store unique values of any type. It is very useful when filtering an array of objects and you only want to unique values. Combined with Array.from() static method you can create an array from the string result of Set().
+
+### Day 18: 28 December, 2020
+
+**Today's Progress**: Finished my Gatsby online Coffee shop. https://github.com/rethc/smooth-brew 
+
+**Thoughts:** TODO: CSS styling, Toast notification when users add an item to the cart, Use Material UI or Bootstrap plugin, Custom logos and icons, Look more into Snipcart and styling the modals
+
