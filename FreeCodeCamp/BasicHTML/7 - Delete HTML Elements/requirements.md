@@ -1,0 +1,3 @@
+- Your h1 element should be deleted.
+- Your h2 element should be on the page.
+- Your p element should be on the page.
