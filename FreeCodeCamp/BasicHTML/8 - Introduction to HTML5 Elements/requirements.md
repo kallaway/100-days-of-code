@@ -1,0 +1,7 @@
+- You should have 2 p elements with Kitty Ipsum text. 
+- Each of your p elements should have a closing tag.
+- Your p element should contain the first few words (few is defined in dictionary as "not many but more than one", but in this example, minimum of three words in each tag are required) of the provided additional kitty ipsum text: 'Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.'
+- Your code should have one main element.
+- The 'main' element should have two paragraph elements as children.
+- The opening 'main' tag should come before the first paragraph tag.
+- The closing 'main' tag should come after the second closing paragraph tag.

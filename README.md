@@ -3,16 +3,12 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](current-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Translations
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
-
-## If you've decided to join:
+## If you are reading this and are thinking of participating:
 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
     Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel
@@ -29,7 +25,7 @@ If you want to help by providing a translation of content/rules in the language 
 
 ## ⚡ Interested in meaningfully changing your life & getting the results you want?
 
-I publish a newsletter called [Do the Opposite](https://dotheopposite.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
+The dude who made the original repo publishes a newsletter called [Do the Opposite](https://dotheopposite.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
 
 The themes covered are:
 - **Habit Change**. Learn how to successfully acquire good habits and how to quit bad ones.
@@ -40,18 +36,17 @@ The themes covered are:
 - **Minimalism** Living with less has lots of benefits: reduced stress, less cleaning, better finances and a lot more!
 - **Other topics**. Psychology, learning to code, alternative lifestyles and more.
 
-Join the Do the Opposite Community!
 
-💌 [SUBSCRIBE to the newsletter and start changing your life!](https://dotheopposite.substack.com/)
+💌 [SUBSCRIBE to the newsletter!](https://dotheopposite.substack.com/)
 
 
 ## Want to change other habits?
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/).
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+It is recommended you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
 
 ## Note
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
+* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to the original creator of the project on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)

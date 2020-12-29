@@ -1,0 +1,27 @@
+version: "3.8"
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/code
+    environment:
+      FLASK_ENV: development
+  redis:
+    image: "redis:alpine"
+
+# This Compose file defines two services: web and redis.
+
+# The web service uses an image that’s built from the Dockerfile in the current directory.
+# It then binds the container and the host machine to the exposed port, 5000. 
+# This example service uses the default port for the Flask web server, 5000.
+
+
+# The redis service uses a public Redis image pulled from the Docker Hub registry.
+
+# The new volumes key mounts the project directory (current directory) on the host to /code inside the container,
+#  allowing you to modify the code on the fly, without having to rebuild the image.
+#   The environment key sets the FLASK_ENV environment variable, which tells flask run to run 
+#   in development mode and reload the code on change.
+#  This mode should only be used in development.
