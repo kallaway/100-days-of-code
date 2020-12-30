@@ -1,30 +1,28 @@
-# Rules of the 100 Days Of Code Challenge
+# Szabályok a 100DaysOfCode kihívásra vonatkozóan
 
-## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+## Fő elhatározás
+### *Minden nap programozni fogok legalább 1 órát a következő 100 nap során.*
 
-### I will have two days off during Christmas period.
+#### Kezdés
+2020 február 30.
 
-#### Start Date
-14th December, 2020.
-
-## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+## További szabályok
+1. Tweetelni fogom az előrehaladásomat naponta, használva a #100DaysOfCode hashtaget.
+2. Ha a munkám során programozok, az nem számít bele a kihívásba.
+3. Minden nap töltök fel kódot a GitHubra, így mindenki láthatja az előrehaladásomat.
+4. Naponta frissítem a [naplómat](naplo.md) az előrehaladásommal, hogy mindenki láthassa.
+5. Valódi projekteken fogok dolgozni, valódi problémákkal. A tutorialok, online kurzusok és videók nem számítanak bele a kihívásba. (Ha csak most kezdtél programozni, nézd át a [GYIK-et](gyik.md))
 
 
-## Ideas to make this challenge more effective
-1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
-2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
-3. If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
-4. If you can't push your code to GitHub for some reason (e.g. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
-5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
+## Ötletek, hogy még hatékonyabb legyen a kihívás
+1. Mindig adj egy linket a napi előrehaladáshoz a [naplódban](log.md). Akár a Github profilodat, akár a blogodat belinkelheted.
+2. Ha elakadsz, olvasd el ezt a cikket: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
+3. Ha nem érted, mi a lényeges különbség a tutorialok és a valós projektek hozzáadott értéke között, olvasd el ezt a cikket: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
+4. Ha nem tudsz feltölteni kódot a Githubra, osszál meg linkeket.
+5. Ha forkolod ezt a repót, egy bónusz: ha még nem dolgoztál Markdown-nal, most belejössz.
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+## Tartalomjegyzék
+* [Szabályzat](szabalyzat.md)
+* [Napló](naplo.md)
+* [GYIK](gyik.md)
+* [Segédanyagok](segedanyagok.md)
