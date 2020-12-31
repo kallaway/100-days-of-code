@@ -74,3 +74,11 @@ I am also planning a Python Data Science project on the side.
 Proceeding with Functional Programming challenges on #freeCodeCamp 
 Needed to do it before work, but if I find some time after work, I'll continue it.
 Can' wait for the projects of this section.
+
+### R1D16
+Did some functional programming challenges on #freeCodeCamp. 
+Learned a lot about map, filter, reduce and higher order functions. Interesting stuff.
+Also contributed to open source today.
+
+### R1D17
+Completed JS functional programming challenges on #freeCodeCamp and started a data science project on Kaggle.
