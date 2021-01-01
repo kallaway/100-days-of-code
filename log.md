@@ -197,7 +197,6 @@ Template:
 
 **Link(s) to work**: Will deploy to gitHub once clean up is done
 
-Example:
 ### Day 23: Sept 5th, 2020
 
 **Today's Progress**: Set up a back-end for my front-end fact project.
@@ -206,9 +205,19 @@ Example:
 
 **Link(s) to work**: Not pushed yet
 
+### Day 24: Jan 1st, 2021
+
+**Today's Progress**: Started second day of dev work on ecommerce project
+
+**Thoughts**: I have been lax on keeping up with this log. But I will try to get better with the new year. Today I was struggling with connecting my backend to my mongodb. The connection string was throwing me off. What I learned is that the uri:
+`mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]`
+
+I have two databases all under the same username and password, so I was able to use my previous database url and just needed to change the defaultAuthDb to the new database.
+
+**Link(s) to work**:
+
 Example:
 ### Day 2: June 14th, 2020 (Example 2)
-##### (delete me or comment me out)
 
 **Today's Progress**:
 
@@ -216,17 +225,6 @@ Example:
 
 **Link(s) to work**:
 
-Example:
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
 [Flutter](https://blog.codeminer42.com/build-your-first-app-with-flutter-getting-data-from-api-c9fb4c2a6812/)
