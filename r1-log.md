@@ -82,3 +82,8 @@ Also contributed to open source today.
 
 ### R1D17
 Completed JS functional programming challenges on #freeCodeCamp and started a data science project on Kaggle.
+
+### R1D18
+Working on intermediate algorithm scripting in Javascript. Challenging sometimes, but I really like it.
+Huge plans for the new year. I usually can't wait for the next challenge or project.
+Just need to keep discipline and hard work.
