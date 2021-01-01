@@ -210,11 +210,11 @@ Template:
 **Today's Progress**: Started second day of dev work on ecommerce project
 
 **Thoughts**: I have been lax on keeping up with this log. But I will try to get better with the new year. Today I was struggling with connecting my backend to my mongodb. The connection string was throwing me off. What I learned is that the uri:
-`mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]`
+`mongodb+srv://rootName:password@cluster0-jjbdh.mongodb.net/defaultDB?retryWrites=true`
 
-I have two databases all under the same username and password, so I was able to use my previous database url and just needed to change the defaultAuthDb to the new database.
+I have two databases all under the same username and password, so I was able to use my previous database url and just needed to change the defaultDB to the new database.
 
-**Link(s) to work**:
+**Link(s) to work**: [CJ Jewelry](https://github.com/TRose2014/cj-jewelry/tree/dev)
 
 Example:
 ### Day 2: June 14th, 2020 (Example 2)
