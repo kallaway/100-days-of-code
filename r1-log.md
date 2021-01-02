@@ -87,3 +87,8 @@ Completed JS functional programming challenges on #freeCodeCamp and started a da
 Working on intermediate algorithm scripting in Javascript. Challenging sometimes, but I really like it.
 Huge plans for the new year. I usually can't wait for the next challenge or project.
 Just need to keep discipline and hard work.
+
+### R1D19
+Still worked on #freeCodeCamp JS intermediate algorithms. Quite challenging.
+Also worked on a data science project on forest cover.
+Link: https://github.com/patakib/forest-cover-analysis/blob/master/forest-cover.ipynb
