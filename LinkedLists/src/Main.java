@@ -37,6 +37,14 @@ public class Main {
 		list.printList();
 		System.out.println(list.getSize());
 		
+//		Employee llAddBefore = new Employee("LLL", "lll", 888);
+//		list.addBefore(llAddBefore, hk);
+		
+		list.addBefore(new Employee("Someone", "else", 101), kb);
+		list.printList();
+		
+		
+		
 		
 	}
 

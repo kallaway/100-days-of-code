@@ -67,6 +67,35 @@ public class EmployeeDoublyLinkedList {
 		return removedNode;
 	}
 	
+	// challange 1
+	public boolean addBefore(Employee newEmployee, Employee existingEmployee) {
+		if(head == null) {
+			return false;
+		}
+		// find existing employee
+		EmployeeNode current = head;
+		while(current != null && !current.getEmployee().equals(existingEmployee)) {
+			current = current.getNext();
+		}
+		if(current == null) {
+			return false;
+		}
+		
+		EmployeeNode newNode = new EmployeeNode(newEmployee);
+		newNode.setPrevious(current.getPrevious());
+		newNode.setNext(current);
+		
+		current.setPrevious(newNode);
+		if(head == current) {
+			head = newNode;
+		}
+		else {
+			newNode.getPrevious().setNext(newNode);
+		}
+		size++;
+		return true;
+	}
+	
 	public int getSize() {
 		return size;
 	}
