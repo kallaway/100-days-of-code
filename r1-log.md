@@ -92,3 +92,7 @@ Just need to keep discipline and hard work.
 Still worked on #freeCodeCamp JS intermediate algorithms. Quite challenging.
 Also worked on a data science project on forest cover.
 Link: https://github.com/patakib/forest-cover-analysis/blob/master/forest-cover.ipynb
+
+### R1D20
+Worked on a data science project (forest cover) in Python and did 7 intermediate algorithm challenges in Javascript on #freeCodeCamp.
+Also reinstalled Linux Manjaro on my PC, I really like this OS.
