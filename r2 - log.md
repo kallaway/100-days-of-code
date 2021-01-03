@@ -572,3 +572,10 @@
   ##### Link to References:
     (F:\Study Material\Java\A-December-of-Algorithms-2020)
 
+# Day 68: 3rd January, 2021
+  ##### Today's progress:
+    Halfway through a leetcode problem
+  ##### Thoughts:
+    Need to improve out of the box thinking
+  ##### Link to References:
+    (https://leetcode.com/problems/design-search-autocomplete-system/)
