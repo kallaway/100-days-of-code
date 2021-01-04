@@ -96,3 +96,7 @@ Link: https://github.com/patakib/forest-cover-analysis/blob/master/forest-cover.
 ### R1D20
 Worked on a data science project (forest cover) in Python and did 7 intermediate algorithm challenges in Javascript on #freeCodeCamp.
 Also reinstalled Linux Manjaro on my PC, I really like this OS.
+
+### R1D21
+Worked on a data science project (forest cover) in Python and completed a lot of algorithms on freeCodeCamp.
+Already did 2 projects from Algorithms and Data Structures section.
