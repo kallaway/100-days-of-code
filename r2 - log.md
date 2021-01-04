@@ -579,3 +579,12 @@
     Need to improve out of the box thinking
   ##### Link to References:
     (https://leetcode.com/problems/design-search-autocomplete-system/)
+    
+# Day 69: 4th January, 2021
+  ##### Today's progress:
+    Halfway through a leetcode problem
+  ##### Thoughts:
+    Need to improve out of the box thinking
+    And solve large problems faster
+  ##### Link to References:
+    (https://leetcode.com/problems/design-search-autocomplete-system/)
