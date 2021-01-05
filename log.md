@@ -12,3 +12,8 @@ I will develop these applications: [GitHub repo](https://github.com/florinpop17/
 
 **Today's Progress:** i learned how to define applications layout and widget creations.
 
+
+### Day 2: January 5, 2021
+
+**Today's Progress:** i started to create a simple application to convert integer numbers to binary. today i've created a basic interface 
+
