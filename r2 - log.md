@@ -589,7 +589,7 @@
   ##### Link to References:
     (https://leetcode.com/problems/design-search-autocomplete-system/)
     
- # Day 70: 4th January, 2021
+ # Day 70: 5th January, 2021
   ##### Today's progress:
     Halfway through a leetcode problem
   ##### Thoughts:
