@@ -588,3 +588,12 @@
     And solve large problems faster
   ##### Link to References:
     (https://leetcode.com/problems/design-search-autocomplete-system/)
+    
+ # Day 70: 4th January, 2021
+  ##### Today's progress:
+    Halfway through a leetcode problem
+  ##### Thoughts:
+    Had Trouble figuring out comparator
+  ##### Link to References:
+    (https://leetcode.com/problems/design-search-autocomplete-system/submissions/)
+
