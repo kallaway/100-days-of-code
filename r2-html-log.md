@@ -152,3 +152,6 @@ Keep going through the basics of JavaScript, today was templatized strings, and 
 
 **R2D18, September 25th, 2020**
 Got an intro into Function Context in JavaScript, how to add properties and methods to objects, and nested objects. And also learned that JSON meant 'Java Script Object Notation'. I have used JSON files before in Java, but never bothered to learn where the format came from. Watched a couple of videos on how JavaScript handles Control Flow statements, and the different logical comparators it uses. Pretty basic stuff, but I'm trying to advance this with baby steps even thought I know how most of these stuff are handled already.
+
+**R2D1, January 5th, 2021**
+Finished section 5 of the Web Developer Bootcamp for HTML Forms & Tables. Also practiced replicating some tables found on Wikipedia articles.
