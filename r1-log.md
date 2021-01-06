@@ -100,3 +100,6 @@ Also reinstalled Linux Manjaro on my PC, I really like this OS.
 ### R1D21
 Worked on a data science project (forest cover) in Python and completed a lot of algorithms on freeCodeCamp.
 Already did 2 projects from Algorithms and Data Structures section.
+
+### R1D22-23
+Worked on a data science project (forest cover) in Python and completed the whole Javascript Data Structures and Algorithms part of #freeCodeCamp.
