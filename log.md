@@ -17,3 +17,7 @@ I will develop these applications: [GitHub repo](https://github.com/florinpop17/
 
 **Today's Progress:** i started to create a simple application to convert integer numbers to binary. today i've created a basic interface 
 
+
+### Day 3: January 6, 2021
+
+**Todays' Progress:** I finished to develop application business logic and I startetd to read documentation about unit testing.
