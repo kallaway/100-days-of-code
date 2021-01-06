@@ -5,3 +5,6 @@
 
 **R1D1 - January 5th, 2021**
 I have been advancing this Java course, I am currently on Section 11 and just completed the first Laboratory.
+
+**R1D2 - January 6th, 2021**
+Completed Section 11, Pass by Value and Pass by Reference in Java.
