@@ -54,6 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     children: [
                       Container(
                         child: TextField(
+                          key: Key('inputTextField'),
                           controller: _valueController,
                           decoration: InputDecoration(
                             hintText: 'Enter a number to convert'
@@ -69,6 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     children: [
                       Container(
                         child: FlatButton(
+                          key: Key('convertButton'),
                           color: Colors.blue,
                           textColor: Colors.white,
                           disabledColor: Colors.grey,
@@ -94,7 +96,12 @@ class _MyHomePageState extends State<MyHomePage> {
           Container(
             child: Row(
               children: [
-                Expanded(child: Text('Result: $_binary')),
+                Expanded(
+                  child: Text(
+                    'Result: $_binary',
+                    key: Key('resultText'),
+                  )
+                ),
               ],
             ),
           )
