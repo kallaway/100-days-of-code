@@ -29,10 +29,12 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
 
+  TextEditingController _valueController = new TextEditingController();
   var _binary = "";
 
   void _convertToBinary() {
-    // TODO
+    var strToInt = int.parse(this._valueController.text);
+    this._binary = strToInt.toRadixString(2);
   }
 
   @override
@@ -52,6 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     children: [
                       Container(
                         child: TextField(
+                          controller: _valueController,
                           decoration: InputDecoration(
                             hintText: 'Enter a number to convert'
                           )
@@ -72,7 +75,10 @@ class _MyHomePageState extends State<MyHomePage> {
                           disabledTextColor: Colors.black,
                           padding: EdgeInsets.all(8.0),
                           splashColor: Colors.blueAccent,
-                          onPressed: _convertToBinary,
+                          onPressed: () {
+                            setState(() {
+                              this._convertToBinary();
+                            });},
                           child: Text(
                             "Convert",
                             style: TextStyle(fontSize: 20.0)
@@ -88,8 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
           Container(
             child: Row(
               children: [
-                Expanded(child: Text('Result: ')),
-                Expanded(child: Text('$_binary'))
+                Expanded(child: Text('Result: $_binary')),
               ],
             ),
           )
