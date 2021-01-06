@@ -597,3 +597,10 @@
   ##### Link to References:
     (https://leetcode.com/problems/design-search-autocomplete-system/submissions/)
 
+ # Day 71: 6th January, 2021
+  ##### Today's progress:
+    Began to learn about flask
+  ##### Thoughts:
+    None
+  ##### Link to References:
+    ()
