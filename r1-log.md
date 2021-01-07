@@ -103,3 +103,6 @@ Already did 2 projects from Algorithms and Data Structures section.
 
 ### R1D22-23
 Worked on a data science project (forest cover) in Python and completed the whole Javascript Data Structures and Algorithms part of #freeCodeCamp.
+
+### R1D24
+Working on Bootstrap challenges. I read the relevant parts of the documentation and playing with the features a bit to understand the whole context.
