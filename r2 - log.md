@@ -611,6 +611,6 @@
     Half way through learning to create an api using flask
     Brushed through flutter basics
   ##### Thoughts:
-    The importance of directory
+    The importance of directory relations
   ##### Link to References:
     ()
