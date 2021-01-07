@@ -25,4 +25,4 @@
 
 **Thoughts:** The imagenet C++ example was ok, but didn't give me any exposure to the CUDA API.  Now workig on [this CUDA tutorial](https://developer.nvidia.com/blog/even-easier-introduction-cuda/) and left off on the "Memory Allocation in CUDA" section.  
 
-**Link to work:**[getting started](https://github.com/ryfo18/100-days-of-code/cuda_tutorial)
+**Link to work:**[cuda tutorial](https://github.com/ryfo18/100-days-of-code/tree/master/cuda_tutorial)
