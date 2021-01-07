@@ -604,3 +604,13 @@
     None
   ##### Link to References:
     ()
+    
+# Day 72: 7th January, 2021
+  ##### Today's progress:
+    Learnt to use a combination of Selenium and Beautiful Soup
+    Half way through learning to create an api using flask
+    Brushed through flutter basics
+  ##### Thoughts:
+    The importance of directory
+  ##### Link to References:
+    ()
