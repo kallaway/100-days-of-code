@@ -18,3 +18,11 @@
 
 **Link to work:**[getting started](https://github.com/ryfo18/100-days-of-code)
 
+### Day 2: January 6, 2021
+#####
+
+**Today's Progress**: Got the imagenet model working with my C++ example and started on a CUDA tutorial.
+
+**Thoughts:** The imagenet C++ example was ok, but didn't give me any exposure to the CUDA API.  Now workig on [this CUDA tutorial](https://developer.nvidia.com/blog/even-easier-introduction-cuda/) and left off on the "Memory Allocation in CUDA" section.  
+
+**Link to work:**[getting started](https://github.com/ryfo18/100-days-of-code/cuda_tutorial)
