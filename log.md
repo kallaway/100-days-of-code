@@ -26,3 +26,14 @@
 **Thoughts:** The imagenet C++ example was ok, but didn't give me any exposure to the CUDA API.  Now workig on [this CUDA tutorial](https://developer.nvidia.com/blog/even-easier-introduction-cuda/) and left off on the "Memory Allocation in CUDA" section.  
 
 **Link to work:**[cuda tutorial](https://github.com/ryfo18/100-days-of-code/tree/master/cuda_tutorial)
+
+### Day 3: January 7, 2021
+#####
+
+**Today's Progress**: Finished the CUDA tutorial and started looking into the CUDA driver API.
+
+**Thoughts:** Started looking at the driver API and was gettig hung up trying to figure out how kernels work in CUDA.  Some resources:
+
+[CUDA Module Management API](https://docs.nvidia.com/cuda/cuda-driver-api/group__CUDA__MODULE.html#group__CUDA__MODULE_1g366093bd269dafd0af21f1c7d18115d3)
+[Driver API](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#driver-api)
+[nvcc overview](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html)
