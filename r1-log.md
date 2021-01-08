@@ -106,3 +106,9 @@ Worked on a data science project (forest cover) in Python and completed the whol
 
 ### R1D24
 Working on Bootstrap challenges. I read the relevant parts of the documentation and playing with the features a bit to understand the whole context.
+
+### R1D25
+Completed Bootstrap section (I knew it but it was a great refresher) and started with jQuery on #freeCodeCamp.
+Wrote a new post about train, validation and test sets:
+http://patbalint.pythonanywhere.com/blog/2021/1/8/train-test-and-validation-sets-machine-learning/
+Working on the Forest Cover data science project.
