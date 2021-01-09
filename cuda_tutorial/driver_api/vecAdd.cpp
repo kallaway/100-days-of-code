@@ -1,3 +1,8 @@
+#include <cuda.h>
+#include <stdio.h>
+#include <math.h>
+
+
 int main()
 {
     int N = 1e6;
@@ -6,12 +11,13 @@ int main()
     // Allocate input vectors h_A and h_B in host memory
     float* h_A = (float*)malloc(size);
     float* h_B = (float*)malloc(size);
+    float* h_C = (float*)malloc(size);
 
     // initialize input vectors
     for(int i = 0; i < N; i++)
     {
-        h_A = 1.0f;
-        h_B = 2.0f;
+        h_A[i] = 1.0f;
+        h_B[i] = 2.0f;
     }
 
     // Initialize -- this must always be called
@@ -36,16 +42,49 @@ int main()
 
     // Create module from binary file
     CUmodule cuModule;
-    cuModuleLoad(&CuModule, "VecAdd.ptx");
+    cuModuleLoad(&cuModule, "vecAdd_kernel.cubin");
 
     // Allocate vectors in device memory
     CUdeviceptr d_A;
-    CUMemAlloc(&d_A, size);
+    cuMemAlloc(&d_A, size);
     CUdeviceptr d_B;
-    CUMemAlloc(&d_B, size);
+    cuMemAlloc(&d_B, size);
     CUdeviceptr d_C;
-    CUMemAlloc(&d_C, size);
+    cuMemAlloc(&d_C, size);
 
     // Copy vectors from host memory to device memory
     cuMemcpyHtoD(d_A, h_A, size);
     cuMemcpyHtoD(d_B, h_B, size);
+
+    // Get function handle from module
+    CUfunction vecAdd;
+    cuModuleGetFunction(&vecAdd, cuModule, "vecAdd_kernel");
+
+    // Invoke kernel
+    int threadsPerBlock = 256;
+    int blocksPerGrid= (N + threadsPerBlock - 1) / threadsPerBlock;
+
+    void* args[] = { &d_A, &d_B, &d_C, &N };
+    cuLaunchKernel(vecAdd, blocksPerGrid, 1, 1, threadsPerBlock, 1, 1, 0, 0, args, 0);
+
+    cuMemcpyDtoH(h_C, d_C, size);
+
+    // Verify result
+    int i;
+
+    float maxErr = 0.0f; 
+    for(i = 0; i < N; i++)
+    {
+        maxErr = fmax(maxErr, fabs(d_C - 3.0f));
+    }
+
+    printf("Max Error %f", maxErr);
+
+    cuMemFree(d_A);
+    cuMemFree(d_B);
+    cuMemFree(d_C);
+
+    delete [] h_A;
+    delete [] h_B;
+    delete [] h_C;
+}

@@ -37,3 +37,10 @@
 [CUDA Module Management API](https://docs.nvidia.com/cuda/cuda-driver-api/group__CUDA__MODULE.html#group__CUDA__MODULE_1g366093bd269dafd0af21f1c7d18115d3)
 [Driver API](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#driver-api)
 [nvcc overview](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html)
+
+### Day 4: January 8, 2021
+#####
+
+**Today's Progress**: Tried the CUDA driver API but it wasn't working.  Couldn't get it compiled with g++.  Working on the vecAdd code.
+
+**Thoughts:** Finally got the CUDA code written and couldn't compile it with g++.  Compiled with nvcc.  It had a seg fault.  Didn't spend time debugging.  
