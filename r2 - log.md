@@ -614,3 +614,11 @@
     The importance of directory relations
   ##### Link to References:
     ()
+
+# Day 73: 8th January, 2021
+  ##### Today's progress:
+    Flask api and deploy in heroku
+  ##### Thoughts:
+    The importance of directory relations
+  ##### Link to References:
+    ()
