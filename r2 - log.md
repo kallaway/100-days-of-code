@@ -622,3 +622,11 @@
     The importance of directory relations
   ##### Link to References:
     ()
+  
+ # Day 74: 9th January, 2021
+  ##### Today's progress:
+    Worked on Flask api
+  ##### Thoughts:
+    The importance of directory relations
+  ##### Link to References:
+    ()
