@@ -112,3 +112,8 @@ Completed Bootstrap section (I knew it but it was a great refresher) and started
 Wrote a new post about train, validation and test sets:
 http://patbalint.pythonanywhere.com/blog/2021/1/8/train-test-and-validation-sets-machine-learning/
 Working on the Forest Cover data science project.
+
+### R1D26
+Basically there are two parts: project work+#freeCodeCamp challenges.
+Currently the project is a classification ML project in #Python and I learn #jQuery on FCC.
+The end goal is to connect them together in full stack projects.
