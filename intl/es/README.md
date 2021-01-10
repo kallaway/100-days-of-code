@@ -14,7 +14,7 @@
 
 0.  Mire [el sitio Oficial](http://100daysofcode.com/) para el movimiento #100DaysOfCode. Conecte con otra gente en la plataforma que elija de esta lista: www.100DaysOfCode.com/connect. Puede encontrar [aquí](https://www.100daysofcode.com/slack) un enlace de invitación al canal de Slack.
 1.  Lea [Unirse a #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-1.  Bifúrquese (fork) este repositorio y añada al [diario](diario.md) o al diario rápido [R1 diario](r1-diario.md) (R1 significa ronda 1). [Ejemplo](https://github.com/Kallaway/100-days-kallaway-log).
+1.  Bifúrque (fork) este repositorio y añada al [diario](diario.md) o al diario rápido [R1 diario](r1-diario.md) (R1 significa ronda 1). [Ejemplo](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Programe por un mínimo de una hora por día durante los próximos 100 días.**
 1.  **¡Incentive al menos a otras dos personas en el reto en Twitter cada día! Devuelva el favor a alguien más.**
 1.  Cambie el día en [reglas](reglas.md) al día en que empezó el reto.
@@ -32,5 +32,5 @@ Le recomiendo que se comprometa con no más de 2 o 3 retos a la vez, idealmente 
 
 ## Nota
 
-* Si tienes preguntas o ideas sobre 100DaysOfCode (u otras ideas), no duda en contactarme en Twitter: [@ka11away](https://twitter.com/ka11away)
+* Si tienes preguntas o ideas sobre 100DaysOfCode (u otras ideas), no dude en contactarme en Twitter: [@ka11away](https://twitter.com/ka11away)
 * Si le gusta este repositorio y lo encuentra útil, por favor, considera &#9733; darle un estrella (en la parte superior derecha :)
