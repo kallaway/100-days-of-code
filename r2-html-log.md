@@ -155,3 +155,9 @@ Got an intro into Function Context in JavaScript, how to add properties and meth
 
 **R2D1, January 5th, 2021**
 Finished section 5 of the Web Developer Bootcamp for HTML Forms & Tables. Also practiced replicating some tables found on Wikipedia articles.
+
+**R2D2, January 7th, 2021**
+Completed section 6 of the Web Developer Bootcamp 2021, covering the very basics of CSS. Did a couple exercises and practiced a little bit with styling a simple page.
+
+**R2D3, January 10th, 2021**
+Went through the Section 7 of the course, refreshing my knowledge about CSS Selectors and practicing a bit with a fun little site. Went through half the lesson.
