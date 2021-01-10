@@ -754,3 +754,14 @@ Like that the state is printed on the map once guessed, but too easy.
 **Link(s) to work**
 
 <a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day68">Day 68</a>
+
+### Day 69: Sunday, January 10, 2021
+
+**Today's Progress**: Converted guess the state game to guess the capitals.
+
+**Thoughts**
+Once the user guesses the capital, it appears on the matching state.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day68">Day 68</a>

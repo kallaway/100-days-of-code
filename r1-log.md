@@ -231,3 +231,63 @@ Coder's log, day 53, December 18, 2020; Spirograph, Hirst dot drawing
 ## R1D54
 
 Coder's log, day 54, December 21, 2020; Turtle race, etch-o-sketch
+
+## R1D55
+
+Coder's log, day 55, December 22, 2020; Completed the turtle race game.
+
+## R1D56
+
+Coder's log, day 56, December 23, 2020; Started work on the classic snake game.
+
+## R1D57
+
+Coder's log, day 57, December 24, 2020; Completed the classic snake game.
+
+## R1D58
+
+Coder's log, day 58, December 25, 2020; Merry Christmas! Yep, coded this morning. Update the snake game.
+
+## R1D59
+
+Coder's log, day 59, December 28, 2020; Started pong game.
+
+## R1D60
+
+Coder's log, day 60, December 29, 2020; Continued with pong game.
+
+## R1D61
+
+Coder's log, day 61, December 30, 2020; Started frogger game, but with a turtle.
+
+## R1D62
+
+Coder's log, day 62, December 31, 2020; Ended the year still working on the turtle crossing game.
+
+## R1D63
+
+Coder's log, day 63, January 1, 2021; Happy New Year! Started working with files in Python.
+
+## R1D64
+
+Coder's log, day 64, January 4, 2021; Learned how to mail merge.
+
+## R1D65
+
+Coder's log, day 65, January 5, 2021; Worked with weather data.
+
+## R1D66
+
+Coder's log, day 66, January 6, 2021; Continued working with weather data csv file.
+
+## R1D67
+
+Coder's log, day 67, January 7, 2021; Started working with squirrel data.
+
+## R1D68
+
+Coder's log, day 68, January 8, 2021; Started working on guess the states game.
+
+## R1D69
+
+Coder's log, day 69, January 10, 2021; Started working on guess the states game.
