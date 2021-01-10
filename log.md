@@ -44,3 +44,19 @@
 **Today's Progress**: Tried the CUDA driver API but it wasn't working.  Couldn't get it compiled with g++.  Working on the vecAdd code.
 
 **Thoughts:** Finally got the CUDA code written and couldn't compile it with g++.  Compiled with nvcc.  It had a seg fault.  Didn't spend time debugging.  
+
+### Day 5: January 9, 2021
+#####
+
+**Today's Progress**: Finally got the CUDA driver API code working with the vector addition kernel. 
+
+**Thoughts:** It took a lot of work to get this going, but I finally compiled a .cubin file with kernel code and compiled the host code and ran the executable and got it to run.  Tomorrow I want to look a little more into this and see if I can create a Makefile for compilation.  I'd also like to look into more how to get g++ to work for host code.
+
+### Day 6: January 10, 2021
+#####
+
+**Today's Progress**: Was able to compile kernel code with nvcc and then use g++ to link.
+
+**Thoughts:** Link below to show how I was able to compile and link with g++.  Looks like cuda can only be in a shared library.
+
+**References to work:**[Separate compilation of CUDA code into library](https://forums.developer.nvidia.com/t/separate-compilation-of-cuda-code-into-library-for-use-with-existing-code-base/50774/8)

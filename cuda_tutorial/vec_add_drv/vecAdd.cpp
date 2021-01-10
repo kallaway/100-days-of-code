@@ -5,7 +5,7 @@
 
 int main()
 {
-    int N = 1e6;
+    int N = 256;
     size_t size = N * sizeof(float);
 
     // Allocate input vectors h_A and h_B in host memory
@@ -42,7 +42,8 @@ int main()
 
     // Create module from binary file
     CUmodule cuModule;
-    cuModuleLoad(&cuModule, "vecAdd_kernel.cubin");
+    int status = cuModuleLoad(&cuModule, "vecAdd_kernel.cubin");
+    printf("Status %d\n", status);
 
     // Allocate vectors in device memory
     CUdeviceptr d_A;
@@ -67,6 +68,7 @@ int main()
     void* args[] = { &d_A, &d_B, &d_C, &N };
     cuLaunchKernel(vecAdd, blocksPerGrid, 1, 1, threadsPerBlock, 1, 1, 0, 0, args, 0);
 
+    cuCtxSynchronize();
     cuMemcpyDtoH(h_C, d_C, size);
 
     // Verify result
@@ -75,7 +77,7 @@ int main()
     float maxErr = 0.0f; 
     for(i = 0; i < N; i++)
     {
-        maxErr = fmax(maxErr, fabs(d_C - 3.0f));
+        maxErr = fmax(maxErr, fabs(h_C[i] - 3.0f));
     }
 
     printf("Max Error %f", maxErr);

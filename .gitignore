@@ -2,3 +2,7 @@ my-recognition/CMakeFiles
 cuda_tutorial/vec_add/add_cuda
 cuda_tutorial/vec_add_drv/vecAdd
 cuda_tutorial/vec_add/add
+*.o
+*.ptx
+*.cubin
+*.a
