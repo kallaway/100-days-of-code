@@ -600,3 +600,157 @@ The etch-o-sketch was very fun. Managed to get turtles to starting positions.
 **Link(s) to work**
 
 <a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day54">Day 54</a>
+
+### Day 55: Tuesday, December 22, 2020
+
+**Today's Progress**: Turtle race game.
+
+**Thoughts**
+Completed the turtle race game. Fun to see it on Repl.it
+
+**Link(s) to work**
+
+<a href="https://repl.it/@flyboy85749/Turtle-Race">Turtle Race</a>
+
+### Day 56: Wednesday, December 23, 2020
+
+**Today's Progress**: Started work on the classic snake game, but in Python.
+
+**Thoughts**
+The snake game is a lot more involved than I had initially thought.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day56">Day 56</a>
+
+### Day 57: Thursday, December 24, 2020
+
+**Today's Progress**: Completed the snake game.
+
+**Thoughts**
+Making the snake game was a lot of fun, and challengin at the same time.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day57">Day 57</a>
+
+### Day 58: Friday, December 25, 2020
+
+**Today's Progress**: Update the snake game.
+
+**Thoughts**
+Updated the code to include added segments when food eaten.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day58">Day 58</a>
+
+### Day 59: Monday, December 28, 2020
+
+**Today's Progress**: Started a pong game.
+
+**Thoughts**
+Managed to get the paddles working, and the ball bouncing.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day59">Day 59</a>
+
+### Day 60: Tuesday, December 29, 2020
+
+**Today's Progress**: Continue working on the pong game.
+
+**Thoughts**
+I'd like to figure out how to move the paddles more smoothly.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day60">Day 60</a>
+
+### Day 61: Wednesday, December 30, 2020
+
+**Today's Progress**: Started a Frogger-like game.
+
+**Thoughts**
+Why did the turtle cross the road? 
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day61">Day 61</a>
+
+### Day 62: Thursday, December 31, 2020
+
+**Today's Progress**: Continued work on the turtle crossing game.
+
+**Thoughts**
+Added a scoreboard and car manager and player files.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day61">Day 61</a>
+
+### Day 63: Friday, January 1, 2021
+
+**Today's Progress**: Started learning how to work with files.
+
+**Thoughts**
+Learned how to read and write files, and open files.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day63">Day 63</a>
+
+### Day 64: Monday, January 4, 2021
+
+**Today's Progress**: Learned how to mail merge.
+
+**Thoughts**
+Pretty cool. Was able to take a list of names and create new files with names inserted.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day64">Day 64</a>
+
+### Day 65: Tuesday, January 5, 2021
+
+**Today's Progress**: Worked with weather data.
+
+**Thoughts**
+Started learning how to work with csv files.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day65">Day 65</a>
+
+### Day 66: Wednesday, January 6, 2021
+
+**Today's Progress**: Continued working with weather data csv file.
+
+**Thoughts**
+I'm glad I am learning this, it will be very helpful in the future.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day65">Day 65</a>
+
+### Day 67: Thursday, January 7, 2021
+
+**Today's Progress**: Started working with squirrel data.
+
+**Thoughts**
+Used csv file created by volunteers in New York City, to track squirrels.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day67">Day 67</a>
+
+### Day 68: Friday, January 8, 2021
+
+**Today's Progress**: Started working on guess the states game.
+
+**Thoughts**
+Like that the state is printed on the map once guessed, but too easy.
+
+**Link(s) to work**
+
+<a href="https://github.com/flyboy85749/100-days-of-code/tree/master/Day68">Day 68</a>
