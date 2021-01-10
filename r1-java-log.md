@@ -14,3 +14,6 @@ Saw a few sample codes using Return, null references, the use of the 'this' keyw
 
 **R1D4 - January 9th, 2021**
 Learning about the order in which an object is initialized when you create a new instance of a child of another class in Java. Constructor and Method Overloading. Also learned about importing static methods from a Class with 'import static'. Covered the use of the final keyword in variables, methods and classes. And also an intro to Arrays.
+
+**R1D5 - January 10th, 2021**
+Finished section 20 of the Java course, which covered Array fundamentals. Finished section 21 which covered 2D arrays. Entered section 22, where we analyze class design and UML diagrams.
