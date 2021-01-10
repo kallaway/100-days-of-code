@@ -28,7 +28,7 @@
 
 Mira [el proyecto reto #100DaysOfX](http://100daysofx.com/). Cambiando sus hábitos está cambiando su vida. Recuerde que el mejor tiempo para empezar siempre será ahora.
 
-Le recomiendo que se comprometa con no más de 2 o 3 retos a la vez, idealmente 2. Si está haciendo el # 100DaysOfCode que implica mucha actividad mental, pruebe el [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), o [#100DaysOfFitness](http://100daysofx.com/challenges/). ¡Hay mucho más en el sitio web, compruebe todas las opciones y elija los hábitos que desea cambiar! Idiomas, escritura, meditación, llevar un diario, cocina y más.
+Le recomiendo que no se comprometa con  más de 2 o 3 retos a la vez, idealmente 2. Si está haciendo el # 100DaysOfCode que implica mucha actividad mental, pruebe el [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), o [#100DaysOfFitness](http://100daysofx.com/challenges/). ¡Hay mucho más en el sitio web, compruebe todas las opciones y elija los hábitos que desea cambiar! Idiomas, escritura, meditación, llevar un diario, cocina y más.
 
 ## Nota
 
