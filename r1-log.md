@@ -117,3 +117,9 @@ Working on the Forest Cover data science project.
 Basically there are two parts: project work+#freeCodeCamp challenges.
 Currently the project is a classification ML project in #Python and I learn #jQuery on FCC.
 The end goal is to connect them together in full stack projects.
+
+### R1D27
+Trained the machine learning model with grid search and pipeline. I wanna try at least 5 estimators. This is ongoing.
+
+Before deep-dive into React on #freeCodeCamp, built a miniproject with vanilla #javascript:
+https://github.com/patakib/color-picker-tool
