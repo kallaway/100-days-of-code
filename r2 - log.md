@@ -603,7 +603,7 @@
   ##### Thoughts:
     None
   ##### Link to References:
-    ()
+    (https://github.com/PriyaShrinithi/Freidburg-s-Groceries)
     
 # Day 72: 7th January, 2021
   ##### Today's progress:
@@ -613,7 +613,7 @@
   ##### Thoughts:
     The importance of directory relations
   ##### Link to References:
-    ()
+    (https://github.com/PriyaShrinithi/Freidburg-s-Groceries)
 
 # Day 73: 8th January, 2021
   ##### Today's progress:
@@ -629,4 +629,20 @@
   ##### Thoughts:
     The importance of directory relations
   ##### Link to References:
-    ()
+    (https://github.com/PriyaShrinithi/Freidburg-s-Groceries)
+
+ # Day 75: 10th January, 2021
+  ##### Today's progress:
+    Flutter-api integration
+  ##### Thoughts:
+    Could not figure out the problem
+  ##### Link to References:
+    (https://github.com/PriyaShrinithi/Freidburg-s-Groceries)
+    
+# Day 76: 11th January, 2021
+  ##### Today's progress:
+    Flutter-api integration
+  ##### Thoughts:
+    Could not figure out the problem
+  ##### Link to References:
+    (https://github.com/PriyaShrinithi/Freidburg-s-Groceries)
