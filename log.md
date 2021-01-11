@@ -57,6 +57,6 @@
 
 **Today's Progress**: Was able to compile kernel code with nvcc and then use g++ to link.
 
-**Thoughts:** Link below to show how I was able to compile and link with g++.  Looks like cuda can only be in a shared library.
+**Thoughts:** Link below to show how I was able to compile and link with g++.  Looks like cuda can only be in a shared library. Started working on the Makefile but have some work to do to get it working.  Also didn't realize that I didn't put together a .cubin file from my kernel file, so need to integrate that into the Makefile.
 
 **References to work:**[Separate compilation of CUDA code into library](https://forums.developer.nvidia.com/t/separate-compilation-of-cuda-code-into-library-for-use-with-existing-code-base/50774/8)
