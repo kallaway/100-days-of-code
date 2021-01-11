@@ -758,6 +758,7 @@ Like that the state is printed on the map once guessed, but too easy.
 ### Day 69: Sunday, January 10, 2021
 
 **Today's Progress**: Converted guess the state game to guess the capitals.
+Started learning about list comprehension. Day 26 of Udemy course.
 
 **Thoughts**
 Once the user guesses the capital, it appears on the matching state.

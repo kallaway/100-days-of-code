@@ -290,4 +290,5 @@ Coder's log, day 68, January 8, 2021; Started working on guess the states game.
 
 ## R1D69
 
-Coder's log, day 69, January 10, 2021; Started working on guess the states game.
+Coder's log, day 69, January 10, 2021; Converted states game to guess the capitals. Also,
+started learning about list comprehension in Python.
