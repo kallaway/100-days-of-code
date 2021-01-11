@@ -16,10 +16,6 @@ while len(guessed_capitals) < 50:
                                       prompt="What's another state's capital?").title()
     if answer_capital == "Exit":
         missing_states = [state for state in all_capitals if state not in guessed_capitals]
-        # missing_states = []
-        # for state in all_capitals:
-        #     if state not in guessed_capitals:
-        #         missing_states.append(state)
         new_data = pandas.DataFrame(missing_states)
         new_data.to_csv("states_to_learn.csv")
         break
