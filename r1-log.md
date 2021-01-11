@@ -123,3 +123,7 @@ Trained the machine learning model with grid search and pipeline. I wanna try at
 
 Before deep-dive into React on #freeCodeCamp, built a miniproject with vanilla #javascript:
 https://github.com/patakib/color-picker-tool
+
+### R1D28
+Fitted support vector classifier model with the best parameter in the forest cover project.
+In case of a huge dataset, you can run Grid Search on a smaller portion and that might provide the best hyperparameters.
