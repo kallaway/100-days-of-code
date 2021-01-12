@@ -646,3 +646,11 @@
     Could not figure out the problem
   ##### Link to References:
     (https://github.com/PriyaShrinithi/Freidburg-s-Groceries)
+
+# Day 77: 12th January, 2021
+  ##### Today's progress:
+    Half way through a leetcode problem
+  ##### Thoughts:
+    Could not figure out the problem
+  ##### Link to References:
+    (https://leetcode.com/problems/basic-calculator/submissions/)
