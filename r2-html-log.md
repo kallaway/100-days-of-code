@@ -161,3 +161,6 @@ Completed section 6 of the Web Developer Bootcamp 2021, covering the very basics
 
 **R2D3, January 10th, 2021**
 Went through the Section 7 of the course, refreshing my knowledge about CSS Selectors and practicing a bit with a fun little site. Went through half the lesson.
+
+**R2D4, January 12th, 2021**
+Finished Section 7. I Learned a few things about CSS selectors, the difference between Pseudo classes and pseudo elements, and a few things about Specificity. I also saw a few options of the Dev Tools on Google Chrome that I didn't know about. Also I learned that there are certain properties on the elements that are not inherited by default which can be changed by setting that property to 'inherit'
