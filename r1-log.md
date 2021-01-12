@@ -127,3 +127,9 @@ https://github.com/patakib/color-picker-tool
 ### R1D28
 Fitted support vector classifier model with the best parameter in the forest cover project.
 In case of a huge dataset, you can run Grid Search on a smaller portion and that might provide the best hyperparameters.
+
+### R1D29
+Trained #MachineLearning model in #Python and started another #javascript miniproject:
+https://github.com/patakib/image-viewer
+
+Front-end need to be heavily practiced before it would be natural. I'll do some miniprojects before proceeding with #React on #freeCodeCamp
