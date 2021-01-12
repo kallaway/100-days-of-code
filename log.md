@@ -60,3 +60,10 @@
 **Thoughts:** Link below to show how I was able to compile and link with g++.  Looks like cuda can only be in a shared library. Started working on the Makefile but have some work to do to get it working.  Also didn't realize that I didn't put together a .cubin file from my kernel file, so need to integrate that into the Makefile.
 
 **References to work:**[Separate compilation of CUDA code into library](https://forums.developer.nvidia.com/t/separate-compilation-of-cuda-code-into-library-for-use-with-existing-code-base/50774/8)
+
+### Day 7: January 11, 2021
+#####
+
+**Today's Progress**: Today just did the 2nd lesson from stackcodecamp call "Basic CSS."
+
+**Thoughts:** I knew most of the basic CSS as it's one of the things I've done quite a bit of.  A good refresher though and learned some new things.
