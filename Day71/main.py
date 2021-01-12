@@ -15,3 +15,17 @@ weather_f = {day: temp_c * 9/5 + 32 for (day, temp_c) in weather_c.items()}
 
 
 print(weather_f)
+
+# iterate over a pandas dataframe
+# student_dict = {
+#     "student": ["Angela", "James", "Lily"],
+#     "score": [56, 76, 98]
+# }
+#
+# import pandas
+#
+# student_data_frame = pandas.DataFrame(student_dict)
+#     print(student_data_frame)
+#
+# for (index, row) in student_data_frame.iterrows():
+#     print(row.student)
