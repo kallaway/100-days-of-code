@@ -64,6 +64,15 @@
 ### Day 7: January 11, 2021
 #####
 
-**Today's Progress**: Today just did the 2nd lesson from stackcodecamp call "Basic CSS."
+**Today's Progress**: Today just did the 2nd lesson from freeCodeCamp call "Basic CSS."
 
 **Thoughts:** I knew most of the basic CSS as it's one of the things I've done quite a bit of.  A good refresher though and learned some new things.
+
+### Day 8: January 12, 2021
+#####
+
+**Today's Progress**: More lessons from freeCodeCamp today. Today was "Applied Visual Design."
+
+**Thoughts:** A lot of this was new to me.  I liked the cubic-bezier function and animation sequences to get things moving on the screen.  Very interesting.
+
+
