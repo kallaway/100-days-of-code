@@ -133,3 +133,10 @@ Trained #MachineLearning model in #Python and started another #javascript minipr
 https://github.com/patakib/image-viewer
 
 Front-end need to be heavily practiced before it would be natural. I'll do some miniprojects before proceeding with #React on #freeCodeCamp
+
+### R1D30
+I completed a #javascript miniproject. 
+https://github.com/patakib/image-viewer
+Wanna learn? Do projects. Solve real problems.
+If you only do tutorials, the real questions won't be asked and answered. At least modify and play with the code.
+Challenge yourself, be active.
