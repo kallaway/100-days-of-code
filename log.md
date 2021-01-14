@@ -76,3 +76,11 @@
 **Thoughts:** A lot of this was new to me.  I liked the cubic-bezier function and animation sequences to get things moving on the screen.  Very interesting.
 
 
+### Day 9: January 13, 2021
+#####
+
+**Today's Progress**: Spent some time today understanding the tensorcores cuDNN code.  
+
+**Thoughts:** I cheated some today and did real work, but it was very beneficial because I had been wanting to walk through this code and think about how we want to refactor it to move the CUDA pieces into the correct places so that we can build it.  
+
+
