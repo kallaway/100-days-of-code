@@ -140,3 +140,8 @@ https://github.com/patakib/image-viewer
 Wanna learn? Do projects. Solve real problems.
 If you only do tutorials, the real questions won't be asked and answered. At least modify and play with the code.
 Challenge yourself, be active.
+
+### R1D31
+#MachineLearning model still training.
+Next task is a full stack web project that I started previously. Backend written in #django, db is postgres.
+Time to update it and add functionality on #Frontend with #javascript. Seems to be a great learning.
