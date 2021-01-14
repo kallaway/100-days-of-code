@@ -17,3 +17,6 @@ Learning about the order in which an object is initialized when you create a new
 
 **R1D5 - January 10th, 2021**
 Finished section 20 of the Java course, which covered Array fundamentals. Finished section 21 which covered 2D arrays. Entered section 22, where we analyze class design and UML diagrams.
+
+**R1D6 - January 13th, 2021**
+Started working on the Sales project from the class, only following the UML diagram as it was shown and trying to follow a TDD technique. Finished section 22 of the course.
