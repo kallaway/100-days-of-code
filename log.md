@@ -84,3 +84,11 @@
 **Thoughts:** I cheated some today and did real work, but it was very beneficial because I had been wanting to walk through this code and think about how we want to refactor it to move the CUDA pieces into the correct places so that we can build it.  
 
 
+### Day 10: January 14, 2021
+#####
+
+**Today's Progress**: Rebuilt the lotto_picker.py tool that I use for my dynasty league.
+
+**Thoughts:** Program went through a little bit of a redesign but in the end worked very well and now I have it saved in my git repo!
+
+
