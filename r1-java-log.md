@@ -20,3 +20,6 @@ Finished section 20 of the Java course, which covered Array fundamentals. Finish
 
 **R1D6 - January 13th, 2021**
 Started working on the Sales project from the class, only following the UML diagram as it was shown and trying to follow a TDD technique. Finished section 22 of the course.
+
+**R1D7 - January 14th, 2021**
+Started working with Section 23 of the Java course. Started working on what would be the final project of the first part of the course. Really willing to go forward, can't wait to get to the part where we integrate HTML with a Java backend.
