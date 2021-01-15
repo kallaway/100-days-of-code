@@ -145,3 +145,7 @@ Challenge yourself, be active.
 #MachineLearning model still training.
 Next task is a full stack web project that I started previously. Backend written in #django, db is postgres.
 Time to update it and add functionality on #Frontend with #javascript. Seems to be a great learning.
+
+### R1D32
+Still try to train the #machineLearning model.
+Concentrated on the #FullStack app, this is a ticketing system. CRUD with some styling and #Django.
