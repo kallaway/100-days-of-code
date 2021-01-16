@@ -92,3 +92,11 @@
 **Thoughts:** Program went through a little bit of a redesign but in the end worked very well and now I have it saved in my git repo!
 
 
+### Day 11: January 15, 2021
+#####
+
+**Today's Progress**: Pretty light day of coding and just went to freeCodeCamp and did the Accessibility training.
+
+**Thoughts:** Will probably have to revisit this training when it's relevant, but was beneficial to understand the basics of using HTML for screen readability.
+
+
