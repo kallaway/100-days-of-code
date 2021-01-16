@@ -23,3 +23,6 @@ Started working on the Sales project from the class, only following the UML diag
 
 **R1D7 - January 14th, 2021**
 Started working with Section 23 of the Java course. Started working on what would be the final project of the first part of the course. Really willing to go forward, can't wait to get to the part where we integrate HTML with a Java backend.
+
+**R1D8 - January 16th, 2021**
+Finished the final project of the course and ended with Section 23rd. Really excited to keep moving forward. Started with the second part of the course, learned a new thing about variable arguments (varargs) in a method.
