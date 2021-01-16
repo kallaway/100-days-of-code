@@ -149,3 +149,7 @@ Time to update it and add functionality on #Frontend with #javascript. Seems to 
 ### R1D32
 Still try to train the #machineLearning model.
 Concentrated on the #FullStack app, this is a ticketing system. CRUD with some styling and #Django.
+
+### R1D33
+Made some styling and #javascript functions for filtering and ordering the table in my new app.
+I want to deploy this project asap, then continuously develop it further, I have more ideas.
