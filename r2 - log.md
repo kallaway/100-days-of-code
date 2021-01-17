@@ -654,3 +654,38 @@
     Could not figure out the problem
   ##### Link to References:
     (https://leetcode.com/problems/basic-calculator/submissions/)
+    
+
+# Day 78: 13th January, 2021
+  ##### Today's progress:
+    Half way through a leetcode problem
+  ##### Thoughts:
+    Could not figure out the problem
+  ##### Link to References:
+    (https://leetcode.com/problems/basic-calculator/submissions/)
+    
+
+# Day 79: 14th January, 2021
+  ##### Today's progress:
+    Half way through a leetcode problem
+  ##### Thoughts:
+    Could not figure out the problem
+  ##### Link to References:
+    (https://leetcode.com/problems/basic-calculator/submissions/)
+
+
+# Day 80: 15th January, 2021
+  ##### Today's progress:
+    Solved Trapping Rainwater problem
+  ##### Thoughts:
+    Could not figure out the problem
+  ##### Link to References:
+    (https://leetcode.com/problems/trapping-rain-water/)
+    
+# Day 81: 17th January, 2021
+  ##### Today's progress:
+    Began to solve Int to Eng problem
+  ##### Thoughts:
+    Just began solving this
+  ##### Link to References:
+    (https://leetcode.com/problems/integer-to-english-words/)
