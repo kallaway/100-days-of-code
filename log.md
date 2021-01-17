@@ -100,3 +100,11 @@
 **Thoughts:** Will probably have to revisit this training when it's relevant, but was beneficial to understand the basics of using HTML for screen readability.
 
 
+### Day 12: January 16, 2021
+#####
+
+**Today's Progress**: Worked on some templates in C++
+
+**Thoughts:** Didn't have g++ intalled on WSL SLES 15 and couldn't find out how to install it.  Couldn't find the right repository.
+
+
