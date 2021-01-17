@@ -153,3 +153,7 @@ Concentrated on the #FullStack app, this is a ticketing system. CRUD with some s
 ### R1D33
 Made some styling and #javascript functions for filtering and ordering the table in my new app.
 I want to deploy this project asap, then continuously develop it further, I have more ideas.
+
+### R1D34
+Worked on the deployment of my #django #postgres #javascript project on a PaaS.
+Demo will be ready soon.
