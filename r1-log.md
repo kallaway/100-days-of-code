@@ -157,3 +157,7 @@ I want to deploy this project asap, then continuously develop it further, I have
 ### R1D34
 Worked on the deployment of my #django #postgres #javascript project on a PaaS.
 Demo will be ready soon.
+
+### R1D35
+Working with the forest cover #MachineLearning  project.
+Learning #Docker  while the model is being trained :)
