@@ -172,4 +172,4 @@ Started Section 8, which covers the CSS Box Model. Watched a couple of videos ex
 Learned a few things about Borders and box-sizing, made a little practice and then learned about padding.
 
 **R2D7, January 18th, 2021**
-Today's videos covered: Margin, Display, the difference between Inline, Block, and Inline-Block elements and how Width, Height, Margin and Padding behave for each of these display properties. Also talked about relative units, like percentages, EMs and REMs. I also learned that line-height is related to the font-size of the element. Now going to start Section 9 and see some useful CSS properties.
+Today's videos covered: Margin, Display, the difference between Inline, Block, and Inline-Block elements and how Width, Height, Margin and Padding behave for each of these display properties. Also talked about relative units, like percentages, EMs and REMs. I also learned that line-height is related to the font-size of the element. Now going to start Section 9 and see some useful CSS properties. Also started working on creating a clone for an entry on Wikipedia about Dane axes.
