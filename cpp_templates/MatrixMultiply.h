@@ -1,9 +1,9 @@
-
+#include <stdlib.h>
 
 template<class T>
 class MatrixMultiply
 {
-	MatrixMultply(size_t size);
+	MatrixMultiply(size_t size);
 	~MatrixMultiply() {};
 
 	T execute(T mul1, T mul2);
@@ -11,4 +11,4 @@ class MatrixMultiply
 	private:
 		int m_size;
 		T m_result;
-{
+};

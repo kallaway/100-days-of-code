@@ -108,3 +108,11 @@
 **Thoughts:** Didn't have g++ intalled on WSL SLES 15 and couldn't find out how to install it.  Couldn't find the right repository.
 
 
+### Day 13: January 17, 2021
+#####
+
+**Today's Progress**: Tried to build template class MatrixMultiply example
+
+**Thoughts:** Got gcc-c++ installed but had some issues compiling the code.  Need to look into this more tomorrow and figure out what my syntax error is.  Will review some template examples.
+
+

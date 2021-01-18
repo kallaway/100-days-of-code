@@ -6,3 +6,4 @@ cuda_tutorial/vec_add/add
 *.ptx
 *.cubin
 *.a
+*.swp

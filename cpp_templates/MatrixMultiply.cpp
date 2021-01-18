@@ -3,7 +3,7 @@
 template<class T>
 MatrixMultiply::MatrixMultiply(size_t size) : m_size(size) 
 {
-	m_result = new float[size];
+	m_result = new T[size];
 }
 
 MatrixMultiply::~MatrixMultiply()
