@@ -689,3 +689,11 @@
     Just began solving this
   ##### Link to References:
     (https://leetcode.com/problems/integer-to-english-words/)
+
+# Day 82: 18th January, 2021
+  ##### Today's progress:
+    Finished Solving Integer to English Problem
+  ##### Thoughts:
+    Solution is more roundabout
+  ##### Link to References:
+    (https://leetcode.com/problems/integer-to-english-words/)
