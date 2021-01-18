@@ -164,3 +164,9 @@ Went through the Section 7 of the course, refreshing my knowledge about CSS Sele
 
 **R2D4, January 12th, 2021**
 Finished Section 7. I Learned a few things about CSS selectors, the difference between Pseudo classes and pseudo elements, and a few things about Specificity. I also saw a few options of the Dev Tools on Google Chrome that I didn't know about. Also I learned that there are certain properties on the elements that are not inherited by default which can be changed by setting that property to 'inherit'
+
+**R2D5, January 16th, 2021**
+Started Section 8, which covers the CSS Box Model. Watched a couple of videos explaining some of the properties of the Box Model, like with, height and Border.
+
+**R2D6, January 17th, 2021**
+Learned a few things about Borders and box-sizing, made a little practice and then learned about padding.
