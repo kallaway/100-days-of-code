@@ -116,3 +116,13 @@
 **Thoughts:** Got gcc-c++ installed but had some issues compiling the code.  Need to look into this more tomorrow and figure out what my syntax error is.  Will review some template examples.
 
 
+### Day 14: January 18, 2021
+#####
+
+**Today's Progress**: Got the templates working for the MatrixMultiply example. Also did a singleton class example.
+
+**Thoughts:** This took a lot more debugging that I thought it would and in the end just mostly ended up being syntax issues with my code.  Templates are confusing, but very powerful.
+
+The singleton class was pretty self-explanatory and I was largely going off the [example here](https://refactoring.guru/design-patterns/singleton/cpp/example).
+
+

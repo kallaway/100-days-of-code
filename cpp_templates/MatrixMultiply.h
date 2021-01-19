@@ -1,14 +1,15 @@
 #include <stdlib.h>
 
-template<class T>
+template<typename T>
 class MatrixMultiply
 {
-	MatrixMultiply(size_t size);
-	~MatrixMultiply() {};
+	public:
+		MatrixMultiply(size_t size);
+		~MatrixMultiply();
 
-	T execute(T mul1, T mul2);
+		T* execute(T* mul1, T* mul2);
 
 	private:
 		int m_size;
-		T m_result;
+		T* m_result;
 };
