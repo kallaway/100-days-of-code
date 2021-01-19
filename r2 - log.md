@@ -701,7 +701,9 @@
 # Day 83: 19th January, 2021
   ##### Today's progress:
     Finished Jewels and Stones in under 10 minutes
+    Finished the final Version fo Comic Scrapper
   ##### Thoughts:
     Improved solving easy problems
   ##### Link to References:
     (https://leetcode.com/problems/jewels-and-stones/submissions/)
+     (https://github.com/PriyaShrinithi/comic-scraper)
