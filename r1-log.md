@@ -161,3 +161,7 @@ Demo will be ready soon.
 ### R1D35
 Working with the forest cover #MachineLearning  project.
 Learning #Docker  while the model is being trained :)
+
+### R1D36
+Still working with the #django #postgresql #javascript app. Familiarized myself with #Docker, maybe that's an option for this app as well. 
+Apart from this, struggling with the training of the #MachineLearning model.
