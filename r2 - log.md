@@ -697,3 +697,11 @@
     Solution is more roundabout
   ##### Link to References:
     (https://leetcode.com/problems/integer-to-english-words/)
+    
+# Day 83: 19th January, 2021
+  ##### Today's progress:
+    Finished Jewels and Stones in under 10 minutes
+  ##### Thoughts:
+    Improved solving easy problems
+  ##### Link to References:
+    (https://leetcode.com/problems/jewels-and-stones/submissions/)
