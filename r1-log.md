@@ -165,3 +165,8 @@ Learning #Docker  while the model is being trained :)
 ### R1D36
 Still working with the #django #postgresql #javascript app. Familiarized myself with #Docker, maybe that's an option for this app as well. 
 Apart from this, struggling with the training of the #MachineLearning model.
+
+### R1D37
+Finished the first phase of my #Django #postgres app, now put on hold.
+Learning #reactjs on #freeCodeCamp to widen my knowledge. It'll be useful for this project as well.
+Training the ML model in the meantime.
