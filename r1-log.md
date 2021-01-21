@@ -170,3 +170,8 @@ Apart from this, struggling with the training of the #MachineLearning model.
 Finished the first phase of my #Django #postgres app, now put on hold.
 Learning #reactjs on #freeCodeCamp to widen my knowledge. It'll be useful for this project as well.
 Training the ML model in the meantime.
+
+### R1D38
+Done #Reactjs challenges on #freeCodeCamp. Learnt about components, JSX. Seems quite logical and useful.
+I could predict with my #MachineLearning model (SVC)! Let's evaluate and try other algorithms.
+Happy Coding!
