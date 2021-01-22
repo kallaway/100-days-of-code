@@ -176,3 +176,6 @@ Today's videos covered: Margin, Display, the difference between Inline, Block, a
 
 **R2D8, January 19th-20th, 2021**
 Started a practice project to create a Wikipedia clone for a particular entry. Added the content and made the summary part of the page look somewhat similar to the one I chose which is about Dane Axese.
+
+**R2D9, January 21st, 2021**
+Fixed the thumbnails for the images that appear on the Wikpedia page for Dane axes.
