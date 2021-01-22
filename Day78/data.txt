@@ -1,0 +1,4 @@
+amazon | user@gmail.com | password
+github | user@gmail.com | nothing
+bootcamp | user@gmail.com | bootcamp
+another site | user@gmail.com | another password
