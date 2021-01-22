@@ -175,3 +175,8 @@ Training the ML model in the meantime.
 Done #Reactjs challenges on #freeCodeCamp. Learnt about components, JSX. Seems quite logical and useful.
 I could predict with my #MachineLearning model (SVC)! Let's evaluate and try other algorithms.
 Happy Coding!
+
+### R1D39
+Added KNN (K Nearest Neighbor) Classifier to the #MachineLearning model. 
+Main goal is to predict the ideal tree species on a site based on the geographic parameters.
+Reached 76% accuracy, but still long way to go.
