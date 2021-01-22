@@ -126,3 +126,11 @@
 The singleton class was pretty self-explanatory and I was largely going off the [example here](https://refactoring.guru/design-patterns/singleton/cpp/example).
 
 
+### Day 15: January 21, 2021
+#####
+
+**Today's Progress**: So there's a two-day gap here...the regular day job got in the way of the programming fun that I had been having.  Nevertheless, I don't want to give this up despite breaking the "rules." 
+
+**Thoughts:** Spent some time looking into REST APIs and did [this training](https://www.restapitutorial.com). REST APIs are becoming a buzzword and I don't know much about them.  Really looking at what purpose they would serve for me.  That was a little dry, so just spent the rest of the time at FreeCodeCamp going through some more training.  The CSS stuff is getting advanced but not really my thing.  I find myself flying through the examples.  I'm excited to finally learn Javascript.
+
+
