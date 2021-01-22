@@ -3,3 +3,4 @@ github | user@gmail.com | nothing
 bootcamp | user@gmail.com | bootcamp
 another site | user@gmail.com | another password
  | user@gmail.com | 
+Some site | user@gmail.com | rN$K**2$SlZIen6U
