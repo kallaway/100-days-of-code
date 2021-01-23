@@ -179,3 +179,6 @@ Started a practice project to create a Wikipedia clone for a particular entry. A
 
 **R2D9, January 21st, 2021**
 Fixed the thumbnails for the images that appear on the Wikpedia page for Dane axes.
+
+**R2D10, January 22nd, 2021**
+Experimented about with the positioning of elements. Didn't work on my Wikipedia clone but worked on creating a test page where I could experiment and see how the different values for the Position property affected its elements and their containers. Also learn that the Sticky property doesn't work unless the element's Display property is set to Block, and that one also has to set a value for the Top property for it to work properly.
