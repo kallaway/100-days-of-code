@@ -134,3 +134,11 @@ The singleton class was pretty self-explanatory and I was largely going off the 
 **Thoughts:** Spent some time looking into REST APIs and did [this training](https://www.restapitutorial.com). REST APIs are becoming a buzzword and I don't know much about them.  Really looking at what purpose they would serve for me.  That was a little dry, so just spent the rest of the time at FreeCodeCamp going through some more training.  The CSS stuff is getting advanced but not really my thing.  I find myself flying through the examples.  I'm excited to finally learn Javascript.
 
 
+### Day 16: January 22, 2021
+#####
+
+**Today's Progress**: Completed the CSS training and responsive web design from freecodecamp.  Now working on the [tribute page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) solution.
+
+**Thoughts:** Built a basic page but need to spend some more time on it figuring out how to test it.  The instructions were a little cryptic.  The tribute page is for Patrick Mahomes
+
+
