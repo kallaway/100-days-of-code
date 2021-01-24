@@ -142,3 +142,11 @@ The singleton class was pretty self-explanatory and I was largely going off the 
 **Thoughts:** Built a basic page but need to spend some more time on it figuring out how to test it.  The instructions were a little cryptic.  The tribute page is for Patrick Mahomes
 
 
+### Day 17: January 23, 2021
+#####
+
+**Today's Progress**: I think I got most of the tribute page working, but need to figure out how to run thetests.
+
+**Thoughts:** Patrick Mahomes [codepen page](https://codepen.io/burner3224/pen/qBaGGbO).
+
+
