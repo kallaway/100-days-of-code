@@ -1,15 +1,21 @@
 version: 2.1
+
 jobs:
+
   binary_convert_testing:
     docker:
       - image: cirrusci/flutter
     steps:
       - checkout
-      - run: cd Projects/binary_converter
-      - run: flutter doctor
-      - run: flutter test --verbose --coverage
+      - run: cd Projects/binary_converter && flutter test 
+
 workflows:
   version: 2
+
   binary_convert:
     jobs:
-      - binary_convert_testing
+      - binary_convert_testing:
+        filters:
+          branches:
+            only: binary_convert
+
