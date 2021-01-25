@@ -1,0 +1,14 @@
+{
+    "Amazon": {
+        "email": "user@gmail.com",
+        "password": "password"
+    },
+    "bamazon": {
+        "email": "user@gmail.com",
+        "password": "anotherpassword"
+    },
+    "aardvark": {
+        "email": "user@gmail.com",
+        "password": "asdflkasdf"
+    }
+}
