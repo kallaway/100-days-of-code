@@ -150,3 +150,11 @@ The singleton class was pretty self-explanatory and I was largely going off the 
 **Thoughts:** Patrick Mahomes [codepen page](https://codepen.io/burner3224/pen/qBaGGbO).
 
 
+### Day 18: January 24, 2021
+#####
+
+**Today's Progress**: Got all the test cases passing and made the Mahomes page.  Chiefs win.
+
+**Thoughts:** Super bowl, baby!
+
+
