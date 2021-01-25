@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode 学習ログ - 1週目 - [自分の名前]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+私の#100DaysOfCodeチャレンジの学習ログです。2017年6月17日開始。
 
-## Log
+## 学習ログ
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1
+天気アプリの開発を開始。アプリの大まかなレイアウトができてきたが、OpenWeatherのAPIの扱いに苦労した。 http://www.example.com
 
 ### R1D2
