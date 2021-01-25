@@ -8,3 +8,7 @@
 #100DaysOfCode   
 Day: 001/100  
 I've learned about translation tools. Name is "DeepL". Nice Apps!
+
+#100DaysOfCode   
+Day: 002/100
+I've learned about regular expression. It's called Regexp or Regex for short. I read a book on Regexp before. The author said "I drink with Regexp!" Crazy !!lol
