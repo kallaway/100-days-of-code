@@ -723,3 +723,38 @@
     Need to work on Hard Problems faster
   ##### Link to References:
     (https://leetcode.com/problems/edit-distance/submissions/)
+
+# Day 86: 22nd January, 2021
+  ##### Today's progress:
+    Worked a bit on N Queens problem
+  ##### Thoughts:
+    Need to work on Hard Problems faster
+  ##### Link to References:
+    (https://leetcode.com/problems/n-queens/)
+    
+
+# Day 87: 23rd January, 2021
+  ##### Today's progress:
+    Worked a bit on N Queens problem
+  ##### Thoughts:
+    Need to work on Hard Problems faster
+  ##### Link to References:
+    (https://leetcode.com/problems/n-queens/)
+    
+
+# Day 88: 24th January, 2021
+  ##### Today's progress:
+    Worked a bit on N Queens problem
+  ##### Thoughts:
+    Need to work on Hard Problems faster
+  ##### Link to References:
+    (https://leetcode.com/problems/n-queens/)
+    
+
+# Day 89: 25th January, 2021
+  ##### Today's progress:
+    Worked a bit on N Queens problem
+  ##### Thoughts:
+    Need to work on Hard Problems faster
+  ##### Link to References:
+    (https://leetcode.com/problems/n-queens/)
