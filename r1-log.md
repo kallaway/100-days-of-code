@@ -189,3 +189,7 @@ Perfect project to refresh and extend my knowledge, to fill the gaps.
 ### R1D41-42
 Finished ML project with around 75% accuracy, started a new #DeepLearning project on weather forecasting. I work on #GoogleColab.
 Also learning #reactjs on #freeCodeCamp when I need another impulse and for fun. Learned a lot about components.
+
+### R1D43
+Learned some #reactjs through #freeCodeCamp challenges, made a simple counter app. Can't wait for the project section. #webdevelopment became a hobby.
+In the evening, training a recurrent #neuralnetwork for weather forecasting. More job-related stuff.
