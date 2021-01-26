@@ -12,3 +12,9 @@ I've learned about translation tools. Name is "DeepL". Nice Apps!
 #100DaysOfCode   
 Day: 002/100
 I've learned about regular expression. It's called Regexp or Regex for short. I read a book on Regexp before. The author said "I drink with Regexp!" Crazy !!lol
+
+#100DaysOfCode   
+Day: 003/100
+I've learned about regular expression. The `gsub-method` can be used to replace the string that matches the regular expression of the first argument with the string of the second argument. 
+text = '123,456-9999' 
+text.gsub(',', ':')  #=> "123:456-9999"
