@@ -1,0 +1,271 @@
+[33mcommit 47addb530a979f93bbc135fdb8a51441596dbeab[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Mon Aug 26 11:53:01 2019 -0400
+
+    Update invite link
+
+[33mcommit c80f1cfe00aa6dcb4ab49ccfcb6a2976da01ccab[m
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Sun Apr 7 22:40:28 2019 -0400
+
+    fix invite link
+
+[33mcommit 74f12b19dc56f8f8820b1002963a1ba3b43b11af[m
+Merge: 7df0cbf 229b3fe
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Tue Jan 22 12:15:41 2019 -0500
+
+    Merge pull request #223 from kriyeng/catalan-translate
+    
+    Added Catalan translation to the repo
+
+[33mcommit 229b3fefdc0211ae50886f7c1103622b6ab2fe57[m
+Merge: e76af46 7df0cbf
+Author: David Ibáñez <kriyeng@gmail.com>
+Date:   Tue Jan 22 16:05:34 2019 +0100
+
+    Merge branch 'master' into catalan-translate
+
+[33mcommit e76af4690fd0a2782935638d01894ab92c5ab952[m
+Author: kriyeng <david@laforja.com>
+Date:   Tue Jan 22 15:58:16 2019 +0100
+
+    Added link to catalan Readme file on main Readme
+
+[33mcommit 7df0cbf62e09926a62c5c6bf2163942bc18e7455[m
+Merge: 93987ed dd57e43
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Tue Jan 22 09:48:09 2019 -0500
+
+    Merge pull request #219 from JashanBansal0708/patch-2
+    
+    Recommend users to fork the repository.
+
+[33mcommit 93987edf9d5352318424090e5abf24558bc6d3dd[m
+Merge: 59d1ff3 aa2aa71
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Tue Jan 22 09:47:26 2019 -0500
+
+    Merge pull request #197 from kokkonisd/master
+    
+    Translate 100-days-of-code repo in greek (el)
+
+[33mcommit aa2aa714369c79dd24c53dbaafaa79998a9746c4[m
+Merge: f4b2c5d 59d1ff3
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Tue Jan 22 09:46:44 2019 -0500
+
+    Merge branch 'master' into master
+
+[33mcommit 59d1ff34cb8f5b29e481e59d4522fd20c004a982[m
+Merge: ea4874f 9f9179a
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Tue Jan 22 09:43:05 2019 -0500
+
+    Merge pull request #230 from ildoc/master
+    
+    added italian
+
+[33mcommit 9f9179a21a841f6152b98a8f46954bb395bfb38b[m
+Author: ildoc <il_doc@protonmail.com>
+Date:   Fri Jan 18 15:59:26 2019 +0100
+
+    added italian
+
+[33mcommit 315e082a278d7de38991f86bc09370de729176b0[m
+Author: kriyeng <david@laforja.com>
+Date:   Thu Dec 27 11:18:34 2018 +0100
+
+    Added Catalan translation
+
+[33mcommit dd57e432b54027b2e5dc5c42a6ef5d43bde7c764[m
+Author: Jashan Bansal <36573762+JashanBansal0708@users.noreply.github.com>
+Date:   Sat Dec 1 00:06:40 2018 +0530
+
+    Recommend users to fork the repository.
+
+[33mcommit f4b2c5d00d84d18f374954f092ddccfcaa3dc73d[m
+Merge: a4d652f ea4874f
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Nov 13 11:47:50 2018 +0100
+
+    Merge branch 'master' into master
+
+[33mcommit ea4874fad991588f82ce9d947af02d8398e0f650[m
+Merge: 4792e83 9bedb10
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Mon Oct 22 10:04:19 2018 -0400
+
+    Merge pull request #189 from mahadixyz/master
+    
+    add Bangla translation
+
+[33mcommit a4d652f381ee769c8d871df6b28150e991ac1956[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 11:11:38 2018 +0200
+
+    Fix typos
+
+[33mcommit 7943e11a7f16f53cd489c06bebff87e96a7540ae[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 11:04:13 2018 +0200
+
+    Fix broken links
+
+[33mcommit eee7d9bd119703bda1d30be4eb569dc386fa11ca[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 11:00:54 2018 +0200
+
+    Fix link to readme
+
+[33mcommit f496c446383bb40e916e86cc56705fe6f701d39b[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 10:56:31 2018 +0200
+
+    Translate logs
+
+[33mcommit e916e8d9b7d83bdfd95283d0d35a28342c7f9d1b[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 10:47:45 2018 +0200
+
+    Translate rules & add greek translation link
+
+[33mcommit 50cf2de123908ad28a0c85190978479a6e0e0cd5[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 10:16:30 2018 +0200
+
+    Delete unecessary line in resources
+
+[33mcommit a771931520c9a1681536dd97aca5d09a31388443[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 10:15:11 2018 +0200
+
+    Translate resources
+
+[33mcommit 8fd5dfd3b708401bf6289b1858b1799fbc6cdc1a[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 10:02:41 2018 +0200
+
+    Translate README.md
+
+[33mcommit c75c0ac959648f40d3532172bbafb0d3ad14a9c7[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 09:40:43 2018 +0200
+
+    Fix typo in FAQ.md
+
+[33mcommit 6c066e0626b9a0a995c8ec3e5018b421d9cd3568[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 09:39:22 2018 +0200
+
+    Finally fix line returns in FAQ.md
+
+[33mcommit 2baff4dd4264e47d9a416e21f5c11fb720acbc2c[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 09:37:44 2018 +0200
+
+    Try to fix line returns in FAQ.md
+
+[33mcommit ccb8e258dc70096284ff6f8f566e85a12080116f[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 09:34:49 2018 +0200
+
+    Change file names to distinguish them from other languages
+
+[33mcommit 01df3c4caad40054b2224873a29145237ec63dea[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 09:33:45 2018 +0200
+
+    Fix FAQ.md, add all necessary files
+
+[33mcommit 73ac81a3d57184cfb7b19e856566f96d19b2f250[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 09:24:17 2018 +0200
+
+    Moved FAQ.md in el/ folder
+
+[33mcommit ff832ed43125f3f060aa0f4cf946319a79554b3f[m
+Author: Dimitris Kokkonis <kokkonisd@gmail.com>
+Date:   Tue Sep 18 09:21:58 2018 +0200
+
+    Translate FAQ
+
+[33mcommit 9bedb1053790b530f03a9658e0f733478c57ca54[m
+Author: Mahadi Hasan <40921303+mahadixyz@users.noreply.github.com>
+Date:   Thu Aug 23 21:32:40 2018 +0600
+
+    Spelling Mistake corrected
+
+[33mcommit a47ece76eedab037d93c66b402d051f3c64e420a[m
+Author: Mahadi Hasan <40921303+mahadixyz@users.noreply.github.com>
+Date:   Thu Aug 23 21:23:49 2018 +0600
+
+    Spelling Mistake corrected
+
+[33mcommit 5c012ce57cf530600d785427394559df2910b451[m
+Author: Mahadi Hasan <40921303+mahadixyz@users.noreply.github.com>
+Date:   Wed Aug 22 03:23:44 2018 +0600
+
+    list order corrected
+
+[33mcommit 964c8d361d18f7cd99e4f161f3d39b2557a25250[m
+Author: Mahadi Hasan <40921303+mahadixyz@users.noreply.github.com>
+Date:   Wed Aug 22 03:22:06 2018 +0600
+
+    list order corrected
+
+[33mcommit 9a28c056dc00f8acf39e3969572b41a15ec4a32d[m
+Author: Mahadi Hasan <40921303+mahadixyz@users.noreply.github.com>
+Date:   Wed Aug 22 03:20:25 2018 +0600
+
+    list order corrected
+
+[33mcommit 20ac42a24173ff6a44216b936005ac290b281261[m
+Author: Mahadi <hello@mahadi.xyz>
+Date:   Wed Aug 22 03:18:23 2018 +0600
+
+    list order  and typo corrected
+
+[33mcommit 39ee3885b1561f0537db843f0cc5cbc386064f8b[m
+Author: Mahadi <hello@mahadi.xyz>
+Date:   Wed Aug 22 03:08:57 2018 +0600
+
+    added transtaltion section in all readme file
+
+[33mcommit 6c4e8c54457d600c8e6e11974a52c2ef60fd822e[m
+Author: Mahadi <hello@mahadi.xyz>
+Date:   Wed Aug 22 03:00:21 2018 +0600
+
+    Other Translation file link fixed
+
+[33mcommit 3aecc1126b1205e5cc57519821c4567efacebd03[m
+Author: Mahadi <hello@mahadi.xyz>
+Date:   Wed Aug 22 02:56:14 2018 +0600
+
+    translated to Bangla
+
+[33mcommit 4792e83e4e92097317b3bd7eac2a615e76ff5818[m
+Merge: 45625fa 98f2580
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Mon Jul 23 14:55:30 2018 -0400
+
+    Merge pull request #167 from Narshe1412/master
+    
+    ES - General grammar and translation fixes
+
+[33mcommit 45625fa363185128c9d604ebdda462f66b007044[m
+Merge: 60bf2a3 00a0dcb
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Mon Jul 23 14:54:26 2018 -0400
+
+    Merge pull request #158 from vicbergquist/norwegian
+    
+    Added Norwegian
+
+[33mcommit 98f2580a9ea0232768d703135441509b0fea7d7d[m
+Author: Manuel Colorado <manuel1412@gmail.com>
+Date:   Mon Jul 23 17:12:12 2018 +0100
+
+    Fixed several typos and gender mismatch in words and pronouns.
+    Fixed formal form in pronouns along the whole project.
+    Changed from Registro to Diario as translation of the englis
