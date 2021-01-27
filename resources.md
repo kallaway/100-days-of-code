@@ -3,11 +3,14 @@
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
 ### Articles
-1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
-2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
+1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) FreeCodeCamp Medium
+2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) FreeCodeCamp Medium 
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
 ### Podcasts
+1. [Forming new habits with 100 Days of Code](https://stackoverflow.blog/2020/07/24/podcast-255-alex-kallaway-100-days-of-code/) Alex Kallaway with Ben Popper
+2. [Coding Life](https://www.stitcher.com/podcast/anchor-podcasts/100-days-of-code-podcast#/)
+3. [Coding Daily Through #100daysofcode with Alexander Kallaway](https://learntocodewith.me/podcast/100-days-of-code-with-alexander-kallaway/)
 
 # Additional Resources on the #100DaysOfCode
 
@@ -21,6 +24,7 @@
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+2. [Build and Deploy your Website Here](https://codepen.io/) - CodePen is a social development environment for front-end designers and developers. 
 
 ## Books (both coding and non-coding)
 
@@ -34,6 +38,7 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
+
 
 ## Contents
 * [Rules](rules.md)
