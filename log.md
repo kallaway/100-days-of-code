@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: June 2, 2017
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: This is my fisrtday in 100 Days of coding, today i tried to solve problems from freecodecamp, i solved four challenges there, i learned something on manipulating string and arrays, it includes .substring, .substr, .slice, .repeat, .include, .indexOf and i understand how to use Math.max.apply(arg1, array) method to find max num in array and i used map function to manipulate elements in the array
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** today i was really excited because this is my first day of coding challenge, i could solve the problems without any frustruation, i had to search lot in google but finally i got what i wanted. today gone well, i hope tommorow i have the same excitement.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string
+https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays
+https://www.freecodecamp.com/challenges/confirm-the-ending
+https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
