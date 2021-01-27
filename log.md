@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: November 09, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started my first lessson today on FreeCodeCamp.org, working with HTML5
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I have only dabbled in HTML during college and even then it wasn't significant.  I am excited to go more in depth with the lessons on here.  Looking ahead I am a little intimidated but I think it will be exciting nonetheless.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** None Today.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: November 10, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Basic CSS Styling for today.  I worked on changing color and size of text as well as discerning the difference and heirarchy of classes and attribute ID's.  
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: There were a few lessons I had to watch some videos on in order to complete.  After doing so, I realized I was overthinking simple things and knew the answer.  As I move forward I hope to fix that by putting CSS into practical use.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**: None Today.
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
