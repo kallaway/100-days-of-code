@@ -1,5 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
-
+# The first day is 25 November 2019
 ## Contents
 
 * [Rules](rules.md)
