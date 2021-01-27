@@ -18,3 +18,10 @@ Day: 003/100
 I've learned about regular expression. The `gsub-method` can be used to replace the string that matches the regular expression of the first argument with the string of the second argument. 
 text = '123,456-9999' 
 text.gsub(',', ':')  #=> "123:456-9999"
+
+#100DaysOfCode   
+Day: 004/100
+Three validation methods related to Minitests.
+1. assert_equal b, a /Pass if a is equal to b.
+2. asser a /Pass if a is true.
+3. refute a /Pass if a is false.
