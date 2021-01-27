@@ -193,3 +193,7 @@ Also learning #reactjs on #freeCodeCamp when I need another impulse and for fun.
 ### R1D43
 Learned some #reactjs through #freeCodeCamp challenges, made a simple counter app. Can't wait for the project section. #webdevelopment became a hobby.
 In the evening, training a recurrent #neuralnetwork for weather forecasting. More job-related stuff.
+
+### R1D44
+Working on plotting of recurrent #neuralnetwork model on weather forecasting.
+This will be another great addition to my #DataScience  portfolio.
