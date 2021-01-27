@@ -758,3 +758,11 @@
     Need to work on Hard Problems faster
   ##### Link to References:
     (https://leetcode.com/problems/n-queens/)
+
+# Day 90: 27th January, 2021
+  ##### Today's progress:
+    Cracked N Queens problem: 4/9 passes
+  ##### Thoughts:
+    Need to work on Hard Problems faster
+  ##### Link to References:
+    (https://leetcode.com/problems/n-queens/)
