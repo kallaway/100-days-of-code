@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+- Completed the **Getting Started** and **HTML5 and CSS** sections of [FreeCodeCamp](https://www.freecodecamp.com) and started the **Responsive Design with Bootstrap** section. 
+- Started building a website for some of my favorite missionaries.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The FreeCodeCamp sections were mostly review but there were a few nuggets of new information. Bootstrap is new and fun to learn. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Hope for Honduras](https://crichID.github.io/hope-for-honduras)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 4, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+- Yesterday I had a little trouble thinking of a project, but today one came to me in a flash of inspiration. One of my favorite training icebreakers is a Bingo game where, instead of numbers, you win squares by finding someone who matches a characteristic (e.g. green eyes, loves spinach, etc). I remembered a Bingo game created by @muan and decided I would try to use it as the base for my game.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: This is a more aggressive project than a website, but I am learning a lot!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Fork of Bingo Board repo](https://github.com/crichID/bingo-board)
