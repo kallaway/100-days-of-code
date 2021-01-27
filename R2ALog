@@ -1,0 +1,636 @@
+Day XX
+January XX, 2019
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: N/A
+
+Day 100
+January 28, 2019
+
+Today's Progress: Didn't have much time to do much beyond a little reading today.  Kind of a wimpy way to end the challenge, but my intent is to immediately start another challenge.  I've made great progress, and plenty more to come.
+
+Thoughts: These next three weeks will be a good test of whether I can make the time to continue.  It's really important from the perspective of continuity and progress that I code.  And I don't think I'll be traveling this week.  So I just need to make time.
+
+Link to work: N/A
+
+Day 99
+January 27, 2019
+
+Today's Progress: Created two glitch projects, one for my app and one for the tutorial VidJot app.  Started coding the tutorial, got some code running.
+
+Thoughts: I'll have to remove the default glitch app code as I go, but I think that will be straightforward.  Also need to figure out how far to go with working VidJot code before doing the equivalent code for my app.  Hard to think about how long this will take.  I keep wanting to say to myself 'I'll be through this process by the end of the week and fully able to code my app.  I should NOT be thinking like that.  Go through the learning experience, and I'll technically be starting my code within the next day or two.  But I won't be done for, well, forever.  So stop making up expectations that don't make sense and make me feel like I'm missing expectations.
+
+Link to work: N/A
+
+Day 98
+January 26, 2019
+
+Today's Progress: Finished viewing the tutorial of the simple application.  Chose not to review the advanced application.
+
+Thoughts: I don't think I'm going to need capabilities covered in the advanced application any time soon.  Plus, I need to go back to the beginning and start coding, rather than keep watching other people code.
+
+Link to work: N/A
+
+Day 97
+January 25, 2019
+
+Today's Progress: Went through a detailed viewing of my video tutorial.  Took detailed notes on techical issues, thought through my application design.
+
+Thoughts: This is very close to the content that I need.  Only difference is Glitch vs local dev/Heroku prod.  I expect I can get everything working.  Hope so anyway.
+
+Link to work: N/A
+
+Day 96
+January 24, 2019
+
+Today's Progress: Started a really good video tutorial on Node.js, Express, and MongoDB.  It's a build-a-project tutorial, so hands-on code rather than theory.  
+
+Thoughts: So far it's been giving me great context.  I'm taking good notes and internalizing the value prop of the components working together.  Then I'll go back through and do some coding to demonstrate that I know how to do it.  Finally, I'll integrate my code into the environment.
+
+Link to work: N/A
+
+Day 95
+January 23, 2019
+
+Today's Progress: Decided to pursue writing my code rather than doing more lessons on APIs and Microservices.  Explored a number of areas that I'll need to integrate into a Glitch project, including configuring Glitch itself, integrating with GitHub for code repository and CM, and the mechanics of coding - which seem to be driven mostly by Express.
+
+Thoughts: I'm a contextual learner, I learn by solving problems that give lessons context.  The work I've already done in FreeCodeCamp has already given me a great baseline amount of context.  Just re-reading a couple of things about Express that had been cryptic before are now starting to become clear, as is my direction for next steps.  I need to really understand Express on a deeper level, and I need to understand how to integrate my code into an Express environment.  Then I need to finish porting my code into Glitch, integrated with GitHub.  I'll also need to learn things like how to use Chrome Dev tools with my Glitch project, but that can come later.
+
+Link to work: N/A
+
+Day 94
+January 22, 2019
+
+Today's Progress: Started looking at the freeCodeCamp exercises for APIs and Microservices.  Did the first one and then realized that freeCodeCamp wasn't validating the code.  So did some research and discovered I need to do a fair amount of work and learning to do the kinds of things that the exercises are asking of me.
+
+Thoughts: So decision time... I have working web server code that I believe is good enough for what I need today.  I can, in theory, use this code to go back to my AI work and start refactoring my code onto glitch.  Or I can spend some time to dig deeper into the API and Microservices projects from freeCodeCamp, which may teach me a lot more about what's possible.  It would be an easy decision to just go back to my AI stuff, except that I'm in the middle of learning this stuff and doing the exercises would help me solidify my understanding.  I suppose making a bunch of buttons on HTML pages would help me solidify my understanding as well. And I can always go back to freeCodeCamp later. It would also allow me to start refactoring my code directly into Glitch, so that I can migrate my environment onto a web-based platform and off the laptop.  Time to do AI again?
+
+Link to work: https://polar-sled.glitch.me
+
+Day 93
+January 21, 2019
+
+Today's Progress: Finished (!) the freeCodeCamp MongoDB exercises.  On to the projects, let's see if I can actually write any code using this stuff.
+
+Thoughts: I'm kind of amazed I did as well as I did.  I'm certainly getting ok at pattern matching the code structures.  So if each of the new functions matches an older function to be tested, I can make them work.  I get how they work conceptually as well.  But the overall structure and syntax is not something I understand well at all (yet).  Keep pushing forward, lean on StackOverflow if necessary, write some code and figure it out.
+
+Link to work: https://sparkling-pipe.glitch.me
+
+Day 92
+January 20, 2019
+
+Today's Progress: Made more progress through freeCodeCamp mongoose and MongoDB.  Finished several sections.
+
+Thoughts: I'm getting a better sense of what I'm doing and what it means.  But I'm still at a point where I'd copy/paste code from stackoverflow before I'd try writing my own for mongoose and mongoDB stuff.  I'm glad that freeCodeCamp will give me some level of working code to use as a template.
+
+Link to work: https://sparkling-pipe.glitch.me
+
+Day 91
+January 19, 2019
+
+Today's Progress: Completed the freecodecamp Node and express challenges, installed and set up Mongoose for MongoDB (completed first exercise).  Still not confident but I'm learning.  
+
+Thoughts: It's kind of like I'm learning about cars.  I've ridden around in cars, and now I'm learning to drive a car.  But I don't really understand how the engine, brakes, transmission, electrical system, and all the other systems work, and how they work together.
+
+Link to work: https://sparkling-pipe.glitch.me
+
+Day 90
+January 18, 2019
+
+Today's Progress: Did a few more freecodecamp API exercises.  Succeeded at several of them, with with only a few glances at the hints to figure out the answers.  Did one without the hint.
+
+Thoughts: This has been like translating a foreign language, where I can translate every word but I can't understand the sentence.  I write the code, I pass the tests, but I still don't clearly understand what the code does and why it's structured the way it is.  Having said that, I started getting an inkling of how it works on the last few exercises.  I think I need to do some client-side stuff and practice client-server.  Then it might make more sense.
+
+Link to work: N/A
+
+Day 89
+January 17, 2019
+
+Today's Progress: Continued with Freecodecamp APIs and Microservices, Express lessons.  Made good progress through a couple of them, but it's slow going.
+
+Thoughts: Tricky stuff.  I kind of get parts of the concept, and I kind of understand some of the code, but I definitely don't get how it all fits together.  I teed up a video series to try to help dive into some detail, and I read some Medium posts and articles.  But I'm far from fluent at this.  I hope my initial needs are simple enough that I can figure out how to make it work in some rudimentary way.
+
+Link to work: N/A
+
+Day 86, 87, 88
+January 16, 2019
+
+Today's Progress: Did Freecodecamp APIs and Microservices, all lessons in first unit: Managing packages with NPM.
+
+Thoughts: These lessons use Glitch as their platform.  This looks like it may be the answer I'm looking for.  Seems like they've done all the work, set up infrastructure, tools, it's web-based, and there are lots of sample apps to start from.  I just need to integrate my code, clone, and extend.  This has the promise to be a much better path than the one I had been going down.
+
+Link to work: N/A
+
+Day 85
+January 13, 2019
+
+Today's Progress: Did some more coding and research on local web servers.
+
+Thoughts: I should go back to FreeCodeCamp and do their APIs and microservices coursework, at least until I have a good answer for how to implement my code.
+
+Day 83, 84
+January 12, 2019
+
+Today's Progress: Didn't code yesterday, but spent several hours today.  Implemented buttons, added keys to JSON based on good/bad data for AI, and researched various ways to write out updated JSON.  I guess I'll try Google docs first.
+
+Thoughts: Local web server seems hard and kludgy.  After endless research, came down to GitHubPages and Google Drive.  GitHub Pages seems straightforward, Google drive looks well documented and has the ability to password-protect the account.  I have existing accounts on both.  My code can access files but unauthorized people cannot. Given that AI is based on data value, not code value, that's significant.  So I guess I'll try to make Google docs work, first without security and then using the security token.  Seems like if I do that I won't be swimming upstream anymore.  Downside is that I won't be very productive if I need the data and I'm not connected to a network, but that rarely happens in my life.
+
+Link to work: N/A
+
+Day 82
+January 10, 2019
+
+Today's Progress: Got my HTML and Javascript working together.  Not perfectly, but it works.  I can read and browse opportunities, but I need to add the logic to update the opportunity as "good" or "bad".  That should be straightforward, I know how to do it already, I just need to implement it.
+
+Thoughts: Feels goood to get through the learning step and know how to build web pages with Javascript. I have a lot more to learn but I have the functional capability, which is huge.
+
+Link to work: N/A
+
+Day 80
+January 9, 2019
+
+Today's Progress: Heavy travel and work day, but still managed to make progress on my HTML & Javascript front end.  Did a really good tutorial to help figure out how to work the logic I need. I hope to have it implemented tomorrow.
+
+Thoughts: I was able to get my hour of code in while traveling and doing lots of all-day meetings and business dinners.  I can do this if I make it a priority.  That success is motivating, and so is the content of the meetings and the knowledge of how much more I can do.
+
+Link to work: N/A
+
+Day 79
+January 8, 2019
+
+Today's Progress: Continued learning about Javascript DOM manipulation and jQuery.  Got an HTML page to read my JSON data and grab the "innerText", which is the text without HTML formatting.
+
+Thoughts: I've broken through the roadblock of trying to build this HTML page and make my data work on it.  I've also figured out how to have the browser DOM do my HTML scrub.  So big breakthrough.  Need to design the HTML solution, the data solution, and tag my data as training data, positive testing data, and negative testing data.  Getting close to building some AI.
+
+Link to work: N/A
+
+Day 78
+January 7, 2019
+
+Today's Progress: FInally got my javascript updating my HTML.  Letting the HTML formatting in the JSON description text format the HTML output for readability. Working great.  
+
+Thoughts: I need to add some logic, and also see if I can remove the formatting using innerHTML.  But I'm glad, after all this time, that I'm starting to be able to connect my Javascript and HTML.  That was always a key part of my solution.
+
+Link to work: N/A
+
+Day 77
+January 6, 2019
+
+Today's Progress: Did more development of my client-side application.  
+
+Thoughts: It's becoming increasingly clear that I don't understand how to make Javascript and HTML interact.  I did the FreeCodeCamp jQuery stuff, but I never really grasped it to the point that I could use it.  I need to fix that if my work is going to succeed.  So slow down, take your time, and learn this.  Find a good tutorial and work through it.  Go back through FreeCodeCamp as a refresher.  Study it, make it work.
+
+Link to work: N/A
+
+Day 76
+January 5, 2019
+
+Today's Progress: Did a bit more React reading and dug into tutorials a little deeper. Found a well-liked video course with available code snippets.  I think I'll focus on going through that course and see where that leads.
+
+Thoughts: Ultimately, the business value of this endeavor will be a workflow tool.  That means I need to be able to build  web-based (and maybe someday mobile) components, quickly and flexibly.  If React works well and integrates with my other platforms (javascript) and tools (Atom, Chrome, VSCode) I should have all my components in place.
+
+Link to work: N/A
+
+Day 75
+January 4, 2019
+
+Today's Progress: Continued to look for ways to evaluate my data for AI training.  Looked hard at REACT today.  I think I'm going to pursue learning the basics of it.
+
+Thoughts: I need to come up with some way of developing a workflow for my content anyway.  Maybe REACT is it.
+
+Link to work: N/A
+
+Day 69, 70, 71, 72, 73, 74
+January 3, 2019
+
+Today's Progress: Tried to make progress on an HTML reader for my AI data.  Still haven't gotten anywhere.  
+
+Thoughts: I think I'm going to have to brute-force my dataset creation and maybe reduce the size of my data to six months from a year.  I'll have to come back to this HTML stuff - it seems very complicated for something as simple as what I'm trying to do.  Or maybe just write something in Javascript - that may be the simplest thing to do.
+
+Link to work: N/A
+
+Day 68
+Dec 28, 2018
+
+Today's Progress: Made some progress on my Javascript client-side app.  Figuring out how to best hand data back and forth between client-side Javascript and HTML. 
+
+Thoughts: Good skill to have, even if the more common use case is jQuery and AJAX.  Learning and getting there, one step at a time.
+
+Link to work: N/A
+
+Day 67
+Dec 27, 2018
+
+Today's Progress: Designed my opprotunity reader client.  I want to use the HTML formatting in it, which means I want to run it in a browser.  Which is perfect, except I don't know how to use AJAX and Jquery to read in the JSON data.  So taking a tutorial to learn.
+
+Thoughts: It's frustrating to have a file of valid data to start building my testing and training datasets, but be stuck building a new module.  But I'm convinced I'll save a ton of time and aggravation in the long run if I learn how to build this client app.  Plus I'm going to need variations of it to do workflow down the road.  Plus I need to know Ajax and Jquery if I'm going to be a developer.  Plus the work of evaluating deals will just go faster.
+
+Link to work: N/A
+
+Day 65, 66
+Dec 26, 2018
+
+Today's Progress: Took a coding day off yesterday for Christmas, as planned.  Took another day off on the 26th.  That was unplanned but felt necessary.
+
+Thoughts: Will get back on track on the 27th.  I know the next thing I need to build, just a question of getting moving on it.
+
+Link to work: N/A
+
+Day 64
+Dec 24, 2018
+
+Today's Progress: Designed a Javascript client app to help me quickly sort through my dataset to find the training and testing data.  I think (hope) it will be quicker to build than to try to manage by looking through data files.
+
+Thoughts: Made some good progress, but now it's time to get my mind off coding and spend Christmas with family and friends.
+
+Link to work: N/A
+
+Day 63
+Dec 23, 2018
+
+Today's Progress: Got my Python loop working, fully prepped my data for testing and training.  Now I need to figure out how to separate out the bad scope (scope statements of opportunities I'm not interested in) so that I can get just the lines I care about in my data file.  Then I need to use all of the bad scope data and some subset of the good scope data as my testing data set.
+
+Thoughts: This is the part where I get into real AI and NLP.  I need to figure out how to easily read and evaluate every opportunity to establish good from bad and edit files accordingly.  Then build models, then evaluate test cases against models.  Fun stuff, real AI work!
+
+Link to work: N/A
+
+Day 62
+Dec 22, 2018
+
+Today's Progress: Got my data file open, pulled out the right fields from the first JSON record, and parsed into sentences.  Need to develop my csv format and convert the data into a table so that I can train an AI.  Also need to pull some data so that I can do some basic data analysis, such as plotting volume of releases per day over the last year.
+
+Thoughts: I don't know why the debugger is working, but it is, which is great.  I'll work more on that later.  But I'm also thrilled that I've got most of my basic Python functions working and can focus on designing my data structure for AI training.  Getting closer.
+
+Link to work: N/A
+
+Day 61
+Dec 21, 2018
+
+Today's Progress: Did some work on understanding the launch.json and how to set up debugging environments for both Javascript and Python.  Not there yet but getting closer.
+
+Thoughts: I've been haveing stress dreams about not making enough progress in my coding.  Espcially because I'm so close with Python but have so much of the language and VSCode enivronment to learn.  Feels like one of those 'so close yet so far' moments.  
+
+Link to work: N/A
+
+Day 60
+Dec 20, 2018
+
+Today's Progress: Kinda sorta got the VSCode debugger working again.  Created a year and change worth of JSON data records, split between presolicitation notices, sources sought notices, and combined.  Now I'm ready to switch to Python and start building AI with the data.
+
+Thoughts: It's a great milestone to hit. I'm still a little wary because I'm not using any of the tools particulary well yet.  VSCode debugger is still not consistently working for me.  My local git repo was not where I expected it to be (in fact, it's a duplicate), and I'm not great at Python programming.  
+
+Link to work: N/A
+
+Day 59
+Dec 19, 2018
+
+Today's Progress: Worked a lot on getting my Github repos working within VSCode.  Once it was working, did several changes and commits, mostly just cleaning up comments, to develop the “muscle memory” for the Github process. 
+
+Thoughts: I think all the elements are working in my environment, my Javascript code, and my Python code.  If that's true, I'm going to be able to focus on building AI now.  Very exciting.
+
+Link to work: N/A
+
+Day 58
+Dec 18, 2018
+
+Today's Progress: Got both my Python and Javascript working in the VSCode debugger and from the VSCode terminal.  Designed a data flow for filtering and processing my data.  Started refactoring my Javascript data.  Hope it results in code that's ready for prime time.
+
+Thoughts: So far, I'm very impressed with VScode capability but struggling to understand why there are so few tutorial resources for it.  Seems to be very powerful but configuration isn't obvious to me.  I've done some problem solving to get my code running in the debugger but far from convinced I have a robust config.  In the meantime, I think I have everything I need to do some real Node.js and Python coding, so I'm feeling great about my progress.
+
+Link to work: N/A
+
+Day 57
+Dec 17, 2018
+
+Today's Progress: Really started focusing on using VScode.  Did some tutorials, set up the editor (e.g. linter) and got some simple Python code running in the debugger.
+
+Thoughts: There's no way I could do any coding without a full-featured IDE.  VSCode seems really incredible, both for Python and Javascript.
+
+Link to work: N/A
+
+Day 56
+Dec 16, 2018
+
+Today's Progress: Got my Python code working in a rudimentary way in Jupyter - read JSON, remove HTML tagging, split into sentences.  
+
+Thoughts: Brilliant how powerful Python is.  But it doesn’t do the looping and conditionals I need it to do.  And I’m not great at referencing the objects I need to reference yet.
+
+Link to work: N/A
+
+Day 43, 55
+Dec 15, 2018
+
+Today's Progress: Did some reading and also went through some different approaches to getting the data from the Javascript filter code into a good Python-readable format.  Finally figured out I could just write it out as JSON from Javascript and read it into Python that way.  Duh...
+
+Thoughts: I haven't spent a ton of time on coding over the last few days, but other things like career opportunities, family issues, and commitment to exercise have been very important.  So it's all good - but I need to stay engaged and make real progress.
+
+Link to work: N/A
+
+Day 53
+Dec 13, 2018
+
+Today's Progress: Not a lot.  Lots of commitments today.
+
+Thoughts: Will do a lot of coding tomorrow.
+
+Link to work: N/A
+
+Day 52
+Dec 12, 2018
+
+Today's Progress: Didn't get much done.  A little reading, that's all.  Heavy travel day and meeting prep for tomorrow.  Did get a lot done, just not with coding.
+
+Thoughts: I knew progress would be tough today.  Tomorrow may be more of the same.  But I'll have some time between work and travel and will try.
+
+Link to work: N/A
+
+Day 51
+Dec 11, 2018
+
+Today's Progress: Did some Github cleanup and a little bit of Javascript and Python.  Baby steps but I made progress.
+
+Thoughts: I need to focus less on news and social media and more on coding.  I need to get over my fear of the challenge, I've risen to it every time up to now and I'll continue to solve each problem as I come across it.  In fact, solving problems is the whole point of the exercise.  Lean into it.  Find the fun in solving puzzles.
+
+Link to work: N/A
+
+Day 49, 50
+Dec 10, 2018
+
+Today's Progress: Reviewed my Javascript code, looked at refactoring some of the functionality in Python.  Looks like Python will be the answer but need to figure out the point in the process to write out Javascript output and read into Python.
+
+Thoughts: Javascript was necessary because 18F wrote a Javascript parser for my source data.  It was also useful because I knew how to write code in it and could filter, examine, and prep my data.  But now it's time to refactor in Python with Jupyter.  I'm expecting a hefty learning curve but at the end of it I should be in great shape doing data prep and data processing.
+
+Link to work: N/A
+
+Day 48
+Dec 8, 2018
+
+Today's Progress: While waiting for Tess to come out of ACT testing, had a chance to really examine a couple of good Jupyter notebooks and came up with my initial approach to building my training and testing datasets for my first AI models.
+
+Thoughts: I didn't spend much time working on coding yesterday, but I made great conceptual progress.  Toddlers drive parents crazy because they want to hear the same stories and songs over and over again.  But it's because they get something new out of them each time they hear them.  That's the way it's been for me with Python, Jupyter, and Machine Learning materials I've found online.  As I kept reading them, while learning through tutorials and experimentation, I found I learned more each time.  Until yesterday I read one and came up with an insight for how to build my models.  Very cool.
+
+Link to work: N/A
+
+Day 47
+Dec 7, 2018
+
+Today's Progress: Finished my Jupyter tutorial course.  Learned about Basemap for static maps, Plotly for interactive maps, Jupyter labs, and a variety of techniques for mapping data.  
+
+Thoughts: Not directly useful for my immediate goals but very interesting and I'm sure I'm going to use it for something in the future.  I need to understand more about Jupyter Labs, it seems like a very powerful data environment.
+
+Link to work: N/A
+
+Day 46
+Dec 6, 2018
+
+Today's Progress: Really good progress on my Jupyter tutorial course.  Building the tutorial exercises from scratch is slow going, but I'm learning a lot about Jupyter, shell scripts, data libraries (matplotlib, pandas, and numpy).
+
+Thoughts: It's frustrating to go so slow by rebuilding every line of code from the tutorial.  There's four hours of video instruction, and I haven't even gotten through the first hour yet.  I've had some breaks today to do other things but have essentially spent to day on this.  It's hard to justify spending all this time, but it's also hard to justify just watching the videos.
+
+Link to work: N/A
+
+Day 45
+Dec 5, 2018
+
+Today's Progress: Continued progress on the Python and Jupyter or Machine Learning course.  The course started to get ahead of my knowledge level, and I needed some experience in using Jupyter functionality, so I put the course on hold and started a new course on Jupyter setup and simple hands-on tutorials.  
+
+Thoughts: The hands-on course is four hours of videos, plus whatever hands-on work I do to make sure Jupyter is set up on my machine, and to implement the tutorial exercises on my machine. This will get me coding, and my hope is that within a day or two I'll have enough context using Jupyter to either start on Gensim or return to the Python and Jupyter for Machine Learning course.
+
+Link to work: N/A
+
+Day 44
+Dec 4, 2018
+
+Today's Progress: Did several hours of study of a Python and Jupyter for Machine Learning course. Including studying some of the more difficult concepts from separate sources.  Needed to feel like I was coding so also installed Anaconda and VSCode on my laptop.
+
+Thoughts: Felt good to really dive in and learn a lot.  Lots of stuff that I understood conceptually, but Python is very different syntactically.  But also there are a number of concepts in Python that don't translate to other languages that I know.  Very interesting stuff, I hope I get advanced enough to dig into it.  One concept I thought was especially interesting was the ability to time steps, so that I can pick the most time-effective method to process large data sets.  I'm sure the libraries, like Gensim, handle a lot of that, but still, it's very interesting.
+
+Link to work: N/A
+
+Day 43
+Dec 3, 2018
+
+Today's Progress: Did some data science reading and did some work on a Python course.
+
+Thoughts: Got caught up in a number of things that are important, but seem kind of like distractions.  Plus I spent over an hour in the middle of the day on web surfing and news.
+
+Link to work: N/A
+
+Day 39, 40, 41, 42
+Dec 02, 2018
+
+Today's Progress: Studied Gensim, white papers, articles, videos, and tutorials.  Now I need to code.
+
+Thoughts: I've gotten a lot of non-code things done, and done some research and let the thinking sink in.  But I need to get back to writing code every day.  Time to do something on the computer, like a tutorial.  Start coding.
+
+Link to work: N/A
+
+Day 37, 38
+Nov 28, 2018
+
+Today's Progress: Yesterday I studied my output data text, cleaned it up, and did some AI research on approaches to using the data.  Today I studied the data, studied some applications of AI to understand how to use it, and met with a data scientist so that I could let him review my data, give me some input, and make recommendations.
+
+Thoughts: Good food for thought.  I really am kind of getting a better understanding of how to use different supervised and unsupervised AI algorithms to classify data vs drive workflow.  I have some ideas that I need to develop but I feel like I'm on the right learning track.
+
+Link to work: N/A
+
+Day 35, 36
+Nov 26, 2018
+
+Today's Progress: Yesterday I wrote some code to solidify my filters. Did some research on workflow platforms.  Today I examined my output data and found filter issues, completely refactored my filter code (successfully), tightened up my filters, refined the files that I write out for model training, and implemented the loop over multiple days of files.  Examined the output data for relevance and structure.  
+
+Thoughts: I worked so fast today! I couldn't believe how much I got done.  Writing the output files (moving from the JSON objects to my output objects and writing files), completely refactoring my filter code, implementing the multiple input file loop. I thought each of those would be a major undertaking.  It took barely any debugging at all!  I have data in training-ready format and can change it if needed to make it easier to train. Ready to sort through the data, then jump into Python and start training models using the data.
+
+Link to work: N/A
+
+Day 34
+Nov 24, 2018
+
+Today's Progress: Created a function to write out the elements I care about, and wrote a some pseudocode to describe the function.  Also commented and cleaned up code from yesterday.  Started working on integrating the loop over 365 days of daily files.
+
+Thoughts: Heavy travel day (5.5 hours of driving plus packing, hotel breakfast, unpacking, etc.). But I did get an hour of coding in early.  Pay yourself first.
+
+Link to work: N/A
+
+Day 32, 33
+Nov 23, 2018
+
+Today's Progress: Thanksgiving yesterday, so no coding.  Complete rest day spent with family.  Today I refactored the code to be functional by creating a couple of functions.  I also put in validation checks for the JSON inputs.  And I created the logic to parse and filter out the uninteresting deals.  All that remains is the file I/O.  I have a separate code file for that, but I need to integrate the input file reads, build the output arrays, and write out the JSON file and descriptions for topic model training.
+
+Thoughts: I took a chance by completely writing code from scratch, rather than making edits to existing code.  I'm very glad I did, because it turned out that I wrote very high quality code.  Took much less debugging than I thought and I feel like I have very solid code at this point. I should have text for training topic models very shortly.  With any luck, I may be able to generate my first files this weekend.  Thats' a stretch goal, but early in the week is definitely possible.
+
+Link to work: N/A
+
+Day 31
+Nov 21, 2018
+
+Today's Progress: figured out how to refactor my code into functional programming structure.  Developed a standard way to test for key/value pairs in the data so the code won't crash if the JSON data is not well formed.  Got the data structure working in client-side Javascript so that I can use the Chrome debugger environment.  Wrote new pseudocode for the entire to-be data filter, including looping over multiple input data sets, filtering out uninteresting records, and storing relevant text for interesting records.  Made coding tweaks to improve current (working) version for a single file.
+
+Thoughts: If I get in the right head space and can really focus, uninterrupted, for an hour or so, I can make amazing progress.  Then I have to take a break, decompress, think about other things.  During that time, other ideas/implications of what I've accomplished kind of fall out of my head.  After a certain amount of decompression, I can go back and do another round.  The challenge is to get into the mindset, and to find an hour without interruption.
+
+Link to work: N/A
+Day 30
+Nov 20, 2018
+
+Today's Progress: Coded up the logic for creating a year's worth of file names and looping to read, sort, and write them.  Also made progress on further filtering my data, creating topic models, and reading and writing JSON files.  Perhaps most importantly, I thought hard about how to structure and parse my data for training the topic models.
+
+Thoughts: With the advancement in filtering I discovered by studying my data set, I think I can get to a very good corpus without much manual sorting of data records. That's great because it means I can spend my time learning to train topic models (e.g. getting the code working, creating a test model), and then running various test corpus datasets through the models to use AI to score and filter deal content.  I'm not there yet, but I can see the core AI stuff on the horizon.
+
+Link to work: N/A
+
+
+Day 26, 27, 28, 29
+Nov 19, 2018
+
+Today's Progress: Finished filtering data, downloaded a year's worth of data, started coding to read in, filter, and parse by deal stage to create training data sets for models.
+
+Thoughts: I'm not going to blame myself for not getting more coding done since Nov 8.  I had a lot of stuff going on, and Agile work is just as important to learn and practice.  But man, it felt good to make such great progress today and I can't help thinking how much farther along I'd have been if I'd been able to do more coding.  No matter, by the end of this week I'm sure I'll have my environment set up and have made a lot more progress.  Maybe even into model training.
+
+Link to work: N/A
+
+Day 25
+Nov 15, 2018
+
+Today's Progress: Not much.  Family crises large and small kept me from getting much done.  I looked at GitKraken and am about to take a look at a Jupyter tutorial.
+
+Thoughts: There are just so many things going on lately I can't keep up with them.  I'm not getting much work done. I hope I can get back to normal and get some coding done soon.  Fortunately, next week is Thanksgiving and I'm taking the week off.
+
+Link to work: N/A
+
+Day 20, 21, 22, 23, 24
+Nov 14, 2018
+
+Today's Progress: Rebuilt my swim lane chart as an Agile circle.  Swim lanes are automation and human activities for now.  I can slice more precisely as I move forward.  Also rebuilt my Kanban board to align with the cyclical Agile construct.  It already feels so much more intuitive to create checklists in the Kanban tasks.  All of the user stories make sense.  So I think it's a big improvement.
+
+Thoughts: Learning and executing Agile is one of my goals for this challenge.  So spending several days on this is useful.  I recognize I'm not coding on those days, but this is important too.  If I'm creating a platform, it has to have several components that I'm not working on at any given time.  Javascript, Node, Python, Jupyter, Mural, Trello, Slack.  It's true that I'm not coding, but Swim Lanes and Agile are important, and I had no concrete way of expressing my platform goals until I took this on.  It's worth it - as long as I get back to coding now that I'm done updating my Agile docs.  It doesn't help that I'm on my own while Maggie's in LA.
+
+Link to work: N/A
+
+Day 19
+Nov 9, 2018
+
+Today's Progress: Didn't do any coding, but i spent extensive time analyzing my input data.  Came up with several coding activities I need to do to further cleanse my source data.  I also got much further on understanding topic modeling, and changed my entire approach. I realize my prior approach had been way off, but it was a great lesson.
+
+Thoughts: I have a much deeper understanding now of how to do the AI modeling that I'm trying to accomplish.  As a result of that understanding, I hvae a lot more data prep to do, but I'm excited to do it.
+
+Link to work: N/A
+
+Day 18
+Nov 8, 2018
+
+Today's Progress: I got my JSON filter code working.  It's not functional programming (I used procedural) and it onluy works on one day's data (I have to figure out how to append to files, unless I can merge in Power BI or something).  But I can officially read the JSON output from the parser, filter on NAICS codes, and write out a file of the interesting deals.
+
+Thoughts: Of the 1225 updates to the FedBizOpps website on Nov 5, 127 were potentially relevant.  Which means theremay be a lot of relevant deals out there, and if I can build some good AI, it could be very valuable in finding the best ones to pursue.  I'm sure some will score low and I'll narrow it down, but very encouraging that it may be a problem set that is big enough to not just work manually, but small enough to be manageable as a proof of concept.  This is very exciting.
+
+Link to work: N/A
+
+Day 17
+Nov 7, 2018
+
+Today's Progress: Ran my first node.js program (hello world) and second - the FBO parser from 18F. Made some additions to the code to parse the data.  Still struggling with object references in Javascript.  But I learned how to debug in node.  Also validated my JSON files and examined them.  Started the data schema design for my project.
+
+Thoughts: Made great progress today.  Frustrating that I couldn't figure out how to reference the object name/value pairs, but I know I'll get there.  Made progress on debugging node, but the debugger seems a bit weak.  Glad I persevered and made good progress despite some fits and starts.
+
+Link to work: N/A
+
+Day 16
+Nov 6, 2018
+
+Today's Progress: Did a lot of configuration of my (too weak) Windows VM to try to get my dataset working in Power BI.  Set up Visual Studio IDE, FTP, and did some test input of an XML file into Power BI.  Unfortunately, I can't get my 1.2 million line dataset to load properly.
+
+Thoughts: My options are to keep trying using the current dataset, which is a problem because neither Power BI nor Atom seems to recognize it as an XML file, so there must be errors in it.  Second option is to write a parser in Javascript, which seems reasonable but will take me at least a week (though it will build some critical coding skills).  Third option is to learn Node.js well enough to parse the daily files using the parser that the 18F guys wrote.  I'm kind of pursuing all three now, but with a focus on importing into Power BI.  I may need to go to one of the other options soon.  If it's not good xml, it's probably going to be difficult to use over time.
+
+Link to work: N/A
+
+Day 15
+Nov 5, 2018
+
+Today's Progress: Got my Windows VM working in Azure.  Got Power BI installed. Did more research on data sources and processes for data ingest, picked a data ingest path.  Reviewed the data fields and some peripheral tools to ingest file attachments to deals.  Tried ingesting my XML data but failed.  Diagnostics and discussion with a cloud architect friend suggests I need a beefier VM.  Going to Webex with him tomorrow to learn to save snapshots of my environment and then provision a bigger VM. 
+
+Thoughts: Had a real breakthrough today.  I had tried a couple of times to set up my Windows environment and couldn't get it working.  It was a good demonstration of the concept that if I really lean into the problem, I know I can solve it.  I shouldn't be so tentative, especially after an initial setback.  
+
+Link to work: N/A
+
+Day 14
+Nov 4, 2018
+
+Today's Progress: Reviewed my Kanban and swim lane chart, decided to dig into FedBizOpps data feeds.  Found a weekly data feed, though it seems to be all the records updated for the week, rather than the full database.  There's an API as well, but it looks complicated to use.
+
+Thoughts: I need to spend some time on Power BI, XML editing, data filtering, data prep, and building a full data, including historical data, for relevant deals.  I'm assuming that if I filter, there won't be too many deal records to handle.  I'll also need to get my Windows VM working in Azure so I can run Power BI.
+
+Link to work: N/A
+
+Day 10, 11, 12, 13
+Nov 3, 2018
+
+Today's Progress: Agile: Built a Kanban board with all of the tasks from my swim lane chart.  Added a user story to each one.  The user stories are first drafts (MVPs), I'll refine them as I go if needed.  But now I have a really great plan to execute.
+
+Thoughts: Oct 31: Identified four skills that I need to develop as part of this project.  Agile to improve management skills, Communication/presentation to sell the idea at my company and in the AI/ML community, AI/ML methods and tools to learn about Government and deal data, and Javascript and Python to implement the system.  November 1: Drafted my swim lane chart, reviewed against Agile guidelines from the course I took.  November 2: Transcribed my notes from the swim lane pencil sketch to a Mural.  Used a template that turned out to be perfect.  Spent several hours building the diagram to show process flows, data flows, and stages of value in the process.  Color coded by role in the swim lanes.  November 3: Translated the Mural components into a Trello Kanban chart.  Expanded each box of the Mural/Trello task name, including a user story for each one, and labeling using the same color scheme as the Mural so that I can track progress of each stream.
+
+Link to work: https://app.mural.co/t/csedeals2635/m/csedeals2635/1541178664698/c0051af4038862c872544e319b534828c829f8c4, https://trello.com/b/LdC7F0b3/deal-scorecard
+
+Day 09
+Oct 30, 2018
+
+Today's Progress: Came up with the idea of two tracks.  One is the coding (bottom up) track, the other is Agile representation of requirements (top down) track.  Separate task set for each.  I will only count the bottom-up track as part of the 100Days of code, but the top down gives me permission to spend two hours a day doing this project work.  And the Agile part is a less technical, but still useful and marketable, skill that I can use to create my presentation layer.  I also killed my VM (I have learned enough to start over and do it right).  And I researched topic models and how they're built.
+
+Thoughts: Good progress.  I'm not actually prepping data or coding, which is bothering me.  But I'm learning really important stuff.  I will get there.  I need to trust the path I'm on for the next few days.  I know I'll be coding soon.
+
+Link to work: N/A
+
+Day 06, 07, 08
+Oct 27, 28, 29, 2018
+
+Today's Progress: Decided to move forward with provisioning a Windows VM on Azure to run Power BI.  Took a couple of hours over a few days to get it provisioned.  I still haven't gotten remote access to it.  But I'm close.  I think I just need to provision a new one and kill the one I have.  I'm going to use Windows Server and see if Power BI will run on it.  I've also done some tutorials on Power BI (continued), Azure, and provisioning VMs (youtube).  
+
+Thoughts: I've certainly spent at least an hour a day on this stuff, but it's been going a bit slow because I'm not doing a course curriculum where the material is all laid out for me, like FreeCodeCamp or Fast.AI.  This is harder but it's part of the process of trying to tie my training into useful work.  Overall, even though the past few days have been frustrating, I've learned a lot and shown some resilience to solve my problems outside of a standard curriculum. I feel like the skills I've built are much more aligned with a professional using tools to solve problems than a student.  I hope I can maintain this real-world goal/learn-as-I-go approach.
+
+Link to work: N/A
+
+Day 05
+Oct 26, 2018
+
+Today's Progress: Thought through the value proposition to justify the investment for doing my project.  Drafted a business requirements document that defines strategic objectives and several potential avenues to start achieving those objectives.
+
+Thoughts: I spent a lot of time thinking through how my approach really adds value, and what steps I need to take to make sure I achieve some value in my day job with the work I'm doing on AI.  I think the tactical discoveries I make in the data will change my direction at a detail level, but my overall direction and value proposition won't change.  However, I have to get more serious now about learning the requisite skills. I've had a very productive few days of conceptual and strategic work, but it will mean nothing if I don't learn to code well enough to execute the plan.
+
+Link to work: N/A
+
+Day 04
+Oct 25, 2018
+
+Today's Progress: Spent time researching BI tools, landed on using Power BI from Microsoft.  Looks like it can do small datasets pretty well, which is what I'm looking to do.
+
+Thoughts: I have to really get into the notion of learning some serious data visualization.  I have some good ideas for how to integrate AI/ML into my project.  But first I need to be able to prep the data, and there's a learning curve for that.  It will be immediately useful.  I read an article recently (in Harvard Business Review?) that said data visualization is a good place to start.  So far I agree.  I feel like I'm making good progress, learning new things while building on what I already know.
+
+Link to work: N/A
+
+Day 03
+Oct 24, 2018
+
+Today's Progress: Met with Clark to discuss areas of focus for my AI work around Federal sales.  Came up with some great ideas around topic modeling and using FedBizOpps to develop data sets for evaluating deals.  I did some follow-up research on how to get at the data I care about (API), data visualization, and researched some tools to create topic models.
+
+Thoughts: One meeting with someone who knows what they're doing and I got a ton out of it.  Really great stuff.  I'll have to figure out how to keep going with Clark without asking too much of him.  But it's clear that this AI stuff needs a data scientist and a SME. I'm a SME (on Federal deals) and I can learn to be a Data Scientist.  Coding also required, which I am, or will be when I brush up on some skills.
+
+Link to work: N/A
+Day 02
+Oct 23, 2018
+
+Today's Progress: Spent more time working through a Python course.  Got less out of it today than yesterday, but still good expereince getting re-acclimated to programming and learned a few things about Pyton syntax.  
+
+Thoughts: Will wrap up tomorrow and move on to Panda, NumPy, and then Jupyter.  I have to keep reminding myself not to try to take on too much. If I'm going at the right pace, my ego says I should go much faster.  But if I go too fast, I get ahead of myself and get frustrated.  Better to feel like I'm going a little too slow but making progress.  I feel like I'd make more progress by going faster, but I'd just get frustrated and stop.  I know this from experience.
+
+Link to work: N/A
+
+Day 01
+Oct 22, 2018
+
+Today's Progress: Set up Round 3 of #100_days_of_code in Github, identified Python Coursework to start challenge and created a playlist in Safari Media, reached out to a colleague working on AI to see if we can work together.
+
+Thoughts: I'm looking forward to this. Round 1 was a great success. Round 2 lasted 23 days.  So I have a dose of hard R2 reality to temper my R1 enthusiasm.  Bill Gates is quoted as saying “Most people overestimate what they can do in one year and underestimate what they can do in ten years.”  I have to remember that.  I tend to overestimate what I can accomplish in one hour, and I've definitely underestimated what I've accomplished with coding in the last year.  If I stick with it, I can use my coding to contribute to society.  But I need to build a critical mass of skills first.
+
+Link to work: N/A
+
