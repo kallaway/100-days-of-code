@@ -182,3 +182,9 @@ Fixed the thumbnails for the images that appear on the Wikpedia page for Dane ax
 
 **R2D10, January 22nd, 2021**
 Experimented about with the positioning of elements. Didn't work on my Wikipedia clone but worked on creating a test page where I could experiment and see how the different values for the Position property affected its elements and their containers. Also learn that the Sticky property doesn't work unless the element's Display property is set to Block, and that one also has to set a value for the Top property for it to work properly.
+
+**R2D11, January 26th, 2021**
+Worked on my Wikipedia clone practice project, styling the navigation aside bar, I am really happy with how it turned out.
+
+**R2D12, January 28th, 2021**
+Worked on the Wikipedia clone page. Today I added the "clearfix" trick to improve the responsiveness of the thumbnails and also improved the layout a little. Used Absolute Positioning to make the navigation bar stick to the left and managed to make the Footer go to the bottom of the page using flex-wrap: wrap on the body. I am not really happy for having done it this way, but so far I don't know how to do it with Flexbox or Grid layouts yet. Also styled a bunch of sections and I think that the wikipedia clone is looking really well. I have to test its responsiveness thought.

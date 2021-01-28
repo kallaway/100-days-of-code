@@ -26,3 +26,9 @@ Started working with Section 23 of the Java course. Started working on what woul
 
 **R1D8 - January 16th, 2021**
 Finished the final project of the course and ended with Section 23rd. Really excited to keep moving forward. Started with the second part of the course, learned a new thing about variable arguments (varargs) in a method.
+
+**R1D9 - January 23rd, 2021**
+Completed Section 25 about Enumerations in Java and how to created Enums with parameters and methods.
+
+**R1D10 - January 24th, 2021**
+Completed section 26, about static and non-static initialization blocks in Java. Completed section 27 about forEach in Java for primitives and Object arrays. Completed Section 28 about Autoboxing and Unboxing in Java, also talked about Wrapped classes for primitive data types.
