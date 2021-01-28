@@ -197,3 +197,6 @@ In the evening, training a recurrent #neuralnetwork for weather forecasting. Mor
 ### R1D44
 Working on plotting of recurrent #neuralnetwork model on weather forecasting.
 This will be another great addition to my #DataScience  portfolio.
+
+### R1D45
+Working on plotting with #matplotlib #plotly and #seaborn.
