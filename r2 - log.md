@@ -761,8 +761,16 @@
 
 # Day 90: 27th January, 2021
   ##### Today's progress:
-    Cracked N Queens problem: 4/9 passes
+    Cracked N Queens problem completely
   ##### Thoughts:
     Need to work on Hard Problems faster
   ##### Link to References:
-    (https://leetcode.com/problems/n-queens/)
+    (https://leetcode.com/problems/n-queens/submissions/)
+    
+# Day 90: 28th January, 2021
+  ##### Today's progress:
+    Cracked N Queens problem quickly
+  ##### Thoughts:
+    None
+  ##### Link to References:
+    (https://leetcode.com/problems/n-queens-ii/submissions/)
