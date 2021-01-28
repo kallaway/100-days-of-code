@@ -25,3 +25,9 @@ Three validation methods related to Minitests.
 1. assert_equal b, a /Pass if a is equal to b.
 2. asser a /Pass if a is true.
 3. refute a /Pass if a is false.
+
+#100DaysOfCode   
+Day: 005/100
+I  joined meetup today.
+I was able to speak with Rubyist legend.
+Very valuable experience!
