@@ -24,11 +24,11 @@
 
 1.  Para aumentar las posibilidades de éxito es obligatorio incorporar un enlace en cada uno de sus aportes del día en el [diario](diario.md). Puede ser un enlace a su cuenta en GitHub, un enlace a una entrada de su blog ...
 
-2.  Si te enojas o te atascado lee este artículo [Aprendiendo a programar, cuando se vuelve oscuro](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
+2.  Si te enojas o te atascado lee este artículo [Aprendiendo a programar, cuando se vuelve oscuro](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
 
     * Está en ingles
 
-3.  Si no sabe por qué hay tanto énfasis en programar proyectos frente hacer tutoriales o cursos en línea, lea esto: [Como obtener un trabajo de programando en menos de un año](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
+3.  Si no sabe por qué hay tanto énfasis en programar proyectos frente hacer tutoriales o cursos en línea, lea esto: [Como obtener un trabajo de programando en menos de un año](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 
     * Está en ingles
 

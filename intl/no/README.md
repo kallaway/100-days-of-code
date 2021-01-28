@@ -9,14 +9,14 @@
 
 ## Oversettelser
 
-[español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [русский](intl/ru/README-ru.md) – [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md) - [norsk](intl/no/README.md)
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md)– [nederlands](../nl/README.md) – [norsk](README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) - [srpski](intl/sr/README-sr.md)
 
 Hvis du vil bidra med oversetting av innhold/regler i ditt språk, lag en pull request (eller send meg en DM på Twitter @ka11away), og legg til en undermappe i 'intl'-mappen med de oversatte filene.
 
 # Hvis du har bestemt deg for å bli med:
 
 1. Se [den offisielle nettsiden](http://100daysofcode.com/) for #100DaysOfCode-bevegelsen. Kom i kontakt med andre på de platformene du ønsker fra denne [listen](http://www.100daysofcode.com/connect/).
-    Her er også en [invitasjonslink](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) til 100DaysOfCode på Slack.
+    Her er også en [invitasjonslink](https://www.100daysofcode.com/slack) til 100DaysOfCode på Slack.
 2. Les [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 3. Fork dette repo-et og commit daglig til [loggen](log.md) eller til alternativet, [R1 Logg](r1-log.md) (R1 står for Round 1 (runde 1). [Eksempel](https://github.com/Kallaway/100-days-kallaway-log).
 4. **Kode minst én time hver dag de neste 100 dagene.**

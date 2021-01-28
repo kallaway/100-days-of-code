@@ -1,14 +1,14 @@
 ## 常见问题和回答:
   **Q:** 我怎样与其它参加挑战的人建立联系？
   **A:** 最好的方法是察看 100DaysOfCode 的官方网站：www.100DaysOfCode.com/connect
-  也可以通过[100DaysOfCode Slack channel 邀请链接](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA)。
-  
+  也可以通过[100DaysOfCode Slack channel 邀请链接](https://www.100daysofcode.com/slack)。
+
   在Twitter上搜索 #100DaysOfCode，或者加入[Gitter上的the 100DaysOfCode](https://gitter.im/Kallaway/100DaysOfCode) － 你不需要邀请，它是向任何人开放。或者在Twitter上follow [@_100DaysOfCode](https://twitter.com/_100DaysOfCode)，和社区保持联系。
 
   **Q:** 我已经开始了挑战，现在是第8天。我怎样开始用这个repo来记录我的进展？
   **A:** 别着急。尽可能多的纪录你之前的内容，但是如果不适用你，就直接从现在开始。如果你每天都tweet你的进展，就把你每天的tweets链接添加到日志中。之后就一直用这个形式。
 
-  **Q:** 对于写代码，我是一个新人（或者刚刚决定开始学习写代码），我还做不出project，我应该做什么？ 
+  **Q:** 对于写代码，我是一个新人（或者刚刚决定开始学习写代码），我还做不出project，我应该做什么？
   **A:** 最好的开始办法是从头学习[FreeCodeCamp 前端课程](https://www.freecodecamp.com/)。在100天内，进展越多越好。
 
   **Q:** 我漏掉了一天，这意味着我在这个挑战上失败了吗？
@@ -16,11 +16,11 @@
 
   **Q:** 我很晚才回家，我完成当日挑战要求的时间后，已经过了午夜，还能算到今天吗？
   **A:** 当然算！可以用这个法则：你在睡觉前写了至少一个小时的代码吗？如果答案是肯定的，那你就走在正轨上。我们每个人都有不同的时间安排，处在不同的人生阶段（孩子，学校，工作，你能想象到的），所以没必要拿一个随机的时间标准要求自己。午过了夜，发生在灰姑娘身上的事情不会发生在你身上。不要担心你当天是否在github上得到了一分，是，看到那些连续的竖条确实很有满足感，但是根据时钟来评价你的努力，并不能帮到你太多。
- 
+
   **Q:** 我是否应该记日记？
   **A:** 是的，你应该，而且最好的办法就是fork这个repo，并且每天都更新[日志](log.md)。这样能在两个方面帮到你：你可以看到每天的进展和已经进步了多少，另外，在100天后，你可很好的分析你的经历，看看什么适合你，什么不适合你。
 
-  **Q:** 我应该把我的project放在网上吗？ 
+  **Q:** 我应该把我的project放在网上吗？
   **A:** 当然。知道你正在做的东西可以被任何人在网上看到，这是非常好的约束和激励自己的办法。这会让你更在乎最终的产品，最后的结果会让其他人眼前一亮。我建议把你的project放在github上。
 
   **Q:** 我应该担心github上是否有连续竖条吗？

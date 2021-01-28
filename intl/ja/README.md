@@ -7,10 +7,13 @@
 * [FAQ](FAQ.md)
 * [リソース](resources.md)
 
+## Translations
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [nederlands](../nl/README.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) - [srpski](intl/sr/README-sr.md)
+
 ## 参加方法
 
 0.  [公式サイト](http://100daysofcode.com/)で#100DaysOfCodeの活動を見てください。このリスト（www.100DaysOfCode.com/connect）から、好きなプラットフォームを選んで他の参加者と繋がりましょう。
-    また、[こちら](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA)から100DaysOfCodeのSlackに参加することができます。
+    また、[こちら](https://www.100daysofcode.com/slack)から100DaysOfCodeのSlackに参加することができます。
 1.  [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)を読んでください。
 1.  このリポジトリをフォークして[学習ログ](log.md)、もしくは[R1学習ログ](r1-log.md) (R1はラウンド1の略)に毎日投稿してください。[例](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **これから100日間、毎日最低1時間プログラミングをしましょう。**

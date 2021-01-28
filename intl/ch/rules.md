@@ -15,8 +15,8 @@
 
 ## 如何让这个挑战更有效
 1. 提高成功的概率，有必要在[日志](log.md)中添加链接，可以是github commit链接，也可以是博客文章链接。
-2. 如果感到沮丧或卡住了，请阅读这篇文章：[Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
-3. 如果你不知道为什会强调做project，而不是教程和网课，请阅读这里：[How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
+2. 如果感到沮丧或卡住了，请阅读这篇文章：[Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
+3. 如果你不知道为什会强调做project，而不是教程和网课，请阅读这里：[How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 4. 如果出于某种原因，你无法push你的代码到github（比如，你刚开始学习写代码，还在做练习），请提供tweet的链接。你能想到的都可以，只要能让这个挑战保持公开，你会从保持承诺和要求己进步中受益。
 5. 另一个fork这个repo的理由 -> 如果你从未接触过Markdown，这是一个很好的练习机会。
 

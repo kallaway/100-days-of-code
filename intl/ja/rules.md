@@ -16,8 +16,8 @@
 
 ## このチャレンジをより効果的にするための工夫
 1. 成功の確率を上げるためには、毎日の投稿を[学習ログ](log.md)に追加していくことが必要です。投稿はGithubのコミットでも、ブログへのリンクでも構いません。
-2. うまくいかないときには、こちらの記事を読んでみてください。[Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
-3. なぜチュートリアルやオンラインのコースだけではなく、プロジェクトをやるべきかを疑問に思ったときには、こちらの記事を読んでみてください。[How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
+2. うまくいかないときには、こちらの記事を読んでみてください。[Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
+3. なぜチュートリアルやオンラインのコースだけではなく、プロジェクトをやるべきかを疑問に思ったときには、こちらの記事を読んでみてください。[How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 4. Githubにうまくコードをプッシュできないときには (まだ初心者でチュートリアルをやっている場合など)、ツイートへのリンクを公開してください。何かしら、公に見れるものであればやる気が持続します。
 5. このリポジトリをフォークするメリットがさらにあるとしたら、マークダウン記法のいい練習になることです。
 

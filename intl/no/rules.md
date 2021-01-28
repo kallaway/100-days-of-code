@@ -17,8 +17,8 @@
 ## Ideér for å gjøre denne utfordringen mer effektiv
 
 1. For å øke sjansene for suksess, kreves det at du legger til en link til hva du har gjort hver dag i [loggen](log.md). Det kan være en link til en commit på GitHub, eller en link til et blogginnlegg
-2. Hvis du har det vanskelig eller står fast, les denne artikkelen: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
-3. Hvis du ikke forstår hvofor det er så stort fokus på å jobbe med projekter i forhold til tutorials eller nettkurs, les dette: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
+2. Hvis du har det vanskelig eller står fast, les denne artikkelen: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
+3. Hvis du ikke forstår hvofor det er så stort fokus på å jobbe med projekter i forhold til tutorials eller nettkurs, les dette: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 4. Hvis du av en eller annen grunn ikke kan pushe kode til GitHub (f.eks. hvis du akkurat har startet med koding og holder på med interaktive øvelser), link til en tweet om fremgangen din. Du kan også legge til andre ting så lenge det er tilgjengelig til offentligheten, og du drar nytte av det fordi du holder deg forpliktet og ansvarlig for fremgangen din.
 5. En annen bonus som du får av å forke dette repo-et -> hvis du ikke har brukt Markdown before, er dette en flott måte å komme i gang med det.
 

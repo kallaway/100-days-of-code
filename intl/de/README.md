@@ -8,14 +8,14 @@
 * [Quellen](quellen.md)
 
 ## Übersetzungen
-[español](../es/README.md) – [français](../fr/README.md) – [русский](../ru/README-ru.md) – [português do Brasil](../pt-br/LEIAME.md) - [deutsch](../de/README.md)
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [nederlands](../nl/README.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) - [srpski](intl/sr/README-sr.md)
 
 Falls du mit dem Beitrag einer Übersetzung des Inhalts/der Regeln in eine weitere Sprache helfen möchtest, sende einen Pull Request (oder schicke eine DM über Twitter @ka11away) und füge einen Unterordner mit den Dateien der Übersetzung in den 'intl' Ordner hinzu.
 
 ## Falls du dich entschieden hast teilzunehmen:
 
 0.  Sieh dir [die offizielle Seite](http://100daysofcode.com/) der #100DaysOfCode Bewegung an. Verbinde dich mit anderen auf der Plattform deiner Wahl von dieser Liste: www.100DaysOfCode.com/connect.
-    Außerdem ist [hier](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) ein Einladungslink für den 100DaysOfCode Slack Kanal
+    Außerdem ist [hier](https://www.100daysofcode.com/slack) ein Einladungslink für den 100DaysOfCode Slack Kanal
 1.  Lies [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Mache eine Kopie von diesem Repository (Fork) und füge täglich deine Einträge in das [Logbuch](log.md), oder alternativ ins schnelle [R1 Logbuch](r1-log.md) (R1 steht für Runde 1) hinzu. [Beispiel](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Code mindestens eine Stunde täglich während der nächsten 100 Tage**

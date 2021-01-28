@@ -19,8 +19,8 @@
 ## Ideias para fazer esse desafio ser mais eficiente
 
 1. Para aumentar as chances de sucesso, é requerido que você adicione o link de cada dia de posts no [log](log.md). Pode ser um link do commit no GitHub ou um link para um artigo de blog.
-2. Se você perder a paciência ou ficar travado, leia esse artigo: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
-3. Se você não sabe o motivo da ênfase de trabalhar em projetos reais, em relação aos tutoriais ou cursos online, leia isso: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
+2. Se você perder a paciência ou ficar travado, leia esse artigo: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
+3. Se você não sabe o motivo da ênfase de trabalhar em projetos reais, em relação aos tutoriais ou cursos online, leia isso: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 4. Se você não puder enviar seu código para o GitHub por alguma razão (por exemplo, se você estiver aprendendo a programar ou estiver resolvendo exercícios interativos), forneça um link para o tweet. É fundamental manter seu desafio publicamente - você será beneficiado de estar comprometido com o desafio e com o registro do seu progresso publicado.
 5. Outro benefício de dar um fork neste repositório -> se você nunca trabalhou com Markdown anteriormente, é um bom modo de praticar.
 
