@@ -3,10 +3,16 @@ import pandas
 import random
 
 BACKGROUND_COLOR = "#B1DDC6"
-
-data = pandas.read_csv("data/spanish_words.csv")
-need_to_learn = data.to_dict(orient="records")
 current_card = {}
+need_to_learn = {}
+try:
+    data = pandas.read_csv("data/words_to_learn.csv")
+except FileNotFoundError:
+    original_data = pandas.read_csv("data/spanish_words.csv")
+    need_to_learn = original_data.to_dict(orient="records")
+else:
+    need_to_learn = data.to_dict(orient="records")
+
 
 
 def new_card():
@@ -25,6 +31,15 @@ def flip_card():
     canvas.itemconfig(card_background, image=card_back_img)
 
 
+def is_known():
+    need_to_learn.remove(current_card)
+    print(len(need_to_learn))
+    data = pandas.DataFrame(need_to_learn)
+    data.to_csv("data/words_to_learn.csv", index=False)
+
+    new_card()
+
+
 # ***********************************  UI SETUP ************************************
 window = Tk()
 window.title("Spanish Translator")
@@ -40,13 +55,13 @@ card_word = canvas.create_text(400, 263, text="word", font=("Ariel", 60, "bold")
 canvas.config(bg=BACKGROUND_COLOR, highlightthickness=0)
 canvas.grid(row=0, column=0, columnspan=2)
 
-wrong_image = PhotoImage(file="images/wrong.png")
-wrong_button = Button(image=wrong_image, highlightthickness=0, command=new_card)
-wrong_button.grid(row=1, column=0)
+cross_image = PhotoImage(file="images/wrong.png")
+unknown_button = Button(image=cross_image, highlightthickness=0, command=new_card)
+unknown_button.grid(row=1, column=0)
 
-right_image = PhotoImage(file="images/right.png")
-right_button = Button(image=right_image, highlightthickness=0, command=new_card)
-right_button.grid(row=1, column=1)
+check_image = PhotoImage(file="images/right.png")
+known_button = Button(image=check_image, highlightthickness=0, command=is_known)
+known_button.grid(row=1, column=1)
 
 # ************************** CREATE FLASH CARDS **********************
 new_card()
