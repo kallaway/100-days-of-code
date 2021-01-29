@@ -31,3 +31,10 @@ Day: 005/100
 I  joined meetup today.
 I was able to speak with Rubyist legend.
 Very valuable experience!
+
+#100DaysOfCode   
+Day: 006/100
+There are three public levels of Ruby methods.
+1. public   
+2. protected 
+3. private
