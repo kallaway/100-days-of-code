@@ -188,3 +188,6 @@ Worked on my Wikipedia clone practice project, styling the navigation aside bar,
 
 **R2D12, January 28th, 2021**
 Worked on the Wikipedia clone page. Today I added the "clearfix" trick to improve the responsiveness of the thumbnails and also improved the layout a little. Used Absolute Positioning to make the navigation bar stick to the left and managed to make the Footer go to the bottom of the page using flex-wrap: wrap on the body. I am not really happy for having done it this way, but so far I don't know how to do it with Flexbox or Grid layouts yet. Also styled a bunch of sections and I think that the wikipedia clone is looking really well. I have to test its responsiveness thought.
+
+**R2D13, January 29th, 2021**
+Kept going with the Web Developer Bootcamp course, saw a video about CSS Transitions and created a simple site to experiment with a couple of properties. Also learned how to animate several individual elements at the same time when you hover above the container, and also that it is not a good idea to "transition: all". Also experimented a bit with transforms, skew(), perspective(), rotate(), translate(), and scale()
