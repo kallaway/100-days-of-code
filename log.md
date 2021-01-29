@@ -158,3 +158,30 @@ The singleton class was pretty self-explanatory and I was largely going off the 
 **Thoughts:** Super bowl, baby!
 
 
+<<<<<<< HEAD
+### Day 19: January 26, 2021
+#####
+
+**Today's Progress**: Didn't get to do anything yesterday unfortunately.  Today spent some time learning about ONNX runtime and other Jetson tools. 
+
+**Thoughts:** I think I want to try the following:
+
+1.) Take trained model from a framework (keras).
+2.) Convert to ONNX.
+3.) Deploy to ONNX runtime or TensorRT.
+
+The project is definitely something to check out: [ONNX Runtime](https://github.com/microsoft/onnxruntime).
+
+### Day 20: January 27, 2021
+#####
+
+**Today's Progress**: Working on getting ONNX runtime going in a docker container and running the yolov4 model as demonstrated in this [NVIDIA tutorial](https://developer.nvidia.com/blog/announcing-onnx-runtime-for-jetson/#:~:text=ONNX%20Runtime%20optimizes%20models%20to,and%20control%20the%20inference%20sessions.).
+
+**Thoughts:**  Didn't get to work on converting model to onnx and then running it with ONNX runtime, but am working on this yolov4 model identifying a kite.  Might play with it a little more tomorrow.  Also want to generate a graphic of the ONNX model as [shown here](https://github.com/onnx/tutorials/blob/master/tutorials/VisualizingAModel.md).
+
+When running the yolov4 model, the Jetson shut off.  Probably need to do a couple things:
+
+1.) Get a jumper so I can use a 10W power supply.
+2.) Disconnect the display and login via ssh.
+=======
+>>>>>>> d6e7a36bcfb64e6a71ff17194ede183389c01060
