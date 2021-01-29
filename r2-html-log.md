@@ -161,3 +161,33 @@ Completed section 6 of the Web Developer Bootcamp 2021, covering the very basics
 
 **R2D3, January 10th, 2021**
 Went through the Section 7 of the course, refreshing my knowledge about CSS Selectors and practicing a bit with a fun little site. Went through half the lesson.
+
+**R2D4, January 12th, 2021**
+Finished Section 7. I Learned a few things about CSS selectors, the difference between Pseudo classes and pseudo elements, and a few things about Specificity. I also saw a few options of the Dev Tools on Google Chrome that I didn't know about. Also I learned that there are certain properties on the elements that are not inherited by default which can be changed by setting that property to 'inherit'
+
+**R2D5, January 16th, 2021**
+Started Section 8, which covers the CSS Box Model. Watched a couple of videos explaining some of the properties of the Box Model, like with, height and Border.
+
+**R2D6, January 17th, 2021**
+Learned a few things about Borders and box-sizing, made a little practice and then learned about padding.
+
+**R2D7, January 18th, 2021**
+Today's videos covered: Margin, Display, the difference between Inline, Block, and Inline-Block elements and how Width, Height, Margin and Padding behave for each of these display properties. Also talked about relative units, like percentages, EMs and REMs. I also learned that line-height is related to the font-size of the element. Now going to start Section 9 and see some useful CSS properties. Also started working on creating a clone for an entry on Wikipedia about Dane axes.
+
+**R2D8, January 19th-20th, 2021**
+Started a practice project to create a Wikipedia clone for a particular entry. Added the content and made the summary part of the page look somewhat similar to the one I chose which is about Dane Axese.
+
+**R2D9, January 21st, 2021**
+Fixed the thumbnails for the images that appear on the Wikpedia page for Dane axes.
+
+**R2D10, January 22nd, 2021**
+Experimented about with the positioning of elements. Didn't work on my Wikipedia clone but worked on creating a test page where I could experiment and see how the different values for the Position property affected its elements and their containers. Also learn that the Sticky property doesn't work unless the element's Display property is set to Block, and that one also has to set a value for the Top property for it to work properly.
+
+**R2D11, January 26th, 2021**
+Worked on my Wikipedia clone practice project, styling the navigation aside bar, I am really happy with how it turned out.
+
+**R2D12, January 28th, 2021**
+Worked on the Wikipedia clone page. Today I added the "clearfix" trick to improve the responsiveness of the thumbnails and also improved the layout a little. Used Absolute Positioning to make the navigation bar stick to the left and managed to make the Footer go to the bottom of the page using flex-wrap: wrap on the body. I am not really happy for having done it this way, but so far I don't know how to do it with Flexbox or Grid layouts yet. Also styled a bunch of sections and I think that the wikipedia clone is looking really well. I have to test its responsiveness thought.
+
+**R2D13, January 29th, 2021**
+Kept going with the Web Developer Bootcamp course, saw a video about CSS Transitions and created a simple site to experiment with a couple of properties. Also learned how to animate several individual elements at the same time when you hover above the container, and also that it is not a good idea to "transition: all". Also experimented a bit with transforms, skew(), perspective(), rotate(), translate(), and scale()
