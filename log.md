@@ -183,5 +183,11 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 
 1.) Get a jumper so I can use a 10W power supply.
 2.) Disconnect the display and login via ssh.
-=======
->>>>>>> d6e7a36bcfb64e6a71ff17194ede183389c01060
+
+
+### Day 21: January 28, 2021
+#####
+
+**Today's Progress**: Got the yolov4 tutorial working by ssh'ing in and disconnecting the display.  Did not need a jumper.  Also trying to generate a diagram of the yolov4 graph.
+
+**Thoughts:**  The kite example was pretty neat.  I should probably try to do a couple different images from the web in the future.  I think playing with another model from scratch would be a good idea too.

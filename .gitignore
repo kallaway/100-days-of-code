@@ -7,3 +7,4 @@ cuda_tutorial/vec_add/add
 *.cubin
 *.a
 *.swp
+*.jpg
