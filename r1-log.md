@@ -200,3 +200,8 @@ This will be another great addition to my #DataScience  portfolio.
 
 ### R1D45
 Working on plotting with #matplotlib #plotly and #seaborn.
+
+### R1D46-47
+Updated my portfolio page. Both styling and content needed to be changed.
+Good practice for grid and flexbox.
+Also updated my projects: added short demo videos and extended readme files and descriptions.
