@@ -38,3 +38,10 @@ There are three public levels of Ruby methods.
 1. public   
 2. protected 
 3. private
+
+#100DaysOfCode   
+Day: 00７/100
+Mix-in is the addition of modules to a class.
+”include" can be used as a "instance method".
+And, "extend" can be used as a "class method".
+
