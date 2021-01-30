@@ -216,8 +216,17 @@ I have two databases all under the same username and password, so I was able to 
 
 **Link(s) to work**: [CJ Jewelry](https://github.com/TRose2014/cj-jewelry/tree/dev)
 
-Example:
-### Day 2: June 14th, 2020 (Example 2)
+**Other notes**: I have been confused on what should go in a gitignore and what shouldn't, obviously .env files but when it comes to travis.yml and .eslint I wasn't sure. While working on this project I realized that if using travis.yml, obvi it needs to know how to build its VM so it can do it's thing. Additionally if you are having travis run `npm run lint`, it will also need access to your .eslint file. So I think having .eslints outside of the gitignore is fine.
+### Day 25: Jan 30th, 2021
+
+**Today's Progress**: Got /signup route working. Need to still test /signin and /role route. Also did some front-end stuff. 
+
+**Thoughts**: I was having a hard time  whether I wanted to do front end in Vue.js or React.js. My current job uses Vue so I wanted to get more experience with it, especially since Vue uses the store pattern. But I didn't want to put React to the waist side and completely forget about it. Espeically when it comes to React hooks, so in the end I decided to use React. I need to re-familiarize myself with React, but all and all it's good be back in the front-end.   
+
+**Link(s) to work**:[CJ Jewelry](https://github.com/TRose2014/cj-jewelry/tree/dev)
+
+
+### Day 2: June 14th, 2020
 
 **Today's Progress**:
 
