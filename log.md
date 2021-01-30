@@ -158,7 +158,6 @@ The singleton class was pretty self-explanatory and I was largely going off the 
 **Thoughts:** Super bowl, baby!
 
 
-<<<<<<< HEAD
 ### Day 19: January 26, 2021
 #####
 
@@ -191,3 +190,10 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Got the yolov4 tutorial working by ssh'ing in and disconnecting the display.  Did not need a jumper.  Also trying to generate a diagram of the yolov4 graph.
 
 **Thoughts:**  The kite example was pretty neat.  I should probably try to do a couple different images from the web in the future.  I think playing with another model from scratch would be a good idea too.
+
+### Day 22: January 29, 2021
+#####
+
+**Today's Progress**: Took a little detour...I'm kind of all over the place.  Wanted to start looking at RabbitMQ and the examples, but couldn't get the [tutorial](https://www.rabbitmq.com/tutorials/tutorial-one-python.html) running (wouldn't connect).  Then started playing with Docker but wouldn't work on WSL.  Complained about some kernel errors.
+
+**Thoughts:**  Losing some focus here.  I'm trying to make up for lost time by exploring a variety of topics...deep learning, docker, web design, and rabbitMQ.  Need to get a little more focused here.  In the end I'm just trying to explore the world of software a little more and understand the tools that are out there.  Tomorrow let's focus on docker a little more on the jetson board and see what we can do.  Can I get a couple of containers talking?
