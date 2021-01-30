@@ -767,15 +767,15 @@
   ##### Link to References:
     (https://leetcode.com/problems/n-queens/submissions/)
     
-# Day 90: 28th January, 2021
+# Day 91: 28th January, 2021
   ##### Today's progress:
-    Cracked N Queens problem quickly
+    Cracked totalQueens problem quickly
   ##### Thoughts:
     None
   ##### Link to References:
     (https://leetcode.com/problems/n-queens-ii/submissions/)
     
-# Day 91: 29th January, 2021
+# Day 92: 29th January, 2021
   ##### Today's progress:
     Began to solve wildcard matching
   ##### Thoughts:
@@ -783,7 +783,7 @@
   ##### Link to References:
     (https://leetcode.com/problems/wildcard-matching/)
     
-# Day 92: 30th January, 2021
+# Day 93: 30th January, 2021
   ##### Today's progress:
     Still solving wildcard matching
   ##### Thoughts:
