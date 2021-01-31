@@ -225,8 +225,23 @@ I have two databases all under the same username and password, so I was able to 
 
 **Link(s) to work**:[CJ Jewelry](https://github.com/TRose2014/cj-jewelry/tree/dev)
 
+### Day 26: Jan 31st, 2021
 
-### Day 2: June 14th, 2020
+**Today's Progress**: Broke up original repo into two, backend and ui. I was trying to see if there were any advantages of having both live in one repo. But for me, I just prefer them both to be seperated out. It's easier to maintain, and allows me to focus on either or. Instead of trying to do both at the same time.
+
+**Thoughts**: I am currently using axios to hit an endpoint rather than React's built in fetch. And I am curious as to the difference between the two, and also how it differs from superagent. Here is what I found:
+
+| HTTP Clients      | Features |
+| :---         |      :----:   |
+| Axios        | Automatically converts the data to JSON, so you don’t have to<br> Uses data property<br> Has wide browser support;        |
+| Fetch        | Need to covert data to JSON<br> Uses body property<br> Only supports Chrome 42+, Firefox 39+, Edge 14+, and Safari 10.1+          |
+| Superagent   | Doesn't seem as popular anymore. [npmtrends](https://www.npmtrends.com/axios-vs-got-vs-request-vs-superagent)         |
+
+
+**Link(s) to work**:
+[Fetch vs Axios](https://blog.logrocket.com/axios-or-fetch-api/)<br>
+[Fetch vs Axios2](https://www.pluralsight.com/guides/axios-vs-fetch)
+
 
 **Today's Progress**:
 
