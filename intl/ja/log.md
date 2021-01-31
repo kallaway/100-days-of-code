@@ -45,3 +45,7 @@ Mix-in is the addition of modules to a class.
 ”include" can be used as a "instance method".
 And, "extend" can be used as a "class method".
 
+#100DaysOfCode   
+Day: 008/100
+About namespaces. The usage is "module::class name".
+When I call it, I will be able to distinguish duplicate objects without any problem.
