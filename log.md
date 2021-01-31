@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 8 januari, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: understanding the whole thing about 100 days chalange and preparaing what to do next
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** nothing really, but kinda found some enlightment and i hope i can do this consistently
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** i dont have anything, but maybe i will trying to make a web from scratch by using github.io platform
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: 9 januari, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: starting to write the html yet want to design how website look. try to use "john green" web profile
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
+  1. so minimal effort that i have done today, time so much wasted on last night event that should be held make me so much less productive. even if i know this is a shitty reason.
+  2. struggling in css method to modify the look of the website to look same as the model. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: the model --> http://www.johngreenbooks.com/
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
