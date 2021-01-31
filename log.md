@@ -197,3 +197,11 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Took a little detour...I'm kind of all over the place.  Wanted to start looking at RabbitMQ and the examples, but couldn't get the [tutorial](https://www.rabbitmq.com/tutorials/tutorial-one-python.html) running (wouldn't connect).  Then started playing with Docker but wouldn't work on WSL.  Complained about some kernel errors.
 
 **Thoughts:**  Losing some focus here.  I'm trying to make up for lost time by exploring a variety of topics...deep learning, docker, web design, and rabbitMQ.  Need to get a little more focused here.  In the end I'm just trying to explore the world of software a little more and understand the tools that are out there.  Tomorrow let's focus on docker a little more on the jetson board and see what we can do.  Can I get a couple of containers talking?
+
+
+### Day 23: January 30, 2021
+#####
+
+**Today's Progress**: Was able to get my laptop dual booting with OpenSUSE Tumbleweed.  Installed rabbitmq and got the example working.  Also looked at the [Docker tutorial](https://docs.docker.com/get-started/) and watched a really good video explaining how containers worked.
+
+**Thoughts:** It was nice to get rabbitMQ working.  The video in the docker tutorial was also very informative and taught me a lot about linux processes, chroot'ing to mount the container filesystem, and cgroups.  Tomorrow would like to take this further and get the rabbitMQ send and receive scripts running in separate containers.
