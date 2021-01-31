@@ -790,3 +790,11 @@
    
   ##### Link to References:
     (https://leetcode.com/problems/wildcard-matching/)
+
+# Day 94: 31th January, 2021
+  ##### Today's progress:
+    Learnt about Deep Residual Networks
+  ##### Thoughts:
+   Learnt what how adding layers affects the neural networks
+  ##### Link to References:
+    ()
