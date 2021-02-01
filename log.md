@@ -205,3 +205,10 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Was able to get my laptop dual booting with OpenSUSE Tumbleweed.  Installed rabbitmq and got the example working.  Also looked at the [Docker tutorial](https://docs.docker.com/get-started/) and watched a really good video explaining how containers worked.
 
 **Thoughts:** It was nice to get rabbitMQ working.  The video in the docker tutorial was also very informative and taught me a lot about linux processes, chroot'ing to mount the container filesystem, and cgroups.  Tomorrow would like to take this further and get the rabbitMQ send and receive scripts running in separate containers.
+
+### Day 24: January 31, 2021
+#####
+
+**Today's Progress**: Spent time trying to understand the [AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) project to see how I can utilize it in my own code to create a sender/receiver. 
+
+**Thoughts:** It was a little more elaborate than I thought.  I read through the documentation of the project, and just need to spend some time tomorrow hacking away to create a basic publish/send.  From there I can take some more elaborate steps to abstract everything away.
