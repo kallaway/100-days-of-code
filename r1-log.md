@@ -205,3 +205,7 @@ Working on plotting with #matplotlib #plotly and #seaborn.
 Updated my portfolio page. Both styling and content needed to be changed.
 Good practice for grid and flexbox.
 Also updated my projects: added short demo videos and extended readme files and descriptions.
+
+### R1D48
+Updated some css on my portfolio and planning my next project.
+Also did some #reactjs on #freeCodeCamp.
