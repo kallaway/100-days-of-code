@@ -49,3 +49,10 @@ And, "extend" can be used as a "class method".
 Day: 008/100
 About namespaces. The usage is "module::class name".
 When I call it, I will be able to distinguish duplicate objects without any problem.
+
+#100DaysOfCode   
+Day: 009/100
+About Ruby's block. It can be passed as an argument to a method. A block of processing.
+numbers.each do |n|
+sum += n
+end
