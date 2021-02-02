@@ -56,3 +56,9 @@ About Ruby's block. It can be passed as an argument to a method. A block of proc
 numbers.each do |n|
 sum += n
 end
+
+#100DaysOfCode   
+Day: 010/100
+Ruby has a standard debug library. 
+But, currently, "Byebug" is the most commonly used.
+And, We also have RubyMine.
