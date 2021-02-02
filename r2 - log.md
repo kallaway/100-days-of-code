@@ -806,3 +806,11 @@
     
   ##### Link to References:
     (https://leetcode.com/problems/wildcard-matching/submissions/)
+
+# Day 96: 2nd February, 2021
+  ##### Today's progress:
+    62 more test cases to pass to finish Valid Number
+  ##### Thoughts:
+    Need to improve speed in fihuring out corner cases
+  ##### Link to References:
+    (https://leetcode.com/problems/valid-number/submissions/)
