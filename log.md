@@ -212,3 +212,17 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Spent time trying to understand the [AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) project to see how I can utilize it in my own code to create a sender/receiver. 
 
 **Thoughts:** It was a little more elaborate than I thought.  I read through the documentation of the project, and just need to spend some time tomorrow hacking away to create a basic publish/send.  From there I can take some more elaborate steps to abstract everything away.
+
+### Day 25: February 1, 2021
+#####
+
+**Today's Progress**: Not much coding today but concerned myself with the design of an interoperable OpenCL/CUDA neural network manager.
+
+**Thoughts:** Good progress and took a lot of notes.  Need to review everything to come up with the final proposed design.
+
+### Day 26: February 2, 2021
+#####
+
+**Today's Progress**: Dove into the Allocation classes to understand what is needed from a CuAllocation.  Ran into more questions than answer.
+
+**Thoughts:** Need to continue working on this.  Not much coding again today but good understanding.  Need to get back to coding though.
