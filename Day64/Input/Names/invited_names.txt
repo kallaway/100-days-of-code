@@ -1,0 +1,8 @@
+Aang
+Zuko
+Appa
+Katara
+Sokka
+Momo
+Uncle Iroh
+Toph
