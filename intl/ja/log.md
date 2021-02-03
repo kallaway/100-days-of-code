@@ -67,3 +67,7 @@ And, We also have RubyMine.
 Day: 011/100
 I read book "The Art of Readable Code".
 The shorter the code, the better. But it's more important to reduce the time it takes to understand it.
+
+ログを移動。
+今後はScrapboxへ。
+
