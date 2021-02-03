@@ -214,6 +214,7 @@ Also did some #reactjs on #freeCodeCamp.
 Minor changes on portfolio.
 Back to #freeCodeCamp and working on #reactjs challenges.
 Planning a new project.
+
 ---
 Halfway through this challenge.
 100 Days of Code really helps me concentrating on the projects. I did almost as many projects in the last 50 days as I had done before this challenge.
@@ -223,4 +224,5 @@ I wanted to polish my Python knowledge especially in the data science field, whi
 
 In the other hand, FreeCodeCamp provides a really clear path into web development which I am also interested in. I could proceed really well and quickly so far.
 I have a lot of plans in this field as well.
+
 ---
