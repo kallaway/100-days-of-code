@@ -209,3 +209,18 @@ Also updated my projects: added short demo videos and extended readme files and 
 ### R1D48
 Updated some css on my portfolio and planning my next project.
 Also did some #reactjs on #freeCodeCamp.
+
+### R1D49-50
+Minor changes on portfolio.
+Back to #freeCodeCamp and working on #reactjs challenges.
+Planning a new project.
+----------------------------------------------
+Halfway through this challenge.
+100 Days of Code really helps me concentrating on the projects. I did almost as many projects in the last 50 days as I had done before this challenge.
+I have clear plans for the next weeks, months and I am sure I can grow as a developer.
+
+I wanted to polish my Python knowledge especially in the data science field, which I have done in the past 50 days. This will help me in my career as I use Python a lot during my daily job.
+
+In the other hand, FreeCodeCamp provides a really clear path into web development which I am also interested in. I could proceed really well and quickly so far.
+I have a lot of plans in this field as well.
+----------------------------------------------
