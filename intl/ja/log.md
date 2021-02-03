@@ -62,3 +62,8 @@ Day: 010/100
 Ruby has a standard debug library. 
 But, currently, "Byebug" is the most commonly used.
 And, We also have RubyMine.
+
+#100DaysOfCode   
+Day: 011/100
+I read book "The Art of Readable Code".
+The shorter the code, the better. But it's more important to reduce the time it takes to understand it.
