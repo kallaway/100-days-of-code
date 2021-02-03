@@ -4,10 +4,8 @@
 
 ### Day 1: February 3, 2021
 
-**Today's Progress: Completed the first Codelab for Flutter**
+**Today's Progress: Completed the first Codelab for Flutter. Here's the link to the codelab: [Codelab](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0)**
 
 **Thoughts: Need to review the code for building stateful widgets and the infinitely scrollable listview**
 
 **Link to work: [Github](https://github.com/umang-sinha/flutter-codelab1)**
-
-
