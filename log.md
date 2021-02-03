@@ -9,3 +9,13 @@
 **Thoughts: Need to review the code for building stateful widgets and the infinitely scrollable listview**
 
 **Link to work: [Github](https://github.com/umang-sinha/flutter-codelab1)**
+
+### Day 2: February 4, 2021
+
+**Today's Progress: Codelab (Intro to dart for java developers) [link](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)**
+
+**Thoughts:**
+
+**Link to work:**
+
+
