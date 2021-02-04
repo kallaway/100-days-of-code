@@ -226,3 +226,10 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Dove into the Allocation classes to understand what is needed from a CuAllocation.  Ran into more questions than answer.
 
 **Thoughts:** Need to continue working on this.  Not much coding again today but good understanding.  Need to get back to coding though.
+
+### Day 27: February 3, 2021
+#####
+
+**Today's Progress**: Got the libuv.cpp example to compile in the amqp-cpp project and finally got it running after much debugging and issues.
+
+**Thoughts:** I started with libev.cpp and it was complaining that it couldn't find "libev" from my Makefile.  My dumb mistake.  After trying libevent.cpp and libuv.cpp, I finally figured out it was because I was specifying "-llibuv" and I should have just been specifying "-luv."  Got it to compile.  Then the program wouldn't run.  Why?  because I had the "-c" option in g++.  This tells g++ to not run the linker, so it wasn't linking against any of the shared libraries.  After removing that, it worked.

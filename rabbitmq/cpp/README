@@ -1,0 +1,1 @@
+The cpp files in this directory are not mine, but were taken from the [AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) project examples.  I put them here because I created the Makefile to build them into executables.
