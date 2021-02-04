@@ -226,3 +226,8 @@ In the other hand, FreeCodeCamp provides a really clear path into web developmen
 I have a lot of plans in this field as well.
 
 ---
+
+### R1D51
+Working on #React challenges on #freeCodeCamp.
+It was actually too fast so I need to recap the basics.
+I am following a tutorial where I always stop the video and create the app from scratch, play with the code -  every time it proceeds to further steps.
