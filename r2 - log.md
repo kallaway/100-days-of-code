@@ -822,3 +822,12 @@
     Need to improve speed in figuring out corner cases
   ##### Link to References:
     (https://leetcode.com/problems/valid-number/submissions/)
+    
+# Day 98: 4th February, 2021
+  ##### Today's progress:
+    Been Fine-Tuning VGG model of groceries.ipynb
+  ##### Thoughts:
+    How batch testing works
+    Batchsize and Steps per epoch is key to nailing the training process without overfit
+  ##### Link to References:
+    (http://localhost:8888/notebooks/groceries.ipynb)
