@@ -191,3 +191,6 @@ Worked on the Wikipedia clone page. Today I added the "clearfix" trick to improv
 
 **R2D13, January 29th, 2021**
 Kept going with the Web Developer Bootcamp course, saw a video about CSS Transitions and created a simple site to experiment with a couple of properties. Also learned how to animate several individual elements at the same time when you hover above the container, and also that it is not a good idea to "transition: all". Also experimented a bit with transforms, skew(), perspective(), rotate(), translate(), and scale()
+
+**R2D14, February 4th, 2021**
+I had limited time today, but I managed to spare 9 minutes and kept going through section 9, today I watched lesson 98 and experimented a bit with the Background property. Took me a couple of tries to figure it out from memory without having to watch the video nor searching for resources.
