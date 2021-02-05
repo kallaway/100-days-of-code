@@ -233,3 +233,10 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Got the libuv.cpp example to compile in the amqp-cpp project and finally got it running after much debugging and issues.
 
 **Thoughts:** I started with libev.cpp and it was complaining that it couldn't find "libev" from my Makefile.  My dumb mistake.  After trying libevent.cpp and libuv.cpp, I finally figured out it was because I was specifying "-llibuv" and I should have just been specifying "-luv."  Got it to compile.  Then the program wouldn't run.  Why?  because I had the "-c" option in g++.  This tells g++ to not run the linker, so it wasn't linking against any of the shared libraries.  After removing that, it worked.
+
+### Day 28: February 4, 2021
+#####
+
+**Today's Progress**: Got the libev.cpp example to compile and even modified it to send messages using timer on my hello queue that were received by Docker recieve that I created.
+
+**Thoughts:** This was a pretty successful day.  I have a C++ application talking to my talker container.  From here, I'd like to explore a little bit more into making my own class that inherits from the amqp-cpp TcpHandler and implements a montior method.

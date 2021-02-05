@@ -180,7 +180,8 @@ int main()
     AMQP::TcpChannel channel(&connection);
 
     // create a temporary queue
-    channel.declareQueue(AMQP::exclusive).onSuccess([&connection, &channel, loop](const std::string &name, uint32_t messagecount, uint32_t consumercount) {
+    //channel.declareQueue(AMQP::exclusive).onSuccess([&connection, &channel, loop](const std::string &name, uint32_t messagecount, uint32_t consumercount) {
+    channel.declareQueue("hello").onSuccess([&connection, &channel, loop](const std::string &name, uint32_t messagecount, uint32_t consumercount) {
         
         // report the name of the temporary queue
         std::cout << "declared queue " << name << std::endl;
