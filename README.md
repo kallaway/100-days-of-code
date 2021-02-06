@@ -17,7 +17,7 @@ If you want to help by providing a translation of content/rules in the language 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
     Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel
 1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
+2.  Fork this repo, consider whether you would like to keep or change its [license](LICENSE) and then commit to using the [Log](log.md) or the alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily ([example](https://github.com/Kallaway/100-days-kallaway-log)).
 3.  **Code minimum an hour every day for the next 100 days.**
 4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
 5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
