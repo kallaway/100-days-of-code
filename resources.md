@@ -34,6 +34,7 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
+4. ["You don't know Javascript" book series by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - available online (free)
 
 ## Contents
 * [Rules](rules.md)
