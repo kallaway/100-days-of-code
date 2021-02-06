@@ -242,6 +242,14 @@ I have two databases all under the same username and password, so I was able to 
 [Fetch vs Axios](https://blog.logrocket.com/axios-or-fetch-api/)<br>
 [Fetch vs Axios2](https://www.pluralsight.com/guides/axios-vs-fetch)
 
+### Day 27: Feb. 6th, 2021
+
+**Today's Progress**: Set up AWS S3 bucket a few days ago and added some testing images. Today I am using the s3 url to display the images on the ui
+
+**Thoughts**: Now that I have the data I need. It's time to figure out how I want this home page to look. Need to go to the drawing board and discuss. Next would be to implement home page, connect sign up/sign in buttons. Then work on items page (all items and detailed items page)
+
+**Link(s) to work**: [CJ Jewelry](https://github.com/TRose2014/cj-jewelry/tree/dev)
+### Day 26: Jan 31st, 2021
 
 **Today's Progress**:
 
