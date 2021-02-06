@@ -841,3 +841,12 @@
     Futher fine tuning
   ##### Link to References:
     (http://localhost:8888/notebooks/groceries.ipynb)
+
+
+# Day 100: 6th February, 2021
+  ##### Today's progress:
+    Half way solved Minimum Window String
+  ##### Thoughts:
+    Two Pointer optimisation
+  ##### Link to References:
+    (https://leetcode.com/problems/minimum-window-substring/submissions/)
