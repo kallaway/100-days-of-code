@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Code Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            background-color: aliceblue;
+            text-align: center;
+            font-size: 16pt;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        .container {
+            display: table;
+            height: 95vh;
+            width: 95vw;
+        }
+
+        .question, .code-area {
+            padding: 25px;
+            display: table-cell;
+            width: 50%;
+        }
+
+        .question {
+            text-align: left;
+            position: absolute;
+            top: 0vh;
+        }
+
+        .code-area {
+            border-left: 2px solid navy;
+        }
+
+        .input, #results {
+            height: 60%;
+        }
+
+        .input {
+            border: 1px solid gray;
+            width: 90%;
+            font-family: monospace;
+            font-size: 12pt;
+            padding: 10px;
+        }
+
+        button {
+            width: 150px;
+            height: 50px;
+            cursor: pointer;
+            background-color: lightgreen;
+            color: white;
+            font-weight: bolder;
+        }
+
+        #results {
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="question">
+            <h2><strong>QUESTION</strong></h2>
+            Find the maximum number in an array of integers.
+            <br/> For example, in the array [1, -3, 5], the maximum number is 5.
+        </div>
+        <div class="code-area">
+            <textarea rows="20" class="input" id="code" autofocus>def solution(arr):</textarea>
+            <br/><br/>
+            <button onclick="runTests(this)">RUN TESTS</button>
+            <br/><br/>
+            <span id="results"></span>
+        </div>
+    </div>
+    <script>
+        function runTests(btn) {
+            btn.style.display = "none";
+            document.getElementById("results").innerHTML = "Running...";
+
+            const code = document.getElementById("code").value;
+            let xhr = new XMLHttpRequest();
+
+            xhr.onreadystatechange = () => {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    document.getElementById("results").innerHTML = xhr.responseText;
+                    btn.style.display = "initial";
+                }
+            }
+
+            xhr.open("POST", "http://localhost:5000/test/");
+            xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xhr.send("code=" + code);
+        }
+    </script>
+</body>
+
+</html>

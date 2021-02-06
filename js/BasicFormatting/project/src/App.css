@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.Controls {
+  border: 1px solid grey;
+  width: 50vw;
+  text-align: left;
+  padding: 10px;
+}
+
+button {
+  font-size: calc(8px + 2vmin);
+  margin: 0 2px;
+  width: 50px;
+  background-color: white;
+  cursor: pointer;
+  padding: 2px;
+}
+
+.Text {
+  font-size: calc(5px + 2vmin);
+  width: 50vw;
+  padding: 10px;
+}
+
+.Selected {
+  background-color: lightgrey;
+  color: white;
+}
