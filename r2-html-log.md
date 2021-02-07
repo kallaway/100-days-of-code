@@ -194,3 +194,6 @@ Kept going with the Web Developer Bootcamp course, saw a video about CSS Transit
 
 **R2D14, February 4th, 2021**
 I had limited time today, but I managed to spare 9 minutes and kept going through section 9, today I watched lesson 98 and experimented a bit with the Background property. Took me a couple of tries to figure it out from memory without having to watch the video nor searching for resources.
+
+**R2D15, February 6th, 2021**
+Watched a video about using Google Fonts and as always, made a test page without googling code and trying to practice what I have learned so far. Started watching the video about the Photo Gallery, but I am going to try to make it without watching the video, and then I'm going to finish the lesson.
