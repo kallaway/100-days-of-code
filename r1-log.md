@@ -232,7 +232,10 @@ Working on #React challenges on #freeCodeCamp.
 It was actually too fast so I need to recap the basics.
 I am following a tutorial where I always stop the video and create the app from scratch, play with the code -  every time it proceeds to further steps.
 
-### R1D53
+### R1D52
 Continuing #reactjs based on a great tutorial.
 Always re-creating the code from scratch, messing up, changing and playing with it.
 Working with functional components, child components and props.
+
+### R1D53-54
+Actively learning #reactjs and started a new portfolio website (only html and css).
