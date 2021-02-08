@@ -194,3 +194,9 @@ Kept going with the Web Developer Bootcamp course, saw a video about CSS Transit
 
 **R2D14, February 4th, 2021**
 I had limited time today, but I managed to spare 9 minutes and kept going through section 9, today I watched lesson 98 and experimented a bit with the Background property. Took me a couple of tries to figure it out from memory without having to watch the video nor searching for resources.
+
+**R2D15, February 6th, 2021**
+Watched a video about using Google Fonts and as always, made a test page without googling code and trying to practice what I have learned so far. Started watching the video about the Photo Gallery, but I am going to try to make it without watching the video, and then I'm going to finish the lesson.
+
+**R2D16, February 7th, 2021**
+Managed to create my own Image Blog with nine images and figured out how to add the filter to make them all black and white. Also, I added a slight :hover effect that removed the grayscale filter and also increased the scale of the image a bit also adding a nice shadow below it. What I couldn't figure out on my own was how to make all the images be the same size without losing the aspect ratio, but I managed to make them all the same height and left their width to adjust automatically. But it ended up creating a weird layout for the page. All in all, I was very happy with the result. After I was done I watched the videos for lessons 100 and 101 to see see what I did wrong, and found that I did better than I expected. Only have to check a few tips on MDN about how to make a hyperlink open up in a new tab which I had forgotten, and also Colt didn't explain how to make the images be the same size. I'm guessing that for his example he made sure to use images with similar aspect ratios or something, but I'm not bothered by it, I'll keep trying to find out how to do it without having to check code on Stack Overflow. Now I'm going to start Section 10: Responsive CSS & Flexbox.
