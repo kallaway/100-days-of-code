@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 1: February 8, 2021
+### Day 1: February 10, 2021
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -10,7 +10,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 2: February 9, 2021
+### Day 2: February 11, 2021
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
