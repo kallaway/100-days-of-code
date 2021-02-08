@@ -239,3 +239,7 @@ Working with functional components, child components and props.
 
 ### R1D53-54
 Actively learning #reactjs and started a new portfolio website (only html and css).
+
+### R1D55
+Still learning and practicing React, recap on state and props.
+Continuing my new project as well.
