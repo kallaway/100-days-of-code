@@ -243,3 +243,8 @@ Actively learning #reactjs and started a new portfolio website (only html and cs
 ### R1D55
 Still learning and practicing React, recap on state and props.
 Continuing my new project as well.
+
+### R1D56
+Learning #Reactjs, created a to-do app.
+Some parts of the topic still need to be practiced a lot to fully understand the structure of the library.
+Meanwhile added some functionality to my new project with #django.
