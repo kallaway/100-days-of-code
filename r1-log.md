@@ -248,3 +248,9 @@ Continuing my new project as well.
 Learning #Reactjs, created a to-do app.
 Some parts of the topic still need to be practiced a lot to fully understand the structure of the library.
 Meanwhile added some functionality to my new project with #django.
+
+### R1D57
+Created a contact form with #django + finished #React challenges on #freeCodeCamp.
+It was worth doing some extra practice to understand the concepts.
+Let's finish FCC front end libraries projects.
+Build full-stack projects with Django in March.
