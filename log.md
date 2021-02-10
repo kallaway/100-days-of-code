@@ -1,14 +1,14 @@
 # 100 Days Of Code - Log
 
 
-### Day 0: February 9, 2021
+### Day 0: February 9 & 10, 2021
 
 **Today's Progress**: Brushed up Python.
 
-**Thoughts**: Its is fascinating to refresh what I had learned 11 months ago.
+**Thoughts**: Its is fascinating to refresh what I had learned 11 months ago as well as new concepts.
 
 
-### Day 1: February 10, 2021
+### Day 1: February 11, 2021
 
 **Today's Progress**: OOPs in Python.
 
@@ -17,7 +17,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 2: February 11, 2021
+### Day 2: February 12, 2021
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
