@@ -17,3 +17,12 @@
     But it is not enough.
  ##### Link to Reference:
     (http://localhost:8888/notebooks/groceries.ipynb)
+
+# Day 3: 10th February, 2020
+  ##### Today's progress: 
+    Been fine tuning the Deep Learning Model.
+  ##### Thoughts:
+    Compared to before, the accuracy has increased.
+    Now, although the accuracy isn't enough, it's time to mesh the models together
+ ##### Link to Reference:
+    (http://localhost:8888/notebooks/groceries.ipynb)
