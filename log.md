@@ -240,3 +240,10 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Got the libev.cpp example to compile and even modified it to send messages using timer on my hello queue that were received by Docker recieve that I created.
 
 **Thoughts:** This was a pretty successful day.  I have a C++ application talking to my talker container.  From here, I'd like to explore a little bit more into making my own class that inherits from the amqp-cpp TcpHandler and implements a montior method.
+
+### Day 29: February 11, 2021
+#####
+
+**Today's Progress**: Man, dropped the ball here and it's been a week.  The weekend was busy and then a lot of stuff at work.  I was doing coding stuff, but it was work stuff. 
+
+**Thoughts:** Will dig a little more into the TCPHandler tomorrow and see if I can write some of my own code.
