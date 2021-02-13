@@ -254,3 +254,8 @@ Created a contact form with #django + finished #React challenges on #freeCodeCam
 It was worth doing some extra practice to understand the concepts.
 Let's finish FCC front end libraries projects.
 Build full-stack projects with Django in March.
+
+### R1D58-60
+Practicing more #Reactjs and #Redux on #freeCodeCamp.
+Now on to the projects of this section.
+Also updated portfolio page.
