@@ -26,3 +26,27 @@
     Now, although the accuracy isn't enough, it's time to mesh the models together
  ##### Link to Reference:
     (http://localhost:8888/notebooks/groceries.ipynb)
+
+# Day 4: 12th February, 2020
+  ##### Today's progress: 
+    Brushed up MySQL basics and learnt how to connect jdbc 
+  ##### Thoughts:
+  
+  ##### Link to Reference:
+    ()
+    
+# Day 5: 14th February, 2020
+  ##### Today's progress: 
+    Brushed Up Flask
+  ##### Thoughts:
+  
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/Heimdall---Shopping-Assistant-to-the-Visually-Impaired)
+    
+# Day 6: 15th February, 2021
+  ##### Today's progress: 
+    Began Lokking up about Mobilenet
+  ##### Thoughts:
+  
+  ##### Link to Reference:
+    ()
