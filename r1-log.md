@@ -259,3 +259,7 @@ Build full-stack projects with Django in March.
 Practicing more #Reactjs and #Redux on #freeCodeCamp.
 Now on to the projects of this section.
 Also updated portfolio page.
+
+### R1D61-62
+Completed responsive styling of my portfolio page. 
+Starting #ReactJS projects on #freeCodeCamp.
