@@ -211,4 +211,4 @@ I was in the middle of styling the links on the External Links section of my Wik
 Continued working on my Wikipedia clone for Dane axes, ran into problems with the styling of the nested list down at the external links table due to the issue with the inline-block display adding a white space. Solved it by adding a bit of a negative margin to the left, I didn't want to do it that way, but I can't say that the result looks half bad. I'm currently pondering about the possibility of adding the navigation part at the start of the article like in Wikipedia, but I think I am going to leave it as is for now. Also started Section 10, learning about Flexbox. Made a simple site testing the different properties and showing them visually. Note that if you don't give a height to the container it won't be possible to center elements on the cross axis (vertically).
 
 You can see my Dane Axe Wiki clone here: https://mr2much.github.io/webdev/practice/daneaxewiki/
-And here you can see my Flexbox practice project: https://mr2much.github.io/webdev/bootcamp/flexbox/
+And here you can see my Flexbox practice project: https://mr2much.github.io/webdev/bootcamp/flexbox/index
