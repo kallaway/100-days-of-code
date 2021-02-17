@@ -263,3 +263,7 @@ Also updated portfolio page.
 ### R1D61-62
 Completed responsive styling of my portfolio page. 
 Starting #ReactJS projects on #freeCodeCamp.
+
+### R1D63-64
+Working on the random quote app in #React.
+Structure and functionality completed, I need to make the styling and deployment. I think it'll be on Heroku.
