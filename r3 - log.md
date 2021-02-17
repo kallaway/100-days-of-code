@@ -45,8 +45,24 @@
     
 # Day 6: 15th February, 2021
   ##### Today's progress: 
-    Began Lokking up about Mobilenet
+    Began Looking up about Mobilenet
   ##### Thoughts:
   
+  ##### Link to Reference:
+    ()
+    
+# Day 7: 16th February, 2021
+  ##### Today's progress: 
+    Halfway through the mobilenet paper
+  ##### Thoughts:
+    Gotten better at reading research papers
+  ##### Link to Reference:
+    ()
+    
+# Day 8: 17th February, 2021
+  ##### Today's progress: 
+    Hope to Pull an All-nighter with WebApp Video Conferencing
+  ##### Thoughts:
+    Began learning webrtc.
   ##### Link to Reference:
     ()
