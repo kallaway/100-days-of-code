@@ -267,3 +267,7 @@ Starting #ReactJS projects on #freeCodeCamp.
 ### R1D63-64
 Working on the random quote app in #React.
 Structure and functionality completed, I need to make the styling and deployment. I think it'll be on Heroku.
+
+### R1D65
+Started a new miniproject in #ReactJS - a markdown previewer.
+Project-based learning is the most effective way, cannot stress that enough.
