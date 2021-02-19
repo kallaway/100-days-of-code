@@ -247,3 +247,10 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Man, dropped the ball here and it's been a week.  The weekend was busy and then a lot of stuff at work.  I was doing coding stuff, but it was work stuff. 
 
 **Thoughts:** Will dig a little more into the TCPHandler tomorrow and see if I can write some of my own code.
+
+### Day 30: February 18, 2021
+#####
+
+**Today's Progress**: Some more inaction on my part.  Been battling the neck injury and work has been extremely busy, but got in the grind tonight and started writing and Abstract Factory class that I'll finish up in the next few days.
+
+**Thoughts:** Was good to get back to some C++ coding tonight.
