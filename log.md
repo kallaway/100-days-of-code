@@ -254,3 +254,11 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Some more inaction on my part.  Been battling the neck injury and work has been extremely busy, but got in the grind tonight and started writing and Abstract Factory class that I'll finish up in the next few days.
 
 **Thoughts:** Was good to get back to some C++ coding tonight.
+
+### Day 31: February 19, 2021
+#####
+
+**Today's Progress**: Spent some time getting VS Code + WSL working and overall got a basic understanding.
+
+**Thoughts:** Will continue down this route for a few days as I play with some code and experiment with VS Code.
+
