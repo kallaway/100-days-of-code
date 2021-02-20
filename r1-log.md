@@ -271,3 +271,9 @@ Structure and functionality completed, I need to make the styling and deployment
 ### R1D65
 Started a new miniproject in #ReactJS - a markdown previewer.
 Project-based learning is the most effective way, cannot stress that enough.
+
+### R1D66-67
+Working on a #React Calculator.
+https://github.com/patakib/react-calculator
+
+Happy Coding!
