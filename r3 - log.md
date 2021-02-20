@@ -66,3 +66,19 @@
     Began learning webrtc.
   ##### Link to Reference:
     ()
+
+# Day 9: 18th February, 2021
+  ##### Today's progress: 
+    Had Issues in working with Tomcat
+  ##### Thoughts:
+    Need to figure itout
+  ##### Link to Reference:
+    ()
+    
+# Day 10: 20th February, 2021
+  ##### Today's progress: 
+    Partially solved Reaching Points
+  ##### Thoughts:
+    Dynamic solution is costly for large end points
+  ##### Link to Reference:
+    (https://leetcode.com/problems/reaching-points/submissions/)
