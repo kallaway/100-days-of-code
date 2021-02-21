@@ -82,3 +82,11 @@
     Dynamic solution is costly for large end points
   ##### Link to Reference:
     (https://leetcode.com/problems/reaching-points/submissions/)
+
+# Day 11: 21th February, 2021
+  ##### Today's progress: 
+    Read up on Cross Validation and dealing with null values
+  ##### Thoughts:
+    Revisit Titanic again
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/Titanic/blob/master/Titanic.ipynb)
