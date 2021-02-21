@@ -214,7 +214,7 @@ Template:
 
 I have two databases all under the same username and password, so I was able to use my previous database url and just needed to change the defaultDB to the new database.
 
-**Link(s) to work**: [CJ Jewelry](https://github.com/TRose2014/cj-jewelry/tree/dev)
+**Link(s) to work**: CJ Jewelry](https://github.com/TRose2014/cj-jewelry-backend)
 
 **Other notes**: I have been confused on what should go in a gitignore and what shouldn't, obviously .env files but when it comes to travis.yml and .eslint I wasn't sure. While working on this project I realized that if using travis.yml, obvi it needs to know how to build its VM so it can do it's thing. Additionally if you are having travis run `npm run lint`, it will also need access to your .eslint file. So I think having .eslints outside of the gitignore is fine.
 ### Day 25: Jan 30th, 2021
@@ -223,7 +223,7 @@ I have two databases all under the same username and password, so I was able to 
 
 **Thoughts**: I was having a hard time  whether I wanted to do front end in Vue.js or React.js. My current job uses Vue so I wanted to get more experience with it, especially since Vue uses the store pattern. But I didn't want to put React to the waist side and completely forget about it. Espeically when it comes to React hooks, so in the end I decided to use React. I need to re-familiarize myself with React, but all and all it's good be back in the front-end.   
 
-**Link(s) to work**:[CJ Jewelry](https://github.com/TRose2014/cj-jewelry/tree/dev)
+**Link(s) to work**:[CJ Jewelry](https://github.com/TRose2014/cj-jewelry-backend)
 
 ### Day 26: Jan 31st, 2021
 
@@ -248,7 +248,14 @@ I have two databases all under the same username and password, so I was able to 
 
 **Thoughts**: Now that I have the data I need. It's time to figure out how I want this home page to look. Need to go to the drawing board and discuss. Next would be to implement home page, connect sign up/sign in buttons. Then work on items page (all items and detailed items page)
 
-**Link(s) to work**: [CJ Jewelry](https://github.com/TRose2014/cj-jewelry/tree/dev)
+**Link(s) to work**: [CJ Jewelry](https://github.com/TRose2014/cj-jewelry-ui)
+### Day 28: Feb 21st, 2021
+
+**Today's Progress**: Set up image grid using material.ui
+
+**Thoughts**: I was going to try inline styles, since I always create a seperate css file and wanted to do something new. But after doing just one style, I decided I prefer a seperate css file. Just easier to keep track and doesn't look so cluttered.
+
+**Link(s) to work**: [CJ Jewelry](https://github.com/TRose2014/cj-jewelry-ui)
 ### Day 26: Jan 31st, 2021
 
 **Today's Progress**:
