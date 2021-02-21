@@ -277,3 +277,9 @@ Working on a #React Calculator.
 https://github.com/patakib/react-calculator
 
 Happy Coding!
+
+### R1D68
+Completed the Calculator project in #React:
+https://github.com/patakib/react-calculator
+
+Apart from that, revisited some concepts of data structures and algorithms.
