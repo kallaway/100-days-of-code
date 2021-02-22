@@ -283,3 +283,6 @@ Completed the Calculator project in #React:
 https://github.com/patakib/react-calculator
 
 Apart from that, revisited some concepts of data structures and algorithms.
+
+### R1D69
+Learning data structures & algorithms and practicing on #AlgoExpert.
