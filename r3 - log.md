@@ -83,9 +83,17 @@
   ##### Link to Reference:
     (https://leetcode.com/problems/reaching-points/submissions/)
 
-# Day 11: 21th February, 2021
+# Day 11: 21st February, 2021
   ##### Today's progress: 
     Read up on Cross Validation and dealing with null values
+  ##### Thoughts:
+    Revisit Titanic again
+  ##### Link to Reference:
+    (https://github.com/PriyaShrinithi/Titanic/blob/master/Titanic.ipynb)
+
+# Day 12: 22nd February, 2021
+  ##### Today's progress: 
+    Read up on Random Forest Classifier and Loss Functions
   ##### Thoughts:
     Revisit Titanic again
   ##### Link to Reference:
