@@ -212,3 +212,6 @@ Continued working on my Wikipedia clone for Dane axes, ran into problems with th
 
 You can see my Dane Axe Wiki clone here: https://mr2much.github.io/webdev/practice/daneaxewiki/
 And here you can see my Flexbox practice project: https://mr2much.github.io/webdev/bootcamp/flexbox/index
+
+**R2D20, February 21st, 2021**
+Continued working on Section 10, tonight watched a video talking about Flex-Wrap. Also fixed a bit of how the space is distributed on my sample page to see how display: flex works.
