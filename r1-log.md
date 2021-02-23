@@ -286,3 +286,7 @@ Apart from that, revisited some concepts of data structures and algorithms.
 
 ### R1D69
 Learning data structures & algorithms and practicing on #AlgoExpert.
+
+### R1D70
+Started a drum machine app in #React and completed some coding problems on #Algoexpert.
+Also revised some basic Python concepts.
