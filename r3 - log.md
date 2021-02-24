@@ -98,3 +98,11 @@
     Revisit Titanic again
   ##### Link to Reference:
     (https://github.com/PriyaShrinithi/Titanic/blob/master/Titanic.ipynb)
+
+# Day 13: 24th February, 2021
+  ##### Today's progress: 
+    Finished Reading up on Mobilenet Architecture
+  ##### Thoughts:
+    Need to understand the math behind deep learningmodels to get a clearer picture
+  ##### Link to Reference:
+    ()
