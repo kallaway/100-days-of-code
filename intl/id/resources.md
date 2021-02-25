@@ -1,6 +1,6 @@
 # Sumber Utama di #100DaysOfCode
 
-[The #100DaysOfCode Official Site](http://100daysofcode.com/)
+[Situs Resmi #100DaysOfCode](http://100daysofcode.com/)
 
 ### Artikel
 
@@ -44,6 +44,6 @@
 ## isi
 
 - [Rules](rules.md)
-- [Log - click here to see my progress](log.md)
+- [Log - click disini untuk melihat kemajuan saya](log.md)
 - [FAQ](FAQ.md)
 - [Resources](resources.md)
