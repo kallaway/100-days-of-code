@@ -290,3 +290,8 @@ Learning data structures & algorithms and practicing on #AlgoExpert.
 ### R1D70
 Started a drum machine app in #React and completed some coding problems on #Algoexpert.
 Also revised some basic Python concepts.
+
+### R1D71-72
+Spent time on #AlgoExpert and #Hackerrank, doing problem solving and learning.
+I need to practice coding problems and algorithms on a regular basis to improve.
+Will divide my coding time between this and #freeCodeCamp.
