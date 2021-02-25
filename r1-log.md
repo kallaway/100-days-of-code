@@ -295,3 +295,7 @@ Also revised some basic Python concepts.
 Spent time on #AlgoExpert and #Hackerrank, doing problem solving and learning.
 I need to practice coding problems and algorithms on a regular basis to improve.
 Will divide my coding time between this and #freeCodeCamp.
+
+### R1D73
+Solved 20+ #SQL challenges on Hackerrank. It was important to recap due to my daily job, I write queries from time to time.
+Proceeding with the drum machine #freeCodeCamp project.
