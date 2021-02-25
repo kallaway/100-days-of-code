@@ -217,4 +217,7 @@ And here you can see my Flexbox practice project: https://mr2much.github.io/webd
 Continued working on Section 10, tonight watched a video talking about Flex-Wrap. Also fixed a bit of how the space is distributed on my sample page to see how display: flex works.
 
 **R2D21, February 23rd, 2021**
-Modified the code for my Flex demo page to use classes instead of using a bunch of IDs which is what I had, and reduced the CSS drastically since I didn't have to be repeating the same properties over and over on the different elements, which is what I had before. Also added number on each DIV to indicate their position inside of the container so that it would be easier for me to understand how they are aligning when I set the different Flex properties. After that was done, I then continued watching the rest of Section 10.
+Modified the code for my Flex demo page to use classes instead of using a bunch of IDs which is what I had, and reduced the CSS drastically since I didn't have to be repeating the same properties over and over on the different elements, which is what I had before. Also added number on each DIV to indicate their position inside of the container so that it would be easier for me to understand how they are aligning when I set the different Flex properties. After that was done, I then continued watching the rest of the flex-wrap video on Section 10.
+
+**R2D22, February 24th, 2021**
+Kept experimenting a bit more, adding a bunch of different alignment properties mixed with flex-wrap properties, yet I still have to finish watching Section 10. But I started watching the video about the property align-items.
