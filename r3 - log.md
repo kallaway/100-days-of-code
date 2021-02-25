@@ -106,3 +106,11 @@
     Need to understand the math behind deep learningmodels to get a clearer picture
   ##### Link to Reference:
     ()
+
+# Day 14: 25th February, 2021
+  ##### Today's progress: 
+    Trying to use amobilenet architecture fir freidburg-s-groceries
+  ##### Thoughts:
+    Understand and Rectify the errors
+  ##### Link to Reference:
+    ()
