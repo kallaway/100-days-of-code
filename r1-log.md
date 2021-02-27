@@ -299,3 +299,7 @@ Will divide my coding time between this and #freeCodeCamp.
 ### R1D73
 Solved 20+ #SQL challenges on Hackerrank. It was important to recap due to my daily job, I write queries from time to time.
 Proceeding with the drum machine #freeCodeCamp project.
+
+### R1D74-75
+Practicing #SQL and #Python + data structures.
+Just earned my 4th star on the Sql Badge on HackerRank!
