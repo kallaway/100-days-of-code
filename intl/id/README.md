@@ -1,6 +1,6 @@
-# I've joined the #100DaysOfCode Challenge
+# Saya telah bergabung dengan #100DaysOfCode Challenge
 
-## Contents
+## Isi
 
 - [Aturan](rules.md)
 - [Log - click disini untuk melihat kemajuan saya](log.md)
