@@ -109,8 +109,30 @@
 
 # Day 14: 25th February, 2021
   ##### Today's progress: 
-    Trying to use amobilenet architecture fir freidburg-s-groceries
+    Trying to use a mobilenet architecture fir freidburg-s-groceries
   ##### Thoughts:
     Understand and Rectify the errors
+  ##### Link to Reference:
+    ()
+
+# Day 15: 26th February, 2021
+  ##### Today's progress: 
+    Built a mobilenet model
+  ##### Thoughts:
+    It's important to save the model
+  ##### Link to Reference:
+    ()
+    
+# Day 16: 27th February, 2021
+  ##### Today's progress: 
+    Ran the mobilenet model again
+  ##### Thoughts:
+    Low accuracy, need to improve the accuracy
+  ##### Link to Reference:
+    ()
+    
+# Day 17: 28th February, 2021
+  ##### Today's progress:
+  ##### Thoughts:
   ##### Link to Reference:
     ()
