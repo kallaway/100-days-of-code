@@ -303,3 +303,7 @@ Proceeding with the drum machine #freeCodeCamp project.
 ### R1D74-75
 Practicing #SQL and #Python + data structures.
 Just earned my 4th star on the Sql Badge on HackerRank!
+
+### R1D76
+Practiced tons of Python and SQL.
+Problem solving, data structures and algorithms.
