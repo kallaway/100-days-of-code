@@ -130,9 +130,11 @@
     Low accuracy, need to improve the accuracy
   ##### Link to Reference:
     ()
-    
+
 # Day 17: 28th February, 2021
   ##### Today's progress:
+    Split into 3 and trained the mobilenet model
   ##### Thoughts:
+    Acuuracy is a little better but not as better 
   ##### Link to Reference:
     ()
