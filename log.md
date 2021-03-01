@@ -44,3 +44,25 @@ Learned from https://www.kabanoki.net/1552/
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### DAY2
+Fixed the added feature of my baby project.
+Added style to dynamically generated element ^^
+
+### DAYS 3
+DAY３
+Discovered there are always things I missed even among things I thought basic ... again. 
+freecodecamp
+
+### DAYS 4
+Started a project using freecodecamp! It's a Tribute site. I made items that I learned so far at freecodecamp.
+
+### DAYS 5
+Gee I learned new stuff about CSS today on FreeCodeCamp. 
+
+### DAYS 6 2021/02/28
+Started implementing a new color-picker in the app which tells you the name of a color in an image.  I'm using canvas and getImageData. imgData contains 
+
+### DAYS 7 2021/3/1
+Understanding how to use canvas element to put an image onto it and ultimately get rgb value of a pixel under the cursor
+
