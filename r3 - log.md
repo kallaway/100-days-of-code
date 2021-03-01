@@ -138,3 +138,11 @@
     Acuuracy is a little better but not as better 
   ##### Link to Reference:
     ()
+
+# Day 18: 1st March, 2021
+  ##### Today's progress:
+    Split into 7 and trained the mobilenet model
+  ##### Thoughts:
+    Acuuracy is a little better but still experimenting
+  ##### Link to Reference:
+    (http://localhost:8888/notebooks/groceries%20-%20mobilenet.ipynb)
