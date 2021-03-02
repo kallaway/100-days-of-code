@@ -224,3 +224,6 @@ Kept experimenting a bit more, adding a bunch of different alignment properties 
 
 **R2D23, February 28th, 2021**
 Finished watching the video on the align-items property, where I learned that the align-items: baseline; property aligns the containers based on the baseline of the text inside of it, it works to align the containers and the text inside of them, it's actually pretty interesting. I'll rewatch the video tomorrow since my brain is mushed today and I don't think I'll be able to retain much of the video that I just saw.
+
+**R2D24, March 01, 2021**
+Rewatched the video on the Align-items property and then watched the next one about Align-Content and Align-Self, also managed to implement a few examples on my Let's Play With Flexbox personal project. I still have to implement the different properties for Align-Self.
