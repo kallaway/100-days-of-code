@@ -146,3 +146,12 @@
     Acuuracy is a little better but still experimenting
   ##### Link to Reference:
     (http://localhost:8888/notebooks/groceries%20-%20mobilenet.ipynb)
+    
+# Day 19: 2nd March, 2021
+  ##### Today's progress:
+    Training the model in different ways to increase accuracy. The aim is to get it to >50
+  ##### Thoughts:
+    Acuuracy is a little better but still experimenting
+  ##### Link to Reference:
+    (http://localhost:8888/notebooks/groceries%20-%20mobilenet.ipynb)
+
