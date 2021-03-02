@@ -262,3 +262,9 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 
 **Thoughts:** Will continue down this route for a few days as I play with some code and experiment with VS Code.
 
+### Day 32: March 1, 2021
+#####
+
+**Today's Progress**: Worked on a golang REST API tutorial.
+
+**Thoughts:** Not sure where this came from, but was wanting to learn GO and also REST APIs and they seemed like a good fit.  I didn't invent anything here, but found a nice tutorial I followed [here](https://tutorialedge.net/golang/creating-restful-api-with-golang).  Will continue tomorrow.  Hoping to get back on the routine as the time between days has been growing. 
