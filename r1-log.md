@@ -307,3 +307,7 @@ Just earned my 4th star on the Sql Badge on HackerRank!
 ### R1D76
 Practiced tons of Python and SQL.
 Problem solving, data structures and algorithms.
+
+### R1D77-78
+Data structures & algorithms in #Python.
+You can literally feel how your thinking about coding can be changed and expanded with this knowledge.
