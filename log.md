@@ -66,3 +66,6 @@ Started implementing a new color-picker in the app which tells you the name of a
 ### DAYS 7 2021/3/1
 Understanding how to use canvas element to put an image onto it and ultimately get rgb value of a pixel under the cursor
 
+### DAYS 8 2021/3/2
+Edited to render a image in canvas element and added a parent element (canvas container) to make the image responsive to the browser size. (canvas element by itself cannot be set to 100% width. Must make container 100% wide and set canvas width = container width)
+
