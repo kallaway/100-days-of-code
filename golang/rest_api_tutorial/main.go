@@ -6,6 +6,7 @@ import (
 	"net/http"
 	"encoding/json"
 	"mux"
+	"io/ioutil"
 )
 
 type Article struct {
@@ -37,6 +38,35 @@ func returnSingleArticle(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
+func createNewArticle(w http.ResponseWriter, r *http.Request) {
+	// get the body of our POST request and return the string response 
+	// containing the request body
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	var article Article
+	json.Unmarshal(reqBody, &article)
+	// update our global Articcles array to include our new article
+	Articles = append(Articles, article)
+
+	json.NewEncoder(w).Encode(article)
+}
+
+func deleteArticle(w http.ResponseWriter, r *http.Request) {
+	fmt.Println("Rest API v2.0 - Delete")
+	// once again we will need to parse the path parameters
+	vars := mux.Vars(r)
+	// we will need to extract the 'id' of the article we wish to delete
+	id := vars["id"]
+
+	// we then need to loop through our articles
+	for index, article := range Articles {
+		// if our id path param matches one of our articles
+		if article.Id == id {
+			// updates our Articles array to remove the article
+			Articles = append(Articles[:index], Articles[index+1:]...)
+		}
+	}
+}
+
 func homePage(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Welcome to the HomePage!")
 	fmt.Println("Endpoint Hit: homepage")
@@ -50,6 +80,8 @@ func handleRequests() {
 	// add our articles route and map it to our returnAllArticles function
 	myRouter.HandleFunc("/all", returnAllArticles)
 	myRouter.HandleFunc("/article/{id}", returnSingleArticle)
+	myRouter.HandleFunc("/article/{id}", deleteArticle).Methods("DELETE")
+	myRouter.HandleFunc("/article", createNewArticle).Methods("POST")
 	log.Fatal(http.ListenAndServe(":10000", myRouter))
 }
 

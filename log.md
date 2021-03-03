@@ -268,3 +268,10 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Worked on a golang REST API tutorial.
 
 **Thoughts:** Not sure where this came from, but was wanting to learn GO and also REST APIs and they seemed like a good fit.  I didn't invent anything here, but found a nice tutorial I followed [here](https://tutorialedge.net/golang/creating-restful-api-with-golang).  Will continue tomorrow.  Hoping to get back on the routine as the time between days has been growing. 
+
+### Day 33: March 2, 2021
+#####
+
+**Today's Progress**: Continued with golang REST tutorial
+
+**Thoughts:** Continued with this, but couldn't get the DELETE request to work.  Not sure if it was something in my post.go implementation, but didn't get a chance to look further.  Pretty impressed with Go, but a quick look at [this](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/go-gpp.html) has me a little disappointed in the performance.
