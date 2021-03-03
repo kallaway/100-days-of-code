@@ -69,3 +69,7 @@ Understanding how to use canvas element to put an image onto it and ultimately g
 ### DAYS 8 2021/3/2
 Edited to render a image in canvas element and added a parent element (canvas container) to make the image responsive to the browser size. (canvas element by itself cannot be set to 100% width. Must make container 100% wide and set canvas width = container width)
 
+### DAYS 9
+Worked on canvas. I learned an eventlistner "onload", and I need to set it to obtain the size of the original image that I want to manipulate.
+I also learned window.addEventListner.
+
