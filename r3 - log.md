@@ -155,3 +155,11 @@
   ##### Link to Reference:
     (http://localhost:8888/notebooks/groceries%20-%20mobilenet.ipynb)
 
+# Day 20: 3rd March, 2021
+  ##### Today's progress:
+    Solved number if islands
+  ##### Thoughts:
+    Gotten better at medium problems
+  ##### Link to Reference:
+    (https://leetcode.com/problems/number-of-islands/submissions/)
+
