@@ -311,3 +311,7 @@ Problem solving, data structures and algorithms.
 ### R1D77-78
 Data structures & algorithms in #Python.
 You can literally feel how your thinking about coding can be changed and expanded with this knowledge.
+
+### R1D79
+Data structures & algorithms in #Python.
+Practiced some types of sorting algorithms.
