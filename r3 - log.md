@@ -157,7 +157,8 @@
 
 # Day 20: 3rd March, 2021
   ##### Today's progress:
-    Solved number if islands
+    Solved number of islands
+    Solved String compression (Kinda had a hardtime manipulating the arrays there)
   ##### Thoughts:
     Gotten better at medium problems
   ##### Link to Reference:
