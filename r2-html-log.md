@@ -211,7 +211,7 @@ I was in the middle of styling the links on the External Links section of my Wik
 Continued working on my Wikipedia clone for Dane axes, ran into problems with the styling of the nested list down at the external links table due to the issue with the inline-block display adding a white space. Solved it by adding a bit of a negative margin to the left, I didn't want to do it that way, but I can't say that the result looks half bad. I'm currently pondering about the possibility of adding the navigation part at the start of the article like in Wikipedia, but I think I am going to leave it as is for now. Also started Section 10, learning about Flexbox. Made a simple site testing the different properties and showing them visually. Note that if you don't give a height to the container it won't be possible to center elements on the cross axis (vertically).
 
 You can see my Dane Axe Wiki clone here: https://mr2much.github.io/webdev/practice/daneaxewiki/
-And here you can see my Flexbox practice project: https://mr2much.github.io/webdev/bootcamp/flexbox/index
+And here you can see my Flexbox practice project: https://mr2much.github.io/webdev/bootcamp/flexbox/
 
 **R2D20, February 21st, 2021**
 Continued working on Section 10, tonight watched a video talking about Flex-Wrap. Also fixed a bit of how the space is distributed on my sample page to see how display: flex works.
@@ -227,3 +227,9 @@ Finished watching the video on the align-items property, where I learned that th
 
 **R2D24, March 01, 2021**
 Rewatched the video on the Align-items property and then watched the next one about Align-Content and Align-Self, also managed to implement a few examples on my Let's Play With Flexbox personal project. I still have to implement the different properties for Align-Self.
+
+**R2D25, March 02, 2021**
+I completed Section 10 about Responsive CSS & Flexbox. Today I covered quite a bit of material, learning about Flex-Basis, Flex-Grow and Flex-Shrink, the Flex Shorthand, Media Queries and responsive design. So, before going into Section 11, I have to practice a bit of all the material covered today.
+
+**R2D26, March 03, 2021**
+Did a bit of experimentation with aligh-self, trying to mix it with Flex Direction Row and Column, and see how the elements behaved when doing so, also combining it with flex-wrap and so on. Also practiced with setting up Flex-Basis, Flex-Grow and Flex-Shrink and adding the examples to my Flexbox practice test website. I have yet to implement the examples with the Flex shorthand and the media queries, I think I am going to finish practicing the rest of the section by tomorrow, and then it's on to the Pricing Panel Project. You can check the Flexbox examples here: https://mr2much.github.io/webdev/bootcamp/flexbox/
