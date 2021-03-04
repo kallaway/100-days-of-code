@@ -48,7 +48,7 @@
 ### Day 5: January 9, 2021
 #####
 
-**Today's Progress**: Finally got the CUDA driver API code working with the vector addition kernel. 
+**Today's Progress**: Finally got the CUDA driver API code working with the vector addition kernel.
 
 **Thoughts:** It took a lot of work to get this going, but I finally compiled a .cubin file with kernel code and compiled the host code and ran the executable and got it to run.  Tomorrow I want to look a little more into this and see if I can create a Makefile for compilation.  I'd also like to look into more how to get g++ to work for host code.
 
@@ -129,7 +129,7 @@ The singleton class was pretty self-explanatory and I was largely going off the 
 ### Day 15: January 21, 2021
 #####
 
-**Today's Progress**: So there's a two-day gap here...the regular day job got in the way of the programming fun that I had been having.  Nevertheless, I don't want to give this up despite breaking the "rules." 
+**Today's Progress**: So there's a two-day gap here...the regular day job got in the way of the programming fun that I had been having.  Nevertheless, I don't want to give this up despite breaking the "rules."
 
 **Thoughts:** Spent some time looking into REST APIs and did [this training](https://www.restapitutorial.com). REST APIs are becoming a buzzword and I don't know much about them.  Really looking at what purpose they would serve for me.  That was a little dry, so just spent the rest of the time at FreeCodeCamp going through some more training.  The CSS stuff is getting advanced but not really my thing.  I find myself flying through the examples.  I'm excited to finally learn Javascript.
 
@@ -161,7 +161,7 @@ The singleton class was pretty self-explanatory and I was largely going off the 
 ### Day 19: January 26, 2021
 #####
 
-**Today's Progress**: Didn't get to do anything yesterday unfortunately.  Today spent some time learning about ONNX runtime and other Jetson tools. 
+**Today's Progress**: Didn't get to do anything yesterday unfortunately.  Today spent some time learning about ONNX runtime and other Jetson tools.
 
 **Thoughts:** I think I want to try the following:
 
@@ -209,7 +209,7 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 ### Day 24: January 31, 2021
 #####
 
-**Today's Progress**: Spent time trying to understand the [AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) project to see how I can utilize it in my own code to create a sender/receiver. 
+**Today's Progress**: Spent time trying to understand the [AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) project to see how I can utilize it in my own code to create a sender/receiver.
 
 **Thoughts:** It was a little more elaborate than I thought.  I read through the documentation of the project, and just need to spend some time tomorrow hacking away to create a basic publish/send.  From there I can take some more elaborate steps to abstract everything away.
 
@@ -244,7 +244,7 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 ### Day 29: February 11, 2021
 #####
 
-**Today's Progress**: Man, dropped the ball here and it's been a week.  The weekend was busy and then a lot of stuff at work.  I was doing coding stuff, but it was work stuff. 
+**Today's Progress**: Man, dropped the ball here and it's been a week.  The weekend was busy and then a lot of stuff at work.  I was doing coding stuff, but it was work stuff.
 
 **Thoughts:** Will dig a little more into the TCPHandler tomorrow and see if I can write some of my own code.
 
@@ -267,7 +267,7 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 
 **Today's Progress**: Worked on a golang REST API tutorial.
 
-**Thoughts:** Not sure where this came from, but was wanting to learn GO and also REST APIs and they seemed like a good fit.  I didn't invent anything here, but found a nice tutorial I followed [here](https://tutorialedge.net/golang/creating-restful-api-with-golang).  Will continue tomorrow.  Hoping to get back on the routine as the time between days has been growing. 
+**Thoughts:** Not sure where this came from, but was wanting to learn GO and also REST APIs and they seemed like a good fit.  I didn't invent anything here, but found a nice tutorial I followed [here](https://tutorialedge.net/golang/creating-restful-api-with-golang).  Will continue tomorrow.  Hoping to get back on the routine as the time between days has been growing.
 
 ### Day 33: March 2, 2021
 #####
@@ -275,3 +275,10 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Continued with golang REST tutorial
 
 **Thoughts:** Continued with this, but couldn't get the DELETE request to work.  Not sure if it was something in my post.go implementation, but didn't get a chance to look further.  Pretty impressed with Go, but a quick look at [this](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/go-gpp.html) has me a little disappointed in the performance.
+
+### Day 34: March 3, 2021
+#####
+
+**Today's Progress**: Finished up the golang api tutorial.
+
+**Thoughts:** I got the DELETE request to work.  It wasn't working because I had a similar api call that returned a single article listed before it in the router, so when it resolved that it didn't matter that it was a DELETE method.  Also go the updateArticle functionality working on my own.
