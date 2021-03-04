@@ -315,3 +315,9 @@ You can literally feel how your thinking about coding can be changed and expande
 ### R1D79
 Data structures & algorithms in #Python.
 Practiced some types of sorting algorithms.
+
+### R1D80
+Data structures & algorithms in #Python.
+Insertion sort, selection sort and bubble sort.
+Depth-first search.
+These are so important to understand the context and to explore other, maybe better solutions when coding.
