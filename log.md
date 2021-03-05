@@ -282,3 +282,10 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Finished up the golang api tutorial.
 
 **Thoughts:** I got the DELETE request to work.  It wasn't working because I had a similar api call that returned a single article listed before it in the router, so when it resolved that it didn't matter that it was a DELETE method.  Also go the updateArticle functionality working on my own.
+
+### Day 35: March 4, 2021
+#####
+
+**Today's Progress**: Today I got to focus on some GPU algorithms and look at complexity and inefficiencies.  
+
+**Thoughts:** No new code today, but man I forgot how much I enjoy programming GPUs.  
