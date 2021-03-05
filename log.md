@@ -73,3 +73,10 @@ Edited to render a image in canvas element and added a parent element (canvas co
 Worked on canvas. I learned an eventlistner "onload", and I need to set it to obtain the size of the original image that I want to manipulate.
 I also learned window.addEventListner.
 
+### DAYS 10
+Continued to work on canvas
+
+### DAYS 11 2021/03/05
+Continued to work on canvas
+Now I know canvas.getContext("2d") + ctx.fillStyle + ctx.fillRect = background-color
+And you can size canvas element in HTML, JS (ctx.fillRect) or in CSS for filled color.
