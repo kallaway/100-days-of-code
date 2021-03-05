@@ -233,3 +233,6 @@ I completed Section 10 about Responsive CSS & Flexbox. Today I covered quite a b
 
 **R2D26, March 03, 2021**
 Did a bit of experimentation with aligh-self, trying to mix it with Flex Direction Row and Column, and see how the elements behaved when doing so, also combining it with flex-wrap and so on. Also practiced with setting up Flex-Basis, Flex-Grow and Flex-Shrink and adding the examples to my Flexbox practice test website. I have yet to implement the examples with the Flex shorthand and the media queries, I think I am going to finish practicing the rest of the section by tomorrow, and then it's on to the Pricing Panel Project. You can check the Flexbox examples here: https://mr2much.github.io/webdev/bootcamp/flexbox/
+
+**R2D27, March 4th, 2021**
+Today I practiced with Flex shorthand and Media queries, and did the bits of code alongs to practice media queries and make a responsive Nav Bar, finally completing Section 10 of the course. Also completed the code along project for the Pricing Panel which was a lot of fun, so today I completed Section 11 too, and I'm going to start with Section 12 which covers Bootstrap.
