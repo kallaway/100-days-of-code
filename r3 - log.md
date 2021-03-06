@@ -165,7 +165,7 @@
     (https://leetcode.com/problems/number-of-islands/submissions/)
     (https://leetcode.com/problems/string-compression/submissions/)
 
-# Day 20: 6th March, 2021
+# Day 21: 6th March, 2021
   ##### Today's progress:
     Training the mobilenet model. The fluctuation is a little high
   ##### Thoughts:
