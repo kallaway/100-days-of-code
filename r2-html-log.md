@@ -236,3 +236,6 @@ Did a bit of experimentation with aligh-self, trying to mix it with Flex Directi
 
 **R2D27, March 4th, 2021**
 Today I practiced with Flex shorthand and Media queries, and did the bits of code alongs to practice media queries and make a responsive Nav Bar, finally completing Section 10 of the course. Also completed the code along project for the Pricing Panel which was a lot of fun, so today I completed Section 11 too, and I'm going to start with Section 12 which covers Bootstrap.
+
+**R2D28, March 5th, 2021**
+Today I spent the day practicing. Created a simple web project that was requested from my boss at work. The project simply takes a series of values, and removes tab and newline characters from the input, returning a series of values separated by spaces. The project is nothing fancy, but I did it in JavaScript which I am not really familiarized with. I used a RegEx to do it, and the fun part was styling the app with CSS.
