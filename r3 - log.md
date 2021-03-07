@@ -173,3 +173,11 @@
   ##### Link to Reference:
     (http://localhost:8888/notebooks/groceries%20-%20mobilenet.ipynb)
 
+# Day 22: 7th March, 2021
+  ##### Today's progress:
+    Began Water Jug Problem
+  ##### Thoughts:
+    None
+  ##### Link to Reference:
+    (https://leetcode.com/problems/water-and-jug-problem/)
+
