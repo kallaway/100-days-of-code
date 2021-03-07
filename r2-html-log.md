@@ -239,3 +239,6 @@ Today I practiced with Flex shorthand and Media queries, and did the bits of cod
 
 **R2D28, March 5th, 2021**
 Today I spent the day practicing. Created a simple web project that was requested from my boss at work. The project simply takes a series of values, and removes tab and newline characters from the input, returning a series of values separated by spaces. The project is nothing fancy, but I did it in JavaScript which I am not really familiarized with. I used a RegEx to do it, and the fun part was styling the app with CSS.
+
+**R2D29, March 7th, 2021**
+Today I advance half-way through Section 12, which is about the Bootstrap Framework. Did a few exercises shown during the lectures and a few of my own. At the time the videos were recorded it seems Bootstrap was on its 4.x version, but right now it's on version 5.x, so a few things are different from the ones shown in the video. I was thinking of finishing up the section today but I only watched until the Bootstrap Grid System was introduced and will hopefully finish with that tomorrow.
