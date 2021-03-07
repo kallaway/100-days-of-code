@@ -321,3 +321,6 @@ Data structures & algorithms in #Python.
 Insertion sort, selection sort and bubble sort.
 Depth-first search.
 These are so important to understand the context and to explore other, maybe better solutions when coding.
+
+### R1D81
+Binary search in Python, practice on #AlgoExpert
