@@ -324,3 +324,6 @@ These are so important to understand the context and to explore other, maybe bet
 
 ### R1D81
 Binary search in Python, practice on #AlgoExpert
+
+### R1D82
+Continuing #freeCodeCamp #ReactJS project.
