@@ -181,3 +181,10 @@
   ##### Link to Reference:
     (https://leetcode.com/problems/water-and-jug-problem/)
 
+# Day 23: 9th March, 2021
+  ##### Today's progress:
+    Training Mobilenet modek using smote
+  ##### Thoughts:
+    Need to look up on smote
+  ##### Link to Reference:
+    (http://localhost:8888/notebooks/groceries%20-%20mobilenet.ipynb)
