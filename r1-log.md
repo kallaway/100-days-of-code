@@ -327,3 +327,6 @@ Binary search in Python, practice on #AlgoExpert
 
 ### R1D82
 Continuing #freeCodeCamp #ReactJS project.
+
+### R1D83
+Almost finished Drum Machine project on #freeCodeCamp but struggling with test #6.
