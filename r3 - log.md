@@ -188,3 +188,19 @@
     Need to look up on smote
   ##### Link to Reference:
     (http://localhost:8888/notebooks/groceries%20-%20mobilenet.ipynb)
+    
+# Day 24: 10th March, 2021
+  ##### Today's progress:
+    Training Mobilenet modek using smote
+  ##### Thoughts:
+    Need to look up on smote
+  ##### Link to Reference:
+    (http://localhost:8888/notebooks/groceries%20-%20mobilenet.ipynb)
+
+# Day 25: 11th March, 2021
+  ##### Today's progress:
+    Read up on sliding window and reading up on sets
+  ##### Thoughts:
+    None
+  ##### Link to Reference:
+    ()
