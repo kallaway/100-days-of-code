@@ -333,3 +333,7 @@ Almost finished Drum Machine project on #freeCodeCamp but struggling with test #
 
 ### R1D84
 Working on Drum Machine project on #freeCodeCamp + practicing linked list algorithms.
+
+### R1D85
+Got tired and struggling with drum machine project, but I have completed it. I really needed to dive deep into debugging and it was challenging.
+BUT I have learnt a lot today as well. Thank you #freeCodeCamp ! 
