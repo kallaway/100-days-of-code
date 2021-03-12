@@ -248,3 +248,6 @@ Continued advancing with the videos on Section 12. Continued watching the videos
 
 **R2D31, March 10th, 2021**
 Completed Secion 12 today, noticing that there are a bunch of changes between Bootstrap 4.x and 5.x. Also completed Section 13, taking into account the changes between versions. Now onwards to Section 14 and here I come JavaScript.
+
+**R2D32, March 11th, 2021**
+Completed Section 14 about JavaScript Basics!
