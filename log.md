@@ -94,3 +94,20 @@ And you can size canvas element in HTML, JS (ctx.fillRect) or in CSS for filled 
 ### DAYS 12 2021/03/06
 
 Figured out the way to fit an image within a canvas while preserving the image aspect ratio.
+
+### DAYS 13
+3月8日
+DAYS 13
+Succeeded in making a canvas element responsive. Now I'm going to make a color picker using this.  But hey, why does my PC show a black screen when I try to edit a video?! I don't need so many hurdles. Sigh #100DaysOfCode #WomenWhoCode
+
+### DAYS 14
+3月10日
+Yesterday, I read document on imageData
+Today, I set out to use imageData to make a color picker.
+#100DaysOfCode #WomenWhoCode
+
+### DAYS 15
+3月14日
+During the past few days, I spent time re-learning React (and doing some tax return stuff), but today, I DID some coding myself. 
+Finally I have a feeling that I'm going to understan what "useEffect" means. Yey!
+#100DaysOfCode #WomenWhoCode
