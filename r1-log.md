@@ -337,3 +337,11 @@ Working on Drum Machine project on #freeCodeCamp + practicing linked list algori
 ### R1D85
 Got tired and struggling with drum machine project, but I have completed it. I really needed to dive deep into debugging and it was challenging.
 BUT I have learnt a lot today as well. Thank you #freeCodeCamp ! 
+
+### R1D86-87
+Working on Pomodoro Timer, this is the final version:
+https://mypomodoro-app.netlify.app/
+
+Started D3.js challenges on #freeCodeCamp.
+
+Happy Coding!
