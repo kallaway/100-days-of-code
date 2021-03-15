@@ -204,3 +204,11 @@
     None
   ##### Link to Reference:
     ()
+    
+# Day 26: 15th March, 2021
+  ##### Today's progress:
+    Reading up on RandomSampling
+  ##### Thoughts:
+    Consistensy took a hard downfall
+  ##### Link to Reference:
+    ()
