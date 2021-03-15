@@ -111,3 +111,11 @@ Today, I set out to use imageData to make a color picker.
 During the past few days, I spent time re-learning React (and doing some tax return stuff), but today, I DID some coding myself. 
 Finally I have a feeling that I'm going to understan what "useEffect" means. Yey!
 #100DaysOfCode #WomenWhoCode
+
+### DAY 16
+3月15日
+Relearning React (useEffect, useRef) and wrote some code to see how they work.
+
+Had my first interview today. Encouraged to work on some project(s).
+Going to think about an app idea and work on it this week!!!!
+#100DaysOfCode 
