@@ -1,8 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
- - [Day 1](#day 1)
- - [Day 35](#day 35)
+ - [Day 1](#day-1)
+ - [Day 35](#day-35)
  - [**Last entry**](#latest)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -281,12 +281,12 @@ I don't feel all that happy about the way it looks right now, specially the two 
 **R2D35, March 16th, 2021**
 ## Contents
 - [Forethought](#forethought)
-- [About me](#author)
+- [About me](#about-me)
 ## Forethought
 I really enjoyed preparing the README.md document last time when I was doing the Frontend Mentor challenge. So I have been thinking that since I started doing this 100 Days of Code Challenge I have never used this log properly. I mean, I have been using it to keep track of what I am doing and how I feel about it and so on, yet I try to keep it short because when I post on Twitter I have to keep in mind that there's a character count for my post there, and so, because of that, I have always had this idea in the back of my mind of starting a blog so that I can only post on Twitter that there's a new entry in the log, but then I think that I would have not enough stuff to post in a blog and so I disregard the idea.
 
 But that didn't happen with the README document I mentioned above. So I have decided that from now on this is the way that I'll be making new entries for my 100 days challenge. And that makes me happy.
 
-## Author
+## About me
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
 - Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
