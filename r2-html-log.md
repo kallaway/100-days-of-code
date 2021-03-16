@@ -1,9 +1,9 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
- - [Day 1](#day-1)
- - [Day 35](#day-35)
- - [**Last entry**](#latest)
+  - [Day 1](#day-1)
+  - [Day 35 - Latest entry](#day-35)
+- [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
 **The log of my #100DaysOfCode challenge. Started on [April 19th, Friday, 2019].**
@@ -162,106 +162,140 @@ Got an intro into Function Context in JavaScript, how to add properties and meth
 
 ## 2021
 
+I decided to restart the challenge since I forgot most of what I learned due to lack of practice, well, basically the same reason of why I restarted it the first time in the first place.
+
 ### Day 1
 **R2D1, January 5th, 2021**
 Finished section 5 of the Web Developer Bootcamp for HTML Forms & Tables. Also practiced replicating some tables found on Wikipedia articles.
 
+### Day 2
 **R2D2, January 7th, 2021**
 Completed section 6 of the Web Developer Bootcamp 2021, covering the very basics of CSS. Did a couple exercises and practiced a little bit with styling a simple page.
 
+### Day 3
 **R2D3, January 10th, 2021**
 Went through the Section 7 of the course, refreshing my knowledge about CSS Selectors and practicing a bit with a fun little site. Went through half the lesson.
 
+### Day 4
 **R2D4, January 12th, 2021**
 Finished Section 7. I Learned a few things about CSS selectors, the difference between Pseudo classes and pseudo elements, and a few things about Specificity. I also saw a few options of the Dev Tools on Google Chrome that I didn't know about. Also I learned that there are certain properties on the elements that are not inherited by default which can be changed by setting that property to 'inherit'
 
+### Day 5
 **R2D5, January 16th, 2021**
 Started Section 8, which covers the CSS Box Model. Watched a couple of videos explaining some of the properties of the Box Model, like with, height and Border.
 
+### Day 6
 **R2D6, January 17th, 2021**
 Learned a few things about Borders and box-sizing, made a little practice and then learned about padding.
 
+### Day 7
 **R2D7, January 18th, 2021**
 Today's videos covered: Margin, Display, the difference between Inline, Block, and Inline-Block elements and how Width, Height, Margin and Padding behave for each of these display properties. Also talked about relative units, like percentages, EMs and REMs. I also learned that line-height is related to the font-size of the element. Now going to start Section 9 and see some useful CSS properties. Also started working on creating a clone for an entry on Wikipedia about Dane axes.
 
+### Day 8
 **R2D8, January 19th-20th, 2021**
 Started a practice project to create a Wikipedia clone for a particular entry. Added the content and made the summary part of the page look somewhat similar to the one I chose which is about Dane Axese.
 
+### Day 9
 **R2D9, January 21st, 2021**
 Fixed the thumbnails for the images that appear on the Wikpedia page for Dane axes.
 
+### Day 10
 **R2D10, January 22nd, 2021**
 Experimented about with the positioning of elements. Didn't work on my Wikipedia clone but worked on creating a test page where I could experiment and see how the different values for the Position property affected its elements and their containers. Also learn that the Sticky property doesn't work unless the element's Display property is set to Block, and that one also has to set a value for the Top property for it to work properly.
 
+### Day 11
 **R2D11, January 26th, 2021**
 Worked on my Wikipedia clone practice project, styling the navigation aside bar, I am really happy with how it turned out.
 
+### Day 12
 **R2D12, January 28th, 2021**
 Worked on the Wikipedia clone page. Today I added the "clearfix" trick to improve the responsiveness of the thumbnails and also improved the layout a little. Used Absolute Positioning to make the navigation bar stick to the left and managed to make the Footer go to the bottom of the page using flex-wrap: wrap on the body. I am not really happy for having done it this way, but so far I don't know how to do it with Flexbox or Grid layouts yet. Also styled a bunch of sections and I think that the wikipedia clone is looking really well. I have to test its responsiveness thought.
 
+### Day 13
 **R2D13, January 29th, 2021**
 Kept going with the Web Developer Bootcamp course, saw a video about CSS Transitions and created a simple site to experiment with a couple of properties. Also learned how to animate several individual elements at the same time when you hover above the container, and also that it is not a good idea to "transition: all". Also experimented a bit with transforms, skew(), perspective(), rotate(), translate(), and scale()
 
+### Day 14
 **R2D14, February 4th, 2021**
 I had limited time today, but I managed to spare 9 minutes and kept going through section 9, today I watched lesson 98 and experimented a bit with the Background property. Took me a couple of tries to figure it out from memory without having to watch the video nor searching for resources.
 
+### Day 15
 **R2D15, February 6th, 2021**
 Watched a video about using Google Fonts and as always, made a test page without googling code and trying to practice what I have learned so far. Started watching the video about the Photo Gallery, but I am going to try to make it without watching the video, and then I'm going to finish the lesson.
 
+### Day 16
 **R2D16, February 7th, 2021**
 Managed to create my own Image Blog with nine images and figured out how to add the filter to make them all black and white. Also, I added a slight :hover effect that removed the grayscale filter and also increased the scale of the image a bit also adding a nice shadow below it. What I couldn't figure out on my own was how to make all the images be the same size without losing the aspect ratio, but I managed to make them all the same height and left their width to adjust automatically. But it ended up creating a weird layout for the page. All in all, I was very happy with the result. After I was done I watched the videos for lessons 100 and 101 to see see what I did wrong, and found that I did better than I expected. Only have to check a few tips on MDN about how to make a hyperlink open up in a new tab which I had forgotten, and also Colt didn't explain how to make the images be the same size. I'm guessing that for his example he made sure to use images with similar aspect ratios or something, but I'm not bothered by it, I'll keep trying to find out how to do it without having to check code on Stack Overflow. Now I'm going to start Section 10: Responsive CSS & Flexbox.
 
+### Day 17
 **R2D17, February 9th, 2021**
 Today, instead of advancing the course, I decided to keep practicing on my HTML/CSS skills by working on my Wikipedia clone page for Dane Axes, which is almost done. I am actually working on a section of the page that I intended to leave out, but then decided to add anyways at the last moment. Here you can see how the original looks like: https://en.wikipedia.org/wiki/Dane_axe and here you can see what I've done so far (minus the last bits which I haven't added) https://mr2much.github.io/webdev/practice/daneaxewiki/
 
+### Day 18
 **R2D18, February 11th, 2021**
 I was in the middle of styling the links on the External Links section of my Wikipedia clone page, and there were these weird white spaces between the items that I couldn't remove no matter how many margin: 0; paddin: 0; I kept adding to the elements on CSS, then I learned that it was because they were inline-block elements (I changed them from block to inline-block to make the list items show on the same line), anyways, that little space is the normal behavior for elements with that display type. I checked some of the ways of arriving at the solution for that, like eliminating the new line between an ending </li> tag and the opening <li> tag for the next list element, but having Prettier installed in my VSCode, that's not possible because it auto-formats it everytime I save, then tried using float: left; but it messes up the layout a bit, another way of solving it was by setting the display to Flex, but, since I haven't watched that part of the videos on the Web Dev course, I decided to just add a bit of margin on the left side of the li elements, and a bit more on the right side. I'm pretty happy with the end result, so I'll leave it at that for now. The stylings are coming up nicely and I am quite happy with how it looks right now, yet I haven't finished, maybe for my next post I'll be done, let's see.
 
+### Day 19
 **R2D19, February 15th, 2021**
 Continued working on my Wikipedia clone for Dane axes, ran into problems with the styling of the nested list down at the external links table due to the issue with the inline-block display adding a white space. Solved it by adding a bit of a negative margin to the left, I didn't want to do it that way, but I can't say that the result looks half bad. I'm currently pondering about the possibility of adding the navigation part at the start of the article like in Wikipedia, but I think I am going to leave it as is for now. Also started Section 10, learning about Flexbox. Made a simple site testing the different properties and showing them visually. Note that if you don't give a height to the container it won't be possible to center elements on the cross axis (vertically).
 
-You can see my Dane Axe Wiki clone here: https://mr2much.github.io/webdev/practice/daneaxewiki/
-And here you can see my Flexbox practice project: https://mr2much.github.io/webdev/bootcamp/flexbox/
+You can see my Dane Axe Wiki clone [here](https://mr2much.github.io/webdev/practice/daneaxewiki/)
+And [here](https://mr2much.github.io/webdev/bootcamp/flexbox/) you can see my Flexbox practice project.
 
+### Day 20
 **R2D20, February 21st, 2021**
 Continued working on Section 10, tonight watched a video talking about Flex-Wrap. Also fixed a bit of how the space is distributed on my sample page to see how display: flex works.
 
+### Day 21
 **R2D21, February 23rd, 2021**
 Modified the code for my Flex demo page to use classes instead of using a bunch of IDs which is what I had, and reduced the CSS drastically since I didn't have to be repeating the same properties over and over on the different elements, which is what I had before. Also added number on each DIV to indicate their position inside of the container so that it would be easier for me to understand how they are aligning when I set the different Flex properties. After that was done, I then continued watching the rest of the flex-wrap video on Section 10.
 
+### Day 22
 **R2D22, February 24th, 2021**
 Kept experimenting a bit more, adding a bunch of different alignment properties mixed with flex-wrap properties, yet I still have to finish watching Section 10. But I started watching the video about the property align-items.
 
+### Day 23
 **R2D23, February 28th, 2021**
-Finished watching the video on the align-items property, where I learned that the align-items: baseline; property aligns the containers based on the baseline of the text inside of it, it works to align the containers and the text inside of them, it's actually pretty interesting. I'll rewatch the video tomorrow since my brain is mushed today and I don't think I'll be able to retain much of the video that I just saw.
+Finished watching the video on the align-items property, where I learned that the ``align-items: baseline;`` property aligns the containers based on the baseline of the text inside of it, it works to align the containers and the text inside of them, it's actually pretty interesting. I'll rewatch the video tomorrow since my brain is mushed today and I don't think I'll be able to retain much of the video that I just saw.
 
+### Day 24
 **R2D24, March 01, 2021**
 Rewatched the video on the Align-items property and then watched the next one about Align-Content and Align-Self, also managed to implement a few examples on my Let's Play With Flexbox personal project. I still have to implement the different properties for Align-Self.
 
+### Day 25
 **R2D25, March 02, 2021**
 I completed Section 10 about Responsive CSS & Flexbox. Today I covered quite a bit of material, learning about Flex-Basis, Flex-Grow and Flex-Shrink, the Flex Shorthand, Media Queries and responsive design. So, before going into Section 11, I have to practice a bit of all the material covered today.
 
+### Day 26
 **R2D26, March 03, 2021**
-Did a bit of experimentation with aligh-self, trying to mix it with Flex Direction Row and Column, and see how the elements behaved when doing so, also combining it with flex-wrap and so on. Also practiced with setting up Flex-Basis, Flex-Grow and Flex-Shrink and adding the examples to my Flexbox practice test website. I have yet to implement the examples with the Flex shorthand and the media queries, I think I am going to finish practicing the rest of the section by tomorrow, and then it's on to the Pricing Panel Project. You can check the Flexbox examples here: https://mr2much.github.io/webdev/bootcamp/flexbox/
+Did a bit of experimentation with aligh-self, trying to mix it with Flex Direction Row and Column, and see how the elements behaved when doing so, also combining it with flex-wrap and so on. Also practiced with setting up Flex-Basis, Flex-Grow and Flex-Shrink and adding the examples to my Flexbox practice test website. I have yet to implement the examples with the Flex shorthand and the media queries, I think I am going to finish practicing the rest of the section by tomorrow, and then it's on to the Pricing Panel Project. You can check the Flexbox examples [here](https://mr2much.github.io/webdev/bootcamp/flexbox/)
 
+### Day 27
 **R2D27, March 4th, 2021**
 Today I practiced with Flex shorthand and Media queries, and did the bits of code alongs to practice media queries and make a responsive Nav Bar, finally completing Section 10 of the course. Also completed the code along project for the Pricing Panel which was a lot of fun, so today I completed Section 11 too, and I'm going to start with Section 12 which covers Bootstrap.
 
+### Day 28
 **R2D28, March 5th, 2021**
 Today I spent the day practicing. Created a simple web project that was requested from my boss at work. The project simply takes a series of values, and removes tab and newline characters from the input, returning a series of values separated by spaces. The project is nothing fancy, but I did it in JavaScript which I am not really familiarized with. I used a RegEx to do it, and the fun part was styling the app with CSS.
 
+### Day 29
 **R2D29, March 7th, 2021**
 Today I advance half-way through Section 12, which is about the Bootstrap Framework. Did a few exercises shown during the lectures and a few of my own. At the time the videos were recorded it seems Bootstrap was on its 4.x version, but right now it's on version 5.x, so a few things are different from the ones shown in the video. I was thinking of finishing up the section today but I only watched until the Bootstrap Grid System was introduced and will hopefully finish with that tomorrow.
 
+### Day 30
 **R2D30, March 8th, 2021**
-Continued advancing with the videos on Section 12. Continued watching the videos about Bootstrap Grid and how it works, learned about useful Grid Utilities in Bootstrap and also about Bootstrap Forms and how to layout Form Controls with it and how it work. A bunch of things were changed on Bootstrap 5.x and I had to check the documentation to be able to make them work or found out they worked differently than shown in the video. But I don't mind, the videos were interesting and besides I know that this is common and expected when you are a developer. For example, checkboxes work different in Bootstrap 5.x, and apparently the class 'form-group' does not exist anymore. Since I have been focusing on practicing and testing everything instead of just mindlessly watching one video after the other, I didn't get to finish with Section 12 today, yet I'm sure I'll finish by tomorrow. I'm thinking of revisiting my Wikipedia Clone page but do it using Bootstrap this time, or maybe even using Flexbox, probably do a clone for another page, I don't know. This course has me pretty excited and I can't wait to start working on projects.
+Continued advancing with the videos on Section 12. Continued watching the videos about Bootstrap Grid and how it works, learned about useful Grid Utilities in Bootstrap and also about Bootstrap Forms and how to layout Form Controls with it and how it work. A bunch of things were changed on Bootstrap 5.x and I had to check the documentation to be able to make them work or found out they worked differently than shown in the video. But I don't mind, the videos were interesting and besides I know that this is common and expected when you are a developer. For example, checkboxes work different in Bootstrap 5.x, and apparently the class ``form-group`` does not exist anymore. Since I have been focusing on practicing and testing everything instead of just mindlessly watching one video after the other, I didn't get to finish with Section 12 today, yet I'm sure I'll finish by tomorrow. I'm thinking of revisiting my Wikipedia Clone page but do it using Bootstrap this time, or maybe even using Flexbox, probably do a clone for another page, I don't know. This course has me pretty excited and I can't wait to start working on projects.
 
+### Day 31
 **R2D31, March 10th, 2021**
 Completed Secion 12 today, noticing that there are a bunch of changes between Bootstrap 4.x and 5.x. Also completed Section 13, taking into account the changes between versions. Now onwards to Section 14 and here I come JavaScript.
 
+### Day 32
 **R2D32, March 11th, 2021**
 Completed Section 14 about JavaScript Basics!
 
+### Day 33
 **R2D33, March 13th, 2021**
 Today was practice day, I found a page called Frontend Mentor and took one of the beginner challenges in there about creating an HTML presentation card. For the first time ever, I managed to use the ``background`` property to set various stuff at the same time, like the images at the top and bottom as well as the background color. I had to read some documentation on MDN since I didn't want to google around code snippets on Stack Overflow. Positioning the images took me a few minutes and was not as straight forward as just setting ``left top`` or ``right bottom``.
 
@@ -269,23 +303,35 @@ Positioning the image to look like the one in the example was a lot trickier tha
 
 Yet there was something off about the way I did this. The DIV containing the image was kind of messing up the layout, and thus, it was causing problems with the positioning of the text below it. But then, I remembered that I had some other practice project I did while back when learning about the ``position`` property from a Web Dev course that I am taking. I did this project to help me understand what was going on, so I remembered that if you place an absolute positioned element inside of another element that's positioned relative, then the first element will be "absolutely positioned, relative to its parent", yet when I did this, my already centered image went bonkers, and I had to change the CSS a bit to manage to center the image once again. For this, I once again had to check some code on Stack Overflow. A note about this, if you don't set the ``left: 0; right 0;`` then ``margin: 0 auto;`` won't work.
 
+### Day 34
 **R2D34, March 14th, 2021**
 In the end, I had to make some adjustments to the background positioning, since it was not working on different media sizes. I also set a couple extra media queries for different viewports that were not specified in the design document, basically only aiming the width of the central card container. I also adjusted the CSS a bit to be Mobile first, then adjusted for wider viewports with these media queries.
 
-I finished the project and submitted the solution to the site. Here's the link to my finished solution: https://mr2much.github.io/webdev/practice/profile-card-component-main/
+I finished the project and submitted the solution to the site. [Here](https://mr2much.github.io/webdev/practice/profile-card-component-main/)'s the link to my finished solution.
 
 I don't feel all that happy about the way it looks right now, specially the two circles in the back. So I'll try to fix their positioning later on.
 
 ### Day 35
-### Latest
 **R2D35, March 16th, 2021**
 ## Contents
 - [Forethought](#forethought)
-- [About me](#about-me)
-## Forethought
-I really enjoyed preparing the README.md document last time when I was doing the Frontend Mentor challenge. So I have been thinking that since I started doing this 100 Days of Code Challenge I have never used this log properly. I mean, I have been using it to keep track of what I am doing and how I feel about it and so on, yet I try to keep it short because when I post on Twitter I have to keep in mind that there's a character count for my post there, and so, because of that, I have always had this idea in the back of my mind of starting a blog so that I can only post on Twitter that there's a new entry in the log, but then I think that I would have not enough stuff to post in a blog and so I disregard the idea.
 
-But that didn't happen with the README document I mentioned above. So I have decided that from now on this is the way that I'll be making new entries for my 100 days challenge. And that makes me happy.
+## Forethought
+I really enjoyed preparing the ``README.md`` document last time when I was doing the **Frontend Mentor** challenge. So I have been thinking that since I started doing this **100 Days of Code Challenge** I have never used this log properly. I mean, I have been using it to keep track of what I am doing and how I feel about it and so on, yet I try to keep it short because when I post on **Twitter** I have to keep in mind that there's a character count for my posts there, and so, because of that, I have always had this idea in the back of my mind of starting a blog and writing this wonderful lengthy entries about my ramblings while doing the challenge, so that I would only have to post that there's a new entry on my log, but then I think that I would have not enough stuff to post in a blog and so I disregard the idea.
+
+But that didn't happen with the ``README`` document I mentioned above. So I have decided that from now on this is the way that I'll be making new entries for my 100 days challenge. And that makes me happy.
+
+### What I learned
+
+To start things off, I just learned today about a really straight forward of creating a transparent overlay on top of a background image by checking on [CSS Tricks](https://css-tricks.com/)
+
+The way I've seen this done before is by creating a bunch of other elements and placing them on top of each other, like creating a ``div`` with the background image and then placing the image inside of it, and then creating another inside of that with a ``width`` and ``height`` of 100%, and then changing it's opacity, or using pseudo-selectors with ``:after`` or ``:before`` or other complicated ways of doing it. Yet this solution is really simple and it only uses ``linear-gradient``. Althought someone noted that this would only work on ``CSS3+``. I could show you the code, but I kind of prefer to link directly to the [article](https://css-tricks.com/tinted-images-multiple-backgrounds/) instead
+
+### What I'm doing
+
+I might not have mentioned this before, but I really enjoy playing **Dungeons and Dragons**, in fact, you can say that is the only game I play regularly, sinking lots and lots of hours into it, to the point that I put into it an unhealthy amount of hours. In fact, I play it so much, that I had to start this challenge, and use the **[Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique#:~:text=The%20Pomodoro%20Technique%20is%20a,length%2C%20separated%20by%20short%20breaks.)**, and buy the book [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) by **James Clear**, and install the [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en) chrome extension just to keep me off from playing it too much and having to start this all over once again (*Yes, D&D is mostly to blame for the amount of times that I have had to restart the challenge*).
+
+Okay, after getting that out of my chest, let's get to the point. My preferred way of roleplaying is called **Play by Post** or **PbP** for short, which is an online text-based way of playing it. The main reason of why I like playing this way, is because it makes you feel like you're reading a book, and I play through **Discord**, and so I decided to pay homage to it by creating what would be a simple chatroom window for an idea that popped into my head the other day, about creating a web based server for PbP, but that implemented images, sounds and other stuff. But for now, I am just trying to create what I see inside of my head.
 
 ## About me
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
