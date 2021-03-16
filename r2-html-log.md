@@ -1,6 +1,10 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
+ - [Day 1](#day 1)
+ - [Day 35](#day 35)
+ - [**Last entry**](#latest)
+
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
 **The log of my #100DaysOfCode challenge. Started on [April 19th, Friday, 2019].**
 
@@ -273,6 +277,7 @@ I finished the project and submitted the solution to the site. Here's the link t
 I don't feel all that happy about the way it looks right now, specially the two circles in the back. So I'll try to fix their positioning later on.
 
 ### Day 35
+### Latest
 **R2D35, March 16th, 2021**
 ## Contents
 - [Forethought](#forethought)
