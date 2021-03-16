@@ -1,3 +1,6 @@
+## Log Entries
+
+- [Entries for 2021](#2021)
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
 **The log of my #100DaysOfCode challenge. Started on [April 19th, Friday, 2019].**
 
@@ -153,6 +156,9 @@ Keep going through the basics of JavaScript, today was templatized strings, and 
 **R2D18, September 25th, 2020**
 Got an intro into Function Context in JavaScript, how to add properties and methods to objects, and nested objects. And also learned that JSON meant 'Java Script Object Notation'. I have used JSON files before in Java, but never bothered to learn where the format came from. Watched a couple of videos on how JavaScript handles Control Flow statements, and the different logical comparators it uses. Pretty basic stuff, but I'm trying to advance this with baby steps even thought I know how most of these stuff are handled already.
 
+## 2021
+
+### Day 1
 **R2D1, January 5th, 2021**
 Finished section 5 of the Web Developer Bootcamp for HTML Forms & Tables. Also practiced replicating some tables found on Wikipedia articles.
 
@@ -265,3 +271,17 @@ In the end, I had to make some adjustments to the background positioning, since 
 I finished the project and submitted the solution to the site. Here's the link to my finished solution: https://mr2much.github.io/webdev/practice/profile-card-component-main/
 
 I don't feel all that happy about the way it looks right now, specially the two circles in the back. So I'll try to fix their positioning later on.
+
+### Day 35
+**R2D35, March 16th, 2021**
+## Contents
+- [Forethought](#forethought)
+- [About me](#author)
+## Forethought
+I really enjoyed preparing the README.md document last time when I was doing the Frontend Mentor challenge. So I have been thinking that since I started doing this 100 Days of Code Challenge I have never used this log properly. I mean, I have been using it to keep track of what I am doing and how I feel about it and so on, yet I try to keep it short because when I post on Twitter I have to keep in mind that there's a character count for my post there, and so, because of that, I have always had this idea in the back of my mind of starting a blog so that I can only post on Twitter that there's a new entry in the log, but then I think that I would have not enough stuff to post in a blog and so I disregard the idea.
+
+But that didn't happen with the README document I mentioned above. So I have decided that from now on this is the way that I'll be making new entries for my 100 days challenge. And that makes me happy.
+
+## Author
+- Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
+- Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
