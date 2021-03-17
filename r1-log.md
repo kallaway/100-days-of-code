@@ -345,3 +345,10 @@ https://mypomodoro-app.netlify.app/
 Started D3.js challenges on #freeCodeCamp.
 
 Happy Coding!
+
+### R1D88-90
+Working on a new full stack application for personal budget.
+Backend: #django, frontend: #React.
+Hopefully I can connect D3.js as well, which I am doing on #freeCodeCamp.
+
+Super exciting!
