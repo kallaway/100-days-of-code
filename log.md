@@ -289,3 +289,10 @@ When running the yolov4 model, the Jetson shut off.  Probably need to do a coupl
 **Today's Progress**: Today I got to focus on some GPU algorithms and look at complexity and inefficiencies.  
 
 **Thoughts:** No new code today, but man I forgot how much I enjoy programming GPUs.  
+
+### Day 36: March 16, 2021
+#####
+
+**Today's Progress**: Ran another golang tutorial at the [golang website](https://golang.org/doc/tutorial/create-module).
+
+**Thoughts:** It's been a while since I logged in...work last week was crazy.  Good to get back to it though and did another golang tutorial.  I like the language, just need to use it some more to get comfortable.
