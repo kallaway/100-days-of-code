@@ -119,3 +119,14 @@ Relearning React (useEffect, useRef) and wrote some code to see how they work.
 Had my first interview today. Encouraged to work on some project(s).
 Going to think about an app idea and work on it this week!!!!
 #100DaysOfCode 
+
+### DAY 17
+3月17日
+Started a project. An wakeup app that gives a sound of choise at the sunrise time. But first make a skelton.
+#100DaysOfCode
+
+### DAY 18
+3月18日
+Continued on the project. Made database and apis 90%.
+Using bootstrap (react-bootstrap) for the first time.
+#100DaysOfCode
