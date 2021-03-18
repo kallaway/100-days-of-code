@@ -350,7 +350,7 @@ I thought that not every time I make a new post I'll have time, nor something to
 
 ### What I learned
 
-It seems like ``flex-wrap: wrap;`` and ``overflow-y: auto;`` don't work well together. When I tried, it was causing the container to scroll horizontally for some reason. I thought that it was I had set ``flex-direction: column;``, which would have made the container to have a vertical scroll bar if I used ``overflow-x: auto;`` but that wasn't working either.
+It seems like ``flex-wrap: wrap;`` and ``overflow-y: auto;`` don't work well together. When I tried, it was causing the container to scroll horizontally for some reason. I thought that it was because I had set ``flex-direction: column;``, which I assumed should have made the container to have a vertical scroll bar if I used ``overflow-x: auto;`` but that wasn't working either.
 
 I also got the opportunity to use the ``:not()`` CSS pseudo-selector. I needed to move the token image of every chat message that didn't come from a specific character, but when I tried moving the images 10 pixels to the right it applied to all images, breaking my layout. I checked the article **[The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)** and found it there.
 
