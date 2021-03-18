@@ -2,7 +2,8 @@
 
 - [Entries for 2021](#2021)
   - [Day 1](#day-1)
-  - [Day 35 - Latest entry](#day-35)
+  - [Day 35](#day-35)
+  - [Day 36 - Latest entry](#day-36)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -315,6 +316,7 @@ I don't feel all that happy about the way it looks right now, specially the two 
 **R2D35, March 16th, 2021**
 ## Contents
 - [Forethought](#forethought)
+- [What I learned](#what-i-learned)
 
 ## Forethought
 I really enjoyed preparing the ``README.md`` document last time when I was doing the **Frontend Mentor** challenge. So I have been thinking that since I started doing this **100 Days of Code Challenge** I have never used this log properly. I mean, I have been using it to keep track of what I am doing and how I feel about it and so on, yet I try to keep it short because when I post on **Twitter** I have to keep in mind that there's a character count for my posts there, and so, because of that, I have always had this idea in the back of my mind of starting a blog and writing this wonderful lengthy entries about my ramblings while doing the challenge, so that I would only have to post that there's a new entry on my log, but then I think that I would have not enough stuff to post in a blog and so I disregard the idea.
@@ -332,6 +334,58 @@ The way I've seen this done before is by creating a bunch of other elements and 
 I might not have mentioned this before, but I really enjoy playing **Dungeons and Dragons**, in fact, you can say that is the only game I play regularly, sinking lots and lots of hours into it, to the point that I put into it an unhealthy amount of hours. In fact, I play it so much, that I had to start this challenge, and use the **[Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique#:~:text=The%20Pomodoro%20Technique%20is%20a,length%2C%20separated%20by%20short%20breaks.)**, and buy the book [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) by **James Clear**, and install the [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en) chrome extension just to keep me off from playing it too much and having to start this all over once again (*Yes, D&D is mostly to blame for the amount of times that I have had to restart the challenge*).
 
 Okay, after getting that out of my chest, let's get to the point. My preferred way of roleplaying is called **Play by Post** or **PbP** for short, which is an online text-based way of playing it. The main reason of why I like playing this way, is because it makes you feel like you're reading a book, and I play through **Discord**, and so I decided to pay homage to it by creating what would be a simple chatroom window for an idea that popped into my head the other day, about creating a web based server for PbP, but that implemented images, sounds and other stuff. But for now, I am just trying to create what I see inside of my head.
+
+So far, here's what I got: 
+![](./chatroom_first.png)
+
+### Day 36
+**R2D36, March 17th, 2021**
+## Contents
+- [Forethought](#forethought)
+- [What I learned](#what-i-learned)
+
+### Forethought
+
+I thought that not every time I make a new post I'll have time, nor something to post in this section. So there might be times when I don't even use it.
+
+### What I learned
+
+It seems like ``flex-wrap: wrap;`` and ``overflow-y: auto;`` don't work well together. When I tried, it was causing the container to scroll horizontally for some reason. I thought that it was I had set ``flex-direction: column;``, which would have made the container to have a vertical scroll bar if I used ``overflow-x: auto;`` but that wasn't working either.
+
+I also got the opportunity to use the ``:not()`` CSS pseudo-selector. I needed to move the token image of every chat message that didn't come from a specific character, but when I tried moving the images 10 pixels to the right it applied to all images, breaking my layout. I checked the article **[The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)** and found it there.
+
+```css
+.chatbox:not(#tze-khan) .message .token {
+  right: -10px;
+}
+```
+
+The text and the token image are both inside of a relatively positioned container called ``message``, the token image is positioned absolutely inside of it and everything is inside of another container called ``chatbox``. When I set the ``overflow`` property of the chatbox to ``hidden``, both the text part of the message and the token image's contents are cropped. But I want to keep the token image unafected by this, but I haven't figured out how to do it. I'll have to experiment a bit more with it. I'm guessing that the token image should be outside of the chatbox, but then how do I keep it relatively aligned according to the message's position inside of the chatbox? :thinking:
+
+```html
+    <section id="tze-khan" class="chatbox">
+        <div class="message tze-khan-message">
+          <div class="token">
+            <img src="images/token_tzekhan.png" alt="" />
+          </div>
+          <div class="content">
+            <p class="text">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita
+              rerum quas non. Cumque, quasi, veritatis soluta sed eaque officiis
+              cupiditate hic provident natus delectus exercitationem! Saepe quod
+              mollitia quia eius!
+              <span
+                >Tze'Khan<time datetime="2021-03-17T17:02"
+                  >March 17, 2021 17:02</time
+                ></span
+              >
+            </p>
+          </div>
+        </div>
+      </section>
+```
+
+[Here](https://mr2much.github.io/webdev/practice/ic-chatroom/)'s what I got so far
 
 ## About me
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
