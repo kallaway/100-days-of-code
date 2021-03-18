@@ -388,5 +388,6 @@ The text and the token image are both inside of a relatively positioned containe
 [Here](https://mr2much.github.io/webdev/practice/ic-chatroom/)'s what I got so far
 
 ## About me
+- GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
 - Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
