@@ -12,8 +12,7 @@
 
 ## 参加方法
 
-0.  [公式サイト](http://100daysofcode.com/)で#100DaysOfCodeの活動を見てください。このリスト（www.100DaysOfCode.com/connect）から、好きなプラットフォームを選んで他の参加者と繋がりましょう。
-    また、[こちら](https://www.100daysofcode.com/slack)から100DaysOfCodeのSlackに参加することができます。
+0.  [公式サイト](http://100daysofcode.com/)で#100DaysOfCodeの活動を見てください。このリスト www.100DaysOfCode.com/connect から、好きなプラットフォームを選んで他の参加者と繋がりましょう。また、[こちら](https://www.100daysofcode.com/slack)から100DaysOfCodeのSlackに参加することができます。
 1.  [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)を読んでください。
 1.  このリポジトリをフォークして[学習ログ](log.md)、もしくは[R1学習ログ](r1-log.md) (R1はラウンド1の略)に毎日投稿してください。[例](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **これから100日間、毎日最低1時間プログラミングをしましょう。**
