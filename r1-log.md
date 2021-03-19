@@ -352,3 +352,8 @@ Backend: #django, frontend: #React.
 Hopefully I can connect D3.js as well, which I am doing on #freeCodeCamp.
 
 Super exciting!
+
+### R1D91-92
+Completed all D3.js challenges on #freeCodeCamp. Very interesting library.
+
+Keep progressing with budget app: frontend-backend connected through DRF.
