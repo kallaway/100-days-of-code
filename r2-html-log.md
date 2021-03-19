@@ -3,7 +3,8 @@
 - [Entries for 2021](#2021)
   - [Day 1](#day-1)
   - [Day 35](#day-35)
-  - [Day 36 - Latest entry](#day-36)
+  - [Day 36](#day-36)
+  - [Day 37 - Latest entry](#day-37)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -386,6 +387,20 @@ The text and the token image are both inside of a relatively positioned containe
 ```
 
 [Here](https://mr2much.github.io/webdev/practice/ic-chatroom/)'s what I got so far
+
+### Day 37
+**Round 2 Day 37, March 17th, 2021**
+## Contents
+- [Forethought](#forethought)
+- [What I learned](#what-i-learned)
+
+### Forethought
+
+I thought about something, I am trying to style and structure the chatbox window along with everything else, but when I did the profile card, it was a component, which means, that I was styling it as a separate piece, which could be added to something else, then I realized that I should be doing the same thing with this, it is but a piece of something else that I want to build. And that's what I am going to focus on right now.
+
+### What I learned
+
+I am experimenting with the ``shape-outside`` property to try and make the text and name tag wrap around the image token. I'm having issues with it because I created the image token by using ``position: absolute;`` to put it on one side of the chatbox. Yet I need to use ``float`` to be able to make **shape-outside** work correctly.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
