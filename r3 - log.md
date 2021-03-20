@@ -212,3 +212,19 @@
     Consistensy took a hard downfall
   ##### Link to Reference:
     ()
+
+# Day 27: 18th March, 2021
+  ##### Today's progress:
+    Been training all models. Some are seriously flawed than others
+  ##### Thoughts:
+    Consistensy took a hard downfall
+  ##### Link to Reference:
+    ()
+
+# Day 28: 20th March, 2021
+  ##### Today's progress:
+    Finetuning some models to bring about an unproblematic accuracy
+  ##### Thoughts:
+    Too erratic 
+  ##### Link to Reference:
+    ()
