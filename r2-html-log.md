@@ -3,7 +3,9 @@
 - [Entries for 2021](#2021)
   - [Day 1](#day-1)
   - [Day 35](#day-35)
-  - [Day 36 - Latest entry](#day-36)
+  - [Day 36](#day-36)
+  - [Day 37](#day-37)
+  - [Day 38 - Latest entry](#day-38)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -387,6 +389,117 @@ The text and the token image are both inside of a relatively positioned containe
 
 [Here](https://mr2much.github.io/webdev/practice/ic-chatroom/)'s what I got so far
 
+### Day 37
+**Round 2 Day 37, March 17th, 2021**
+## Contents
+- [Forethought](#forethought)
+- [Reference](#reference)
+- [What I learned](#what-i-learned)
+- [Useful resources](#useful-resources)
+
+### Forethought
+
+I thought about something, I am trying to style and structure the chatbox window along with everything else, but when I did the profile card, it was a component, which means, that I was styling it as a separate piece, which could be added to something else, then I realized that I should be doing the same thing with this, it is but a piece of something else that I want to build. And that's what I am going to focus on right now.
+
+### Reference
+
+I found [this](https://codepen.io/pixelcombo/pen/zWpEvN) CodePen, which inspired me to change the way the chatbox looks.
+
+### What I learned
+
+I am experimenting with the ``shape-outside`` property to try and make the text and name tag wrap around the image token. I'm having issues with it because I created the image token by using ``position: absolute;`` to put it on one side of the chatbox. Yet I need to ``float`` the element to be able to make **shape-outside** work correctly.
+
+### Useful resources
+
+- [CSS-Tricks, shape-outside](https://css-tricks.com/almanac/properties/s/shape-outside/)
+
+### Day 38
+**Round 2 Day 38, March 19th, 2021**
+## Contents
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Useful resources](#useful-resources)
+- [Links](#links)
+
+### What I learned
+
+I managed to figure out how to make the ``shape-outside`` work to position the text around the token image. I was having issues with it because as I said on my previous entry, the ``position`` of the token image is set to ``absolute``. So, to solve this I created an empty div next to the text, gave it the same dimensions as the token image, and then positioned the text around it using ``shape-outside: circle();``, in the end, I changed the dimensions of the circle a bit, and have to tweak the margins and padding a bit to make it look like I wanted. Maybe the end result could be improved but I'm satisfied with the results that I got.
+
+Here's the HTML that I used:
+
+```html
+<div class="message">
+  <div class="filler"></div>
+  <p class="char-name">Tze'Khan</p>
+  <p class="text">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+    natus placeat quos error nemo sapiente pariatur modi voluptates.
+    Quaerat recusandae saepe tempora labore eos reiciendis harum, et quis
+    vel nesciunt! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    At accusantium similique optio eius aperiam! Commodi facilis porro
+    ipsa saepe ratione, voluptas dolores odio inventore. Perspiciatis
+    assumenda fuga eum est? Explicabo? Illo nulla minus, molestiae iusto
+    possimus doloribus autem aut dolor voluptatibus cupiditate beatae
+    omnis. A ab porro eos, quod necessitatibus veniam excepturi ad ipsum,
+    fuga velit impedit possimus, architecto ipsam.
+  </p>
+  <p class="entry">March 18, 2021 21:00</p>
+</div>
+```
+
+And here's the CSS for the filler div:
+
+```css
+.chatbox .message .filler {
+  border-radius: 100%;
+  margin-left: -80px;
+  shape-outside: circle(35%);
+  width: 130px;
+  height: 130px;
+  float: left;
+}
+```
+
+Today I worked without googling code nor examples, which make me feel like a giant for some reason. I like how eye opening it is when you think you "know" how to do something, and then try to actually doing it. Practicing has shown me what my weaknesses are and which things don't work the way I thought they would. This takes me back to the days when I was a complete noob and didn't even know how to declare a variable. Back then I had a coding book that was in English, and my English skills were non-existent, so I had to rely a lot on testing the code and understand what it did based on the result. But that's a story for another day -if ever-.
+
+I added a bit of stylings, effects and a Google Font -Open Sans-, and also a hover effect which made the chatbox move up a bit when you hover over it, which then caused the text to kind of "jitter" or "jump" around when moving up, and then I started googling around for answers on how to prevent this. I found out [this](https://stackoverflow.com/questions/9707202/prevent-jumpy-css-transitions-on-elements-with-hinted-grid-fitted-text) question on Stack Overflow which said that you had to add both ``transform-style: preserve-3d;`` and ``backface-visibility: hidden;`` to prevent this from happening. I found out that when I used both the text was still jumping a tiny tiny bit, barely noticeable, but my inner crazy person couldn't stand it, so I started experimenting with it and found out that just setting the ``transform-style`` to ``preserve-3d`` prevented this from happening altogether and so, I left it as is. Having said this, I still notice a bit of movement on the border above the date for the entry and also a tiny bit on the character name tag. EDIT: I tested it on Google Chrome and it looks even worse than it does on Mozilla, so I'll keep testing this at another time to see if I can end this once and for all.
+
+```css
+.chatbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 60%;
+  color: white;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.65);
+  transform-style: preserve-3d;
+  /* backface-visibility: hidden; */
+  transition: transform 300ms ease-in-out;
+}
+```
+
+Another option to prevent this, is supposedly adding ``transform: translate3d(0, 0, 0);`` or ``transform: translateZ(0);``, which causes the browser to use hardware-accelerated 3D transitions, but I didn't test this one out nor know what it implies. :man_shrugging: Didn't keep digging deeper into it since I didn't need to test this in the end.
+
+### Continued development
+
+I found this interesting [CodePen](https://codepen.io/robinrendle/pen/4275e31f9e95882054d400741b010dc6?editors=110) that shows that you can animate the ``shape-outside`` property, and so, it occurred to me that I could maybe do something similar in the future, when I implement the functionality to post messages to the chatroom using this component.
+
+I would also like adding the browser prefixes just to practice adding them and finding out which ones they are.
+
+Another thing that I'm missing is making the chatbox responsive and also changing the layout a bit when it is a response chatbox, which I think should have the image to the right instead of the left, but maybe I'll just keep them looking the same and just change their alignment on the chatbox.
+
+### Links
+
+- Solution URL: [GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
+- Live Site URL: [Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/index)
+
+### Useful resources
+
+- [Wrapping Text With CSS Box Model](https://www.freecodecamp.org/news/mastering-css-series-shape-outside-44d626270b25/#:~:text=What%20is%20shape%2Doutside,content%20to%20fit%20the%20image.)
+- [backface-visibility property](https://www.w3schools.com/cssref/css3_pr_backface-visibility.asp)
+
 ## About me
+- GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
 - Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
