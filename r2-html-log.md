@@ -316,22 +316,23 @@ I don't feel all that happy about the way it looks right now, specially the two 
 
 ### Day 35
 **R2D35, March 16th, 2021**
-## Contents
-- [Forethought](#forethought)
-- [What I learned](#what-i-learned)
+## Contents 35
+- [Forethought](#forethought-35)
+- [What I learned](#what-i-learned-35)
+- [What I'm doing](#what-i-want-to-do-35)
 
-## Forethought
+### Forethought 35
 I really enjoyed preparing the ``README.md`` document last time when I was doing the **Frontend Mentor** challenge. So I have been thinking that since I started doing this **100 Days of Code Challenge** I have never used this log properly. I mean, I have been using it to keep track of what I am doing and how I feel about it and so on, yet I try to keep it short because when I post on **Twitter** I have to keep in mind that there's a character count for my posts there, and so, because of that, I have always had this idea in the back of my mind of starting a blog and writing this wonderful lengthy entries about my ramblings while doing the challenge, so that I would only have to post that there's a new entry on my log, but then I think that I would have not enough stuff to post in a blog and so I disregard the idea.
 
 But that didn't happen with the ``README`` document I mentioned above. So I have decided that from now on this is the way that I'll be making new entries for my 100 days challenge. And that makes me happy.
 
-### What I learned
+### What I learned 35
 
 To start things off, I just learned today about a really straight forward of creating a transparent overlay on top of a background image by checking on [CSS Tricks](https://css-tricks.com/)
 
 The way I've seen this done before is by creating a bunch of other elements and placing them on top of each other, like creating a ``div`` with the background image and then placing the image inside of it, and then creating another inside of that with a ``width`` and ``height`` of 100%, and then changing it's opacity, or using pseudo-selectors with ``:after`` or ``:before`` or other complicated ways of doing it. Yet this solution is really simple and it only uses ``linear-gradient``. Althought someone noted that this would only work on ``CSS3+``. I could show you the code, but I kind of prefer to link directly to the [article](https://css-tricks.com/tinted-images-multiple-backgrounds/) instead
 
-### What I'm doing
+### What I want to do 35
 
 I might not have mentioned this before, but I really enjoy playing **Dungeons and Dragons**, in fact, you can say that is the only game I play regularly, sinking lots and lots of hours into it, to the point that I put into it an unhealthy amount of hours. In fact, I play it so much, that I had to start this challenge, and use the **[Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique#:~:text=The%20Pomodoro%20Technique%20is%20a,length%2C%20separated%20by%20short%20breaks.)**, and buy the book [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) by **James Clear**, and install the [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en) chrome extension just to keep me off from playing it too much and having to start this all over once again (*Yes, D&D is mostly to blame for the amount of times that I have had to restart the challenge*).
 
@@ -342,15 +343,15 @@ So far, here's what I got:
 
 ### Day 36
 **R2D36, March 17th, 2021**
-## Contents
-- [Forethought](#forethought)
-- [What I learned](#what-i-learned)
+## Contents 36
+- [Forethought](#forethought-36)
+- [What I learned](#what-i-learned-36)
 
-### Forethought
+### Forethought 36
 
 I thought that not every time I make a new post I'll have time, nor something to post in this section. So there might be times when I don't even use it.
 
-### What I learned
+### What I learned 36
 
 It seems like ``flex-wrap: wrap;`` and ``overflow-y: auto;`` don't work well together. When I tried, it was causing the container to scroll horizontally for some reason. I thought that it was because I had set ``flex-direction: column;``, which I assumed should have made the container to have a vertical scroll bar if I used ``overflow-x: auto;`` but that wasn't working either.
 
@@ -391,37 +392,37 @@ The text and the token image are both inside of a relatively positioned containe
 
 ### Day 37
 **Round 2 Day 37, March 17th, 2021**
-## Contents
-- [Forethought](#forethought)
-- [Reference](#reference)
-- [What I learned](#what-i-learned)
-- [Useful resources](#useful-resources)
+## Contents 37
+- [Forethought](#forethought-37)
+- [Reference](#reference-37)
+- [What I learned](#what-i-learned-37)
+- [Useful resources](#useful-resources-37)
 
-### Forethought
+### Forethought 37
 
 I thought about something, I am trying to style and structure the chatbox window along with everything else, but when I did the profile card, it was a component, which means, that I was styling it as a separate piece, which could be added to something else, then I realized that I should be doing the same thing with this, it is but a piece of something else that I want to build. And that's what I am going to focus on right now.
 
-### Reference
+### Reference 37
 
 I found [this](https://codepen.io/pixelcombo/pen/zWpEvN) CodePen, which inspired me to change the way the chatbox looks.
 
-### What I learned
+### What I learned 37
 
 I am experimenting with the ``shape-outside`` property to try and make the text and name tag wrap around the image token. I'm having issues with it because I created the image token by using ``position: absolute;`` to put it on one side of the chatbox. Yet I need to ``float`` the element to be able to make **shape-outside** work correctly.
 
-### Useful resources
+### Useful resources 37
 
 - [CSS-Tricks, shape-outside](https://css-tricks.com/almanac/properties/s/shape-outside/)
 
 ### Day 38
 **Round 2 Day 38, March 19th, 2021**
-## Contents
-- [What I learned](#what-i-learned)
-- [Continued development](#continued-development)
-- [Useful resources](#useful-resources)
-- [Links](#links)
+## Contents 38
+- [What I learned](#what-i-learned-38)
+- [Continued development](#continued-development-38)
+- [Links](#links-38)
+- [Useful resources](#useful-resources-38)
 
-### What I learned
+### What I learned 38
 
 I managed to figure out how to make the ``shape-outside`` work to position the text around the token image. I was having issues with it because as I said on my previous entry, the ``position`` of the token image is set to ``absolute``. So, to solve this I created an empty div next to the text, gave it the same dimensions as the token image, and then positioned the text around it using ``shape-outside: circle();``, in the end, I changed the dimensions of the circle a bit, and have to tweak the margins and padding a bit to make it look like I wanted. Maybe the end result could be improved but I'm satisfied with the results that I got.
 
@@ -481,7 +482,7 @@ I added a bit of stylings, effects and a Google Font -Open Sans-, and also a hov
 
 Another option to prevent this, is supposedly adding ``transform: translate3d(0, 0, 0);`` or ``transform: translateZ(0);``, which causes the browser to use hardware-accelerated 3D transitions, but I didn't test this one out nor know what it implies. :man_shrugging: Didn't keep digging deeper into it since I didn't need to test this in the end.
 
-### Continued development
+### Continued development 38
 
 I found this interesting [CodePen](https://codepen.io/robinrendle/pen/4275e31f9e95882054d400741b010dc6?editors=110) that shows that you can animate the ``shape-outside`` property, and so, it occurred to me that I could maybe do something similar in the future, when I implement the functionality to post messages to the chatroom using this component.
 
@@ -489,12 +490,12 @@ I would also like adding the browser prefixes just to practice adding them and f
 
 Another thing that I'm missing is making the chatbox responsive and also changing the layout a bit when it is a response chatbox, which I think should have the image to the right instead of the left, but maybe I'll just keep them looking the same and just change their alignment on the chatbox.
 
-### Links
+### Links 38
 
 - Solution URL: [GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
 - Live Site URL: [Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/index)
 
-### Useful resources
+### Useful resources 38
 
 - [Wrapping Text With CSS Box Model](https://www.freecodecamp.org/news/mastering-css-series-shape-outside-44d626270b25/#:~:text=What%20is%20shape%2Doutside,content%20to%20fit%20the%20image.)
 - [backface-visibility property](https://www.w3schools.com/cssref/css3_pr_backface-visibility.asp)
