@@ -357,3 +357,9 @@ Super exciting!
 Completed all D3.js challenges on #freeCodeCamp. Very interesting library.
 
 Keep progressing with budget app: frontend-backend connected through DRF.
+
+### R1D93
+Solving challenges on AlgoExpert in #Python.
+Revisited OOP concepts and learnt about testing in Django. Need to properly test the budget app.
+
+Happy Coding!
