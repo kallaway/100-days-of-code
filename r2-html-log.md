@@ -419,6 +419,7 @@ I am experimenting with the ``shape-outside`` property to try and make the text 
 - [What I learned](#what-i-learned)
 - [Continued development](#continued-development)
 - [Useful resources](#useful-resources)
+- [Links](#links)
 
 ### What I learned
 
@@ -461,7 +462,7 @@ And here's the CSS for the filler div:
 
 Today I worked without googling code nor examples, which make me feel like a giant for some reason. I like how eye opening it is when you think you "know" how to do something, and then try to actually doing it. Practicing has shown me what my weaknesses are and which things don't work the way I thought they would. This takes me back to the days when I was a complete noob and didn't even know how to declare a variable. Back then I had a coding book that was in English, and my English skills were non-existent, so I had to rely a lot on testing the code and understand what it did based on the result. But that's a story for another day -if ever-.
 
-I added a bit of stylings, effects and a Google Font -Open Sans-, and also a hover effect which made the chatbox move up a bit when you hover over it, which then caused the text to kind of "jitter" or "jump" around when moving up, and then I started googling around for answers on how to prevent this. I found out [this](https://stackoverflow.com/questions/9707202/prevent-jumpy-css-transitions-on-elements-with-hinted-grid-fitted-text) question on Stack Overflow which said that you had to add both ``transform-style: preserve-3d;`` and ``backface-visibility: hidden;`` to prevent this from happening. I found out that when I used both the text was still jumping a tiny tiny bit, barely noticeable, but my inner crazy person couldn't stand it, so I started experimenting with it and found out that just setting the ``transform-style`` to ``preserve-3d`` prevented this from happening altogether and so, I left it as is. Having said this, I still notice a bit of movement on the border above the date for the entry and also a tiny bit on the character name tag.
+I added a bit of stylings, effects and a Google Font -Open Sans-, and also a hover effect which made the chatbox move up a bit when you hover over it, which then caused the text to kind of "jitter" or "jump" around when moving up, and then I started googling around for answers on how to prevent this. I found out [this](https://stackoverflow.com/questions/9707202/prevent-jumpy-css-transitions-on-elements-with-hinted-grid-fitted-text) question on Stack Overflow which said that you had to add both ``transform-style: preserve-3d;`` and ``backface-visibility: hidden;`` to prevent this from happening. I found out that when I used both the text was still jumping a tiny tiny bit, barely noticeable, but my inner crazy person couldn't stand it, so I started experimenting with it and found out that just setting the ``transform-style`` to ``preserve-3d`` prevented this from happening altogether and so, I left it as is. Having said this, I still notice a bit of movement on the border above the date for the entry and also a tiny bit on the character name tag. EDIT: I tested it on Google Chrome and it looks even worse than it does on Mozilla, so I'll keep testing this at another time to see if I can end this once and for all.
 
 ```css
 .chatbox {
@@ -485,6 +486,11 @@ Another option to prevent this, is supposedly adding ``transform: translate3d(0,
 I found this interesting [CodePen](https://codepen.io/robinrendle/pen/4275e31f9e95882054d400741b010dc6?editors=110) that shows that you can animate the ``shape-outside`` property, and so, it occurred to me that I could maybe do something similar in the future, when I implement the functionality to post messages to the chatroom using this component.
 
 I would also like adding the browser prefixes just to practice adding them and finding out which ones they are.
+
+### Links
+
+- Solution URL: [GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
+- Live Site URL: [Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/)
 
 ### Useful resources
 
