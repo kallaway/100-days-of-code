@@ -490,7 +490,7 @@ I would also like adding the browser prefixes just to practice adding them and f
 ### Links
 
 - Solution URL: [GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
-- Live Site URL: [Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/)
+- Live Site URL: [Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/index)
 
 ### Useful resources
 
