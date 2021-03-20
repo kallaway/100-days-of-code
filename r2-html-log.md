@@ -487,6 +487,8 @@ I found this interesting [CodePen](https://codepen.io/robinrendle/pen/4275e31f9e
 
 I would also like adding the browser prefixes just to practice adding them and finding out which ones they are.
 
+Another thing that I'm missing is making the chatbox responsive and also changing the layout a bit when it is a response chatbox, which I think should have the image to the right instead of the left, but maybe I'll just keep them looking the same and just change their alignment on the chatbox.
+
 ### Links
 
 - Solution URL: [GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
