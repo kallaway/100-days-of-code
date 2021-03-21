@@ -363,3 +363,8 @@ Solving challenges on AlgoExpert in #Python.
 Revisited OOP concepts and learnt about testing in Django. Need to properly test the budget app.
 
 Happy Coding!
+
+### R1D94
+"Only unwritten code should be untested."
+So I have written some unit tests in Django:)
+
