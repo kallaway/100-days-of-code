@@ -368,3 +368,6 @@ Happy Coding!
 "Only unwritten code should be untested."
 So I have written some unit tests in Django:)
 
+### R1D95
+Practicing on #AlgoExpert.
+BST traversal and BST validation.
