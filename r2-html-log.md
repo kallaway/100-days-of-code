@@ -5,7 +5,8 @@
   - [Day 35](#day-35)
   - [Day 36](#day-36)
   - [Day 37](#day-37)
-  - [Day 38 - Latest entry](#day-38)
+  - [Day 38](#day-38)
+  - [Day 39 - Latest entry](#day-39)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -424,7 +425,7 @@ I am experimenting with the ``shape-outside`` property to try and make the text 
 
 ### What I learned 38
 
-I managed to figure out how to make the ``shape-outside`` work to position the text around the token image. I was having issues with it because as I said on my previous entry, the ``position`` of the token image is set to ``absolute``. So, to solve this I created an empty div next to the text, gave it the same dimensions as the token image, and then positioned the text around it using ``shape-outside: circle();``, in the end, I changed the dimensions of the circle a bit, and have to tweak the margins and padding a bit to make it look like I wanted. Maybe the end result could be improved but I'm satisfied with the results that I got.
+I managed to figure out how to make the ``shape-outside`` work to position the text around the token image. I was having issues with it because as I said on my previous entry, the ``position`` of the token image is set to ``absolute``. So, to solve this I created an empty div next to the text, gave it the same dimensions as the token image, and then positioned the text around it using ``shape-outside: circle();``, in the end, I changed the dimensions of the circle a bit, and had to tweak the margins and padding a bit to make it look like I wanted. Maybe the end result could be improved but I'm satisfied with the results that I got.
 
 Here's the HTML that I used:
 
@@ -461,9 +462,9 @@ And here's the CSS for the filler div:
 }
 ```
 
-Today I worked without googling code nor examples, which make me feel like a giant for some reason. I like how eye opening it is when you think you "know" how to do something, and then try to actually doing it. Practicing has shown me what my weaknesses are and which things don't work the way I thought they would. This takes me back to the days when I was a complete noob and didn't even know how to declare a variable. Back then I had a coding book that was in English, and my English skills were non-existent, so I had to rely a lot on testing the code and understand what it did based on the result. But that's a story for another day -if ever-.
+Today I worked without googling code nor examples, which make me feel like a giant for some reason. I like how eye opening it is when you think you "know" how to do something, and then try to actually doing it. Practicing has shown me what my weaknesses are and which things don't work the way I thought they would. This takes me back to the days when I was a complete noob and didn't even know how to declare a variable. Back then I had a coding book that was in English, and my English skills were non-existent, so I had to rely a lot on testing the code to understand what it did based on the results. But that's a story for another day -if ever-.
 
-I added a bit of stylings, effects and a Google Font -Open Sans-, and also a hover effect which made the chatbox move up a bit when you hover over it, which then caused the text to kind of "jitter" or "jump" around when moving up, and then I started googling around for answers on how to prevent this. I found out [this](https://stackoverflow.com/questions/9707202/prevent-jumpy-css-transitions-on-elements-with-hinted-grid-fitted-text) question on Stack Overflow which said that you had to add both ``transform-style: preserve-3d;`` and ``backface-visibility: hidden;`` to prevent this from happening. I found out that when I used both the text was still jumping a tiny tiny bit, barely noticeable, but my inner crazy person couldn't stand it, so I started experimenting with it and found out that just setting the ``transform-style`` to ``preserve-3d`` prevented this from happening altogether and so, I left it as is. Having said this, I still notice a bit of movement on the border above the date for the entry and also a tiny bit on the character name tag. EDIT: I tested it on Google Chrome and it looks even worse than it does on Mozilla, so I'll keep testing this at another time to see if I can end this once and for all.
+I also added a bit of stylings, effects and a Google Font -Open Sans-, and also a hover effect which made the chatbox move up a bit when you hover over it, which then caused the text to kind of "jitter" or "jump" around when moving up, and then I started googling around for answers on how to prevent this. I found out [this](https://stackoverflow.com/questions/9707202/prevent-jumpy-css-transitions-on-elements-with-hinted-grid-fitted-text) question on Stack Overflow which said that you had to add both ``transform-style: preserve-3d;`` and ``backface-visibility: hidden;`` to prevent this from happening. When I tested it using both properties the text was still jumping a tiny tiny bit, barely noticeable, but my inner crazy person couldn't stand it, so I started experimenting with it and found out that just setting the ``transform-style`` to ``preserve-3d`` prevented this from happening altogether and so, I left it as is. Having said this, I still notice a bit of movement on the border above the date for the entry and also a tiny bit on the character name tag. **EDIT:** I tested it on Google Chrome and it looks even worse than it does on Mozilla, so I'll keep testing this at another time to see if I can end this once and for all.
 
 ```css
 .chatbox {
@@ -492,15 +493,63 @@ Another thing that I'm missing is making the chatbox responsive and also changin
 
 ### Links 38
 
-- Solution URL: [GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
-- Live Site URL: [Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/index)
+- Solution URL: ![GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
+- Live Site URL: ![Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/index)
 
 ### Useful resources 38
 
 - [Wrapping Text With CSS Box Model](https://www.freecodecamp.org/news/mastering-css-series-shape-outside-44d626270b25/#:~:text=What%20is%20shape%2Doutside,content%20to%20fit%20the%20image.)
 - [backface-visibility property](https://www.w3schools.com/cssref/css3_pr_backface-visibility.asp)
 
+### Day 39
+**Round 2 Day 39, March 22nd, 2021**
+## Contents 39
+- [What I learned](#what-i-learned-39)
+- [Continued development](#continued-development-39)
+- [Links](#links-39)
+- [Useful resources](#useful-resources-39)
+
+### What I learned 39
+
+Okay, this one is a bit weird. Today I intended to work with the text "jittering" that happened in Google Chrome when I hover over the chatbox, and when I opened the sited on both Mozilla and Chrome at the same time, I noticed this:
+
+![](./img_quality_before.png)
+
+The image quality in Chrome looks weird, kinda blurred, I don't like it. While in Mozilla it looks more clean, and I really do like it more than the one in Chrome. Thought I'm not using any prefixed properties on my CSS, so it must be something that each browser is doing on their own. Tinkering down a bit with it, I noticed that Chrome seemed to be making the image look "smoother" and that was messing up how the image looked, at least in my eyes.
+
+So I started googling around and found that there was a property called ``image-rendering``, which is a property that allows you set an scaling algorithm for an image. Which browser was applying which effects to the image might be too technical, and I didn't dig too deep into it, but I noticed that by making the image ``pixelated`` they both ended up looking pretty similar in both browsers, yet now it was Mozilla's image that ended up looking a bith "smoother" than the one in Chrome, so I added ``image-rendering: -moz-crisp-edges;`` and they ended up looking exactly the same in both browsers. Please note that I tried simply using ``image-rendering: crisp-edges;`` to see if that alone was enough to achieve this result, but it doesn't work as I expected it to, for some reason.
+
+I also set the image's ``object-fit`` property to ``cover``, to force the image to be scaled to match its container's size and to clip any extra space if it couldn't mantain the aspect ratio. I also noticed that the image was not properly centered inside the container, so I added ``margin: 0 auto;`` to ensure it was horizontally centered. Here's the CSS I used:
+
+```css
+.chatbox .token img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+}
+```
+
+![](./img_quality_after.png)
+
+So, after solving my "issue" with the way the token image looked, I started poking at the jittery text on Chrome, I mentioned that there were a few properties that needed to be set, according to the solutions I checked, but that I only needed to apply ``transform-style`` and that it solved the problem in Mozilla. Well, it turns out that in order to fix the issue in Chrome, I had to add the other two, which were setting the ``transform`` property to ``translateZ(0)`` and hidding ``backface-visibility``. Now it looks much better. 
+
+### Continued development 39
+
+Tomorrow I'll work with making the chatbox more responsive, and then creating a layout for mobile devices.
+
+### Links 39
+
+- Solution URL: ![GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
+- Live Site URL: ![Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/index)
+
+### Useful resources 39
+![CSS-Tricks: image-rendering](https://css-tricks.com/almanac/properties/i/image-rendering/)
+![MDN: image-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering)
+
 ## About me
-- GitHub - [Mr2Much](https://github.com/mr2much)
-- Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
-- Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
+- GitHub - ![Mr2Much](https://github.com/mr2much)
+- Website - ![My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
+- Twitter - ![@Cold_Dog](https://twitter.com/Cold_Dog)
