@@ -493,8 +493,8 @@ Another thing that I'm missing is making the chatbox responsive and also changin
 
 ### Links 38
 
-- Solution URL: ![GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
-- Live Site URL: ![Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/index)
+- Solution URL: [GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
+- Live Site URL: [Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/index)
 
 ### Useful resources 38
 
@@ -542,14 +542,14 @@ Tomorrow I'll work with making the chatbox more responsive, and then creating a 
 
 ### Links 39
 
-- Solution URL: ![GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
-- Live Site URL: ![Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/index)
+- Solution URL: [GitHub for Chatbox-Component](https://github.com/mr2much/webdev/tree/master/practice/chatbox-component)
+- Live Site URL: [Chatbox Component](https://mr2much.github.io/webdev/practice/chatbox-component/index)
 
 ### Useful resources 39
-![CSS-Tricks: image-rendering](https://css-tricks.com/almanac/properties/i/image-rendering/)
-![MDN: image-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering)
+[CSS-Tricks: image-rendering](https://css-tricks.com/almanac/properties/i/image-rendering/)
+[MDN: image-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering)
 
 ## About me
-- GitHub - ![Mr2Much](https://github.com/mr2much)
-- Website - ![My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
-- Twitter - ![@Cold_Dog](https://twitter.com/Cold_Dog)
+- GitHub - [Mr2Much](https://github.com/mr2much)
+- Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
+- Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
