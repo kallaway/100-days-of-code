@@ -371,3 +371,6 @@ So I have written some unit tests in Django:)
 ### R1D95
 Practicing on #AlgoExpert.
 BST traversal and BST validation.
+
+### R1D96
+Practicing BST traversal in Python.
