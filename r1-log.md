@@ -374,3 +374,6 @@ BST traversal and BST validation.
 
 ### R1D96
 Practicing BST traversal in Python.
+
+### R1D96
+Practing SQL on Hackerrank and working on my #django - #React web application. I modified the frontend part to fetch another table's data.
