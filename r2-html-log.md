@@ -549,6 +549,40 @@ Tomorrow I'll work with making the chatbox more responsive, and then creating a 
 [CSS-Tricks: image-rendering](https://css-tricks.com/almanac/properties/i/image-rendering/)
 [MDN: image-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering)
 
+### Day 40
+**Round 2 Day 40, March 24th, 2021**
+## Contents 40
+- [What I did today](#what-i-did-today-40)
+
+### What I did today 40
+
+Okay, so I have been messing around with simple projects for too long, now it's time for me to keep going with The Web Developer Bootcamp.
+
+So, first things first is that I learned that a good use of single quotes and double quotes is to mix them together when I want to have a string value that has quotes inside of it. Experimenting with it, I found that if I did:
+
+```js
+let name = 'Anubis "Lockward"';
+```
+
+The actual value shown on the console would be ``"Anubis "Lockward""`` but, if I did:
+
+```js
+let name = "Anubis 'Lockward'";
+```
+
+The value shown will exactly be ``"Anubis 'Lockward'"``
+
+I found this bit kind of interesting for some reason. I also learned that strings are immutable in JavaScript, just like in Java. I wonder what other languages have immutable strings. :thinking:
+
+I advanced halfway through the lesson today.
+
+### Day 41
+**Round 2 Day 41, March 25th, 2021**
+## Contents 41
+- [What I did today](#what-i-did-today-41)
+
+### What I did today 41
+
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
