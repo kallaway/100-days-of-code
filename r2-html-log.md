@@ -549,6 +549,56 @@ Tomorrow I'll work with making the chatbox more responsive, and then creating a 
 [CSS-Tricks: image-rendering](https://css-tricks.com/almanac/properties/i/image-rendering/)
 [MDN: image-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering)
 
+### Day 40
+**Round 2 Day 40, March 24th, 2021**
+## Contents 40
+- [What I did today](#what-i-did-today-40)
+
+### What I did today 40
+
+Okay, so I have been messing around with simple projects for too long, now it's time for me to keep going with The Web Developer Bootcamp.
+
+So, first things first is that I learned that a good use of single quotes and double quotes is to mix them together when I want to have a string value that has quotes inside of it. Experimenting with it, I found that if I did:
+
+```js
+let name = 'Anubis "Lockward"';
+```
+
+The actual value shown on the console would be ``"Anubis "Lockward""`` but, if I did:
+
+```js
+let name = "Anubis 'Lockward'";
+```
+
+The value shown will exactly be ``"Anubis 'Lockward'"``
+
+I found this bit kind of interesting for some reason. I also learned that strings are immutable in JavaScript, just like in Java. I wonder what other languages have immutable strings. :thinking:
+
+I advanced halfway through the lesson today.
+
+### Day 41
+**Round 2 Day 41, March 25th, 2021**
+## Contents 41
+- [What I did today](#what-i-did-today-41)
+
+### What I did today 41
+
+I continued watching the rest of Section 15 of the Web Dev Bootcamp on Udemy. Today I saw something interesting with the string metho ``slice()``, I had seen it used in the past, but I didn't know that you could use negative indexes on the original string, nor that it would work backwards from the end of the string.
+
+I also learned that there was a string method called ``replaceAll()``, I didn't know that ``replace()`` only replaced the first occurrence of a string and thought that it would replace all matches. I guess that it is because everytime I have used the ``replace()`` method I've always done it with regular expressions. Yet, as expected, ``replaceAll()`` is not fully implemented nor supported in all browsers.
+
+Another interesting thing I learned was that there was a method called ``repeat()`` that accepted the number of times you wanted to repeat certain string, creating a new one with the repeated value.
+
+String Template literals are awesome!. In Java I have used ``String.format()`` in the past, and String Template Literals are kind of similar. Althought I think that they also have been implemented in Java's latest version too, but I'm not sure. Anyways, String Template Literals are much more easier to use than ``String.format()`` is in Java, so there's that.
+
+So, after completing Section 15, I started Section 16 and watched a couple of videos from it. Guess I'll be completing this section tomorrow.
+
+I have not have done this in a long time, but I used to use the Pomodoro technique a lot, so, what if I just start keeping track of how many Pomodoros I complete in a day?
+
+**Pomodoro count**
+
+:tomato: :tomato:
+
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
