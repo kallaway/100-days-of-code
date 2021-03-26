@@ -6,7 +6,9 @@
   - [Day 36](#day-36)
   - [Day 37](#day-37)
   - [Day 38](#day-38)
-  - [Day 39 - Latest entry](#day-39)
+  - [Day 39](#day-39)
+  - [Day 40](#day-40)
+  - [Day 41 - Latest entry](#day-41)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
