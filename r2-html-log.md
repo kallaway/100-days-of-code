@@ -583,6 +583,22 @@ I advanced halfway through the lesson today.
 
 ### What I did today 41
 
+I continued watching the rest of Section 15 of the Web Dev Bootcamp on Udemy. Today I saw something interesting with the string metho ``slice()``, I had seen it used in the past, but I didn't know that you could use negative indexes on the original string, nor that it would work backwards from the end of the string.
+
+I also learned that there was a string method called ``replaceAll()``, I didn't know that ``replace()`` only replaced the first occurrence of a string and thought that it would replace all matches. I guess that it is because everytime I have used the ``replace()`` method I've always done it with regular expressions. Yet, as expected, ``replaceAll()`` is not fully implemented nor supported in all browsers.
+
+Another interesting thing I learned was that there was a method called ``repeat()`` that accepted the number of times you wanted to repeat certain string, creating a new one with the repeated value.
+
+String Template literals are awesome!. In Java I have used ``String.format()`` in the past, and String Template Literals are kind of similar. Althought I think that they also have been implemented in Java's latest version too, but I'm not sure. Anyways, String Template Literals are much more easier to use than ``String.format()`` is in Java, so there's that.
+
+So, after completing Section 15, I started Section 16 and watched a couple of videos from it. Guess I'll be completing this section tomorrow.
+
+I have not have done this in a long time, but I used to use the Pomodoro technique a lot, so, what if I just start keeping track of how many Pomodoros I complete in a day?
+
+**Pomodoro count**
+
+:tomato: :tomato:
+
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
