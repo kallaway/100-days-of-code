@@ -601,6 +601,36 @@ I have not have done this in a long time, but I used to use the Pomodoro techniq
 
 :tomato: :tomato:
 
+### Day 42
+**Round 2 Day 42, March 26th, 2021**
+## Contents 42
+- [What I did today](#what-i-did-today-42)
+
+### What I did today 42
+
+Okay, so today I kept going with the course and completed Sections 16 and 17. Learning about how to create JavaScript files, conditional testing with ``if`` and ``switch``, logical operators, did a couple practice exercises and so on.
+
+Creating arrays, accessing, modifying and removing elements, how to compare them.
+
+That we use ``push()`` to add elements to the end of an array.
+
+That we use ``pop()`` to remove and retrieve the last item added.
+
+That with ``shift()`` we can remove and retrieve the first item of an array.
+
+And that ``unshift()`` lets me add an item as the first element of an array, pushing everything else back.
+
+That with ``slice()`` I can get part of an array.
+
+And that with ``splice()`` I can get and remove elements, or insert elements in between other elements of an array.
+
+That ``sort()`` works kind of weird when used on its own with an array and that we really need to define our own functions to make it work as expected.
+
+I learned about comparing array references, why we use ``const`` when defining arrays or ``objects`` and how to work with multi-dimensional arrays.
+
+**Pomodoro count**
+:tomato: :tomato: :tomato: :tomato: :tomato: :tomato:
+
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
