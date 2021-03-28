@@ -9,7 +9,8 @@
   - [Day 39](#day-39)
   - [Day 40](#day-40)
   - [Day 41](#day-41)
-  - [Day 42 - Latest entry](#day-42)
+  - [Day 42](#day-42)
+  - [Day 43 - Latest entry](#day-43)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -631,6 +632,26 @@ I learned about comparing array references, why we use ``const`` when defining a
 
 **Pomodoro count**
 :tomato: :tomato: :tomato: :tomato: :tomato: :tomato:
+
+### Day 43
+**Round 2 Day 43, March 27th, 2021**
+## Contents 43
+- [What I did today](#what-i-did-today-43)
+
+### What I did today 43
+
+Completed section 18, covering JavaScript Objects....finally! How they work, how to create them, accessing properties, and adding properties in them. I love this subject! It's been one that I have been interesting in learning how to do in JavaScript for a while. This is getting exciting. 
+
+There are two ways of accessing object properties, one is with the 'dot' notation, the other is the square brackets notation '[]'. With the square brackets notation I can use variable names inside of the square brackets to access the properties dynamically, like:
+
+```js
+  const person = {firstName: "Anubis", lastName: "Lockward}
+  let value = "firstName";
+  console.log(person[value]);
+```
+
+**Pomodoro count**
+:tomato:
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
