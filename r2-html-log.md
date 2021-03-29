@@ -653,6 +653,60 @@ There are two ways of accessing object properties, one is with the 'dot' notatio
 **Pomodoro count**
 :tomato:
 
+### Day 44
+**Round 2 Day 44, March 28th, 2021**
+## Contents 44
+- [Ramblings](#ramblings-44)
+- [What I did today](#what-i-did-today-44)
+
+### Ramblings 44
+
+For some reason, I have been feeling really excited about advancing the course and the things I'm making, albeit they are quite simple. But this feeling of joy fills me whenever I thought of the future or about advancing as a developer. I'm not even sure of where this road would take me, but ideas for stuff I want to make keep rushing into my head. I have to embrace this feeling of motivation and keep going forward. I hope this thought helps me through on days when I'm feeling down. But truth be told, on the days where I don't code, nor practice, nor feel like I made anything productive, make me feel quite depressed and useless, cannot help but think that I'm wasting my time.
+
+### What I did today 44
+
+Saw the new way of iterate through iterables in JavaScript: ``for..of``, which is new to JS. It works pretty much like a ``for each`` in Java.
+
+```js
+  for(let variable_name of iterable) {
+  }
+```
+
+I also learned about ``for..in``, which is another thing that I had never seen. It is used to "iterate" through all the keys in a key-value pair of properties in an Object, which I can then later use to access the values of those properties, as in:
+
+```js
+  let person = {
+    name: "Anubis",
+    last: "Lockward",
+    age: 10
+  }
+
+  for(let key in person) {
+    console.log(person[key]);
+  }
+```
+
+There are also some special methods that can be used with the class Object, that would allow me to get different properties out of another Object that I define.
+
+For example, Object.keys() will get me an array containing all the keys of the properties of an object.
+
+- Object.values() will get me an array containing all of the values of the properties of an object.
+
+- Object.entries() will get me a nested array of key-value pairs of an object's properties.
+
+I also learned that if you use the ``<script>`` tag to load up a script, it is fired up immediately if you don't use the ``async``, or ``defer`` attributes, which causes the script to be loaded and fired up immediately, executing them before the browser even finishes to load the page content fully, or even display its contents on the window. I also found out that if I set up the ``type`` of the script to ``"text/javascript"``, it also loads the scripts and executes it before the content is shown, even if the ``async`` or ``defer`` attributes are present. Based on what I've seen, if the ``defer`` attribute is present, but the ``async`` is not, the script will be loaded after all of the content has been parsed, but it will be executed before the content is shown.
+
+I practiced removing an element from an array using ``splice``, to do so, you have to use it with the following syntax:
+
+```js
+  myArray.splice(startingIndex, 1) // This removes an element from the specified index.
+
+ // if I don't assign the operation to a variable, the item is deleted and not stored.
+```
+
+**Pomodoro count**
+:tomato: :tomato: :tomato: :tomato:
+
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
