@@ -244,3 +244,11 @@
     None
   ##### Link to Reference:
     ()
+    
+# Day 31: 29th March, 2021
+  ##### Today's progress:
+    Began learning scrapy
+  ##### Thoughts:
+    None
+  ##### Link to Reference:
+    ()
