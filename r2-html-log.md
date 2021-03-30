@@ -10,7 +10,9 @@
   - [Day 40](#day-40)
   - [Day 41](#day-41)
   - [Day 42](#day-42)
-  - [Day 43 - Latest entry](#day-43)
+  - [Day 43](#day-43)
+  - [Day 44](#day-44)
+  - [Day 45 - Latest entry](#day-45)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -665,7 +667,7 @@ For some reason, I have been feeling really excited about advancing the course a
 
 ### What I did today 44
 
-Saw the new way of iterate through iterables in JavaScript: ``for..of``, which is new to JS. It works pretty much like a ``for each`` in Java.
+I completed Section 19 about loops. Saw the new way of iterate through iterables in JavaScript: ``for..of``, which is new to JS. It works pretty much like a ``for each`` in Java.
 
 ```js
   for(let variable_name of iterable) {
@@ -702,6 +704,52 @@ I practiced removing an element from an array using ``splice``, to do so, you ha
   myArray.splice(startingIndex, 1) // This removes an element from the specified index.
 
  // if I don't assign the operation to a variable, the item is deleted and not stored.
+```
+
+**Pomodoro count**
+:tomato: :tomato: :tomato: :tomato:
+
+### Day 45
+**Round 2 Day 45, March 28th, 2021**
+## Contents 45
+- [What I did today](#what-i-did-today-45)
+
+### What I did today 45
+
+Completed Section 20 on Functions and did a bunch of exercises practicing with them.
+
+Almost completed Section 21. Learned about Function Expressions, Higher Order Functions and Returning Functions.
+
+Higher Order Functions are functions that accept other functions as parameters, and also return other functions as results.
+
+Function Expressions are functions that are stored in variables.
+
+```js
+const square = function(number) {
+  return Math.pow(number, 2);
+}
+
+```
+
+Higher Order Functions
+
+To pass a function as a parameter, we pass the function name without the parentheses. If we put the parentheses after the function name, what it will do is execute the function immediately, and the result of executing it is what will be passed as a parameter.
+
+To use functions as return values, I need to capture them in a variable, and then use the parentheses to execute them, with the variable name I used to capture the function.
+
+I can also just use double parentheses, like this:
+
+```js
+  function myFunction() {
+    return innerFunction() {
+      console.log("Oh no!");
+    }
+  }
+
+  myFunction()();  // this will execute innerFunction()
+
+  const captureFunction = myFunction();  // this only saves innerFunction() inside of captureFunction, but doesn't execute it
+  captureFunction(); // I need to do this in order to execute innerFunction()
 ```
 
 **Pomodoro count**
