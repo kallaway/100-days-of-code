@@ -12,7 +12,8 @@
   - [Day 42](#day-42)
   - [Day 43](#day-43)
   - [Day 44](#day-44)
-  - [Day 45 - Latest entry](#day-45)
+  - [Day 45](#day-45)
+  - [Day 46 - Latest entry](#day-46)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -710,7 +711,7 @@ I practiced removing an element from an array using ``splice``, to do so, you ha
 :tomato: :tomato: :tomato: :tomato:
 
 ### Day 45
-**Round 2 Day 45, March 28th, 2021**
+**Round 2 Day 45, March 29th, 2021**
 ## Contents 45
 - [What I did today](#what-i-did-today-45)
 
@@ -754,6 +755,26 @@ I can also just use double parentheses, like this:
 
 **Pomodoro count**
 :tomato: :tomato: :tomato: :tomato:
+
+### Day 46
+**Round 2 Day 46, March 30th, 2021**
+## Contents 46
+- [What I did today](#what-i-did-today-46)
+
+### What I did today 46
+
+Practice, practice and more practice. I practiced JavaScript, functions, CSS, animations, styling, adding custom fonts. Oh my god. I started keeping track of how many Pomodoros I was doing while practicing, then lost track, and without realizing it, I had spent 4 hours and 44 minutes coding.
+
+I did so much stuff today that I don't even feel like listing them.
+
+### Interesting links
+-[Nunito Font on Google Fonts](https://fonts.google.com/specimen/Nunito?preview.text=123456789&preview.text_type=custom)
+-[Bouncy Font on dafont](https://www.dafont.com/es/bouncy-2.font)
+-[Playing a CSS animation on hover](https://codepen.io/valhead/pen/rfump)
+-[Shake CSS snippet for CSS-Tricks](https://codepen.io/sdras/pen/aOgMON)
+-[Floating CSS Animation Code Pen](https://codepen.io/MarioDesigns/pen/woJgeo)
+
+:tomato: :tomato: :tomato:
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
