@@ -760,6 +760,7 @@ I can also just use double parentheses, like this:
 **Round 2 Day 46, March 30th, 2021**
 ## Contents 46
 - [What I did today](#what-i-did-today-46)
+- [Useful resources](#useful-resources-46)
 
 ### What I did today 46
 
@@ -767,7 +768,7 @@ Practice, practice and more practice. I practiced JavaScript, functions, CSS, an
 
 I did so much stuff today that I don't even feel like listing them.
 
-### Interesting links
+### Useful resources 46
 -[Nunito Font on Google Fonts](https://fonts.google.com/specimen/Nunito?preview.text=123456789&preview.text_type=custom)
 -[Bouncy Font on dafont](https://www.dafont.com/es/bouncy-2.font)
 -[Playing a CSS animation on hover](https://codepen.io/valhead/pen/rfump)
@@ -775,6 +776,41 @@ I did so much stuff today that I don't even feel like listing them.
 -[Floating CSS Animation Code Pen](https://codepen.io/MarioDesigns/pen/woJgeo)
 
 :tomato: :tomato: :tomato:
+
+### Day 47
+**Round 2 Day 47, April 1st, 2021**
+## Contents 47
+- [What I did today](#what-i-did-today-47)
+
+### What I did today 47
+
+I continued working on my somewhat tweaked version of the guessing game shown in the Web Developmet course. I created custom buttons for a number input, mostly on my own and only had to check a couple of examples. Yet I think that the result was mostly of my own doing. I experimented with the custom input on a separate file, working on it as a separate component which I am going to bring to the actual code of the "page?", "application?", what do you call a simple looking game made in HTML? Anyways, what I did was create a "container", holding the number input, and then put another container with two buttons below it, and inside of the parent container, like this:
+
+```html
+<div class="container">
+  <input id="maximum" min="2" max="5" type="number" />
+  <div class="buttons">
+    <button id="up" class="up" >+</button>
+    <button id="down" class="down"">-</button>
+  </div>
+</div>
+```
+
+Made the .container's position relative, and then the .buttons container's absolute, with a display of flex and a direction of column, to make the two buttons sit on top of one another. Then as a finishing touch, I used some Font Awesome icons.
+
+### Day 48
+**Round 2 Day 48, April 2nd, 2021**
+## Contents 48
+- [What I did today](#what-i-did-today-48)
+
+### What I did today 48
+
+I practiced, practiced and practiced some more. Styling another section of my page and creating some custom number spinners. I have yet to implement the JavaScript code to make them work. But I'm more focused on styling the Application itself. I learned that the pseudo-selector ``::first-letter`` only works for block level elements. I also styled the H1 with some pretty cool colors and an animation.
+
+### Interesting links 48
+
+-[CSS Neon Glow CodePen](https://codepen.io/mesbahworld/pen/BZXxdq)
+-[Color-Cycling Neon Glow CodePen](https://codepen.io/BoredRobot/pen/BaLRzJB)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
