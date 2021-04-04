@@ -252,3 +252,19 @@
     None
   ##### Link to Reference:
     ()
+    
+# Day 32: 31st March, 2021
+  ##### Today's progress:
+    Trained a mobilenet model
+  ##### Thoughts:
+    None
+  ##### Link to Reference:
+    ()
+    
+# Day 33: 4th April, 2021
+  ##### Today's progress:
+    Learning scrapy and it's working
+  ##### Thoughts:
+    None
+  ##### Link to Reference:
+    ()
