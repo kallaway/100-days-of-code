@@ -268,3 +268,11 @@
     None
   ##### Link to Reference:
     ()
+    
+# Day 34: 6th April, 2021
+  ##### Today's progress:
+    Learning scrapy and it's working
+  ##### Thoughts:
+    None
+  ##### Link to Reference:
+    ()
