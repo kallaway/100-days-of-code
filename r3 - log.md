@@ -276,3 +276,12 @@
     None
   ##### Link to Reference:
     ()
+    
+# Day 35: 8th April, 2021
+  ##### Today's progress:
+    Solved both the permutation problems (leetcode)
+  ##### Thoughts:
+    Intuitive DFS
+  ##### Link to Reference:
+    (https://leetcode.com/problems/permutations/submissions/)
+    (https://leetcode.com/problems/permutations-ii/submissions/)
