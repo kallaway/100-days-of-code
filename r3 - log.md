@@ -285,3 +285,11 @@
   ##### Link to Reference:
     (https://leetcode.com/problems/permutations/submissions/)
     (https://leetcode.com/problems/permutations-ii/submissions/)
+
+# Day 36: 9th April, 2021
+  ##### Today's progress:
+    Solved two sum (leetcode easy)
+  ##### Thoughts:
+    Should stop complicating solutions
+  ##### Link to Reference:
+    (https://leetcode.com/problems/two-sum/submissions/)
