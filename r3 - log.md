@@ -293,3 +293,11 @@
     Should stop complicating solutions
   ##### Link to Reference:
     (https://leetcode.com/problems/two-sum/submissions/)
+
+# Day 37: 10th April, 2021
+  ##### Today's progress:
+    Partially solved Add Two Numbers (Leetcode)
+  ##### Thoughts:
+    Trouble figuring out the end condition
+  ##### Link to Reference:
+    (https://leetcode.com/problems/add-two-numbers/)
