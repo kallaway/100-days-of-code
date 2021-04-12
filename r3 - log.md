@@ -304,7 +304,7 @@
 
 # Day 38: 11th April, 2021
   ##### Today's progress:
-    Solved Snake Matrix and tring Permutations
+    Solved Snake Matrix and String Permutations
   ##### Thoughts:
     Improve Speed
   ##### Link to Reference:
