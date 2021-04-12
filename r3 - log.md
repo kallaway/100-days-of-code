@@ -301,3 +301,11 @@
     Trouble figuring out the end condition
   ##### Link to Reference:
     (https://leetcode.com/problems/add-two-numbers/)
+
+# Day 38: 11th April, 2021
+  ##### Today's progress:
+    Solved Snake Matrix and tring Permutations
+  ##### Thoughts:
+    Improve Speed
+  ##### Link to Reference:
+    ()
