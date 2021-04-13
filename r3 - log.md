@@ -309,3 +309,11 @@
     Improve Speed
   ##### Link to Reference:
     ()
+    
+# Day 39: 13th April, 2021
+  ##### Today's progress:
+    Solved Add Two Numbers 1
+  ##### Thoughts:
+    Improve Speed
+  ##### Link to Reference:
+    (https://leetcode.com/problems/add-two-numbers/submissions/)
