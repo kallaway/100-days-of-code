@@ -320,6 +320,14 @@
 
 # Day 40: 14th April, 2021
   ##### Today's progress:
+    Started learning Sass
+  ##### Thoughts:
+    
+  ##### Link to Reference:
+    ()
+
+# Day 41: 15th April, 2021
+  ##### Today's progress:
     Designed Half a webpage using sass
   ##### Thoughts:
     
