@@ -312,8 +312,16 @@
     
 # Day 39: 13th April, 2021
   ##### Today's progress:
-    Solved Add Two Numbers 1
+    Solved Add Two Numbers
   ##### Thoughts:
     Improve Speed
   ##### Link to Reference:
     (https://leetcode.com/problems/add-two-numbers/submissions/)
+
+# Day 40: 14th April, 2021
+  ##### Today's progress:
+    Designed Half a webpage using sass
+  ##### Thoughts:
+    
+  ##### Link to Reference:
+    ()
