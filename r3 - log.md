@@ -333,3 +333,11 @@
     
   ##### Link to Reference:
     ()
+
+# Day 42: 16th April, 2021
+  ##### Today's progress:
+    Designed a webpage using sass
+  ##### Thoughts:
+    
+  ##### Link to Reference:
+    ()
