@@ -10,7 +10,14 @@
   - [Day 40](#day-40)
   - [Day 41](#day-41)
   - [Day 42](#day-42)
-  - [Day 43 - Latest entry](#day-43)
+  - [Day 43](#day-43)
+  - [Day 44](#day-44)
+  - [Day 45](#day-45)
+  - [Day 46](#day-46)
+  - [Day 47](#day-47)
+  - [Day 48](#day-48)
+  - [Day 49](#day-49)
+  - [Day 50 - Latest entry](#day-50)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -653,7 +660,202 @@ There are two ways of accessing object properties, one is with the 'dot' notatio
 **Pomodoro count**
 :tomato:
 
+### Day 44
+**Round 2 Day 44, March 28th, 2021**
+## Contents 44
+- [Ramblings](#ramblings-44)
+- [What I did today](#what-i-did-today-44)
+
+### Ramblings 44
+
+For some reason, I have been feeling really excited about advancing the course and the things I'm making, albeit they are quite simple. But this feeling of joy fills me whenever I thought of the future or about advancing as a developer. I'm not even sure of where this road would take me, but ideas for stuff I want to make keep rushing into my head. I have to embrace this feeling of motivation and keep going forward. I hope this thought helps me through on days when I'm feeling down. But truth be told, on the days where I don't code, nor practice, nor feel like I made anything productive, make me feel quite depressed and useless, cannot help but think that I'm wasting my time.
+
+### What I did today 44
+
+I completed Section 19 about loops. Saw the new way of iterate through iterables in JavaScript: ``for..of``, which is new to JS. It works pretty much like a ``for each`` in Java.
+
+```js
+  for(let variable_name of iterable) {
+  }
+```
+
+I also learned about ``for..in``, which is another thing that I had never seen. It is used to "iterate" through all the keys in a key-value pair of properties in an Object, which I can then later use to access the values of those properties, as in:
+
+```js
+  let person = {
+    name: "Anubis",
+    last: "Lockward",
+    age: 10
+  }
+
+  for(let key in person) {
+    console.log(person[key]);
+  }
+```
+
+There are also some special methods that can be used with the class Object, that would allow me to get different properties out of another Object that I define.
+
+For example, Object.keys() will get me an array containing all the keys of the properties of an object.
+
+- Object.values() will get me an array containing all of the values of the properties of an object.
+
+- Object.entries() will get me a nested array of key-value pairs of an object's properties.
+
+I also learned that if you use the ``<script>`` tag to load up a script, it is fired up immediately if you don't use the ``async``, or ``defer`` attributes, which causes the script to be loaded and fired up immediately, executing them before the browser even finishes to load the page content fully, or even display its contents on the window. I also found out that if I set up the ``type`` of the script to ``"text/javascript"``, it also loads the scripts and executes it before the content is shown, even if the ``async`` or ``defer`` attributes are present. Based on what I've seen, if the ``defer`` attribute is present, but the ``async`` is not, the script will be loaded after all of the content has been parsed, but it will be executed before the content is shown.
+
+I practiced removing an element from an array using ``splice``, to do so, you have to use it with the following syntax:
+
+```js
+  myArray.splice(startingIndex, 1) // This removes an element from the specified index.
+
+ // if I don't assign the operation to a variable, the item is deleted and not stored.
+```
+
+**Pomodoro count**
+:tomato: :tomato: :tomato: :tomato:
+
+### Day 45
+**Round 2 Day 45, March 29th, 2021**
+## Contents 45
+- [What I did today](#what-i-did-today-45)
+
+### What I did today 45
+
+Completed Section 20 on Functions and did a bunch of exercises practicing with them.
+
+Almost completed Section 21. Learned about Function Expressions, Higher Order Functions and Returning Functions.
+
+Higher Order Functions are functions that accept other functions as parameters, and also return other functions as results.
+
+Function Expressions are functions that are stored in variables.
+
+```js
+const square = function(number) {
+  return Math.pow(number, 2);
+}
+
+```
+
+Higher Order Functions
+
+To pass a function as a parameter, we pass the function name without the parentheses. If we put the parentheses after the function name, what it will do is execute the function immediately, and the result of executing it is what will be passed as a parameter.
+
+To use functions as return values, I need to capture them in a variable, and then use the parentheses to execute them, with the variable name I used to capture the function.
+
+I can also just use double parentheses, like this:
+
+```js
+  function myFunction() {
+    return innerFunction() {
+      console.log("Oh no!");
+    }
+  }
+
+  myFunction()();  // this will execute innerFunction()
+
+  const captureFunction = myFunction();  // this only saves innerFunction() inside of captureFunction, but doesn't execute it
+  captureFunction(); // I need to do this in order to execute innerFunction()
+```
+
+**Pomodoro count**
+:tomato: :tomato: :tomato: :tomato:
+
+### Day 46
+**Round 2 Day 46, March 30th, 2021**
+## Contents 46
+- [What I did today](#what-i-did-today-46)
+- [Useful resources](#useful-resources-46)
+
+### What I did today 46
+
+Practice, practice and more practice. I practiced JavaScript, functions, CSS, animations, styling, adding custom fonts. Oh my god. I started keeping track of how many Pomodoros I was doing while practicing, then lost track, and without realizing it, I had spent 4 hours and 44 minutes coding.
+
+I did so much stuff today that I don't even feel like listing them.
+
+### Useful resources 46
+-[Nunito Font on Google Fonts](https://fonts.google.com/specimen/Nunito?preview.text=123456789&preview.text_type=custom)
+-[Bouncy Font on dafont](https://www.dafont.com/es/bouncy-2.font)
+-[Playing a CSS animation on hover](https://codepen.io/valhead/pen/rfump)
+-[Shake CSS snippet for CSS-Tricks](https://codepen.io/sdras/pen/aOgMON)
+-[Floating CSS Animation Code Pen](https://codepen.io/MarioDesigns/pen/woJgeo)
+
+:tomato: :tomato: :tomato:
+
+### Day 47
+**Round 2 Day 47, April 1st, 2021**
+## Contents 47
+- [What I did today](#what-i-did-today-47)
+- [Interesting links](#interesting-links-47)
+
+### What I did today 47
+
+I continued working on my somewhat tweaked version of the guessing game shown in the Web Developmet course. I created custom buttons for a number input, mostly on my own and only had to check a couple of examples. Yet I think that the result was mostly of my own doing. I experimented with the custom input on a separate file, working on it as a separate component which I am going to bring to the actual code of the "page?", "application?", what do you call a simple looking game made in HTML? Anyways, what I did was create a "container", holding the number input, and then put another container with two buttons below it, and inside of the parent container, like this:
+
+```html
+<div class="container">
+  <input id="maximum" min="2" max="5" type="number" />
+  <div class="buttons">
+    <button id="up" class="up" >+</button>
+    <button id="down" class="down"">-</button>
+  </div>
+</div>
+```
+
+Made the .container's position relative, and then the .buttons container's absolute, with a display of flex and a direction of column, to make the two buttons sit on top of one another. Then as a finishing touch, I used some Font Awesome icons.
+
+### Interesting links 47
+
+-[Example CodePen I found for customizing Number Inputs](https://codepen.io/anon/embed/EWQPrK?height=265&theme-id=light&slug-hash=EWQPrK&default-tab=html&animations=run&editable=&embed-version=2&preview=true&user=anon)
+
+### Day 48
+**Round 2 Day 48, April 2nd, 2021**
+## Contents 48
+- [What I did today](#what-i-did-today-48)
+- [Interesting links](#interesting-links-48)
+
+### What I did today 48
+
+I practiced, practiced and practiced some more. Styling another section of my page and creating some custom number spinners. I have yet to implement the JavaScript code to make them work. But I'm more focused on styling the Application itself. I learned that the pseudo-selector ``::first-letter`` only works for block level elements. I also styled the H1 with some pretty cool colors and an animation.
+
+### Interesting links 48
+
+-[CSS Neon Glow CodePen](https://codepen.io/mesbahworld/pen/BZXxdq)
+-[Color-Cycling Neon Glow CodePen](https://codepen.io/BoredRobot/pen/BaLRzJB)
+
+### Day 49
+**Round 2 Day 49, April 16th, 2021**
+## Contents 49
+- [What I did today](#what-i-did-today-49)
+- [Interesting links](#interesting-links-49)
+
+Practice, practice and more practice. Changed the styling of the text in general, modified the text for the instructions, and changed the color scheme of a few stuff.
+
+### Interesting links 49
+-[CSS Continuous Rotate Animation CodePen](https://codepen.io/vitoralberto/pen/OPYyYB)
+-[Logo Text Effects CodePen](https://codepen.io/alexgreen932/pen/odWbbj)
+-[Color Palette Inspiration](https://www.behance.net/gallery/112090217/Cauldron?tracking_source=curated_galleries_list)
+-[Spanless, Colored List Item Numbers and Bullets CodePen](https://codepen.io/dylanbaumann/pen/BjNxgo)
+
+### Day 50
+**Round 2 Day 50, April 17th, 2021**
+## Contents 50
+- [What I did today](#what-i-did-today-50)
+- [Interesting links](#interesting-links-50)
+
+## Contents 50
+
+Today I turned the list items with the instructions text, a collapsible list. I tried following the examples I saw that were made with CSS only. I can't say I'm really a fan of scaling the elements up and down and the option of using ``max-height`` looks more appealing. But I don't really feel right setting it to an absolute size. Will keep experimenting with it a bit more until I find a solution that looks better. The one that uses jQuery looks awesome, so I might just end up using that.
+
+### Interesting links 50
+-[Pure CSS Expand Collapse List CodePen](https://codepen.io/gregsaxton/pen/eoWGxL)
+-[Accordion List CodePen](https://codepen.io/nicolecay/details/dwbWRo)
+-[CSS Only Accordian/Collapsible List CodePen](https://codepen.io/huange/pen/pJqEMj)
+-[Collapsible List CodePen](https://codepen.io/drourke/pen/lukbt)
+
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
 - Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
+
+116 atms reportados
+79 dispensador
