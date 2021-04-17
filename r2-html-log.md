@@ -16,7 +16,8 @@
   - [Day 46](#day-46)
   - [Day 47](#day-47)
   - [Day 48](#day-48)
-  - [Day 49 - Latest entry](#day-49)
+  - [Day 49](#day-49)
+  - [Day 50 - Latest entry](#day-50)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -833,8 +834,28 @@ Practice, practice and more practice. Changed the styling of the text in general
 -[CSS Continuous Rotate Animation CodePen](https://codepen.io/vitoralberto/pen/OPYyYB)
 -[Logo Text Effects CodePen](https://codepen.io/alexgreen932/pen/odWbbj)
 -[Color Palette Inspiration](https://www.behance.net/gallery/112090217/Cauldron?tracking_source=curated_galleries_list)
+-[Spanless, Colored List Item Numbers and Bullets CodePen](https://codepen.io/dylanbaumann/pen/BjNxgo)
+
+### Day 50
+**Round 2 Day 50, April 17th, 2021**
+## Contents 50
+- [What I did today](#what-i-did-today-50)
+- [Interesting links](#interesting-links-50)
+
+## Contents 50
+
+Today I turned the list items with the instructions text, a collapsible list. I tried following the examples I saw that were made with CSS only. I can't say I'm really a fan of scaling the elements up and down and the option of using ``max-height`` looks more appealing. But I don't really feel right setting it to an absolute size. Will keep experimenting with it a bit more until I find a solution that looks better. The one that uses jQuery looks awesome, so I might just end up using that.
+
+### Interesting links 50
+-[Pure CSS Expand Collapse List CodePen](https://codepen.io/gregsaxton/pen/eoWGxL)
+-[Accordion List CodePen](https://codepen.io/nicolecay/details/dwbWRo)
+-[CSS Only Accordian/Collapsible List CodePen](https://codepen.io/huange/pen/pJqEMj)
+-[Collapsible List CodePen](https://codepen.io/drourke/pen/lukbt)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
 - Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
+
+116 atms reportados
+79 dispensador
