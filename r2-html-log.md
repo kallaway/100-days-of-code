@@ -13,7 +13,10 @@
   - [Day 43](#day-43)
   - [Day 44](#day-44)
   - [Day 45](#day-45)
-  - [Day 46 - Latest entry](#day-46)
+  - [Day 46](#day-46)
+  - [Day 47](#day-47)
+  - [Day 48](#day-48)
+  - [Day 49 - Latest entry](#day-49)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -781,6 +784,7 @@ I did so much stuff today that I don't even feel like listing them.
 **Round 2 Day 47, April 1st, 2021**
 ## Contents 47
 - [What I did today](#what-i-did-today-47)
+- [Interesting links](#interesting-links-47)
 
 ### What I did today 47
 
@@ -798,10 +802,15 @@ I continued working on my somewhat tweaked version of the guessing game shown in
 
 Made the .container's position relative, and then the .buttons container's absolute, with a display of flex and a direction of column, to make the two buttons sit on top of one another. Then as a finishing touch, I used some Font Awesome icons.
 
+### Interesting links 47
+
+-[Example CodePen I found for customizing Number Inputs](https://codepen.io/anon/embed/EWQPrK?height=265&theme-id=light&slug-hash=EWQPrK&default-tab=html&animations=run&editable=&embed-version=2&preview=true&user=anon)
+
 ### Day 48
 **Round 2 Day 48, April 2nd, 2021**
 ## Contents 48
 - [What I did today](#what-i-did-today-48)
+- [Interesting links](#interesting-links-48)
 
 ### What I did today 48
 
@@ -811,6 +820,19 @@ I practiced, practiced and practiced some more. Styling another section of my pa
 
 -[CSS Neon Glow CodePen](https://codepen.io/mesbahworld/pen/BZXxdq)
 -[Color-Cycling Neon Glow CodePen](https://codepen.io/BoredRobot/pen/BaLRzJB)
+
+### Day 49
+**Round 2 Day 49, April 16th, 2021**
+## Contents 49
+- [What I did today](#what-i-did-today-49)
+- [Interesting links](#interesting-links-49)
+
+Practice, practice and more practice. Changed the styling of the text in general, modified the text for the instructions, and changed the color scheme of a few stuff.
+
+### Interesting links 49
+-[CSS Continuous Rotate Animation CodePen](https://codepen.io/vitoralberto/pen/OPYyYB)
+-[Logo Text Effects CodePen](https://codepen.io/alexgreen932/pen/odWbbj)
+-[Color Palette Inspiration](https://www.behance.net/gallery/112090217/Cauldron?tracking_source=curated_galleries_list)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
