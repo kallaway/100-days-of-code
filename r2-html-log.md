@@ -773,11 +773,11 @@ Practice, practice and more practice. I practiced JavaScript, functions, CSS, an
 I did so much stuff today that I don't even feel like listing them.
 
 ### Useful resources 46
--[Nunito Font on Google Fonts](https://fonts.google.com/specimen/Nunito?preview.text=123456789&preview.text_type=custom)
--[Bouncy Font on dafont](https://www.dafont.com/es/bouncy-2.font)
--[Playing a CSS animation on hover](https://codepen.io/valhead/pen/rfump)
--[Shake CSS snippet for CSS-Tricks](https://codepen.io/sdras/pen/aOgMON)
--[Floating CSS Animation Code Pen](https://codepen.io/MarioDesigns/pen/woJgeo)
+- [Nunito Font on Google Fonts](https://fonts.google.com/specimen/Nunito?preview.text=123456789&preview.text_type=custom)
+- [Bouncy Font on dafont](https://www.dafont.com/es/bouncy-2.font)
+- [Playing a CSS animation on hover](https://codepen.io/valhead/pen/rfump)
+- [Shake CSS snippet for CSS-Tricks](https://codepen.io/sdras/pen/aOgMON)
+- [Floating CSS Animation Code Pen](https://codepen.io/MarioDesigns/pen/woJgeo)
 
 :tomato: :tomato: :tomato:
 
@@ -805,7 +805,7 @@ Made the .container's position relative, and then the .buttons container's absol
 
 ### Interesting links 47
 
--[Example CodePen I found for customizing Number Inputs](https://codepen.io/anon/embed/EWQPrK?height=265&theme-id=light&slug-hash=EWQPrK&default-tab=html&animations=run&editable=&embed-version=2&preview=true&user=anon)
+- [Example CodePen I found for customizing Number Inputs](https://codepen.io/anon/embed/EWQPrK?height=265&theme-id=light&slug-hash=EWQPrK&default-tab=html&animations=run&editable=&embed-version=2&preview=true&user=anon)
 
 ### Day 48
 **Round 2 Day 48, April 2nd, 2021**
@@ -819,8 +819,8 @@ I practiced, practiced and practiced some more. Styling another section of my pa
 
 ### Interesting links 48
 
--[CSS Neon Glow CodePen](https://codepen.io/mesbahworld/pen/BZXxdq)
--[Color-Cycling Neon Glow CodePen](https://codepen.io/BoredRobot/pen/BaLRzJB)
+- [CSS Neon Glow CodePen](https://codepen.io/mesbahworld/pen/BZXxdq)
+- [Color-Cycling Neon Glow CodePen](https://codepen.io/BoredRobot/pen/BaLRzJB)
 
 ### Day 49
 **Round 2 Day 49, April 16th, 2021**
@@ -831,10 +831,10 @@ I practiced, practiced and practiced some more. Styling another section of my pa
 Practice, practice and more practice. Changed the styling of the text in general, modified the text for the instructions, and changed the color scheme of a few stuff.
 
 ### Interesting links 49
--[CSS Continuous Rotate Animation CodePen](https://codepen.io/vitoralberto/pen/OPYyYB)
--[Logo Text Effects CodePen](https://codepen.io/alexgreen932/pen/odWbbj)
--[Color Palette Inspiration](https://www.behance.net/gallery/112090217/Cauldron?tracking_source=curated_galleries_list)
--[Spanless, Colored List Item Numbers and Bullets CodePen](https://codepen.io/dylanbaumann/pen/BjNxgo)
+- [CSS Continuous Rotate Animation CodePen](https://codepen.io/vitoralberto/pen/OPYyYB)
+- [Logo Text Effects CodePen](https://codepen.io/alexgreen932/pen/odWbbj)
+- [Color Palette Inspiration](https://www.behance.net/gallery/112090217/Cauldron?tracking_source=curated_galleries_list)
+- [Spanless, Colored List Item Numbers and Bullets CodePen](https://codepen.io/dylanbaumann/pen/BjNxgo)
 
 ### Day 50
 **Round 2 Day 50, April 17th, 2021**
@@ -847,10 +847,10 @@ Practice, practice and more practice. Changed the styling of the text in general
 Today I turned the list items with the instructions text, a collapsible list. I tried following the examples I saw that were made with CSS only. I can't say I'm really a fan of scaling the elements up and down and the option of using ``max-height`` looks more appealing. But I don't really feel right setting it to an absolute size. Will keep experimenting with it a bit more until I find a solution that looks better. The one that uses jQuery looks awesome, so I might just end up using that.
 
 ### Interesting links 50
--[Pure CSS Expand Collapse List CodePen](https://codepen.io/gregsaxton/pen/eoWGxL)
--[Accordion List CodePen](https://codepen.io/nicolecay/details/dwbWRo)
--[CSS Only Accordian/Collapsible List CodePen](https://codepen.io/huange/pen/pJqEMj)
--[Collapsible List CodePen](https://codepen.io/drourke/pen/lukbt)
+- [Pure CSS Expand Collapse List CodePen](https://codepen.io/gregsaxton/pen/eoWGxL)
+- [Accordion List CodePen](https://codepen.io/nicolecay/details/dwbWRo)
+- [CSS Only Accordian/Collapsible List CodePen](https://codepen.io/huange/pen/pJqEMj)
+- [Collapsible List CodePen](https://codepen.io/drourke/pen/lukbt)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
