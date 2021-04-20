@@ -1,10 +1,13 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Mike de la Fuente
 
 The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ## Log
 
 ### R1D1 
-Created the initial project.
+* Created the initial project.
 
 ### R1D2
+* Create batch file to launch server during E2E testing
+* Get a more durable solution to launching the server for E2E tests
+* Get all (1) tests to pass in an E2E manner

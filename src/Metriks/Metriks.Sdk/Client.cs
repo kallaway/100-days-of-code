@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
+using System.Text.Json;
 
 namespace Metriks.Sdk
 {
@@ -28,20 +29,25 @@ namespace Metriks.Sdk
             _client.DefaultRequestHeaders.Accept.Add(
                 new MediaTypeWithQualityHeaderValue("application/json"));
             _client.DefaultRequestHeaders.Add("User-Agent", consumingApplicationName);
-            _client.BaseAddress = new Uri(metriksApiBaseAddress);
-
+            _client.BaseAddress = new Uri(metriksApiBaseAddress);          
         }
 
         public async Task<List<WeatherForecast>> GetWeatherAsync()
         {
-            // https://localhost:44379/WeatherForecast
             string path = "/WeatherForecast";
 
-            var stringTask = _client.GetStringAsync("/WeatherForecast");
-            string msg = await stringTask;
-            string result = msg;
+            var stringTask = _client.GetStringAsync(path);
+            var msg = await stringTask;
+            var result = DeserializeResults<List<WeatherForecast>>(msg);
 
-            throw new NotImplementedException();
+            return result;
+        }
+
+        private static T DeserializeResults<T>(string msg)
+        {
+            JsonSerializerOptions options = new JsonSerializerOptions() { PropertyNameCaseInsensitive = true };
+            var result = JsonSerializer.Deserialize<T>(msg, options);
+            return result;
         }
     }
 }

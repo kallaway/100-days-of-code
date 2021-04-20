@@ -7,7 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metriks.Service", "Metriks.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metriks.E2E", "Metriks.E2E\Metriks.E2E.csproj", "{27675F80-E617-4098-B384-6CE5B9E5D5DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metriks.Sdk", "Metriks.Sdk\Metriks.Sdk.csproj", "{005F5FEF-6BE5-4BE2-A07D-A72B8CD30706}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metriks.Sdk", "Metriks.Sdk\Metriks.Sdk.csproj", "{005F5FEF-6BE5-4BE2-A07D-A72B8CD30706}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "100DaysInfo", "100DaysInfo", "{A4E58C77-1F64-49B7-9C33-5CA45E194534}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\.gitignore = ..\..\.gitignore
+		..\..\log.md = ..\..\log.md
+		..\..\r1-log.md = ..\..\r1-log.md
+		..\..\README.md = ..\..\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
