@@ -26,6 +26,7 @@
 * Create batch file to launch server during E2E testing
 
 **Thoughts:** 
+* What does the LAUNCHER_PATH environment variable do?
 
 **Link to work:** https://github.com/weekendprojectapp/100-days-of-code/tree/day-2-session-1
 

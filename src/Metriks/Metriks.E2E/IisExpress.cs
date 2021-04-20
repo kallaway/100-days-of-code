@@ -17,28 +17,19 @@ namespace Metriks.E2E
             Dispose(true);
         }
 
-        public static IisExpress Start(String configPath)
-        {
-            var instance = new IisExpress();
-            instance.InternalStart(configPath);
-            return instance;
-        }
-
-
-        private void InternalStart(String configPath)
+        public void Start(String configPath, string workingDirectory)
         {
             var iisExpressPath = DetermineIisExpressPath();
-            var arguments = String.Format(
-                CultureInfo.InvariantCulture, "/config:\"{0}\"", configPath);
+            var arguments = String.Format(CultureInfo.InvariantCulture, "/config:\"{0}\"", configPath);
 
             var info = new ProcessStartInfo(iisExpressPath)
             {
                 WindowStyle = ProcessWindowStyle.Normal,
                 ErrorDialog = true,
-                LoadUserProfile = true,
+                LoadUserProfile = false,
                 CreateNoWindow = false,
+                WorkingDirectory = workingDirectory,
                 UseShellExecute = false,
-                WorkingDirectory = @"C:\WeekendProject\github\100-days-of-code\src\Metriks\Metriks.Service\",
                 Arguments = arguments
             };
 
@@ -91,7 +82,6 @@ namespace Metriks.E2E
             try
             {
                 _process = Process.Start(info);
-
                 _process.WaitForExit();
             }
             catch (Exception)
