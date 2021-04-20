@@ -11,6 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metriks.Sdk", "Metriks.Sdk\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "100DaysInfo", "100DaysInfo", "{A4E58C77-1F64-49B7-9C33-5CA45E194534}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\.gitignore = ..\..\.gitignore
 		..\..\log.md = ..\..\log.md
 		..\..\r1-log.md = ..\..\r1-log.md
 		..\..\README.md = ..\..\README.md
