@@ -15,11 +15,15 @@ namespace Metriks.E2E
 
             // Act
             var weatherTask = client.GetWeatherAsync().ConfigureAwait(false).GetAwaiter();
-            var weather = weatherTask.GetResult();
+            var weatherForecast = weatherTask.GetResult();
 
             // Assert
-            Assert.IsNotNull(weather);
-            Assert.AreEqual(expectedCount, weather.Count);
+            Assert.IsNotNull(weatherForecast);
+            Assert.AreEqual(expectedCount, weatherForecast.Count);
+            foreach (var forecast in weatherForecast)
+            {
+                Assert.IsTrue(forecast.Date >= System.DateTime.Now.AddDays(-1), $"Invalid date: {forecast.Date}");
+            }
 
         }
     }
