@@ -41,7 +41,7 @@ namespace Metriks.Sdk
             string msg = await stringTask;
             string result = msg;
 
-            throw new NotImplementedException();
+             throw new NotImplementedException();
         }
     }
 }
