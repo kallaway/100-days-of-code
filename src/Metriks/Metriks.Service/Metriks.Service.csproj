@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
+    <ProjectReference Include="..\Metriks.Domain\Metriks.Domain.csproj" />
   </ItemGroup>
 
 </Project>
