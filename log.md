@@ -12,7 +12,7 @@
 * https://www.twitch.tv/videos/993582642
 * https://www.twitch.tv/videos/993582642
 
-**Stream Title:** 100DaysOfCode | Day 1 | Session 1 | Coding | Chatting
+**Stream Title:** 100DaysOfCode | Day 1 | Session 1/2 | Coding | Chatting
 
 **Stream Category:** Science & Technology
 
@@ -37,8 +37,9 @@
 
 **Streams Links:**
 * https://www.twitch.tv/videos/994525878
+* https://www.twitch.tv/videos/994916511
 
-**Stream Title:** 100DaysOfCode | Day 2 | Session 1 | Coding | Chatting
+**Stream Title:** 100DaysOfCode | Day 2 | Session 1/2 | Coding | Chatting
 
 **Stream Category:** Science & Technology
 
