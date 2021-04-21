@@ -13,6 +13,11 @@
 * Generating Mock Data
 * Fluent Assertions
 * TDD
+* CORS
+* Implementing a PATCH endpoint
+* Field masks
+* Update masks
+* Filters for an API
 * HttpClient pooling
 * Client side error reporting - Exceptionless
 * Gherkin / Cucumber
