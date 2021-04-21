@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.Data.Sqlite;
 
 namespace Metriks.Service.Domain
 {
@@ -19,7 +20,24 @@ namespace Metriks.Service.Domain
                 measurement.Id = Guid.NewGuid();
             }
 
+            WriteToDatabase(measurement);
+
             return measurement;
+        }
+
+        public void WriteToDatabase(WeightMeasurement measurement)
+        {
+            string cs = "Data Source=:memory:";
+            string stm = "SELECT SQLITE_VERSION()";
+
+            using var con = new SqliteConnection(cs);
+            con.Open();
+
+            using var cmd = new SqliteCommand(stm, con);
+            string version = cmd.ExecuteScalar().ToString();
+
+            Console.WriteLine($"SQLite version: {version}");
+            throw new NotImplementedException("Write logic for initiating the database and then writing to it!");
         }
     }
 }

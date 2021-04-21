@@ -27,6 +27,8 @@
 * Create batch file to launch server during E2E testing
 * Got deserialization of JSON working properly via case insensitivity
 * Got E2E tests working
+* Got POST method for /Weight started
+* Got SQLite in-memory DB working (returns version)
 
 **Thoughts:** 
 * What does the LAUNCHER_PATH environment variable do?

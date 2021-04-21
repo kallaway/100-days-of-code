@@ -26,7 +26,7 @@ namespace Metriks.E2E
             {
                 WindowStyle = ProcessWindowStyle.Normal,
                 ErrorDialog = true,
-                LoadUserProfile = false,
+                //LoadUserProfile = false,
                 CreateNoWindow = false,
                 WorkingDirectory = workingDirectory,
                 UseShellExecute = false,
