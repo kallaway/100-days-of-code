@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Metriks.Domain.Models;
 using Microsoft.Data.Sqlite;
 
-namespace Metriks.Service.Domain
+namespace Metriks.Domain
 {
     public class Weight
     {

@@ -1,4 +1,4 @@
-﻿using Metriks.Service.Domain;
+﻿using Metriks.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

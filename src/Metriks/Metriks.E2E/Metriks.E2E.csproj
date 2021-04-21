@@ -21,7 +21,6 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\Metriks.Sdk\Metriks.Sdk.csproj" />
-		<ProjectReference Include="..\Metriks.Service\Metriks.Service.csproj" />
 	</ItemGroup>
 
 </Project>

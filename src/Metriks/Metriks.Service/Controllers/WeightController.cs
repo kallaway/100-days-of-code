@@ -22,8 +22,8 @@ namespace Metriks.Service.Controllers
 
             // Act
             var bizLogic = new Domain.Weight();
-             var bizResult = bizLogic.Create(weightMeasurement);
-           
+            var bizResult = bizLogic.Create(weightMeasurement);
+
             // Response
             WeightCreated responseResult = WeightCreated.MapFrom(bizResult);
             return Created(AppendIdToCurrentPath(responseResult.Id.ToString()), responseResult);

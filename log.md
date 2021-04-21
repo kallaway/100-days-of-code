@@ -44,3 +44,21 @@
 **Stream Category:** Science & Technology
 
 **Stream Tags:**  Programming, Web Development, Software Development
+
+### Day 3: April 21, 2021 
+**Today's Goals**: 
+* Implement POST & GET (list) /Weight endpoint
+* Store data in a database
+
+**Today's Progress**: 
+* 
+
+** To Research:** 
+* What does the LAUNCHER_PATH environment variable do?
+
+**Streams Links:**
+* 
+
+**Stream Category:** Science & Technology
+
+**Stream Tags:**  Programming, Web Development, Software Development, Tutorial, Educational
