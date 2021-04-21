@@ -17,18 +17,16 @@ namespace Metriks.Service.Controllers
         [ProducesResponseType(StatusCodes.Status201Created)]
         public IActionResult Post([FromBody] WeightCreate value)
         {
-            var result = new WeightCreated();
-            result.Id = Guid.NewGuid();
-            result.EntryDate = value.EntryDate;
-            result.Unit = value.Unit;
-            result.Weight= value.Weight;
+            // Arrange
+            var weightMeasurement = value.MapTo();
 
-            var uri = GetCurrentPathUri();
-            uri.Path += "/" + result.Id;
-
-            return Created(uri.Uri, result);
+            // Act
+            var bizLogic = new Domain.Weight();
+            var bizResult = bizLogic.Create(weightMeasurement);
+           
+            // Response
+            WeightCreated responseResult = WeightCreated.MapFrom(bizResult);
+            return Created(AppendIdToCurrentPath(responseResult.Id.ToString()), responseResult);
         }
-
-
     }
 }

@@ -28,6 +28,13 @@ namespace Metriks.Service.Controllers
             uriBuilder.Host = host;
             return uriBuilder;
         }
+
+        internal Uri AppendIdToCurrentPath(string id)
+        {
+            var uriBuilder = GetCurrentPathUri();
+            uriBuilder.Path += "/" + id;
+            return uriBuilder.Uri;
+        }
         internal UriBuilder GetCurrentPathUri()
         {
             var uriBuilder = GetBaseUri();
