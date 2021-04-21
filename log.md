@@ -47,11 +47,33 @@
 
 ### Day 3: April 21, 2021 
 **Today's Goals**: 
+* Spin up a SQL database from an embedded resource
+
+**Today's Progress**: 
+* Setup a Domain project
+* Embedded a SQL schema file as a resource
+* Created unit tests for the domain project
+* Established a Gherkin like syntax for annotating our unit tests
+* Able to parse embedded SQL files to generate a database 
+* Installed https://sqlitebrowser.org/ to browse file based databases
+
+** To Research:** 
+* What does the LAUNCHER_PATH environment variable do?
+
+**Streams Links:**
+* 
+
+**Stream Category:** Science & Technology
+
+**Stream Tags:**  Programming, Web Development, Software Development, Tutorial, Educational
+
+### Day 4: April 22, 2021 
+**Today's Goals**: 
 * Implement POST & GET (list) /Weight endpoint
 * Store data in a database
 
 **Today's Progress**: 
-* 
+*
 
 ** To Research:** 
 * What does the LAUNCHER_PATH environment variable do?
