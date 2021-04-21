@@ -34,7 +34,7 @@ namespace Metriks.Sdk
 
         public async Task<List<WeatherForecast>> GetWeatherAsync()
         {
-            string path = "/WeatherForecast";
+            string path = "api/WeatherForecast";
 
             var stringTask = _client.GetStringAsync(path);
             var msg = await stringTask;

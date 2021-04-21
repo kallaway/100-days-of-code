@@ -1,6 +1,6 @@
 using System;
 
-namespace Metriks.Service
+namespace Metriks.Service.ResponseModels
 {
     public class WeatherForecast
     {
