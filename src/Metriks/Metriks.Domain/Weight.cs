@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
+using Metriks.Domain.Common;
+using Metriks.Domain.Data;
 using Metriks.Domain.Models;
 using Microsoft.Data.Sqlite;
 
@@ -9,7 +12,7 @@ namespace Metriks.Domain
 {
     public class Weight
     {
-        public WeightMeasurement Create(WeightMeasurement measurement)
+        public (bool created, WeightMeasurement measurement) Create(WeightMeasurement measurement)
         {
             if (measurement is null)
             {
@@ -21,14 +24,10 @@ namespace Metriks.Domain
                 measurement.Id = Guid.NewGuid();
             }
 
-            WriteToDatabase(measurement);
+            WeightDataStore store = new WeightDataStore();
+            var result = store.Create(measurement);
 
-            return measurement;
-        }
-
-        public void WriteToDatabase(WeightMeasurement measurement)
-        {
-            throw new NotImplementedException("Write logic for initiating the database and then writing to it!");
-        }
+            return (result, measurement);
+        }       
     }
 }

@@ -15,7 +15,7 @@ namespace Metriks.Domain.UnitTests
         public void TestDbInit()
         {
             // Arrange
-            DbInitializer db = new DbInitializer();
+            DbContext db = new DbContext();
 
             // Act
             bool result = db.Init();

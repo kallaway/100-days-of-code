@@ -25,8 +25,18 @@ namespace Metriks.Service.Controllers
             var bizResult = bizLogic.Create(weightMeasurement);
 
             // Response
-            WeightCreated responseResult = WeightCreated.MapFrom(bizResult);
-            return Created(AppendIdToCurrentPath(responseResult.Id.ToString()), responseResult);
+
+            WeightCreated responseResult = WeightCreated.MapFrom(bizResult.measurement);
+
+            if (bizResult.created)
+            {
+                return Created(AppendIdToCurrentPath(responseResult.Id.ToString()), responseResult);
+            }
+            else
+            {
+                return Conflict(responseResult);
+            }
+
         }
     }
 }

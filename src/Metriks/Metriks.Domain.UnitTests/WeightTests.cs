@@ -16,10 +16,9 @@ namespace Metriks.Domain.UnitTests
         public void Create_weight_should_populate_an_empty_ID()
         {
             // Arrange
-            var expectedId = Guid.Empty;
             WeightMeasurement expected = new WeightMeasurement();
             expected.EntryDate = DateTime.UtcNow;
-            expected.Id = expectedId;
+            expected.Id = Guid.Empty;
             expected.Unit = "Pounds";
             expected.Weight = 185.5f;
 
@@ -28,10 +27,11 @@ namespace Metriks.Domain.UnitTests
             var actual = bizLogic.Create(expected);
 
             // Assert
-            Assert.AreEqual(expected.EntryDate, actual.EntryDate, "EntryDate does not match.");
-            Assert.AreNotEqual(expectedId, actual.Id, "Id is still empty.");
-            Assert.AreEqual(expected.Unit, actual.Unit, "Unit does not match.");
-            Assert.AreEqual(expected.Weight, actual.Weight, "Weight does not match.");
+            Assert.IsTrue(actual.created);
+            Assert.AreEqual(expected.EntryDate, actual.measurement.EntryDate, "EntryDate does not match.");
+            Assert.AreNotEqual(Guid.Empty, actual.measurement.Id, "Id is still empty.");
+            Assert.AreEqual(expected.Unit, actual.measurement.Unit, "Unit does not match.");
+            Assert.AreEqual(expected.Weight, actual.measurement.Weight, "Weight does not match.");
         }
 
         [TestMethod]
@@ -54,10 +54,11 @@ namespace Metriks.Domain.UnitTests
             var actual = bizLogic.Create(expected);
 
             // Assert
-            Assert.AreEqual(expected.EntryDate, actual.EntryDate, "EntryDate does not match.");
-            Assert.AreEqual(expectedId, actual.Id, "Id does not match.");
-            Assert.AreEqual(expected.Unit, actual.Unit, "Unit does not match.");
-            Assert.AreEqual(expected.Weight, actual.Weight, "Weight does not match.");
+            Assert.IsTrue(actual.created);
+            Assert.AreEqual(expected.EntryDate, actual.measurement.EntryDate, "EntryDate does not match.");
+            Assert.AreEqual(expectedId, actual.measurement.Id, "Id does not match.");
+            Assert.AreEqual(expected.Unit, actual.measurement.Unit, "Unit does not match.");
+            Assert.AreEqual(expected.Weight, actual.measurement.Weight, "Weight does not match.");
 
         }
 
@@ -90,8 +91,7 @@ namespace Metriks.Domain.UnitTests
             var actual = bizLogic.Create(expected);
 
             // Assert
-            // TODO: Should we return a tuple <bool, WeightMeasurement> or should we throw or return null
-            Assert.IsNull(actual);            
+            Assert.IsFalse(actual.created);            
         }
 
 
@@ -107,7 +107,7 @@ namespace Metriks.Domain.UnitTests
             
             // Act
             Weight bizLogic = new Weight();
-            var actual = bizLogic.Create(null);
+            _ = bizLogic.Create(null);
 
             // Assert
            

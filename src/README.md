@@ -8,8 +8,8 @@
 * Metric API service
 
 ## Topics to touch on:
-* How to run E2E tests from a client to a server when they exist in the same solution
-* E2E vs Unit Tests
+* x How to run E2E tests from a client to a server when they exist in the same solution
+* x E2E vs Unit Tests
 * Generating Mock Data
 * Fluent Assertions
 * TDD
