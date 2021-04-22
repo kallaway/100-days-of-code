@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Metriks.Domain.Data
 {
-    public class WeightDataStore : ISimpleDataStore<WeightMeasurement>
+    internal class WeightDataStore : ISimpleDataStore<WeightMeasurement>
     {
         public bool Create(WeightMeasurement measurement)
         {

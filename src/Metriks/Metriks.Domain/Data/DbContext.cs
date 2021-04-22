@@ -11,7 +11,6 @@ namespace Metriks.Domain.Data
 {
     public class DbContext
     {
-
         /// <summary>
         /// Initializes the database assumes nothing exists
         /// </summary>

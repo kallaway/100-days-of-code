@@ -4,11 +4,11 @@ using System.Globalization;
 using System.IO;
 using System.Threading;
 
-namespace Metriks.E2E
+namespace Metriks.E2E.Common
 {
-    public class IisExpress : IDisposable
+    internal class IisExpress : IDisposable
     {
-        private Boolean _isDisposed;
+        private bool _isDisposed;
 
         private Process _process;
 
@@ -17,10 +17,10 @@ namespace Metriks.E2E
             Dispose(true);
         }
 
-        public void Start(String configPath, string workingDirectory)
+        public void Start(string configPath, string workingDirectory)
         {
             var iisExpressPath = DetermineIisExpressPath();
-            var arguments = String.Format(CultureInfo.InvariantCulture, "/config:\"{0}\"", configPath);
+            var arguments = string.Format(CultureInfo.InvariantCulture, "/config:\"{0}\"", configPath);
 
             var info = new ProcessStartInfo(iisExpressPath)
             {
@@ -44,7 +44,7 @@ namespace Metriks.E2E
             startThread.Start();
         }
 
-        protected virtual void Dispose(Boolean disposing)
+        protected virtual void Dispose(bool disposing)
         {
             if (_isDisposed)
             {
@@ -64,9 +64,9 @@ namespace Metriks.E2E
             _isDisposed = true;
         }
 
-        private static String DetermineIisExpressPath()
+        private static string DetermineIisExpressPath()
         {
-            String iisExpressPath;
+            string iisExpressPath;
 
             iisExpressPath = Environment.GetFolderPath(Environment.Is64BitOperatingSystem
                 ? Environment.SpecialFolder.ProgramFilesX86
