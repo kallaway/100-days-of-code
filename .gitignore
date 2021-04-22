@@ -360,3 +360,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/src/Metriks/Metriks.Service/test.db
