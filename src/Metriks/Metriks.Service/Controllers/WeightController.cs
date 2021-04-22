@@ -25,7 +25,6 @@ namespace Metriks.Service.Controllers
             var bizResult = bizLogic.Create(weightMeasurement);
 
             // Response
-
             WeightCreated responseResult = WeightCreated.MapFrom(bizResult.measurement);
 
             if (bizResult.created)
@@ -36,6 +35,23 @@ namespace Metriks.Service.Controllers
             {
                 return Conflict(responseResult);
             }
+
+        }
+
+        [HttpGet]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        public IActionResult Get()
+        {
+            // Arrange
+
+            // Act
+            var bizLogic = new Domain.Weight();
+            var bizResult = bizLogic.Read();
+
+            // Response
+            WeightList responseResult = WeightList.MapFrom(bizResult);
+
+            return Ok(responseResult);
 
         }
     }
