@@ -25,3 +25,9 @@ The log of my #100DaysOfCode challenge. Started on [Monday, April 19, 2021].
 ### R1D4
 * Implement GET /Weight and GET /Weight/{id} endpoint
 * Discuss the role of architects in an organization
+* Update Weight Table Schema. READ weight business logic and data built.
+* GET list /Weight now works through the API
+* GET by ID for weight now works.
+* Rework E2E tests to leverage interfaces for the client
+* Create a consistent pattern for dealing with lists / arrays returned with PageSize and NextPageToken
+* Client SDK can now perform POST and GET (list) for weight using both Sync and Async methods
