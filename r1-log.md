@@ -24,3 +24,4 @@ The log of my #100DaysOfCode challenge. Started on [Monday, April 19, 2021].
 
 ### R1D4
 * Implement GET /Weight and GET /Weight/{id} endpoint
+* Discuss the role of architects in an organization

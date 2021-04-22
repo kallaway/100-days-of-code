@@ -2,12 +2,15 @@ using Metriks.Domain.Models;
 using Metriks.Domain.UnitTests.Common;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using System.Collections.Generic;
 
 namespace Metriks.Domain.UnitTests
 {
     [TestClass]
     public class WeightTests
     {
+
+        #region Create
         [TestMethod]
         [Scenario("Create weight should populate an empty ID")]
         [Given("a weight measurement has an empty Id")]
@@ -16,11 +19,8 @@ namespace Metriks.Domain.UnitTests
         public void Create_weight_should_populate_an_empty_ID()
         {
             // Arrange
-            WeightMeasurement expected = new WeightMeasurement();
-            expected.EntryDate = DateTime.UtcNow;
+            WeightMeasurement expected = GenerateRandomWeightMeasurement();
             expected.Id = Guid.Empty;
-            expected.Unit = "Pounds";
-            expected.Weight = 185.5f;
 
             // Act
             Weight bizLogic = new Weight();
@@ -43,11 +43,8 @@ namespace Metriks.Domain.UnitTests
         {
             // Arrange
             var expectedId = Guid.NewGuid();
-            WeightMeasurement expected = new WeightMeasurement();
-            expected.EntryDate = DateTime.UtcNow;
+            WeightMeasurement expected = GenerateRandomWeightMeasurement();
             expected.Id = expectedId;
-            expected.Unit = "Pounds";
-            expected.Weight = 185.5f;
 
             // Act
             Weight bizLogic = new Weight();
@@ -73,17 +70,11 @@ namespace Metriks.Domain.UnitTests
             // Arrange
             var originalId = Guid.NewGuid();
 
-            WeightMeasurement original = new WeightMeasurement();
-            original.EntryDate = DateTime.UtcNow;
+            WeightMeasurement original = GenerateRandomWeightMeasurement();
             original.Id = originalId;
-            original.Unit = "Pounds";
-            original.Weight = 185.5f;
 
-            WeightMeasurement expected = new WeightMeasurement();
-            expected.EntryDate = DateTime.UtcNow;
+            WeightMeasurement expected = GenerateRandomWeightMeasurement();
             expected.Id = originalId;
-            expected.Unit = "Pounds";
-            expected.Weight = 150.0f;
 
             // Act
             Weight bizLogic = new Weight();
@@ -91,9 +82,8 @@ namespace Metriks.Domain.UnitTests
             var actual = bizLogic.Create(expected);
 
             // Assert
-            Assert.IsFalse(actual.created);            
+            Assert.IsFalse(actual.created);
         }
-
 
         [TestMethod]
         [Scenario("Create weight should fail when a duplicate ID is passed in")]
@@ -104,15 +94,50 @@ namespace Metriks.Domain.UnitTests
         public void CreateShouldThrowWhenNullMeasurementPassedIn()
         {
             // Arrange
-            
+
             // Act
             Weight bizLogic = new Weight();
             _ = bizLogic.Create(null);
 
             // Assert
-           
+
         }
 
-      
+        #endregion
+
+        #region Get
+        [TestMethod]
+        [Scenario("Get a list of weight measurements")]
+        [Given("an end-user has at least 2 weight measurements in the system")]
+        [When("retrieve weight measurements is called")]
+        [Then("at least 2 weight measurements are returned")]
+        public void Get_weight_list_should_return_at_least_2_items()
+        {
+            // Arrange
+            Weight bizLogic = new Weight();
+            _ = bizLogic.Create(GenerateRandomWeightMeasurement());
+            _ = bizLogic.Create(GenerateRandomWeightMeasurement());
+
+            // Act
+            List<WeightMeasurement> measurements = bizLogic.Read();
+
+            // Assert
+           Assert.IsTrue(measurements.Count >= 2, $"Expected at least 2 items, but there was only {measurements.Count} items.");
+        }
+
+
+        #endregion
+
+        private static WeightMeasurement GenerateRandomWeightMeasurement()
+        {
+            Random r = new Random(Guid.NewGuid().GetHashCode());
+
+            WeightMeasurement expected = new WeightMeasurement();
+            expected.EntryDate = DateTime.UtcNow.AddDays(r.Next(1, 100) * -1);
+            expected.Id = Guid.NewGuid();
+            expected.Unit = "Pounds";
+            expected.Weight = (double)(r.Next(60, 300) + (r.Next(0, 9) / 10.0d));
+            return expected;
+        }
     }
 }

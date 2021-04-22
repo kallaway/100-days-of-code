@@ -21,7 +21,7 @@ namespace Metriks.Domain.Models
         /// The numeric representation of the weight
         /// </summary>
         /// TODO: Consider renaming to 'Value'
-        public float Weight { get; set; }
+        public double Weight { get; set; }
 
         /// <summary>
         /// Unit of measurement: Ounces, Pounds, Tons, Gram, Kilogram, Tonne, Stone

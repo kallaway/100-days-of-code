@@ -28,6 +28,14 @@ namespace Metriks.Domain
             var result = store.Create(measurement);
 
             return (result, measurement);
-        }       
+        }
+
+        public List<WeightMeasurement> Read()
+        {
+            WeightDataStore store = new WeightDataStore();
+            var result = store.Read();
+
+            return result;
+        }
     }
 }

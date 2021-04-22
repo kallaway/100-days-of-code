@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 
 namespace Metriks.Domain.Data
 {
-    public class WeightDataStore : IDataStore<WeightMeasurement>
+    public class WeightDataStore : ISimpleDataStore<WeightMeasurement>
     {
         public bool Create(WeightMeasurement measurement)
-         {
+        {
             bool result = false;
             var connString = DbContext.GetConnectionString();
             using (var con = new SqliteConnection(connString))
@@ -53,20 +53,42 @@ namespace Metriks.Domain.Data
             throw new NotImplementedException();
         }
 
+        public List<WeightMeasurement> Read()
+        {
+            var result = new List<WeightMeasurement>();
+
+            var connString = DbContext.GetConnectionString();
+            using (var con = new SqliteConnection(connString))
+            {
+                StringBuilder sb = new StringBuilder();
+                sb.AppendLine("SELECT id, entry_date, weight, unit");
+                sb.AppendLine("FROM WeightMeasurements ");
+
+                con.Open();
+                using (var cmd = new SqliteCommand(sb.ToString(), con))
+                {
+                    using (var dr = cmd.ExecuteReader())
+                    {
+                        while (dr.Read())
+                        {
+                            var measurement = new WeightMeasurement();
+                            measurement.Id = Guid.Parse((string)dr["id"]);
+                            measurement.EntryDate = new DateTime(1970, 1, 1, 0, 0, 0).AddSeconds((long)dr["entry_date"]);
+                            measurement.Weight = (double)dr["weight"];
+                            measurement.Unit = (string)dr["unit"];
+
+                            result.Add(measurement);
+                        }
+                    }
+                }
+            }
+
+            return result;
+        }
+
         public WeightMeasurement Update(WeightMeasurement measurement)
         {
             throw new NotImplementedException();
         }
-    }
-
-    public interface IDataStore<T>
-    {
-        bool Create(T measurement);
-
-        T Read(string id);
-
-        T Update(T measurement);
-
-        bool Delete(string id);
     }
 }
