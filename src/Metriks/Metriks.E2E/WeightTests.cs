@@ -21,12 +21,11 @@ namespace Metriks.E2E
             // Arrange
             var client = TestHelper.GetSdkClient();
 
-
             // Act
-           
+            var actual = client.Weight.GetWeight();
 
             // Assert
-          
+            Assert.IsTrue(actual.Count > 0);
 
         }
     }

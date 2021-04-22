@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Metriks.Service.ResponseModels
 {
-    public class WeightList
+    public class WeightList : MetrikList
     {
         public List<WeightGet> Weights { get; set; } = new List<WeightGet>();
 

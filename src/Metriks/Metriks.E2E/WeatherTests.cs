@@ -19,13 +19,12 @@ namespace Metriks.E2E
             var client = TestHelper.GetSdkClient();
 
             // Act
-            var weatherTask = client.Weather.GetWeatherAsync().ConfigureAwait(false).GetAwaiter();
-            var weatherForecast = weatherTask.GetResult();
+            var actual = client.Weather.GetWeather();
 
             // Assert
-            Assert.IsNotNull(weatherForecast);
-            Assert.AreEqual(expectedCount, weatherForecast.Count);
-            foreach (var forecast in weatherForecast)
+            Assert.IsNotNull(actual);
+            Assert.AreEqual(expectedCount, actual.Count);
+            foreach (var forecast in actual)
             {
                 Assert.IsTrue(forecast.Date >= System.DateTime.Now.AddDays(-1), $"Invalid date: {forecast.Date}");
             }

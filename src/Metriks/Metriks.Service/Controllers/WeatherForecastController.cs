@@ -29,16 +29,19 @@ namespace Metriks.Service.Controllers
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(IEnumerable<WeatherForecast>))]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status429TooManyRequests)]
-        public IEnumerable<WeatherForecast> Get()
+        public WeatherForecastList Get()
         {
+            WeatherForecastList result = new WeatherForecastList();
             var rng = new Random();
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+            result.Forecasts = Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),
                 TemperatureC = rng.Next(-20, 55),
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
-            .ToArray();
+             .ToList();
+
+            return result;
         }
 
 
