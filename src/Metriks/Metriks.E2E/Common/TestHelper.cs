@@ -22,5 +22,18 @@ namespace Metriks.E2E.Common
         {
             return Sdk.Authentication.GetClient(TestHelper.GetTestApplicationName(), TestHelper.GetServerAddress());
         }
+
+        internal static DateTime GetRandomPastDate(int minInPast, int maxInPast)
+        {
+            Random rnd = new Random(Guid.NewGuid().GetHashCode());
+            return DateTime.UtcNow.AddDays(rnd.Next(minInPast, maxInPast) * -1);
+        }
+
+        internal static double GetRandomDouble(int min, int max)
+        {
+            Random rnd = new Random(Guid.NewGuid().GetHashCode());
+            return rnd.Next(min, max) + rnd.NextDouble();
+        }
+
     }
 }

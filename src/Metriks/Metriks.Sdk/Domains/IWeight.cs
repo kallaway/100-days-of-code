@@ -12,5 +12,10 @@ namespace Metriks.Sdk.Domains
         List<WeightGet> GetWeight();
 
         Task<List<WeightGet>> GetWeightAsync();
+
+        WeightCreated Create(DateTime entryDate, double weight, string unit);
+
+        Task<WeightCreated> CreateAsync(DateTime entryDate, double weight, string unit);
+
     }
 }

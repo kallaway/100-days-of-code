@@ -22,9 +22,9 @@ namespace Metriks.Sdk.Domains
         {
             string path = "api/WeatherForecast";
 
-            var stringTask = _client.GetStringAsync(path);
-            var msg = await stringTask;
-            var resultList = DeserializeResults<WeatherForecastList>(msg);
+            var responseTask = _client.GetAsync(path);
+            var response = await responseTask;
+            var resultList = ProcessResults<WeatherForecastList>(response);
 
             List<WeatherForecast> result = new List<WeatherForecast>();
             foreach (var item in resultList.Forecasts)
@@ -37,8 +37,8 @@ namespace Metriks.Sdk.Domains
 
         public List<WeatherForecast> GetWeather()
         {
-            var requestTask = GetWeatherAsync().ConfigureAwait(false).GetAwaiter();
-            var result = requestTask.GetResult();
+            var responseTask = GetWeatherAsync().ConfigureAwait(false).GetAwaiter();
+            var result = responseTask.GetResult();
 
             return result;
         }

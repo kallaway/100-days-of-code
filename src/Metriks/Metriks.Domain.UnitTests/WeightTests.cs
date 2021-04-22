@@ -119,10 +119,10 @@ namespace Metriks.Domain.UnitTests
             _ = bizLogic.Create(GenerateRandomWeightMeasurement());
 
             // Act
-            List<WeightMeasurement> measurements = bizLogic.Read();
+            List<WeightMeasurement> actual = bizLogic.Read();
 
             // Assert
-           Assert.IsTrue(measurements.Count >= 2, $"Expected at least 2 items, but there was only {measurements.Count} items.");
+           Assert.IsTrue(actual.Count >= 2, $"Expected at least 2 items, but there was only {actual.Count} items.");
         }
 
 
