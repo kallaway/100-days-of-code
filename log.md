@@ -56,6 +56,8 @@
 * Established a Gherkin like syntax for annotating our unit tests
 * Able to parse embedded SQL files to generate a database 
 * Installed https://sqlitebrowser.org/ to browse file based databases
+* Implement POST on /Weight
+* Store data in a database
 
 ** To Research:** 
 * What does the LAUNCHER_PATH environment variable do?
@@ -69,8 +71,7 @@
 
 ### Day 4: April 22, 2021 
 **Today's Goals**: 
-* Implement POST & GET (list) /Weight endpoint
-* Store data in a database
+* Implement GET /Weight and GET /Weight/{id} endpoint
 
 **Today's Progress**: 
 *
@@ -81,6 +82,12 @@
 **Streams Links:**
 * 
 
+**Stream Title:** 
+* 100DaysOfCode | Day 4 | Session 1 | Coding | C#
+
 **Stream Category:** Science & Technology
 
 **Stream Tags:**  Programming, Web Development, Software Development, Tutorial, Educational
+
+**Twitter:** 
+* Live Stream: Day 4, Session 1 of #100DaysOfCode in #csharp, doing #API development. https://www.twitch.tv/highfiveboom
