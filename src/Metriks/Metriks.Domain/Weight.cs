@@ -24,7 +24,7 @@ namespace Metriks.Domain
                 measurement.Id = Guid.NewGuid();
             }
 
-            WeightDataStore store = new WeightDataStore();
+            ISimpleDataStore<WeightMeasurement> store = new WeightDataStore();
             var result = store.Create(measurement);
 
             return (result, measurement);
@@ -32,8 +32,16 @@ namespace Metriks.Domain
 
         public List<WeightMeasurement> Read()
         {
-            WeightDataStore store = new WeightDataStore();
+            ISimpleDataStore<WeightMeasurement> store = new WeightDataStore();
             var result = store.Read();
+
+            return result;
+        }
+
+        public WeightMeasurement Read(Guid id)
+        {
+            ISimpleDataStore<WeightMeasurement> store = new WeightDataStore();
+            var result = store.Read(id);
 
             return result;
         }

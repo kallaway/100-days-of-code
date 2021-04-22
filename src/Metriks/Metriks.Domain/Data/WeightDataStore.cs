@@ -43,14 +43,43 @@ namespace Metriks.Domain.Data
             return result;
         }
 
-        public bool Delete(string id)
+        public bool Delete(Guid id)
         {
             throw new NotImplementedException();
         }
 
-        public WeightMeasurement Read(string id)
+        public WeightMeasurement Read(Guid id)
         {
-            throw new NotImplementedException();
+            WeightMeasurement result = null;
+
+            var connString = DbContext.GetConnectionString();
+            using (var con = new SqliteConnection(connString))
+            {
+                StringBuilder sb = new StringBuilder();
+                sb.AppendLine("SELECT id, entry_date, weight, unit");
+                sb.AppendLine("FROM WeightMeasurements ");
+                sb.AppendLine("WHERE id=@id ");
+
+                con.Open();
+                using (var cmd = new SqliteCommand(sb.ToString(), con))
+                {
+                    cmd.Parameters.Add(new SqliteParameter("@id", id.ToString()));
+
+                    using (var dr = cmd.ExecuteReader(System.Data.CommandBehavior.SingleRow))
+                    {
+                        while (dr.Read())
+                        {
+                            result = new WeightMeasurement();
+                            result.Id = Guid.Parse((string)dr["id"]);
+                            result.EntryDate = new DateTime(1970, 1, 1, 0, 0, 0).AddSeconds((long)dr["entry_date"]);
+                            result.Weight = (double)dr["weight"];
+                            result.Unit = (string)dr["unit"];                            
+                        }
+                    }
+                }
+            }
+
+            return result;
         }
 
         public List<WeightMeasurement> Read()

@@ -105,9 +105,9 @@ namespace Metriks.Domain.UnitTests
 
         #endregion
 
-        #region Get
+        #region Get List
         [TestMethod]
-        [Scenario("Get a list of weight measurements")]
+        [Scenario("Get weight list should return at least 2 items")]
         [Given("an end-user has at least 2 weight measurements in the system")]
         [When("retrieve weight measurements is called")]
         [Then("at least 2 weight measurements are returned")]
@@ -126,6 +126,26 @@ namespace Metriks.Domain.UnitTests
         }
 
 
+        #endregion
+
+        #region Get by ID
+        [TestMethod]
+        [Scenario("Get weight measurement by valid ID")]
+        [Given("an end-user is trying to retrieve a weight measurement")]
+        [When("a valid ID for an existing weight measurement is entered")]
+        [Then("a weight measure is returned")]
+        public void Get_weight_measurement_by_valid_ID()
+        {
+            // Arrange
+            Weight bizLogic = new Weight();
+            var expected = bizLogic.Create(GenerateRandomWeightMeasurement());
+           
+            // Act
+            WeightMeasurement actual = bizLogic.Read(expected.measurement.Id);
+
+            // Assert
+            Assert.AreEqual(expected.measurement.Id, actual.Id);
+        }
         #endregion
 
         private static WeightMeasurement GenerateRandomWeightMeasurement()

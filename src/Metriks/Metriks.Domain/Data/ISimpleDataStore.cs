@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace Metriks.Domain.Data
 {
@@ -6,12 +7,12 @@ namespace Metriks.Domain.Data
     {
         bool Create(T measurement);
 
-        T Read(string id);
+        T Read(Guid id);
 
         List<T> Read();
 
         T Update(T measurement);
 
-        bool Delete(string id);
+        bool Delete(Guid id);
     }
 }

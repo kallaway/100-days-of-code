@@ -27,15 +27,12 @@ namespace Metriks.Service.Controllers
             // Response
             WeightCreated responseResult = WeightCreated.MapFrom(bizResult.measurement);
 
-            if (bizResult.created)
-            {
-                return Created(AppendIdToCurrentPath(responseResult.Id.ToString()), responseResult);
-            }
-            else
+            if (!bizResult.created)
             {
                 return Conflict(responseResult);
             }
 
+            return Created(AppendIdToCurrentPath(responseResult.Id.ToString()), responseResult);
         }
 
         [HttpGet]
@@ -52,7 +49,30 @@ namespace Metriks.Service.Controllers
             WeightList responseResult = WeightList.MapFrom(bizResult);
 
             return Ok(responseResult);
+        }
+        [HttpGet("{id}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        public IActionResult Get(string id)
+        {
+            // Arrange
+            if (!Guid.TryParse(id, out Guid properId))
+            {
+                return BadRequest("Expected the ID to be a UUID / GUID");
+            }
 
+            // Act
+            var bizLogic = new Domain.Weight();
+            var bizResult = bizLogic.Read(properId);
+
+            // Response
+            WeightGet responseResult = WeightGet.MapFrom(bizResult);
+
+            if (responseResult == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(responseResult);
         }
     }
 }
