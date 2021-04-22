@@ -10,18 +10,19 @@ namespace Metriks.Domain.UnitTests
     [TestClass()]
     public static class AssemblySetupTeardown
     {
-      
+
         [AssemblyInitialize]
         public static void AssemblyInit(TestContext context)
-        {          
-
+        {
+            Data.DbContext dbContext = new Data.DbContext();
+            dbContext.Init();
         }
 
-       
+
         [AssemblyCleanup]
         public static void AssemblyCleanup()
         {
-            
+
         }
     }
 }

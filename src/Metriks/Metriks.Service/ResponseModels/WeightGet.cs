@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Metriks.Domain.Models;
+using System;
 
-namespace Metriks.Domain.Models
+namespace Metriks.Service.ResponseModels
 {
-    public class WeightMeasurement
+    public class WeightGet
     {
         /// <summary>
         /// Unique ID of the weight metric
@@ -20,13 +18,22 @@ namespace Metriks.Domain.Models
         /// <summary>
         /// The numeric representation of the weight
         /// </summary>
-        /// TODO: Consider renaming to 'Value'
         public double Weight { get; set; }
 
         /// <summary>
         /// Unit of measurement: Ounces, Pounds, Tons, Gram, Kilogram, Tonne, Stone
         /// </summary>
-        /// TODO: Convert to an enum
         public string Unit { get; set; }
+
+        public static WeightGet MapFrom(WeightMeasurement weight)
+        {
+            WeightGet result = new WeightGet();
+            result.EntryDate = weight.EntryDate;
+            result.Id = weight.Id;
+            result.Unit = weight.Unit;
+            result.Weight = weight.Weight;
+
+            return result;
+        }
     }
 }

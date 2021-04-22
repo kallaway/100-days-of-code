@@ -1,9 +1,9 @@
 ﻿CREATE TABLE WeightMeasurements (
 	wm_key INTEGER PRIMARY KEY,
-	id VARCHAR(100) NOT NULL,
-	entry_date DATETIME,
-	weight DECIMAL(10,2),
-	unit VARCHAR(15)
+	id TEXT NOT NULL,
+	entry_date INTEGER,
+	weight REAL,
+	unit TEXT
 );
 GO
 

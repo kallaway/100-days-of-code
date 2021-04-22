@@ -2,6 +2,7 @@ using System;
 
 namespace Metriks.Service.ResponseModels
 {
+
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
