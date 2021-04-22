@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <EmbeddedResource Include="Data\Schema\Tables.sql">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
 

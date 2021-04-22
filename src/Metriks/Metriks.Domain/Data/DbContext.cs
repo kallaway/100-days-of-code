@@ -9,9 +9,8 @@ using System.Threading.Tasks;
 
 namespace Metriks.Domain.Data
 {
-    public class DbInitializer
+    public class DbContext
     {
-        private string _dbName = "test.db";  // ":memory:";
 
         /// <summary>
         /// Initializes the database assumes nothing exists
@@ -39,12 +38,12 @@ namespace Metriks.Domain.Data
 
             return initSucceeded;
         }
-       
+
         /// <summary>
         /// Gets the connection string. Will use the full path of the assembly for the database name.
         /// </summary>
         /// <returns>A valid connection string</returns>
-        private string GetConnectionString()
+        public static string GetConnectionString()
         {
             string dbPath = GetDatabaseFilePath();
             return $"Data Source={dbPath}";
@@ -54,8 +53,10 @@ namespace Metriks.Domain.Data
         /// Gets the path to the database. If in-memory is configured, this is where that is set.
         /// </summary>
         /// <returns>A path to the physical database file or :memory: for memory stores</returns>
-        private string GetDatabaseFilePath()
+        private static string GetDatabaseFilePath()
         {
+            string _dbName = "test.db";  // ":memory:";
+
             var currentDirectory = System.IO.Directory.GetCurrentDirectory();
             var dbPath = Path.Combine(currentDirectory, _dbName);
             // dbPath = ":memory:" // In-Memory DB
@@ -183,8 +184,9 @@ namespace Metriks.Domain.Data
 
                     // Add any leftover lines where someone may have forgotten to add "GO" as a final seperator
                     // Ignore blank lines
-                    if (sb.Length > 0) {
-                        result.Add(sb.ToString());                        
+                    if (sb.Length > 0)
+                    {
+                        result.Add(sb.ToString());
                     }
                 }
             }
@@ -202,14 +204,7 @@ namespace Metriks.Domain.Data
 
             if (!IsMemoryStore(GetDatabaseFilePath()))
             {
-                try
-                {
-                    System.IO.File.Delete(dbFilePath);
-                }
-                catch (Exception ex)
-                {
-                    throw;
-                }
+                System.IO.File.Delete(dbFilePath);
             }
         }
 

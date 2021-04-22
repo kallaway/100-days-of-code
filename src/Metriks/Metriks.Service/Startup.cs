@@ -54,6 +54,10 @@ namespace Metriks.Service
             {
                 endpoints.MapControllers();
             });
+
+            // TODO: Consider adding in a non-destructive check for a database
+            Domain.Data.DbContext context = new Domain.Data.DbContext();
+            context.Init();
         }
     }
 }
