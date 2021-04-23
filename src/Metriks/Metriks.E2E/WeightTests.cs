@@ -33,7 +33,6 @@ namespace Metriks.E2E
             Assert.AreEqual(expectedEntryDate, actual.EntryDate);
             Assert.AreEqual(expectedWeight, actual.Weight);
             Assert.AreEqual(expectedUnit, actual.Unit);
-
         }
 
         #endregion
@@ -60,10 +59,40 @@ namespace Metriks.E2E
 
 
             // Act
-            var actual = client.Weight.GetWeight();
+            var actual = client.Weight.GetList();
 
             // Assert
             Assert.IsTrue(actual.Count >= expectedMinimumCount, $"Expected at least {expectedMinimumCount} items, but there was only {actual.Count} items.");
+
+        }
+
+        #endregion
+
+        #region Get by ID
+
+        #endregion
+
+        #region Delete
+        [TestMethod]
+        [Scenario("Delete weight returns true when a valid ID is used")]
+        [Given("an ID for an existing weight measurement")]
+        [When("a request delete that weight ID is sent")]
+        [Then("a success response is sent to the integrator")]
+        public void Delete_weight_returns_true_when_a_valid_ID_is_used()
+        {
+            // Arrange
+            var client = TestHelper.GetSdkClient();
+
+            DateTime expectedEntryDate = TestHelper.GetRandomPastDate(1, 365);
+            double expectedWeight = TestHelper.GetRandomDouble(1, 300);
+            string expectedUnit = "pounds";
+            var original = client.Weight.Create(expectedEntryDate, expectedWeight, expectedUnit);
+
+            // Act
+            bool actual = client.Weight.Delete(original.Id);
+
+            // Assert
+            Assert.IsTrue(actual, "Failed to delete weight given a valid ID");
 
         }
 

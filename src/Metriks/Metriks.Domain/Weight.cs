@@ -12,6 +12,18 @@ namespace Metriks.Domain
 {
     public class Weight
     {
+        ISimpleDataStore<WeightMeasurement> _store;
+                
+        public Weight()
+        {
+            _store = new WeightDataStore();
+        }
+
+        public Weight(ISimpleDataStore<WeightMeasurement> store)
+        {
+            _store = store;
+        }
+
         public (bool created, WeightMeasurement measurement) Create(WeightMeasurement measurement)
         {
             if (measurement is null)
@@ -24,24 +36,28 @@ namespace Metriks.Domain
                 measurement.Id = Guid.NewGuid();
             }
 
-            ISimpleDataStore<WeightMeasurement> store = new WeightDataStore();
-            var result = store.Create(measurement);
+            var result = _store.Create(measurement);
 
             return (result, measurement);
         }
 
         public List<WeightMeasurement> Read()
         {
-            ISimpleDataStore<WeightMeasurement> store = new WeightDataStore();
-            var result = store.Read();
+            var result = _store.Read();
 
             return result;
         }
 
         public WeightMeasurement Read(Guid id)
         {
-            ISimpleDataStore<WeightMeasurement> store = new WeightDataStore();
-            var result = store.Read(id);
+            var result = _store.Read(id);
+
+            return result;
+        }
+
+        public bool Delete(Guid id)
+        {
+            var result = _store.Delete(id);
 
             return result;
         }

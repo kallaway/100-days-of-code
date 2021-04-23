@@ -9,13 +9,15 @@ namespace Metriks.Sdk.Domains
 {
     public interface IWeight
     {
-        List<WeightGet> GetWeight();
+        List<WeightGet> GetList();
 
         Task<List<WeightGet>> GetWeightAsync();
 
         WeightCreated Create(DateTime entryDate, double weight, string unit);
 
         Task<WeightCreated> CreateAsync(DateTime entryDate, double weight, string unit);
+        bool Delete(Guid id);
 
+        Task<bool> DeleteAsync(Guid id);
     }
 }

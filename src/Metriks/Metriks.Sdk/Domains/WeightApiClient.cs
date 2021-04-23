@@ -17,7 +17,7 @@ namespace Metriks.Sdk.Domains
             _client = client;
         }
 
-        public List<WeightGet> GetWeight()
+        public List<WeightGet> GetList()
         {
             var responseTask = GetWeightAsync().ConfigureAwait(false).GetAwaiter();
             var result = responseTask.GetResult();
@@ -64,6 +64,37 @@ namespace Metriks.Sdk.Domains
             var responseTask = _client.PostAsync(path, jsonContent);
             var response = await responseTask;
             var result = ProcessResults<WeightCreated>(response);
+
+            return result;
+        }
+
+        public bool Delete(Guid id)
+        {
+            var responseTask = DeleteAsync(id).ConfigureAwait(false).GetAwaiter();
+            var result = responseTask.GetResult();
+
+            return result;
+        }
+
+        public async Task<bool> DeleteAsync(Guid id)
+        {
+            string path = $"api/Weight/{id}";
+
+            var responseTask = _client.DeleteAsync(path);
+            var response = await responseTask;
+
+            // Assume success means: 200, 202 or 204
+            bool result = response.IsSuccessStatusCode;
+
+            if (!result)
+            {
+                // Do nothing if the status is Not Found (keep the result as false)
+                if (response.StatusCode != System.Net.HttpStatusCode.NotFound)
+                {
+                    //TODO: raise an event to a global event hub to let 3rd parties understand what went wrong.
+                    throw new HttpRequestException(response.ReasonPhrase, null, response.StatusCode);
+                }
+            }
 
             return result;
         }

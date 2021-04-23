@@ -72,6 +72,7 @@
 ### Day 4: April 22, 2021 
 **Today's Goals**: 
 * Implement GET /Weight and GET /Weight/{id} endpoint
+* Implement DELETE /Weight/{id}
 
 **Today's Progress**: 
 * Implement GET /Weight and GET /Weight/{id} endpoint
@@ -87,7 +88,7 @@
 * What does the LAUNCHER_PATH environment variable do?
 
 **Streams Links:**
-* 
+* https://www.twitch.tv/videos/996902756
 
 **Stream Title:** 
 * 100DaysOfCode | Day 4 | Session 1 | Coding | C#
@@ -98,3 +99,4 @@
 
 **Twitter:** 
 * Live Stream: Day 4, Session 1 of #100DaysOfCode in #csharp, doing #API development. https://www.twitch.tv/highfiveboom
+* Let's write some code! Live stream starting now: Day 4, Session 2 of #100DaysOfCode in #csharp, doing #API development. https://www.twitch.tv/highfiveboom

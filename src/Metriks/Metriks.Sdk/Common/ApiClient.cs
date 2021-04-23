@@ -36,9 +36,6 @@ namespace Metriks.Sdk.Common
             }
 
             throw new HttpRequestException(httpResponseMessage.ReasonPhrase, null, httpResponseMessage.StatusCode);
-
-
-
         }
     }
 }

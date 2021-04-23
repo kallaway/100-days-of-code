@@ -66,6 +66,9 @@ namespace Metriks.Service.Controllers
 
         // DELETE api/<ValuesController>/5
         [HttpDelete("{id}")]
+        [ProducesResponseType(StatusCodes.Status200OK)] // if a body is returned
+        [ProducesResponseType(StatusCodes.Status202Accepted)] // Queued
+        [ProducesResponseType(StatusCodes.Status204NoContent)] // Deleted
         public void Delete(int id)
         {
         }

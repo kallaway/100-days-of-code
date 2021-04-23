@@ -13,16 +13,23 @@ namespace Metriks.Service.Controllers
     [ApiController]
     public class WeightController : MetrikControllerBase
     {
+        Domain.Weight _bizLogic;
+
+        public WeightController()
+        {
+            _bizLogic = new Domain.Weight();
+        }
+
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status201Created)]
+        [ProducesResponseType(StatusCodes.Status409Conflict)]
         public IActionResult Post([FromBody] WeightCreate value)
         {
             // Arrange
             var weightMeasurement = value.MapTo();
 
             // Act
-            var bizLogic = new Domain.Weight();
-            var bizResult = bizLogic.Create(weightMeasurement);
+            var bizResult = _bizLogic.Create(weightMeasurement);
 
             // Response
             WeightCreated responseResult = WeightCreated.MapFrom(bizResult.measurement);
@@ -42,14 +49,14 @@ namespace Metriks.Service.Controllers
             // Arrange
 
             // Act
-            var bizLogic = new Domain.Weight();
-            var bizResult = bizLogic.Read();
+            var bizResult = _bizLogic.Read();
 
             // Response
             WeightList responseResult = WeightList.MapFrom(bizResult);
 
             return Ok(responseResult);
         }
+
         [HttpGet("{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public IActionResult Get(string id)
@@ -61,8 +68,7 @@ namespace Metriks.Service.Controllers
             }
 
             // Act
-            var bizLogic = new Domain.Weight();
-            var bizResult = bizLogic.Read(properId);
+            var bizResult = _bizLogic.Read(properId);
 
             // Response
             WeightGet responseResult = WeightGet.MapFrom(bizResult);
@@ -73,6 +79,28 @@ namespace Metriks.Service.Controllers
             }
 
             return Ok(responseResult);
+        }
+
+        [HttpDelete("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        public IActionResult Delete(string id)
+        {
+            // Arrange
+            if (!Guid.TryParse(id, out Guid properId))
+            {
+                return BadRequest("Expected the ID to be a UUID / GUID");
+            }
+
+            // Act
+            var result = _bizLogic.Delete(properId);
+
+            // if the object was deleted, true is returned
+            if (!result)
+            {
+                return NotFound();
+            }
+
+            return NoContent();
         }
     }
 }

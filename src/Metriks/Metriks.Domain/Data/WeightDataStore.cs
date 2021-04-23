@@ -45,7 +45,26 @@ namespace Metriks.Domain.Data
 
         public bool Delete(Guid id)
         {
-            throw new NotImplementedException();
+            bool result = false;
+
+            var connString = DbContext.GetConnectionString();
+            using (var con = new SqliteConnection(connString))
+            {
+                StringBuilder sb = new StringBuilder();
+                sb.AppendLine("DELETE FROM WeightMeasurements ");
+                sb.AppendLine("WHERE id=@id ");
+
+                con.Open();
+                using (var cmd = new SqliteCommand(sb.ToString(), con))
+                {
+                    cmd.Parameters.Add(new SqliteParameter("@id", id.ToString()));
+                    int resultCount = cmd.ExecuteNonQuery();
+
+                    result = resultCount > 0;
+                }
+            }
+
+            return result;
         }
 
         public WeightMeasurement Read(Guid id)
@@ -73,7 +92,7 @@ namespace Metriks.Domain.Data
                             result.Id = Guid.Parse((string)dr["id"]);
                             result.EntryDate = new DateTime(1970, 1, 1, 0, 0, 0).AddSeconds((long)dr["entry_date"]);
                             result.Weight = (double)dr["weight"];
-                            result.Unit = (string)dr["unit"];                            
+                            result.Unit = (string)dr["unit"];
                         }
                     }
                 }

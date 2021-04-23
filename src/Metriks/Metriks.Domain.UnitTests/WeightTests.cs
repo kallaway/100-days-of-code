@@ -148,13 +148,59 @@ namespace Metriks.Domain.UnitTests
         }
         #endregion
 
+        #region Delete
+        [TestMethod]
+        [Scenario("Delete weight measurement by valid ID")]
+        [Given("an end-user is trying to delete a weight measurement")]
+        [When("a valid ID for an existing weight measurement is entered")]
+        [Then("the specified weight measure is deleted and a 'true' response is returned")]
+        public void Delete_weight_measurement_by_valid_ID()
+        {
+            // Arrange
+            Weight bizLogic = new Weight();
+            var expectedId = Guid.NewGuid();
+            _ = bizLogic.Create(GenerateRandomWeightMeasurement(expectedId));
+
+            // Act
+            bool actual = bizLogic.Delete(expectedId);
+
+            // Assert
+            Assert.IsTrue(actual);
+        }
+
+        [TestMethod]
+        [Scenario("Delete weight measurement twice should fail the second time")]
+        [Given("an end-user is trying to delete a weight measurement")]
+        [When("a valid ID for an existing weight measurement is deleted twice")]
+        [Then("the specified weight measure is deleted the first time and fails on the second attempt")]
+        public void Delete_weight_measurement_twice_should_fail_the_second_time()
+        {
+            // Arrange
+            Weight bizLogic = new Weight();
+            var expectedId = Guid.NewGuid();
+            _ = bizLogic.Create(GenerateRandomWeightMeasurement(expectedId));
+
+            // Act
+            bool initialResult = bizLogic.Delete(expectedId);
+            bool secondResult = bizLogic.Delete(expectedId);
+
+            // Assert
+            Assert.IsTrue(initialResult, "Expected the initial delete to succeed");
+            Assert.IsFalse(secondResult, "Expected the second delete to fail");
+        }
+        #endregion
+
         private static WeightMeasurement GenerateRandomWeightMeasurement()
+        {
+            return GenerateRandomWeightMeasurement(Guid.NewGuid());
+        }
+            private static WeightMeasurement GenerateRandomWeightMeasurement(Guid id)
         {
             Random r = new Random(Guid.NewGuid().GetHashCode());
 
             WeightMeasurement expected = new WeightMeasurement();
             expected.EntryDate = DateTime.UtcNow.AddDays(r.Next(1, 100) * -1);
-            expected.Id = Guid.NewGuid();
+            expected.Id = id;
             expected.Unit = "Pounds";
             expected.Weight = (double)(r.Next(60, 300) + (r.Next(0, 9) / 10.0d));
             return expected;
