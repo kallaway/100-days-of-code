@@ -1,4 +1,5 @@
-﻿using Metriks.Sdk.ResponseModels;
+﻿using Metriks.Sdk.Domains.Clients.ResponseModels;
+using Metriks.Sdk.Domains.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,15 +10,20 @@ namespace Metriks.Sdk.Domains
 {
     public interface IWeight
     {
-        List<WeightGet> GetList();
+        List<WeightMeasurement> GetList();
 
-        Task<List<WeightGet>> GetWeightAsync();
+        Task<List<WeightMeasurement>> GetListAsync();
 
-        WeightCreated Create(DateTime entryDate, double weight, string unit);
+        WeightMeasurement Create(DateTime entryDate, double weight, string unit);
 
-        Task<WeightCreated> CreateAsync(DateTime entryDate, double weight, string unit);
+        Task<WeightMeasurement> CreateAsync(DateTime entryDate, double weight, string unit);
+      
         bool Delete(Guid id);
 
         Task<bool> DeleteAsync(Guid id);
+
+        WeightMeasurement Get(Guid id);
+
+        Task<WeightMeasurement> GetAsync(Guid id);
     }
 }

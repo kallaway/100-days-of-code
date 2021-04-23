@@ -1,8 +1,12 @@
-﻿using System;
+﻿using Metriks.Sdk.Domains.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace Metriks.Sdk.ResponseModels
+namespace Metriks.Sdk.Domains.Clients.ResponseModels
 {
-    public class WeightGet
+    internal class WeightCreated
     {
         /// <summary>
         /// Unique ID of the weight metric
@@ -23,5 +27,16 @@ namespace Metriks.Sdk.ResponseModels
         /// Unit of measurement: Ounces, Pounds, Tons, Gram, Kilogram, Tonne, Stone
         /// </summary>
         public string Unit { get; set; }
+
+        public WeightMeasurement MapTo()
+        {
+            var result = new WeightMeasurement();
+            result.EntryDate = this.EntryDate;
+            result.Id = this.Id;
+            result.Unit = this.Unit;
+            result.Weight = this.Weight;
+
+            return result;
+        }
     }
 }

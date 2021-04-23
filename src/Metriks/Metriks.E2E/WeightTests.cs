@@ -1,4 +1,5 @@
 ﻿using Metriks.E2E.Common;
+using Metriks.Sdk.Domains.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
@@ -69,7 +70,29 @@ namespace Metriks.E2E
         #endregion
 
         #region Get by ID
+        [TestMethod]
+        [Scenario("Get weight by valid ID")]
+        [Given("a weight with a known ID")]
+        [When("that weight is retrieved by ID")]
+        [Then("a valid weight measurement is returned")]
+        public void Get_weight_by_valid_ID()
+        {
+            // Arrange
+            var client = TestHelper.GetSdkClient();
 
+            DateTime expectedEntryDate = TestHelper.GetRandomPastDate(1, 365);
+            double expectedWeight = TestHelper.GetRandomDouble(1, 300);
+            string expectedUnit = "pounds";
+            var artifact = client.Weight.Create(expectedEntryDate, expectedWeight, expectedUnit);
+            var expectedId = artifact.Id;
+
+            // Act
+            WeightMeasurement actual = client.Weight.Get(expectedId);
+
+            // Assert
+            Assert.AreEqual(expectedId, actual.Id);
+
+        }
         #endregion
 
         #region Delete
@@ -97,6 +120,7 @@ namespace Metriks.E2E
         }
 
         #endregion
+
 
 
     }

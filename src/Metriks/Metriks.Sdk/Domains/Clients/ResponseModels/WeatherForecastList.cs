@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
 
-namespace Metriks.Sdk.ResponseModels
+namespace Metriks.Sdk.Domains.Clients.ResponseModels
 {
-    public class WeatherForecastList
+    internal class WeatherForecastList
     {
-        public List<WeatherForecast> Forecasts { get; set; } = new List<WeatherForecast>();
+        public List<WeatherForecastGet> Forecasts { get; set; } = new List<WeatherForecastGet>();
 
-        public static WeatherForecastList MapFrom(List<WeatherForecast> forecasts)
+        public static WeatherForecastList MapFrom(List<WeatherForecastGet> forecasts)
         {
             WeatherForecastList result = new WeatherForecastList();
             foreach (var forecast in forecasts)

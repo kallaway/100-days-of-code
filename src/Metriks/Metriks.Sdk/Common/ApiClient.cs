@@ -35,6 +35,8 @@ namespace Metriks.Sdk.Common
                 return result;
             }
 
+            // TODO: Make the return type nullable 
+            //return default(T);
             throw new HttpRequestException(httpResponseMessage.ReasonPhrase, null, httpResponseMessage.StatusCode);
         }
     }

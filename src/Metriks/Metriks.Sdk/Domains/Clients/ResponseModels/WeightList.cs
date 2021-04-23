@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 
-namespace Metriks.Sdk.ResponseModels
+namespace Metriks.Sdk.Domains.Clients.ResponseModels
 {
-    public class WeightList
+    internal class WeightList
     {
         public List<WeightGet> Weights { get; set; }
 

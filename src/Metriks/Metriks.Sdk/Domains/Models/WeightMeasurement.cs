@@ -1,9 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Metriks.Sdk.RequestModels
+namespace Metriks.Sdk.Domains.Models
 {
-    public class WeightCreate
+    public class WeightMeasurement
     {
+        /// <summary>
+        /// Unique ID of the weight metric
+        /// </summary>
+        public Guid Id { get; set; }
+
         /// <summary>
         /// Date of the entry - when was the weight measurement taken
         /// </summary>

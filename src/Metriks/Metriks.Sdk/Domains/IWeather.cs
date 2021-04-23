@@ -1,4 +1,4 @@
-﻿using Metriks.Sdk.ResponseModels;
+﻿using Metriks.Sdk.Domains.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

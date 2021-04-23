@@ -1,17 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace Metriks.Sdk.ResponseModels
+namespace Metriks.Sdk.Domains.Clients.RequestModels
 {
-    public class WeightCreated
+    internal class WeightCreate
     {
-        /// <summary>
-        /// Unique ID of the weight metric
-        /// </summary>
-        public Guid Id { get; set; }
-
         /// <summary>
         /// Date of the entry - when was the weight measurement taken
         /// </summary>
@@ -25,7 +17,6 @@ namespace Metriks.Sdk.ResponseModels
         /// <summary>
         /// Unit of measurement: Ounces, Pounds, Tons, Gram, Kilogram, Tonne, Stone
         /// </summary>
-        public string Unit { get; set; }      
-
+        public string Unit { get; set; }
     }
 }

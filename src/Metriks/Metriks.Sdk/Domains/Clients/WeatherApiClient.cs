@@ -1,5 +1,6 @@
 ﻿using Metriks.Sdk.Common;
-using Metriks.Sdk.ResponseModels;
+using Metriks.Sdk.Domains.Clients.ResponseModels;
+using Metriks.Sdk.Domains.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Metriks.Sdk.Domains
+namespace Metriks.Sdk.Domains.Clients
 {
     internal class WeatherApiClient : ApiClient, IWeather
     {
@@ -29,7 +30,7 @@ namespace Metriks.Sdk.Domains
             List<WeatherForecast> result = new List<WeatherForecast>();
             foreach (var item in resultList.Forecasts)
             {
-                result.Add(item);
+                result.Add(item.MapTo());
             }
 
             return result;
