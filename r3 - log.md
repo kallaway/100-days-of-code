@@ -341,3 +341,11 @@
     
   ##### Link to Reference:
     ()
+    
+# Day 43: 24th April, 2021
+  ##### Today's progress:
+    Read about control flow in C
+  ##### Thoughts:
+   
+  ##### Link to Reference:
+    ()
