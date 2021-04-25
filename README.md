@@ -1,5 +1,12 @@
 # I've joined the #100DaysOfCode Challenge
 
+## Main Commitment
+### *I will code for at least an hour every day for the next 100 days.*
+
+#### Start Date
+
+April 25th, 2021.
+
 ## Contents
 
 * [Rules](rules.md)
@@ -7,17 +14,27 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Translations
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)
+## Rules
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+1. I will IG post about my progress every day -> using the hashtag #100DaysOfCode
+2. If I code at work, that time won't count towards the challenge.
+3. I will push code to GitHub every day so that anyone can see my progress.
+4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
+5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+
+## Ideas to make this challenge more effective
+1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
+2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
+3. If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
+4. If you can't push your code to GitHub for some reason (e.g. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
+5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
 
 ## If you've decided to join:
 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
     Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel
 1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
+2.  Fork the repo and commit to the [Log](log.md) from [the Official Repo](https://github.com/moe12572/100-days-of-code)
 3.  **Code minimum an hour every day for the next 100 days.**
 4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
 5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
@@ -29,7 +46,7 @@ If you want to help by providing a translation of content/rules in the language 
 
 ## ⚡ Interested in meaningfully changing your life & getting the results you want?
 
-I publish a newsletter called [Do the Opposite](https://dotheopposite.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
+The creator of this repo publish a newsletter called [Do the Opposite](https://dotheopposite.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
 
 The themes covered are:
 - **Habit Change**. Learn how to successfully acquire good habits and how to quit bad ones.
@@ -55,3 +72,4 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+* If you have any questions or ideas about this specific repo, feel free to reach out to me on Instagram: [@graymatter.us](https://instagram.com/graymatter.us)
