@@ -17,7 +17,9 @@
   - [Day 47](#day-47)
   - [Day 48](#day-48)
   - [Day 49](#day-49)
-  - [Day 50 - Latest entry](#day-50)
+  - [Day 50](#day-50)
+  - [Day 51](#day-51)
+  - [Day 52 - Latest entry](#day-52)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -773,11 +775,11 @@ Practice, practice and more practice. I practiced JavaScript, functions, CSS, an
 I did so much stuff today that I don't even feel like listing them.
 
 ### Useful resources 46
--[Nunito Font on Google Fonts](https://fonts.google.com/specimen/Nunito?preview.text=123456789&preview.text_type=custom)
--[Bouncy Font on dafont](https://www.dafont.com/es/bouncy-2.font)
--[Playing a CSS animation on hover](https://codepen.io/valhead/pen/rfump)
--[Shake CSS snippet for CSS-Tricks](https://codepen.io/sdras/pen/aOgMON)
--[Floating CSS Animation Code Pen](https://codepen.io/MarioDesigns/pen/woJgeo)
+- [Nunito Font on Google Fonts](https://fonts.google.com/specimen/Nunito?preview.text=123456789&preview.text_type=custom)
+- [Bouncy Font on dafont](https://www.dafont.com/es/bouncy-2.font)
+- [Playing a CSS animation on hover](https://codepen.io/valhead/pen/rfump)
+- [Shake CSS snippet for CSS-Tricks](https://codepen.io/sdras/pen/aOgMON)
+- [Floating CSS Animation Code Pen](https://codepen.io/MarioDesigns/pen/woJgeo)
 
 :tomato: :tomato: :tomato:
 
@@ -805,7 +807,7 @@ Made the .container's position relative, and then the .buttons container's absol
 
 ### Interesting links 47
 
--[Example CodePen I found for customizing Number Inputs](https://codepen.io/anon/embed/EWQPrK?height=265&theme-id=light&slug-hash=EWQPrK&default-tab=html&animations=run&editable=&embed-version=2&preview=true&user=anon)
+- [Example CodePen I found for customizing Number Inputs](https://codepen.io/anon/embed/EWQPrK?height=265&theme-id=light&slug-hash=EWQPrK&default-tab=html&animations=run&editable=&embed-version=2&preview=true&user=anon)
 
 ### Day 48
 **Round 2 Day 48, April 2nd, 2021**
@@ -819,8 +821,8 @@ I practiced, practiced and practiced some more. Styling another section of my pa
 
 ### Interesting links 48
 
--[CSS Neon Glow CodePen](https://codepen.io/mesbahworld/pen/BZXxdq)
--[Color-Cycling Neon Glow CodePen](https://codepen.io/BoredRobot/pen/BaLRzJB)
+- [CSS Neon Glow CodePen](https://codepen.io/mesbahworld/pen/BZXxdq)
+- [Color-Cycling Neon Glow CodePen](https://codepen.io/BoredRobot/pen/BaLRzJB)
 
 ### Day 49
 **Round 2 Day 49, April 16th, 2021**
@@ -828,13 +830,15 @@ I practiced, practiced and practiced some more. Styling another section of my pa
 - [What I did today](#what-i-did-today-49)
 - [Interesting links](#interesting-links-49)
 
+## What I did today 49
+
 Practice, practice and more practice. Changed the styling of the text in general, modified the text for the instructions, and changed the color scheme of a few stuff.
 
 ### Interesting links 49
--[CSS Continuous Rotate Animation CodePen](https://codepen.io/vitoralberto/pen/OPYyYB)
--[Logo Text Effects CodePen](https://codepen.io/alexgreen932/pen/odWbbj)
--[Color Palette Inspiration](https://www.behance.net/gallery/112090217/Cauldron?tracking_source=curated_galleries_list)
--[Spanless, Colored List Item Numbers and Bullets CodePen](https://codepen.io/dylanbaumann/pen/BjNxgo)
+- [CSS Continuous Rotate Animation CodePen](https://codepen.io/vitoralberto/pen/OPYyYB)
+- [Logo Text Effects CodePen](https://codepen.io/alexgreen932/pen/odWbbj)
+- [Color Palette Inspiration](https://www.behance.net/gallery/112090217/Cauldron?tracking_source=curated_galleries_list)
+- [Spanless, Colored List Item Numbers and Bullets CodePen](https://codepen.io/dylanbaumann/pen/BjNxgo)
 
 ### Day 50
 **Round 2 Day 50, April 17th, 2021**
@@ -842,20 +846,38 @@ Practice, practice and more practice. Changed the styling of the text in general
 - [What I did today](#what-i-did-today-50)
 - [Interesting links](#interesting-links-50)
 
-## Contents 50
+## What I did today 50
 
-Today I turned the list items with the instructions text, a collapsible list. I tried following the examples I saw that were made with CSS only. I can't say I'm really a fan of scaling the elements up and down and the option of using ``max-height`` looks more appealing. But I don't really feel right setting it to an absolute size. Will keep experimenting with it a bit more until I find a solution that looks better. The one that uses jQuery looks awesome, so I might just end up using that.
+Today I turned the list items with the instructions text, into a collapsible list. I tried following the examples I saw that were made with CSS only. I can't say I'm really a fan of scaling the elements up and down and the option of using ``max-height`` looks more appealing. But I don't really feel right setting it to an absolute size. Will keep experimenting with it a bit more until I find a solution that looks better. The one that uses jQuery looks awesome, so I might just end up using that.
 
 ### Interesting links 50
--[Pure CSS Expand Collapse List CodePen](https://codepen.io/gregsaxton/pen/eoWGxL)
--[Accordion List CodePen](https://codepen.io/nicolecay/details/dwbWRo)
--[CSS Only Accordian/Collapsible List CodePen](https://codepen.io/huange/pen/pJqEMj)
--[Collapsible List CodePen](https://codepen.io/drourke/pen/lukbt)
+- [Pure CSS Expand Collapse List CodePen](https://codepen.io/gregsaxton/pen/eoWGxL)
+- [Accordion List CodePen](https://codepen.io/nicolecay/details/dwbWRo)
+- [CSS Only Accordian/Collapsible List CodePen](https://codepen.io/huange/pen/pJqEMj)
+- [Collapsible List CodePen](https://codepen.io/drourke/pen/lukbt)
+
+### Day 51
+**Round 2 Day 51, April 20th, 2021**
+## Contents 51
+- [What I did today](#what-i-did-today-51)
+- [Interesting links](#interesting-links-52)
+
+## What I did today 51
+
+I was trying to make an accordion effect for the instructions by using a unordered list element and animations, but I didn't want to use JavaScript to create the effect and I was trying to do it using CSS only. I managed to create something that looked relatively decent, but then found out that collapsible elements are incorporated into HTML directly with the ``details`` and ``summary`` elements.
+
+## Interesting links 52
+
+### Day 52
+**Round 2 Day 52, April 25th, 2021**
+## Contents 52
+- [What I did today](#what-i-did-today-52)
+
+## What I did today 52
+
+I resumed my Web Developer Bootcamp course on Udemy. I rewatched the video explaining *Returning Functions* and then watched the video about *Defining Methods* on Section 21. I'm also seriously pondering about starting up with [p1xt-guides](https://github.com/P1xt/p1xt-guides) on GitHub since I have been meaning too for quite some time.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
 - Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
-
-116 atms reportados
-79 dispensador
