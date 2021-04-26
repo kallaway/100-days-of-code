@@ -18,7 +18,8 @@
   - [Day 48](#day-48)
   - [Day 49](#day-49)
   - [Day 50](#day-50)
-  - [Day 51 - Latest entry](#day-51)
+  - [Day 51](#day-51)
+  - [Day 52 - Latest entry](#day-52)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -859,18 +860,24 @@ Today I turned the list items with the instructions text, into a collapsible lis
 **Round 2 Day 51, April 20th, 2021**
 ## Contents 51
 - [What I did today](#what-i-did-today-51)
-- [Interesting links](#interesting-links-51)
+- [Interesting links](#interesting-links-52)
 
 ## What I did today 51
 
-I was trying to make an accordion effect for the instructions by using a unordered list element and animations, but I didn't want to use JavaScript to created the effect and I was trying to do it using CSS only. I managed to create something that looked relatively decent, but then found out that collapsible elements are incorporated into HTML directly with the ``details`` and ``summary`` elements.
+I was trying to make an accordion effect for the instructions by using a unordered list element and animations, but I didn't want to use JavaScript to create the effect and I was trying to do it using CSS only. I managed to create something that looked relatively decent, but then found out that collapsible elements are incorporated into HTML directly with the ``details`` and ``summary`` elements.
 
-## Interesting links 51
+## Interesting links 52
+
+### Day 52
+**Round 2 Day 52, April 25th, 2021**
+## Contents 52
+- [What I did today](#what-i-did-today-52)
+
+## What I did today 52
+
+I resumed my Web Developer Bootcamp course on Udemy. I rewatched the video explaining *Returning Functions* and then watched the video about *Defining Methods* on Section 21. I'm also seriously pondering about starting up with [p1xt-guides](https://github.com/P1xt/p1xt-guides) on GitHub since I have been meaning too for quite some time.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
 - Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
-
-116 atms reportados
-79 dispensador
