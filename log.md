@@ -21,3 +21,9 @@ using css class to style, and changing font sizes.
 **Today's Progress**: I have almost completely finished the Basic CSS course. Specifically, I covered font families, google font importation, font drgrading, image sizing, borders, rounded borders, circular images, background colors to div elements, setting ID of element, using id to style element, adjusting padding and margin, including negative margin and shorthand notation, using attribute selector to style elements, overriding styles, using hex code, shorthand hex code, rgb values, creating custom css variables, and setting fallback values.
 
 **Thoughts:** After getting through so much in one hour, I definitely feel much more comfortable with HTML and CSS as a whole. I saw things I either already knew or just have seen before, but I also saw a lot of new concepts. I look forward to using these on my projects. 
+
+###Day 3: April 28, 2021
+#####
+**Today's Progress**: I have completely finished the Basic CSS course. I have also started the Applied Visual Design course and reach over half way. Topics covered include: inheriting css values with :root, text-align property, adjusting width of element, height, strong tag, underline tag, em tag, strikethrough tag, horizontal line tag, background-color of text, font-size, box-shadows, opacity, text-transform options, font-size, weight, line-height, hover state of anchor, relative position, absolute position, fixed position, float, z-index, and auto margin.
+
+**Thoughts:** I finally feel like I'm starting to understand CSS. Picked up most of the work very quickly. Very useful.
