@@ -19,7 +19,8 @@
   - [Day 49](#day-49)
   - [Day 50](#day-50)
   - [Day 51](#day-51)
-  - [Day 52 - Latest entry](#day-52)
+  - [Day 52](#day-52)
+  - [Day 53 - Latest entry](#day-53)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -781,6 +782,7 @@ I did so much stuff today that I don't even feel like listing them.
 - [Shake CSS snippet for CSS-Tricks](https://codepen.io/sdras/pen/aOgMON)
 - [Floating CSS Animation Code Pen](https://codepen.io/MarioDesigns/pen/woJgeo)
 
+**Pomodoro Count**
 :tomato: :tomato: :tomato:
 
 ### Day 47
@@ -860,13 +862,10 @@ Today I turned the list items with the instructions text, into a collapsible lis
 **Round 2 Day 51, April 20th, 2021**
 ## Contents 51
 - [What I did today](#what-i-did-today-51)
-- [Interesting links](#interesting-links-52)
 
-## What I did today 51
+### What I did today 51
 
 I was trying to make an accordion effect for the instructions by using a unordered list element and animations, but I didn't want to use JavaScript to create the effect and I was trying to do it using CSS only. I managed to create something that looked relatively decent, but then found out that collapsible elements are incorporated into HTML directly with the ``details`` and ``summary`` elements.
-
-## Interesting links 52
 
 ### Day 52
 **Round 2 Day 52, April 25th, 2021**
@@ -876,6 +875,23 @@ I was trying to make an accordion effect for the instructions by using a unorder
 ## What I did today 52
 
 I resumed my Web Developer Bootcamp course on Udemy. I rewatched the video explaining *Returning Functions* and then watched the video about *Defining Methods* on Section 21. I'm also seriously pondering about starting up with [p1xt-guides](https://github.com/P1xt/p1xt-guides) on GitHub since I have been meaning too for quite some time.
+
+### Day 53
+**Round 2 Day 53, April 28th, 2021**
+## Contents 53
+- [What I did today](#what-i-did-today-53)
+- [Interesting links](#interesting-links-53)
+
+## What I did today 53
+
+Completed Section 21. Saw how to define methods for objects and learned a little about how the keyword ``this`` is used in JavaScript. Also saw an introduction of using try/catch blocks on JS as well.
+
+### Interesting links 53
+
+-[Interesting advice for productivity](https://youtu.be/aehoGGCHkyw)
+
+**Pomodoro count**
+:tomato:
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
