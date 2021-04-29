@@ -27,3 +27,9 @@ using css class to style, and changing font sizes.
 **Today's Progress**: I have completely finished the Basic CSS course. I have also started the Applied Visual Design course and reach over half way. Topics covered include: inheriting css values with :root, text-align property, adjusting width of element, height, strong tag, underline tag, em tag, strikethrough tag, horizontal line tag, background-color of text, font-size, box-shadows, opacity, text-transform options, font-size, weight, line-height, hover state of anchor, relative position, absolute position, fixed position, float, z-index, and auto margin.
 
 **Thoughts:** I finally feel like I'm starting to understand CSS. Picked up most of the work very quickly. Very useful.
+
+###Day 4: April 29, 2021
+#####
+**Today's Progress**: Completely finished Applied Visual Design course, and started Applied Accessibility. Topics covered include: changing hue of color, creating linear-gradient, adding images to background, transform scale property, scale prop on hover, skew element on x and y axis, pseudo elements ::before and after, CSS keyframes and animation, animation count, timing function, and bezier curves.
+
+**Thoughts:**Even with so much homework due tomorrow, I managed to get through the hour of code today. I learned alot about animation, and felt like the beginning of the applied accessibility course is a nice refresher to basic HTML formatting that will come in handy.
