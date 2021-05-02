@@ -33,3 +33,9 @@ using css class to style, and changing font sizes.
 **Today's Progress**: Completely finished Applied Visual Design course, and started Applied Accessibility. Topics covered include: changing hue of color, creating linear-gradient, adding images to background, transform scale property, scale prop on hover, skew element on x and y axis, pseudo elements ::before and after, CSS keyframes and animation, animation count, timing function, and bezier curves.
 
 **Thoughts:**Even with so much homework due tomorrow, I managed to get through the hour of code today. I learned alot about animation, and felt like the beginning of the applied accessibility course is a nice refresher to basic HTML formatting that will come in handy.
+
+###Day 4: May 1, 2021
+#####
+**Today's Progress**: Not much progress. Learned about using tghe header, footer, adding the nav tag, add audio content, the figure element, and the label element.
+
+**Thoughts:**: Unfortunately I forgot to do my hour of code yesterday, so I will be making it up when I have the time later. I didn't get to be very productive today. Had a long weekend, and it's not even Sunday yet. I do think I have a good understanding of what was covered, but wouldn't mind getting more insight on the topics.
