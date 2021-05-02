@@ -39,3 +39,9 @@ using css class to style, and changing font sizes.
 **Today's Progress**: Not much progress. Learned about using tghe header, footer, adding the nav tag, add audio content, the figure element, and the label element.
 
 **Thoughts:**: Unfortunately I forgot to do my hour of code yesterday, so I will be making it up when I have the time later. I didn't get to be very productive today. Had a long weekend, and it's not even Sunday yet. I do think I have a good understanding of what was covered, but wouldn't mind getting more insight on the topics.
+
+###Day 5: May 2, 2021
+#####
+**Today's Progress**: Today I finished Applied Accessibility course and the Resoponsive Web Design Principles course. I just started the CSS Flexbox course. Topics covered include: fieldset element, accessible date picker, HTML5 time attribute, making elements visible only to screenreader, high contrast text, navigatible links, tabindex, media query, responsive images, typography response, display:flex, flex-direction.
+
+**Thoughts:**: I am happy to move onto CSS Flexbox now, as I know this is one of the most important concepts in web development. I am starting to get the hang of it, but would like to practice it more.
