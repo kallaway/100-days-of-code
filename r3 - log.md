@@ -349,8 +349,16 @@
    
   ##### Link to Reference:
     ()
-
-# Day 44: 2nd May, 2021
+    
+# Day 44: 25th April, 2021
+  ##### Today's progress:
+    Did the rest of Control Flow in C
+  ##### Thoughts:
+   
+  ##### Link to Reference:
+    ()
+    
+# Day 45: 2nd May, 2021
   ##### Today's progress:
     Trying out tiles in sass
   ##### Thoughts:
