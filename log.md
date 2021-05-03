@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 #100DaysOfCode 2nd_rap Day: 001/100  
 I am going to try for 2nd rap from today!  
-I learned Linux command "nslookup"　.  
+I learned Linux command "nslookup".  
 It is used to check the status of DNS server settings. And to check DNS-related setting in DNS clients.  
 To use "nslookup command" , I need to install a package called "dnsutils"  
 
