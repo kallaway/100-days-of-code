@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
+### 100DaysOfCode　2nd_rap Day: 001/100
+I am going to try for 2nd rap from today!
+I learned Linux command "nslookup"　.
+It is used to check the status of DNS server settings. And to check DNS-related setting in DNS clients.
+To use "nslookup command" , I need to install a package called "dnsutils"
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+```bash
+$ sudo apttitude install dnsutils
+```
+```bash
+$ nslookup tatatamaki.com
+Server:		133.***.*.***
+Address:	133.***.0.3#53
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Non-authoritative answer:
+Name:	tatatamaki.com
+Address: 133.***.**.***
+```
