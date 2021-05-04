@@ -45,3 +45,9 @@ using css class to style, and changing font sizes.
 **Today's Progress**: Today I finished Applied Accessibility course and the Resoponsive Web Design Principles course. I just started the CSS Flexbox course. Topics covered include: fieldset element, accessible date picker, HTML5 time attribute, making elements visible only to screenreader, high contrast text, navigatible links, tabindex, media query, responsive images, typography response, display:flex, flex-direction.
 
 **Thoughts:**: I am happy to move onto CSS Flexbox now, as I know this is one of the most important concepts in web development. I am starting to get the hang of it, but would like to practice it more.
+
+###Day 6: May 3, 2021
+#####
+**Today's Progress**: Excellent. Finished both the CSS Flexbox course and CSS Grid course. Topics covered include justify-content, align-items, flex-wrap, flex-shrink, flex-grow, flex-basis, flex shorthand, order property, align-self, creating a grid, grid-template-columns/rows, css grid units, grid gaps, grid-column.row, justify-self, align-self, grid-template-area, grid-area with.without template, repeat function, minmax, auto-fill and auto-fit.
+
+**Thoughts:** While I'm excited to have essentially gone through the learning courses of Responsive Web Design, my next project is making a tribute page using everything I've learned. I'd be lying if I said I wasn't nervous. It definitely is different when you're not being hand-held, but I'm sure this is just what I need. I look forward to working on this trubute page tomorrow!
