@@ -55,3 +55,8 @@ using css class to style, and changing font sizes.
 ###Day 7: May 4, 2021
 #####
 **Today's Progress**: More than an hour for once. Completed Tribute Page to Itsuki Hirata.
+
+**Thoughts:** I really put a lot of work into this trubute page, but dang was it hard. Hardest thing I've done to date. I feel like I could make a freestyle one very well, but adapting to the requirements was tough. It forced me to watch a video on the subject, research example code, and learn a bit about other tags I haven't really memorized yet. Hardest part about this was using my creativity.
+
+**Link(s) to work**
+[Itsuki Hirata](https://codepen.io/jakeg814/pen/JjWPbgz)
