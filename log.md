@@ -51,3 +51,7 @@ using css class to style, and changing font sizes.
 **Today's Progress**: Excellent. Finished both the CSS Flexbox course and CSS Grid course. Topics covered include justify-content, align-items, flex-wrap, flex-shrink, flex-grow, flex-basis, flex shorthand, order property, align-self, creating a grid, grid-template-columns/rows, css grid units, grid gaps, grid-column.row, justify-self, align-self, grid-template-area, grid-area with.without template, repeat function, minmax, auto-fill and auto-fit.
 
 **Thoughts:** While I'm excited to have essentially gone through the learning courses of Responsive Web Design, my next project is making a tribute page using everything I've learned. I'd be lying if I said I wasn't nervous. It definitely is different when you're not being hand-held, but I'm sure this is just what I need. I look forward to working on this trubute page tomorrow!
+
+###Day 7: May 4, 2021
+#####
+**Today's Progress**: More than an hour for once. Completed Tribute Page to Itsuki Hirata.
