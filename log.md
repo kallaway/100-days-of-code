@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 01, 2021
+### Day 0: May 04, 2021
 
 **Today's Progress**: Refreshers on Big O Notation, Cover Arrays, Built Bottom Sheet 
 
