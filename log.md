@@ -54,9 +54,10 @@ using css class to style, and changing font sizes.
 
 ###Day 7: May 4, 2021
 #####
-**Today's Progress**: More than an hour for once. Completed Tribute Page to Itsuki Hirata.
+**Today's Progress**: More than an hour for once. Completed Tribute Page to Itsuki Hirata. Also came back later on free time to complete survey form page.
 
-**Thoughts:** I really put a lot of work into this trubute page, but dang was it hard. Hardest thing I've done to date. I feel like I could make a freestyle one very well, but adapting to the requirements was tough. It forced me to watch a video on the subject, research example code, and learn a bit about other tags I haven't really memorized yet. Hardest part about this was using my creativity.
+**Thoughts:** I really put a lot of work into this trubute page, but dang was it hard. Hardest thing I've done to date. I feel like I could make a freestyle one very well, but adapting to the requirements was tough. It forced me to watch a video on the subject, research example code, and learn a bit about other tags I haven't really memorized yet. Hardest part about this was using my creativity. Also created a survey form page as required of the Responsive Web Design course. Felt good, but a lot of the CSS I still don't see why need to be where they are. Also, had an issue getting a paragraph tag to show up above the radio buttons. Will come back to it later.
 
 **Link(s) to work**
 [Itsuki Hirata](https://codepen.io/jakeg814/pen/JjWPbgz)
+[Da Klub Survey Form](https://codepen.io/jakeg814/pen/xxqKzRY)
