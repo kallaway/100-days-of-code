@@ -17,7 +17,6 @@ Non-authoritative answer:
 Name:	tatatamaki.com
 Address: 133.***.**.***
 ```
-
 #100DaysOfCode 2nd_rap Day: 002/100
 I have created an MyMyCertificate.
 I make three files.
@@ -36,17 +35,46 @@ Why?? MyMyCertificate !!
 Life and programming don't always work out according to the manual...Aww
 I will try again tomorrow !!
 
- 
+#100DaysOfCode 2nd_rap Day: 003/100
+I try At Coder from today.
+I learned the "gets method", the "split method".
+The "gets method" is a method to get the value entered by the keyboard from the terminal as a string.
+The "split method" splits the string with the specified delimiter and returns it as an array.
+Code to determine whether a number is even or odd.
+It is passed as a, b in the standard input(STDIN).
+
+a, b = gets.split(' ')
+ax = a.to_i
+by = b.to_i
+c = ax * by
+
+if c.even?
+    puts "Even"
+else
+    puts "Odd"
+end
 
 
 
 
 
-私はオレオレ証明書を作成しました。
-必要な3つのファイルを作成する。
 
-１）秘密鍵 (Private Key)：server.key
 
-２）証明書署名要求 (CSR)：server.csr
 
-３）サーバ証明書(CRT)：server.crt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
