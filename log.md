@@ -60,5 +60,4 @@ using css class to style, and changing font sizes.
 
 **Link(s) to work**
 [Itsuki Hirata](https://codepen.io/jakeg814/pen/JjWPbgz),
-
 [Da Klub Survey Form](https://codepen.io/jakeg814/pen/xxqKzRY)
