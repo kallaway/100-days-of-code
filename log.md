@@ -62,3 +62,12 @@ Edit** Finally found out the issue. Was missing a closing tag > on one of the op
 **Link(s) to work**
 [Itsuki Hirata](https://codepen.io/jakeg814/pen/JjWPbgz),
 [Da Klub Survey Form](https://codepen.io/jakeg814/pen/xxqKzRY)
+
+###Day 8: May 5, 2021
+#####
+**Today's Progress**: Finished the Product Landing Page, but it still needs more polish. 
+
+**Thoughts:** I got my product landing page to hit every requirement, but it still doesn't look the way I want it. The nav bar doesn't go all the way across the screen horizontally, as well as some other things. Will definitely work on it more later today after I finish my last exam.
+
+**Link(s) to work**
+[Itasha Product Landing Page](https://codepen.io/jakeg814/pen/LYWPJvO)
