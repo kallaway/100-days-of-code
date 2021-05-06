@@ -12,3 +12,17 @@
 
 **Link to Resources:** 
 [Big O Notation Logarithmic] (https://jarednielsen.com/big-o-logarithmic-time-complexity)
+
+
+### Day 1: May 05, 2021
+
+**Today's Progress**: Went through Leetcode Arrays Search
+
+**Thoughts:** I got my bottomsheet issue resolved and working to implement date time picker for one of the diaper activity option. Also Array seems straightforward.
+
+**Link to Work:** 
+[Lazy Dad](https://github.com/GrayMatterLab/LazyDad)
+[Daily Challenge](https://github.com/GrayMatterLab/100-days-of-code/Days)
+
+**Link to Resources:** 
+[Leetcode] (https://leetcode.com)
