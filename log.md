@@ -54,7 +54,17 @@ else
     puts "Odd"
 end
 
+#100DaysOfCode 2nd_rap Day: 004/100
+I try AtCoder.
+https://atcoder.jp/contests/abs/tasks/abc081_a
+It was supposed to be the easiest problem, but it was too hard.
+But I cleard it.
+The key is to write a one-line map(block)sentence.
 
+arry = gets.chars
+total = arry.map { |n| n.to_i }
+
+p total.count(1)
 
 
 
