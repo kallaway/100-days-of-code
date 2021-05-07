@@ -34,25 +34,25 @@ using css class to style, and changing font sizes.
 
 **Thoughts:**Even with so much homework due tomorrow, I managed to get through the hour of code today. I learned alot about animation, and felt like the beginning of the applied accessibility course is a nice refresher to basic HTML formatting that will come in handy.
 
-###Day 4: May 1, 2021
+###Day 5: May 1, 2021
 #####
 **Today's Progress**: Not much progress. Learned about using tghe header, footer, adding the nav tag, add audio content, the figure element, and the label element.
 
 **Thoughts:**: Unfortunately I forgot to do my hour of code yesterday, so I will be making it up when I have the time later. I didn't get to be very productive today. Had a long weekend, and it's not even Sunday yet. I do think I have a good understanding of what was covered, but wouldn't mind getting more insight on the topics.
 
-###Day 5: May 2, 2021
+###Day 6: May 2, 2021
 #####
 **Today's Progress**: Today I finished Applied Accessibility course and the Resoponsive Web Design Principles course. I just started the CSS Flexbox course. Topics covered include: fieldset element, accessible date picker, HTML5 time attribute, making elements visible only to screenreader, high contrast text, navigatible links, tabindex, media query, responsive images, typography response, display:flex, flex-direction.
 
 **Thoughts:**: I am happy to move onto CSS Flexbox now, as I know this is one of the most important concepts in web development. I am starting to get the hang of it, but would like to practice it more.
 
-###Day 6: May 3, 2021
+###Day 7: May 3, 2021
 #####
 **Today's Progress**: Excellent. Finished both the CSS Flexbox course and CSS Grid course. Topics covered include justify-content, align-items, flex-wrap, flex-shrink, flex-grow, flex-basis, flex shorthand, order property, align-self, creating a grid, grid-template-columns/rows, css grid units, grid gaps, grid-column.row, justify-self, align-self, grid-template-area, grid-area with.without template, repeat function, minmax, auto-fill and auto-fit.
 
 **Thoughts:** While I'm excited to have essentially gone through the learning courses of Responsive Web Design, my next project is making a tribute page using everything I've learned. I'd be lying if I said I wasn't nervous. It definitely is different when you're not being hand-held, but I'm sure this is just what I need. I look forward to working on this trubute page tomorrow!
 
-###Day 7: May 4, 2021
+###Day 8: May 4, 2021
 #####
 **Today's Progress**: More than an hour for once. Completed Tribute Page to Itsuki Hirata. Also came back later on free time to complete survey form page.
 
@@ -63,7 +63,7 @@ Edit** Finally found out the issue. Was missing a closing tag > on one of the op
 [Itsuki Hirata](https://codepen.io/jakeg814/pen/JjWPbgz),
 [Da Klub Survey Form](https://codepen.io/jakeg814/pen/xxqKzRY)
 
-###Day 8: May 5, 2021
+###Day 9: May 5, 2021
 #####
 **Today's Progress**: Finished the Product Landing Page, but it still needs more polish. Edit* Also ended up starting the technical documentation page.
 
@@ -72,4 +72,13 @@ Edit* I also ended up starting the Technical Documentation page and going way ov
 
 **Link(s) to work**
 [Itasha Product Landing Page](https://codepen.io/jakeg814/pen/LYWPJvO)
+[Technical Documentation Page](https://codepen.io/jakeg814/pen/vYxYmbM)
+
+###Day 10: May 6, 2021
+#####
+**Today's Progress**: Completed 14 of the 16 user tests required of the Technical Doc Page by the Responsive Web Design course.
+
+**Thoughts:** I certainly could not get a full hour of code in. Got about 40 minutes in. Too tired. Felt very good with my work though. Completed most of the required tests for the doc. Just need to pretty it up in CSS and make it user friendly. Didn't have to follow along to any video, or cheat and look at the template. Only looked at how to use certain tags, and different methods for making things on w3schools. The HTML seems to be the easy part, but manipulating it with CSS appears to be the real challenge. I will see if I get to that tomorrow.
+
+**Link(s) to work**
 [Technical Documentation Page](https://codepen.io/jakeg814/pen/vYxYmbM)
