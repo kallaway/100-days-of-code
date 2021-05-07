@@ -65,9 +65,11 @@ Edit** Finally found out the issue. Was missing a closing tag > on one of the op
 
 ###Day 8: May 5, 2021
 #####
-**Today's Progress**: Finished the Product Landing Page, but it still needs more polish. 
+**Today's Progress**: Finished the Product Landing Page, but it still needs more polish. Edit* Also ended up starting the technical documentation page.
 
 **Thoughts:** I got my product landing page to hit every requirement, but it still doesn't look the way I want it. The nav bar doesn't go all the way across the screen horizontally, as well as some other things. Will definitely work on it more later today after I finish my last exam.
+Edit* I also ended up starting the Technical Documentation page and going way over time, since I was feeling myself. Doesn't seem very difficult, but does seem very structured and specific in what it wants, which almost limits the freedom I have in making this tech page my own. Either way, I am seeing my progress for sure.
 
 **Link(s) to work**
 [Itasha Product Landing Page](https://codepen.io/jakeg814/pen/LYWPJvO)
+[Technical Documentation Page](https://codepen.io/jakeg814/pen/vYxYmbM)
