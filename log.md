@@ -67,8 +67,17 @@ total = arry.map { |n| n.to_i }
 p total.count(1)
 
 
+#100DaysOfCode 2nd_rap Day: 005/100
+I read about recursive functions today.
+https://qiita.com/drken/items/23a4f604fa3f505dd5ad#fn1
+This is a broad concept. As long as it calls itself, it is recursive.
 
-
+def sum(arry)
+    return 0 if arr.empty?
+    top = arry.shift
+    top + sum(arry)
+end
+p sum([1,2,3,4,5]) #=> 15
 
 
 
