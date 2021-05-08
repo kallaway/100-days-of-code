@@ -54,17 +54,44 @@ else
     puts "Odd"
 end
 
+#100DaysOfCode 2nd_rap Day: 004/100
+I try AtCoder.
+https://atcoder.jp/contests/abs/tasks/abc081_a
+It was supposed to be the easiest problem, but it was too hard.
+But I cleard it.
+The key is to write a one-line map(block)sentence.
 
+arry = gets.chars
+total = arry.map { |n| n.to_i }
 
+p total.count(1)
 
+#100DaysOfCode 2nd_rap Day: 005/100
+I read about recursive functions today.
+https://qiita.com/drken/items/23a4f604fa3f505dd5ad#fn1
+This is a broad concept. As long as it calls itself, it is recursive.
 
+def sum(arry)
+    return 0 if arr.empty?
+    top = arry.shift
+    top + sum(arry)
+end
+p sum([1,2,3,4,5]) #=> 15
 
+#100DaysOfCode 2nd_rap Day: 006/100
 
+I learned Proc Object.
+I want to use block as objects.
+So, Proc is an object of the Block.
+Add a parameter with & to the end of the temporary argument of a method definition.
+# hoge → Proc Object, &hoge → block
 
+def foo_method(&hoge)
+p hoge.call
+end
 
-
-
-
+foo_method { "test" }
+=> "test"
 
 
 
