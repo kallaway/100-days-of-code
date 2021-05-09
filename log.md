@@ -92,3 +92,13 @@ Edit* I also ended up starting the Technical Documentation page and going way ov
 **Link(s) to work**
 [Technical Documentation Page](https://codepen.io/jakeg814/pen/vYxYmbM)
 [Personal Portfolio Project](https://codepen.io/jakeg814/pen/ZEeGOwr)
+
+###Day 12: May 9, 2021
+#####
+**Today's Progress**: Lazily completed portfolio project requirements. Started HTML5 website with responsive design by Traversy Media. Began using Git to push code to Github.
+
+**Thoughts:** I sort of lazily breezed through the portfolio project just to be able to start on bigger things, like other projects I need more help on. I will start watching Traversy media to learn harder CSS concepts like Flex, grid, etc. Also, I began using Git to push code and feel very comfortable with it.
+
+**Link(s) to work**
+[Personal Portfolio Project](https://codepen.io/jakeg814/pen/ZEeGOwr)
+[Responsive Layout Website](https://github.com/jakeg814/Responsive-Layout-Website)
