@@ -85,9 +85,10 @@ Edit* I also ended up starting the Technical Documentation page and going way ov
 
 ###Day 11: May 8, 2021
 #####
-**Today's Progress**: Completed Technical Documentation Page
+**Today's Progress**: Completed Technical Documentation Page. Started Personal Portfolio Project, passing 7 of 12 required tests.
 
-**Thoughts:** I really don't want to work today, but I already missed yesterday so I have to get this done.
+**Thoughts:** I really don't want to work today, but I already missed yesterday so I have to get this done. I finished the technical doc quickly by simply following the CSS from the preset to speed things up. The HTML is pretty easy at this point. Also, I started the Portfolio and have much of the HTML done on that as well. I have a feeling the CSS is going to be killer hard on this. I think I will be using CSS grid and flex, so that should speak for itself. Oh well, more work for tomorrow!
 
 **Link(s) to work**
 [Technical Documentation Page](https://codepen.io/jakeg814/pen/vYxYmbM)
+[Personal Portfolio Project](https://codepen.io/jakeg814/pen/ZEeGOwr)
