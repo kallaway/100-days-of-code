@@ -20,7 +20,8 @@
   - [Day 50](#day-50)
   - [Day 51](#day-51)
   - [Day 52](#day-52)
-  - [Day 53 - Latest entry](#day-53)
+  - [Day 53 -](#day-53)
+  - [Day 54 - Latest entry](#day-54)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -886,12 +887,26 @@ I resumed my Web Developer Bootcamp course on Udemy. I rewatched the video expla
 
 Completed Section 21. Saw how to define methods for objects and learned a little about how the keyword ``this`` is used in JavaScript. Also saw an introduction of using try/catch blocks on JS as well.
 
-### Interesting links 53
+## Interesting links 53
 
 -[Interesting advice for productivity](https://youtu.be/aehoGGCHkyw)
 
 **Pomodoro count**
 :tomato:
+
+### Day 54
+**Round 2 Day 54, May 9th, 2021**
+## Contents 54
+- [What I did today](#what-i-did-today-54)
+- [Interesting links](#interesting-links-54)
+
+## What I did today 54
+
+I have been practicing like crazy these past days. Trying to come up with a better design for the guessing game, some days it feels like I'm not making any progress in any direction, but then I find out that whatever it is that I'm doing rarely feels like I'm making progress in anything in particular, yet I am progressing. Guess that this is what they mean when they say that one has to enjoy the process.
+
+## Interesting links 54
+
+- [I believe I might have posted this a while back, but I'm unsure. It is a cool trick for creating a transparent overlay on top of your images] (https://css-tricks.com/design-considerations-text-images/)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
