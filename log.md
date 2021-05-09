@@ -85,7 +85,7 @@ Edit* I also ended up starting the Technical Documentation page and going way ov
 
 ###Day 11: May 8, 2021
 #####
-**Today's Progress**:
+**Today's Progress**: Completed Technical Documentation Page
 
 **Thoughts:** I really don't want to work today, but I already missed yesterday so I have to get this done.
 
