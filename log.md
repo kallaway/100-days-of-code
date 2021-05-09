@@ -82,3 +82,12 @@ Edit* I also ended up starting the Technical Documentation page and going way ov
 
 **Link(s) to work**
 [Technical Documentation Page](https://codepen.io/jakeg814/pen/vYxYmbM)
+
+###Day 11: May 8, 2021
+#####
+**Today's Progress**:
+
+**Thoughts:** I really don't want to work today, but I already missed yesterday so I have to get this done.
+
+**Link(s) to work**
+[Technical Documentation Page](https://codepen.io/jakeg814/pen/vYxYmbM)
