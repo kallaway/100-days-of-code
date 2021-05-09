@@ -84,7 +84,7 @@ I learned Proc Object.
 I want to use block as objects.
 So, Proc is an object of the Block.
 Add a parameter with & to the end of the temporary argument of a method definition.
-# hoge → Proc Object, &hoge → block
+hoge → Proc Object, &hoge → block
 
 def foo_method(&hoge)
 p hoge.call
@@ -93,8 +93,15 @@ end
 foo_method { "test" }
 => "test"
 
+#100DaysOfCode 2nd_rap Day: 007/100
+I review for_syntax.
+The process is repeated.
+And, extract the elements from the array one by one and display them respectively. 
 
-
+names = ['jhon', 'paul', 'george', 'ringo']
+for name in names
+puts name
+end
 
 
 
