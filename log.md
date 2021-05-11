@@ -125,11 +125,18 @@ result = arry.map do |i|
 end
 puts result.min
 
+#100DaysOfCode 2nd_rap Day: 009/100
+Let's review "Hash" today !
+What is "Hash" ?
+An object of the Hash class that manages multiple data with a set of key/value combinations.
+Can change the value by specifying a key.
+Usse symbols, not strings, for hash keys!
+But, I love Keith Richards better than Hash key !!
 
-
-
-
-
+TheRollingStones = { Mick: "vacal", keith: "guitar", Ron: "guitar", Charlie: "Drums" }
+    TheRollingStones.each do | name, part |
+    puts "#{name} plays #{part}"
+end
 
 
 
