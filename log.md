@@ -1,20 +1,33 @@
 # 100 Days Of Code - Log
 
-### Day 0: 8 januari, 2020
+### Day 0: 11 May, 2021
 
-**Today's Progress**: understanding the whole thing about 100 days chalange and preparaing what to do next
+**Today's Progress**: completing dicoding challenge and wait for submission review
 
-**Thoughts:** nothing really, but kinda found some enlightment and i hope i can do this consistently
+**Thoughts:** i know its kind of lame to realize i am doing 100 days challenge over and over again while alway stop in the day 2. so i hope i can finish my goal again this year.
 
-**Link to work:** i dont have anything, but maybe i will trying to make a web from scratch by using github.io platform
+**Link to work:** Dicoding certificate pemrograman dasar web --> https://www.dicoding.com/academies/123/certificates/416403 
 
-### Day 1: 9 januari, 2020
+### Day 1: 12 May, 2021
 
-**Today's Progress**: starting to write the html yet want to design how website look. try to use "john green" web profile
+**Today's Progress**: 
 
 **Thoughts**: 
-  1. so minimal effort that i have done today, time so much wasted on last night event that should be held make me so much less productive. even if i know this is a shitty reason.
-  2. struggling in css method to modify the look of the website to look same as the model. 
 
-**Link(s) to work**: the model --> http://www.johngreenbooks.com/
+**Link(s) to work**: 
 
+### Day 2: 13 May, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 3: 14 May, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
