@@ -84,7 +84,7 @@ I learned Proc Object.
 I want to use block as objects.
 So, Proc is an object of the Block.
 Add a parameter with & to the end of the temporary argument of a method definition.
-# hoge → Proc Object, &hoge → block
+hoge → Proc Object, &hoge → block
 
 def foo_method(&hoge)
 p hoge.call
@@ -93,15 +93,50 @@ end
 foo_method { "test" }
 => "test"
 
+#100DaysOfCode 2nd_rap Day: 007/100
+I review for_syntax.
+The process is repeated.
+And, extract the elements from the array one by one and display them respectively. 
 
+names = ['jhon', 'paul', 'george', 'ringo']
+for name in names
+puts name
+end
 
+#100DaysOfCode 2nd_rap Day: 008/100
+I tried AtCoder. (ABC081B - Shift only)
+I use "while sentence".
+When the condition (if % 2 == 0) is met, assign the number divided by 2 to the variable i, and perform loop processing.
+And, when the boolean is true, count is increased by 1.
+When the boolean is false, it is out of the block.
+Count will be assigned to the result variable as the return value.
+Finally, in "result.min", output the smallest number among the return values.
 
+n = gets.chomp.to_i
+arry = gets.chomp.split(" ").map(&:to_i)
 
+result = arry.map do |i|
+    count = 0
+    while i % 2 == 0 do
+        i = i /2
+        count += 1
+    end
+    count
+end
+puts result.min
 
+#100DaysOfCode 2nd_rap Day: 009/100
+Let's review "Hash" today !
+What is "Hash" ?
+An object of the Hash class that manages multiple data with a set of key/value combinations.
+Can change the value by specifying a key.
+Usse symbols, not strings, for hash keys!
+But, I love Keith Richards better than Hash key !!
 
-
-
-
+TheRollingStones = { Mick: "vacal", keith: "guitar", Ron: "guitar", Charlie: "Drums" }
+    TheRollingStones.each do | name, part |
+    puts "#{name} plays #{part}"
+end
 
 
 
