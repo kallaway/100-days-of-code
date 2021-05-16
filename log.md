@@ -14,7 +14,7 @@
 
 **Thoughts**: now another goal is to try making some clone with some technology or rather practice more on my fundamental js. while in my case here my skripsi should also have some time to spend on since may is going to be over soon. and my target is next month i can have my seminar proposal of skripsi. working on dicoding course " Belajar Membuat Front-End Web untuk Pemula" will mostly learning about JS DOM-BOM, event, and web-storage(local&session storage). i hope i can finish the theory in the next couple of days.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://www.dicoding.com/academies/315/tutorials/16914
 
 ### Day 2: 13 May, 2021
 
