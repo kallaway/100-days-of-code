@@ -138,5 +138,115 @@ TheRollingStones = { Mick: "vacal", keith: "guitar", Ron: "guitar", Charlie: "Dr
     puts "#{name} plays #{part}"
 end
 
+#100DaysOfCode 2nd_rap Day: 010/100
+Self-assignment operator using || in Ruby.
+a ||= 10 will return 10 if the variable a does not exist (nil or false).
+a = nil or false
+a ||= 10
+=> 10
+
+But、if the variable contains a value, assign it to a and use it as the return value.
+a = 20
+a ||= 10
+=> 20
+
+#100DaysOfCode 2nd_rap Day: 011/100
+I create sql table.
+The basics of the SELECT statement.
+
+CREATE TABLE table_name
+(
+column_name data_type constraints,
+shohin_mei CHAR(4) NOT NULL
+);
+
+The columns of the got table can be output.
+SELECT get_column_name, get_column_name,,,,
+FROM table_name;
+
+And, if you specify a condition, it will retrieve the data that meets the condition.
+SELECT shohin_mei, shohin_bunrui
+FROM shohin
+WHERE shohin b_bunrui = 'foo';
+
+#100DaysOfCode 2nd_rap Day: 012/100
+I tried AtCoder. (A - Century)
+This question's point is Algorithm and .floor method.
+
+n = gets.chomp.to_i
+x = (n + 99) / 100
+puts x.floor
+
+When I was solving this problem, I thought again today. 
+I'm not very good at thinking of algorithms.
+It's fatal, but I have to do a lot of work and get used to the patterns.
+
+I remember famous Japanese comedians saying, "Other people's children and bitter melons grow up fast."
+Others are strangers. Don't worry about it!
+Is it possible for adults to improve their academic skills in a subject they are not good at? It's an experiment with my own body!
+I will do my best!!
+
+#100DaysOfCode 2nd_rap Day: 013/100
+I tried AtCoder. (A - Square Inequality )
+No particular point.
+It's a redundant code, but I did it without looking anything up just to make it work.
+
+arry = gets.split(" ").map { |n| (n.to_i) **2 }
+
+if arry[0] + arry[1] < arry[2]
+puts "Yes"
+else
+puts "No"
+end
+
+#100DaysOfCode 2nd_rap Day: 014/100
+I tried AtCoder. (A. Div)
+Today's problem was not specifically related to ruby.
+Just read the question text and answer.
+Literacy is important.
+
+n = gets.chomp.to_i
+puts n-1
+
+#100DaysOfCode 2nd_rap Day: 015/100
+I tried AtCoder.(A. Rotate)
+
+This sentence will cause an error.
+arry = gets.split('')
+s = arry.rotate
+puts s.join('')
+
+It was cause O.k.2
+s = gets
+puts s[1]+s[2]+s[0]
+
+W~h~y~ AtCoder~?? said.(In the style of Atsugiri_Jason.)
+I don't have a choice. I'll settle for this.
+
+#100DaysOfCode 2nd_rap Day: 016/100
+I tried AtCoder.(A - Difference Max)
+
+I wrote first code. But, this code is error.
+ab = gets.split(' ')
+front_part = ab.max.to_i
+cd = gets.split(' ')
+back_part = cd.min.to_i
+puts front_part - back_part
+
+It is next code. But, this code is error. 
+ab = gets.split(' ').max.to_i
+cd = gets.split(' ').min.to_i
+puts ab - cd
+
+Third time's a charm !!
+Success!!!
+a, b = gets.split.map(&:to_i)
+c, d = gets.split.map(&:to_i)
+puts [a, b].max - [c, d].min
+
+
+
+
+
 
 
