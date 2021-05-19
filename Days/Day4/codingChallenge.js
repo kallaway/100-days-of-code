@@ -30,3 +30,28 @@ var getMaxOccuringChar = function(str) {
 
 //check this and ensure time and space complexity is optimal
 
+/*
+2) How to remove all duplicates from a given string? (solution)
+Write a program to remove all the duplicate characters from a given input String, like, if the given String is "Java" then the output should be "Java". The second or further occurrence of duplicates should be removed.
+
+Read more: https://www.java67.com/2018/04/21-string-programming-and-coding-interview-questions-answers.html#ixzz6urnH7JuY
+*/
+
+var removeDuplicateLetters = function(s) {
+    s = s.split('')
+    console.log(s)
+    for(var i = 0; i < s.length; i++){
+        for(var j = 1; j < s.length; j++){
+            if(s[i] === s[j]){
+                console.log(`${s[i]} && ${s[j]}`)
+                s.splice(i, 1);
+                
+                // break;
+            }
+        }
+    }
+    return s;
+};
+
+s = 'bcabc'
+console.log(removeDuplicateLetters(s))
