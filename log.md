@@ -65,3 +65,16 @@
 
 **Link to Resources:** 
 [Leetcode] (https://leetcode.com)
+
+### Day 5: May 20, 2021
+
+**Today's Progress**: Practiced String Parsing Interview Questions
+
+**Thoughts:** : Need more practicing
+
+**Link to Work:** 
+[Lazy Dad](https://github.com/GrayMatterLab/LazyDad)
+[Daily Challenge](https://github.com/GrayMatterLab/100-days-of-code/Days)
+
+**Link to Resources:** 
+[Leetcode] (https://leetcode.com)
