@@ -1,29 +1,22 @@
-/* Find Numbers with Even Number of Digits */
-var findNumbers = function(nums) {
-    var counter = 0;
-    for(var i = 0; i < nums.length; i++){
-        var eachElementLength = `${nums[i]}`.split('').length
-        if(eachElementElement % 2 === 0){
-            counter++;
+/* Find Duplicate Zeros */
+var duplicateZeros = function(arr) {
+    for(var i = 0; i < arr.length; i++){
+        if(arr[i] === 0){
+            arr.splice(i+1, 0, '0')
+            arr.pop();
         }
     }
-    return counter;
 };
 
-nums = [555,901,482,1771];
-console.log(findNumbers(nums));
+var arr = [1,0,2,3,0,4,5,0]
+console.log(duplicateZeros(arr))
 
-/* Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order. */
-var sortedSquares = function(nums) {
-    var cache = []
-    for(var i = 0; i < nums.length; i++){
-        cache.push(nums[i]*nums[i])
+/* Merge Sorted Array */
+var merge = function(nums1, m, nums2, n) {
+    for (var i = 0; i < n; i++) {
+            nums1[i + m] = nums2[i];
     }
-    cache.sort(function(a, b) {
+    nums1.sort(function(a, b) {
         return a - b;
     });
-    return cache;
 };
-
-nums = [-7,-3,2,3,11];
-console.log(sortedSquares(nums))
