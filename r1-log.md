@@ -32,3 +32,18 @@ Solution: Java Program to implement stack using two Queues
 ###R1D3  may 28,2021
 
 Question 4 : Implement Queue using Array in java
+
+###R1D4  may 29,2021
+
+Linked List
+Question 5: Implement singly Linked List in java
+
+You need to implement singly linked list data structures. Write a simple program to demonstrate insert, delete operations.
+
+Solution: Java program to implement singly linked list in java.
+Question 6 : How to reverse Linked List in java.
+You need to write an iterative and recursive solution to reverse Linked List.
+Solution: Java program to reverse Linked List in java.
+Question 7 : How to find middle element of Linked List.
+You need to write a java program to find middle element of Linked List in most optimize way.
+Solution: Java program to find middle element of Linked List.
