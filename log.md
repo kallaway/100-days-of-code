@@ -34,3 +34,14 @@ Solution: Java program to reverse Linked List in java.
 Question 7 : How to find middle element of Linked List.
 You need to write a java program to find middle element of Linked List in most optimize way.
 Solution: Java program to find middle element of Linked List.
+
+###day 4: may 30 ,2021
+
+Linked List
+Question 8: How to detect a loop in Linked List. If Linked List has loop, find the start node for the loop.
+
+Question 9 : Find intersection of two linked lists?
+
+Question 10:  Write java Program to Find Smallest and Largest Element in an Array..
+
+Question 11: Find the missing number in the array.
