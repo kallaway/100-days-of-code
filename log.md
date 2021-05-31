@@ -45,3 +45,10 @@ Question 9 : Find intersection of two linked lists?
 Question 10:  Write java Program to Find Smallest and Largest Element in an Array..
 
 Question 11: Find the missing number in the array.
+
+###day 5: may 31 ,2021
+
+question 12; binary search 
+question 13: find element in sorted rotated array in logn.
+
+
