@@ -413,3 +413,64 @@ I had to start from problem A again.
 
 a = gets.to_s.split.map{ |e| e.to_i }
 puts a.min 
+
+#100DaysOfCode 2nd_rap Day: 029/100
+Today, I studied about "Shinara".
+"Sinatra" is Web Application Framework.
+"Sinatra" is very hard. But, I keep is going!!
+Because, "That's life ♪"
+And,
+I'm trying with the A problem challenge.
+(A - Determinant)
+
+a, b = gets.to_s.split.map{ |e| e.to_i }
+c, d = gets.to_s.split.map{ |e| e.to_i }
+puts result = a * d - b * c
+
+#100DaysOfCode 2nd_rap Day: 030/100
+Today, I studied JSON.
+It is adopted a lightweight data representation format.
+It is characterized by its ability to describe data structures that are easy to handle from programming languages, such as hashes and arrays.
+Here are a few of the objects.
+A set of names and values. A name/value pair is called a "memba" of an object.
+It has four "membas" : name, nickname, age, and position.
+
+{
+"name" : {
+"first": "shohei",
+"last": "otani"
+},
+"nickname": "ooootanisaaan",
+"age": 26,
+"position": ["picher", "batter", "runner"]
+}
+
+#100DaysOfCode 2nd_rap Day: 031/100
+I tried AtCoder.(B - Do you know the second highest mountain?)
+B problem is difficult. I googled it.
+I've turned to the sort_by method.
+https://docs.ruby-lang.org/ja/latest/method/Enumerable/i/sort_by.html
+
+n = gets.to_i
+name_height = Array.new(n){gets.split}
+puts name_height.sort_by{_2.to_i}[-2][0]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
