@@ -51,4 +51,7 @@ Question 11: Find the missing number in the array.
 question 12; binary search 
 question 13: find element in sorted rotated array in logn.
 
+###day 6: jun 1 ,2021
+
+
 

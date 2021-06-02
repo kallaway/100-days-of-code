@@ -64,3 +64,8 @@ Question 11: Find the missing number in the array.
 
 question 12; binary search 
 question 13: find element in sorted rotated array in logn.
+
+###R1D7:: jun 1 ,2021
+Question 14: Find second largest number in an array
+Question 15 : Find the number occurring an odd number of times in an array
+Question 16 : Find the minimum number of platforms required for railway station
