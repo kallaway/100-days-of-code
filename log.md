@@ -455,6 +455,20 @@ n = gets.to_i
 name_height = Array.new(n){gets.split}
 puts name_height.sort_by{_2.to_i}[-2][0]
 
+#100DaysOfCode 2nd_rap Day: 032/100
+I tried AtCoder.(B - 200th ABC-200)
+The point of today's problem is to use times_method.
+And it's about using logic (n % 200 == 0).
+
+n, k = gets.split.map(&:to_i)
+k.times do |i|
+if n % 200 == 0
+n /= 200
+else
+n = n*1000 + 200
+end
+end
+puts n
 
 
 
