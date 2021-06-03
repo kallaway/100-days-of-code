@@ -52,6 +52,20 @@ question 12; binary search
 question 13: find element in sorted rotated array in logn.
 
 ###day 6: jun 1 ,2021
+Question 14: Find second largest number in an array
+Question 15 : Find the number occurring an odd number of times in an array
+Question 16 : Find the minimum number of platforms required for railway station
+
+###day 7: jun 3 ,2021
+Question 17 : Find a Pair Whose Sum is Closest to zero in Array
+Question 18 : Given a sorted array and a number x, find the pair in array whose sum is closest to x
+
+Question 19 : Find all pairs of elements from an array whose sum is equal to given number
+
+Question 20: Given an array of 0’s and 1’s in random order, you need to separate 0’s and 1’s in an array.
+For example:
+
+
 
 
 
