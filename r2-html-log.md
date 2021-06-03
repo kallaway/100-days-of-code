@@ -19,7 +19,11 @@
   - [Day 49](#day-49)
   - [Day 50](#day-50)
   - [Day 51](#day-51)
-  - [Day 52 - Latest entry](#day-52)
+  - [Day 52](#day-52)
+  - [Day 53 -](#day-53)
+  - [Day 54](#day-54)
+  - [Day 55](#day-55)
+  - [Day 56 - Latest entry](#day-56)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -781,6 +785,7 @@ I did so much stuff today that I don't even feel like listing them.
 - [Shake CSS snippet for CSS-Tricks](https://codepen.io/sdras/pen/aOgMON)
 - [Floating CSS Animation Code Pen](https://codepen.io/MarioDesigns/pen/woJgeo)
 
+**Pomodoro Count**
 :tomato: :tomato: :tomato:
 
 ### Day 47
@@ -860,13 +865,10 @@ Today I turned the list items with the instructions text, into a collapsible lis
 **Round 2 Day 51, April 20th, 2021**
 ## Contents 51
 - [What I did today](#what-i-did-today-51)
-- [Interesting links](#interesting-links-52)
 
-## What I did today 51
+### What I did today 51
 
 I was trying to make an accordion effect for the instructions by using a unordered list element and animations, but I didn't want to use JavaScript to create the effect and I was trying to do it using CSS only. I managed to create something that looked relatively decent, but then found out that collapsible elements are incorporated into HTML directly with the ``details`` and ``summary`` elements.
-
-## Interesting links 52
 
 ### Day 52
 **Round 2 Day 52, April 25th, 2021**
@@ -876,6 +878,61 @@ I was trying to make an accordion effect for the instructions by using a unorder
 ## What I did today 52
 
 I resumed my Web Developer Bootcamp course on Udemy. I rewatched the video explaining *Returning Functions* and then watched the video about *Defining Methods* on Section 21. I'm also seriously pondering about starting up with [p1xt-guides](https://github.com/P1xt/p1xt-guides) on GitHub since I have been meaning too for quite some time.
+
+### Day 53
+**Round 2 Day 53, April 28th, 2021**
+## Contents 53
+- [What I did today](#what-i-did-today-53)
+- [Interesting links](#interesting-links-53)
+
+## What I did today 53
+
+Completed Section 21. Saw how to define methods for objects and learned a little about how the keyword ``this`` is used in JavaScript. Also saw an introduction of using try/catch blocks on JS as well.
+
+## Interesting links 53
+
+-[Interesting advice for productivity](https://youtu.be/aehoGGCHkyw)
+
+**Pomodoro count**
+:tomato:
+
+### Day 54
+**Round 2 Day 54, May 9th, 2021**
+## Contents 54
+- [What I did today](#what-i-did-today-54)
+- [Interesting links](#interesting-links-54)
+
+## What I did today 54
+
+I have been practicing like crazy these past days. Trying to come up with a better design for the guessing game, some days it feels like I'm not making any progress in any direction, but then I find out that whatever it is that I'm doing rarely feels like I'm making progress in anything in particular, yet I am progressing. Guess that this is what they mean when they say that one has to enjoy the process.
+
+## Interesting links 54
+
+- [I believe I might have posted this a while back, but I'm unsure. It is a cool trick for creating a transparent overlay on top of your images] (https://css-tricks.com/design-considerations-text-images/)
+
+### Day 55
+**Round 2 Day 55, May 14th, 2021**
+## Contents 55
+- [What I did today](#what-i-did-today-55)
+- [Interesting links](#interesting-links-55)
+
+## What I did today 55
+
+I have been learning how to style the :focus, :hover:, and :active states of elements and why they should be styled different.
+
+## Interesting links 55
+
+- [A more indepth explanation of why style :hover, :focus, and :active states differently](https://zellwk.com/blog/style-hover-focus-active-states/) 
+- [Some cool looking effects for borders](https://dev.to/mike37/10-css-border-animation-example-4jjf)
+
+### Day 56
+**Round 2 Day 56, Jun 6th, 2021**
+## Contents 56
+- [What I did today](#what-i-did-today-56)
+
+## What I did today 55
+
+It's hard to define what I have been up to since my last entry, but the truth is that I have not stopped doing stuff. I have been working on fixing the appearance of a simple game I've been working on, practicing with CSS a lot, and also started advancing The Web Developer Bootcamp again, I'm currently about to finish with Lesson 22 which is an intro to Callbacks and Array methods, in it I also saw an introduction to Arrow Functions
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
