@@ -21,7 +21,9 @@
   - [Day 51](#day-51)
   - [Day 52](#day-52)
   - [Day 53 -](#day-53)
-  - [Day 54 - Latest entry](#day-54)
+  - [Day 54](#day-54)
+  - [Day 55](#day-55)
+  - [Day 56 - Latest entry](#day-56)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -907,6 +909,30 @@ I have been practicing like crazy these past days. Trying to come up with a bett
 ## Interesting links 54
 
 - [I believe I might have posted this a while back, but I'm unsure. It is a cool trick for creating a transparent overlay on top of your images] (https://css-tricks.com/design-considerations-text-images/)
+
+### Day 55
+**Round 2 Day 55, May 14th, 2021**
+## Contents 55
+- [What I did today](#what-i-did-today-55)
+- [Interesting links](#interesting-links-55)
+
+## What I did today 55
+
+I have been learning how to style the :focus, :hover:, and :active states of elements and why they should be styled different.
+
+## Interesting links 55
+
+- [A more indepth explanation of why style :hover, :focus, and :active states differently](https://zellwk.com/blog/style-hover-focus-active-states/) 
+- [Some cool looking effects for borders](https://dev.to/mike37/10-css-border-animation-example-4jjf)
+
+### Day 56
+**Round 2 Day 56, Jun 6th, 2021**
+## Contents 56
+- [What I did today](#what-i-did-today-56)
+
+## What I did today 55
+
+It's hard to define what I have been up to since my last entry, but the truth is that I have not stopped doing stuff. I have been working on fixing the appearance of a simple game I've been working on, practicing with CSS a lot, and also started advancing The Web Developer Bootcamp again, I'm currently about to finish with Lesson 22 which is an intro to Callbacks and Array methods, in it I also saw an introduction to Arrow Functions
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
