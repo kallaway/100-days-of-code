@@ -23,7 +23,8 @@
   - [Day 53 -](#day-53)
   - [Day 54](#day-54)
   - [Day 55](#day-55)
-  - [Day 56 - Latest entry](#day-56)
+  - [Day 56](#day-56)
+  - [Day 57 - Latest entry](#day-57)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -926,13 +927,22 @@ I have been learning how to style the :focus, :hover:, and :active states of ele
 - [Some cool looking effects for borders](https://dev.to/mike37/10-css-border-animation-example-4jjf)
 
 ### Day 56
-**Round 2 Day 56, Jun 6th, 2021**
+**Round 2 Day 56, Jun 3rd, 2021**
 ## Contents 56
 - [What I did today](#what-i-did-today-56)
 
-## What I did today 55
+## What I did today 56
 
 It's hard to define what I have been up to since my last entry, but the truth is that I have not stopped doing stuff. I have been working on fixing the appearance of a simple game I've been working on, practicing with CSS a lot, and also started advancing The Web Developer Bootcamp again, I'm currently about to finish with Lesson 22 which is an intro to Callbacks and Array methods, in it I also saw an introduction to Arrow Functions
+
+### Day 57
+**Round 2 Day 57, Jun 4th, 2021**
+## Contents 57
+- [What I did today](#what-i-did-today-57)
+
+## What I did today 57
+
+I finally completed Section 22 and started with Section 23: Newer JavaScript Features, on the Web Developer Bootcamp course on Udemy
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
