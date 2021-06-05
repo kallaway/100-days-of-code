@@ -942,7 +942,7 @@ It's hard to define what I have been up to since my last entry, but the truth is
 
 ## What I did today 57
 
-I finally completed Section 22 and started with Section 23: Newer JavaScript Features, on the Web Developer Bootcamp course on Udemy
+I finally completed Section 22 and started with Section 23: Newer JavaScript Features, on the Web Developer Bootcamp course on Udemy. Also completed Section 23, watched the entire thing, and tomorrow will rewatch it and practice the examples.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
