@@ -470,21 +470,71 @@ end
 end
 puts n
 
+#100DaysOfCode 2nd_rap Day: 033/100
+Minitest is a framework for testing.
+Write "require 'minitest/autorun'".
+Write the relative path to the file you want to test.
+Specify with 'require_relative'.
+Write the method name as "test_".
+Check for methods marked with "test_".
+"asset_equal" , if a and b are the same, pase. 
 
+require 'minitest/autorun'
+require_relative '../piyo/foobar'
 
+class FooBar < Minitest::Test
+def test_foobar
+assert_equal b, a
+end
+end
 
+#100DaysOfCode 2nd_rap Day: 034/100
+I studied object-oriented.
+I used is this book "https://www.shoeisha.co.jp/book/detail/9784798134659"
+First of all, I learned 3 important Features of object-oriented.
+- Inheritance Sharing the characteristics of a class. Abstraction <= Embodiment
+- Encapsulation Clarify the scope of functions and data.
+- Polymorphism Even if the class is the same, there are differences in the behavior of each object.
+	Use properly.
 
+#100DaysOfCode 2nd_rap Day: 035/100
+I studied json_file's exporting & importing.
 
+# How to convert a Hash to a JSON string and write it to a JSON file.
+require 'json'
+File.open("where to save the file", 'w') do |file|
+str = JSON.dump(Export as a hash, file_object)
+end
 
+# Read a JSON file and convert it to Ruby Hash.
+File.open("./sample.json") do |file|
+hash = JSON.load(file)
+p hash
+end
 
+#100DaysOfCode 2nd_rap Day: 036/100
+A web system has a three-tier structure: web server, application server, and database server.
+Thin, WEBrick is a member of the application server.
 
+I try to use WEBrick.
+# write to a Gemfile.
+gem 'webrick'
 
+# write to a myapp.rb file.
+require 'webrick'
 
+# I run what I wrote in my Gemfile.
+bundle exec ruby myapp.rb
 
+#100DaysOfCode 2nd_rap Day: 037/100
+I tried AtCoder.(B - Intersection)
+I used Ternary operator.
+This "n = gets.to_i" doesn't make any particular sense,
+but I've implemented it.
+Using ternary operators is simple and cool!！
 
-
-
-
-
-
-
+n = gets.to_i
+a = gets.split.map(&:to_i)
+b = gets.split.map(&:to_i)
+x = (b.min) - (a.max)
+puts x >= 0 ? x+1 : 0
