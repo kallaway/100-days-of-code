@@ -9,9 +9,7 @@
 
 ### Day 2: June 8, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I got to 50% on FreeCodeCamp's CSS Grid portion of the Responsive Web Design Track. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Things are starting to look more familiar to when a did html more regularly. I love this feeling.
 
