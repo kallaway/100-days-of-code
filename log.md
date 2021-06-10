@@ -538,3 +538,45 @@ a = gets.split.map(&:to_i)
 b = gets.split.map(&:to_i)
 x = (b.min) - (a.max)
 puts x >= 0 ? x+1 : 0
+
+#100DaysOfCode 2nd_rap Day: 038/100
+I tried AtCoder(B - Palindrome with leading zeros).
+Very hard question...
+But, I cleared it!
+This question's point is regex "/0*&/".
+By combining this regex with the sub method, I was able to create the process I wanted to get.
+I'm tired today. I'll try again tomorrow!!
+[String\#sub \(Ruby 3\.0\.0 リファレンスマニュアル\)](https://docs.ruby-lang.org/ja/3.0.0/method/String/i/sub.html)
+n = gets.chomp.to_s
+x = n.sub(/0*$/, "")
+if n == n.reverse
+puts "Yes"
+elsif x == x.reverse
+puts "Yes"
+else
+puts "No"
+end
+
+#100DaysOfCode 2nd_rap Day: 039/100
+I studied Test Driven Development.
+The steps of the TDD cycle.
+1. Think about your next goal.
+2. write a test that demonstrates that goal
+3. run that test and make it fail (Red)
+4. write the code for the goal
+5. make the test you wrote in step 2 succeed (Green)
+6. refactor the code until the test passes (Refactor)
+7. repeat steps 1~6
+Point is writing from the goal.
+Think small and build up.
+
+
+
+
+
+
+
+
+
+
+
