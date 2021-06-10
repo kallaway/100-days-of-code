@@ -13,3 +13,10 @@
 
 **Thoughts**: Things are starting to look more familiar to when a did html more regularly. I love this feeling.
 
+### Day 3: June 9th, 2021
+
+**Today's Progress** 
+I finished the CSS Grid portion of the responsive Web Design track on FreeCodeCamp.
+
+**Thoughts**
+I felt detached from this session. I think I was excited about almost being done with the track. Just 5 projects to go!
