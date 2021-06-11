@@ -15,8 +15,19 @@
 
 ### Day 3: June 9th, 2021
 
-**Today's Progress** 
+**Today's Progress**:
 I finished the CSS Grid portion of the responsive Web Design track on FreeCodeCamp.
 
-**Thoughts**
+**Thoughts**:
 I felt detached from this session. I think I was excited about almost being done with the track. Just 5 projects to go!
+
+
+### Day 4: June 10th, 2021
+
+**Today's Progress**:
+I started my FreeCodeCamp tribute page project on Zelda Barbour Wynn Valdes.
+
+**Thoughts**:
+Html is what I am most comfortable and familiar with so after a few days getting reacquainted, this felt ok. I realized time flew when I started this project. The user stories involving divs tripped me up so I will need to practice that.
+
+**Link to work: https://codepen.io/yatesra/pen/XWMPQOP**
