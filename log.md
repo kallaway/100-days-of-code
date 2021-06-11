@@ -31,3 +31,18 @@ I started my FreeCodeCamp tribute page project on Zelda Barbour Wynn Valdes.
 Html is what I am most comfortable and familiar with so after a few days getting reacquainted, this felt ok. I realized time flew when I started this project. The user stories involving divs tripped me up so I will need to practice that.
 
 **Link to work: https://codepen.io/yatesra/pen/XWMPQOP**
+
+
+### Day 5: June 11th, 2021
+
+**Today's Progress**:
+I ws given a rec to try Ania Kubow's Responsive Online Portfolio Tutorial and I played around with it.
+
+
+**Thoughts**:
+I needed something from scratch so I'm glad a Twitter follower recommended it to me. I was having problems linking files and a domain and this really helped.
+
+
+**Link to work**:
+file:///Users/RochelleYates/Documents/Software%20Engineer/Portfolio%20website/index.html
+
