@@ -36,7 +36,7 @@ Html is what I am most comfortable and familiar with so after a few days getting
 ### Day 5: June 11th, 2021
 
 **Today's Progress**:
-I ws given a rec to try Ania Kubow's Responsive Online Portfolio Tutorial and I played around with it.
+I was given a rec to try Ania Kubow's Responsive Online Portfolio Tutorial and I played around with it.
 
 
 **Thoughts**:
@@ -46,3 +46,15 @@ I needed something from scratch so I'm glad a Twitter follower recommended it to
 **Link to work**:
 file:///Users/RochelleYates/Documents/Software%20Engineer/Portfolio%20website/index.html
 
+
+### Day 6: June 12th, 2021
+
+**Today's Progress**:
+I worked on my Tribute page project. I added unordered lists and more CSS. 
+
+**Thoughts**:
+It's coming along. I was confused about the id tags last time I used them and I feel way better about them today.
+
+
+**Link to work**:
+https://codepen.io/yatesra/pen/XWMPQOP
