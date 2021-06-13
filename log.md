@@ -538,3 +538,90 @@ a = gets.split.map(&:to_i)
 b = gets.split.map(&:to_i)
 x = (b.min) - (a.max)
 puts x >= 0 ? x+1 : 0
+
+#100DaysOfCode 2nd_rap Day: 038/100
+I tried AtCoder(B - Palindrome with leading zeros).
+Very hard question...
+But, I cleared it!
+This question's point is regex "/0*&/".
+By combining this regex with the sub method, I was able to create the process I wanted to get.
+I'm tired today. I'll try again tomorrow!!
+[String\#sub \(Ruby 3\.0\.0 リファレンスマニュアル\)](https://docs.ruby-lang.org/ja/3.0.0/method/String/i/sub.html)
+n = gets.chomp.to_s
+x = n.sub(/0*$/, "")
+if n == n.reverse
+puts "Yes"
+elsif x == x.reverse
+puts "Yes"
+else
+puts "No"
+end
+
+#100DaysOfCode 2nd_rap Day: 039/100
+I studied Test Driven Development.
+The steps of the TDD cycle.
+1. Think about your next goal.
+2. write a test that demonstrates that goal
+3. run that test and make it fail (Red)
+4. write the code for the goal
+5. make the test you wrote in step 2 succeed (Green)
+6. refactor the code until the test passes (Refactor)
+7. repeat steps 1~6
+Point is writing from the goal.
+Think small and build up.
+
+#100DaysOfCode 2nd_rap Day: 040/100
+I studies inject method.
+It's called the method of doing Convolution operation.
+I really don't know what that means mathematically.It's really hard.
+For now, I understand it as Ruby's method.
+
+Step1, The first iteration will put # in hex.
+Step2, The string created by "hex + n.to_s(16).rjust(2, '0')" in the block will go into hex in the next iteration.
+Step3, When the iteration process reaches the end, the return value of the block becomes the return value of the inject method itself.
+
+n.to_s(16).rjust(2, '0')
+def to_hex(r, g, b)
+[r, g, b].inject('#') do |hex, n|
+hex + n.to_s(16).rjust(2, '0')
+end
+end
+
+#100DaysOfCode 2nd_rap Day: 041/100
+I tried AtCoder(A \- Rock\-paper\-scissors).
+I also tried to test code today.
+I used the knowledge,  I learned in the circle reading session.
+Nice autput !! keep going!
+
+x, y = gets.split.map(&:to_i)
+def atcoder(x, y)
+if x == y
+x
+else
+3 - x - y
+end
+end
+
+require 'minitest/autorun'
+
+class AtcoderTest < Minitest::Test
+def test_atocoder
+assert_equal 1, atcoder(2,0)
+assert_equal 2, atcoder(2,2)
+end
+end
+
+#100DaysOfCode 2nd_rap Day: 042/100
+Caution! About the type of the hash key.
+I've been wrong about hash key all this time.
+If the key type is string, specify string.
+If it is a symbol, specify the symbol.
+
+<h1>memo</h1>
+<div class="index">
+<p><%= @hash["title"] %></p>
+<p><%= @hash["content"] %></p>
+</div>
+
+
+
