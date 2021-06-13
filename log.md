@@ -570,13 +570,58 @@ The steps of the TDD cycle.
 Point is writing from the goal.
 Think small and build up.
 
+#100DaysOfCode 2nd_rap Day: 040/100
+I studies inject method.
+It's called the method of doing Convolution operation.
+I really don't know what that means mathematically.It's really hard.
+For now, I understand it as Ruby's method.
 
+Step1, The first iteration will put # in hex.
+Step2, The string created by "hex + n.to_s(16).rjust(2, '0')" in the block will go into hex in the next iteration.
+Step3, When the iteration process reaches the end, the return value of the block becomes the return value of the inject method itself.
 
+n.to_s(16).rjust(2, '0')
+def to_hex(r, g, b)
+[r, g, b].inject('#') do |hex, n|
+hex + n.to_s(16).rjust(2, '0')
+end
+end
 
+#100DaysOfCode 2nd_rap Day: 041/100
+I tried AtCoder(A \- Rock\-paper\-scissors).
+I also tried to test code today.
+I used the knowledge,  I learned in the circle reading session.
+Nice autput !! keep going!
 
+x, y = gets.split.map(&:to_i)
+def atcoder(x, y)
+if x == y
+x
+else
+3 - x - y
+end
+end
 
+require 'minitest/autorun'
 
+class AtcoderTest < Minitest::Test
+def test_atocoder
+assert_equal 1, atcoder(2,0)
+assert_equal 2, atcoder(2,2)
+end
+end
 
+#100DaysOfCode 2nd_rap Day: 042/100
+Caution! About the type of the hash key.
+I've been wrong about hash key all this time.
+If the key type is string, specify string.
+If it is a symbol, specify the symbol.
+
+<h1>memo</h1>
+<div class="index">
+<p><%= @hash["title"] %></p>
+<p><%= @hash["content"] %></p>
+</div>
 
 
 
