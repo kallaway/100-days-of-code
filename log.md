@@ -623,5 +623,19 @@ If it is a symbol, specify the symbol.
 <p><%= @hash["content"] %></p>
 </div>
 
+#100DaysOfCode 2nd_rap Day: 043/100
+I tried AtCoder(A - kcal)
+I wrote some more test code today.
+And, I wrote according to the procedure in the TDD rules.
 
+a, b = gets.split.map(&:to_f)
+def kcal(a, b)
+puts b / 100 * a
+end
 
+require 'minitest/autorun'
+class KcalTest < Minitest::Test
+def test_kcal
+assert_equal 90, kcal(45, 200)
+end
+end
