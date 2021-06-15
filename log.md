@@ -58,3 +58,15 @@ It's coming along. I was confused about the id tags last time I used them and I 
 
 **Link to work**:
 https://codepen.io/yatesra/pen/XWMPQOP
+
+
+
+### Day 7: June 14th, 2021
+**Today's Progress**:
+I got my formatting wrong and pressed strange buttons in codepen.OMG I could not find the problem for 30 minutes!
+
+**Thoughts**:
+I am good at HTML but today it stumped me, I am very close to finishing but I should really be done with this simple little page.
+
+**Link to work**:
+https://codepen.io/yatesra/pen/JjWwGaL
