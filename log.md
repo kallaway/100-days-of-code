@@ -639,3 +639,26 @@ def test_kcal
 assert_equal 90, kcal(45, 200)
 end
 end
+
+#100DaysOfCode 2nd_rap Day: 044/100
+I tried AtCoder(A - ABC Preparation)
+For the first time, I could write one line of code !!
+
+puts  gets.to_s.split.map(&:to_i).min
+
+And, I wrote test code ver.
+
+def abc(arry)
+ arry.to_i
+end
+
+arry = gets.to_s.split.map(&:to_i).min
+abc(arry)
+
+require 'minitest/autorun'
+
+class AbcTest < Minitest::Test
+def test_abc
+assert_equal 3, abc(3)
+end
+end
