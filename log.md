@@ -662,3 +662,15 @@ def test_abc
 assert_equal 3, abc(3)
 end
 end
+
+#100DaysOfCode 2nd_rap Day: 045/100
+I studied about splat deployment.
+This is used when you want to expand an array and pass it as multiple arguments.
+It can also be used as a method argument.
+
+irb(main):009:1* def greeting(*names)
+irb(main):010:1*   "#{names.join(' and ')} say, Hello"
+irb(main):011:0> end
+=> :greeting
+irb(main):012:0> greeting('Jhon','Paul')
+=> "Jhon and Paul say, Hello"
