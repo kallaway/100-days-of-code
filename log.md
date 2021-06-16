@@ -639,3 +639,38 @@ def test_kcal
 assert_equal 90, kcal(45, 200)
 end
 end
+
+#100DaysOfCode 2nd_rap Day: 044/100
+I tried AtCoder(A - ABC Preparation)
+For the first time, I could write one line of code !!
+
+puts  gets.to_s.split.map(&:to_i).min
+
+And, I wrote test code ver.
+
+def abc(arry)
+ arry.to_i
+end
+
+arry = gets.to_s.split.map(&:to_i).min
+abc(arry)
+
+require 'minitest/autorun'
+
+class AbcTest < Minitest::Test
+def test_abc
+assert_equal 3, abc(3)
+end
+end
+
+#100DaysOfCode 2nd_rap Day: 045/100
+I studied about splat deployment.
+This is used when you want to expand an array and pass it as multiple arguments.
+It can also be used as a method argument.
+
+irb(main):009:1* def greeting(*names)
+irb(main):010:1*   "#{names.join(' and ')} say, Hello"
+irb(main):011:0> end
+=> :greeting
+irb(main):012:0> greeting('Jhon','Paul')
+=> "Jhon and Paul say, Hello"
