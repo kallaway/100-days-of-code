@@ -674,3 +674,29 @@ irb(main):011:0> end
 => :greeting
 irb(main):012:0> greeting('Jhon','Paul')
 => "Jhon and Paul say, Hello"
+
+#100DaysOfCode 2nd_rap Day: 046/100
+I tried AtCoder(B - Nuts)
+It was difficult to pass arguments to the method.
+It passed the test successfully.
+This time, I passed an array as the argument, but if it is a string, use *arry to expand the splat.
+
+a = [6,17,28]
+
+def nuts(arry)
+total = 0
+arry.each do |x|
+if x > 10
+total += (x - 10)
+end
+end
+total
+end
+
+require 'minitest/autorun'
+
+class NutsTest < Minitest::Test
+def test_nuts
+assert_equal 25, nuts([6,17,28])
+end
+end
