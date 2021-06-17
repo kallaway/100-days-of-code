@@ -70,3 +70,23 @@ I am good at HTML but today it stumped me, I am very close to finishing but I sh
 
 **Link to work**:
 https://codepen.io/yatesra/pen/JjWwGaL
+
+**Day 8: June 15th, 2021**:
+I worked on my Scratch project for CS50x. It requires a lot of planning and design effort.
+
+**Thoughts**:
+I don't really like Scratch, the colors make it seem less intimidating but it definately has a big learning curve.
+
+**Link to Work**
+https://scratch.mit.edu/projects/545399253/editor
+
+
+**Day 9: June 16th**
+I worked on my Tribute page project for FreeCodeCamp. I passed the user stories in the test suite 10/10.
+
+
+**Thoughts** 
+HTML is easy and this project is simple. I dragged my feet.
+
+**Link to work**:
+https://codepen.io/yatesra/pen/JjWwGaL
