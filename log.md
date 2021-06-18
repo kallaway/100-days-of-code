@@ -700,3 +700,28 @@ def test_nuts
 assert_equal 25, nuts([6,17,28])
 end
 end
+
+#100DaysOfCode 2nd_rap Day: 047/100
+Today I reviewed　about Guard Clause.
+Basic Form　=> return foo if bar
+It is said that it is good manners to leave the bottom line of a sentence with a guard clause blank.
+
+As an aside...
+Today is PaulMcCartney Birthday !!
+irb(main):016:1* def play(name)
+irb(main):017:1*   return 'name,Please' if name.nil?
+irb(main):018:1*
+irb(main):019:2*   if name == 'Paul'
+irb(main):020:2*     'I play bass guitar!'
+irb(main):021:2*   elsif name == 'Ring'
+irb(main):022:2*     'I play drums!'
+irb(main):023:2*   else
+irb(main):024:2*     'I play guitar'
+irb(main):025:1*   end
+irb(main):026:0> end
+=> :play
+irb(main):027:0> play('Paul')
+=> "I play bass guitar!"
+irb(main):028:0> play(nil)
+=> "name,Please"
+irb(main):029:0>
