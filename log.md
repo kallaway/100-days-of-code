@@ -57,6 +57,7 @@ Question 15 : Find the number occurring an odd number of times in an array
 Question 16 : Find the minimum number of platforms required for railway station
 
 ###day 7: jun 3 ,2021
+
 Question 17 : Find a Pair Whose Sum is Closest to zero in Array
 Question 18 : Given a sorted array and a number x, find the pair in array whose sum is closest to x
 
@@ -64,6 +65,24 @@ Question 19 : Find all pairs of elements from an array whose sum is equal to giv
 
 Question 20: Given an array of 0’s and 1’s in random order, you need to separate 0’s and 1’s in an array.
 For example:
+
+###day 8: jun 6 ,2021
+
+ Question 21 :  LocalMinia 
+ Question 22 : Sliding window maxima
+
+###day 9: jun 7 ,2021
+
+Question 23 : Find peak
+Question 24 : SubArray for unsorted array,
+
+
+###day 10: jun 18 ,2021
+Question 25 : BuySellStock at maximum profit
+Question 26 : Rotate Array with k position.
+
+
+
 
 
 
