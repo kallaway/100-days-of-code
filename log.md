@@ -725,3 +725,18 @@ irb(main):027:0> play('Paul')
 irb(main):028:0> play(nil)
 => "name,Please"
 irb(main):029:0>
+
+
+#100DaysOfCode 2nd_rap Day: 048/100
+I tried AtCoder(B - AtCoder Condominium)
+I used Convolution operation today.
+Code is easy but, It was hard to come up with logic.
+
+
+a, b = gets.to_s.split.map(&:to_i)
+
+n = (1..a).map{|i| i * 100}
+sum_n = n.inject(0) {|result, n| result + n} * b
+k = (1..b).map{|i| i += 0}
+sum_k = k.inject(0) {|result, k| result + k} * a
+puts sum_n + sum_k
