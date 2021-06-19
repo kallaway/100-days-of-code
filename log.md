@@ -71,7 +71,7 @@ I am good at HTML but today it stumped me, I am very close to finishing but I sh
 **Link to work**:
 https://codepen.io/yatesra/pen/JjWwGaL
 
-**Day 8: June 15th, 2021**:
+### Day 8: June 15th, 2021
 I worked on my Scratch project for CS50x. It requires a lot of planning and design effort.
 
 **Thoughts**:
@@ -81,7 +81,11 @@ I don't really like Scratch, the colors make it seem less intimidating but it de
 https://scratch.mit.edu/projects/545399253/editor
 
 
+<<<<<<< Updated upstream
 **Day 9: June 16th**
+=======
+### Day 9: June 16th, 2021
+>>>>>>> Stashed changes
 I worked on my Tribute page project for FreeCodeCamp. I passed the user stories in the test suite 10/10.
 
 
@@ -90,3 +94,25 @@ HTML is easy and this project is simple. I dragged my feet.
 
 **Link to work**:
 https://codepen.io/yatesra/pen/JjWwGaL
+<<<<<<< Updated upstream
+=======
+
+
+### Day 10: June 17th, 2021
+I added CSS styling to my finished tribute page before submitting my project.
+
+**Thoughts**:
+CSS is not really so fun to me but today it did not feel so tedious. I actually came out with something I was happy with.
+
+**Link to work**:
+https://codepen.io/yatesra/full/JjWwGaL
+
+
+### Day 11: June 18th, 2021
+I started my survey form project for freecodecamp.
+
+**Thought**: I am excited to start a project that lets my practice javascript too.
+
+**Link to work**:
+https://codepen.io/yatesra/pen/wvJOObr
+>>>>>>> Stashed changes
