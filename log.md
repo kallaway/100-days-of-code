@@ -732,7 +732,6 @@ I tried AtCoder(B - AtCoder Condominium)
 I used Convolution operation today.
 Code is easy but, It was hard to come up with logic.
 
-
 a, b = gets.to_s.split.map(&:to_i)
 
 n = (1..a).map{|i| i * 100}
@@ -740,3 +739,35 @@ sum_n = n.inject(0) {|result, n| result + n} * b
 k = (1..b).map{|i| i += 0}
 sum_k = k.inject(0) {|result, k| result + k} * a
 puts sum_n + sum_k
+
+#100DaysOfCode 2nd_rap Day: 049/100
+"Ruby feels good when I get it right!!"
+Here's what Matz had to say. 
+I've been thinking about my experiences with Ruby and how good it felt.
+My first experience is with the ternary operator.
+
+Before refactoring.
+`shots = []
+scores.each do |s|
+shots << if s == 'X'
+10
+else
+s.to_i
+end
+end`
+
+After code.
+Good feeling !!!!!
+`scores.each { |s| shots << ( s == 'X' ? 10 : s.to_i ) }`
+
+Then, I got a review and was able to make it even shorter.
+shots = scores.map{|s| s == 'X' ? 10 : s.to_i }`
+
+
+
+
+
+
+
+
+
