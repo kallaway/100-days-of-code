@@ -763,7 +763,26 @@ Good feeling !!!!!
 Then, I got a review and was able to make it even shorter.
 shots = scores.map{|s| s == 'X' ? 10 : s.to_i }`
 
+#100DaysOfCode 2nd_rap Day: 050/100
+I wrote the Sinatra program about memo app.
+Today, I created edit page.
+It's difficult. 
+I hope to have it done by the end of the week.
 
+<h1>memo</h1>
+<form action="/memos/:id" method="patch">
+  <% @memo.each do |memo| %>
+    <% "#{memo["id"]}" %>
+    <p class="title">title</p>
+    <textarea name="title" id="title"><%= "#{memo["title"]}" %></textarea></P>
+    <p>内容</p>
+    <p><textarea name="content" id="content"><%= "#{memo["content"]}" %></textarea></p>
+    <p><input type="submit" value="Save"></p>
+    <p><a href='/memos'>Top</a></p>
+    <p><a href='/memos/new'>New</a></p>
+    <p><a href='/memos/<%= memo["id"] %>'>Back</a></p>
+  <% end %>
+</form>
 
 
 
