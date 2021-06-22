@@ -784,8 +784,24 @@ I hope to have it done by the end of the week.
   <% end %>
 </form>
 
+#100DaysOfCode 2nd_rap Day: 051/100
+I was thinking about the theme of the LT meeting.
+I checked the past daily reports and other documents.
+I found a FizzBuzz problem and tried to solve it with ternary operators.
+I do this today for a change.
+Maybe,
+You can make it shorter.
 
+def fizz_buzz(x)
+(x..100).each do |n|
+puts (n % 15).zero? ? 'Fizz_Buzz': n.to_s
+puts (n % 3).zero? ? 'Fizz' : n.to_s
+puts (n % 5).zero? ? 'Buzz' : n.to_s
+puts n.to_s
+end
+end
 
+fizz_buzz(1)
 
 
 
