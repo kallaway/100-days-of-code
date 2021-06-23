@@ -803,6 +803,28 @@ end
 
 fizz_buzz(1)
 
+#100DaysOfCode 2nd_rap Day: 052/100
+I learned about HTTP routing.
+I've been thinking about it all day.
+And, I've been working on the code all day.
+It's been a fucking exhausting day...
+But, I've leveled up.
 
+Don't stop learning !!
+
+<h1>memo</h1>
+<% @memo.each do |memo| %>
+<form action="/memos/<%= memo["id"] %>" method="post">
+    <input type="hidden" name="_method" value="patch">
+    <p class="title">title</p>
+    <p><textarea name="title" id="title"><%= "#{memo["title"]}" %></textarea></P>
+    <p>内容</p>
+    <p><textarea name="content" id="content"><%= "#{memo["content"]}" %></textarea></p>
+    <p><input type="submit" value="保存"></p>
+    <p><a href='/memos'>top</a></p>
+    <p><a href='/memos/new'>new</a></p>
+    <p><a href='/memos/<%= memo["id"] %>'>戻る</a></p>
+  <% end %>
+</form>
 
 
