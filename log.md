@@ -827,4 +827,19 @@ Don't stop learning !!
   <% end %>
 </form>
 
+#100DaysOfCode 2nd_rap Day: 053/100
+I tried AtCoder(A - Determinant)
+a, b = gets.to_s.split.map{ |e| e.to_i }
+c, d = gets.to_s.split.map{ |e| e.to_i }
+def atcoder(a, b, c, d)
+a * d - b * c
+end
 
+require 'minitest/autorun'
+
+class AtcoderTest < Minitest::Test
+def test_atocoder
+assert_equal -2, atcoder(1,2,3,4)
+assert_equal -2, atcoder(2,3,4,5)
+end
+end
