@@ -843,3 +843,12 @@ assert_equal -2, atcoder(1,2,3,4)
 assert_equal -2, atcoder(2,3,4,5)
 end
 end
+
+#100DaysOfCode 2nd_rap Day: 054/100
+I tried AtCoder(A - ReLU)
+For now, today, 
+I decided to use the ternary operator.
+It was the fastest way to solve the problem.
+
+x = gets.to_s.to_i
+puts x >= 0 ? x : 0
