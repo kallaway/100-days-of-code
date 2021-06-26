@@ -852,3 +852,11 @@ It was the fastest way to solve the problem.
 
 x = gets.to_s.to_i
 puts x >= 0 ? x : 0
+
+#100DaysOfCode 2nd_rap Day: 055/100
+I tried AtCoder(A - twiblr)
+Today, I thought about the theme of the LT.
+I finally decided on a theme: I'll talk about JSON files and Hash tags.and, about  creating a memo's application using sinatra.
+
+a, b = gets.split.map(&:to_i)
+puts  (2*a + 100) - b
