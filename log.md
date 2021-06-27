@@ -860,3 +860,19 @@ I finally decided on a theme: I'll talk about JSON files and Hash tags.and, abou
 
 a, b = gets.split.map(&:to_i)
 puts  (2*a + 100) - b
+
+#100DaysOfCode 2nd_rap Day: 056/100
+I did some code refactoring.
+
+post '/memos/:id' do
+memo = {
+"id" => SecureRandom.uuid,
+"title" => params["title"],
+"content" => params["content"],
+"created_at" => Time.now
+}
+File.open("./db/memos_#{memo["id"]}.json", 'w') do |file|
+JSON.dump(memo, file)
+end
+redirect to('/memos')
+end
