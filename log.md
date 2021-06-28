@@ -876,3 +876,32 @@ JSON.dump(memo, file)
 end
 redirect to('/memos')
 end
+
+#100DaysOfCode 2nd_rap Day: 057/100
+Today, The skeleton of the memo app is complete.
+I implemented File.delte mehotd.
+Next, arrange the design in css.
+
+delete '/memos/:id' do
+memo = { "id" => params["id"], "title" => params["title"], "content" => params["content"], "created_at" => "Time.now"}
+File.delete("./json/memos_#{memo["id"]}.json")
+redirect to("/memos")
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
