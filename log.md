@@ -888,7 +888,20 @@ File.delete("./json/memos_#{memo["id"]}.json")
 redirect to("/memos")
 end
 
-
+<h1>メモしやがれ</h1>
+<% @memo.each do |memo| %>
+  <form action="/memos/<%= memo["id"] %>" method="post">
+    <input type="hidden" name="_method" value="delete">
+    <p class="title">タイトル</p>
+    <p><textarea name="title" id="title" readonly="readonly"><%= "#{memo["title"]}" %></textarea></P>
+    <p>内容</p>
+    <p><textarea name="content" id="content" readonly="readonly"><%= "#{memo["content"]}" %></textarea></p>
+    <p><input type="submit" value="削除"></p>
+    <p><a href='/memos'>トップページ</a></p>
+    <p><a href='/memos/<%= memo["id"] %>'>戻る</a></p>
+    <p><a href='/memos/<%= memo["id"] %>/edit'>編集ページ</a></p>
+<% end %>
+  </form>
 
 
 
