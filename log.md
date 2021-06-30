@@ -903,18 +903,27 @@ end
 <% end %>
   </form>
 
+#100DaysOfCode 2nd_rap Day: 058/100
+I participated in the LT meeting today and gave a presentation.
+It was great to be able to rehearse with the school mentor and get feedback.
+After listening to the content of the other speakers, I realized that I still need to work harder.
+I'd like to keep learning !!
 
+I understood Enumerator_class today.
+Enumerator_class includes the Enumerable_module.
 
+#100DaysOfCode 2nd_rap Day: 059/100
+Today I was writing css for my own memo application.
+It's been a while since I wrote it, so I forgot about it.
+I wrote it while researching.
+I'm about 80% done.
+I hope to finish it tomorrow.
 
-
-
-
-
-
-
-
-
-
-
-
-
+body {
+font-family: 'Reggae One', cursive;
+}
+.container {
+background-color: rgb(245,241,130);
+width: 400px;
+}
+...more
