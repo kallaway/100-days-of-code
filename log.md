@@ -912,7 +912,7 @@ I'd like to keep learning !!
 I understood Enumerator_class today.
 Enumerator_class includes the Enumerable_module.
 
-#100DaysOfCode 2nd_rap Day: 059/100
+100DaysOfCode 2nd_rap Day: 059/100
 Today I was writing css for my own memo application.
 It's been a while since I wrote it, so I forgot about it.
 I wrote it while researching.
@@ -927,3 +927,27 @@ background-color: rgb(245,241,130);
 width: 400px;
 }
 ...more
+
+#100DaysOfCode 2nd_rap Day: 060/100
+Today, I continued with the creation of the memo application.
+The CSS style implementation is complete.
+Title mean is "Make a note!!"
+I paid homage to the first album of the Sex Pistols.
+It was inspired by the design of Sex Pistols first album.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
