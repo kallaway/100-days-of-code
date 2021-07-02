@@ -912,7 +912,7 @@ I'd like to keep learning !!
 I understood Enumerator_class today.
 Enumerator_class includes the Enumerable_module.
 
-100DaysOfCode 2nd_rap Day: 059/100
+#100DaysOfCode 2nd_rap Day: 059/100
 Today I was writing css for my own memo application.
 It's been a while since I wrote it, so I forgot about it.
 I wrote it while researching.
@@ -935,8 +935,17 @@ Title mean is "Make a note!!"
 I paid homage to the first album of the Sex Pistols.
 It was inspired by the design of Sex Pistols first album.
 
+#100DaysOfCode 2nd_rap Day: 061/100
+What to do when you want a JSON string to be returned as a symbol when returning it as a hash object.
+Add an option when converting JSON format strings to hash objects.
+[JSON\.\#parse \(Ruby 3\.0\.0 リファレンスマニュアル\)](https://docs.ruby-lang.org/ja/3.0.0/method/JSON/m/parse.html)
 
-
+get '/memos' do
+files = Dir.glob('./json/*.json')
+@memos = files.map { |f| JSON.parse(File.open(f).read, symbolize_names: true) }
+@memos = @memos.sort_by { |f| f['created_at'] }
+erb :index
+end
 
 
 
