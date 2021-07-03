@@ -947,6 +947,34 @@ files = Dir.glob('./json/*.json')
 erb :index
 end
 
+#100DaysOfCode 2nd_rap Day: 062/100
+I wrote README.md, today.
+Git is difficult. I can't make pull-links well.
+I'll try again tomorrow.
+
+Name
+メモしやがれ
+
+Description
+Sinatraを使って作成したメモアプリです。 メモの新規作成、編集、削除が行えます。
+
+Demo
+Image from Gyazo
+
+install
+任意のディレクトリへ移動し、以下でGitHubリポジトリをクローンしてください。
+
+\$ git clone https://github.com/shirotamaki/sinatra_memo_app.git
+inatra_memo_app ディレクトリへ移動してください。
+
+\$ cd sinatra_memo_app
+bundle install を実行し、必要なGemをインストールしてください。
+
+& bundle install
+myapp.rbをrubyコマンドで実行すると、Sinatraを使ってサーバーが起動します。
+
+\$ ruby myapp.rb
+ブラザウザへ下記URIを入力してください。 http://localhost::4567/memos
 
 
 
