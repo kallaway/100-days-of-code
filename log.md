@@ -976,7 +976,13 @@ myapp.rbをrubyコマンドで実行すると、Sinatraを使ってサーバー�
 \$ ruby myapp.rb
 ブラザウザへ下記URIを入力してください。 http://localhost::4567/memos
 
-
+#100DaysOfCode 2nd_rap Day: 063/100
+I made a new discovery about rubocop.
+Rubocop is designed to check ruby code, and does not support erb files.
+Since RuboCop itself is a big gem, there are people who think the same thing like "can't we do it in erb?" or "I wish we could do it in erb", And there is such an Issue standing.
+In response to this, Mr.bbatsov, who is probably the administrator, replied,
+He says "It's outside the scope of RuboCop."
+https://github.com/rubocop/rubocop/issues/1113
 
 
 
