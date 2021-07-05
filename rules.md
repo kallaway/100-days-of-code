@@ -3,8 +3,10 @@
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
+### I will have two days off during Christmas period.
+
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+14th December, 2020.
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
