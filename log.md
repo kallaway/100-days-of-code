@@ -984,11 +984,56 @@ In response to this, Mr.bbatsov, who is probably the administrator, replied,
 He says "It's outside the scope of RuboCop."
 https://github.com/rubocop/rubocop/issues/1113
 
+#100DaysOfCode 2nd_rap Day: 064/100
+I learned debug methods.
+I tried Byebug.
+After invoking Byebug, 
+I can use help + command_name to display the description and shortened command.
 
+[2, 11] in /Users/shiro/ruby-practices/01.fizzbuzz/test/fizz_buzz_test.rb
+2: require_relative '../lib/fizzbuzz'
+3:
+4: class FizzBuzzTest < Minitest::Test
+5:   def test_fizz_buzz
+6:     require 'byebug'; byebug
+=>  7:     assert_equal '1', fizz_buzz(1)
+8:     assert_equal '2', fizz_buzz(2)
+9:     assert_equal 'Fizz', fizz_buzz(3)
+10:     assert_equal '4', fizz_buzz(4)
+11:     assert_equal 'Buzz', fizz_buzz(5)
+(byebug) help step
 
+s[tep][ times]
 
+Steps into blocks or methods one or more times
 
+#100DaysOfCode 2nd_rap Day: 065/100
+I reviewed the binding.irb that I was taught before.
+I wrote 'bindin.irb'. That way, I can create a breakpoint.
+So, irb will start, and I can type in the code, I want to try.
 
+shiro@shiro:~/ruby-practices/01.fizzbuzz (wc_command *)$ ruby test/fizz_buzz_test.rb
+
+From: /Users/shiro/ruby-practices/01.fizzbuzz/lib/fizzbuzz.rb @ line 12 :
+
+     7:     "Buzz"
+     8:   else
+     9:     n.to_s
+    10:   end
+    11: end
+=> 12: binding.irb
+13:
+14:
+15: # require 'minitest/autorun'
+16: #
+17: # class FizzBuzzTest < Minitest::Test
+
+irb(main):001:0> fizz_buzz(15)
+=> "Fizz Buzz"
+irb(main):002:0> fizz_buzz(99)
+=> "Fizz"
+irb(main):003:0> fizz_buzz(7)
+=> "7"
 
 
 
