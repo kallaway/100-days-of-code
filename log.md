@@ -1035,7 +1035,18 @@ irb(main):002:0> fizz_buzz(99)
 irb(main):003:0> fizz_buzz(7)
 => "7"
 
+#100DaysOfCode 2nd_rap Day: 066/100
+It's been a while since I solved Atcoder today.
+A problem. It's been a while, so I wasn't confident, but I was able to solve it.
 
+A. twiblr
+a, b = gets.split.map(&:to_i)
+puts  (2*a + 100) - b
 
+A. Heavy Rotation
+a, b = gets.split.map(&:to_i)
+puts  (2*a + 100) - b
 
-
+A - box
+n, a, b = gets.split.map(&:to_i)
+puts n - a + b
