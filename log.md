@@ -1050,3 +1050,14 @@ puts  (2*a + 100) - b
 A - box
 n, a, b = gets.split.map(&:to_i)
 puts n - a + b
+
+#100DaysOfCode 2nd_rap Day: 067/100
+I reviewed SQL today.
+I set up the environment on my Mac OS.
+Then I logged in and changed the user.
+After that, I created a database, created tables, and added columns.
+INSERT sentence and SELECT sentence.
+
+shop=# select * from shohin;
+shop=# INSERT INTO Shohin (shohin_id, shohin_mei, shohin_bunrui, hanbai_tanka, shiire_tanka, torokubi) VALUES ('0004', '時計', 'アクセサリ', 100000, 80000, '2021-07-07');
+INSERT 0 1
