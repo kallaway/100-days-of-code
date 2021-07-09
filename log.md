@@ -1061,3 +1061,17 @@ INSERT sentence and SELECT sentence.
 shop=# select * from shohin;
 shop=# INSERT INTO Shohin (shohin_id, shohin_mei, shohin_bunrui, hanbai_tanka, shiire_tanka, torokubi) VALUES ('0004', '時計', 'アクセサリ', 100000, 80000, '2021-07-07');
 INSERT 0 1
+
+#100DaysOfCode 2nd_rap Day: 068/100
+I tried AtCoder(B - Palindrome with leading zeros)
+It was difficult.
+
+n = gets.chomp.to_s
+x = n.sub(/0*$/, "")
+if n == n.reverse
+puts "Yes"
+elsif x == x.reverse
+puts "Yes"
+else
+puts "No"
+end
