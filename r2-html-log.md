@@ -24,7 +24,9 @@
   - [Day 54](#day-54)
   - [Day 55](#day-55)
   - [Day 56](#day-56)
-  - [Day 57 - Latest entry](#day-57)
+  - [Day 57](#day-57)
+  - [Day 58](#day-58)
+  - [Day 59 - Latest entry](#day-59)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -943,6 +945,30 @@ It's hard to define what I have been up to since my last entry, but the truth is
 ## What I did today 57
 
 I finally completed Section 22 and started with Section 23: Newer JavaScript Features, on the Web Developer Bootcamp course on Udemy. Also completed Section 23, watched the entire thing, and tomorrow will rewatch it and practice the examples.
+
+### Day 58
+**Round 2 Day 58, Jul 1st, 2021**
+## Contents 58
+- [What I did today](#what-i-did-today-58)
+- [Interesting links](#interesting-links-58)
+
+## What I did today 58
+
+Created a massive object containing every weapon and players within the game
+
+## Interesting links 58
+
+- [Nested Objects](https://www.w3schools.com/js/js_object_properties.asp)
+- [Interesting discussion on using self-references in Object literals / initializers](https://stackoverflow.com/questions/4616202/self-references-in-object-literals-initializers)
+
+### Day 59
+**Round 2 Day 59, Jul 9th, 2021**
+## Contents 59
+- [What I did today](#what-i-did-today-59)
+
+## What I did today 59
+
+Modified existing code to work with the new object I created. Improved the messages being displayed to the console to be more meaningful, and play tested that what was working before still worked after the modifications.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
