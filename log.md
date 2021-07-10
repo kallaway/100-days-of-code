@@ -1075,3 +1075,18 @@ puts "Yes"
 else
 puts "No"
 end
+
+#100DaysOfCode 2nd_rap Day: 069/100
+I tried AtCoder(B - Many Oranges)
+Today's problem was also difficult.....
+Or rather, I almost couldn't solve it on my own.
+I understand the ruby code, but I can't understand the problem itself.
+Full search...
+
+a,b,w = gets.split.map(&:to_f)
+w = w*1000
+if (w/a).floor < (w/b).ceil
+puts  "UNSATISFIABLE"
+else
+puts "#{(w/b).ceil} #{(w/a).floor}"
+end
