@@ -1090,3 +1090,27 @@ puts  "UNSATISFIABLE"
 else
 puts "#{(w/b).ceil} #{(w/a).floor}"
 end
+
+#100DaysOfCode 2nd_rap Day: 070/100
+I learned git.
+Today I got the following command
+
+git switch
+git restore
+git diff
+git reflog
+git cherry-pick
+git stash
+git grep
+
+#100DaysOfCode 2nd_rap Day: 071/100
+Today I refactored the memo application.
+I understood RESTfull URI.
+
+post '/memos' do
+memo= { id: SecureRandom.uuid, title: params[:title], content: params[:content], created_at: Time.new }
+File.open("./json/memos_#{memo[:id]}.json", 'w') do |file|
+JSON.dump(memo,file)
+end
+redirect to("/memos/#{h(memo[:id])}")
+end
