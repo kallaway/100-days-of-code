@@ -1114,3 +1114,14 @@ JSON.dump(memo,file)
 end
 redirect to("/memos/#{h(memo[:id])}")
 end
+
+#100DaysOfCode 2nd_rap Day: 072/100
+I tried AtCoder(A - Plural Form)
+
+n = gets.to_s.chomp
+unless n[-1] == "s"
+print n.concat "s"
+else
+print n.concat "es"
+end
+
