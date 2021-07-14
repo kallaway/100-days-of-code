@@ -1125,3 +1125,15 @@ else
 print n.concat "es"
 end
 
+#100DaysOfCode 2nd_rap Day: 073/100
+I thought about how to extract a json file.
+It turns out that the return value is different for the pattern without the .first method and the pattern with it.
+It unresolved.  But a step forward.未解決
+
+irb(main):005:0> file = Dir.glob("./json/memos_f51cdea2-fb63-4167-91a1-ec642f875
+06e.json")
+=> ["./json/memos_f51cdea2-fb63-4167-91a1-ec642f87506e.json"]
+
+irb(main):006:0> file = Dir.glob("./json/memos_f51cdea2-fb63-4167-91a1-ec642f875
+06e.json").first
+=> "./json/memos_f51cdea2-fb63-4167-91a1-ec642f87506e.json"
