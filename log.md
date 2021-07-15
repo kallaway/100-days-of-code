@@ -1137,3 +1137,24 @@ irb(main):005:0> file = Dir.glob("./json/memos_f51cdea2-fb63-4167-91a1-ec642f875
 irb(main):006:0> file = Dir.glob("./json/memos_f51cdea2-fb63-4167-91a1-ec642f875
 06e.json").first
 => "./json/memos_f51cdea2-fb63-4167-91a1-ec642f87506e.json"
+
+#100DaysOfCode 2nd_rap Day: 074/100
+I tried AtCoder(A - Not)
+x = gets.to_s.to_i
+puts x == 0 ? 1 : 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
