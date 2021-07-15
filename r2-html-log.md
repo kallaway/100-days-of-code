@@ -26,7 +26,8 @@
   - [Day 56](#day-56)
   - [Day 57](#day-57)
   - [Day 58](#day-58)
-  - [Day 59 - Latest entry](#day-59)
+  - [Day 59](#day-59)
+  - [Day 60 - Latest entry](#day-60)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -969,6 +970,16 @@ Created a massive object containing every weapon and players within the game
 ## What I did today 59
 
 Modified existing code to work with the new object I created. Improved the messages being displayed to the console to be more meaningful, and play tested that what was working before still worked after the modifications.
+
+### Day 60
+**Round 2 Day 60, Jul 14th, 2021**
+## Contents 60
+- [What I did today](#what-i-did-today-60)
+
+## What I did today 60
+
+
+
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
