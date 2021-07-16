@@ -27,7 +27,8 @@
   - [Day 57](#day-57)
   - [Day 58](#day-58)
   - [Day 59](#day-59)
-  - [Day 60 - Latest entry](#day-60)
+  - [Day 60](#day-60)
+  - [Day 61 - Latest entry](#day-61)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -978,8 +979,16 @@ Modified existing code to work with the new object I created. Improved the messa
 
 ## What I did today 60
 
+Code, code an more code! cd
 
+### Day 61
+**Round 2 Day 61, Jul 15th, 2021**
+## Contents 61
+- [What I did today](#what-i-did-today-61)
 
+## What I did today 61
+
+Added a display and simplified the code a lot by adding an attack method to the Game Object. Also it makes an attack rolls first to determine if the attack connects before calculating the damage.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
