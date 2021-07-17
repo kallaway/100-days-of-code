@@ -28,7 +28,8 @@
   - [Day 58](#day-58)
   - [Day 59](#day-59)
   - [Day 60](#day-60)
-  - [Day 61 - Latest entry](#day-61)
+  - [Day 61](#day-61)
+  - [Day 62 - Latest entry](#day-62)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -989,6 +990,21 @@ Code, code an more code! cd
 ## What I did today 61
 
 Added a display and simplified the code a lot by adding an attack method to the Game Object. Also it makes an attack rolls first to determine if the attack connects before calculating the damage.
+
+### Day 62
+**Round 2 Day 62, Jul 16th, 2021**
+## Contents 62
+- [What I did today](#what-i-did-today-62)
+
+## What I did today 62
+
+Kept simplifying combat code for the *2a_hackvine.js*. Implemented feeback display for the effects of the player's actions when they engage in combat scenarios.
+
+Corrected a few typos in the code for the method receiveDamage().
+
+Added an autoHit property to the weapons. This is a placeholder for the drag weapon which shouldn't rely on an attack roll to determine if it dealt damage, but on a contested Acrobatics or Athletics check.
+
+Added a display message for each of the creatures present in combat and then improved it a little bit so that it correctly displays when the creatures' attacks hit, or miss.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
