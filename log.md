@@ -1137,3 +1137,38 @@ irb(main):005:0> file = Dir.glob("./json/memos_f51cdea2-fb63-4167-91a1-ec642f875
 irb(main):006:0> file = Dir.glob("./json/memos_f51cdea2-fb63-4167-91a1-ec642f875
 06e.json").first
 => "./json/memos_f51cdea2-fb63-4167-91a1-ec642f87506e.json"
+
+#100DaysOfCode 2nd_rap Day: 074/100
+I tried AtCoder(A - Not)
+x = gets.to_s.to_i
+puts x == 0 ? 1 : 0
+
+#100DaysOfCode 2nd_rap Day: 075/100
+I studied PostgreSQL.
+I made a database.
+And, I created a table in that database and inserted data.
+[ged/ruby\-pg: A PostgreSQL client library for Ruby](https://github.com/ged/ruby-pg)
+
+#!/usr/bin/env ruby
+require 'pg'
+
+# Output a table of current connections to the DB
+conn = PG.connect( dbname: 'postgres' )
+conn.exec( "INSERT into piyo values ('05', 'title5', 'memo5' );" )
+conn.exec( 'select * from piyo' ) do |result|
+result.each do |row|
+puts row
+end
+end
+
+#100DaysOfCode 2nd_rap Day: 076/100
+I tried AtCoder(A - Don't be late)
+This is a problem where an integer is given, but sometimes the result is a decimal point when giving the speed in seconds.
+For the reason, I used to_f method.
+
+d, t, s = gets.split.map(&:to_f)
+puts d/s <= t ? "Yes" : "No"
+
+
+
+
