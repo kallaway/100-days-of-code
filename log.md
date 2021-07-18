@@ -1169,6 +1169,14 @@ For the reason, I used to_f method.
 d, t, s = gets.split.map(&:to_f)
 puts d/s <= t ? "Yes" : "No"
 
+#100DaysOfCode 2nd_rap Day: 077/100
+I tried AtCoder(A - Takoyaki)
+Point is Float#ceil.
+[Float\#ceil \(Ruby 3\.0\.0 リファレンスマニュアル\)](https://docs.ruby-lang.org/ja/3.0.0/method/Float/i/ceil.html)
+def made_takoyaki(n, x, t)
+puts ((n/x).ceil * t).to_i
+end
 
-
+n, x, t = gets.split.map(&:to_f)
+made_takoyaki(n, x, t)
 
