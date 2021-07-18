@@ -29,7 +29,8 @@
   - [Day 59](#day-59)
   - [Day 60](#day-60)
   - [Day 61](#day-61)
-  - [Day 62 - Latest entry](#day-62)
+  - [Day 62](#day-62)
+  - [Day 63 - Latest entry](#day-63)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -1005,6 +1006,15 @@ Corrected a few typos in the code for the method receiveDamage().
 Added an autoHit property to the weapons. This is a placeholder for the drag weapon which shouldn't rely on an attack roll to determine if it dealt damage, but on a contested Acrobatics or Athletics check.
 
 Added a display message for each of the creatures present in combat and then improved it a little bit so that it correctly displays when the creatures' attacks hit, or miss.
+
+### Day 63
+**Round 2 Day 63, Jul 17th, 2021**
+## Contents 63
+- [What I did today](#what-i-did-today-63)
+
+## What I did today 63
+
+Corrected a few bugs in the logic, which caused that the enemies weren't being counted correctly, and so the last one was slain without its health reaching 0. Also improved the display text a bit for a few of the messages being shown. Althought there remains a bug that seems to cause that Gungurk is eliminated without being killed nor dragged to the Chasm.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
