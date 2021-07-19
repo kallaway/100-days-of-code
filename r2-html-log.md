@@ -30,7 +30,8 @@
   - [Day 60](#day-60)
   - [Day 61](#day-61)
   - [Day 62](#day-62)
-  - [Day 63 - Latest entry](#day-63)
+  - [Day 63](#day-63)
+  - [Day 64 - Latest entry](#day-64)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -1015,6 +1016,22 @@ Added a display message for each of the creatures present in combat and then imp
 ## What I did today 63
 
 Corrected a few bugs in the logic, which caused that the enemies weren't being counted correctly, and so the last one was slain without its health reaching 0. Also improved the display text a bit for a few of the messages being shown. Althought there remains a bug that seems to cause that Gungurk is eliminated without being killed nor dragged to the Chasm.
+
+### Day 64
+**Round 2 Day 64, Jul 18th, 2021**
+## Contents 64
+- [What I did today](#what-i-did-today-64)
+- [Interesting links](#interesting-links-64)
+
+## What I did today 64
+
+Fixed a few bugs and clarified execution a bit. Also cleaned up the code a bit. There was also a bug in the code that was causing that a message displayed for The Stone in the output area of the page, was being shown twice. Checking the logic I realized that the cause was that I was using a .forEach() for the array. So the logical thing was using a *break* to break out from the loop, but lo and behold, that doesn't work with .forEach(), so I had to change to using a conventional *for* loop instead.
+
+I also managed to implement a few scenarios for going into encounter 2, one where The Stone falls first, and the other one for when Gungurk falls first. Also added a bit more clarity to the messages displayed on the Output area.
+
+## Interesting links 64
+
+- [Short circuit Array.forEach like calling break](https://stackoverflow.com/questions/2641347/short-circuit-array-foreach-like-calling-break)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
