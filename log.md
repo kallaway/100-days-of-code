@@ -1180,3 +1180,21 @@ end
 n, x, t = gets.split.map(&:to_f)
 made_takoyaki(n, x, t)
 
+#100DaysOfCode 2nd_rap Day: 078/100
+I tried AtCoder(A - Rainy Season)
+It's a dirty fucking code....
+But this is what I'm capable of now.
+Studying again tomorrow !!
+
+s = gets.to_s.chomp
+if s == "RRR"
+puts "3"
+elsif s == "RRS"
+puts "2"
+elsif s == "SRR"
+puts "2"
+elsif s == "SSS"
+puts '0'
+else
+puts "1"
+end
