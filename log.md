@@ -1198,3 +1198,25 @@ puts '0'
 else
 puts "1"
 end
+
+#100DaysOfCode 2nd_rap Day: 079/100
+I tried AtCoder(A - Air Conditioner)
+First time!
+I solved a problem in under two minutes!!!
+
+x = gets.to_i
+puts x >= 30 ? 'Yes' : 'No'
+
+I'd also like to introduce this one, which I think is the fastest song in the world.
+The pride of Japan, the Hardcore band BBQ CHICKENS!!!
+https://open.spotify.com/track/7ITg3WkHWJoUyh9buVmHRM?si=e5aadb0e96b9476c
+
+#100DaysOfCode 2nd_rap Day: 080/100
+Today I learned about SQL Injection.
+I had a hard time with 'placeholder', 
+but I managed to complete the implementation!
+Congratulations!!
+Me!!
+@memos = conn.exec('SELECT * FROM t_memos WHERE id = $1;', [params['id']])
+conn.exec('INSERT INTO t_memos (title, content) VALUES ($1, $2);', [params['title'], params['content']])
+conn.exec('UPDATE t_memos SET title = $1, content = $2 WHERE id = $3;', [params['title'], params['content'], params['id']])
