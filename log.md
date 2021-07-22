@@ -1,25 +1,23 @@
 # 100 Days Of Code - Log
+//my Log// 
+### Day 1: July 21, Wednesday
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**What I Learnt Today** Getting a better understanding of using Git bash's commands, 
+learned how to shallow copy and deep copy Objects in JavaScript, 
+and better and manipulating arrays in JavaScript.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts** I'm getting in deep with JavaScript now, but i feel like there is so many other Coding Languages that I have to learn or keep up with.
+Git Bash is giving me a hard time, I need to Review my CSS and a bit of HTML, and JavaScript is starting to get hard.
+My plan of action is to learn more Git Hub/Git Bash Thursday and Friday, and then Saturday lean in more to JavaScript for those Kew concepts in my meeting with Jamal Saturday. 
+Then Sunday I'll chill and try and review/build things with HTML and CSS.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Feeling** A bit intimidated, but I am hopefull and still ambitious when it comes to coding oppurtunities!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**
+[C:\Users\Johnny 5 VAF\Documents\Development\JSFunSummer2021\exercises\04-arrays-sets\arrays-sets.js] (on my computer)
+what it was about[https://slides.com/accjavascript/deck-10/#/11/0/0]
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
+// EXAMPLE OF A LOG//### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
