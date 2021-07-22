@@ -1220,3 +1220,12 @@ Me!!
 @memos = conn.exec('SELECT * FROM t_memos WHERE id = $1;', [params['id']])
 conn.exec('INSERT INTO t_memos (title, content) VALUES ($1, $2);', [params['title'], params['content']])
 conn.exec('UPDATE t_memos SET title = $1, content = $2 WHERE id = $3;', [params['title'], params['content'], params['id']])
+
+#100DaysOfCode 2nd_rap Day: 081/100
+I tried AtCoder(A - Payment)
+n = gets.to_i
+m = n / 1000
+if n % 1000 != 0
+m += 1
+end
+puts 1000 * m - n
