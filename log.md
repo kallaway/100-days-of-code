@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 //my Log// 
-### Day 1: July 21, Wednesday
+### Day 1: July 21, Wednesday:
 
 **What I Learnt Today** Getting a better understanding of using Git bash's commands, 
 learned how to shallow copy and deep copy Objects in JavaScript, 
@@ -17,12 +17,17 @@ Then Sunday I'll chill and try and review/build things with HTML and CSS.
 [C:\Users\Johnny 5 VAF\Documents\Development\JSFunSummer2021\exercises\04-arrays-sets\arrays-sets.js] (on my computer)
 what it was about[https://slides.com/accjavascript/deck-10/#/11/0/0]
 
-// EXAMPLE OF A LOG//### Day 1: June 27, Monday
+### Day 2: July 22, Thursday:
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**What I Learnt Today** So I finally fixed my local git repo for my JavaScript class. I believe the original mistake I made was basically making clones of the my Head.
+I git reset that and made sure that the connection to the remote repo was still there, so its all set now! I also set up another workspace on visual studio to practice HTML and CSS.
+I was able to make multiple files and connect them, the only problem is that you i can't see how CSS is affecting my HTML. 
+That will be something I have to fix.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** memories of the code I ran earlier in the year are flooding my mind. I am beginning to remember how to write html and css!
+I am eager to try and apply some JavaScript to these pages to see what cool stuff I can do! ( I know tha will come with time though, I am in a JavaScript class for goodness sakes XD)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Feeling** Growing in Confidences!
+**Links to my work**
+[https://www.w3schools.com/html/html_css.asp]
+[https://git-scm.com/docs/git-reset]
