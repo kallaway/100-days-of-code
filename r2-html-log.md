@@ -31,7 +31,8 @@
   - [Day 61](#day-61)
   - [Day 62](#day-62)
   - [Day 63](#day-63)
-  - [Day 64 - Latest entry](#day-64)
+  - [Day 64](#day-64)
+  - [Day 65 - Latest entry](#day-65)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -1032,6 +1033,17 @@ I also managed to implement a few scenarios for going into encounter 2, one wher
 ## Interesting links 64
 
 - [Short circuit Array.forEach like calling break](https://stackoverflow.com/questions/2641347/short-circuit-array-foreach-like-calling-break)
+
+### Day 65
+**Round 2 Day 65, Jul 23rd, 2021**
+## Contents 65
+- [What I did today](#what-i-did-today-65)
+
+## What I did today 65
+
+I updated the local master branch of the github repo. Added a few scenarios to the game. Fixed a small typo in the fight scenario, and also made the text of the button for the attack change to "Keep attacking!" after it is pressed for the first time.
+
+:tomato: :tomato: :tomato:
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
