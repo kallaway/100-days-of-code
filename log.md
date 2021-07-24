@@ -1220,3 +1220,26 @@ Me!!
 @memos = conn.exec('SELECT * FROM t_memos WHERE id = $1;', [params['id']])
 conn.exec('INSERT INTO t_memos (title, content) VALUES ($1, $2);', [params['title'], params['content']])
 conn.exec('UPDATE t_memos SET title = $1, content = $2 WHERE id = $3;', [params['title'], params['content'], params['id']])
+
+#100DaysOfCode 2nd_rap Day: 081/100
+I tried AtCoder(A - Payment)
+n = gets.to_i
+m = n / 1000
+if n % 1000 != 0
+m += 1
+end
+puts 1000 * m - n
+
+#100DaysOfCode 2nd_rap Day: 082/100
+n = gets.chomp.to_i
+puts total = n + n**2 + n**3
+
+https://docs.ruby-lang.org/ja/3.0.0/doc/symref.html
+
+#100DaysOfCode 2nd_rap Day: 083/100
+I tried AtCoder(A - alphabet)
+I used a regular expression.
+And, I used '=~' to compare conditions.
+
+moji = gets.to_s.chomp
+puts moji =~ /[A-Z?]/ ? 'A' : 'a'
