@@ -1243,3 +1243,19 @@ And, I used '=~' to compare conditions.
 
 moji = gets.to_s.chomp
 puts moji =~ /[A-Z?]/ ? 'A' : 'a'
+
+#100DaysOfCode 2nd_rap Day: 084/100
+I studied Activ_Record, migration_file.
+It is code migration_file from Rails.
+Line 3, Create a table named "books" with create_table :books.
+Line 4, The value of t.string :title and the value of t.text :memo create the element of the table.
+
+class CreateBooks < ActiveRecord::Migration[6.1]
+def change
+create_table :books do |t|
+t.string :title
+t.text :memo
+      t.timestamps
+    end
+end
+end
