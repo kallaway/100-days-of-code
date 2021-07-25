@@ -31,3 +31,16 @@ I am eager to try and apply some JavaScript to these pages to see what cool stuf
 **Links to my work**
 [https://www.w3schools.com/html/html_css.asp]
 [https://git-scm.com/docs/git-reset]
+### Day 3&4: July 23-24, Friday and Saturday
+
+**What I Learnt Today** I finished my Object homework!! Boy does it feel good, after I spoke with Matina I realized that I was trying to go about invoking the object within the function.
+alls ya gotta do is set the value of the property to the parameters of the function that you want it to hold... its simple if you are doing it lol. 
+Also learned that when you are calling certain info outside of the function so that the parameters have value is called an Argument
+
+**Thoughts** I.Am.SO.Happy I solved the rest of the homework. It felt as though after I got over that one question I could figure out the rest. 
+When I get aa chance it would be good to make up some random functions to practice, that way I know how to manipulate them better.
+
+**Feeling**Happy that I understand the homework better.
+**Links**
+[https://slides.com/accjavascript/deck-10/#/28]
+[https://slides.com/accjavascript/javascript-basics#/92/0/1]
