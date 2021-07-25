@@ -32,7 +32,8 @@
   - [Day 62](#day-62)
   - [Day 63](#day-63)
   - [Day 64](#day-64)
-  - [Day 65 - Latest entry](#day-65)
+  - [Day 65](#day-65)
+  - [Day 66 - Latest entry](#day-65)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -1044,6 +1045,35 @@ I also managed to implement a few scenarios for going into encounter 2, one wher
 I updated the local master branch of the github repo. Added a few scenarios to the game. Fixed a small typo in the fight scenario, and also made the text of the button for the attack change to "Keep attacking!" after it is pressed for the first time.
 
 :tomato: :tomato: :tomato:
+
+### Day 66
+**Round 2 Day 66, Jul 24th, 2021**
+## Contents 66
+- [What I did today](#what-i-did-today-66)
+- [Interesting links](#interesting-links-66)
+
+## What I did today 66
+
+Learning how to work with multiple JavaScript files, since I am separating the characters, the enemies, the weapons, etc, each into their own separate files. Then learned that it is done by working with something called JavaScript Modules.
+
+Yet, after finally managing to implement the exporting and importing of objects between JavaScript modules, I learned that when you use `type="module"` in the HTML file, it creates a special kind of module scope, which means that my listener functions which were being called in the HTML file through the `onclick` property of the button tag, is not working now. I had to do it in a hacky way (for now), and introduce my `window` object in the script file, to the functions that I wanted to call, like this:
+
+```js
+  window.optionOneWasClicked = optionOneWasClicked;
+  window.optionTwoWasClicked = optionTwoWasClicked;
+  window.optionThreeWasClicked = optionThreeWasClicked;
+```
+
+I also changed the logic of the code for the combat scenarios a bit, creating an `isDead()` function to check whether the enemies are dead or not. I also have to ensure that there are no bugs left creeping around and correct a minor one that I'm noticing at the time.
+
+## Interesting links 66
+
+- [Multiple js Files - p5.js Tutorial](https://youtu.be/Yk18ZKvXBj4)
+- [JavaScript ES6 Modules](https://youtu.be/cRHQNNcYf6s)
+- [ES6 Modules: Undefined onclick function after import](https://stackoverflow.com/questions/44590393/es6-modules-undefined-onclick-function-after-import)
+- [Javascript modules import fails](https://stackoverflow.com/questions/56855084/javascript-modules-import-fails/56855182)
+
+:tomato: :tomato:
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
