@@ -44,3 +44,15 @@ When I get aa chance it would be good to make up some random functions to practi
 **Links**
 [https://slides.com/accjavascript/deck-10/#/28]
 [https://slides.com/accjavascript/javascript-basics#/92/0/1]
+
+### Day 5: July 25, Sunday
+
+**What I Learnt Today** I attempted the HangMan project in HTML and JavaScript. I learnt about while...loops and how to intergrate loops with array.join into an array to make it display other characteres
+other than the typical["","",""], and instead would have it pop up as a prompt with just underscores.
+
+**THought** Everything seems correct with my code, but trying to get Visual Studio code to preview it and run it how I want to see it is a challenge,
+I'll have to review to make sure it is written correctly, or just find a different IDE so I can display my code.
+
+**feeling** happy to have done it, but a little frustrated with VS code.
+**Links**
+[https://nostarch.com/download/JS4K_ch7.pdf]
