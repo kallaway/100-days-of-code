@@ -1259,3 +1259,17 @@ t.text :memo
     end
 end
 end
+
+#100DaysOfCode 2nd_rap Day: 085/100
+I tried AtCoder(A - Five Variables)
+Today, I came up with two programs.
+
+gets.split.map(&:to_i).each_with_index do |i, idx|
+if i == 0
+puts idx + 1
+end
+end
+
+x = gets.split.map(&:to_i)
+puts x.index(0)+1
+
