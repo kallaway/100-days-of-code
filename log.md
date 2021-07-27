@@ -1273,3 +1273,15 @@ end
 x = gets.split.map(&:to_i)
 puts x.index(0)+1
 
+#100DaysOfCode 2nd_rap Day: 086/100
+I learned the nil guard, a commonly used idiom.
+In this case, I wanted the variable to act like a cache.
+This is where the nil guard comes into play.
+I was able to implement it successfully.
+
+class Memo
+def conn
+@connection ||= PG.connect(dbname: 'memos')
+end
+end
+
