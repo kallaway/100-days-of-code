@@ -20,7 +20,7 @@
   - [Day 50](#day-50)
   - [Day 51](#day-51)
   - [Day 52](#day-52)
-  - [Day 53 -](#day-53)
+  - [Day 53](#day-53)
   - [Day 54](#day-54)
   - [Day 55](#day-55)
   - [Day 56](#day-56)
@@ -33,7 +33,9 @@
   - [Day 63](#day-63)
   - [Day 64](#day-64)
   - [Day 65](#day-65)
-  - [Day 66 - Latest entry](#day-65)
+  - [Day 66](#day-66)
+  - [Day 67](#day-67)
+  - [Day 68 - Latest entry](#day-68)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -1074,6 +1076,35 @@ I also changed the logic of the code for the combat scenarios a bit, creating an
 - [Javascript modules import fails](https://stackoverflow.com/questions/56855084/javascript-modules-import-fails/56855182)
 
 :tomato: :tomato:
+
+### Day 67
+**Round 2 Day 67, Jul 25th, 2021**
+## Contents 67
+- [What I did today](#what-i-did-today-67)
+- [Interesting links](#interesting-links-67)
+
+## What I did today 67
+
+Worked a little bit on the code, managing to enable/disable a button until/when certains conditions are met
+
+## Interesting links 67
+
+- [How To - Add a Class from JavaScript](https://www.w3schools.com/howto/howto_js_add_class.asp)
+- [CSS disable hover effect](https://stackoverflow.com/questions/26754497/css-disable-hover-effect)
+- [Check if an element contains a class in JavaScript?](https://stackoverflow.com/questions/5898656/check-if-an-element-contains-a-class-in-javascript)
+
+:tomato:
+
+### Day 68
+**Round 2 Day 68, Jul 26th, 2021**
+## Contents 68
+- [What I did today](#what-i-did-today-68)
+
+## What I did today 68
+
+On the first scenario of Encounter 1, added a third choice and its outcome. Also found out how to remove an option from an ordered list after one has been clicked. Added a few more scenarios as well.
+
+:tomato:
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
