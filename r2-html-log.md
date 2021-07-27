@@ -35,7 +35,8 @@
   - [Day 65](#day-65)
   - [Day 66](#day-66)
   - [Day 67](#day-67)
-  - [Day 68 - Latest entry](#day-68)
+  - [Day 68](#day-68)
+  - [Day 69 - Latest entry](#day-69)
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -1105,6 +1106,21 @@ Worked a little bit on the code, managing to enable/disable a button until/when 
 On the first scenario of Encounter 1, added a third choice and its outcome. Also found out how to remove an option from an ordered list after one has been clicked. Added a few more scenarios as well.
 
 :tomato:
+
+### Day 69
+**Round 2 Day 69, Jul 29th, 2021**
+## Contents 69
+- [What I did today](#what-i-did-today-69)
+- [Interesting links](#interesting-links-69)
+
+## What I did today 69
+
+Organized the code a little bit, kept adding a few unused scenarios and also investigated how memory management in JavaScript works.
+
+## Interesting links 69
+
+- [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
