@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-//my Log// 
+//Victorious Foulks: Coding Captains log// 
 ### Day 1: July 21, Wednesday:
 
 **What I Learnt Today** Getting a better understanding of using Git bash's commands, 
@@ -50,9 +50,27 @@ When I get aa chance it would be good to make up some random functions to practi
 **What I Learnt Today** I attempted the HangMan project in HTML and JavaScript. I learnt about while...loops and how to intergrate loops with array.join into an array to make it display other characteres
 other than the typical["","",""], and instead would have it pop up as a prompt with just underscores.
 
-**THought** Everything seems correct with my code, but trying to get Visual Studio code to preview it and run it how I want to see it is a challenge,
+**Thoughts** Everything seems correct with my code, but trying to get Visual Studio code to preview it and run it how I want to see it is a challenge,
 I'll have to review to make sure it is written correctly, or just find a different IDE so I can display my code.
 
 **feeling** happy to have done it, but a little frustrated with VS code.
 **Links**
 [https://nostarch.com/download/JS4K_ch7.pdf]
+
+### Day 6: July 26, Monday
+
+**What I Learnt Today** I learned alot today so I'm just gonna put it into an array. <script>const learntSubjects= ["currying","complex Functions","Scope & Closures"
+,"using anonymous functions in a object that goes back into a function"]</script>.
+
+**Thoughts** had my JavaScript class today. We covered ALOT. I feel like i have a pretty firm grip of closures and functions, so the homework should be do-able. 
+Gonna look at this homework and then the next one which is about currying.
+
+**Feeling** feeling a bit overwhelmed, but i am excited to see how this develops me
+
+**Feeling** a bit overwhelmed
+
+**Links**
+[https://slides.com/accjavascript/deck-2-11#/3]
+
+
+
