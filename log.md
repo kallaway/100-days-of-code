@@ -72,5 +72,16 @@ Gonna look at this homework and then the next one which is about currying.
 **Links**
 [https://slides.com/accjavascript/deck-2-11#/3]
 
+### Day 7: July 27,Tuesday 
+
+** What I Learnt Today** Finished my Cloning objects homework and learned how to shallow copy objects with the Spread Operator(...object/array) and also deep copy things with JSON.parse(JSON.stringify()).
+Pretty good practice and good stuff to know to reuse objects in different ways
+
+**Feeling** Pretty Good ready for class tomorrow
+
+**Links**
+[https://slides.com/accjavascript/deck-10/#/66/0/1]
+[https://slides.com/accjavascript/deck-10/#/64]
+
 
 
