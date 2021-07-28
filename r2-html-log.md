@@ -1,41 +1,43 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 1](#day-1)
-  - [Day 35](#day-35)
-  - [Day 36](#day-36)
-  - [Day 37](#day-37)
-  - [Day 38](#day-38)
-  - [Day 39](#day-39)
-  - [Day 40](#day-40)
-  - [Day 41](#day-41)
-  - [Day 42](#day-42)
-  - [Day 43](#day-43)
-  - [Day 44](#day-44)
-  - [Day 45](#day-45)
-  - [Day 46](#day-46)
-  - [Day 47](#day-47)
-  - [Day 48](#day-48)
-  - [Day 49](#day-49)
-  - [Day 50](#day-50)
-  - [Day 51](#day-51)
-  - [Day 52](#day-52)
-  - [Day 53](#day-53)
-  - [Day 54](#day-54)
-  - [Day 55](#day-55)
-  - [Day 56](#day-56)
-  - [Day 57](#day-57)
-  - [Day 58](#day-58)
-  - [Day 59](#day-59)
-  - [Day 60](#day-60)
-  - [Day 61](#day-61)
-  - [Day 62](#day-62)
-  - [Day 63](#day-63)
-  - [Day 64](#day-64)
-  - [Day 65](#day-65)
-  - [Day 66](#day-66)
+  - [Day 69 - Latest entry](#day-69)
+  - [Day 68](#day-68)
   - [Day 67](#day-67)
-  - [Day 68 - Latest entry](#day-68)
+  - [Day 66](#day-66)
+  - [Day 65](#day-65)
+  - [Day 64](#day-64)
+  - [Day 63](#day-63)
+  - [Day 62](#day-62)
+  - [Day 61](#day-61)
+  - [Day 60](#day-60)
+  - [Day 59](#day-59)
+  - [Day 58](#day-58)
+  - [Day 57](#day-57)
+  - [Day 56](#day-56)
+  - [Day 55](#day-55)
+  - [Day 54](#day-54)
+  - [Day 53](#day-53)
+  - [Day 52](#day-52)
+  - [Day 51](#day-51)
+  - [Day 50](#day-50)
+  - [Day 49](#day-49)
+  - [Day 48](#day-48)
+  - [Day 47](#day-47)
+  - [Day 46](#day-46)
+  - [Day 45](#day-45)
+  - [Day 44](#day-44)
+  - [Day 43](#day-43)
+  - [Day 42](#day-42)
+  - [Day 41](#day-41)
+  - [Day 40](#day-40)
+  - [Day 39](#day-39)
+  - [Day 38](#day-38)
+  - [Day 37](#day-37)
+  - [Day 36](#day-36)
+  - [Day 35](#day-35)
+  - [Day 1](#day-1)
+
 - [About me](#about-me)
 
 **#100DaysOfCode Log - Round 2 - Anubis Lockward**
@@ -1106,7 +1108,36 @@ On the first scenario of Encounter 1, added a third choice and its outcome. Also
 
 :tomato:
 
+### Day 69
+**Round 2 Day 69, Jul 29th, 2021**
+## Contents 69
+- [What I did today](#what-i-did-today-69)
+- [Interesting links](#interesting-links-69)
+
+## What I did today 69
+
+Organized the code a little bit, kept adding a few unused scenarios and also investigated how memory management in JavaScript works. I also found something strange, that using Array.forEach() always returns *undefined*. It is not a bug but part of the forEach() method.
+
+There's a bug that has been driving me crazy and it has to do with the path to the main CSS file for the basic stylings that the pages should have. Right now I'm using separate pages to load the different scenarios but I am aware that I can make this a single page APP, which is my intention down the road. But since I'm trying to do it with what I learn right now I have been only investigating stuff that I need to do, when the need for doing them arises, so right now I'm trying to investigate about implementing a way of Routing these file's locations, and doing it by using Vanilla JavaScript
+
+In the end I ended up having to manually fix the path of the css files in all different web pages.
+
+While I was at it, I started fixing the paths to open the scenarios online since I found out that the game didn't work on Github Pages. I think I'm halfway there.
+
+- Modified grabTarget() method in taintedRoot object to set targetGrappled to true when called.
+- Fixed a bug that was causing the css and JavaScript files to not be loaded correctly on GitHub Pages.
+- Then fixed a lot of bugs that were caused after I tried what I thought was a proper solution for the problem above.
+
+## Interesting links 69
+
+- [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+- [Function with forEach returns undefined even with return statement](https://stackoverflow.com/questions/16392445/function-with-foreach-returns-undefined-even-with-return-statement)
+- [CSS not being applied in pages](https://github.community/t/css-not-being-applied-in-pages/10466)
+- [Implementing Simple SPA Routing Using Vanilla JavaScript](https://medium.com/altcampus/implementing-simple-spa-routing-using-vanilla-javascript-53abe399bf3c)
+
+:tomato: :tomato: :tomato:
+
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
-- Website - [My Portfolio, please not that it is still a work in progress](https://mr2much.github.io/webdev/)
+- Website - [My Portfolio, please note that it is still a work in progress](https://mr2much.github.io/webdev/)
 - Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
