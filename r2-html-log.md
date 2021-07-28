@@ -1116,12 +1116,26 @@ On the first scenario of Encounter 1, added a third choice and its outcome. Also
 
 ## What I did today 69
 
-Organized the code a little bit, kept adding a few unused scenarios and also investigated how memory management in JavaScript works.
+Organized the code a little bit, kept adding a few unused scenarios and also investigated how memory management in JavaScript works. I also found something strange, that using Array.forEach() always returns *undefined*. It is not a bug but part of the forEach() method.
+
+There's a bug that has been driving me crazy and it has to do with the path to the main CSS file for the basic stylings that the pages should have. Right now I'm using separate pages to load the different scenarios but I am aware that I can make this a single page APP, which is my intention down the road. But since I'm trying to do it with what I learn right now I have been only investigating stuff that I need to do, when the need for doing them arises, so right now I'm trying to investigate about implementing a way of Routing these file's locations, and doing it by using Vanilla JavaScript
+
+In the end I ended up having to manually fix the path of the css files in all different web pages.
+
+While I was at it, I started fixing the paths to open the scenarios online since I found out that the game didn't work on Github Pages. I think I'm halfway there.
+
+- Modified grabTarget() method in taintedRoot object to set targetGrappled to true when called.
+- Fixed a bug that was causing the css and JavaScript files to not be loaded correctly on GitHub Pages.
+- Then fixed a lot of bugs that were caused after I tried what I thought was a proper solution for the problem above.
 
 ## Interesting links 69
 
 - [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+- [Function with forEach returns undefined even with return statement](https://stackoverflow.com/questions/16392445/function-with-foreach-returns-undefined-even-with-return-statement)
+- [CSS not being applied in pages](https://github.community/t/css-not-being-applied-in-pages/10466)
+- [Implementing Simple SPA Routing Using Vanilla JavaScript](https://medium.com/altcampus/implementing-simple-spa-routing-using-vanilla-javascript-53abe399bf3c)
 
+:tomato: :tomato: :tomato:
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
