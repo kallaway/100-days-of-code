@@ -67,21 +67,32 @@ Gonna look at this homework and then the next one which is about currying.
 
 **Feeling** feeling a bit overwhelmed, but i am excited to see how this develops me
 
-**Feeling** a bit overwhelmed
-
 **Links**
 [https://slides.com/accjavascript/deck-2-11#/3]
 
 ### Day 7: July 27,Tuesday 
 
 ** What I Learnt Today** Finished my Cloning objects homework and learned how to shallow copy objects with the Spread Operator(...object/array) and also deep copy things with JSON.parse(JSON.stringify()).
-Pretty good practice and good stuff to know to reuse objects in different ways
+Pretty good practice and good stuff to know to reuse objects in different ways.
 
 **Feeling** Pretty Good ready for class tomorrow
 
 **Links**
 [https://slides.com/accjavascript/deck-10/#/66/0/1]
 [https://slides.com/accjavascript/deck-10/#/64]
+
+### Days 8: July 28, Wednesday
+
+**What I learnt Today** Today I learned about Callbacks, where functions are passed in other functions' arguments then executed. 
+I also learned how to create a repository in Github and setup the upload to the master repository.
+
+**Thoughts** things are kinda coalescing together, from passing different things into functions arguments to make more higher functioning code. I just need to remember when to use which.
+
+**Feeling** Class is really ramping up, so that stressing feeling of being overwhelmed isn't really going away,especially with the Hangman project starting. But I am eager to work on it,
+especially since it is do on 8/16 so I have time.
+
+**Links**
+[https://slides.com/accjavascript/deck-2-11#/19]
 
 
 
