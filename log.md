@@ -1285,3 +1285,32 @@ def conn
 end
 end
 
+#100DaysOfCode 2nd_rap Day: 087/100
+I tried AtCoder(A - Multiplication 1)
+As expected, the problem was too easy, so I wrote it using classes.
+There's a difference in difficulty even in A problems...
+
+class Calculator
+def calc(a, b)
+puts @total = a * b
+end
+end
+
+a, b = gets.split.map(&:to_i)
+total = Calculator.new
+total.calc(a, b)
+
+#100DaysOfCode 2nd_rap Day: 088/100
+I tried AtCoder(A - ∴ (Therefore))
+
+n = gets.to_s.chomp
+arry = n.chars.map(&:to_s)
+m = arry[-1]
+
+if m == '3'
+puts 'bon'
+elsif m ==  '0' || m == '1' || m == '6' || m == '8'
+puts 'pon'
+else
+puts 'hon'
+end
