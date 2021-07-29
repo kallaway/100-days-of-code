@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 69 - Latest entry](#day-69)
+  - [Day 70 - Latest entry](#day-70)
+  - [Day 69](#day-69)
   - [Day 68](#day-68)
   - [Day 67](#day-67)
   - [Day 66](#day-66)
@@ -1109,7 +1110,7 @@ On the first scenario of Encounter 1, added a third choice and its outcome. Also
 :tomato:
 
 ### Day 69
-**Round 2 Day 69, Jul 29th, 2021**
+**Round 2 Day 69, Jul 27th, 2021**
 ## Contents 69
 - [What I did today](#what-i-did-today-69)
 - [Interesting links](#interesting-links-69)
@@ -1136,6 +1137,19 @@ While I was at it, I started fixing the paths to open the scenarios online since
 - [Implementing Simple SPA Routing Using Vanilla JavaScript](https://medium.com/altcampus/implementing-simple-spa-routing-using-vanilla-javascript-53abe399bf3c)
 
 :tomato: :tomato: :tomato:
+
+### Day 70
+**Round 2 Day 70, Jul 28th, 2021**
+## Contents 70
+- [What I did today](#what-i-did-today-70)
+
+## What I did today 70
+
+Resumed advancing The Web Developer Bootcamp course on Udemy. I rewatched the video on Rest Params and Destructuring in JavaScript.
+
+Then worked on fixing the path to the files for the rest of the counters so that it works online. Though I didn't test it out.
+
+:tomato:
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
