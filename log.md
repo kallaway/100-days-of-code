@@ -1314,3 +1314,11 @@ puts 'pon'
 else
 puts 'hon'
 end
+
+#100DaysOfCode 2nd_rap Day: 089/100
+I tried AtCoder(A - Registration)
+Today, I used chop methods.
+
+s = gets.to_s.chomp
+t = gets.to_s.chomp
+puts s == t.chop ? 'Yes' : 'No'
