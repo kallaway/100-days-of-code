@@ -1,7 +1,9 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 70 - Latest entry](#day-70)
+  - [Day 72 - Latest entry](#day-72)
+  - [Day 71](#day-71)
+  - [Day 70](#day-70)
   - [Day 69](#day-69)
   - [Day 68](#day-68)
   - [Day 67](#day-67)
@@ -1150,6 +1152,26 @@ Resumed advancing The Web Developer Bootcamp course on Udemy. I rewatched the vi
 Then worked on fixing the path to the files for the rest of the counters so that it works online. Though I didn't test it out.
 
 :tomato:
+
+### Day 71
+**Round 2 Day 71, Jul 29th, 2021**
+## Contents 71
+- [What I did today](#what-i-did-today-71)
+
+## What I did today 71
+
+- Watched video about Destructing from Objects and Destructuring from Params.
+
+:tomato:
+
+### Day 72
+**Round 2 Day 72, Jul 30th, 2021**
+## Contents 72
+- [What I did today](#what-i-did-today-72)
+
+## What I did today 72
+
+Started doing a challenge called the 30 days of Vanilla JavaScript. Today I worked in creating a JavaScript Drum Kit.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
