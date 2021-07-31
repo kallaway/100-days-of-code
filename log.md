@@ -1322,3 +1322,20 @@ Today, I used chop methods.
 s = gets.to_s.chomp
 t = gets.to_s.chomp
 puts s == t.chop ? 'Yes' : 'No'
+
+#100DaysOfCode 2nd_rap Day: 090/100
+I tried AtCoder(A \- A?C、A \- We Love Golf)
+
+s = gets.to_s.chomp
+puts s == 'ABC' ? 'ARC' : 'ABC'
+
+k = gets.to_i
+a, b = gets.split.map(&:to_i)
+
+a.upto(b) do |n|
+if n % k == 0
+@flying_distance = 'OK'
+break
+end
+end
+puts @flying_distance ||= 'NG'
