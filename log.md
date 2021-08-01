@@ -1339,3 +1339,12 @@ break
 end
 end
 puts @flying_distance ||= 'NG'
+
+#100DaysOfCode 2nd_rap Day: 091/100
+I tried AtCoder(A \- Sheep and Wolves, A \- Circle Pond)
+I solved two problems.
+s, w = gets.split.map(&:to_i)
+puts s <= w ? 'unsafe' : 'safe'
+
+r = gets.to_f
+puts circle_pond = r * 2 * 3.14
