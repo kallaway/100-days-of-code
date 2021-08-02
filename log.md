@@ -1348,3 +1348,16 @@ puts s <= w ? 'unsafe' : 'safe'
 
 r = gets.to_f
 puts circle_pond = r * 2 * 3.14
+
+#100DaysOfCode 2nd_rap Day: 092/100
+Today, I tried to introduce the kaminari's gem for the assignment.
+The basic implementation was done.
+
+/app/controllers/books_controller.rb
+def index
+	@books = Book.page(params[:page]).per(2) 
+end
+
+/app/views/books/index.html.erb
+<%= paginate @items %>
+
