@@ -1181,7 +1181,7 @@ Started doing a challenge called the 30 days of Vanilla JavaScript. Today I work
 
 ## What I did today 73
 
-
+Completed the second project which was a JavaScript + CSS Clock, very interesting project, I completed around 50% of it on my own without watching the entire video and even corrected a bug that was left unsolved in the video, which was done on purpose to encourage practice and trial and error.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
