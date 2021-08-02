@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 72 - Latest entry](#day-72)
+  - [Day 73 - Latest entry](#day-73)
+  - [Day 72](#day-72)
   - [Day 71](#day-71)
   - [Day 70](#day-70)
   - [Day 69](#day-69)
@@ -1172,6 +1173,15 @@ Then worked on fixing the path to the files for the rest of the counters so that
 ## What I did today 72
 
 Started doing a challenge called the 30 days of Vanilla JavaScript. Today I worked in creating a JavaScript Drum Kit.
+
+### Day 73
+**Round 2 Day 73, Aug 1st, 2021**
+## Contents 73
+- [What I did today](#what-i-did-today-73)
+
+## What I did today 73
+
+Completed the second project which was a JavaScript + CSS Clock, very interesting project, I completed around 50% of it on my own without watching the entire video and even corrected a bug that was left unsolved in the video, which was done on purpose to encourage practice and trial and error.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
