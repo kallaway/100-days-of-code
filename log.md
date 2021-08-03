@@ -1361,3 +1361,9 @@ end
 /app/views/books/index.html.erb
 <%= paginate @items %>
 
+#100DaysOfCode 2nd_rap Day: 093/100
+I tried AtCoder(A - Lucky 7)
+
+n = gets.to_s.chomp
+puts n.include?('7') ? 'Yes' : 'No'
+
