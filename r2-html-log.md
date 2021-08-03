@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 73 - Latest entry](#day-73)
+  - [Day 74 - Latest entry](#day-74)
+  - [Day 73](#day-73)
   - [Day 72](#day-72)
   - [Day 71](#day-71)
   - [Day 70](#day-70)
@@ -1182,6 +1183,21 @@ Started doing a challenge called the 30 days of Vanilla JavaScript. Today I work
 ## What I did today 73
 
 Completed the second project which was a JavaScript + CSS Clock, very interesting project, I completed around 50% of it on my own without watching the entire video and even corrected a bug that was left unsolved in the video, which was done on purpose to encourage practice and trial and error.
+
+### Day 74
+**Round 2 Day 74, Aug 2nd, 2021**
+## Contents 74
+- [What I did today](#what-i-did-today-74)
+
+## What I did today 74
+
+Tackled the third project of the 30 Days of JavaScript which is about changing CSS variables from within Vanilla JS. This one I couldn't figure out on my own, but I was able to find some of the values that could be assigned to detect a Mouse Event, but I forgot to copy the MDN link so I could post it here.
+
+Learned that when you create a custom property for an HTML Element you have to use "data-" and then the custom name that you are going to use, which will create a dataset object for the Element, and the names of the properties will be the names we use after the dash "-" and the value will be the one we assigned to the property after the equals sign "="
+
+But, can I insert or modify values inside of a dataset just like I do with regular objects?, I think I'll have to test this out.
+
+Also, by using this variables or similar techniques to the ones used for this project, would I be able to simplify my code for the Dark Awakenings text based game?, I'll have to test it out and see what happens if I assign custom properties to the elements and access them using the character names or something similar.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
