@@ -1367,3 +1367,15 @@ I tried AtCoder(A - Lucky 7)
 n = gets.to_s.chomp
 puts n.include?('7') ? 'Yes' : 'No'
 
+#100DaysOfCode 2nd_rap Day: 094/100
+I tried AtCoder(A -ABC Swap)
+
+a, b, c = gets.to_s.split.map(&:to_s)
+x, y, z = c, a, b
+puts "#{x} #{y} #{z}"
+
+arry = gets.split.map(&:to_i)
+puts arry.rotate(2).join(' ')
+
+The rotate method passes cnt as an argument, where cnt stands for count.
+https://docs.ruby-lang.org/ja/3.0.0/method/Array/i/rotate.html
