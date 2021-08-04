@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 74 - Latest entry](#day-74)
+  - [Day 75 - Latest entry](#day-75)
+  - [Day 74](#day-74)
   - [Day 73](#day-73)
   - [Day 72](#day-72)
   - [Day 71](#day-71)
@@ -1198,6 +1199,34 @@ Learned that when you create a custom property for an HTML Element you have to u
 But, can I insert or modify values inside of a dataset just like I do with regular objects?, I think I'll have to test this out.
 
 Also, by using this variables or similar techniques to the ones used for this project, would I be able to simplify my code for the Dark Awakenings text based game?, I'll have to test it out and see what happens if I assign custom properties to the elements and access them using the character names or something similar.
+
+### Day 75
+**Round 2 Day 75, Aug 3rd, 2021**
+## Contents 75
+- [What I did today](#what-i-did-today-75)
+
+## What I did today 75
+
+I stared working on the 4th project of the 30 Days JavaScript Challenge, it's an exercise about practicing with different array methods. There are a total of eight exercises of which I managed to do seven on my own.
+
+I also learned that there is a function that one can use with ``console`` called **table**, which is used like this:
+
+```js
+console.table(<array value>);
+```
+
+The value passed has to be an array or an object. What the function does is show the `data` in a table format.
+
+I also learned that Array.prototype.map() always returns a new array with the same amount of items that were given to it.
+
+Another cool trick I learned is that you can call ``querySelector()`` or ``querySelectorAll()`` against any existing DOM element inside of my JavaScript file, and it will work the same as if I had called ``document.querySelector()`` but it will only bring me the value found inside of my current Element.
+
+For example:
+
+```js
+const category = document.querySelector(".mw-category"); // get category div
+const links = category.querySelectorAll("a"); // gets all links inside of the category div
+```
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
