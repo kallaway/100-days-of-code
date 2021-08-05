@@ -1379,3 +1379,13 @@ puts arry.rotate(2).join(' ')
 
 The rotate method passes cnt as an argument, where cnt stands for count.
 https://docs.ruby-lang.org/ja/3.0.0/method/Array/i/rotate.html
+
+#100DaysOfCode 2nd_rap Day: 095/100
+I tried AtCoder(A -Coffee)
+
+S = gets.chomp.chars.map(&:to_s)
+if S[2] == S[3] && S[4] == S[5]
+puts 'Yes'
+else
+puts 'No'
+end
