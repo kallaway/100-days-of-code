@@ -1,7 +1,9 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 74 - Latest entry](#day-74)
+  - [Day 76 - Latest entry](#day-76)
+  - [Day 75](#day-75)
+  - [Day 74](#day-74)
   - [Day 73](#day-73)
   - [Day 72](#day-72)
   - [Day 71](#day-71)
@@ -1198,6 +1200,88 @@ Learned that when you create a custom property for an HTML Element you have to u
 But, can I insert or modify values inside of a dataset just like I do with regular objects?, I think I'll have to test this out.
 
 Also, by using this variables or similar techniques to the ones used for this project, would I be able to simplify my code for the Dark Awakenings text based game?, I'll have to test it out and see what happens if I assign custom properties to the elements and access them using the character names or something similar.
+
+### Day 75
+**Round 2 Day 75, Aug 3rd, 2021**
+## Contents 75
+- [What I did today](#what-i-did-today-75)
+
+## What I did today 75
+
+I stared working on the 4th project of the 30 Days JavaScript Challenge, it's an exercise about practicing with different array methods. There are a total of eight exercises of which I managed to do seven on my own.
+
+I also learned that there is a function that one can use with ``console`` called **table**, which is used like this:
+
+```js
+console.table(<array value>);
+```
+
+The value passed has to be an array or an object. What the function does is show the `data` in a table format.
+
+I also learned that Array.prototype.map() always returns a new array with the same amount of items that were given to it.
+
+Another cool trick I learned is that you can call ``querySelector()`` or ``querySelectorAll()`` against any existing DOM element inside of my JavaScript file, and it will work the same as if I had called ``document.querySelector()`` but it will only bring me the value found inside of my current Element.
+
+For example:
+
+```js
+const category = document.querySelector(".mw-category"); // get category div
+const links = category.querySelectorAll("a"); // gets all links inside of the category div
+```
+
+### Day 76
+**Round 2 Day 76, Aug 4th, 2021**
+## Contents 76
+- [What I did today](#what-i-did-today-76)
+
+## What I did today 76
+
+The sixth example of the fourth day of the 30 Days JavaScript challenge wasn't working for me. The exercise required one to fetch data from a wikipedia article, which was being blocked because it doesn't accept CORS [Cross-Origin Resource Sharing], or I didn't know how to set it up properly. Anyways, trying to do this was taking too long and my focus right now is not to be bugged down by getting deeper into the rabbit hole, so I looked how to do it by using the Wikipedia API.
+
+It took me a while to be able to do it and a lot of googling around and document reading, as well as a few hours of poking and trying stuff to see what stuck. It got to the point where I was in 'Fuck it' mode and just started trying out code from the examples until something worked. :sweat_smile:
+
+In the end I managed to do it by using a module of the Wikipedia API called `*Categorymembers*`
+
+But then there was the problem that `fetch()` is an asynchronous function and so I wanted to assign the returned value to an array outside of it. And when I was trying to `.filter()` the values in the array, it was showing that the array was empty. I asked around and some folks suggested that I should use a `setTimeout()` of three seconds to wait until the data was fetched, and that's what I did. I'm not entirely happy about doing it that way, but for the example I'm working with it works just fine, so I am going to let it as is for now until I learn of a better way of doing it.
+
+This was the suggested way of doing it on the course, but it seems that the code doesn't work anymore, or I didn't know how to implement it:
+
+```js
+// 6. create a list of Boulevards in Paris that contain 'de' anywhere in the name
+// https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
+console.time('6. Boulevards');
+const xhr = new XMLHttpRequest();
+
+//ResponseType cannot be set on sync ajax requests
+//xhr.responseType = "json";
+
+xhr.open('get', 'https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&list=categorymembers&cmtitle=Category%3ABoulevards_in_Paris&cmlimit=max', false);
+
+xhr.onreadystatechange = function() {
+  const DONE = 4; // readyState 4 means the request is done.
+  const OK = 200; // status 200 is a successful return.
+  if (xhr.readyState === DONE) {
+    if (xhr.status === OK) {
+      const data = JSON.parse(xhr.response).query.categorymembers;
+      const boulevards = data.map(cm => cm.title);
+
+      const de = boulevards.filter(name => name.includes('de'));
+      console.timeEnd('6. Boulevards');
+      console.log(de);
+    } else {
+      console.log('Error: ' + xhr.status); // An error occurred during the request.
+    }
+  }
+};
+xhr.send();
+```
+
+## Interesting links 76
+
+- [MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page)
+- [MediaWiki API - Categorymembers Documentation](https://www.mediawiki.org/wiki/API:Categorymembers)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [ES6 Way to Clone an Array](https://www.samanthaming.com/tidbits/35-es6-way-to-clone-an-array/)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
