@@ -1389,3 +1389,11 @@ puts 'Yes'
 else
 puts 'No'
 end
+
+#100DaysOfCode 2nd_rap Day: 096/100
+I tried AtCoder(A -The Number of Even Pairs)
+I understood this code.
+But,Full exploration is difficult.
+
+n, m = gets.split.map(&:to_i)
+puts (n*(n-1)/2) + (m*(m-1)/2)
