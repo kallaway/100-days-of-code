@@ -1306,6 +1306,8 @@ return obj;
 
 And since I had to complete today's challenge I also did the one corresponding to the fifth day. It was a really fun one too called Flex Panels Image Gallery. It is simple yet looks awesome.
 
+Also finally completed Section 23 or the Web Developer Bootcamp on Udemy and started Section 24 which is about manipulating DOM elements from JavaScript.
+
 ## Interesting links 77
 
 - [Flex Panel Gallery](https://mr2much.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
