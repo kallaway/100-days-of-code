@@ -1397,3 +1397,9 @@ But,Full exploration is difficult.
 
 n, m = gets.split.map(&:to_i)
 puts (n*(n-1)/2) + (m*(m-1)/2)
+
+#100DaysOfCode 2nd_rap Day: 097/100
+I tried AtCoder(A - Station and Bus)
+
+S = gets.to_s.chomp.chars
+puts S.uniq.count  >= 2 ? 'Yes' : 'No'
