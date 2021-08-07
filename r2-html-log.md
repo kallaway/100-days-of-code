@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 78 - Latest entry](#day-78)
+  - [Day 79 - Latest entry](#day-79)
+  - [Day 78](#day-78)
   - [Day 77](#day-77)
   - [Day 76](#day-76)
   - [Day 75](#day-75)
@@ -1325,6 +1326,22 @@ Okay, I had to go to work and do a lot of job related stuff so I was not able to
 I watched the entire video and the truth is that this new project got me really excited. I can't wait until tomorrow to start applying it and use the tips on that one to solve the issue that I am having with the `.fetch()` on the Array Cardio 1.
 
 :tomato:
+
+### Day 79
+**Round 2 Day 79, Aug 7th, 2021**
+## Contents 79
+- [What I did today](#what-i-did-today-79)
+- [Interesting links](#interesting-links-79)
+
+## What I did today 79
+
+Today I continued working with the project for the sixth day of JavaScript. I started coding from my mind what I remember after seeing the video last night and managed to get half of it up and running.
+
+Also, for the final bit about how to properly format numbers, the instructor used some form of Regular Expression to do it, I used something called `Intl.NumberFormat` to achieve the same result. I am also going to try to implement the solution used in this example to solve the issue I mentioned on my previous entry about the way I was using `fetch()` on [Day 76](#day-76)
+
+## Interesting links 79
+
+- [Intl.NumberFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
