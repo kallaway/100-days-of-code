@@ -1,7 +1,9 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 76 - Latest entry](#day-76)
+  - [Day 78 - Latest entry](#day-78)
+  - [Day 77](#day-77)
+  - [Day 76](#day-76)
   - [Day 75](#day-75)
   - [Day 74](#day-74)
   - [Day 73](#day-73)
@@ -1233,6 +1235,7 @@ const links = category.querySelectorAll("a"); // gets all links inside of the ca
 **Round 2 Day 76, Aug 4th, 2021**
 ## Contents 76
 - [What I did today](#what-i-did-today-76)
+- [Interesting links](#interesting-links-76)
 
 ## What I did today 76
 
@@ -1282,6 +1285,46 @@ xhr.send();
 - [MediaWiki API - Categorymembers Documentation](https://www.mediawiki.org/wiki/API:Categorymembers)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [ES6 Way to Clone an Array](https://www.samanthaming.com/tidbits/35-es6-way-to-clone-an-array/)
+
+### Day 77
+**Round 2 Day 77, Aug 5th, 2021**
+## Contents 77
+- [What I did today](#what-i-did-today-77)
+- [Interesting links](#interesting-links-77)
+
+## What I did today 77
+
+I finished with the last problem of the 4th day of the 30 Days of JavaScript. I had to watch the video explaining how to do it since I couldn't come up with a simple way of doing it myself. The method used in the video was quite interesting in that it used an array of existing data items to create the keys of an object as in `obj[item]`. The code looks like this:
+
+```js
+if (!obj[item]) {
+  obj[item] = 0;
+}
+
+obj[item]++;
+return obj;
+```
+
+And since I had to complete today's challenge I also did the one corresponding to the fifth day. It was a really fun one too called Flex Panels Image Gallery. It is simple yet looks awesome.
+
+Also finally completed Section 23 or the Web Developer Bootcamp on Udemy and started Section 24 which is about manipulating DOM elements from JavaScript.
+
+## Interesting links 77
+
+- [Flex Panel Gallery](https://mr2much.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
+
+### Day 78
+**Round 2 Day 78, Aug 6th, 2021**
+## Contents 78
+- [What I did today](#what-i-did-today-78)
+
+## What I did today 78
+
+Okay, I had to go to work and do a lot of job related stuff so I was not able to code today at all, so I decided to watch the video for the sixth lesson in the **30 Day Vanilla JS Coding Challenge**, Ajax Type Ahead. It is a pretty interesting project and we are going to learn how to properly use `fetch()`, which was giving me some issues for the previous project I did on the fourth day, since I didn't know how it worked when I used it. What is interesting is that in the example they go through a similar problem than the one I was having.
+
+I watched the entire video and the truth is that this new project got me really excited. I can't wait until tomorrow to start applying it and use the tips on that one to solve the issue that I am having with the `.fetch()` on the Array Cardio 1.
+
+:tomato:
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
