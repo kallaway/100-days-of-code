@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 77 - Latest entry](#day-77)
+  - [Day 78 - Latest entry](#day-78)
+  - [Day 77](#day-77)
   - [Day 76](#day-76)
   - [Day 75](#day-75)
   - [Day 74](#day-74)
@@ -1311,6 +1312,19 @@ Also finally completed Section 23 or the Web Developer Bootcamp on Udemy and sta
 ## Interesting links 77
 
 - [Flex Panel Gallery](https://mr2much.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
+
+### Day 78
+**Round 2 Day 78, Aug 6th, 2021**
+## Contents 78
+- [What I did today](#what-i-did-today-78)
+
+## What I did today 78
+
+Okay, I had to go to work and do a lot of job related stuff so I was not able to code today at all, so I decided to watch the video for the sixth lesson in the **30 Day Vanilla JS Coding Challenge**, Ajax Type Ahead. It is a pretty interesting project and we are going to learn how to properly use `fetch()`, which was giving me some issues for the previous project I did on the fourth day, since I didn't know how it worked when I used it. What is interesting is that in the example they go through a similar problem than the one I was having.
+
+I watched the entire video and the truth is that this new project got me really excited. I can't wait until tomorrow to start applying it and use the tips on that one to solve the issue that I am having with the `.fetch()` on the Array Cardio 1.
+
+:tomato:
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
