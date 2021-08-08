@@ -1403,3 +1403,9 @@ I tried AtCoder(A - Station and Bus)
 
 S = gets.to_s.chomp.chars
 puts S.uniq.count  >= 2 ? 'Yes' : 'No'
+
+#100DaysOfCode 2nd_rap Day: 098/100
+I tried AtCoder(A - Duplex Printing)
+
+n = gets.to_i
+puts (n+1) / 2
