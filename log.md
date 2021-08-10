@@ -94,7 +94,7 @@ especially since it is do on 8/16 so I have time.
 **Links**
 [https://slides.com/accjavascript/deck-2-11#/19]
 
-### Day 8: August 10, Monday
+### Day 9: August 10, Monday
 
 **What I learnt Today** Today I learnt about the DOM (Document Object Model) and how to access and put code there. Also learned how to target certain HTML elements in the DOM
 document.querySelector in the Debugger tools.
