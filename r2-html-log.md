@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 81 - Latest entry](#day-81)
+  - [Day 82 - Latest entry](#day-82)
+  - [Day 81](#day-81)
   - [Day 80](#day-80)
   - [Day 79](#day-79)
   - [Day 78](#day-78)
@@ -1485,6 +1486,28 @@ And the code for fetching the data now uses the `wikiURL` instead of the `wikiAP
 ## Interesting links 81
 
 - [Tips For Using Async/Await in JavaScript](https://youtu.be/_9vgd9XKlDQ)
+
+### Day 82
+**Round 2 Day 82, Aug 10th, 2021**
+## Contents 82
+- [What I did today](#what-i-did-today-82)
+- [Interesting links](#interesting-links-82)
+
+## What I did today 82
+
+Resumed working with my Dark Awakenings game. Fixed a few errors with the paths to some of the files which were avoiding the game from being played online and correctly loading the resources, like the css files and stuff. Also added the code to activate a few options and I'm thinking of going back to having the objects contain data only in order to be able to store them again in LocalStorage because someone suggested to me that I should find a way to implement a save system so that people were able to store their game session and resume it at a later time. Right now, with the way I have implemented it that doesn't seem to be possible or at least I don't know how to do it, since my objects currently contain methods.
+
+It was adviced to me that I should implement the code that handles the parts that need methods when it is necessary instead of having the methods be part of the objects, or that the code for that should be included in the current scene that I have loaded.
+
+Having the methods be stored in localStorage means that I am going to have to go implement the code as I had it in the beginning.
+
+Also added a function in the `fight` scenario for dragging the target closer to the Chasm. I just have to change the code up a bit to make the taintedRoot roll the damage in there instead of the way I'm currently doing it.
+
+I also think that I fixed most of the bugs I had with the paths to the files and scenarios of the game, and that the version that's currently published on GitHub Pages is fully playable right now.
+
+## Interesting links 82
+
+- [Dark Awakenings](https://mr2much.github.io/webdev/dark_awakenings/)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
