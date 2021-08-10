@@ -1,7 +1,9 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 79 - Latest entry](#day-79)
+  - [Day 81 - Latest entry](#day-81)
+  - [Day 80](#day-80)
+  - [Day 79](#day-79)
   - [Day 78](#day-78)
   - [Day 77](#day-77)
   - [Day 76](#day-76)
@@ -1342,6 +1344,147 @@ Also, for the final bit about how to properly format numbers, the instructor use
 ## Interesting links 79
 
 - [Intl.NumberFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat)
+
+### Day 80
+**Round 2 Day 80, Aug 8th, 2021**
+## Contents 80
+- [What I did today](#what-i-did-today-80)
+- [Interesting links](#interesting-links-80)
+
+## What I did today 80
+
+I modified the code for the 4th day challenge of the 30 Days Vanilla JS Challenge and I find the solution I ended up with much pleasing than what I had. For one, I eliminated the three second pause I was using on my first solution. I'm not entirely sure about the last one though, since the code is still asynchronous and thus I'm not entirely sure if it may or may not behave strangely at some point. I think it shouldn't, since using `await` inside of an `async` function makes the behavior more synchronous according to the documentation. But the solution works and I think that it looks cleaner.
+
+After finishing with that, I did the 7th day challenge, doing the code mostly on my own, and only had to watch the video for a few tips or tricks.
+
+```js
+      const de = [];
+      let wikiAPI = "https://en.wikipedia.org/w/api.php";
+
+      const params = {
+        action: "query",
+        format: "json",
+        list: "categorymembers",
+        cmtitle: "Category:Boulevards_in_Paris",
+        cmlimit: "39",
+      };
+
+      wikiAPI += "?origin=*";
+
+      Object.keys(params).forEach(function (key) {
+        wikiAPI += "&" + key + "=" + params[key];
+      });
+
+      async function getTitles(categories) {
+        return categories.map((category) => category.title);
+      }
+
+      async function filterTitles(titles) {
+        return titles.filter((title) => title.includes("de"));
+      }
+
+      async function executeFetch(url) {
+        const response = await fetch(url);
+        const json = await response.json();
+        const categories = json.query.categorymembers;
+        const titles = await getTitles(categories);
+        const filteredTitles = await filterTitles(titles);
+
+        de.push(...filteredTitles);
+      }
+
+      executeFetch(wikiAPI);
+
+      console.log(de);
+``
+
+## Interesting links 80
+
+- [async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+
+### Day 81
+**Round 2 Day 81, Aug 9th, 2021**
+## Contents 81
+- [What I did today](#what-i-did-today-81)
+- [Interesting links](#interesting-links-81)
+
+## What I did today 81
+
+I found another video explaining how to work with `fetch()` and `async/await` and how to make the code cleaner when retrieving data this way. Also, checking my solution for the fourth day exercise of the 30 Days Vanilla JS Challenge, I noticed that the function `executeFetch()` was doing too many things, so I cleaned the code up a bit and separated responsibilities a bit more, finally creating a single `loadData()` function that returned an array with all the titles, then I filtered those outside in an IIFE.
+
+```js
+      const de = [];
+      let wikiAPI = "https://en.wikipedia.org/w/api.php";
+
+      const params = {
+        action: "query",
+        format: "json",
+        list: "categorymembers",
+        cmtitle: "Category:Boulevards_in_Paris",
+        cmlimit: "39",
+      };
+
+      wikiAPI += "?origin=*";
+
+      Object.keys(params).forEach(function (key) {
+        wikiAPI += "&" + key + "=" + params[key];
+      });
+
+      async function getTitles(categories) {
+        return categories.map((category) => category.title);
+      }
+
+      async function filterTitles(titles) {
+        return titles.filter((title) => title.includes("de"));
+      }
+
+      async function loadData() {
+        try {
+          const data = await fetch(wikiAPI);
+          const json = await data.json();
+          const categories = json.query.categorymembers;
+          const titles = await getTitles(categories);
+
+          return titles;
+        } catch (err) {
+          console.log(`There was an error reading data from: ${wikiAPI}`);
+        }
+      }
+
+      (async () => {
+        const allTitles = await loadData();
+
+        const de = await filterTitles(allTitles);
+
+        console.log(de);
+      })();
+```
+
+Then a friend of mine explained to me that the way I was building the URL was not correct and told me to use `URL()` and `.searchParams()` to do so. So now the code to build the URL looks like this:
+
+```js
+      let wikiAPI = "https://en.wikipedia.org/w/api.php";
+
+      const params = {
+        action: "query",
+        format: "json",
+        list: "categorymembers",
+        cmtitle: "Category:Boulevards_in_Paris",
+        cmlimit: "39",
+        origin: "*",
+      };
+
+      let wikiURL = new URL(wikiAPI);
+      for (const k in params) {
+        wikiURL.searchParams.set(k, params[k]);
+      }
+```
+
+And the code for fetching the data now uses the `wikiURL` instead of the `wikiAPI` url that I was using at first. This code looks cleaner. I also improved the way that the exceptions were being handled and moved the exception handling to the IIFE when calling `loadData()` instead of inside of `loadData()` like I was doing it previously.
+
+## Interesting links 81
+
+- [Tips For Using Async/Await in JavaScript](https://youtu.be/_9vgd9XKlDQ)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
