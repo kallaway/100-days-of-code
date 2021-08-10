@@ -1422,3 +1422,22 @@ end
 The point is to replace the equation with a formula and then think about it.
 Don't think complicated. Keep it simple.
 r = x- 100*(10-k)
+
+
+#100DaysOfCode 2nd_rap Day: 0100/100
+I tried AtCoder(A - Remaining Balls)
+Today is 100days!! Good job！Me！
+
+s, t = gets.split.map(&:to_s)
+a, b = gets.split.map(&:to_i)
+u = gets.to_s.chomp
+
+if s == u
+print a - 1
+print ' '
+print b
+else
+print a
+print ' '
+print b - 1
+end
