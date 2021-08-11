@@ -94,7 +94,7 @@ especially since it is do on 8/16 so I have time.
 **Links**
 [https://slides.com/accjavascript/deck-2-11#/19]
 
-### Day 9: August 10, Monday
+### Day 9: August 9, Monday
 
 **What I learnt Today** Today I learnt about the DOM (Document Object Model) and how to access and put code there. Also learned how to target certain HTML elements in the DOM
 document.querySelector in the Debugger tools.
@@ -107,4 +107,15 @@ document.querySelector in the Debugger tools.
 [https://slides.com/accjavascript/javascript-fundamentals-ii#]
 
 
+### Day 10: Agust 10, Tuesday 
 
+**What I learnt Today** Practiced more in the DOM, learnt how to get nested Items in the with document.querySelector().
+can use spaces to specify to jquery where you are trying to pull from, then call the descendant that you specifically want from that particular nest.
+Also how to connect a js file to an html so that it does not load to the web page first <script src=your.js defer></script> 
+
+**Thoughts** all around felt like a pretty productive day, finished the homework and learned alot more about the DOM and how JavaScript interacts with it.
+want to put this knowlegde into a project. 
+
+**feeling** need to make more stuff to really build the knowlegde
+
+[https://github.com/Vic-Fou/JSFunSummer2021/tree/main/exercises/12-targeting-dom]
