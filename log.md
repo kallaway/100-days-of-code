@@ -1441,3 +1441,16 @@ print a
 print ' '
 print b - 1
 end
+
+#100DaysOfCode 3nd_rap Day: 001/100
+I tried AtCoder(A - Serval vs Monster)
+I am on 3rd_rap from today.
+Rome was not built in a day!!
+
+h, a = gets.split.map(&:to_i)
+hp = h / a
+if h % a == 0
+	puts hp
+else
+	puts hp + 1
+end
