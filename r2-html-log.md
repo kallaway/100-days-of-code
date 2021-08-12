@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 82 - Latest entry](#day-82)
+  - [Day 83 - Latest entry](#day-83)
+  - [Day 82](#day-82)
   - [Day 81](#day-81)
   - [Day 80](#day-80)
   - [Day 79](#day-79)
@@ -1508,6 +1509,28 @@ I also think that I fixed most of the bugs I had with the paths to the files and
 ## Interesting links 82
 
 - [Dark Awakenings](https://mr2much.github.io/webdev/dark_awakenings/)
+
+### Day 83
+**Round 2 Day 83, Aug 11th, 2021**
+## Contents 83
+- [What I did today](#what-i-did-today-83)
+- [Interesting links](#interesting-links-83)
+
+## What I did today 83
+
+Started watching the video for the 8th project of the 30 Day Vanilla JS Challenge, but since I worked the overnight shift I was too tired and sleepy to understand anything, it was 6:00 AM and I nodded off for most of the video. I'll have to continue when I wake up later in the day.
+
+Once I woke up, I completed the challenge for the 8th day, which was experimenting with the `<canvas>` element in HTML. It was a fun little project to explore how to work with the canvas.
+
+I continued working on my Dark Awakenings game, I had forgotten that in order to set a property using the square brackets notation "[]" you need to use quotes :sweat_smile: and spend more than half an hour trying to figure out why.
+
+Now the distance from the chasm is tracked separately for both characters, and to access it you use the character name. The property was added to the gameObject as well as a method to get the distance for a specific character. I also replaced all the instances where the distance was being tracked by a separate variable and modified it to use the `gameObject.distanceFromChasm` property.
+
+I found a couple of apparently strange bugs that seem to be causing that the distance is not increased when the players step away from the Chasm, and also found that I need to implement a way of showing the status of the characters since they get killed and the game just continues as if nothing had happened.
+
+:tomato: :tomato: :tomato:
+
+## Interesting links 83
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
