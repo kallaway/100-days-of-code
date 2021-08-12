@@ -1514,7 +1514,6 @@ I also think that I fixed most of the bugs I had with the paths to the files and
 **Round 2 Day 83, Aug 11th, 2021**
 ## Contents 83
 - [What I did today](#what-i-did-today-83)
-- [Interesting links](#interesting-links-83)
 
 ## What I did today 83
 
@@ -1529,8 +1528,6 @@ Now the distance from the chasm is tracked separately for both characters, and t
 I found a couple of apparently strange bugs that seem to be causing that the distance is not increased when the players step away from the Chasm, and also found that I need to implement a way of showing the status of the characters since they get killed and the game just continues as if nothing had happened.
 
 :tomato: :tomato: :tomato:
-
-## Interesting links 83
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
