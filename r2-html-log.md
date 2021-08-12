@@ -1,7 +1,9 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 81 - Latest entry](#day-81)
+  - [Day 83 - Latest entry](#day-83)
+  - [Day 82](#day-82)
+  - [Day 81](#day-81)
   - [Day 80](#day-80)
   - [Day 79](#day-79)
   - [Day 78](#day-78)
@@ -1485,6 +1487,50 @@ And the code for fetching the data now uses the `wikiURL` instead of the `wikiAP
 ## Interesting links 81
 
 - [Tips For Using Async/Await in JavaScript](https://youtu.be/_9vgd9XKlDQ)
+
+### Day 82
+**Round 2 Day 82, Aug 10th, 2021**
+## Contents 82
+- [What I did today](#what-i-did-today-82)
+- [Interesting links](#interesting-links-82)
+
+## What I did today 82
+
+Resumed working with my Dark Awakenings game. Fixed a few errors with the paths to some of the files which were avoiding the game from being played online and correctly loading the resources, like the css files and stuff. Also added the code to activate a few options and I'm thinking of going back to having the objects contain data only in order to be able to store them again in LocalStorage because someone suggested to me that I should find a way to implement a save system so that people were able to store their game session and resume it at a later time. Right now, with the way I have implemented it that doesn't seem to be possible or at least I don't know how to do it, since my objects currently contain methods.
+
+It was adviced to me that I should implement the code that handles the parts that need methods when it is necessary instead of having the methods be part of the objects, or that the code for that should be included in the current scene that I have loaded.
+
+Having the methods be stored in localStorage means that I am going to have to go implement the code as I had it in the beginning.
+
+Also added a function in the `fight` scenario for dragging the target closer to the Chasm. I just have to change the code up a bit to make the taintedRoot roll the damage in there instead of the way I'm currently doing it.
+
+I also think that I fixed most of the bugs I had with the paths to the files and scenarios of the game, and that the version that's currently published on GitHub Pages is fully playable right now.
+
+## Interesting links 82
+
+- [Dark Awakenings](https://mr2much.github.io/webdev/dark_awakenings/)
+
+### Day 83
+**Round 2 Day 83, Aug 11th, 2021**
+## Contents 83
+- [What I did today](#what-i-did-today-83)
+- [Interesting links](#interesting-links-83)
+
+## What I did today 83
+
+Started watching the video for the 8th project of the 30 Day Vanilla JS Challenge, but since I worked the overnight shift I was too tired and sleepy to understand anything, it was 6:00 AM and I nodded off for most of the video. I'll have to continue when I wake up later in the day.
+
+Once I woke up, I completed the challenge for the 8th day, which was experimenting with the `<canvas>` element in HTML. It was a fun little project to explore how to work with the canvas.
+
+I continued working on my Dark Awakenings game, I had forgotten that in order to set a property using the square brackets notation "[]" you need to use quotes :sweat_smile: and spend more than half an hour trying to figure out why.
+
+Now the distance from the chasm is tracked separately for both characters, and to access it you use the character name. The property was added to the gameObject as well as a method to get the distance for a specific character. I also replaced all the instances where the distance was being tracked by a separate variable and modified it to use the `gameObject.distanceFromChasm` property.
+
+I found a couple of apparently strange bugs that seem to be causing that the distance is not increased when the players step away from the Chasm, and also found that I need to implement a way of showing the status of the characters since they get killed and the game just continues as if nothing had happened.
+
+:tomato: :tomato: :tomato:
+
+## Interesting links 83
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
