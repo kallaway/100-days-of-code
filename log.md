@@ -118,4 +118,19 @@ want to put this knowlegde into a project.
 
 **feeling** need to make more stuff to really build the knowlegde
 
+**Links**
 [https://github.com/Vic-Fou/JSFunSummer2021/tree/main/exercises/12-targeting-dom]
+
+### Day 11 August 11, Wednesday
+
+**What I learnt Today** I learnt about data attributes to group html elements together as well as different ways to transform HTML using Javascript.
+I also practiced design patterns and callback functions in a Hangman game project that I am working on thats displayed in node.js
+
+**Thought** slowly, but steadily shaping up nicely in my Hangman project. Main things i need to work out is the bug at the end where if someone is about to finish the game it ends,
+limit wrong guesses that create the hangman, and add in multiple rounds (3)
+
+**feeling** condfident I'll get it done by next week
+
+**links**
+[https://slides.com/accjavascript/javascript-fundamentals-ii#/22]
+[https://github.com/Vic-Fou/HangMan/blob/main/rough%20draft%20of%20game.js]
