@@ -1398,7 +1398,7 @@ After finishing with that, I did the 7th day challenge, doing the code mostly on
       executeFetch(wikiAPI);
 
       console.log(de);
-``
+```
 
 ## Interesting links 80
 
