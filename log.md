@@ -1442,7 +1442,7 @@ print ' '
 print b - 1
 end
 
-#100DaysOfCode 3nd_rap Day: 001/100
+#100DaysOfCode 3rd_rap Day: 001/100
 I tried AtCoder(A - Serval vs Monster)
 I am on 3rd_rap from today.
 Rome was not built in a day!!
@@ -1454,3 +1454,9 @@ if h % a == 0
 else
 	puts hp + 1
 end
+
+#100DaysOfCode 3rd_rap Day: 002/100
+I tried AtCoder(A - AC or WA)
+
+n, m = gets.split.map(&:to_i)
+puts n <= m ? 'Yes' : 'No'
