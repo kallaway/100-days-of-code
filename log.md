@@ -1460,3 +1460,16 @@ I tried AtCoder(A - AC or WA)
 
 n, m = gets.split.map(&:to_i)
 puts n <= m ? 'Yes' : 'No'
+
+#100DaysOfCode 3rd_rap Day: 003/100
+I studied constant.
+Ruby's constants are different from ordinary constants in that they can be reassigned.
+Need to be careful when handling them.
+
+COMPUTER = 'MacBookPro'
+=> "MacBookPro"
+
+COMPUTER = 'WindowsMachine'
+warning: already initialized constant COMPUTER
+warning: previous definition of COMPUTER was here
+=> "WindowsMachine"
