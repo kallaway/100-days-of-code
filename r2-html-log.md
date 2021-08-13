@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 83 - Latest entry](#day-83)
+  - [Day 84 - Latest entry](#day-84)
+  - [Day 83](#day-83)
   - [Day 82](#day-82)
   - [Day 81](#day-81)
   - [Day 80](#day-80)
@@ -1514,7 +1515,6 @@ I also think that I fixed most of the bugs I had with the paths to the files and
 **Round 2 Day 83, Aug 11th, 2021**
 ## Contents 83
 - [What I did today](#what-i-did-today-83)
-- [Interesting links](#interesting-links-83)
 
 ## What I did today 83
 
@@ -1530,7 +1530,28 @@ I found a couple of apparently strange bugs that seem to be causing that the dis
 
 :tomato: :tomato: :tomato:
 
-## Interesting links 83
+### Day 84
+**Round 2 Day 84, Aug 12th, 2021**
+## Contents 84
+- [What I did today](#what-i-did-today-84)
+- [Interesting links](#interesting-links-84)
+
+## What I did today 84
+
+Today I did a bunch of stuff with the Dark Awakenings game. I found out that the bug that seemed to affect the distance of the characters from the chasm wasn't really a bug, so I focused my efforts into fixing the display of the actions from the enemies and the players. I wanted to create a paragraph that was associated directly with the character or the enemy, connected by an ID or something similar. I think that something called Components might be the way to go, but until I learn more about them and how to handle them, I found that there was something called `.insertAdjacentHTML()` that allows the creation of new Elements by using HTML, for example:
+
+```js
+  display.insertAdjacentHTML("beforeend", `<p id="${enemy.id}"></p>`);
+```
+
+And then when I want to display the enemy's action I just use `.querySelector()` with the `enemy.id` and assign the `.innerHTML` as usual. There might be a few errors in logic that cause that the players can keep attacking even after they were killed, or their paragraph remains in place with the text, but without updating anymore because the Object is not referenced anymore, so I have to find a way of removing the paragraph associated with the character when the character is removed from combat.
+
+Lastly, I watched the video for the 9th day of the 30 Day Vanilla JS Challenge, which explained a few tricks that can be done with the Console, but I am too tired at the time to practice or do anything with the new information. So I'll leave it for later.
+
+## Interesting links 84
+
+- [Creating a new DOM element from an HTML string using built-in DOM methods or Prototype](https://stackoverflow.com/questions/494143/creating-a-new-dom-element-from-an-html-string-using-built-in-dom-methods-or-pro)
+- [Element.insertAdjacentHTML() - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
