@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 84 - Latest entry](#day-84)
+  - [Day 85 - Latest entry](#day-85)
+  - [Day 84](#day-84)
   - [Day 83](#day-83)
   - [Day 82](#day-82)
   - [Day 81](#day-81)
@@ -1552,6 +1553,55 @@ Lastly, I watched the video for the 9th day of the 30 Day Vanilla JS Challenge, 
 
 - [Creating a new DOM element from an HTML string using built-in DOM methods or Prototype](https://stackoverflow.com/questions/494143/creating-a-new-dom-element-from-an-html-string-using-built-in-dom-methods-or-pro)
 - [Element.insertAdjacentHTML() - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML)
+
+### Day 85
+**Round 2 Day 85, Aug 13th, 2021**
+## Contents 85
+- [What I did today](#what-i-did-today-85)
+
+## What I did today 85
+
+Today I completed the 9th lesson of the 30 Day Vanilla JS challenge where various tricks with the Dev Tools were shown.
+
+I learned that you can apply CSS styles to the console when using `.log()` with the `%c` flag and it will display the messages in the debugger with the styling we pass on to it, like this:
+
+```
+  console.log("%c Hi there!", "font-size: 18px; color: red;);
+```
+
+`console.assert()` can also be used for testing purposes, like for example, when I'm testing with an `if` statement to see if an element has a value. By using `.assert()` I don't have to.
+
+With `console.log(<element>)` I can see the element printed on the console as it appears on the HTML file.
+
+With `console.dir(<element>)` I can see a list of properties and methods for the element, which are shown with a drop-down menu
+
+With `console.group()` I can group what is shown by various `console.log()` calls if I'm showing various instances of values that are related. To use it I first declare a name inside of `.group()` with a string, then once I want to end the group, I use `console.groupEnd()` and pass the same string that I used for opening it.
+
+```js
+  console.group("group1");
+  console.log("This is part of the group");
+  console.log("This is as well");
+  console.log("And this too!");
+  console.groupEnd("group1");
+```
+
+If I want to start the group collapsed, I have to use `console.groupCollapsed()` instead.
+
+`console.count()` counts in real time the number of times I use a particular string or value and shows the count next to the value displayed
+
+`console.time(<string>) / console.timeEnd(<same string used to start it>)` Shows the amount of time something that usually takes time took to execute. Like fetching some data from a web resource, or a database.
+
+```js
+      console.time("Fetching data");
+      fetch("https://api.github.com/users/wesbos")
+        .then((data) => data.json())
+        .then((data) => {
+          console.timeEnd("Fetching data");
+          console.log(data);
+        });
+```
+
+After completing the lessong, I started working on my **Dark Awakenings** text-based game. Fixing the logic for when either Gungurk or The Stone are killed. Right now I'm working on the actions that should happen when Gungurk dies, and then I'll get to work on The Stone's death scenario.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
