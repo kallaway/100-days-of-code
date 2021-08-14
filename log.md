@@ -1473,3 +1473,12 @@ COMPUTER = 'WindowsMachine'
 warning: already initialized constant COMPUTER
 warning: previous definition of COMPUTER was here
 => "WindowsMachine"
+
+#100DaysOfCode 3rd_rap Day: 004/100
+I tried AtCoder(A - Serval vs Monster)
+I used next method.
+
+c = gets.to_s.chomp
+puts c.next
+
+[String\#next \(Ruby 3\.0\.0 リファレンスマニュアル\)](https://docs.ruby-lang.org/ja/latest/method/String/i/next.html)
