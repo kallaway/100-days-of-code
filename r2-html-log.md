@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 85 - Latest entry](#day-85)
+  - [Day 86 - Latest entry](#day-86)
+  - [Day 85](#day-85)
   - [Day 84](#day-84)
   - [Day 83](#day-83)
   - [Day 82](#day-82)
@@ -1602,6 +1603,22 @@ If I want to start the group collapsed, I have to use `console.groupCollapsed()`
 ```
 
 After completing the lessong, I started working on my **Dark Awakenings** text-based game. Fixing the logic for when either Gungurk or The Stone are killed. Right now I'm working on the actions that should happen when Gungurk dies, and then I'll get to work on The Stone's death scenario.
+
+### Day 86
+**Round 2 Day 86, Aug 14th, 2021**
+## Contents 86
+- [What I did today](#what-i-did-today-86)
+- [Interesting links](#interesting-links-86)
+
+## What I did today 86
+
+Since I didn't have much time to code today, I just watched the video for Day 10 of the 30 Day Vanilla JS Coding Challenge. Today I learned something interesting, which is that the `click` event will fire for a **Checkbox** even if the user uses the keyboard to check the checkbox.
+
+Afterwards I worked for a bit on the **Dark Awakenings** project, fixing the game logic for the case where Gungurk dies from the enemy's attacks. The game now displays a message when it happens, removes the paragraph showing Gungurk's actions from the Display, and also removes him from the party.
+
+## Interesting links 86
+
+- [Removing an element from the DOM with vanilla JS](https://gomakethings.com/removing-an-element-from-the-dom-with-vanilla-js/)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
