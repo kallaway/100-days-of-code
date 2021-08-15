@@ -1482,3 +1482,13 @@ c = gets.to_s.chomp
 puts c.next
 
 [String\#next \(Ruby 3\.0\.0 リファレンスマニュアル\)](https://docs.ruby-lang.org/ja/latest/method/String/i/next.html)
+
+#100DaysOfCode 3rd_rap Day: 005/100
+I tried AtCoder(A - 500 Yen Coins)
+
+k, x = gets.split.map(&:to_i)
+puts 500 * k >= x ? 'Yes' : 'No'
+
+
+
+
