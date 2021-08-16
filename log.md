@@ -1489,6 +1489,10 @@ I tried AtCoder(A - 500 Yen Coins)
 k, x = gets.split.map(&:to_i)
 puts 500 * k >= x ? 'Yes' : 'No'
 
+#100DaysOfCode 3rd_rap Day: 006/100
+I tried AtCoder(A - Strings)
 
+s, t = gets.split.map(&:to_s)
+puts  "#{t}#{s}"
 
 
