@@ -1495,4 +1495,24 @@ I tried AtCoder(A - Strings)
 s, t = gets.split.map(&:to_s)
 puts  "#{t}#{s}"
 
+#100DaysOfCode 3rd_rap Day: 007/100
+I tried AtCoder(A - Round One)
+
+data = readlines.map { |line| line.chomp.to_i }
+puts [1,2,3] - data
+
+https://docs.ruby-lang.org/ja/3.0.0/method/IO/i/readlines.html
+
+#100DaysOfCode 3rd_rap Day: 008/100
+I tried AtCoder(A - Blackjack)
+I made two patterns.
+
+array = gets.split.map(&:to_i)
+sum = 0
+array.each {|n| sum += n }
+puts sum >= 22 ? 'bust' : 'win'
+
+puts gets.split.map(&:to_i).sum >= 22 ? 'bust' : 'win'
+
+
 
