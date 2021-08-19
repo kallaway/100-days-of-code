@@ -1514,5 +1514,29 @@ puts sum >= 22 ? 'bust' : 'win'
 
 puts gets.split.map(&:to_i).sum >= 22 ? 'bust' : 'win'
 
+#100DaysOfCode 3rd_rap Day: 009/100
+I tried AtCoder(A - Can't Wait for Holiday)
+Use case sentence.
 
+day = gets.to_s.chomp
+case day
+when 'SUN'
+puts '7'
+when 'MON'
+puts '6'
+when 'TUE'
+puts '5'
+when 'WED'
+puts '4'
+when 'THU'
+puts '3'
+when 'FRI'
+puts '2'
+when 'SAT'
+puts '1'
+end
 
+Use index method.
+array = [nil, "SAT", "FRI", "THU", "WED", "TUE", "MON", "SUN"]
+puts array.index(gets.chomp)
+https://docs.ruby-lang.org/ja/latest/method/String/i/index.html
