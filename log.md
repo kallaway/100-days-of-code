@@ -1540,3 +1540,19 @@ Use index method.
 array = [nil, "SAT", "FRI", "THU", "WED", "TUE", "MON", "SUN"]
 puts array.index(gets.chomp)
 https://docs.ruby-lang.org/ja/latest/method/String/i/index.html
+
+#100DaysOfCode 3rd_rap Day: 010/100
+What is Ynaqdhm? 
+I researched 'Ynaqdhm'.
+If you see the following display on the command line during execution, you need to take action.
+
+Overwrite /Users/＠＠＠/blog/Gemfile? (enter "h" for help) [Ynaqdhm] h
+
+Y - yes, overwrite ←上書きします。
+n - no, do not overwrite ←上書きしません。
+a - all, overwrite this and all others←全てを上書き
+q - quit, abort←実行の中断
+d - diff, show the differences between the old and the new←互換ファイルを
+（古いものと、新しいもの）比較する？
+h - help, show this help←ヘルプの呼び出し。
+m - merge, run merge tool←マージする。ツールの統合をする。
