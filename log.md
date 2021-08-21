@@ -1556,3 +1556,8 @@ d - diff, show the differences between the old and the new←互換ファイル�
 （古いものと、新しいもの）比較する？
 h - help, show this help←ヘルプの呼び出し。
 m - merge, run merge tool←マージする。ツールの統合をする。
+
+#100DaysOfCode 3rd_rap Day: 011/10
+I tried AtCoder(A - Circle)
+
+puts r = gets.to_i ** 2
