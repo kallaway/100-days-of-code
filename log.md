@@ -1561,3 +1561,24 @@ m - merge, run merge tool←マージする。ツールの統合をする。
 I tried AtCoder(A - Circle)
 
 puts r = gets.to_i ** 2
+
+#100DaysOfCode 3rd_rap Day: 012/10
+I tried AtCoder(A - 9x9)
+
+a, b = gets.split.map(&:to_i)
+if a > 9 || b > 9
+puts -1
+else
+puts a * b
+end
+
+
+
+
+
+
+
+
+
+
+
