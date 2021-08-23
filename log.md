@@ -1562,7 +1562,7 @@ I tried AtCoder(A - Circle)
 
 puts r = gets.to_i ** 2
 
-#100DaysOfCode 3rd_rap Day: 012/10
+#100DaysOfCode 3rd_rap Day: 012/100
 I tried AtCoder(A - 9x9)
 
 a, b = gets.split.map(&:to_i)
@@ -1571,6 +1571,21 @@ puts -1
 else
 puts a * b
 end
+
+#100DaysOfCode 3rd_rap Day: 013/100
+I tried AtCoder(B - log2(N))
+I'm going to try B problem at today.
+
+n = gets.to_i
+
+k = 0
+x = 2**k
+until x > n
+	x *= 2
+	k += 1
+end
+puts k - 1
+
 
 
 
