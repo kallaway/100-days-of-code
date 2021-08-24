@@ -1,7 +1,10 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 86 - Latest entry](#day-86)
+  - [Day 89 - Latest entry](#day-89)
+  - [Day 88](#day-88)
+  - [Day 87](#day-87)
+  - [Day 86](#day-86)
   - [Day 85](#day-85)
   - [Day 84](#day-84)
   - [Day 83](#day-83)
@@ -1619,6 +1622,63 @@ Afterwards I worked for a bit on the **Dark Awakenings** project, fixing the gam
 ## Interesting links 86
 
 - [Removing an element from the DOM with vanilla JS](https://gomakethings.com/removing-an-element-from-the-dom-with-vanilla-js/)
+
+### Day 87
+**Round 2 Day 87, Aug 19th, 2021**
+## Contents 87
+- [What I did today](#what-i-did-today-87)
+- [Interesting links](#interesting-links-87)
+
+## What I did today 87
+
+I have been learning about creating Web Components to implement them on my Dark Awakenings game. I am reading something about **Lifecycle callbacks** as well trying to understand a bit better what its really going on when working with custom elements.
+
+## Interesting links 87
+
+- [Lifecycle callbacks](https://sailsjs.com/documentation/concepts/models-and-orm/lifecycle-callbacks#:~:text=Lifecycle%20callbacks%20are%20functions%20that,or%20updating%20a%20User%20record.)
+
+### Day 88
+**Round 2 Day 88, Aug 21th, 2021**
+## Contents 88
+- [What I did today](#what-i-did-today-88)
+- [Interesting links](#interesting-links-88)
+
+## What I did today 88
+
+Continuing on with the LifeCycle methods of Custom Elements.
+
+- constructor(): Called when an instance of the element is created or upgraded. We always have to have `super();` as the first line in a constructor.
+- connectedCallback(): Called every time the element is inserted in the DOM
+- disconnectedCallback(): Called everytime the element is removed from the DOM
+- attributeChangedCallback(attributeName, oldValue, newValue): Called when an attribute is added, removed, updated, or replaced
+
+Shadow DOM allows us to encapsulate the styling of our custom elements. When we want to add elements or stylings to our web compoments, without affecting the rest of the layout or the styling of the rest of the page; we reference the Shadow DOM
+
+HTML Templates allow us to define our encapsulated HTML/CSS and use slots to make our element dynamic.
+
+We can use slots to add content inside of our custom elements. This allows us to add information to the element.
+
+If we have a Web Component that fetches data from a web site, we can fetch the data in the component's constructor or in the connectedCallback() method.
+
+When we use an MVC pattern with our Web Components, the code for the Model, the View and the Controller should be placed inside of the Custom Element's implementation code.
+
+## Interesting links 88
+
+- []()
+
+### Day 89
+**Round 2 Day 89, Aug 22th, 2021**
+## Contents 89
+- [What I did today](#what-i-did-today-89)
+- [Interesting links](#interesting-links-89)
+
+## What I did today 89
+
+
+
+## Interesting links 89
+
+- []()
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
