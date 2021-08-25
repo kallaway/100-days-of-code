@@ -1586,14 +1586,34 @@ until x > n
 end
 puts k - 1
 
+#100DaysOfCode 3rd_rap Day: 014/100
+I tried AtCoder(B - How many?)
+This is the tweet from yesterday.
 
+s, t = gets.split.map(&:to_i)
+count = 0
+(0..s).each do |a|
+(0..s-a).each do |b|
+(0..s-a-b).each do |c|
+count += 1 if a * b * c <= t
+end
+end
+end
 
+puts count
 
+#100DaysOfCode 3rd_rap Day: 015/100
+I tried AtCoder(B - Booby Prize)
 
+n = gets.to_i
+array = gets.split.map(&:to_i)
 
+score = array.sort
+booby_score = score[-2]
+puts array.find_index(booby_score)+1
 
-
-
+[ind\_index\(val\) \-> Integer \| nil\[permalink\]\[rdoc\]\[edit\]
+index\(val\) \-> Integer \| nil](https://docs.ruby-lang.org/ja/latest/method/Array/i/find_index.html)
 
 
 
