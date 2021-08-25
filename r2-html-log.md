@@ -1667,18 +1667,37 @@ When we use an MVC pattern with our Web Components, the code for the Model, the 
 - []()
 
 ### Day 89
-**Round 2 Day 89, Aug 22th, 2021**
+**Round 2 Day 89, Aug 24th, 2021**
 ## Contents 89
 - [What I did today](#what-i-did-today-89)
 - [Interesting links](#interesting-links-89)
 
 ## What I did today 89
 
+I have been learning lots of things. While reading and watching videos about Web Components and creating Custom Elements, I bumped into something called Flash of Unstyled Content or FOUC, which causes the page to be displayed briefly without any stylings when loading it for the first time. There are various techniques to avoid it, some of them consisting in adding and removing classes to hide the <body> or the <html>, but this might cause issues if people are browsing the Internet with JavaScript disabled. Then I learned that there's a way of doing it without it, which consists of adding a <style> element in the <head>, setting the `visibility` property to *hidden*, and then adding another one as the last line of the <body> and setting it to *visible*
 
+```html
+<head>
+  <style>
+    html {
+      visibility: hidden;
+    }
+  </style>
+</head>
+<body>
+  <!-- Must be the last line in the body -->
+  <style>
+    html {
+      visibility: visible;
+    }
+  </style>
+</body>
+```
 
 ## Interesting links 89
 
-- []()
+- [Eliminate flash of unstyled content](https://stackoverflow.com/questions/3221561/eliminate-flash-of-unstyled-content)
+- [Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
