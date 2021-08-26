@@ -1615,5 +1615,24 @@ puts array.find_index(booby_score)+1
 [ind\_index\(val\) \-> Integer \| nil\[permalink\]\[rdoc\]\[edit\]
 index\(val\) \-> Integer \| nil](https://docs.ruby-lang.org/ja/latest/method/Array/i/find_index.html)
 
+#100DaysOfCode 3rd_rap Day: 016/100
+I tried AtCoder(B - Weak Password)
 
+X = gets
+X1 = X[0].to_i
+X2 = X[1].to_i
+X3 = X[2].to_i
+X4 = X[3].to_i
+
+array = [X1, X2, X3, X4]
+
+if array.uniq.count == 1
+puts "Weak"
+elsif  (X1+1).modulo(10) == X2 &&
+(X1+2).modulo(10) == X3 &&
+(X1+3).modulo(10) == X4
+puts "Weak"
+else
+puts "Strong"
+end
 
