@@ -1636,3 +1636,8 @@ else
 puts "Strong"
 end
 
+#100DaysOfCode 3rd_rap Day: 017/100
+I tried AtCoder(B - Weak Password)
+
+S = Array.new(4){gets.to_s.chomp}
+puts S.uniq.size == 4  ? 'Yes' : 'No'
