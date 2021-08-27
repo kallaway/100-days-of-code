@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 89 - Latest entry](#day-89)
+  - [Day 90 - Latest entry](#day-90)
+  - [Day 89](#day-89)
   - [Day 88](#day-88)
   - [Day 87](#day-87)
   - [Day 86](#day-86)
@@ -1698,6 +1699,24 @@ I have been learning lots of things. While reading and watching videos about Web
 
 - [Eliminate flash of unstyled content](https://stackoverflow.com/questions/3221561/eliminate-flash-of-unstyled-content)
 - [Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+
+### Day 90
+**Round 2 Day 90, Aug 26th, 2021**
+## Contents 90
+- [What I did today](#what-i-did-today-90)
+- [Interesting links](#interesting-links-90)
+
+## What I did today 90
+
+I tried implementing the solutions I found online for solving the FOUC, but they didn't work. I'm guessing that it was maybe because the content of my page is not enough to delay the loading of the content to be slow enough for them to have finished appearing on the page before the stylings were applied.
+
+I also discovered that using applying the stylings inside of the external CSS stylesheet don't work when you are loading them externally through JavaScript and attatching them to the shadow DOM, it makes sense since the Shadow DOM is separated from the contents of the page, so, in order to make it work you have to load the external stylesheet with `link`
+
+As a final note, In the section about using an External Style Sheet on [Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) it explains something about <link> elements not blocking paint of the shadow root, which is what's causing the FOUC in this case.
+
+## Interesting links 90
+
+- [FOUC Off](https://hugadigitalmarketing.com/blog/2019/02/18/fouc-off/)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
