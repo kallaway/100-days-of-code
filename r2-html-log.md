@@ -1,7 +1,9 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 89 - Latest entry](#day-89)
+  - [Day 91 - Latest entry](#day-91)
+  - [Day 90](#day-90)
+  - [Day 89](#day-89)
   - [Day 88](#day-88)
   - [Day 87](#day-87)
   - [Day 86](#day-86)
@@ -1698,6 +1700,40 @@ I have been learning lots of things. While reading and watching videos about Web
 
 - [Eliminate flash of unstyled content](https://stackoverflow.com/questions/3221561/eliminate-flash-of-unstyled-content)
 - [Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+
+### Day 90
+**Round 2 Day 90, Aug 26th, 2021**
+## Contents 90
+- [What I did today](#what-i-did-today-90)
+- [Interesting links](#interesting-links-90)
+
+## What I did today 90
+
+I tried implementing the solutions I found online for solving the FOUC, but they didn't work. I'm guessing that it was maybe because the content of my page is not enough to delay the loading of the content to be slow enough for them to have finished appearing on the page before the stylings were applied.
+
+I also discovered that using applying the stylings inside of the external CSS stylesheet don't work when you are loading them externally through JavaScript and attatching them to the shadow DOM, it makes sense since the Shadow DOM is separated from the contents of the page, so, in order to make it work you have to load the external stylesheet with `link`
+
+As a final note, In the section about using an External Style Sheet on [Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) it explains something about <link> elements not blocking paint of the shadow root, which is what's causing the FOUC in this case.
+
+## Interesting links 90
+
+- [FOUC Off](https://hugadigitalmarketing.com/blog/2019/02/18/fouc-off/)
+
+### Day 91
+**Round 2 Day 91, Aug 27th, 2021**
+## Contents 91
+- [What I did today](#what-i-did-today-91)
+- [Interesting links](#interesting-links-91)
+
+## What I did today 91
+
+Practiced some more Custom Element creation, following the tutorial as it appears on the Web Compoments explanation on MDN. I am going to follow a few more examples, and then I'm going to attempt to create a Custom Element on my own.
+
+Today it was a short practice using the this Optional parameter of the   `customElements.define()` function, which allows you to specify the parent class of the Custom Element.
+
+In the end, I decided to try one more example, which was an expanding list. I managed to do something simple to it, which was a simple transition and rotating an image 90 degrees to show the transition between the opened and closed states of the list, but in the one provided with the example code they used two separate images that looked very similar, one pointing to the right and one pointing down. I think I simplified it a little bit since I used a single image instead of two, and just added a rotation transform to it.
+
+I might upload the example I wrote later on since right now I don't feel like it, but in the mean time [here](https://mdn.github.io/web-components-examples/expanding-list-web-component/) is the example as provided in the MDN site.
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
