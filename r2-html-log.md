@@ -1733,7 +1733,12 @@ Today it was a short practice using the this Optional parameter of the   `custom
 
 In the end, I decided to try one more example, which was an expanding list. I managed to do something simple to it, which was a simple transition and rotating an image 90 degrees to show the transition between the opened and closed states of the list, but in the one provided with the example code they used two separate images that looked very similar, one pointing to the right and one pointing down. I think I simplified it a little bit since I used a single image instead of two, and just added a rotation transform to it.
 
-I might upload the example I wrote later on since right now I don't feel like it, but in the mean time [here](https://mdn.github.io/web-components-examples/expanding-list-web-component/) is the example as provided in the MDN site.
+I might upload the example I wrote later on since right now I don't feel like it, but in the mean time [here](https://mdn.github.io/web-components-examples/expanding-list-web-component/) is the example as provided in the MDN site. I also investigated a little about which properties can be transitioned or are optimized for working with transitions, because I want to try to make the opening and closing of the `<li>` elements fade in and out of the screen instead of just appearing suddenly.
+
+## Interesting links 91
+
+- [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+- [Animatable CSS properties](Animatable CSS properties)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
