@@ -1662,3 +1662,11 @@ break
 end
 end  
 end
+
+#100DaysOfCode 3rd_rap Day: 019/100
+I tried AtCoder(B - Can you buy them all?)
+
+N, X = gets.chomp.split.map(&:to_i)
+array = gets.split.map(&:to_i)
+
+puts X >= array.sum - N/2 ? 'Yes' : 'No'
