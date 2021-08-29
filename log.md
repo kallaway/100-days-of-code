@@ -1637,7 +1637,36 @@ puts "Strong"
 end
 
 #100DaysOfCode 3rd_rap Day: 017/100
-I tried AtCoder(B - Weak Password)
+I tried AtCoder(B. Cycle Hit)
 
 S = Array.new(4){gets.to_s.chomp}
 puts S.uniq.size == 4  ? 'Yes' : 'No'
+
+#100DaysOfCode 3rd_rap Day: 018/100
+I tried AtCoder(B - Bouzu Mekuri )
+
+n = gets.chomp.split.map(&:to_i)
+s = gets.chomp.chars.map(&:to_i)
+
+c = 0
+
+s.each do |x|
+c += 1
+if x == 1
+if c % 2 == 0
+puts "Aoki"
+break
+else
+puts "Takahashi"
+break
+end
+end  
+end
+
+#100DaysOfCode 3rd_rap Day: 019/100
+I tried AtCoder(B - Can you buy them all?)
+
+N, X = gets.chomp.split.map(&:to_i)
+array = gets.split.map(&:to_i)
+
+puts X >= array.sum - N/2 ? 'Yes' : 'No'
