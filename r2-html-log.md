@@ -1,7 +1,8 @@
 ## Log Entries
 
 - [Entries for 2021](#2021)
-  - [Day 91 - Latest entry](#day-91)
+  - [Day 92 - Latest entry](#day-92)
+  - [Day 91](#day-91)
   - [Day 90](#day-90)
   - [Day 89](#day-89)
   - [Day 88](#day-88)
@@ -1739,6 +1740,15 @@ I might upload the example I wrote later on since right now I don't feel like it
 
 - [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 - [Animatable CSS properties](Animatable CSS properties)
+
+### Day 92
+**Round 2 Day 92, Aug 29th, 2021**
+## Contents 92
+- [What I did today](#what-i-did-today-92)
+- [Interesting links](#interesting-links-92)
+
+## What I did today 92
+
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
