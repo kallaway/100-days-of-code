@@ -1670,3 +1670,19 @@ N, X = gets.chomp.split.map(&:to_i)
 array = gets.split.map(&:to_i)
 
 puts X >= array.sum - N/2 ? 'Yes' : 'No'
+
+#100DaysOfCode 3rd_rap Day: 020/100
+I tried AtCoder(B - Factorial Yen Coin)
+
+point = gets.chomp.to_i
+
+sum = 0
+div = 2
+
+while point != 0
+sum += (point % div)
+point /= div
+div += 1
+end
+
+print sum
