@@ -1712,7 +1712,7 @@ I have been learning lots of things. While reading and watching videos about Web
 
 I tried implementing the solutions I found online for solving the FOUC, but they didn't work. I'm guessing that it was maybe because the content of my page is not enough to delay the loading of the content to be slow enough for them to have finished appearing on the page before the stylings were applied.
 
-I also discovered that using applying the stylings inside of the external CSS stylesheet don't work when you are loading them externally through JavaScript and attatching them to the shadow DOM, it makes sense since the Shadow DOM is separated from the contents of the page, so, in order to make it work you have to load the external stylesheet with `link`
+I also discovered that applying the stylings inside of the external CSS stylesheet doesn't work when you are loading them externally through JavaScript and attaching them to the shadow DOM. Makes sense since the Shadow DOM is separated from the contents of the page, so, in order to make it work you have to load the external stylesheet with `<link>`
 
 As a final note, In the section about using an External Style Sheet on [Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) it explains something about <link> elements not blocking paint of the shadow root, which is what's causing the FOUC in this case.
 
@@ -1745,10 +1745,43 @@ I might upload the example I wrote later on since right now I don't feel like it
 **Round 2 Day 92, Aug 29th, 2021**
 ## Contents 92
 - [What I did today](#what-i-did-today-92)
+  - [Notes on Custom Elements](#notes-on-custom-elements)
+  - [Notes on Getting a Personal Token on GitHub](#notes-on-getting-a-personal-token-on-github)
 - [Interesting links](#interesting-links-92)
 
 ## What I did today 92
 
+Keeping on with learning about Custom Element, today I was doing an example on how to work with the Life Cycle Callbacks. I think I mentioned on an earlier entry. They are:
+
+- connectedCallback(): which is invoked when the element is added to the DOM. But addtionally, I learned that it might also be called even when the element is no longer connected, so it is recommended to call `Node.isConnected`, which is a read only property that allow us to make sure that the element is connected to the context or not. Context in this case might be the normal DOM or the Shadow DOM.
+
+- disconnectedCallback(): Is invoked when the custom element is disconnected from the DOM.
+
+- adoptedCallback(): Which is called when our Custom Element is moved to a new document. (I might have to test this one, or dig a bit deeper, since I don't completely understand what this means)
+
+- attributeChangedCallback(): Is going to be invoked when one of the custom element's attributes are changed, added, or removed. The attributes that are going to be observed must first be specified in a static getter called `observedAttributes()`. For this to fire properly when a change happens in the attributes, we need to define the following function:
+
+```js
+  static get observedAttributes() { return ["value", "value", ...] }
+```
+
+We must return an array defining the names of the attributes that we are observing.
+
+#### Notes on custom elements
+
+As an additional note, when working with Custom Elements we must remember that when you create a **shadowRoot**, everything we put in it will be part of the custom element that we are defining.
+
+When we add the custom element to the `document.body`, it is added to the `<body>` along with everything that was added to the **shadowRoot**
+
+We can call `document.createElement()` passing the name we define for our custom element once we have called `customElements.define()`
+
+#### Notes on getting a personal token on GitHub
+
+To get a personal token to work, we must first ensure to define the proper permissions. In my case I set it to **repo**. Otherwise, when you try to push changes to the remote repository, you'll get a 403 error.
+
+## Interesting links 92
+
+- [Node.isConnected](https://developer.mozilla.org/en-US/docs/Web/API/Node/isConnected)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
