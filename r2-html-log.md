@@ -1,4 +1,4 @@
-## Log Entries
+## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
   - [Day 92 - Latest entry](#day-92)
@@ -1767,7 +1767,9 @@ Keeping on with learning about Custom Element, today I was doing an example on h
 
 We must return an array defining the names of the attributes that we are observing.
 
-#### Notes on custom elements
+[:arrow_double_up:](#day-92)
+
+### Notes on custom elements
 
 As an additional note, when working with Custom Elements we must remember that when you create a **shadowRoot**, everything we put in it will be part of the custom element that we are defining.
 
@@ -1775,13 +1777,19 @@ When we add the custom element to the `document.body`, it is added to the `<body
 
 We can call `document.createElement()` passing the name we define for our custom element once we have called `customElements.define()`
 
-#### Notes on getting a personal token on GitHub
+### Notes on getting a personal token on GitHub
 
 To get a personal token to work, we must first ensure to define the proper permissions. In my case I set it to **repo**. Otherwise, when you try to push changes to the remote repository, you'll get a 403 error.
+
+[:arrow_double_up:](#day-92)
 
 ## Interesting links 92
 
 - [Node.isConnected](https://developer.mozilla.org/en-US/docs/Web/API/Node/isConnected)
+
+[:arrow_double_up:](#day-92)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
 
 ## About me
 - GitHub - [Mr2Much](https://github.com/mr2much)
