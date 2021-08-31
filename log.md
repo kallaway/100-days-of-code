@@ -1686,3 +1686,19 @@ div += 1
 end
 
 print sum
+
+#100DaysOfCode 3rd_rap Day: 021/100
+I tried AtCoder(	B - Hydrate)
+
+a, b, c, d = gets.chomp.split.map(&:to_i)
+
+if b >= c * d
+puts -1
+end
+1000000.times {|t|
+if a + b * t <= c * d * t
+@time = t
+break
+end
+}  
+puts @time
