@@ -1702,3 +1702,18 @@ break
 end
 }  
 puts @time
+
+#100DaysOfCode 3rd_rap Day: 022/100
+I tried AtCoder(B - Savings)
+
+n = gets.chomp.to_i
+
+i = 0
+money = 0
+
+while money < n do
+i += 1
+money += i
+end
+
+puts i
