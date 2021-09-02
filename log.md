@@ -1717,3 +1717,21 @@ money += i
 end
 
 puts i
+
+#100DaysOfCode 3rd_rap Day: 023/100
+I tried AtCoder(B - Permutation Check)
+
+n = gets.chomp.to_i
+arry_a = gets.split.map(&:to_i).sort
+
+arry_b = []
+1.upto(n) do |i|
+arry_b << i
+end
+
+if arry_a == arry_b
+puts 'Yes'
+else
+puts 'No'
+end
+ 
