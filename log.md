@@ -1734,4 +1734,21 @@ puts 'Yes'
 else
 puts 'No'
 end
- 
+
+
+#100DaysOfCode 3rd_rap Day: 024/100
+I tried AtCoder(B - Nuts)
+n = gets.chomp.to_i
+arry = gets.split.map(&:to_i)
+
+def nuts(arry)
+total = 0
+arry.each do |x|
+if x > 10
+total += (x - 10)
+end
+end
+puts total
+end
+
+nuts(arry)
