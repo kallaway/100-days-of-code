@@ -1,7 +1,9 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 92 - Latest entry](#day-92)
+  - [Day 94 - Latest entry](#day-94)
+  - [Day 93](#day-93)
+  - [Day 92](#day-92)
   - [Day 91](#day-91)
   - [Day 90](#day-90)
   - [Day 89](#day-89)
@@ -1788,6 +1790,58 @@ To get a personal token to work, we must first ensure to define the proper permi
 - [Node.isConnected](https://developer.mozilla.org/en-US/docs/Web/API/Node/isConnected)
 
 [:arrow_double_up:](#day-92)
+
+### Day 93
+**Round 2 Day 93, Sep 2nd, 2021**
+## Contents 93
+- [What I did today](#what-i-did-today-93)
+- [Interesting links](#interesting-links-93)
+
+## What I did today 93
+
+- created own custom element
+- added made it work with the values from an object
+- added an observer through Proxy
+- separated stylings
+- made it interact with external script
+
+## Interesting links 93
+
+[:arrow_double_up:](#day-93)
+
+### Day 94
+**Round 2 Day 94, Sep 4th, 2021**
+## Contents 94
+- [What I did today](#what-i-did-today-94)
+  - [Optional sections](#optional-sections)
+  ...
+- [Interesting links](#interesting-links-XX)
+
+## What I did today 94
+
+TO DO | Status | Pomodoros
+----- | ------ | ---------
+30 minutes of Math on Khan Academy | [ ] | :tomato:
+
+## Interesting links 94
+
+[:arrow_double_up:](#day-94)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day XX
+**Round X Day XX, MMM DDth, YYYY**
+## Contents XX
+- [What I did today](#what-i-did-today-XX)
+  - [Optional sections](#optional-sections)
+  ...
+- [Interesting links](#interesting-links-XX)
+
+## What I did today XX
+
+## Interesting links XX
+
+[:arrow_double_up:](#day-XX)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
