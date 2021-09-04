@@ -1741,7 +1741,7 @@ I might upload the example I wrote later on since right now I don't feel like it
 ## Interesting links 91
 
 - [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
-- [Animatable CSS properties](Animatable CSS properties)
+- [Animatable CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
 
 ### Day 92
 **Round 2 Day 92, Aug 29th, 2021**
