@@ -1743,7 +1743,7 @@ I might upload the example I wrote later on since right now I don't feel like it
 - [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 - [Animatable CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
 
-### Day 92
+### Day 92 [Back to the beginning :arrow_double_up:](#log-entries)
 **Round 2 Day 92, Aug 29th, 2021**
 ## Contents 92
 - [What I did today](#what-i-did-today-92)
@@ -1778,6 +1778,8 @@ As an additional note, when working with Custom Elements we must remember that w
 When we add the custom element to the `document.body`, it is added to the `<body>` along with everything that was added to the **shadowRoot**
 
 We can call `document.createElement()` passing the name we define for our custom element once we have called `customElements.define()`
+
+[:arrow_double_up:](#day-92)
 
 ### Notes on getting a personal token on GitHub
 
