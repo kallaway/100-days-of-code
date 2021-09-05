@@ -1735,7 +1735,6 @@ else
 puts 'No'
 end
 
-
 #100DaysOfCode 3rd_rap Day: 024/100
 I tried AtCoder(B - Nuts)
 n = gets.chomp.to_i
@@ -1752,3 +1751,33 @@ puts total
 end
 
 nuts(arry)
+
+#100DaysOfCode 3rd_rap Day: 025/100
+I tried AtCoder(B - AtCoder Condominium)
+
+n, k = gets.split.map(&:to_i)
+sum = 0
+1.upto(n) do |x|
+1.upto(k) do |y|
+sum += 100 * x + y
+end
+end
+puts sum
+
+#100DaysOfCode 3rd_rap Day: 026/100
+I tried AtCoder(B - 180°)
+
+s = gets.chars.map(&:to_s)
+arry = []
+
+s.each do |i|
+if i == '6'
+arry << '9'
+elsif i == '9'
+arry << '6'
+else
+arry << i
+end
+end
+
+print arry.join.reverse
