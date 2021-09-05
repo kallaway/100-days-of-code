@@ -1814,18 +1814,33 @@ To get a personal token to work, we must first ensure to define the proper permi
 ### Day 94
 **Round 2 Day 94, Sep 4th, 2021**
 ## Contents 94
-- [What I did today](#what-i-did-today-94)
+- [Day 94 ramblings and inner thoughts](#day-94-ramblings-and-inner-thoughts)
   - [Optional sections](#optional-sections)
+- [What I did on day 94](#what-i-did-on-day-94)
   ...
 - [Interesting links](#interesting-links-XX)
 
-## What I did today 94
+## Day 94 ramblings and inner thoughts
+
+I am going to try to start practicing Mathematics for 30 minutes each day, since Math is an important part of programming which I have been willfully neglecting. I am also changing my entries a bit to this table based format because I think it looks cool.
+
+Something interesting happened when I added the shaking animation to the avatar of the character, this is supposed to visually represent when the Knight gets hurt. It might not happen on my text based game, but who knows, it just ocurred to me what would happen if it got attacked multiple times in a row?, like, when clicked multiple time? Of course, the first time around the animation only played once, so I had to recur to a trick that was shown on the 5th Day of the 30 Days JavaScript challenge, where you used and event listener to check for `transitioned` events, of course, this doesn't work with animations. So what I did was checking for the `animationend` event and then remove the class that added the shaking animation. But this still caused that subsequent animations would only be played when the first one ended and the class was removed. But I kept googling around and found the answer on **CSS Tricks**, so it now works like a charm.
+
+## What I did on day 94
 
 TO DO | Status | Pomodoros
 ----- | ------ | ---------
-30 minutes of Math on Khan Academy | [ ] | :tomato:
+30 minutes of Math on Khan Academy | [X] | :tomato:
+Create Custom Element to show Knight avatar | [X] | Total - :tomato: :tomato:
+Make Knight avatar shake when Knight is attacked | [X] |
+Create Custom GUI element that has both the Knight Avatar and HP Bar on it | [X] |
+Correctly position Knight avatar to the left of the HP bar | [X] |
+This new GUI Element should also display the name of the Knight on the top | [X] |
 
 ## Interesting links 94
+
+- [Restart CSS Animation](https://css-tricks.com/restart-css-animation/)
+- [How do you detect when CSS animations start and end with JavaScript?](https://stackoverflow.com/questions/14796936/how-do-you-detect-when-css-animations-start-and-end-with-javascript)
 
 [:arrow_double_up:](#day-94)
 
