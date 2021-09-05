@@ -1815,10 +1815,8 @@ To get a personal token to work, we must first ensure to define the proper permi
 **Round 2 Day 94, Sep 4th, 2021**
 ## Contents 94
 - [Day 94 ramblings and inner thoughts](#day-94-ramblings-and-inner-thoughts)
-  - [Optional sections](#optional-sections)
 - [What I did on day 94](#what-i-did-on-day-94)
-  ...
-- [Interesting links](#interesting-links-XX)
+- [Interesting links](#interesting-links-94)
 
 ## Day 94 ramblings and inner thoughts
 
@@ -1836,6 +1834,8 @@ Make Knight avatar shake when Knight is attacked | [X] |
 Create Custom GUI element that has both the Knight Avatar and HP Bar on it | [X] |
 Correctly position Knight avatar to the left of the HP bar | [X] |
 This new GUI Element should also display the name of the Knight on the top | [X] |
+
+[:arrow_double_up:](#day-94)
 
 ## Interesting links 94
 
