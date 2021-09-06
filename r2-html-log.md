@@ -1874,7 +1874,7 @@ I was also trying to implement a solution that I found on CSS-Tricks for styling
 TO DO | Status | Pomodoros
 ----- | ------ | ---------
 30 minutes of Math on Khan Academy | [ ] |
-Char GUI Element should have a way to detect if HP was increased | [X] |
+Char GUI Element should have a way to detect if HP was increased | [X] | Total - :tomato: :tomato: :tomato: tomato: :tomato:
 HP cannot be increased higher than max Health | [X] |
 HP Bar should have different colors depending on Health | [X] |
 Char Avatar should be washed up by green energy when healed | [ ] |
