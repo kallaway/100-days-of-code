@@ -1,7 +1,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 94 - Latest entry](#day-94)
+  - [Day 95 - Latest entry](#day-95)
+  - [Day 94](#day-94)
   - [Day 93](#day-93)
   - [Day 92](#day-92)
   - [Day 91](#day-91)
@@ -1802,7 +1803,7 @@ To get a personal token to work, we must first ensure to define the proper permi
 ## What I did today 93
 
 - created own custom element
-- added made it work with the values from an object
+- made it work with the values from an object
 - added an observer through Proxy
 - separated stylings
 - made it interact with external script
@@ -1843,6 +1844,49 @@ This new GUI Element should also display the name of the Knight on the top | [X]
 - [How do you detect when CSS animations start and end with JavaScript?](https://stackoverflow.com/questions/14796936/how-do-you-detect-when-css-animations-start-and-end-with-javascript)
 
 [:arrow_double_up:](#day-94)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 95
+**Round 2 Day 95, Sep 5th, 2021**
+## Contents 95
+- [Day 95 ramblings and inner thoughts](#day-95-ramblings-and-inner-thoughts)
+  - [Optional sections](#optional-sections)
+- [What I did on day 95](#what-i-did-on-day-95)
+- [Interesting links](#interesting-links-95)
+
+## Day 95 ramblings and inner thoughts
+
+- Needed to disable the context menu popping up when the GUI was right clicked, since that's how I was implementing the HP increasing in this example.
+
+- HP should be able to increase up to Max HP.
+- Add gradient to HP Bar.
+- Gradient would move left or right depending on Health.
+
+I did so many things that I don't even know where to start. The health bar shows the health points in the middle as text. The health bar is slightly bigger now. I removed the `<progress>` element that I was using at first because it couldn't be customized in the way I wanted. I tested that the GUI looked and worked relatively the same in Chrome, Opera and Mozilla.
+
+Creating this health bar was harder than I had anticipated. I adapted a code example I found on YouTube that taught how to create a customized Progress Bar. I was about to implement it using the `<canvas>` element because I found another example online, but in the end the example I found worked perfectly for what I was trying to do.
+
+I was also trying to implement a solution that I found on CSS-Tricks for styling the `<progress>` element, but it wasn't working the same on the different browsers I tested it, specially on Mozilla. That's why I ended up changing my solution.
+
+## What I did on day 94
+
+TO DO | Status | Pomodoros
+----- | ------ | ---------
+30 minutes of Math on Khan Academy | [ ] |
+Char GUI Element should have a way to detect if HP was increased | [X] |
+HP cannot be increased higher than max Health | [X] |
+HP Bar should have different colors depending on Health | [X] |
+Char Avatar should be washed up by green energy when healed | [ ] |
+
+## Interesting links 95
+
+- [How to disable right-click context-menu in JavaScript](https://stackoverflow.com/questions/381795/how-to-disable-right-click-context-menu-in-javascript)
+- [Create your own Progress Bar in HTML, CSS & JavaScript Classes | Intermediate Tutorial](https://youtu.be/QxQRtwAtqKE)
+- [Creating a Health Bar with JavaScript](https://youtu.be/Wh2kVSPi_sE)
+- [The HTML5 progress Element](https://css-tricks.com/html5-progress-element/)
+
+[:arrow_double_up:](#day-95)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
