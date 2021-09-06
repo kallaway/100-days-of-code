@@ -1781,3 +1781,10 @@ end
 end
 
 print arry.join.reverse
+
+#100DaysOfCode 3rd_rap Day: 027/100
+I tried AtCoder(B - Do you know the second highest mountain?)
+
+n = gets.to_i
+name_height = Array.new(n){gets.split}
+puts name_height.sort_by{_3.to_i}[-2][0]
