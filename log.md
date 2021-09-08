@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: September 04, 2021
-<--##### (delete me or comment me out)-->
+<---##### (delete me or comment me out)--->
 
 **Today's Progress**: Continued working towards having the responsive web design certification from freeCodeCamp: Applied Visual Design.
 
