@@ -1,7 +1,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 95 - Latest entry](#day-95)
+  - [Day 96 - Latest entry](#day-96)
+  - [Day 95](#day-95)
   - [Day 94](#day-94)
   - [Day 93](#day-93)
   - [Day 92](#day-92)
@@ -1851,7 +1852,6 @@ This new GUI Element should also display the name of the Knight on the top | [X]
 **Round 2 Day 95, Sep 5th, 2021**
 ## Contents 95
 - [Day 95 ramblings and inner thoughts](#day-95-ramblings-and-inner-thoughts)
-  - [Optional sections](#optional-sections)
 - [What I did on day 95](#what-i-did-on-day-95)
 - [Interesting links](#interesting-links-95)
 
@@ -1869,12 +1869,12 @@ Creating this health bar was harder than I had anticipated. I adapted a code exa
 
 I was also trying to implement a solution that I found on CSS-Tricks for styling the `<progress>` element, but it wasn't working the same on the different browsers I tested it, specially on Mozilla. That's why I ended up changing my solution.
 
-## What I did on day 94
+## What I did on day 95
 
 TO DO | Status | Pomodoros
 ----- | ------ | ---------
 30 minutes of Math on Khan Academy | [ ] |
-Char GUI Element should have a way to detect if HP was increased | [X] | Total - :tomato: :tomato: :tomato: tomato: :tomato:
+Char GUI Element should have a way to detect if HP was increased | [X] | Total - :tomato: :tomato: :tomato: :tomato: :tomato:
 HP cannot be increased higher than max Health | [X] |
 HP Bar should have different colors depending on Health | [X] |
 Char Avatar should be washed up by green energy when healed | [ ] |
@@ -1890,15 +1890,54 @@ Char Avatar should be washed up by green energy when healed | [ ] |
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
+### Day 96
+**Round 2 Day 96, Sep 7th, 2021**
+## Contents 96
+- [Day 96 ramblings and inner thoughts](#day-96-ramblings-and-inner-thoughts)
+- [What I did on day 96](#what-i-did-on-day-96)
+- [Interesting links](#interesting-links-96)
+
+## Day 96 ramblings and inner thoughts
+
+I learned today that the code bit ``void element.offsetWidth`` when removing and re-adding a class, is used to cause a Forced Layout Reflow, so that when the class is removed and then added, the effect "resets" and becomes visible. For example, I removed the line when adding and removing the class "shake", which causes the avatar in my Character GUI to shake slightly, if I click repeteadly, the animation resets and the avatar shakes with each click, but if removed it stops happening. The same goes for the flash of green when the Avatar is "healed".
+
+I should probably look for another solution, since a Forced Layout Reflow is a performance issue most of the time.
+
+## What I did on day 96
+
+TO DO | Status | Pomodoros
+----- | ------ | ---------
+30 minutes of Math on Khan Academy | [X] | :tomato:
+Char Avatar should be washed up by green energy when healed | [X] | :tomato:
+When Character is healed while being at full HP, nothing happens | [X] |
+Removed unused lines of code | [X] |
+When Character's HP reaches zero, a large red X should appear over the avatar | [ ] |
+Use the Char GUI component in the text based game | [ ] |
+Fix bug that causes the green circle to appear when HP is lowered after reaching zero | [X] |
+When HP reaches zero, Char GUI should fade away and remove itself from the DOM | [ ] |
+
+## Interesting links 96
+
+- [A "flash" of color, using pure CSS transitions](https://stackoverflow.com/questions/16791851/a-flash-of-color-using-pure-css-transitions)
+- [Positioning Overlay Content with CSS Grid](https://css-tricks.com/positioning-overlay-content-with-css-grid/)
+- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
+
+[:arrow_double_up:](#day-96)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
 ### Day XX
 **Round X Day XX, MMM DDth, YYYY**
 ## Contents XX
-- [What I did today](#what-i-did-today-XX)
+- [Day XX ramblings and inner thoughts](#day-XX-ramblings-and-inner-thoughts)
   - [Optional sections](#optional-sections)
   ...
+- [What I did on day XX](#what-i-did-on-day-XX)
 - [Interesting links](#interesting-links-XX)
 
-## What I did today XX
+## Day XX ramblings and inner thoughts
+
+## What I did on day XX
 
 ## Interesting links XX
 
