@@ -1788,3 +1788,22 @@ I tried AtCoder(B - Do you know the second highest mountain?)
 n = gets.to_i
 name_height = Array.new(n){gets.split}
 puts name_height.sort_by{_3.to_i}[-2][0]
+
+#100DaysOfCode 3rd_rap Day: 028/100
+I tried AtCoder(B - 200th ABC-200)
+
+n, k = gets.split.map(&:to_i)
+
+k.times do |i|
+n % 200 == 0 ? n /= 200 : n = n*1000 + 200
+end
+puts n
+
+#100DaysOfCode 3rd_rap Day: 029/100
+I tried AtCoder(B - Intersection)
+
+n = gets.to_i
+a = gets.split.map(&:to_i)
+b = gets.split.map(&:to_i)
+x = (b.min) - (a.max)
+puts x >= 0 ? x + 1 : 0 
