@@ -1807,3 +1807,17 @@ a = gets.split.map(&:to_i)
 b = gets.split.map(&:to_i)
 x = (b.min) - (a.max)
 puts x >= 0 ? x + 1 : 0 
+
+#100DaysOfCode 3rd_rap Day: 030/100
+I tried AtCoder(B - Palindrome with leading zeros)
+n = gets.chomp.to_s
+x = n.gsub(/0+$/, "")
+
+if n == n.reverse
+puts "Yes"
+elsif x == x.reverse
+puts "Yes"
+else
+puts "No"
+end
+
