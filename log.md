@@ -1821,3 +1821,9 @@ else
 puts "No"
 end
 
+#100DaysOfCode 3rd_rap Day: 031/100
+I tried AtCoder(B - Round Down)
+
+x = gets.chomp.to_s
+puts x.to_i.floor
+
