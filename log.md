@@ -58,3 +58,12 @@ I have been really ill this week and today was much worse, I could do nothing at
 - search for the content i'll put on the page
 - I'm quite satisfied with what I did today...I think it is good progress
   **Link(s) to work**: [Twitter Post day5](https://twitter.com/NalowaGeena/status/1436040385990701057)
+
+### Day 6: September 10, 2021 (skipped yesterday)
+
+**Today's Progress**: Organised all the content and info on Manu Dibango(subject of the tribute page) into the html file.
+
+**Thoughts**
+This part took more time than I thought it would but I'm starting to get a good image of how i want the tribute page to be.
+I was feeling quite lazy today but my fear of pracastinating pushed me forward and i was able to some work. I also continued my lessons on freecodecamp, learnt more on applied accessibility.
+**Link(s) to work**: [Tribute page1](https://github.com/nalowageena654/Tribute-Page1)
