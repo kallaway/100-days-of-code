@@ -1827,3 +1827,13 @@ I tried AtCoder(B - Round Down)
 x = gets.chomp.to_s
 puts x.to_i.floor
 
+#100DaysOfCode 3rd_rap Day: 032/100
+I tried AtCoder(B - Many Oranges)
+a,b,w = gets.split.map(&:to_f)
+w = w*1000
+# 切り上げ floor, 切り捨て cell
+if (w/a).floor < (w/b).ceil
+puts  "UNSATISFIABLE"
+else
+puts "#{(w/b).ceil} #{(w/a).floor}"
+end
