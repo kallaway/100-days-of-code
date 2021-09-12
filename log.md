@@ -1837,3 +1837,16 @@ puts  "UNSATISFIABLE"
 else
 puts "#{(w/b).ceil} #{(w/a).floor}"
 end
+
+#100DaysOfCode 3rd_rap Day: 033/100
+I tried AtCoder(B - Job Assignment)
+
+n = gets.to_i
+price = 10**9 + 1
+n.times{
+a,p,x = gets.split.map(&:to_i)
+if a - x < 0
+price = [price,p].min
+end
+}
+puts price == 10**9 + 1 ? -1 : price
