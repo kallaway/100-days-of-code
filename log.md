@@ -82,7 +82,7 @@ I was feeling quite lazy today but my fear of pracastinating pushed me forward a
 
 **Link(s) to work**:
 
-### Day 7: September 11, 2021 (skipped yesterday)
+### Day 7: September 12, 2021 (skipped yesterday)
 
 **Today's Progress**: Added some styling to the tribute page, choose the fonts and colors i would use in it.
 
@@ -90,3 +90,12 @@ I was feeling quite lazy today but my fear of pracastinating pushed me forward a
 Today, I'm not very proud of myself because i don't think i did much because i've a lot to do plus school starts tomorrow and i had a lot of preparations to do.
 I really hope i'll be able my time, school and the challenge.
 **Link(s) to work**:
+
+### Day 8: September 13, 2021
+
+**Today's Progress**: Made the mage of my tribute page responsive and more styling to the page.
+
+**Thoughts**
+I'm feeling confident, I feel good, not too stressed. I've realised a progress in my programming and I am also getting better at usin github. Each day i'm getting closer to getting my responsive web design certification on freeCodeCamp.
+
+**Link(s) to work**:[Tribute Page](https://github.com/nalowageena654/Tribute-Page1)
