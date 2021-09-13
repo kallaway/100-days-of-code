@@ -1850,3 +1850,15 @@ price = [price,p].min
 end
 }
 puts price == 10**9 + 1 ? -1 : price
+
+#100DaysOfCode 3rd_rap Day: 034/100
+I tried AtCoder(B - uNrEaDaBlE sTrInG)
+s = gets.chomp.to_s
+
+result = "Yes"
+for i in 0...(s.size) do
+result = "No" if i % 2 == 0 && !/\A[a-z]+\z/.match?(s[i])
+result = "No" if i % 2 != 0 && /\A[a-z]+\z/.match?(s[i])
+end
+
+puts result
