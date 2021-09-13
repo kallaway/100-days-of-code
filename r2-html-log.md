@@ -1926,6 +1926,39 @@ When HP reaches zero, Char GUI should fade away and remove itself from the DOM |
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
+### Day 96
+**Round 2 Day 96, Sep 12th, 2021**
+## Contents 96
+- [Day 96 ramblings and inner thoughts](#day-96-ramblings-and-inner-thoughts)
+- [What I did on day 96](#what-i-did-on-day-96)
+- [Interesting links](#interesting-links-96)
+
+## Day 96 ramblings and inner thoughts
+
+- I have to do a bit of more indepth reading about JavaScript Modules.
+- The image resources weren't loading correctly due to an issue with the source path to the images that were supposed to be loaded for the characters and other stuff. So I had to add an attribute for the root path of the files.
+- In the Dark Awakenings game, I added GUI elements for all entities in the current encounter, The Stone, Gungurk and the Vines that attack them. I added these GUI elements by using the Custom Character GUI Element that I had created on previous days.
+- The Custom GUI Elements needed minimal adjustments to correctly work with this project, mainly the creation of a Path to the resources needed for the elements to work properly. The path is obtained through a Regular Expression that takes the root path from the resource that called the GUI Element.
+- Maybe by changing the current implementation a bit this won't be necessary. Right now I have to do it this way because I'm using `modules` on my scripts.
+- Had to change a few of the combat scenarios to use `modules` as well so that I would be able to use `import` in them to load the CharGUI class. This forced me to change the implementations of the Event Listeners for the buttons when you pick the different options.
+
+## What I did on day 96
+
+TO DO | Status | Pomodoros
+----- | ------ | ---------
+30 minutes of Math on Khan Academy | [X] | :tomato:
+Add images for the players and enemies on Dark Awakenings game and a bunch of other stuffs | [X] | :tomato: :tomato: :tomato: :tomato:
+
+## Interesting links 96
+
+- [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- [JavaScript/jQuery get root url of website](https://stackoverflow.com/questions/23425909/javascript-jquery-get-root-url-of-website/27778372)
+- [CSS Gap Space with Flexbox](https://coryrylan.com/blog/css-gap-space-with-flexbox)
+
+[:arrow_double_up:](#day-96)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
 ### Day XX
 **Round X Day XX, MMM DDth, YYYY**
 ## Contents XX
