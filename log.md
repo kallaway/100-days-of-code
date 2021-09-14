@@ -1862,3 +1862,12 @@ result = "No" if i % 2 != 0 && /\A[a-z]+\z/.match?(s[i])
 end
 
 puts result
+
+#100DaysOfCode 3rd_rap Day: 035/100
+I tried AtCoder(B - Remove It)
+
+n, x = gets.split.map(&:to_i)
+a = gets.split.map(&:to_i)
+a.delete(x)
+puts a.join(' ')
+
