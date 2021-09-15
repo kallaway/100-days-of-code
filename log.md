@@ -99,3 +99,12 @@ I really hope i'll be able my time, school and the challenge.
 I'm feeling confident, I feel good, not too stressed. I've realised a progress in my programming and I am also getting better at usin github. Each day i'm getting closer to getting my responsive web design certification on freeCodeCamp.
 
 **Link(s) to work**:[Tribute Page](https://github.com/nalowageena654/Tribute-Page1)
+
+### Day 8: September 13, 2021
+
+**Today's Progress**:Added more styling to the tribute page. I think it looks very good now. All i have to do now is to centralise the image within its parent element.
+
+**Thoughts**
+It was quite frustrating for me because I was not able to implement the last user story. The test always show me 9/10 no matter what i do. But overall i feel good about my work. Lately, i have been doing research on opensource because i also want to start contributing but then again i am still a github beginner and for me it is not so easy.
+
+**Link(s) to work**:[Tribute Page](https://github.com/nalowageena654/Tribute-Page1)
