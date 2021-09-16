@@ -100,7 +100,7 @@ I'm feeling confident, I feel good, not too stressed. I've realised a progress i
 
 **Link(s) to work**:[Tribute Page](https://github.com/nalowageena654/Tribute-Page1)
 
-### Day 8: September 13, 2021
+### Day 9: September 14, 2021
 
 **Today's Progress**:Added more styling to the tribute page. I think it looks very good now. All i have to do now is to centralise the image within its parent element.
 
