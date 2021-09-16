@@ -1,7 +1,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 96 - Latest entry](#day-96)
+  - [Day 97 - Latest entry](#day-97)
+  - [Day 96](#day-96)
   - [Day 95](#day-95)
   - [Day 94](#day-94)
   - [Day 93](#day-93)
@@ -1956,6 +1957,27 @@ Add images for the players and enemies on Dark Awakenings game and a bunch of ot
 - [CSS Gap Space with Flexbox](https://coryrylan.com/blog/css-gap-space-with-flexbox)
 
 [:arrow_double_up:](#day-96)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 97
+**Round 2 Day 97, Sep 15th, 2021**
+## Contents 97
+- [Day 97 ramblings and inner thoughts](#day-97-ramblings-and-inner-thoughts)
+- [What I did on day 97](#what-i-did-on-day-97)
+
+## Day 97 ramblings and inner thoughts
+
+- Fixed a few lines of code and removed a function that was redundant, and replaced it with a single one that toggle a button on and off.
+- Started adding a few functions to replace repeated code.
+
+## What I did on day 97
+
+TO DO | Status | Pomodoros
+----- | ------ | ---------
+Improving code and readability | [X] | :tomato:
+
+[:arrow_double_up:](#day-97)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
