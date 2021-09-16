@@ -1871,3 +1871,21 @@ a = gets.split.map(&:to_i)
 a.delete(x)
 puts a.join(' ')
 
+#100DaysOfCode 3rd_rap Day: 036/100
+I tried AtCoder(A - Weather Forecast)
+
+n = gets.chomp.to_i
+s = gets.chars.map(&:to_s)
+
+puts s[n-1] == 'o' ? 'Yes' : 'No'
+
+#100DaysOfCode 3rd_rap Day: 037/100
+I tried AtCoder(A - Lexicographic Order)
+s, t = gets.split.map(&:to_s)
+puts s < t ? 'Yes' : 'No'
+
+I tried AtCoder(B - qwerty)
+p = gets.split.map(&:to_i)
+arry = ('a'..'z').to_a
+
+puts p.map { |i| arry[i - 1] }.join
