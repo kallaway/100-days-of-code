@@ -1889,3 +1889,18 @@ p = gets.split.map(&:to_i)
 arry = ('a'..'z').to_a
 
 puts p.map { |i| arry[i - 1] }.join
+
+#100DaysOfCode 3rd_rap Day: 038/100
+I studied Rails application.
+I was unclear about the basics, 
+so I tried to learn by hand from the beginning.
+I'm in the middle of it again, but I'm starting to understand it better.
+After all, it is important to learn repeatedly.
+https://github.com/shirotamaki/rails_practice_taskleaf
+
+#100DaysOfCode 3rd_rap Day: 039/100
+I tried AtCoder(B - AtCoder Quiz)
+
+s = Array.new(3){ gets.to_s.chomp }  
+contest = ["ABC", "ARC", "AGC", "AHC"]
+puts result = contest - s
