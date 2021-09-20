@@ -1904,3 +1904,9 @@ I tried AtCoder(B - AtCoder Quiz)
 s = Array.new(3){ gets.to_s.chomp }  
 contest = ["ABC", "ARC", "AGC", "AHC"]
 puts result = contest - s
+
+#100DaysOfCode 3rd_rap Day: 040/100
+I tried AtCoder(B - Billiards)
+arry = gets.split.map(&:to_f)
+result = arry[0] * arry[3] + arry[2] * arry[1]
+puts  result / (arry[1] + arry[3] )
