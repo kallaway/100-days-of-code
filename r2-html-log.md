@@ -1,7 +1,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 98 - Latest entry](#day-98)
+  - [Day 99 - Latest entry](#day-99)
+  - [Day 98](#day-98)
   - [Day 97](#day-97)
   - [Day 96](#day-96)
   - [Day 95](#day-95)
@@ -2045,9 +2046,9 @@ TO DO | Status | Pomodoros
 ----- | ------ | ---------
 30 minutes of Math on Khan Academy | [X] |
 Keep learning about the Node.js **Event Loop**, **The Call Stack**, **Queueing Function Execution**, **The Message Queue**, and **ES6 Job Queue**, and practicing some examples to understand how it works | [X] | :tomato: :tomato:
-Improving code to implement a function to show messages on Dark Awakenings game | [ ] |
+Improving code to implement a function to show messages on Dark Awakenings game | [X] | Half :tomato:
 Fix bug that shows Vines as being attacked when combat starts | [ ] |
-Fix bug when switching enemies on **1a_fight** scenario | [X] | :tomato: :tomato:
+Fix bug when switching enemies on **1a_fight** scenario | [X] | :tomato: Half :tomato:
 When Gungurk falls to the Chasm, his GUI should be removed | [ ] |
 
 ## Interesting links 99
