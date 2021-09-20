@@ -1,7 +1,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 99 - Latest entry](#day-99)
+  - [Day 100 - Latest entry](#day-100)
+  - [Day 99](#day-99)
   - [Day 98](#day-98)
   - [Day 97](#day-97)
   - [Day 96](#day-96)
@@ -2045,7 +2046,7 @@ When Gungurk falls to the Chasm, his GUI should be removed |  |
 TO DO | Status | Pomodoros
 ----- | ------ | ---------
 30 minutes of Math on Khan Academy | :white_check_mark: |
-Keep learning about the Node.js **Event Loop**, **The Call Stack**, **Queueing Function Execution**, **The Message Queue**, and **ES6 Job Queue**, and practicing some examples to understand how it works | :white_check_mark | :tomato: :tomato:
+Keep learning about the Node.js **Event Loop**, **The Call Stack**, **Queueing Function Execution**, **The Message Queue**, and **ES6 Job Queue**, and practicing some examples to understand how it works | :white_check_mark: | :tomato: :tomato:
 Improving code to implement a function to show messages on Dark Awakenings game | :white_check_mark: | Half :tomato:
 Fix bug that shows Vines as being attacked when combat starts |  |
 Fix bug when switching enemies on **1a_fight** scenario | :white_check_mark: | :tomato: Half :tomato:
@@ -2057,22 +2058,33 @@ When Gungurk falls to the Chasm, his GUI should be removed |  |
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
-### Day XX
-**Round X Day XX, MMM DDth, YYYY**
-## Contents XX
-- [Day XX ramblings and inner thoughts](#day-XX-ramblings-and-inner-thoughts)
-  - [Optional sections](#optional-sections)
-  ...
-- [What I did on day XX](#what-i-did-on-day-XX)
-- [Interesting links](#interesting-links-XX)
+### Day 100
+**Round 2 Day 100, Sep 20th, 2021**
+## Contents 100
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-100)
+- [What I did today](#what-i-did-on-day-100)
+- [Interesting links](#interesting-links-100)
 
-## Day XX ramblings and inner thoughts
+## Ramblings and inner thoughts 100
 
-## What I did on day XX
+- Made my GitHub profile[github] page look cooler by adding a few visual stats using anuraghazra's github-readme-stats
 
-## Interesting links XX
+## What I did on day 100
 
-[:arrow_double_up:](#day-XX)
+TO DO | Status | Pomodoros
+----- | ------ | ---------
+30 minutes of Math on Khan Academy |  |
+Keep learning a bit of Node |  |
+Add a function to switch enemies |  |
+Fix bug that shows Vines as being attacked when combat starts |  |
+When Gungurk falls to the Chasm, his GUI should be removed |  |
+Fix bug that allows Gungurk to be targetted even after he falls |  |
+Fix bug that makes The Stone immediately fall after Gungurk has fallen |  |
+Implement a way of adding and removing GUI elements from the Display |  |
+
+## Interesting links 100
+
+[:arrow_double_up:](#day-100)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
@@ -2080,3 +2092,5 @@ When Gungurk falls to the Chasm, his GUI should be removed |  |
 - GitHub - [Mr2Much](https://github.com/mr2much)
 - Website - [My Portfolio, please note that it is still a work in progress](https://mr2much.github.io/webdev/)
 - Twitter - [@Cold_Dog](https://twitter.com/Cold_Dog)
+
+[github]: https://github.com/mr2much
