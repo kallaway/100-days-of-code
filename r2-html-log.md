@@ -1949,8 +1949,8 @@ When HP reaches zero, Char GUI should fade away and remove itself from the DOM |
 
 TO DO | Status | Pomodoros
 ----- | ------ | ---------
-30 minutes of Math on Khan Academy | [X] | :tomato:
-Add images for the players and enemies on Dark Awakenings game and a bunch of other stuffs | [X] | :tomato: :tomato: :tomato: :tomato:
+30 minutes of Math on Khan Academy | - [X] | :tomato:
+Add images for the players and enemies on Dark Awakenings game and a bunch of other stuffs | - [X] | :tomato: :tomato: :tomato: :tomato:
 
 ## Interesting links 96
 
@@ -1977,7 +1977,7 @@ Add images for the players and enemies on Dark Awakenings game and a bunch of ot
 
 TO DO | Status | Pomodoros
 ----- | ------ | ---------
-Improving code and readability | [X] | :tomato:
+Improving code and readability | - [X] | :tomato:
 
 [:arrow_double_up:](#day-97)
 
@@ -2002,12 +2002,12 @@ Improving code and readability | [X] | :tomato:
 
 TO DO | Status | Pomodoros
 ----- | ------ | ---------
-30 minutes of Math on Khan Academy | [X] |
-Keep learning about the Node.js Event Loop and practicing some examples to understand how it works | [ ] |
-Improving code to implement a function to show messages on Dark Awakenings game | [ ] |
-Fix bug that shows Vines as being attacked when combat starts | [ ] |
-Fix bug when switching enemies on **1a_fight** scenario | [ ] |
-When Gungurk falls to the Chasm, his GUI should be removed | [ ] |
+30 minutes of Math on Khan Academy | - [X] |
+Keep learning about the Node.js Event Loop and practicing some examples to understand how it works | - [ ] |
+Improving code to implement a function to show messages on Dark Awakenings game | - [ ] |
+Fix bug that shows Vines as being attacked when combat starts | - [ ] |
+Fix bug when switching enemies on **1a_fight** scenario | - [ ] |
+When Gungurk falls to the Chasm, his GUI should be removed | - [ ] |
 
 ## Interesting links 98
 
@@ -2045,11 +2045,11 @@ When Gungurk falls to the Chasm, his GUI should be removed | [ ] |
 TO DO | Status | Pomodoros
 ----- | ------ | ---------
 30 minutes of Math on Khan Academy | [X] |
-Keep learning about the Node.js **Event Loop**, **The Call Stack**, **Queueing Function Execution**, **The Message Queue**, and **ES6 Job Queue**, and practicing some examples to understand how it works | [X] | :tomato: :tomato:
-Improving code to implement a function to show messages on Dark Awakenings game | [X] | Half :tomato:
-Fix bug that shows Vines as being attacked when combat starts | [ ] |
-Fix bug when switching enemies on **1a_fight** scenario | [X] | :tomato: Half :tomato:
-When Gungurk falls to the Chasm, his GUI should be removed | [ ] |
+Keep learning about the Node.js **Event Loop**, **The Call Stack**, **Queueing Function Execution**, **The Message Queue**, and **ES6 Job Queue**, and practicing some examples to understand how it works | - [X] | :tomato: :tomato:
+Improving code to implement a function to show messages on Dark Awakenings game | - [X] | Half :tomato:
+Fix bug that shows Vines as being attacked when combat starts | - [ ] |
+Fix bug when switching enemies on **1a_fight** scenario | - [X] | :tomato: Half :tomato:
+When Gungurk falls to the Chasm, his GUI should be removed | - [ ] |
 
 ## Interesting links 99
 
