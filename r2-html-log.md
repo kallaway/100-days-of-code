@@ -2067,7 +2067,7 @@ When Gungurk falls to the Chasm, his GUI should be removed |  |
 
 ## Ramblings and inner thoughts 100
 
-- Made my GitHub profile[github] page look cooler by adding a few visual stats using anuraghazra's github-readme-stats
+- Made my [![GitHub profile][github] page look cooler by adding a few visual stats using anuraghazra's github-readme-stats
 
 ## What I did on day 100
 
