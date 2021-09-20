@@ -1,7 +1,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 97 - Latest entry](#day-97)
+  - [Day 98 - Latest entry](#day-98)
+  - [Day 97](#day-97)
   - [Day 96](#day-96)
   - [Day 95](#day-95)
   - [Day 94](#day-94)
@@ -1978,6 +1979,80 @@ TO DO | Status | Pomodoros
 Improving code and readability | [X] | :tomato:
 
 [:arrow_double_up:](#day-97)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 98
+**Round 2 Day 98, Sep 18th, 2021**
+## Contents 98
+- [Day ramblings and inner thoughts](#day-98-ramblings-and-inner-thoughts)
+- [What I did on day](#what-i-did-on-day-98)
+- [Interesting links](#interesting-links-98)
+
+## Day 98 ramblings and inner thoughts
+
+- I have started to learn Node.js.
+
+- When a combat scenario starts, the vines are shown as being attacked right away. I would like the combat scenario to be displayed first, with all the combatants beginning at full HP, and then you can start attacking them. This happens correctly on the last scenario.
+
+- There is also a slight bug when you kill a Vine and then the game picks a new one. It doesn't refresh the display until the new Tainted Root enemy is attacked for the first time.
+
+## What I did on day 98
+
+TO DO | Status | Pomodoros
+----- | ------ | ---------
+30 minutes of Math on Khan Academy | [X] |
+Keep learning about the Node.js Event Loop and practicing some examples to understand how it works | [ ] |
+Improving code to implement a function to show messages on Dark Awakenings game | [ ] |
+Fix bug that shows Vines as being attacked when combat starts | [ ] |
+Fix bug when switching enemies on **1a_fight** scenario | [ ] |
+When Gungurk falls to the Chasm, his GUI should be removed | [ ] |
+
+## Interesting links 98
+
+[:arrow_double_up:](#day-98)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 99
+**Round 2 Day 99, Sep 19th, 2021**
+## Contents 99
+- [Day ramblings and inner thoughts](#day-99-ramblings-and-inner-thoughts)
+- [What I did on day](#what-i-did-on-day-99)
+- [Interesting links](#interesting-links-99)
+
+## Day 99 ramblings and inner thoughts
+
+- Yesterday the only thing I really did was to dedicate one Pomodoro to Math on Khan Academy. Other than that, what I did was "think" about other stuff I wanted to do.
+
+- Took a few notes on the differences between a Node.js application and one being purely ran in the Browser.
+
+- Also learned a bit about the V8 JavaScript Engine.
+
+- Added function to disable all Options on `1a_fight` scenario.
+
+- Modified the `toggleButton()` to disable the button passed as argument instead of only enabling/disabling the Break Button.
+
+- Managed to get the vine GUI to refresh immediately after the vine is killed, but now created a bug where, even if Gungurk has fallen to the Chasm, the Tainted Root can keep targetting him and doing damage to him when Gungurk should not be on the map anymore.
+
+- There is also another bug where, after Gungurk falls The Stone gets his reference to the Distance From Chasm object, as immediately falls after being dragged once, despite not being close to the Chasm.
+
+- I'm thinking that I should create some kind of manager object to add or remove GUI references from the Display.
+
+## What I did on day 99
+
+TO DO | Status | Pomodoros
+----- | ------ | ---------
+30 minutes of Math on Khan Academy | [X] |
+Keep learning about the Node.js **Event Loop**, **The Call Stack**, **Queueing Function Execution**, **The Message Queue**, and **ES6 Job Queue**, and practicing some examples to understand how it works | [X] | :tomato: :tomato:
+Improving code to implement a function to show messages on Dark Awakenings game | [ ] |
+Fix bug that shows Vines as being attacked when combat starts | [ ] |
+Fix bug when switching enemies on **1a_fight** scenario | [X] | :tomato: :tomato:
+When Gungurk falls to the Chasm, his GUI should be removed | [ ] |
+
+## Interesting links 99
+
+[:arrow_double_up:](#day-99)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
