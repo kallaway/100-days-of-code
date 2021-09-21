@@ -2067,7 +2067,11 @@ When Gungurk falls to the Chasm, his GUI should be removed |  |
 
 ## Ramblings and inner thoughts 100
 
-- Made my [![GitHub profile][github] page look cooler by adding a few visual stats using anuraghazra's github-readme-stats
+- Made my [GitHub profile][github] page look cooler by adding a few visual stats using [anuraghazra's github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- Fixed a strange bug I haven't noticed before, where when the Tainted Root enemy dragged someone into the chasm, the Button that allows you to attempt to break free was not being disabled, since the logic was checking that the distance from the chasm was greater than zero for the target. But that doesn't matter at that point since the vine that dragged the target over dies from the fall.
+- Noticed another bug when switching to a new Enemy on the Display that causes the game to think that the enemy got "healed" since their HP goes from 0 to 30.
+- Should probably separate the logic for each character and place them on their own files.
+- Well, in the end I started working on separating the game logic for The Stone, Gungurk and the Tainted Root's behavior instead of keeping it all in a gigantic function. I managed to separate the behavior of all entities in the game, and might have left a few bugs here and there, but I'll correct them later on.
 
 ## What I did on day 100
 
@@ -2075,11 +2079,11 @@ TO DO | Status | Pomodoros
 ----- | ------ | ---------
 30 minutes of Math on Khan Academy |  |
 Keep learning a bit of Node |  |
-Add a function to switch enemies |  |
+Add a function to switch enemies | :white_check_mark: |
 Fix bug that shows Vines as being attacked when combat starts |  |
 When Gungurk falls to the Chasm, his GUI should be removed |  |
-Fix bug that allows Gungurk to be targetted even after he falls |  |
-Fix bug that makes The Stone immediately fall after Gungurk has fallen |  |
+Fix bug that allows Gungurk to be targetted even after he falls | :white_check_mark:  |
+Fix bug that makes The Stone immediately fall after Gungurk has fallen | :white_check_mark:  |
 Implement a way of adding and removing GUI elements from the Display |  |
 
 ## Interesting links 100
