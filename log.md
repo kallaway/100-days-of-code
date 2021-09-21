@@ -1910,3 +1910,15 @@ I tried AtCoder(B - Billiards)
 arry = gets.split.map(&:to_f)
 result = arry[0] * arry[3] + arry[2] * arry[1]
 puts  result / (arry[1] + arry[3] )
+
+#100DaysOfCode 3rd_rap Day: 041/100
+I tried AtCoder(B - Go to Jail)
+
+n = gets.chomp.to_i
+d = Array.new(n){ gets.split.map(&:to_i) }
+
+result = d.map { |(x, y)| x == y }
+puts result.each_cons(3).any?(&:all?) ? "Yes" : "No"
+https://docs.ruby-lang.org/ja/3.0.0/method/Enumerable/i/each_cons.html
+https://docs.ruby-lang.org/ja/3.0.0/method/Array/i/any=3f.html
+
