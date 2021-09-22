@@ -1922,3 +1922,18 @@ puts result.each_cons(3).any?(&:all?) ? "Yes" : "No"
 https://docs.ruby-lang.org/ja/3.0.0/method/Enumerable/i/each_cons.html
 https://docs.ruby-lang.org/ja/3.0.0/method/Array/i/any=3f.html
 
+#100DaysOfCode 3rd_rap Day: 042/100
+Specification of relationships in models.
+The model of a table that contains "foreign keys" always has a belongs_to declaration.
+In the intermediate table called Relationship, we have prepared the follower_id followed_id.
+
+belongs_to :follower, class_name: 'User'
+belongs_to :followed, class_name: 'User'
+
+has_many :followed_relationships, class_name: 'Relationship', foreign_key: :follower_id
+has_many :followed_users, through: :followed_relationships, source: :followed
+has_many :follower_relationships, class_name: 'Relationship', foreign_key: :followed_id
+has_many :follower_users, through: :follower_relationships, source: :follower
+
+
+
