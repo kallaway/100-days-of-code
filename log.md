@@ -1935,5 +1935,10 @@ has_many :followed_users, through: :followed_relationships, source: :followed
 has_many :follower_relationships, class_name: 'Relationship', foreign_key: :followed_id
 has_many :follower_users, through: :follower_relationships, source: :follower
 
+#100DaysOfCode 3rd_rap Day: 043/100
+I tried AtCoder(B - Product Max)
+
+a, b, c, d = gets.split.map(&:to_i)
+puts [a * c, a * d, b * c, b * d].max
 
 
