@@ -1941,4 +1941,17 @@ I tried AtCoder(B - Product Max)
 a, b, c, d = gets.split.map(&:to_i)
 puts [a * c, a * d, b * c, b * d].max
 
+#100DaysOfCode 3rd_rap Day: 044/100
+I finally figured out the lauting of rails applications.
+So, I've heard it's best to limit Nest to two times.
 
+Rails.application.routes.draw do
+mount LetterOpenerWeb::Engine, at: "/letter_opener" if Rails.env.development?
+devise_for :users
+root to: 'books#index'
+resources :books
+resources :users, only: %i(index show) do
+resources :following, only: %i(index create)
+resources :followers, only: :index
+end
+end
