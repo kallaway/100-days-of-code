@@ -2068,7 +2068,7 @@ When Gungurk falls to the Chasm, his GUI should be removed |  |
 ## Ramblings and inner thoughts 100
 
 - Made my [GitHub profile][github] page look cooler by adding a few visual stats using [anuraghazra's github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- Fixed a strange bug I haven't noticed before, where when the Tainted Root enemy dragged someone into the chasm, the Button that allows you to attempt to break free was not being disabled, since the logic was checking that the distance from the chasm was greater than zero for the target. But that doesn't matter at that point since the vine that dragged the target over dies from the fall.
+- Fixed a strange bug I hadn't noticed before, where when the Tainted Root enemy dragged someone into the chasm, the Button that allows you to attempt to break free was not being disabled, since the logic was checking that the distance from the chasm was greater than zero for the target. But that doesn't matter at that point since the vine that dragged the target over dies from the fall.
 - Noticed another bug when switching to a new Enemy on the Display that causes the game to think that the enemy got "healed" since their HP goes from 0 to 30.
 - Should probably separate the logic for each character and place them on their own files.
 - Well, in the end I started working on separating the game logic for The Stone, Gungurk and the Tainted Root's behavior instead of keeping it all in a gigantic function. I managed to separate the behavior of all entities in the game, and might have left a few bugs here and there, but I'll correct them later on.
