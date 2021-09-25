@@ -1955,3 +1955,13 @@ resources :following, only: %i(index create)
 resources :followers, only: :index
 end
 end
+
+#100DaysOfCode 3rd_rap Day: 045/100
+I tried AtCoder(B - Multiple of 9)
+
+n = gets.chomp
+arry = n.chars.map(&:to_i)
+sum = 0
+arry.each { |i| sum += i }
+
+puts sum % 9 == 0 && n.to_i % 9 == 0 ? 'Yes' : 'No'
