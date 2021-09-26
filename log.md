@@ -1965,3 +1965,20 @@ sum = 0
 arry.each { |i| sum += i }
 
 puts sum % 9 == 0 && n.to_i % 9 == 0 ? 'Yes' : 'No'
+
+#100DaysOfCode 3rd_rap Day: 046/100
+I wrote blog about module today.
+I tried to include the module Effector.
+
+module Effector
+def chalk(guitarist)
+puts "#{guitarist}: Gyueeeeen!!"
+end
+end
+
+class Guitar
+include Effector
+    def play
+        chalk('JimiHendrix')
+    end
+end
