@@ -1982,3 +1982,17 @@ include Effector
         chalk('JimiHendrix')
     end
 end
+
+#100DaysOfCode 3rd_rap Day: 047/100
+I tried AtCoder(	B - Minor Change)
+
+s = gets.chomp.split("")
+t = gets.chomp.split("")
+
+cnt = 0
+s.size.times do |i|
+if s[i] != t[i]
+cnt += 1
+end
+end
+puts cnt
