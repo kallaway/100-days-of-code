@@ -1996,3 +1996,11 @@ cnt += 1
 end
 end
 puts cnt
+
+#100DaysOfCode 3rd_rap Day: 048/100
+I tried AtCoder(B - Mix Juice)
+
+n, k = gets.split.map(&:to_i)
+arry = gets.split.map(&:to_i).sort
+puts arry[0..(k-1)].sum
+  
