@@ -2003,4 +2003,14 @@ I tried AtCoder(B - Mix Juice)
 n, k = gets.split.map(&:to_i)
 arry = gets.split.map(&:to_i).sort
 puts arry[0..(k-1)].sum
-  
+
+#100DaysOfCode 3rd_rap Day: 049/100
+I tried AtCoder(B - Crane and Turtle)
+
+x, y = gets.split.map(&:to_i)
+if x*2 <= y && y <= x*4 && y.even?
+puts 'Yes'
+else
+puts 'No'
+end
+
