@@ -2014,3 +2014,25 @@ else
 puts 'No'
 end
 
+#100DaysOfCode 3rd_rap Day: 050/100
+I tried AtCoder(B - Crane and Turtle)
+
+n = gets.chomp.to_i
+a = gets.split.map(&:to_i)
+
+if a.include?(0)
+puts '0'
+exit
+end
+
+MAX = 1000000000000000000
+result = 1
+a.each do |i|
+result *= i
+if result > MAX
+puts '-1'
+exit
+end
+end
+
+puts result
