@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 001 - Latest entry](#day-001)
+  - [Day 002 - Latest entry](#day-002)
+  - [Day 001](#day-001)
 
 - [About me](#about-me)
 
@@ -49,6 +50,58 @@ Implement a way of adding and removing GUI elements from the Display |  |
 ## Interesting links 001
 
 [:arrow_double_up:](#day-001)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 002
+**Round 3 Day 002, Sep 27th, 2021**
+## Contents 002
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-002)
+- [What I did today](#what-i-did-on-day-002)
+- [Interesting links](#interesting-links-002)
+
+## Ramblings and inner thoughts 002
+
+There is a bug causing an infinite loop, possibly when picking a random enemy or a random target. I have to map the behaviors better
+
+## What I did on day 002
+
+- [X] Create an array that contains all of the entities (enemies, and allies)
+- [X] Add a field to the entities that specify if they're an enemy or an ally.
+- [X] When in "idle" state, the Enemy will pick a target that's an "ally"
+- [ ] Selected target will not be switched until the target is defeated or the enemy is killed.
+- [ ] Add idle state to the Player objects
+- [ ] Allies will also select a random "Enemy" from the array of entities when in "idle" state.
+- [ ] The selected "enemy" will not be switch until it is defeated.
+
+## Interesting links 002
+
+[:arrow_double_up:](#day-002)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 003
+**Round 3 Day 003, Oct 02nd, 2021**
+## Contents 003
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-003)
+- [What I did today](#what-i-did-on-day-003)
+- [Interesting links](#interesting-links-003)
+
+## Ramblings and inner thoughts 003
+
+I did something job related. I programmed an automated task using Node.js and Selenium on Windows. Have ran a couple of test and they are running just fine. I'm really happy with the result.
+
+## What I did on day 003
+
+- [ ] Fix bug causing infinite loop when picking random enemy or random target.
+- [ ] Selected target will not be switched until the target is defeated or the enemy is killed.
+- [ ] Add idle state to the Player objects
+- [ ] Allies will also select a random "Enemy" from the array of entities when in "idle" state.
+- [ ] The selected "enemy" will not be switch until it is defeated.
+
+## Interesting links 003
+
+[:arrow_double_up:](#day-003)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
