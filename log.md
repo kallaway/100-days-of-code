@@ -2036,3 +2036,22 @@ end
 end
 
 puts result
+
+#100DaysOfCode 3rd_rap Day: 051/100
+I tried AtCoder(B - ... (Triple Dots))
+
+k = gets.chomp.to_i
+s = gets.chomp.chars.map(&:to_s)
+if s.count <= k
+print s.join
+else
+print s.first(k).join + '... '
+end
+
+#100DaysOfCode 3rd_rap Day: 052/100
+Today, I'm having trouble with form processing.
+
+<%= form.hidden_field :user_name, :value => @user.name %>
+form_with(model: report), which means that I pass @user.name to the user_name column in the report.
+@user.name to the user_name column in the report.
+https://sakurawi.hateblo.jp/entry/hidden_field
