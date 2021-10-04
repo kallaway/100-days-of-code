@@ -4,7 +4,9 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 002 - Latest entry](#day-002)
+  - [Day 004 - Latest entry](#day-004)
+  - [Day 003](#day-003)
+  - [Day 002](#day-002)
   - [Day 001](#day-001)
 
 - [About me](#about-me)
@@ -102,6 +104,29 @@ I did something job related. I programmed an automated task using Node.js and Se
 ## Interesting links 003
 
 [:arrow_double_up:](#day-003)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 004
+**Round 3 Day 004, Oct 03rd, 2021**
+## Contents 004
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-004)
+- [What I did today](#what-i-did-on-day-004)
+- [Interesting links](#interesting-links-004)
+
+## Ramblings and inner thoughts 004
+
+## What I did on day 004
+
+- [X] Fix bug causing infinite loop when picking random enemy or random target.
+- [X] Selected target will not be switched until the target is defeated or the enemy is killed.
+- [ ] Add idle state to the Player objects
+- [ ] Allies will also select a random "Enemy" from the array of entities when in "idle" state.
+- [ ] The selected "enemy" will not be switch until it is defeated.
+
+## Interesting links 004
+
+[:arrow_double_up:](#day-004)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
