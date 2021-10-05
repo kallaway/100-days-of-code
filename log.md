@@ -3,9 +3,9 @@
 ### Day 0: October 4th, 2021 
 #####
 
-**Today's Progress**: Did some Practice problems on Java Conditional loops
-Did some loops related problems on Python
+**Today's Progress**: Did some Practice problems on Java Conditional loops on leetcode.
+Did some loops related problems on Python on Hackerrank.
 
-**Thoughts:** : Struggled a little bit with Python problems with identation.
+**Thoughts:** : Struggled a little bit with some problems.
 
 
