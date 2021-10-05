@@ -2055,3 +2055,15 @@ Today, I'm having trouble with form processing.
 form_with(model: report), which means that I pass @user.name to the user_name column in the report.
 @user.name to the user_name column in the report.
 https://sakurawi.hateblo.jp/entry/hidden_field
+
+#100DaysOfCode 3rd_rap Day: 053/100
+I tried AtCoder(B - Easy Linear Programming)
+a, b, c, k = gets.split.map(&:to_i)
+
+if a >= k
+puts k
+elsif a+b >= k
+puts a
+else
+puts a - (k - (a+b))
+end
