@@ -2067,3 +2067,20 @@ puts a
 else
 puts a - (k - (a+b))
 end
+
+#100DaysOfCode 3rd_rap Day: 054/100
+I tried AtCoder(A - AtCoder Beginner Contest 999)
+n = gets.chomp.chars.map(&:to_i)
+arry = []
+n.each do |i|
+if i == 1
+arry << 9
+else
+arry << 1
+end
+end
+puts arry.join
+
+And, I wrote it in one line.
+
+puts gets.chomp.chars.map { |i| i == '1' ? '9' : i == '9' ? '1' : i }.join
