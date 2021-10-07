@@ -27,3 +27,19 @@ var findDuplicates = function(nums) {
 
 **Link(s) to work**:
 [LeetCode](https://leetcode.com/TiaRose7/)
+### Day 2: Oct. 7th, 2021
+
+**Today's Progress**: Spent some time updating packages in one of my old projects.
+
+**Thoughts**: I haven't touched this project in over a year and the number of critical and high vulnerabilities this project had is amazing. Wrangling with this amount of outdate packages has been good practice to ensure what it takes to get old legacy code up to speed. In my previous job we had to do something similar, so the more I practice I get, the better.
+
+**Link(s) to work**: [Remeber-Me](https://github.com/TRose2014/remember-me)
+
+### Template
+### Day 1: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
