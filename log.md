@@ -23,7 +23,7 @@ var findDuplicates = function(nums) {
 
 ```
 
-**Thoughts**: One goal for myself while being stationed in Japan is to get better with coding challenges. So I plan on doing one coding challenge a day. Today when I read this particiular challenge, I immediately thought about creating a Set. A Set will return an object with only unique vaules (no repeats). Then I can filter the original array that has the repeated values, and if the set I created has that element in it, we can delete that item from the set. If the item is not in the set, then just return the item. Once that is completed we can convert our set to a new array that holds only the repeated values using the spread operator.
+**Thoughts**: One goal for myself while being stationed in Japan is to get better with coding challenges. So I plan on doing one coding challenge a day. Today when I read this particular  challenge, I immediately thought about creating a Set. A Set will return an object with only unique values (no repeats). Then I can filter the original array that has the repeated values, and if the set I created has that element in it, we can delete that item from the set. If the item is not in the set, then just return the item. Once that is completed we can convert our set to a new array that holds only the repeated values using the spread operator.
 
 **Link(s) to work**:
 [LeetCode](https://leetcode.com/TiaRose7/)
@@ -33,7 +33,7 @@ var findDuplicates = function(nums) {
 
 **Thoughts**: I haven't touched this project in over a year and the number of critical and high vulnerabilities this project had is amazing. Wrangling with this amount of outdate packages has been good practice to ensure what it takes to get old legacy code up to speed. In my previous job we had to do something similar, so the more I practice I get, the better.
 
-**Link(s) to work**: [Remeber-Me](https://github.com/TRose2014/remember-me)
+**Link(s) to work**: [Remember-Me](https://github.com/TRose2014/remember-me)
 
 ### Template
 ### Day 1: 
