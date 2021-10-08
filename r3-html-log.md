@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 004 - Latest entry](#day-004)
+  - [Day 005 - Latest entry](#day-005)
+  - [Day 004](#day-004)
   - [Day 003](#day-003)
   - [Day 002](#day-002)
   - [Day 001](#day-001)
@@ -127,6 +128,37 @@ I did something job related. I programmed an automated task using Node.js and Se
 ## Interesting links 004
 
 [:arrow_double_up:](#day-004)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 005
+**Round 3 Day 005, Oct 7th, 2021**
+## Contents 005
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-005)
+- [What I did today](#what-i-did-on-day-005)
+- [Interesting links](#interesting-links-005)
+
+## Ramblings and inner thoughts 005
+
+- Learning about Finite State Machine to program the AI of the Entities in the Dark Awakenings game.
+
+## What I did on day 005
+
+- [X] Remove unused code.
+- [X] When the enemy chooses a target, it should display a message indicating which target it picked.
+- [X] Add idle state to the Player objects
+- [X] Allies will also select a random "Enemy" from the array of entities when in "idle" state.
+- [X] The selected "enemy" will not be switch until it is defeated.
+- [X] Changed The Stone's behavior to work with Finite State Machine.
+- [X] Changed Tainted Root's behavior to work with Finite State Machine. -This was done a few days ago-
+
+## Interesting links 005
+
+- [Implementing an AI with Finite State Machine in Unity](https://developpaper.com/implementing-an-ai-with-finite-state-machine-in-unity/)
+- [Combat AI for Action-Adventure Games Tutorial - Unity/C# - GOAP](https://youtu.be/n6vn7d5R_2c)
+- [Simple Enemy AI in JavaScript](https://youtu.be/zbqwFb8DJgQ)
+
+[:arrow_double_up:](#day-005)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
