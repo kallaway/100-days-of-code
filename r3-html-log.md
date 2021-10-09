@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 005 - Latest entry](#day-005)
+  - [Day 006 - Latest entry](#day-006)
+  - [Day 005](#day-005)
   - [Day 004](#day-004)
   - [Day 003](#day-003)
   - [Day 002](#day-002)
@@ -162,9 +163,39 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
+### Day 006
+**Round 3 Day 006, Oct 9th, 2021**
+## Contents 006
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-006)
+- [What I did today](#what-i-did-on-day-006)
+- [Interesting links](#interesting-links-006)
+
+## Ramblings and inner thoughts 006
+
+- When The Stone breaks free from a Tainted Root's grapple, this immediately kills it, but it creates a bug when that Tainted Root was the last one remaining. The game should switch immediately to the scenario where all the enemies die but it doesn't, instead it needs another iteration where the attack button is pressed to realize that there are no more enemies. I should maybe create a function that ensures that no more enemies are remaining.
+
+- There seem to also be some bugs where a Tainted Root keeps targetting Gungurk after he's been pulled into the Chasm.
+
+- There also appears to be another bug where even if the Tainted Root manages to drag Gungurk into the Chasm -which kills the Tainted Root-, the Tainted Root can still be targetted, but immediately as it is picked, the game then switches the Player to "idle" mode and picks another Tainted Root.
+
+## What I did on day 005
+
+- [X] Implement Finite State Machine to handle Gungurk's behavior.
+- [X] When Gungurk has the "grappled" condition, he will always attempt to escape.
+- [ ] If Gungurk is less than 15ft from the Chasm, he will always try to back off (if he is not grappled)
+
+
+## Interesting links 006
+
+- []()
+
+[:arrow_double_up:](#day-006)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
 ## About me
 
-- Should have to put a description in here some day.
+- Should have to put a description in here some day. In the mean time, you are already on my [github], you can also see what is supposed to be my portfolio [website], and if you want you can see my posts on [twitter] thought I only use the platform to post updates on my coding journey.
 
 [github]: https://github.com/mr2much
 [website]: https://mr2much.github.io/webdev/
