@@ -178,12 +178,15 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 - There also appears to be another bug where even if the Tainted Root manages to drag Gungurk into the Chasm -which kills the Tainted Root-, the Tainted Root can still be targetted, but immediately as it is picked, the game then switches the Player to "idle" mode and picks another Tainted Root.
 
+- There is a bug that causes that a Tainted Root keeps targetting Gungurk after he's been pulled into the Chasm or was killed.
+
+- There is another bug that causes the game to continue after The Stone was killed, which messes up everything.
+
 ## What I did on day 005
 
 - [X] Implement Finite State Machine to handle Gungurk's behavior.
 - [X] When Gungurk has the "grappled" condition, he will always attempt to escape.
-- [ ] If Gungurk is less than 15ft from the Chasm, he will always try to back off (if he is not grappled)
-
+- [X] If Gungurk is less than 15ft from the Chasm, he will always try to back off (if he is not grappled)
 
 ## Interesting links 006
 
