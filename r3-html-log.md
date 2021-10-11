@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 006 - Latest entry](#day-006)
+  - [Day 007 - Latest entry](#day-007)
+  - [Day 006](#day-006)
   - [Day 005](#day-005)
   - [Day 004](#day-004)
   - [Day 003](#day-003)
@@ -182,7 +183,7 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 - There is another bug that causes the game to continue after The Stone was killed, which messes up everything.
 
-## What I did on day 005
+## What I did on day 006
 
 - [X] Implement Finite State Machine to handle Gungurk's behavior.
 - [X] When Gungurk has the "grappled" condition, he will always attempt to escape.
@@ -193,6 +194,41 @@ I did something job related. I programmed an automated task using Node.js and Se
 - []()
 
 [:arrow_double_up:](#day-006)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 007
+**Round 3 Day 007, Oct 10th, 2021**
+## Contents 007
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-007)
+- [What I did today](#what-i-did-on-day-007)
+- [Interesting links](#interesting-links-007)
+
+## Ramblings and inner thoughts 007
+
+- Added a few more scenarios to the first encounter. Specifically the running away options and an ending where you abandon your friends.
+
+- On `1a_break_success.html` scenario, when the `Run Away` button is clicked, there shouldn't be a need to check if The Stone is escaping alone, since Gungurk will always be grappled in this case, so The Stone will always escape alone.
+
+- I started learning how to separate multiple commands, or in this case, behaviors, into their own separate files to clean up the code a bit more. I think that this way I will be able to fix a few of the bugs that I have found so far.
+
+## What I did on day 007
+
+- [X] Removed code that checked if The Stone was in a party when he picked the **Run Away** option on `1a_break_success.html`
+
+- [ ] Fix bug where when The Stone breaks free from a Tainted Root's grapple, this immediately kills it, but it creates a bug when that Tainted Root was the last one remaining. The game should switch immediately to the scenario where all the enemies die but it doesn't, instead it needs another iteration where the attack button is pressed to realize that there are no more enemies. I should maybe create a function that ensures that no more enemies are remaining.
+
+- [ ] Fix bug where a Tainted Root keeps targetting Gungurk after he's been pulled into the Chasm.
+
+- [ ] Fix bug where even if the Tainted Root manages to drag Gungurk into the Chasm -which kills the Tainted Root-, the Tainted Root can still be targetted, but immediately as it is picked, the game then switches the Player to "idle" mode and picks another Tainted Root.
+
+- [ ] Fix bug that causes the game to continue after The Stone was killed, which messes up everything.
+
+## Interesting links 007
+
+- []()
+
+[:arrow_double_up:](#day-007)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
