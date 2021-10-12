@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 007 - Latest entry](#day-007)
+  - [Day 008 - Latest entry](#day-008)
+  - [Day 007](#day-007)
   - [Day 006](#day-006)
   - [Day 005](#day-005)
   - [Day 004](#day-004)
@@ -229,6 +230,49 @@ I did something job related. I programmed an automated task using Node.js and Se
 - []()
 
 [:arrow_double_up:](#day-007)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 008
+**Round 3 Day 008, Oct 11th, 2021**
+## Contents 008
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-008)
+- [What I did today](#what-i-did-on-day-008)
+- [Interesting links](#interesting-links-008)
+
+## Ramblings and inner thoughts 008
+
+- Working on refactoring the `1a_fight.js` code to handle the Tainted Root's behavior.
+
+## What I did on day 008
+
+- [ ] Separate behavior control logic for each Entity on the `1a_fight` script
+      - [X] Create a folder to place all the behavioral scripts
+      - [ ] Create a separate folder in that folder to handle the behaviors of the Entities.
+      - [ ] Create script file to handle Dead behavior
+      - [ ] Create script file to handle Idle behavior.
+      - [ ] Create script file to handle Attack behavior
+      - [ ] Create script file to handle Drag behavior
+      - [ ] Create script file to handle Falling behavior
+      - [ ] Create script file to handle Retreat behavior
+      - [ ] Create script file to handle Escape behavior
+
+- While I just started working on the things pointed above, I think I managed to solve one of the bugs where the Tainted Roots kept targetting Gungurk when he fell into the Chasm. I have not have time to test it, but I found out that the Target was being referenced by a global Tainted Root reference instead of the Tainted Root currently grappling him.
+
+- [ ] Fix bug where when The Stone breaks free from a Tainted Root's grapple, this immediately kills it, but it creates a bug when that Tainted Root was the last one remaining. The game should switch immediately to the scenario where all the enemies die but it doesn't, instead it needs another iteration where the attack button is pressed to realize that there are no more enemies. I should maybe create a function that ensures that no more enemies are remaining.
+
+- [ ] Fix bug where a Tainted Root keeps targetting Gungurk after he's been pulled into the Chasm.
+
+- [ ] Fix bug where even if the Tainted Root manages to drag Gungurk into the Chasm -which kills the Tainted Root-, the Tainted Root can still be targetted, but immediately as it is picked, the game then switches the Player to "idle" mode and picks another Tainted Root.
+
+- [ ] Fix bug that causes the game to continue after The Stone was killed, which messes up everything.
+
+## Interesting links 008
+
+- [javascript: modifing an imported 'variable' causes 'Assignment to constant variable' even it is not a constant](https://stackoverflow.com/questions/53723251/javascript-modifing-an-imported-variable-causes-assignment-to-constant-varia)
+- []()
+
+[:arrow_double_up:](#day-008)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
