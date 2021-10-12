@@ -35,6 +35,14 @@ var findDuplicates = function(nums) {
 
 **Link(s) to work**: [Remember-Me](https://github.com/TRose2014/remember-me)
 
+### Day 3: October 12th, 2021 
+
+**Today's Progress**: Cleaned up remember-me repo and cleared out outdated dependencies. Also updated readme in remember-me repo. Started scaffolding out new project for button challenge
+
+**Thoughts**: Part of being a software developer is to up keep your old code and since this remember me project is special to me I wanted to make sure it still functions. I need to work on the admin page for the remember me project but currently I want to work on a front end challenge to refresh my React.js knowledge
+
+**Link(s) to work**: [Button Challenge Info](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY)
+
 ### Template
 ### Day 1: 
 
