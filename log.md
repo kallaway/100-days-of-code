@@ -43,6 +43,14 @@ var findDuplicates = function(nums) {
 
 **Link(s) to work**: [Button Challenge Info](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY)
 
+### Day 4: October 13th, 2021
+
+**Today's Progress**: Added [React-bootstrap](https://react-bootstrap.github.io/components/buttons/) to button challenges project and started playing around with it.
+
+**Thoughts**: React bootstrap allows me to use pre-built, pre-styled components such as a button. However when I try various styles they all look like the same, so will need to revisit why styling isn't there.
+
+**Link(s) to work**: [Button Challenge Repo](https://github.com/TRose2014/button-challenge/tree/dev)
+
 ### Template
 ### Day 1: 
 
