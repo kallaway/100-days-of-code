@@ -51,6 +51,15 @@ var findDuplicates = function(nums) {
 
 **Link(s) to work**: [Button Challenge Repo](https://github.com/TRose2014/button-challenge/tree/dev)
 
+### Day 5: October 17th, 2021
+
+**Today's Progress**: Setting up a new repo, this project will display all the snacks we try in Asia
+
+**Thoughts**: I had an idea on creating a food items page for the family since we will be living in Asia for a bit. It will be similar to my remember me project, but I will just be using a json file to subsitute a database. This gave me a refersher on using [MUI](https://mui.com/getting-started/installation/) and mapping over data in React.
+
+**Link(s) to work**: [Rose-travel](https://github.com/TRose2014/rose-travel)
+
+
 ### Template
 ### Day 1: 
 
