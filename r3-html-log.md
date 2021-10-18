@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 009 - Latest entry](#day-009)
+  - [Day 010 - Latest entry](#day-010)
+  - [Day 009](#day-009)
   - [Day 008](#day-008)
   - [Day 007](#day-007)
   - [Day 006](#day-006)
@@ -319,6 +320,53 @@ I did something job related. I programmed an automated task using Node.js and Se
 - []()
 
 [:arrow_double_up:](#day-009)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 010
+**Round 3 Day 010, Oct 15th, 2021**
+## Contents 010
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-010)
+- [What I did today](#what-i-did-on-day-010)
+- [Interesting links](#interesting-links-010)
+
+## Ramblings and inner thoughts 010
+
+- Third day of working on refactoring the `1a_fight.js` to separate the code that handles the entity's behaviors.
+
+- I think that I finally managed to solve the bugs that caused to target dead Tainted Roots or Gungurk once he was dropped down the Chasm or killed. I have to run a few more test to confirm it.
+
+- Right now, all of the Tainted Roots are attacking at different targets at the same time, which causes that sometimes all of them gang up on a single target, when this happens, only one of them is able to grapple the target.
+
+- I removed the code that caused a target to get pulled and damaged when attempting to break free of a grapple and they failed, since they already wasted a turn trying to escape anyways.
+
+## What I did on day 010
+
+- [ ] Separate behavior control logic for each Entity on the `1a_fight` script
+      - [ ] Create a separate folder in that folder to handle the behaviors of the Entities.
+      - [ ] Create script file to handle Dead behavior
+      - [ ] Create script file to handle Idle behavior.
+      - [ ] Create script file to handle Attack behavior
+      - [ ] Create script file to handle Drag behavior
+      - [ ] Create script file to handle Falling behavior
+      - [ ] Create script file to handle Retreat behavior
+      - [ ] Create script file to handle Escape behavior
+
+- [ ] Fix bug where when The Stone breaks free from a Tainted Root's grapple, this immediately kills it, but it creates a bug when that Tainted Root was the last one remaining. The game should switch immediately to the scenario where all the enemies die but it doesn't, instead it needs another iteration where the attack button is pressed to realize that there are no more enemies. I should maybe create a function that ensures that no more enemies are remaining.
+
+- [ ] Fix bug where a Tainted Root keeps targetting Gungurk after he's been pulled into the Chasm.
+
+- [ ] Test if the bug that allowed Gungurk to keep bieng targetted when he fell into the Chasm was fixed.
+
+- [ ] Fix bug where even if the Tainted Root manages to drag Gungurk into the Chasm -which kills the Tainted Root-, the Tainted Root can still be targetted, but immediately as it is picked, the game then switches the Player to "idle" mode and picks another Tainted Root.
+
+- [ ] Fix bug that causes the game to continue after The Stone was killed, which messes up everything.
+
+## Interesting links 010
+
+- []()
+
+[:arrow_double_up:](#day-010)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
