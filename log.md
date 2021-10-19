@@ -31,3 +31,9 @@ Did some loops related problems on Python on Hackerrank.
 Practiced some Python questions and started making my first game project!!
 
 **Thoughts:** : Was a very busy and exhaustive day but enjoyed it totally!
+
+### Day 4-18: October 20th, 2021 
+#####
+
+**Today's Progress**: Done till Arrays and Linear Search, Will Practice questions now.
+**Thoughts:** : enjoyed it totally!
