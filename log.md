@@ -36,4 +36,5 @@ Practiced some Python questions and started making my first game project!!
 #####
 
 **Today's Progress**: Done till Arrays and Linear Search, Will Practice questions now.
+
 **Thoughts:** : enjoyed it totally!
