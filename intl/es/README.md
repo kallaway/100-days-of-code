@@ -1,11 +1,11 @@
-# Me uní el reto #100DaysOfCode
+# Me uní al reto #100DaysOfCode
 
 ## Tabla de contenidos
 
 * [Reglas](reglas.md)
-* [Diario - haga clic aquí para ver mi progreso](diario.md)
+* [Diario - haga clic aquí para ver mi progreso](recursos.md)
 * [Preguntas frecuentes](preguntas_frecuentes.md)
-* [Recursos](recursos.md)
+* [Recursos](registro.md)
 
 ## Translations
 [বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [nederlands](../nl/README.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) - [srpski](intl/sr/README-sr.md)
