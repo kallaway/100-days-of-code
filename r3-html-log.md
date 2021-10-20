@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 011 - Latest entry](#day-011)
+  - [Day 012 - Latest entry](#day-012)
+  - [Day 011](#day-011)
   - [Day 010](#day-010)
   - [Day 009](#day-009)
   - [Day 008](#day-008)
@@ -417,6 +418,31 @@ I did something job related. I programmed an automated task using Node.js and Se
 - []()
 
 [:arrow_double_up:](#day-011)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 012
+**Round 3 Day 012, Oct 19th, 2021**
+## Contents 012
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-012)
+- [What I did today](#what-i-did-on-day-012)
+- [Interesting links](#interesting-links-012)
+
+## Ramblings and inner thoughts 012
+
+- Today I found a bug that had been lurking around in the code from the beginning, which was caused because I was using `setInterval()` instead of `setTimeout()`
+
+## What I did on day 012
+
+- [X] The game loads two death scenarios depending on how you died.
+  - [X] It loads an scenario when you die due to damage.
+  - [X] It loads an scenario when you die due to falling into the chasm.
+
+## Interesting links 012
+
+- []()
+
+[:arrow_double_up:](#day-012)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
