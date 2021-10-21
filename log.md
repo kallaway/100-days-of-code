@@ -32,3 +32,10 @@ Practiced some Python questions and started making my first game project!!
 **Today's Progress**: Done till Arrays and Linear Search, Will Practice questions now.
 
 **Thoughts:** : enjoyed it totally!
+
+### Day 18: October 21st, 2021
+###
+
+**Today's Progress**: Done some Leetcode easy questions, was stuck but learned the pattern
+
+**Thoughts:** : Have to practice python too.
