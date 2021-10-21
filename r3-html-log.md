@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 012 - Latest entry](#day-012)
+  - [Day 013 - Latest entry](#day-013)
+  - [Day 012](#day-012)
   - [Day 011](#day-011)
   - [Day 010](#day-010)
   - [Day 009](#day-009)
@@ -443,6 +444,39 @@ I did something job related. I programmed an automated task using Node.js and Se
 - []()
 
 [:arrow_double_up:](#day-012)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 013
+**Round 3 Day 013, Oct 20th, 2021**
+## Contents 013
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-013)
+- [What I did today](#what-i-did-on-day-013)
+- [Interesting links](#interesting-links-013)
+
+## Ramblings and inner thoughts 013
+
+- Today I decided to work more on the narrative aspect of the game since mechanically it is more polished. Also noticing where some of the behavior handlers could be reused in the game. Thought for that I'd have to refine the behavior handlers a bit more and get them out from where I put them which is the `1a_fight` scenario.
+
+- Added a couple more text to some scenarios.
+
+- Added a few more branches of choices.
+
+- Added a few more bugs, which I then promptly corrected.
+
+## What I did on day 013
+
+- [X] Separate GameObject behavior into own separate file.
+
+- [X] Removed unnecessary code form `choices.js`
+
+- [X] Implemented a few more missing scenarios on the game.
+
+## Interesting links 013
+
+- []()
+
+[:arrow_double_up:](#day-013)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
