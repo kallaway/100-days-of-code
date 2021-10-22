@@ -39,3 +39,10 @@ Practiced some Python questions and started making my first game project!!
 **Today's Progress**: Done some Leetcode easy questions, was stuck but learned the pattern
 
 **Thoughts:** : Have to practice python too.
+
+### Day 18: October 22st, 2021
+###
+
+**Today's Progress**: Practiced questions on my IDE.
+
+**Thoughts:** : Have to take notes during the video.
