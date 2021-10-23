@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 013 - Latest entry](#day-013)
+  - [Day 014 - Latest entry](#day-014)
+  - [Day 013](#day-013)
   - [Day 012](#day-012)
   - [Day 011](#day-011)
   - [Day 010](#day-010)
@@ -477,6 +478,29 @@ I did something job related. I programmed an automated task using Node.js and Se
 - []()
 
 [:arrow_double_up:](#day-013)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 014
+**Round 3 Day 014, Oct 23rd, 2021**
+## Contents 014
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-014)
+- [What I did today](#what-i-did-on-day-014)
+- [Interesting links](#interesting-links-014)
+
+## Ramblings and inner thoughts 014
+
+- I found and fixed a bug that sneaked on me as I was refactoring the `intro_choices` script which was messing up the amount of enemies you were fighting against on the `1a_fight` scenario.
+
+- Also kept adding more narrative and new scenarios to the game. I think I'm nearly completing the first encounter.
+
+## What I did on day 014
+
+## Interesting links 014
+
+- []()
+
+[:arrow_double_up:](#day-014)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
