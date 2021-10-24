@@ -521,6 +521,58 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
+### Day 015
+**Round 3 Day 015, Oct 24th, 2021**
+## Contents 015
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-015)
+- [What I did today](#what-i-did-on-day-015)
+- [Interesting links](#interesting-links-015)
+
+## Ramblings and inner thoughts 015
+
+- Today I'm going to work on turning the behavior handler into a class of its own and make the behavior handlers of the entities subclasses of it.
+
+- Today I turned the `notifyObservers` function into its own object called ObserverHandler.
+
+- Removed `enemyDied` function from `1a_fight` script and moved the code that was there to the `dead` state of the Tainted Root. Also removed the use of the `amountOfEnemies` variable since I'm going to implement at some point a way of removing the GUI elements when an entity is killed.
+
+- Should I maybe modify the combat scenario on `1a_fight` so that the fight runs on its own immediately as you click the **Attack** button?, or should I keep it running as is, one click at a time?, right now this is causing some issues because the behaviors of the entities are not being immediately executed when they change, they always need at least one more iteration before the game refreshes the new behavior.
+
+## What I did on day 015
+
+- Going to place all of the Entities in an Entity container on a separate file and remove it from `1a_fight`. And maybe put there a reference that allows me to check how many enemies are remaining as well as remove the entities that died from the container.
+
+- The first thing I need to do to separate the Behavior class into its own class, is pass in a reference to the GameObject into its constructor
+
+- [X] The ObserverHandler class should have a method to add, notify, and remove observers.
+  - [X] Implement method to add observers.
+  - [X] Implement method to notify observers.
+  - [X] Implement method to remove observers.
+  - [X] Replace all references to notifyObservers anywhere they appear so that they use the ObserverHandler
+    - [x] Replace references to notifyObservers so that they use the ObserverHandler in `1a_fight`
+    - [x] Replace references to notifyObservers so that they use the ObserverHandler in `2a_hackvine`
+    - [X] Replace references to notifyObservers so that they use the ObserverHandler in `1a_help_axe`
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Set the grappledBy property on The Stone's reference to the Tainted Root so that The Stone is able to run Escape on it
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Using The Stone's behavior handler, I should invoke the Escape behavior
+- [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+- [ ] On `2a_look` option two should take you to `1a_break_success`
+- [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+
+## Interesting links 015
+
+- []()
+
+[:arrow_double_up:](#day-015)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
 ## About me
 
 - Should have to put a description in here some day. In the mean time, you are already on my [github], you can also see what is supposed to be my portfolio [website], and if you want you can see my posts on [twitter] thought I only use the platform to post updates on my coding journey.
