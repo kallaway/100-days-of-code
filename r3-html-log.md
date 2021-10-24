@@ -538,11 +538,13 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 - Should I maybe modify the combat scenario on `1a_fight` so that the fight runs on its own immediately as you click the **Attack** button?, or should I keep it running as is, one click at a time?, right now this is causing some issues because the behaviors of the entities are not being immediately executed when they change, they always need at least one more iteration before the game refreshes the new behavior.
 
+- The code on `1a_fight` now has a strange bug that is causing that I have to click two or three times for it to update the states of the entities. Which is caused by the removal of the `enemyDied` function from the `1a_fight` script. What that function basically did was immediately run the dead behavior of the TaintedRoot and immediately updated the count and removed the entities.
+
+- I'm not sure if I should keep the reference to the GameObject when handling the behaviors of the entities.
+
 ## What I did on day 015
 
-- Going to place all of the Entities in an Entity container on a separate file and remove it from `1a_fight`. And maybe put there a reference that allows me to check how many enemies are remaining as well as remove the entities that died from the container.
-
-- The first thing I need to do to separate the Behavior class into its own class, is pass in a reference to the GameObject into its constructor
+- [X] Placed all of the Entities in an Entity container on a separate file and remove it from `1a_fight`. I am using this Entity Container to know how many enemies remain as well as remove the entities that died from the container.
 
 - [X] The ObserverHandler class should have a method to add, notify, and remove observers.
   - [X] Implement method to add observers.
@@ -560,9 +562,9 @@ I did something job related. I programmed an automated task using Node.js and Se
   - [ ] Set the grappledBy property on The Stone's reference to the Tainted Root so that The Stone is able to run Escape on it
   - [ ] Have a reference to The Stone's behavior handler on `2a_look`
   - [ ] Using The Stone's behavior handler, I should invoke the Escape behavior
-- [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
-- [ ] On `2a_look` option two should take you to `1a_break_success`
-- [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
 
 
 ## Interesting links 015
