@@ -494,7 +494,24 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 - Also kept adding more narrative and new scenarios to the game. I think I'm nearly completing the first encounter.
 
+- I found out that the behaviors of the Entities are too tightly coupled to the `1a_fight` script, which is causing that I cannot use them as separated pieces of code. Apparently the bug is being caused by the event listener on window object.
+
+- I have to refactor getDistanceForCharacter and the distanceFromChasm object, so that the value is stored in the character object instead of the game object so that I don't have to pass a reference to the gameObject on the character's behavior handler.
+
 ## What I did on day 014
+
+- [X] Move the Escape Behavior for The Stone to its own separate file.
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Set the grappledBy property on The Stone's reference to the Tainted Root so that The Stone is able to run Escape on it
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Using The Stone's behavior handler, I should invoke the Escape behavior
+- [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+- [ ] On `2a_look` option two should take you to `1a_break_success`
+- [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
 
 ## Interesting links 014
 
