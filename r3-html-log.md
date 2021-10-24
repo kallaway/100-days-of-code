@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 014 - Latest entry](#day-014)
+  - [Day 015 - Latest entry](#day-015)
+  - [Day 014](#day-014)
   - [Day 013](#day-013)
   - [Day 012](#day-012)
   - [Day 011](#day-011)
