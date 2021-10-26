@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 015 - Latest entry](#day-015)
+  - [Day 016 - Latest entry](#day-016)
+  - [Day 015](#day-015)
   - [Day 014](#day-014)
   - [Day 013](#day-013)
   - [Day 012](#day-012)
@@ -573,6 +574,50 @@ I did something job related. I programmed an automated task using Node.js and Se
 - []()
 
 [:arrow_double_up:](#day-015)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 016
+**Round 3 Day 016, Oct 25th, 2021**
+## Contents 016
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-016)
+- [What I did today](#what-i-did-on-day-016)
+- [Interesting links](#interesting-links-016)
+
+## Ramblings and inner thoughts 016
+
+- The Behavior Handler also has an array with all of the entities currently in game separated by type "hostiles" and "ally" which helps me determine which types are which for targetting. It also has other functions like adding, removing and counting entities either by type, or by total.
+
+- I also turned the Behavior Handler into an observer.
+
+- ObserverHandler to notify observers using a `_notify` function which should be implemented inside of the observer. There, the observer only takes the value that interest it or monitors the entities it is interested in.
+
+- Reincorporated the `amountOfEnemies` variable because right now I still need to rely on the amount of enemies remaining to determine when the game should move to the next scenario.
+
+- Solved the issues that were causing a delay in the updating of the enemy count and the displaying of messages when the enemies died. This does not happen with Gungurk, for example, because his behavior is always the last one to run. I should probably eventually implement a function that doesn't rely on execution time. Right now, I am using a function that runs every `0.5 seconds` to check if the amount of enemies has changed, and update accordingly, will also change this to simply rely on the ObserverHandler, passing a reference of `this` to make the `1a_script` into an observer as well.
+
+- Little by little am making the entities and behavior more independent from each other. I'm pretty sure that eventually I'll be able to remove the GameObject reference, and that this reference alone will be able to handle the entire game, as it should be.
+
+## What I did on day 016
+
+- [X] Solved the problem with the code on `1a_fight` that was causing the strange bug that made necessary clicking up to three times for it to update the states of the entities.
+
+- [X] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [X] Set the grappledBy property on The Stone's reference to the Tainted Root so that The Stone is able to run Escape on it
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [X] Using The Stone's behavior handler, I should invoke the Escape behavior
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 016
+
+- []()
+
+[:arrow_double_up:](#day-016)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
