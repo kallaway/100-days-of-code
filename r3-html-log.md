@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 016 - Latest entry](#day-016)
+  - [Day 017 - Latest entry](#day-017)
+  - [Day 016](#day-016)
   - [Day 015](#day-015)
   - [Day 014](#day-014)
   - [Day 013](#day-013)
@@ -586,24 +587,28 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 ## Ramblings and inner thoughts 016
 
-- The Behavior Handler also has an array with all of the entities currently in game separated by type "hostiles" and "ally" which helps me determine which types are which for targetting. It also has other functions like adding, removing and counting entities either by type, or by total.
+- The Behavior Handler now has an array with all of the entities currently in game separated by type, "hostiles" or "ally"; which helps the entities for targetting on combat scenarios. It also has other functions like adding, removing and counting entities either by type, or by total entities stored.
 
 - I also turned the Behavior Handler into an observer.
 
-- ObserverHandler to notify observers using a `_notify` function which should be implemented inside of the observer. There, the observer only takes the value that interest it or monitors the entities it is interested in.
+- ObserverHandler now notifies observers using a `_notify` function which should be implemented inside of the observer. There, the observer only takes the value that interest it or monitors the entities it is interested in.
 
 - Reincorporated the `amountOfEnemies` variable because right now I still need to rely on the amount of enemies remaining to determine when the game should move to the next scenario.
 
-- Solved the issues that were causing a delay in the updating of the enemy count and the displaying of messages when the enemies died. This does not happen with Gungurk, for example, because his behavior is always the last one to run. I should probably eventually implement a function that doesn't rely on execution time. Right now, I am using a function that runs every `0.5 seconds` to check if the amount of enemies has changed, and update accordingly, will also change this to simply rely on the ObserverHandler, passing a reference of `this` to make the `1a_script` into an observer as well.
+- Solved the issues that were causing the delay when updating the enemy count and the displaying of messages when the enemies died. This does not happen with Gungurk, for example, because his behavior is always the last one to run.
+
+- I should probably eventually implement a function that doesn't rely on execution time. Right now, I am using a function that runs every `0.5 seconds` to check if the amount of enemies has changed, and update accordingly, will also change this to simply rely on the ObserverHandler, passing a reference of `this` to make the `1a_script` into an observer as well.
 
 - Little by little am making the entities and behavior more independent from each other. I'm pretty sure that eventually I'll be able to remove the GameObject reference, and that this reference alone will be able to handle the entire game, as it should be.
+
+- I found a glitch that only ocurred once when taking a different path to the `2a_hackvine` scenario, which killed three enemies instead of two. I'll be working on replicating this.
 
 ## What I did on day 016
 
 - [X] Solved the problem with the code on `1a_fight` that was causing the strange bug that made necessary clicking up to three times for it to update the states of the entities.
 
-- [X] Invoke the Escape Behavior from outside when it is needed.
-  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to happens at the start of the game.
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
   - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
   - [ ] Have a variable for The Stone
   - [X] Set the grappledBy property on The Stone's reference to the Tainted Root so that The Stone is able to run Escape on it
@@ -618,6 +623,38 @@ I did something job related. I programmed an automated task using Node.js and Se
 - []()
 
 [:arrow_double_up:](#day-016)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 017
+**Round 3 Day 017, Oct 27th, 2021**
+## Contents 017
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-017)
+- [What I did today](#what-i-did-on-day-017)
+- [Interesting links](#interesting-links-017)
+
+## Ramblings and inner thoughts 017
+
+- Managed to kind of turn the `1a_script` into an Observer, but not by passing a reference to `this` or none of that. I just simply created a new Observer that only cares about a specific Entity, and I created it inside of the `1a_fight` script. So far it's working as intended.
+
+## What I did on day 017
+
+- [X] Fix glitch that only ocurred once when taking a different path to the `2a_hackvine` scenario, which killed three enemies instead of two. I'll be working on replicating this. This was also happening when you went the `1a_punch` branch.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 017
+
+- []()
+
+[:arrow_double_up:](#day-017)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
