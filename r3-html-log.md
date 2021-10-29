@@ -685,6 +685,20 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
+- **With all of these, you should click the mouse and drag it around the screen**
+- [Bubbles with Images](https://editor.p5js.org/mr2much/full/shaQM6CZ3)
+- [Bubbles Intersecting 2](https://editor.p5js.org/mr2much/full/6HvX5gxreU)
+
+- **For Bubble Popper 2 and 3, you can click on the bubbles to make them pop**
+- [Bubble Popper 3](https://editor.p5js.org/mr2much/full/tr_5dfMdx)
+- [Bubble Popper 2](https://editor.p5js.org/mr2much/full/M0g8CPpRQ)
+
+- **Randomly click mouse around to create bubbles
+- [Bubble Popper](https://editor.p5js.org/mr2much/full/c8fPjdxYn)
+- [Bubble Storm - Hint: Right click on any location within the screen](https://editor.p5js.org/mr2much/full/c8fPjdxYn)
+
+- [Bouncing Ball](https://editor.p5js.org/mr2much/full/yHdjQADNf)
+
 [:arrow_double_up:](#day-018)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
