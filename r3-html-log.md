@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 018 - Latest entry](#day-018)
+  - [Day 019 - Latest entry](#day-019)
+  - [Day 018](#day-018)
   - [Day 017](#day-017)
   - [Day 016](#day-016)
   - [Day 015](#day-015)
@@ -700,6 +701,38 @@ I did something job related. I programmed an automated task using Node.js and Se
 - [Bouncing Ball](https://editor.p5js.org/mr2much/full/yHdjQADNf)
 
 [:arrow_double_up:](#day-018)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 019
+**Round 3 Day 019, Oct 29th, 2021**
+## Contents 019
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-019)
+- [What I did today](#what-i-did-on-day-019)
+- [Interesting links](#interesting-links-019)
+
+## Ramblings and inner thoughts 019
+
+- Started the Working with Data and API's in JavaScript course on the Coding Train channel.
+
+- Did a simple example of how to use `fetch()` to pull an image from a local resource and how to display it on the DOM.
+
+## What I did on day 019
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 019
+
+- []()
+
+[:arrow_double_up:](#day-019)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
