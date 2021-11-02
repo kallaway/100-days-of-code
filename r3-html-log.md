@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 019 - Latest entry](#day-019)
+  - [Day 020 - Latest entry](#day-020)
+  - [Day 019](#day-019)
   - [Day 018](#day-018)
   - [Day 017](#day-017)
   - [Day 016](#day-016)
@@ -731,6 +732,48 @@ I did something job related. I programmed an automated task using Node.js and Se
 ## Interesting links 019
 
 - []()
+
+[:arrow_double_up:](#day-019)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 020
+**Round 3 Day 020, Nov 1st, 2021**
+## Contents 020
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-020)
+- [What I did today](#what-i-did-on-day-020)
+- [Interesting links](#interesting-links-020)
+
+## Ramblings and inner thoughts 020
+
+- Continuing on with the Data and API's in JavaScript course on the Coding Train channel.
+
+## What I did on day 020
+
+- [X] Loaded CSV file from NASA's GISS Surface Temperature Analysis.
+- [X] Manually parsed the data to read year and global temperature.
+- [X] Loaded Chart.js library from CDN.
+- [X] Created HTML5 Canvas element.
+- [X] Styled chart on JS file.
+- [X] Refactored code that loaded and parsed CSV data to work with Chart.js chart.
+
+- [X] Did exercise 1 of the `fetch()` video of Working with Data & API's in Javascript where you have to load and show multiple images.
+- [X] Did a minor refactoring to exercise 1 to make the `insertImage` function use `document.body.appendChild()`
+
+- [X] Did exercise 2 of the `fetch()` video of Working with Data & API's in Javascript where you have to load a text file and show it on a paragraph element on the DOM.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 020
+
+- [NASA's GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
 
 [:arrow_double_up:](#day-019)
 
