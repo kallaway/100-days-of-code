@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 020 - Latest entry](#day-020)
+  - [Day 021 - Latest entry](#day-021)
+  - [Day 020](#day-020)
   - [Day 019](#day-019)
   - [Day 018](#day-018)
   - [Day 017](#day-017)
@@ -775,7 +776,44 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 - [NASA's GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
 
-[:arrow_double_up:](#day-019)
+[:arrow_double_up:](#day-020)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 021
+**Round 3 Day 021, Nov 2nd, 2021**
+## Contents 021
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-021)
+- [What I did today](#what-i-did-on-day-021)
+- [Interesting links](#interesting-links-021)
+
+## Ramblings and inner thoughts 021
+
+- Worked on exercise 2 of the Module 2 of the Working with Data & API's in JavaScript mini course from Coding Train. 
+
+## What I did on day 021
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 021
+
+- [NASA's GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
+
+[:arrow_double_up:](#day-021)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
