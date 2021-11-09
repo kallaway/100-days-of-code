@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 023 - Latest entry](#day-023)
+  - [Day 024 - Latest entry](#day-024)
+  - [Day 023](#day-023)
   - [Day 022](#day-022)
   - [Day 021](#day-021)
   - [Day 020](#day-020)
@@ -897,6 +898,52 @@ I did something job related. I programmed an automated task using Node.js and Se
 -[]()
 
 [:arrow_double_up:](#day-023)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 024
+**Round 3 Day 024, Nov 8th, 2021**
+## Contents 024
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-024)
+- [What I did today](#what-i-did-on-day-024)
+- [Interesting links](#interesting-links-024)
+
+## Ramblings and inner thoughts 024
+
+- Advancing through Module 2 making a tracker for the International Space Station.
+
+## What I did on day 024
+
+- [X] Obtain data from `Where the ISS at` site
+- [X] Load resources for `Leaflet.js`
+- [X] Manage to display the map
+- [X] Add a marker at arbitrary location
+- [X] Change marker to a custom marker of the ISS
+- [X] Show the marker at the current latitude and longitude of the ISS
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 024
+
+-[Where the ISS at?](https://wheretheiss.at/)
+-[Leaflet](https://leafletjs.com/)
+-[OpenStreetMap](https://www.openstreetmap.org/)
+
+[:arrow_double_up:](#day-024)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
