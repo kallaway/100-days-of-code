@@ -961,9 +961,13 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 ## What I did on day 025
 
-- When the map loads, it should be centered on the ISS and have a bit more zoom.
-- Added an interval to run the function to track the ISS every second
-- Set the decimal places of the latitude and longitude to only show two decimal places and a degrees symbol.
+- [X] When the map loads, it should be centered on the ISS and have a bit more zoom.
+- [X] Added an interval to run the function to track the ISS every second
+- [X] Set the decimal places of the latitude and longitude to only show two decimal places and a degrees symbol.
+- [X] Made the ISS icon resizable depending on the altitude of the space station.
+- [X] Keep map centered on the ISS icon.
+- [X] Added a simple pan animation to show the map moving smoothly behind the ISS icon, also increased zoom level to make it more apparent.
+- [X] Disabled zoom controls on the map.
 
 - [ ] Create table on the page to display the reported ATM's
 - [ ] Add several entries with dummy data to test the entries on the table.
@@ -983,9 +987,7 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 ## Interesting links 025
 
--[Where the ISS at?](https://wheretheiss.at/)
--[Leaflet](https://leafletjs.com/)
--[OpenStreetMap](https://www.openstreetmap.org/)
+-[]()
 
 [:arrow_double_up:](#day-025)
 
