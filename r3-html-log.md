@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 025 - Latest entry](#day-025)
+  - [Day 026 - Latest entry](#day-026)
+  - [Day 025](#day-025)
   - [Day 024](#day-024)
   - [Day 023](#day-023)
   - [Day 022](#day-022)
@@ -990,6 +991,50 @@ I did something job related. I programmed an automated task using Node.js and Se
 -[]()
 
 [:arrow_double_up:](#day-025)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 026
+**Round 3 Day 026, Nov 10th, 2021**
+## Contents 026
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-026)
+- [What I did today](#what-i-did-on-day-026)
+- [Interesting links](#interesting-links-026)
+
+## Ramblings and inner thoughts 026
+
+- I learned today that all what I have been doing lately was all part of Module 1... oh well :rofl: on to Module 2 it is then.
+
+## What I did on day 026
+
+- [X] Create Data Selfie App by Joey Lee.
+- [X] Install Express
+- [X] Setup simple static node `server with Express.
+- [X] Confirm that geolocation is available
+- [X] Load my current location from geolocation.
+- [X] Added leaflet and showed a marker on my current latitude and longitude according to geolocation.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 026
+
+-[Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+
+[:arrow_double_up:](#day-026)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
