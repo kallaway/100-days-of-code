@@ -4,7 +4,9 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 026 - Latest entry](#day-026)
+  - [Day 028 - Latest entry](#day-028)
+  - [Day 027](#day-027)
+  - [Day 026](#day-026)
   - [Day 025](#day-025)
   - [Day 024](#day-024)
   - [Day 023](#day-023)
@@ -1035,6 +1037,96 @@ I did something job related. I programmed an automated task using Node.js and Se
 -[Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 
 [:arrow_double_up:](#day-026)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 027
+**Round 3 Day 027, Nov 11th, 2021**
+## Contents 027
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-027)
+- [What I did today](#what-i-did-on-day-027)
+- [Interesting links](#interesting-links-027)
+
+## Ramblings and inner thoughts 027
+
+## What I did on day 027
+
+- [X] Take data from client and send it to the server.
+- [X] Implement routing on the server.
+  - [X] Implement end point to receive the json request.
+    - [X] Implement JSON Parsing on the server side.
+    - [X] Implemented sending a JSON response back to the client
+- [X] Implement POST request on the client side.
+  - [X] Modified the `fetch` function to send data as a POST to the server. 
+  - [X] Parsed the received data from the server to JSON.
+- [X] Completed Exercise One of Module Two about adding a button to send the Latitude and Longitude to the server, store it in an array and then send it back to the client.
+
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 027
+
+-[Express](https://expressjs.com/)
+-[SQL - A Quick Overview | SQL Tutorial | SQL for Beginners](https://youtu.be/OfM5lC-7R4Y)
+
+[:arrow_double_up:](#day-027)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 028
+**Round 3 Day 028, Nov 12th, 2021**
+## Contents 028
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-028)
+- [What I did today](#what-i-did-on-day-028)
+- [Interesting links](#interesting-links-028)
+
+## Ramblings and inner thoughts 028
+
+- Continuing on with Module 2 of Coding Train course on Working with Data and API's in JavaScript.
+
+## What I did on day 028
+
+- [X] Install NeDB
+- [X] Create local database
+- [X] Server now saves data into the database when they are received from the client.
+- [X] Add timestamp when you receive a request.
+- [X] Completed exercise 2, adding an input box to insert extra data into the Database.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 028
+
+-[NeDB](https://dbdb.io/db/nedb)
+
+[:arrow_double_up:](#day-028)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
