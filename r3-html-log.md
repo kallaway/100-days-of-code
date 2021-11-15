@@ -4,7 +4,9 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 028 - Latest entry](#day-028)
+  - [Day 030 - Latest entry](#day-030)
+  - [Day 029](#day-029)
+  - [Day 028](#day-028)
   - [Day 027](#day-027)
   - [Day 026](#day-026)
   - [Day 025](#day-025)
@@ -1127,6 +1129,90 @@ I did something job related. I programmed an automated task using Node.js and Se
 -[NeDB](https://dbdb.io/db/nedb)
 
 [:arrow_double_up:](#day-028)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 029
+**Round 3 Day 029, Nov 13th, 2021**
+## Contents 029
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-029)
+- [What I did today](#what-i-did-on-day-029)
+- [Interesting links](#interesting-links-029)
+
+## Ramblings and inner thoughts 029
+
+- Funny, I don't remember what I did on this day but I coded for almost a full hour. :man_shrugging:
+
+## What I did on day 029
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 029
+
+-[]()
+
+[:arrow_double_up:](#day-029)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 030
+**Round 3 Day 030, Nov 14th, 2021**
+## Contents 030
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-030)
+- [What I did today](#what-i-did-on-day-030)
+- [Interesting links](#interesting-links-030)
+
+## Ramblings and inner thoughts 030
+
+- Continuing on with Exercise 3 of Module 2, I managed to load various entries, showing them on a world map as markers and if you click on each marker you'll see information about the entry. Like the mood of the person, date, time and lat/lon. The marker is displayed on the latitude and longitude of the entry.
+
+## What I did on day 030
+
+- [X] Load pj5 from CDN.
+- [X] Allow site to load local image file with filepicker from PJ5.
+- [X] When submit button is clicked, it should send image file to server.
+  - [X] Image is converted to base64
+  - [X] Image is passed to the server in an object storing the original image's information along with the base64 encoding
+- When server receives image, it should be placed on `res/img/` path.
+- What will be stored on the `database` is the path where the file was placed.
+- On client side, when I chose the `all` page, the marker icon should be the image corresponding to the entry.
+
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 029
+
+-[]()
+
+[:arrow_double_up:](#day-029)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
