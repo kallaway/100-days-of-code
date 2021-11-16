@@ -11,4 +11,4 @@ Started literature review on thesis. Started with Tensorflowlite guide on pose e
 MoveNet uses MobileNetV2 as the image feature extractor. Began the [MobileNetV2 paper](https://arxiv.org/abs/1801.04381) for this covering;
  - Paper implements a lighter computational model with small accuracy tradeoff for deep neural networks used in computer vision.
  - Depthwise separable convolution (split colnvolution operator into 2 separate factorized layers)
- - Linear bottlenecks (the d-channel pixels (h x w) of the image lie on a small dimensional manifold and will be able to save computation some way while overcoming information loss with the RELU operator somehow... :thinking )
+ - Linear bottlenecks (the d-channel pixels (h x w) of the image lie on a small dimensional manifold and will be able to save computation some way while overcoming information loss with the RELU operator somehow... :anguished: )
