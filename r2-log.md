@@ -12,3 +12,13 @@ MoveNet uses MobileNetV2 as the image feature extractor. Began the [MobileNetV2 
  - Paper implements a lighter computational model with small accuracy tradeoff for deep neural networks used in computer vision.
  - Depthwise separable convolution (split colnvolution operator into 2 separate factorized layers)
  - Linear bottlenecks (the d-channel pixels (h x w) of the image lie on a smaller dimensional manifold and transforming space to this will to save computation (less dimensions to multiply) while overcoming information loss that is problematic with RELU operator somehow... :anguished: )
+
+ ### R1D3 (17/11/21)
+Tony's lectures on DNN. Covered the [receptive field of CNNs](https://distill.pub/2019/computing-receptive-fields/) of neurons and how this increases with deeper layers (determined by preceeding convolution and poolying layers).
+Covered multiple kernels and understood how to follow the volume diagrams used in papers. Input image (m x n x c) with N kernels (k x k x c) will produce an output feature map of (m' x n' x N) where m' and n' depend in input size m x n, stride, padding, etc.
+
+
+Covered model architectures of:
+- [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) and a [closer look](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/tutorials/tut6_slides.pdf) at it
+- [VGG](https://arxiv.org/abs/1409.1556)
+- GoogLeNet (of which there was also a [theoretical paper](https://arxiv.org/pdf/1310.6343.pdf) proving some bounds and the existence of a probability distribution of data represented by some Sparse network ???)
