@@ -22,3 +22,13 @@ Covered model architectures of:
 - [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) and a [closer look](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/tutorials/tut6_slides.pdf) at it
 - [VGG](https://arxiv.org/abs/1409.1556)
 - GoogLeNet (of which there was also a [theoretical paper](https://arxiv.org/pdf/1310.6343.pdf) proving some bounds and the existence of a probability distribution of data represented by some Sparse network ???)
+
+
+ ### R1D4 (18/11/21)
+ Another lecture on GoogLeNet's architecture. Main features covered were:
+ - [Inception architecture](https://arxiv.org/pdf/1312.4400.pdf) (network in a network - parallel network units too. Introduces 1x1 bottlenecks convolutions that reduce amount of multiplication)
+ - [GoogLeNet paper](https://arxiv.org/pdf/1409.4842.pdf)
+ - [Hebbian's principle](https://en.wikipedia.org/wiki/Hebbian_theory) (mentioned in the GoogLeNet paper)
+
+ Moved onto [ResNet architecture](https://arxiv.org/pdf/1512.03385.pdf), residual networks, which made training more layers easier. [Veit paper](https://arxiv.org/pdf/1605.06431.pdf) suggests this is because we are making shallower networks which avoids vanishing gradient and helps convergence.
+ ResNet paper also used [batch normalization](https://arxiv.org/pdf/1502.03167.pdf)
