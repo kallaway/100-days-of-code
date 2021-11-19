@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 030 - Latest entry](#day-030)
+  - [Day 031 - Latest entry](#day-031)
+  - [Day 030](#day-030)
   - [Day 029](#day-029)
   - [Day 028](#day-028)
   - [Day 027](#day-027)
@@ -1208,11 +1209,66 @@ I did something job related. I programmed an automated task using Node.js and Se
   - [ ] On `2a_look` option two should take you to `1a_break_success`
   - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
 
-## Interesting links 029
+## Interesting links 030
 
 -[]()
 
-[:arrow_double_up:](#day-029)
+[:arrow_double_up:](#day-030)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 031
+**Round 3 Day 031, Nov 18th, 2021**
+## Contents 031
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-031)
+- [What I did today](#what-i-did-on-day-031)
+- [Interesting links](#interesting-links-031)
+
+## Ramblings and inner thoughts 031
+
+- God, I spent hours getting the data to correctly display accents on the page.
+
+## What I did on day 031
+
+- [X] Implemented end points
+- [X] Created public static site to be served on client side
+- [X] Read CSV file on server side, set encoding to UFT-8
+- [X] Displayed Leaflet map on client side
+- [X] Read data from server.
+- [X] Used data from server to create markers on map
+- [X] Used data from server to create Popups showing ATM information
+
+- [X] Load pj5 from CDN.
+- [X] Allow site to load local image file with filepicker from PJ5.
+- [X] When submit button is clicked, it should send image file to server.
+  - [X] Image is converted to base64
+  - [X] Image is passed to the server in an object storing the original image's information along with the base64 encoding
+- When server receives image, it should be placed on `res/img/` path.
+- What will be stored on the `database` is the path where the file was placed.
+- On client side, when I chose the `all` page, the marker icon should be the image corresponding to the entry.
+
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 031
+
+-[]()
+
+[:arrow_double_up:](#day-031)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
