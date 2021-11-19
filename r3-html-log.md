@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 031 - Latest entry](#day-031)
+  - [Day 032 - Latest entry](#day-032)
+  - [Day 031](#day-031)
   - [Day 030](#day-030)
   - [Day 029](#day-029)
   - [Day 028](#day-028)
@@ -1226,7 +1227,7 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 ## Ramblings and inner thoughts 031
 
-- God, I spent hours getting the data to correctly display accents on the page.
+- God, I spent hours getting the data to correctly display accents on the page, turns out the freaking file was not in "UTF-8" format.
 
 ## What I did on day 031
 
@@ -1269,6 +1270,63 @@ I did something job related. I programmed an automated task using Node.js and Se
 -[]()
 
 [:arrow_double_up:](#day-031)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 032
+**Round 3 Day 032, Nov 19th, 2021**
+## Contents 032
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-032)
+- [What I did today](#what-i-did-on-day-032)
+- [Interesting links](#interesting-links-032)
+
+## Ramblings and inner thoughts 032
+
+- I struggled a little with managing to convert the image to **base64**, passing it to the server and then converting it to binary data and storing it as an image file on a designated path on the "server side" -which for now is locally on my PC-, turns out that at first I was just passing the encoded canvas, which is doesn't contain any information, instead of the actual loaded image file. Turns out that on p5, it appears that the image file is locally stored as base64 already, so I just had to pass the **src** to the server, yet it still was not working when saving the image file. Turns out that it was because the base64 encoding adds a bit of data that makes it hard to be converted to binary data by the `Buffer` class, so I just had to strip it away -which I was already doing for the canvas, and then ended up removing it because I thought it was not working because since the canvas didn't contain any information it was only storing an empty image file, which was also always a PNG file-.
+
+- To save the data locally on the server side, I used node `fs`
+
+- A friend of mine also suggested that to avoid having a `relative path` for the file in Node, which can sometimes cause issues on the server side, I should use `Path` to make it an absolute path.
+
+- I also found an issue when using `nodemon` to keep the server checking for changes on the server's code, the issue was that I manually changed the path of the data stored on the `nedb` database, because at first I was trying to serve static files from the **public** folder, but the path shouldn't be including **public** in it. After the change, I was expecting that the issue was fixed, but the server kept passing the same old data containing **public** after I had removed it, so I had to restart the server to correct the issue.
+
+## What I did on day 032
+
+- [X] Load pj5 from CDN.
+- [X] Allow site to load local image file with filepicker from PJ5.
+- [X] When submit button is clicked, it should send image file to server.
+  - [X] Image is converted to base64
+  - [X] Image is passed to the server in an object storing the original image's information along with the base64 encoding. This information should include the width and height of the image.
+- [X] When server receives image, it should be placed on `res/img/` path.
+- [X] What will be stored on the `database` is the path where the file was placed.
+- [X] On client side, when I chose the `all` page, the marker icon should be the image corresponding to the entry.
+- [X] Fix image ratio of the marker (calculate Aspect Ratio by dividing image height over widht)
+- [X] Add `img` tag to the popup showing on the marker.
+- [X] Add styling to the image after adding it to the Popup.
+
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 032
+
+-[How to convert Base64 String to javascript file object like as from file input form?](https://stackoverflow.com/questions/35940290/how-to-convert-base64-string-to-javascript-file-object-like-as-from-file-input-f)
+-[RANDOM.ORG - Pick Random Coordinates](https://www.random.org/geographic-coordinates/)
+
+[:arrow_double_up:](#day-032)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
