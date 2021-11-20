@@ -32,3 +32,8 @@ Covered model architectures of:
 
  Moved onto [ResNet architecture](https://arxiv.org/pdf/1512.03385.pdf), residual networks, which made training more layers easier. [Veit paper](https://arxiv.org/pdf/1605.06431.pdf) suggests this is because we are making shallower networks which avoids vanishing gradient and helps convergence.
  ResNet paper also used [batch normalization](https://arxiv.org/pdf/1502.03167.pdf)
+
+ ### R1D5 (19/11/21)
+ More work on DNN architectures. Covered more on batch normalization. [Understanding BN fully remains an open question](https://papers.nips.cc/paper/2018/file/36072923bfc3cf47745d704feb489480-Paper.pdf). It normalizes all activations that enables faster convergence. BN removes the case where large gradient updates can result in diverging loss and activations growing uncrontrollably with network depth, leading to a limit on the size of the learning rates that can be used. BN enables training with larger learning rates.
+
+[Squeeze-Excite network](https://arxiv.org/pdf/1709.01507.pdf) (and blocks) can be inserted into ResNet blocks between the lasdt convolution layer in the main path before the shortcut addition. There are 2 path in a SE block where on one path with an input (HxWxC) goes Global average pooling (1x1xC) -> FC -> ReLU -> FC -> Sigmoid (output of [0,1] for each channel c). This is used as a scale factor on the input. Leads to performance increase of 10% on ImageNet.
