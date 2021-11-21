@@ -37,3 +37,10 @@ Covered model architectures of:
  More work on DNN architectures. Covered more on batch normalization. [Understanding BN fully remains an open question](https://papers.nips.cc/paper/2018/file/36072923bfc3cf47745d704feb489480-Paper.pdf). It normalizes all activations that enables faster convergence. BN removes the case where large gradient updates can result in diverging loss and activations growing uncrontrollably with network depth, leading to a limit on the size of the learning rates that can be used. BN enables training with larger learning rates.
 
 [Squeeze-Excite network](https://arxiv.org/pdf/1709.01507.pdf) (and blocks) can be inserted into ResNet blocks between the lasdt convolution layer in the main path before the shortcut addition. There are 2 path in a SE block where on one path with an input (HxWxC) goes Global average pooling (1x1xC) -> FC -> ReLU -> FC -> Sigmoid (output of [0,1] for each channel c). This is used as a scale factor on the input. Leads to performance increase of 10% on ImageNet.
+
+ ### R1D6 (20/11/21)
+ More work on DNN architectures.
+
+ ### R1D7 (21/11/21)
+Looking at gradient descent. Mini-batch gradient descent, with momentum.
+Overfitting in NN and methods to prevent it such as: Early stopping, regularization, dropout.
