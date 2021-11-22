@@ -39,8 +39,22 @@ Covered model architectures of:
 [Squeeze-Excite network](https://arxiv.org/pdf/1709.01507.pdf) (and blocks) can be inserted into ResNet blocks between the lasdt convolution layer in the main path before the shortcut addition. There are 2 path in a SE block where on one path with an input (HxWxC) goes Global average pooling (1x1xC) -> FC -> ReLU -> FC -> Sigmoid (output of [0,1] for each channel c). This is used as a scale factor on the input. Leads to performance increase of 10% on ImageNet.
 
  ### R1D6 (20/11/21)
- More work on DNN architectures.
+ [DenseNet](https://arxiv.org/pdf/1608.06993.pdf) covered which is comparable to ResNet but with more connectivity due to the concatenation (instead of summation) the output feature maps are concatenated. Up to 90% less params than ResNet and also has the short paths and therefore avoids exploding/vanishing gradient.
+
+Also worth noting that in DenseNet the arrangement is: BN -> ReLu -> Conv (different to ResNet). This was suggested in the paper [Identity mapping in deep res nets (Zhang 2016)](https://arxiv.org/pdf/1603.05027.pdf).
+
+[This paper](https://arxiv.org/pdf/1810.00736.pdf) covered an overall summary of the different architectures of the model zoo. Models such as ResNet, Xception, DenseNet have reduced the no. of params by reducing the number of FC layers and using global average pooling, however they have a large number of convolution layers so there is high computational complexity.
 
  ### R1D7 (21/11/21)
-Looking at gradient descent. Mini-batch gradient descent, with momentum.
-Overfitting in NN and methods to prevent it such as: Early stopping, regularization, dropout.
+Looking at gradient descent. The loss function $J(\theta)$ for image classification is `Categorical cross entropy` (Shannon entropy).
+$$ J(\theta) = - \Sigma_{j}^{C} y_{true, j} log(y_{pred, j})$$
+
+where the ground truth $y_{true, j}$ will be a one-hot encoded vector $y_{true} = [0,0,0,1,0,0]$
+
+Mini-batch gradient descent, with [momentum](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.57.5612&rep=rep1&type=pdf).
+
+Ways to [prevent overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/) in NN and methods to prevent it such as: Early stopping, regularization, dropout.
+
+Touched on the [exploding gradient problem](https://arxiv.org/pdf/1712.05577.pdf) this very in-depth paper looks to cover it.
+
+Also looking at this paper and seeing the mention of the [SELU](https://pytorch.org/docs/stable/generated/torch.nn.SELU.html) activation function lead me to a Pytorch documentation page which links a paper of [Self-Normalizing Neural networks](https://arxiv.org/abs/1706.02515).
