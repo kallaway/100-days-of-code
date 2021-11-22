@@ -58,3 +58,14 @@ Ways to [prevent overfitting](https://www.jeremyjordan.me/deep-neural-networks-p
 Touched on the [exploding gradient problem](https://arxiv.org/pdf/1712.05577.pdf) this very in-depth paper looks to cover it.
 
 Also looking at this paper and seeing the mention of the [SELU](https://pytorch.org/docs/stable/generated/torch.nn.SELU.html) activation function lead me to a Pytorch documentation page which links a paper of [Self-Normalizing Neural networks](https://arxiv.org/abs/1706.02515).
+
+ ### R1D8 (22/11/21)
+The exploding/vanishing gradient problem occurs when the error is backpropagated through the NN and increases exponentially from layer to layer. The gradient wrt early network parameters (early layers) gets exponentially larger from layer to layer, making it hard to train. There is also the same case with exponentially decreases. A couple ways to tackle this are: [Glorot initialisation](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf), Batch normalization and architectures ( like ResNet and DenseNet).
+
+Learning rates can have different policies. In general it makes sense to decrease LR once accuracy has plateaued and decrease LR by a factor of 10.
+
+[Cyclical learning rates](https://arxiv.org/pdf/1506.01186.pdf) have been successful at getting higher accuracy in shorter training times. [Warmup](https://arxiv.org/pdf/1608.03983.pdf) can also be used, which is a method of using a less aggressive learning rate at the start of training.
+
+Adaptive Gradient Descent algorithms can be used instead of SGD which use optimisation algorithms for each parameter (and each parameter has its own learning rate).
+
+[Ruder](https://arxiv.org/pdf/1609.04747.pdf) provides a good overview of all gradient descent optimization algorithms.
