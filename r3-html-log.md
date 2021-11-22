@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 032 - Latest entry](#day-032)
+  - [Day 033 - Latest entry](#day-033)
+  - [Day 032](#day-032)
   - [Day 031](#day-031)
   - [Day 030](#day-030)
   - [Day 029](#day-029)
@@ -1292,17 +1293,13 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 ## What I did on day 032
 
-- [X] Load pj5 from CDN.
-- [X] Allow site to load local image file with filepicker from PJ5.
-- [X] When submit button is clicked, it should send image file to server.
-  - [X] Image is converted to base64
-  - [X] Image is passed to the server in an object storing the original image's information along with the base64 encoding. This information should include the width and height of the image.
 - [X] When server receives image, it should be placed on `res/img/` path.
 - [X] What will be stored on the `database` is the path where the file was placed.
 - [X] On client side, when I chose the `all` page, the marker icon should be the image corresponding to the entry.
 - [X] Fix image ratio of the marker (calculate Aspect Ratio by dividing image height over widht)
 - [X] Add `img` tag to the popup showing on the marker.
 - [X] Add styling to the image after adding it to the Popup.
+- [X] Added a bit of offset to the popup so that it doesn't cover
 
 
 - [ ] Create table on the page to display the reported ATM's
@@ -1327,6 +1324,60 @@ I did something job related. I programmed an automated task using Node.js and Se
 -[RANDOM.ORG - Pick Random Coordinates](https://www.random.org/geographic-coordinates/)
 
 [:arrow_double_up:](#day-032)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 033
+**Round 3 Day 033, Nov 21th, 2021**
+## Contents 033
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-033)
+- [What I did today](#what-i-did-on-day-033)
+- [Interesting links](#interesting-links-033)
+
+## Ramblings and inner thoughts 033
+
+- Continued working on Coding Train's tutorial about working with Data and API's in JavaScript. Today it's about incorporating video capture from a camera and uploading that to the Node server. But since I don't have a camera on my PC I included a bit of code to detect if a video input device was found first, and if not, what the program does is add the functionality to upload a local file. The code on the P5.js library doesn't really throw an exception that can be handled in code for when no devices are found. It only shows a **DOMException: Requested device not found** which doesn't really break the program and it still creates the video element and adds it to the DOM. I tried using the `remove(video)` function to remove it, but then the code breaks when P5 keeps trying to add Event Listeners and stuff to the video element.
+
+## What I did on day 033
+
+- Try to `createCapture(VIDEO)` on P5.js
+- Get an array of all input devices from the `navigator` interface.
+- If a **camera** device is found, then create the capture video canvas.
+- If no camera is found, create an input element that allows local images to be uploaded instead.
+  - Create a temporary canvas to use as the parent of the `input` element created using P5, since it is positioned absolutely on the body and messes the layout.
+  - Create callback function to handle the file input and ensure that it is an image file.
+- Add code on client side to send image data to the Node server.
+- Add code on server side to conver Base64 image back to image file.
+- Store imagefile on path on server side.
+- Implement code on server side to store image path on the database.
+- Have to implement code to load map with Leaflet when client choses `List` view
+- `fetch` entries stores on serverside.
+- Implement endpoints to load all entries from database and send them back to the client.
+- Use data to create Markers on Leaflet map.
+- Add custom icons to the Markers using stored images.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 033
+
+-[Media Capture and Streams - W3C Reference](https://w3c.github.io/mediacapture-main/)
+-[Code Example to Check All Detected Media Devices with P5.js](https://editor.p5js.org/re7l/sketches/SysRKyWpX)
+
+[:arrow_double_up:](#day-033)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
