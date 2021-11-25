@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 033 - Latest entry](#day-033)
+  - [Day 034 - Latest entry](#day-034)
+  - [Day 033](#day-033)
   - [Day 032](#day-032)
   - [Day 031](#day-031)
   - [Day 030](#day-030)
@@ -1340,12 +1341,12 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 ## What I did on day 033
 
-- Try to `createCapture(VIDEO)` on P5.js
-- Get an array of all input devices from the `navigator` interface.
-- If a **camera** device is found, then create the capture video canvas.
-- If no camera is found, create an input element that allows local images to be uploaded instead.
-  - Create a temporary canvas to use as the parent of the `input` element created using P5, since it is positioned absolutely on the body and messes the layout.
-  - Create callback function to handle the file input and ensure that it is an image file.
+- [X] Try to `createCapture(VIDEO)` on P5.js
+- [X] Get an array of all input devices from the `navigator` interface.
+- [X] If a **camera** device is found, then create the capture video canvas.
+- [X] If no camera is found, create an input element that allows local images to be uploaded instead.
+  - [X] Create a temporary canvas to use as the parent of the `input` element created using P5, since it is positioned absolutely on the body and messes the layout.
+  - [X] Create callback function to handle the file input and ensure that it is an image file.
 - Add code on client side to send image data to the Node server.
 - Add code on server side to conver Base64 image back to image file.
 - Store imagefile on path on server side.
@@ -1378,6 +1379,54 @@ I did something job related. I programmed an automated task using Node.js and Se
 -[Code Example to Check All Detected Media Devices with P5.js](https://editor.p5js.org/re7l/sketches/SysRKyWpX)
 
 [:arrow_double_up:](#day-033)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 034
+**Round 3 Day 034, Nov 24th, 2021**
+## Contents 034
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-034)
+- [What I did today](#what-i-did-on-day-034)
+- [Interesting links](#interesting-links-034)
+
+## Ramblings and inner thoughts 034
+
+## What I did on day 034
+
+- [X] Add code on client side to send image data to the Node server.
+- [X] Add code on server side to conver Base64 image back to image file.
+- [X] Store imagefile on path on server side.
+- [X] Implement code on server side to store image path on the database.
+- [X] Have to implement code to load map with Leaflet when client choses `List` view
+- [X] `fetch` entries stores on serverside.
+- [X] Implement endpoints to load all entries from database and send them back to the client.
+- [X] Use data to create Markers on Leaflet map.
+- [X] Add custom icons to the Markers using stored images.
+- [X] Add Popup showing detailed information about the entry.
+- [X] Style the popup so that it display the image correctly.
+- [X] Convert timestamp information from milliseconds to readable date.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 034
+
+-[]()
+
+[:arrow_double_up:](#day-034)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
