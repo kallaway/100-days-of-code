@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 034 - Latest entry](#day-034)
+  - [Day 035 - Latest entry](#day-035)
+  - [Day 034](#day-034)
   - [Day 033](#day-033)
   - [Day 032](#day-032)
   - [Day 031](#day-031)
@@ -1427,6 +1428,55 @@ I did something job related. I programmed an automated task using Node.js and Se
 -[]()
 
 [:arrow_double_up:](#day-034)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 035
+**Round 3 Day 035, Nov 25th, 2021**
+## Contents 035
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-035)
+- [What I did today](#what-i-did-on-day-035)
+- [Interesting links](#interesting-links-035)
+
+## Ramblings and inner thoughts 035
+
+- Completed Module 2 of the Working with Data & API's in JavaScript from Coding Train.
+- Moved all script related code to separate files and refactored stuff to make it cleaner and separate concerns.
+- I learned that when you capture the image from a camera with P5, and convert it to Base64, it includes the mimetype as well.
+- Implemented a label for accessibility. Thought I still have to improve it a bit further to be honest, like adding a possible "alt" text for the images when `/list` is visited. And I really have to check how to implement accessibility for the markers on the page or look for some way to add the tab functionality to check all of the markers.
+
+## What I did on day 035
+
+- [X] Refactor code to determine icon size on `getCustomMarker()` function
+- [X] On `index.html`, move all the script code to a separate script file.
+- [X] Move the code to display the Leaflet map out of the `setup()` function.
+  - [X] Move code to create marker on the location to a separate function.
+- [X] Move code to determine if video is going to be captured or an image uploaded, out of the setup function.
+- [X] Added code to load image from video capture device.
+- [X] Added code to get a name based on the date in milliseconds when the image is created.
+- [X] Changed folder structure a bit to organize things.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 035
+
+-[]()
+
+[:arrow_double_up:](#day-035)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
