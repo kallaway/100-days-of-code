@@ -1494,8 +1494,15 @@ I did something job related. I programmed an automated task using Node.js and Se
 - Learned about proxy servers.
 - The API used in the example is no longer available, so I had to use the lessons shown in the video to look for another one, and read its documentation in order to be able to use it and make it function in a manner similar to the one in the video.
 - Made the first exercise.
+- Learned about the possibility of spoofing differents datasets using `sensors` on Google Chrome's Developer Tools.
+- Learned how to get data from different API's through a single server and send it to a single client.
 
 ## What I did on day 036
+
+- Added request to open air quality website to Node server. Now both Weather API data, and OpenAQ API data are returned to the client.
+- Modified code on client side to account for new data format.
+- Created site on client side to display current weather and air data based on client's geolocation.
+
 
 - [ ] Create table on the page to display the reported ATM's
 - [ ] Add several entries with dummy data to test the entries on the table.
@@ -1515,7 +1522,8 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 ## Interesting links 036
 
--[]()
+- [Open Air Quality](https://openaq.org/#/)
+- [Weather API](https://www.weatherapi.com/)
 
 [:arrow_double_up:](#day-036)
 
