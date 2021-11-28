@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 036 - Latest entry](#day-036)
+  - [Day 037 - Latest entry](#day-037)
+  - [Day 036](#day-036)
   - [Day 035](#day-035)
   - [Day 034](#day-034)
   - [Day 033](#day-033)
@@ -1495,14 +1496,13 @@ I did something job related. I programmed an automated task using Node.js and Se
 - The API used in the example is no longer available, so I had to use the lessons shown in the video to look for another one, and read its documentation in order to be able to use it and make it function in a manner similar to the one in the video.
 - Made the first exercise.
 - Learned about the possibility of spoofing differents datasets using `sensors` on Google Chrome's Developer Tools.
-- Learned how to get data from different API's through a single server and send it to a single client.
+- Learned how to get data from different API's through a single server and send it to a single client as a single result.
 
 ## What I did on day 036
 
-- Added request to open air quality website to Node server. Now both Weather API data, and OpenAQ API data are returned to the client.
-- Modified code on client side to account for new data format.
-- Created site on client side to display current weather and air data based on client's geolocation.
-
+- [X] Added request to open air quality website to Node server. Now both Weather API data, and OpenAQ API data are returned to the client.
+- [X] Modified code on client side to account for new data format.
+- [X] Created site on client side to display current weather and air data based on client's geolocation.
 
 - [ ] Create table on the page to display the reported ATM's
 - [ ] Add several entries with dummy data to test the entries on the table.
@@ -1526,6 +1526,55 @@ I did something job related. I programmed an automated task using Node.js and Se
 - [Weather API](https://www.weatherapi.com/)
 
 [:arrow_double_up:](#day-036)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 037
+**Round 3 Day 037, Nov 27th, 2021**
+## Contents 037
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-037)
+- [What I did today](#what-i-did-on-day-037)
+- [Interesting links](#interesting-links-037)
+
+## Ramblings and inner thoughts 037
+
+## What I did on day 037
+
+- [X] Read air quality from OpenAQ.
+- [X] Added some minor exception handling to handle the data read from OpenAQ.
+- [X] Added the results from the first reading of the results brought back from OpenAQ, putting them in an unordered list.
+  - [X] Added li elements containing the measurements.
+- [X] Added code to add the measure from every sensor in a location and to display every reading.
+- When button `check in` is clicked, the information should be sent to the server.
+  - The server must store the information in a database entry
+- When clicking view checkins, the server should send all the entries in the database.
+- Should add Leaflet map to home page.
+  - Should add marker for current location of client.
+- Should add leaflet map to view checkins.
+  - Should add markers for each entry on the database.
+  - Marker should be custom marker using the `icon` obtained from Weather API.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 037
+
+-[]()
+
+[:arrow_double_up:](#day-037)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
