@@ -1540,15 +1540,10 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 ## What I did on day 037
 
-- [X] Read air quality from OpenAQ.
-- [X] Added some minor exception handling to handle the data read from OpenAQ.
-- [X] Added the results from the first reading of the results brought back from OpenAQ, putting them in an unordered list.
-  - [X] Added li elements containing the measurements.
-- [X] Added code to add the measure from every sensor in a location and to display every reading.
 - When button `check in` is clicked, the information should be sent to the server.
   - The server must store the information in a database entry
 - When clicking view checkins, the server should send all the entries in the database.
-- Should add Leaflet map to home page.
+- Add Leaflet map to home page.
   - Should add marker for current location of client.
 - Should add leaflet map to view checkins.
   - Should add markers for each entry on the database.
@@ -1572,9 +1567,71 @@ I did something job related. I programmed an automated task using Node.js and Se
 
 ## Interesting links 037
 
--[]()
+-[Haversine Formula](https://en.wikipedia.org/wiki/Haversine_formula)
+-[Calculate distance, bearing and more between Latitude/Longitude points](http://www.movable-type.co.uk/scripts/latlong.html)
+-[Calculate distance between two latitude-longitude points? (Haversine formula)](https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula)
 
 [:arrow_double_up:](#day-037)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 038
+**Round 3 Day 037, Nov 28th, 2021**
+## Contents 038
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-038)
+- [What I did today](#what-i-did-on-day-038)
+- [Interesting links](#interesting-links-038)
+
+## Ramblings and inner thoughts 038
+
+## What I did on day 038
+
+- When button `check in` is clicked, the information should be sent to the server.
+  - The server must store the information in a database entry
+- When clicking view checkins, the server should send all the entries in the database.
+- [X] Add Leaflet map to home page.
+  - [X] Should add marker for current location of client.
+    - [X] Marker should have the icon obtained from the reading of the Weather API.
+  - [X] Added information about weather on a Popup, shown when the marker is clicked.
+  - [X] Removed the weather information from the DOM.
+  - [ ] Add air quality information on a popup, which will be shown when the marker is clicked. Should check if the `openaq` API brings `lat/lon` information for each of the sensors on a location, then add custom markers for those sensors at the locations of the readings, each one with their own popup. Then display lines going from those sensors to the original reading associated with it. These markers should only appear when the client clicks to view more info on the associated marker.
+    - [X] Added a Marker for each of the censor readings from the `openaq` API using their own latitude and longitude, which are stored under the `coordinates` property.
+    - [X] Added lines connecting the sensors to the Main Marker's geolocation by using the function `getLatLng()` from the Marker class.
+    - [X] Add the distance in Kilometers between the marker and the sensor. Done using Haversine Formula.
+    - [ ] These markers should only be visible when the user clicks to see more details.
+    - [ ] Add animation of the markers opening from the center one.
+    - [ ] Should probably zoom out a little until all of the markers are in view.
+  - [X] Should add a different popup when the marker is clicked. One per each sensor reading.
+  - [X] ~~Should add error handling for cases where no Air Quality info was detected at the location.~~ This was not necessary because I'm using `forEach` 
+  - [ ] Should add a shadow to the marker, probably with a `CSS blur filter`.
+- Add legend showing the different meanings of the Air Quality readings and explaining what should be the normal ranges for each one.
+- Should add leaflet map to view checkins.
+  - Should add markers for each entry on the database.
+  - Marker should be custom marker using the `icon` obtained from Weather API.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 038
+
+-[Haversine Formula](https://en.wikipedia.org/wiki/Haversine_formula)
+-[Calculate distance, bearing and more between Latitude/Longitude points](http://www.movable-type.co.uk/scripts/latlong.html)
+-[Calculate distance between two latitude-longitude points? (Haversine formula)](https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula)
+
+[:arrow_double_up:](#day-038)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
