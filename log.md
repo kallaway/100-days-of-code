@@ -1,8 +1,41 @@
 # 100 Days Of Code - Log
 
+### Day 1: December 2, 2021
+
+**Today's Progress**: I started to watch "Dart Programming in 4 hours | Full beginners tutorial" on youtube from Mike Dane. 
+
+**Learned**: 
+1. Print statement: print("Hello World!").
+2. Execution flow of the program - From top to bottom
+3. Variables: Containers that can store values. 
+4. Strings
+5. Stringinterpolation - Insert a variable into a string: "Hello ${varName}"
+6. Numbers: integer (10) and doubles (10,80)
+7. Booleans: can be true or false
+8. Comments: //
+9. The length of a String is always one more than the last index position. Example: 
+String greeting = "Hello"; //has indexes 01234
+print(greeting.length); //will print 5
+print(greeting[0]); //will print H
+10. Concatination: varName + varName 
+
+Example Variables:
+String firstName = "Mallle";
+int age = 32;
+double  height = 1,72;
+bool isHappy = true;
+
+**Thoughts**: 
+Variables need a type - unlike in javascript. So need to get more consistent in that regard. 
+
+**Links**: 
+[Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w)
+
+
 ### Day 0: December 1, 2021
 
-**Today's Progress**: Forked the 100daysofcode repo, watched the introduction to what Flutter is and why to use Flutter.
+**Today's Progress**: 
+Forked the 100daysofcode repo, watched the introduction to what Flutter is and why to use Flutter.
 
 **Learned**: 
 1. Flutter uses Dart.
@@ -11,7 +44,9 @@
 4. Flutter offers you one codebase for iOs, Android, Web, and Desktop.
 5. Flutter has implemented Hot Reload - means the screen will update within fractions of a second after saving the code.
 
-**Thoughts**: Looking forward to writing the first lines of code and digging deeper into Dart and Flutter. It might be helpful to learn more about Dart before continuing with Flutter, as Flutter uses Dart. 
+**Thoughts**: 
+Looking forward to writing the first lines of code and digging deeper into Dart and Flutter. It might be helpful to learn more about Dart before continuing with Flutter, as Flutter uses Dart. 
 
-**Link to work**: [100 days of code](https://www.100daysofcode.com/)
+**Link to work**: 
+[100 days of code](https://www.100daysofcode.com/)
 [Introduction to Flutter Development Using Dart](https://www.appbrewery.co/p/intro-to-flutter)
