@@ -14,3 +14,14 @@
       1. https://leetcode.com/problems/single-number/submissions/
       2. https://leetcode.com/problems/reverse-bits/submissions/
       3. (None)
+      
+# Day 2: 2nd December, 2021
+   
+   ##### Today's progress:
+      1. Structuring of a Flask Application
+      
+   ##### Thoughts:
+      1. Not much but kinda sorta understood the tree structure how it impacts both the readability as well as hadling errors such as circular imports
+      
+   ##### Link to work:
+      1. (None)
