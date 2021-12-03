@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 2: December 3, 2021
+
+**Today's Progress**: Got to interact with user input in the terminal and read a lot about "Sound null safty".
+
+**Learned**: 
+1. To read user input in the terminal - with stdin.readLineSync();
+2. Importing statements: 
+import "dart:io";
+3.  "Sound null safety": You explicitly have to say that a variable can be null if you want it to be null, and because Dart's null safety is sound (stable), the compiler is also optimized. 
+
+**Thoughts**: Null safety seems handy, but I think I have to dig a bit deeper into the topic to understand the fact that Dart’s null safety is sound.
+
+
+**Links**: 
+[Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w)
+[Null safety](https://dart.dev/null-safety)
+[Artikel about Null safety](https://www.infoworld.com/article/3562572/google-dart-gains-sound-null-safety.html)
+[Artikel about Null safety in German](https://tech-de.netlify.app/articles/de513466/index.html)
+
+
 ### Day 1: December 2, 2021
 
 **Today's Progress**: I started to watch "Dart Programming in 4 hours | Full beginners tutorial" on youtube from Mike Dane. 
