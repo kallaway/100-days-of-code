@@ -15,8 +15,11 @@ import "dart:io";
 
 **Links**: 
 [Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w)
+
 [Null safety](https://dart.dev/null-safety)
+
 [Artikel about Null safety](https://www.infoworld.com/article/3562572/google-dart-gains-sound-null-safety.html)
+
 [Artikel about Null safety in German](https://tech-de.netlify.app/articles/de513466/index.html)
 
 
