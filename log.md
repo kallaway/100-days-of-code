@@ -25,6 +25,8 @@ import "dart:io";
 
 [Artikel about Null safety in German](https://tech-de.netlify.app/articles/de513466/index.html)
 
+[Video about Null safety](https://www.youtube.com/watch?v=iYhOU9AuaFs)
+
 
 ### Day 1: December 2, 2021
 
