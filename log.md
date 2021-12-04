@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 3: December 4, 2021
+
+**Today's Progress**: I moved on with watching "Dart Programming in 4 hours | Full beginners tutorial" on youtube from Mike Dane. 
+
+**Learned**: 
+1. Lists (called arrays in PHP): We specify what types are stored in the list by writing `<type>` after the list keyword.
+List<int> numbers = [44, 55, 4, 32];
+2. Access List items with bracetnotation:
+print(numbers[0]); //44
+3. Functions: Is a collection of code that can be use multiple times. 
+void funcName(){} // do not return anything
+4. Entrypoint of a program is the main function 
+void main(){}
+5. Arguments: Information that a function needs to execute.
+void funcName(String username, int age){
+   print("Hi ${username}, you are ${age}");
+}
+6. Return statements: We can use the keyword return in a function to give some specific information back. This information can be stored in a variable, be printed to the console, or used within another function. 
+7. We need to specify what type of information a function returns: int, double, String, List<int> or Map. 
+
+**Thoughts**: Arrays are called lists in Dart. Because Dart is strictly typed, it makes me wonder if there is any way to return mixed types or have arguments that are of mixed type?! But I guess not - otherwise, it wouldn't be strict, right?! :) 
+
+
 ### Day 2: December 3, 2021
 
 **Today's Progress**: 
