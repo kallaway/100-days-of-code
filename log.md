@@ -5,11 +5,13 @@
 **Today's Progress**: 
 Got to interact with user input in the terminal and read a lot about "Sound null safty".
 
+
 **Learned**: 
 1. To read user input in the terminal - with stdin.readLineSync();
 2. Importing statements: 
 import "dart:io";
 3.  "Sound null safety": You explicitly have to say that a variable can be null if you want it to be null, and because Dart's null safety is sound (stable), the compiler is also optimized. 
+
 
 **Thoughts**: Null safety seems handy, but I think I have to dig a bit deeper into the topic to understand the fact that Dart’s null safety is sound.
 
