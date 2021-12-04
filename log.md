@@ -2,7 +2,8 @@
 
 ### Day 2: December 3, 2021
 
-**Today's Progress**: Got to interact with user input in the terminal and read a lot about "Sound null safty".
+**Today's Progress**: 
+Got to interact with user input in the terminal and read a lot about "Sound null safty".
 
 **Learned**: 
 1. To read user input in the terminal - with stdin.readLineSync();
