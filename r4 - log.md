@@ -1,5 +1,4 @@
 # Day 1: 1st December, 2021
-
    ##### Today's progress:
       1. Single Number Problem - Leetcode
       2. Reverse a number - Leetcode
@@ -14,7 +13,6 @@
       3. (None)
       
 # Day 2: 2nd December, 2021
-   
    ##### Today's progress:
       1. Structuring of a Flask Application
    ##### Thoughts:
@@ -23,10 +21,17 @@
       1. (None)
       
  # Day 3: 3rd December, 2021
- 
    ##### Today's progress:
       1. Started to learn SQL
    ##### Thoughts: 
       1. Understood a good deal of basic sql queries with a working knowledge
    ##### Link to work:
       1. (None)
+      
+# Day 4: 4th December, 2021
+   ##### Today's progress:
+      1. Longest Increasing Path in a Matrix - Leetcode
+   ##### Thoughts: 
+      1. Self-pacification on the fact that I can do dfs, bfs or dp or a combination of all three instinctively as well as solved a hard problemin 1.5 hours, which is kind of hard for me to do.
+   ##### Link to work:
+      1. (https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/)
