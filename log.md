@@ -7,28 +7,31 @@
 **Learned**:
 
 1.  If and if/else statements:
-    `if(condition){ action }`
 
-` if(condition){ action } else if () { action }`` 2. Operators:  `+⇒ add
+`if(condition){ action }`
 
+` if(condition){ action } else if () { action }`
+
+2. Operators:  
+
+`+⇒ add
 - ⇒ subtract
-
 * ⇒ multiply
-  / ⇒ divide
-  % ⇒ modular ⇒ 10 % 3 = 1 ⇒ 3 goes into 10 3 times, and 1 is left
-  && ⇒ and
-  || ⇒ or
-  ! => negation => turns true into false, and the other way around.
-  `
+/ ⇒ divide
+% ⇒ modular ⇒ 10 % 3 = 1 ⇒ 3 goes into 10 3 times, and 1 is left
+&& ⇒ and
+|| ⇒ or
+! => negation => turns true into false, and the other way around.
+`
 
 3. Comparison Operators:
-   `== ⇒ equal to
-   != ⇒ not equal to
-   < ⇒ less than
-   <= ⇒ less than or equal to
-   > ⇒ bigger than
-   > = ⇒ bigger than or equal to
-   > `
+`== ⇒ equal to
+!= ⇒ not equal to
+< ⇒ less than
+<= ⇒ less than or equal to
+> ⇒ bigger than
+> = ⇒ bigger than or equal to
+> `
 
 **Thoughts**: Going through the basics makes me realize how much I have learned over the last few years. So many concepts and words were just not relatable and so far from what I knew initially. It's super motivating because I can see that I have moved forward, and I get excited to expand my knowledge.
 
