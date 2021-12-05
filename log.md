@@ -9,11 +9,17 @@
 1.  If and if/else statements:
 
 ```
-  if(condition){ action }
+  if(condition){ 
+    action 
+  }
 ```
 
 ```
- if(condition){ action } else if () { action }
+  if(condition){ 
+    action 
+  } else if () { 
+    action 
+  }
 ```
 
 2. Operators:
