@@ -1,5 +1,55 @@
 # 100 Days Of Code - Log
 
+### Day 5: December 6, 2021
+
+**Today's Progress**: Today, I kept on watching "Dart Programming in 4 hours | Full beginners tutorial" on youtube from Mike Dane. 
+
+**Learned**: 
+1. Switch statements:
+```
+switch(operator) {
+	case '+':
+		print("+");
+		break;
+	case '-':
+		print("-");
+		break;
+	default: 
+		print('Invalid operator');
+}
+```
+2. While Loop: This is a programming structure that keeps running as long as the condition is true. 
+```
+int i = 0;
+while (i < 5) { // loop guard
+  print(i);
+  i++;
+ }
+```
+3. For loop:
+for(int i = 0; i < 3; i++){
+	print(i);
+}
+4. For loop (for iteratables)):
+```
+for(int i in [2,4,4]) {
+  print(i);
+}
+```
+5.Comments: 
+```
+// Singleline comment
+/*
+Multiline comment
+*/
+```
+
+**Thoughts**: Today's session was a bit short. But some core concepts got introduced. I also managed to update some information on the Wiki for writers who would like to write an Interactive story to be published on the @storyways.app platform. But now work is calling!
+
+**Links**:
+[Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w)
+
+
 ### Day 4: December 5, 2021
 
 **Today's Progress**: Today, I kept on watching "Dart Programming in 4 hours | Full beginners tutorial" on youtube from Mike Dane.
@@ -47,6 +97,10 @@
 ```
 
 **Thoughts**: Going through the basics makes me realize how much I have learned over the last few years. So many concepts and words were just not relatable and so far from what I knew initially. It's super motivating because I can see that I have moved forward, and I get excited to expand my knowledge.
+
+**Links**:
+[Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w)
+
 
 ### Day 3: December 4, 2021
 
