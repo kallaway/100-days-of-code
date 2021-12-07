@@ -1,5 +1,57 @@
 # 100 Days Of Code - Log
 
+### Day 6: December 7, 2021
+
+**Today's Progress**: Today, I kept watching "Dart Programming in 4 hours | Full beginners tutorial" on youtube from Mike Dane. 
+
+**Learned**: 
+1. Object-Oriented-Programming (OOP). OOP makes it possible to create custom and complex data types, like a book or person. 
+2. Class: A blueprint for the news data type. We should use CamelCase for class names. 
+class Book {}
+3. A class can have different attributes and methods. 
+class Book {
+  String title;
+  String author;
+  int numPages;
+}
+4. Creating instances of a class => create an actual object of a class/datatype.
+Book newBook = Book();
+5. Contructor: 
+class Book {
+  Book(String name) { // Contructor that is used to initialize a new book
+   	print("This ist the contructor of ${name}"); 
+  }
+}
+Book newBook = Book("The new book"); // newBook is an object of the blueprint Book. 
+6. Initialize a class attribute:
+class Book {
+ late String name;
+  Book(String name) { 
+   	this.name = name;
+  }
+}
+7. The keyword "this" refers to the current object. 
+8. Methods: The same as a function but placed inside a class.
+class Student {
+  late String name;
+  late double gpa;
+
+  Student(String name, double gpa) {
+    this.name = name;
+    this.gpa = gpa;
+  }
+
+  bool hasHonors() {
+    return this.gpa >= 3.5;
+  }
+}
+
+**Thoughts**: Okay, so the keyword new seems to be nonpresent in Dart - I might stumble over that when starting to write actual code. The constructor is just the name of the class, also pretty handy. 
+
+**Links**:
+[Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w)
+
+
 ### Day 5: December 6, 2021
 
 **Today's Progress**: Today, I kept on watching "Dart Programming in 4 hours | Full beginners tutorial" on youtube from Mike Dane. 
