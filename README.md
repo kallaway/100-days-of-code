@@ -1,4 +1,4 @@
-## 100DaysOfCode Challenge.
+## 100 DaysOfCode Challenge.
 
 ## Contents
 * [Rules](rules.md)
