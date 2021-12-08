@@ -35,3 +35,19 @@
       1. Self-pacification on the fact that I can do dfs, bfs or dp or a combination of all three instinctively as well as solved a hard problemin 1.5 hours, which is kind of hard for me to do.
    ##### Link to work:
       1. (https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/)
+      
+# Day 5: 6th December, 2021
+   ##### Today's progress:
+      1. Studied on Inner Joins
+   ##### Thoughts: 
+      1. Bad Health is affecting my progress. But got a good idea of Inner Joins so far.
+   ##### Link to work:
+      1. (None)
+      
+# Day 6: 8th December, 2021
+   ##### Today's progress:
+      1. Studied on Outer Joins
+   ##### Thoughts:
+      1. Bad Health is affecting my progress. But got a better idea of Outer Joins so far.
+   ##### Link to work: 
+      1. (None)
