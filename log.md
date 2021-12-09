@@ -42,6 +42,7 @@ void main() {
 
 **Links**: 
 (Introduction to Dart - From Novice to Expert Tutorial Series)[https://www.youtube.com/watch?v=uZvoTCSsfjo&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7]
+
 (#1 - Dart Language, Type System, Soundness, Type Inference, Null Safety, JIT & AOT Compilers)[https://www.youtube.com/watch?v=nQRW0_Q9RFI&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=2]
 
 
