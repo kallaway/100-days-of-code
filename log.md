@@ -41,9 +41,8 @@ void main() {
 **Thoughts**:  Most of the content today was a repetition of concepts, but I think I now really understand what Sound Null Safety means. And it seems that the type dynamic is a bit similar to the type mixed in PHP. 
 
 **Links**: 
-(Introduction to Dart - From Novice to Expert Tutorial Series)[https://www.youtube.com/watch?v=uZvoTCSsfjo&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7]
-
-(#1 - Dart Language, Type System, Soundness, Type Inference, Null Safety, JIT & AOT Compilers)[https://www.youtube.com/watch?v=nQRW0_Q9RFI&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=2]
+1. (Introduction to Dart - From Novice to Expert Tutorial Series)[https://www.youtube.com/watch?v=uZvoTCSsfjo&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7]
+2. (#1 - Dart Language, Type System, Soundness, Type Inference, Null Safety, JIT & AOT Compilers)[https://www.youtube.com/watch?v=nQRW0_Q9RFI&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=2]
 
 
 ### Day 7: December 8, 2021
