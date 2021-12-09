@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 7: December 8, 2021
+
+**Today's Progress**: Today, I started watching "The Best & Most Complete Dart Course - Visualize, Learn and Practice all Dart Language Concepts!" from Flutterly on youtube
+
+**Learned**: 
+1. For Mobile and Desktop, Dart uses two different compilers. Just In Time Compiler for development and an Ahead Of Time Compiler for compiling source code into machine code. Dart uses Dart Development Compiler and Dart to Javascript Compiler for the web.
+2. Just in Time (JIT) Compiler only compiles the codes it needs to, and when that code is required, this is super smart during development. Because of JIT we can use hot-reload during development in Dart and Flutter.
+3. Ahead Of time (AOT) Compiler compiles the entire source code into native machine code supported by the specific platform, and it does this ahead of time before the platform runs the program. 
+
+**Thoughts**: Today's Dart session was a bit short. After finishing the course I watched the last few days, I felt a bit lost and unsure what to do next. I don't think I'm ready to move over to flutter already, so I spend some time looking for good content for learning Dart. And this 8h video might do it for me. 
+
+**Links**: 
+[The Best & Most Complete Dart Course - Visualize, Learn and Practice all Dart Language Concepts! Chapter 1.6 Dart Compilers at 13:55 min.](https://www.youtube.com/watch?v=F3JuuYuOUK4&t=937s)
+
 ### Day 6: December 7, 2021
 
 **Today's Progress**: Today, I kept watching "Dart Programming in 4 hours | Full beginners tutorial" on youtube from Mike Dane. 
@@ -8,30 +22,39 @@
 1. Object-Oriented-Programming (OOP). OOP makes it possible to create custom and complex data types, like a book or person. 
 2. Class: A blueprint for the news data type. We should use CamelCase for class names. 
 class Book {}
-3. A class can have different attributes and methods. 
+3. A class can have different attributes and methods.
+``` 
 class Book {
   String title;
   String author;
   int numPages;
 }
+```
 4. Creating instances of a class => create an actual object of a class/datatype.
+```
 Book newBook = Book();
+```
 5. Contructor: 
+```
 class Book {
   Book(String name) { // Contructor that is used to initialize a new book
    	print("This ist the contructor of ${name}"); 
   }
 }
+```
 Book newBook = Book("The new book"); // newBook is an object of the blueprint Book. 
 6. Initialize a class attribute:
+```
 class Book {
  late String name;
   Book(String name) { 
    	this.name = name;
   }
 }
+```
 7. The keyword "this" refers to the current object. 
 8. Methods: The same as a function but placed inside a class.
+```
 class Student {
   late String name;
   late double gpa;
@@ -45,7 +68,7 @@ class Student {
     return this.gpa >= 3.5;
   }
 }
-
+```
 **Thoughts**: Okay, so the keyword new seems to be nonpresent in Dart - I might stumble over that when starting to write actual code. The constructor is just the name of the class, also pretty handy. 
 
 **Links**:
