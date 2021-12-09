@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Day 8: December 9, 2021
+
+**Today's Progress**: I started the youtube track "Dart - from Novice to Expert" from Flutterly. I watched the first two videos.
+
+**Learned**: 
+1.  Static type check => happens while writing code when Dart tries to compile your code. If your code isn't type-safe, your editor will show an error. And should prevent the Developer from writing the wrong types. 
+2. Run time check => an extra assessment that happens when the program is running.
+4. Sound type system: Dart won't allow the code to run into an undefined state. 
+3. Dynamic types. Dart won't perform type checks on dynamic types. You will have to do this yourself to avoid an exception at runtime. But at runtime Dart will infer what type the data is. 
+```
+dynamic age = 33;
+```
+4. Type Inference: Types don't need to be annotated because Dart can statically infer the type. We just need to use the keyword var. Dart does this by using the static type analyzer, which I learned about in the first step. 
+```
+var x = 5.4; //This will be of type double
+```
+5. Difference between the type dynamic and the keyword var:
+```
+void main() {
+  dynamic a = 5;
+  print(a.runtimeType); // int
+  a = 7.0;
+  print(a.runtimeType); // double
+  a = 'test';
+  print(a.runtimeType); // String
+}
+
+void main() {
+  var a = 5;
+  print(a.runtimeType); //int
+  a = 7.0; // Error: A value of type 'double' can't be assigned to a variable of type 'int'
+  a = 'test'; // Error: A value of type 'String' can't be assigned to a variable of type 'int'
+}
+```
+6. Using the following: var a; without assigning a value to the variable, Dart will internally add the type dynamic to a. 
+7. Sound Null Safety: Sound => Dart makes Static and Runtime Checks. Null Safety: Variables can't be null unless we explicitly say they can. 
+
+
+**Thoughts**:  Most of the content today was a repetition of concepts, but I think I now really understand what Sound Null Safety means. And it seems that the type dynamic is a bit similar to the type mixed in PHP. 
+
+**Links**: 
+(Introduction to Dart - From Novice to Expert Tutorial Series)[https://www.youtube.com/watch?v=uZvoTCSsfjo&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7]
+(#1 - Dart Language, Type System, Soundness, Type Inference, Null Safety, JIT & AOT Compilers)[https://www.youtube.com/watch?v=nQRW0_Q9RFI&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=2]
+
+
 ### Day 7: December 8, 2021
 
 **Today's Progress**: Today, I started watching "The Best & Most Complete Dart Course - Visualize, Learn and Practice all Dart Language Concepts!" from Flutterly on youtube
