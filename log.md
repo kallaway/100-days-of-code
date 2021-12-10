@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 9: December 10, 2021
+
+**Today's Progress**: Not too much Dart today. Had to upgrade homebrew and install macOs Monterey, which took a while. 
+
+
+**Learned**: 
+1.  SDK (Software Development Kit). Collection of tools for development
+2. Run a dart program with `dart run` --> for this command to work, locate the file containing the main() function in the bin/project-name.dart file.
+3. Dart Packages are associated with the following files and folders: .dart_tool, .pacages, pubspeck.lock, pubspeck.yaml.
+4. Libraries go into the lib folder.
+5. analysis_option.yaml - helps the Dart Static Analyser by following a set of rules called linting.
+6. Test folder is for tests.
+7. The bin folder is for command line apps. 
+8. Dart Packages:
+ - pub.dev => collection of dart pacages. 
+ - Application Package => a package what is not uploaded to pub.dev
+ - Library package => a package what is uploaded to pub.dev
+
+
+**Thoughts**:  
+
+
+
+**Links**: 
+(#2 - How to install the Dart SDK on Windows, Linux and MacOS)[https://www.youtube.com/watch?v=WIO5iAeNaOU&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=3]
+(#4 - Dart Project Components - Packages, Libraries, Lint Rules & Tests)[https://www.youtube.com/watch?v=XnP3--55Uqo&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=5]
+
+
 ### Day 8: December 9, 2021
 
 **Today's Progress**: I started the youtube track "Dart - from Novice to Expert" from Flutterly. I watched the first two videos.
