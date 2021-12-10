@@ -24,8 +24,8 @@
 
 
 **Links**: 
-[#2 - How to install the Dart SDK on Windows, Linux and MacOS](https://www.youtube.com/watch?v=WIO5iAeNaOU&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=3)
-[#4 - Dart Project Components - Packages, Libraries, Lint Rules & Tests](https://www.youtube.com/watch?v=XnP3--55Uqo&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=5)
+1. [#2 - How to install the Dart SDK on Windows, Linux and MacOS](https://www.youtube.com/watch?v=WIO5iAeNaOU&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=3)
+2. [#4 - Dart Project Components - Packages, Libraries, Lint Rules & Tests](https://www.youtube.com/watch?v=XnP3--55Uqo&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=5)
 
 
 ### Day 8: December 9, 2021
