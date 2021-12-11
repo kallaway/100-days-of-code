@@ -1,4 +1,23 @@
 # 100 Days Of Code - Log
+### Day 10: December 11, 2021
+
+**Today's Progress**: Watched two videos from Flutterly's `Dart - form Novice to Expert`
+
+**Learned**: 
+1. Run your dart code with arguments: 
+`dart run name_of_file arg1 arg2 arg3`
+2. pubspec.yaml - is a file that keeps track of all the dependencies a  project or package has. 
+3. pubspec.lock - automatically created when running the command
+`dart pub get`. This command is responsible for getting the current package's dependencies.
+
+**Thoughts**:  The second video today was about the Dart VM - and I must say I did not understand a lot of that. But learning about pub was super. It seems to be equivalent to Composer used in the PHP world.  
+Yesterday I also dug into some flutter code, an existing project, and I learned that you could assign `const` to a widget with a variable in the constructor. I guess it makes sense. It took some time until I realized what was wrong, and in the end, I should just have read the error message to the end the first time. So - reading every line in an error message can save you some time :)  
+
+
+**Links**: 
+1. [#4 - Dart Project Components - Packages, Libraries, Lint Rules & Tests](https://www.youtube.com/watch?v=XnP3--55Uqo&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=5)
+2. [#5 - Running a Dart Application In-Depth! - Dart VM, Dart Isolates, JIT & AOT Compilation](https://www.youtube.com/watch?v=NoVYI94MJio&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=6)
+
 
 ### Day 9: December 10, 2021
 
