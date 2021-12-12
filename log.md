@@ -1,4 +1,31 @@
 # 100 Days Of Code - Log
+
+### Day 11: December 12, 2021
+
+**Today's Progress**:  I watched the video "#7 - All you need to know about Dart Packages and the Pub Package Manager" from Flutterly's `Dart - from Novice to Expert`. 
+
+**Learned**: 
+1. Immediate dependencies: Are packages that your project depends on directly.
+2. Transitive dependencies: Are packages that your immediate dependency depends on. 
+3. Regular dependencies: Are used in the development and production phases. 
+4. Dev dependencies: Are only used in the development phase. These packages are ignored when building the app for production. 
+5. `pubspec.lock` stores the current package information that your program depends on --> check this file into git so others install the same dependencies.
+6. Code that shoud be exposed in a package should be located in the lib folder. 
+7. How to write a package and import it into another package by referencing the path to the locale package. 
+```
+dependencies:
+  calculator:
+    path: 'packages/calculator'
+````
+
+**Thoughts**: Today, I got super tired just after I started to learn. So I decided to watch the video and take a break. I then started watching the video again and implemented all the steps necessary for creating a new package and using that in my existing project. 
+I guess private packages are usefull if you know you have code you will use in different projects. I always wanted to do this for my nuxt.js projects but somehow never managed - so ff you know how to do it, I would love to hear from you :)
+
+
+**Links**: 
+[#7 - All you need to know about Dart Packages and the Pub Package Manager](https://www.youtube.com/watch?v=DciQbO_97oM&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=8)
+
+
 ### Day 10: December 11, 2021
 
 **Today's Progress**: Watched two videos from Flutterly's `Dart - form Novice to Expert`
