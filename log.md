@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 12: December 13, 2021
+
+**Today's Progress**:  I watched the video "#9 - Understanding Null Safety in Dart - Type Promotions, Null Assertion, Late, Required" from Flutterly's `Dart - from Novice to Expert`. 
+
+**Learned**: 
+1. null assertion operator (!): this is used to ensure that a nullable type isn’t null. This tells Dart that your expression is safe. (Using the `!` operator will make the code unsafe if the expression actually is null at runtime).
+2. modifier `late`: can be used if you know that a variable will be initialized later than instantiating the class. (This also makes your code more unsafe, if you do forget to assign a value).
+
+**Thoughts**: Not many thoughts today - the videos from Flutterly are super good and in-depth - but I would like to do some coding soon, so maybe I should come up with a small program that I could code. 
+
+**Links**: 
+[#9 - Understanding Null Safety in Dart - Type Promotions, Null Assertion, Late, Required](https://www.youtube.com/watch?v=ZZ4VVlggIVk&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=10)
+
+
+
 ### Day 11: December 12, 2021
 
 **Today's Progress**:  I watched the video "#7 - All you need to know about Dart Packages and the Pub Package Manager" from Flutterly's `Dart - from Novice to Expert`. 
