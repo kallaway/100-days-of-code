@@ -1,5 +1,54 @@
 # 100 Days Of Code - Log
 
+### Day 13: December 14, 2021
+
+**Today's Progress**:  I watched the video "#10 - Dart Variables and the differences between Late, Var, Dynamic, Final & Const
+`Dart - from Novice to Expert`. 
+
+**Learned**: 
+1.  Files outside a lib folder are not shared with other packages.
+2. There are four types of variables in Dart. They get their names  depending on where they are declared:
+Top-level: variable that isn't linked to any class or object, they are accessible from anywhere in a program
+Static: Bound to a class or object.
+`static int i = 23;`
+Instance (also called fields/properties): Bound to a class or object.
+`double j = 33.4`
+Local: Variables with a local scope, for instance, inside a function.
+3. Nonnullable variables must be initialized (to a nun-null value) before being accessed or used. 
+String car; --> this won't work, as Dart assigns null to the variable, but the variable type is not nullable.
+4. Static variables: Can be accessed without instantiating the class it lives in. 
+```
+class A {
+	static int i = 4;
+}
+void main() {
+	print(A.i); // Output 4
+}
+```
+5. Instance variables can be left unasigned if they get assigned in the contructor.
+```
+class A {
+  int test;
+  A({required this.test});
+}
+void main() {
+  print(A(test: 2).test); // Output 2
+}
+```
+6. Keyword `dynamic`: variable can change variable type; the variable can be reassigned to another value of any type.
+7. Keyword `var`: variable can't change type but can be reassigned to another value of the sam type. 
+8. Keyword `final`: variable can't change type, and variable can't be reassigned to another value.
+9. Keyword `const`: variable can't change the type and can't be reassigned to another value.
+10. The keyword `const` can be used for variables, constructors and objects.
+
+
+**Thoughts**: I did not develop a good idea for a small program to write, so I just watched some more theory. 
+
+
+**Links**: 
+[#10 - Dart Variables and the differences between Late, Var, Dynamic, Final & Const](https://www.youtube.com/watch?v=Efaq4LvS-es&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7&index=11)
+
+
 ### Day 12: December 13, 2021
 
 **Today's Progress**:  I watched the video "#9 - Understanding Null Safety in Dart - Type Promotions, Null Assertion, Late, Required" from Flutterly's `Dart - from Novice to Expert`. 
