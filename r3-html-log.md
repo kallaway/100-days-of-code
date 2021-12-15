@@ -4,7 +4,9 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 037 - Latest entry](#day-037)
+  - [Day 039 - Latest entry](#day-039)
+  - [Day 038](#day-038)
+  - [Day 037](#day-037)
   - [Day 036](#day-036)
   - [Day 035](#day-035)
   - [Day 034](#day-034)
@@ -1576,7 +1578,7 @@ I did something job related. I programmed an automated task using Node.js and Se
 [Back to the beginning :arrow_double_up:](#log-entries)
 
 ### Day 038
-**Round 3 Day 037, Nov 28th, 2021**
+**Round 3 Day 038, Nov 28th, 2021**
 ## Contents 038
 - [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-038)
 - [What I did today](#what-i-did-on-day-038)
@@ -1632,6 +1634,128 @@ I did something job related. I programmed an automated task using Node.js and Se
 -[Calculate distance between two latitude-longitude points? (Haversine formula)](https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula)
 
 [:arrow_double_up:](#day-038)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 039
+**Round 3 Day 039, Dec 8th, 2021**
+## Contents 039
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-039)
+- [What I did today](#what-i-did-on-day-039)
+- [Interesting links](#interesting-links-039)
+
+## Ramblings and inner thoughts 039
+
+## What I did on day 039
+
+- [X] Completar el CRUD
+- [X] Crear pantalla de Crear nueva entrada.
+- [X] Agregar funcion de EDITAR
+  - [] Para accesar a la funcion de edicion, debo hacer doble click en la tarjeta.
+- [X] Agregar boton para BORRAR una entrada
+- [X] Agregar endpoint para ventana de edicion
+- [X] El Home de la aplicacion debe ser la pantalla de busqueda.
+- [ ] Agregar una funcionalidad similar para busqueda de contactos de Monitoreo
+- [ ] Implementar funcionalidad para agregar Emails o Telefonos para los contactos a las entradas de los servidores.
+
+- When button `check in` is clicked, the information should be sent to the server.
+  - The server must store the information in a database entry
+- When clicking view checkins, the server should send all the entries in the database.
+  - [ ] Add air quality information on a popup, which will be shown when the marker is clicked. Should check if the `openaq` API brings `lat/lon` information for each of the sensors on a location, then add custom markers for those sensors at the locations of the readings, each one with their own popup. Then display lines going from those sensors to the original reading associated with it. These markers should only appear when the client clicks to view more info on the associated marker.
+    - [ ] These markers should only be visible when the user clicks to see more details.
+    - [ ] Add animation of the markers opening from the center one.
+    - [ ] Should probably zoom out a little until all of the markers are in view.
+  - [ ] Should add a shadow to the marker, probably with a `CSS blur filter`.
+- Add legend showing the different meanings of the Air Quality readings and explaining what should be the normal ranges for each one.
+- Should add leaflet map to view checkins.
+  - Should add markers for each entry on the database.
+  - Marker should be custom marker using the `icon` obtained from Weather API.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 039
+
+-[]()
+
+[:arrow_double_up:](#day-039)
+
+### Day 040
+**Round 3 Day 040, Dec 15th, 2021**
+## Contents 040
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-040)
+- [What I did today](#what-i-did-on-day-040)
+- [Interesting links](#interesting-links-040)
+
+## Ramblings and inner thoughts 040
+
+## What I did on day 040
+
+- [X] How to save what's been edited on the server info? Used NEDB
+- [X] Should I add a new "Save" button that replaces the Edit one? `Answer is yes, that's what I did`
+- [X] How to cancel it when we click on Edit by accident? `I added a `Cancel` button that allows you to cancel when you enter in Edit Mode.
+  - [X] Should I add a "Cancel" button, that replaces the Remove one? `Answer is yes, that's what I did`
+- [X] Removed redundancy of having a `displayerServers()` and `displayMatches()` functions which were used to show the servers on screen. Thing is, when you call `displayMatches()` without any search queries, it just shows all of the servers anyways.
+
+
+- [ ] Para accesar a la funcion de edicion, debo hacer doble click en la tarjeta.
+- [ ] Agregar una funcionalidad similar para busqueda de contactos de Monitoreo
+- [ ] Implementar funcionalidad para agregar Emails o Telefonos para los contactos a las entradas de los servidores.
+
+- When button `check in` is clicked, the information should be sent to the server.
+  - The server must store the information in a database entry
+- When clicking view checkins, the server should send all the entries in the database.
+  - [ ] Add air quality information on a popup, which will be shown when the marker is clicked. Should check if the `openaq` API brings `lat/lon` information for each of the sensors on a location, then add custom markers for those sensors at the locations of the readings, each one with their own popup. Then display lines going from those sensors to the original reading associated with it. These markers should only appear when the client clicks to view more info on the associated marker.
+    - [ ] These markers should only be visible when the user clicks to see more details.
+    - [ ] Add animation of the markers opening from the center one.
+    - [ ] Should probably zoom out a little until all of the markers are in view.
+  - [ ] Should add a shadow to the marker, probably with a `CSS blur filter`.
+- Add legend showing the different meanings of the Air Quality readings and explaining what should be the normal ranges for each one.
+- Should add leaflet map to view checkins.
+  - Should add markers for each entry on the database.
+  - Marker should be custom marker using the `icon` obtained from Weather API.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 040
+
+-[]()
+
+[:arrow_double_up:](#day-040)
+
+- Should I add a "hidden" class that's toggled on when I click EDIT and off SAVE or CANCEL?, then initially add the HIDDEN class to the SAVE and CANCEL buttons, and once I click on EDIT then I should add it to REMOVE and EDIT?
+Implement Command Pattern for the Save and Delete buttons
+displayServers() and displayMatches() function work too similarly, extract common code.
+If clicking outside of target in Editable Mode, TURN OFF Editable mode for previous target.
+
+Add Flexbox to .content container
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
