@@ -62,8 +62,8 @@
       
 # Day 8: 22nd December, 2021
    ##### Today's progress:
-      1. 
+      1. Reread the code of my previous works
    ##### Thoughts:
-      1. 
+      1. Gotta know it a little bit
    ##### Link to work: 
-      1. 
+      1. (None)
