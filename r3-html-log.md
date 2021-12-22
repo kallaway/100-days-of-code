@@ -1928,7 +1928,7 @@ JS:
 [Back to the beginning :arrow_double_up:](#log-entries)
 
 ### Day 043
-**Round 3 Day 043, Dec 19th, 2021**
+**Round 3 Day 043, Dec 21st, 2021**
 ## Contents 043
 - [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-043)
 - [What I did today](#what-i-did-on-day-043)
@@ -1938,6 +1938,9 @@ JS:
 
 ## What I did on day 043
 
+- [X] Added **Bootswatch**
+  - [X] Added **card styling** to List Items when showing the servers.
+  - [X] Added button grouping and styling to buttons.
 - [] Started modifying the application to run a `dynamic node server` and the `static client` side code separatedly.
   - [] Removed previous `public` folder and its contents
 - [] Create route for our `servers`
