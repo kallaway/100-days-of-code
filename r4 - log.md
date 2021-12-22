@@ -54,8 +54,16 @@
 
 # Day 7: 21st December, 2021
    ##### Today's progress:
-      1. Revied Flask
+      1. Revised Flask
    ##### Thoughts:
       1. Got a pretty good idea till what I'd learnt
    ##### Link to work: 
       1. (None)
+      
+# Day 8: 22nd December, 2021
+   ##### Today's progress:
+      1. 
+   ##### Thoughts:
+      1. 
+   ##### Link to work: 
+      1. 
