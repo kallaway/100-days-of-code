@@ -51,3 +51,11 @@
       1. Bad Health is affecting my progress. But got a better idea of Outer Joins so far.
    ##### Link to work: 
       1. (None)
+
+# Day 7: 21st December, 2021
+   ##### Today's progress:
+      1. Revied Flask
+   ##### Thoughts:
+      1. Got a pretty good idea till what I'd learnt
+   ##### Link to work: 
+      1. (None)
