@@ -70,8 +70,8 @@
       
 # Day 9: 23rd December, 2021
    ##### Today's progress:
-      1. 
+      1. Read up on Natural and Cross Joins
    ##### Thoughts:
-      1. 
+      1. None
    ##### Link to work: 
-      1. 
+      1. (None)
