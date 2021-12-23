@@ -67,3 +67,11 @@
       1. Gotta know it a little bit
    ##### Link to work: 
       1. (None)
+      
+# Day 9: 23rd December, 2021
+   ##### Today's progress:
+      1. 
+   ##### Thoughts:
+      1. 
+   ##### Link to work: 
+      1. 
