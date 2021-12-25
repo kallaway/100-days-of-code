@@ -86,8 +86,8 @@
       
  # Day 11: 25th December, 2021
    ##### Today's progress:
-      1. 
+      1. Read up on column attributes and inserting one value and multiple values using sql
    ##### Thoughts:
-      1. 
+      1. None
    ##### Link to work: 
       1. (None)
