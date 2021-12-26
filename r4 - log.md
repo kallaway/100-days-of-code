@@ -91,3 +91,11 @@
       1. None
    ##### Link to work: 
       1. (None)
+      
+# Day 12: 26th December, 2021
+   ##### Today's progress:
+      1. 
+   ##### Thoughts:
+      1. 
+   ##### Link to work: 
+      1. ()
