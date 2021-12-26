@@ -94,8 +94,8 @@
       
 # Day 12: 26th December, 2021
    ##### Today's progress:
-      1. 
+      1. Password hashing and user authentication with flask
    ##### Thoughts:
-      1. 
+      1. Understood the basic methods to implement password hashing
    ##### Link to work: 
       1. ()
