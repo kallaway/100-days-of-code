@@ -4,7 +4,9 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 042 - Latest entry](#day-042)
+  - [Day 044 - Latest entry](#day-044)
+  - [Day 043](#day-043)
+  - [Day 042](#day-042)
   - [Day 041](#day-041)
   - [Day 040](#day-040)
   - [Day 039](#day-039)
@@ -1920,7 +1922,7 @@ JS:
 
 ## Interesting links 042
 
--[Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Return value from callback in function](https://stackoverflow.com/questions/44217711/return-value-from-callback-in-function)
 
 [:arrow_double_up:](#day-042)
@@ -1994,10 +1996,95 @@ JS:
 
 ## Interesting links 043
 
--[Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-- [Return value from callback in function](https://stackoverflow.com/questions/44217711/return-value-from-callback-in-function)
+- []()
 
 [:arrow_double_up:](#day-043)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 044
+**Round 3 Day 044, Dec 26th, 2021**
+## Contents 044
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-044)
+- [What I did today](#what-i-did-on-day-044)
+- [Interesting links](#interesting-links-044)
+
+## Ramblings and inner thoughts 044
+
+- Today I coded for more than three hours on another one of my personal projects.
+
+## What I did on day 044
+
+- [X] Show record matching an specified ID on server side.
+  - [X] Validate the ID.
+  - [X] Created query to get One Item from the DB based on the ID.
+  - [X] Created a route
+- [] Created page to create server entry on /create.html
+  - [X] Added form to create server with input boxes for all required fields.
+  - [X] Added some styling to the form.
+- [] Display a button to submit the creation of the server.
+  - [X] Validate all inputs
+    - [X] Added feedback with `<svg>` icons using Bootstrap's `Alert`
+  - [] POST /servers
+  - [] Successful creation would redirect to /
+- [] Show one record in /servers.html?id=:id
+- [] Started modifying the application to run a `dynamic node server` and the `static client` side code separatedly.
+  - [] Removed previous `public` folder and its contents
+- [] Create route for our `servers`
+  - [] Mount it on `app.js`
+
+CSS:
+- [ ] Add Flexbox to .content container
+- [ ] Improve stylings.
+- [ ] Add icons.
+- [ ] Improve NAVBAR
+- [ ] Add animations when ADDING and entry, and DELETING and entry.
+
+JS:
+- [ ] If clicking outside of target in Editable Mode, TURN OFF Editable mode for previous target.
+- [ ] Double clicking on a card should enable edit mode without the need of the button. 
+- [ ] Pressing Enter after editing the information of a card should save the changes into the database.
+- [ ] Add functionality to search for contacts from the Monitoreo Department.
+- [ ] Implement functionality to add Emails and Phones to the server information.
+- [ ] DELETE button should be an `X` on the top right corner of the card.
+- [ ] When clicking to DELETE and entry, a confirmation box should appear.
+- [ ] When clicking to EDIT an entry, a confirmation box should appear.
+
+- When button `check in` is clicked, the information should be sent to the server.
+  - The server must store the information in a database entry
+- When clicking view checkins, the server should send all the entries in the database.
+  - [ ] Add air quality information on a popup, which will be shown when the marker is clicked. Should check if the `openaq` API brings `lat/lon` information for each of the sensors on a location, then add custom markers for those sensors at the locations of the readings, each one with their own popup. Then display lines going from those sensors to the original reading associated with it. These markers should only appear when the client clicks to view more info on the associated marker.
+    - [ ] These markers should only be visible when the user clicks to see more details.
+    - [ ] Add animation of the markers opening from the center one.
+    - [ ] Should probably zoom out a little until all of the markers are in view.
+  - [ ] Should add a shadow to the marker, probably with a `CSS blur filter`.
+- Add legend showing the different meanings of the Air Quality readings and explaining what should be the normal ranges for each one.
+- Should add leaflet map to view checkins.
+  - Should add markers for each entry on the database.
+  - Marker should be custom marker using the `icon` obtained from Weather API.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 044
+
+- [Form Data](https://developer.mozilla.org/en-US/docs/Web/API/FormData)
+
+
+[:arrow_double_up:](#day-044)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
