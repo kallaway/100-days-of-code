@@ -98,4 +98,12 @@
    ##### Thoughts:
       1. Understood the basic methods to implement password hashing
    ##### Link to work: 
+      1. (None)
+
+# Day 13: 28th December, 2021
+   ##### Today's progress:
+      1. 
+   ##### Thoughts:
+      1. 
+   ##### Link to work: 
       1. ()
