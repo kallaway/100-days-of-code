@@ -102,7 +102,7 @@
 
 # Day 13: 28th December, 2021
    ##### Today's progress:
-      1. 
+      1. Halfway through account profile handling
    ##### Thoughts:
       1. 
    ##### Link to work: 
