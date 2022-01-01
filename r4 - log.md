@@ -119,10 +119,10 @@
  # Day 15: 1st January, 2022
    ##### Today's progress:
       1. Finished learning about saving and reizing image using python
-      2. 
+      2. Started learning to create and modify posts
    ##### Thoughts:
       1. 
-      2. 
+      2. Since most of this was pretty similar to what was done in account creation and modifications 
    ##### Link to work: 
       1. (None)
-      2. ()
+      2. (None)
