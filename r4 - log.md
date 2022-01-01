@@ -106,4 +106,23 @@
    ##### Thoughts:
       1. 
    ##### Link to work: 
-      1. ()
+      1. (None)
+      
+# Day 14: 31st December, 2021
+   ##### Today's progress:
+      1. Learnt about profile picture part of account handling
+   ##### Thoughts:
+      1. 
+   ##### Link to work: 
+      1. (None)
+      
+ # Day 14: 31st December, 2021
+   ##### Today's progress:
+      1. Finished learning about saving and reizing image using python
+      2. 
+   ##### Thoughts:
+      1. 
+      2. 
+   ##### Link to work: 
+      1. (None)
+      2. ()
