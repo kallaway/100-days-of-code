@@ -116,7 +116,7 @@
    ##### Link to work: 
       1. (None)
       
- # Day 14: 31st December, 2021
+ # Day 15: 1st January, 2022
    ##### Today's progress:
       1. Finished learning about saving and reizing image using python
       2. 
