@@ -130,10 +130,10 @@
 # Day 16: 2nd December, 2021
    ##### Today's progress:
       1. Understood Pagination with flask 
-      2. 
+      2. Understood a little bit of inserting heirarchucal rows and a little bit on creating a copy of atble or part of a table in sql 
    ##### Thoughts:
       1. I didn't really have a clear idea of pagination before now actually
-      2. 
+      2. None
    ##### Link to work: 
       1. (None)
       2. (None)
