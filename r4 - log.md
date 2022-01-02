@@ -129,8 +129,11 @@
 
 # Day 16: 2nd December, 2021
    ##### Today's progress:
-      1. 
+      1. Understood Pagination with flask 
+      2. 
    ##### Thoughts:
-      1. 
+      1. I didn't really have a clear idea of pagination before now actually
+      2. 
    ##### Link to work: 
       1. (None)
+      2. (None)
