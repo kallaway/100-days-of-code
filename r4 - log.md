@@ -126,3 +126,11 @@
    ##### Link to work: 
       1. (None)
       2. (None)
+
+# Day 16: 2nd December, 2021
+   ##### Today's progress:
+      1. 
+   ##### Thoughts:
+      1. 
+   ##### Link to work: 
+      1. (None)
