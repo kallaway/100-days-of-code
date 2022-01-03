@@ -127,7 +127,7 @@
       1. (None)
       2. (None)
 
-# Day 16: 2nd December, 2021
+# Day 16: 2nd January, 2022
    ##### Today's progress:
       1. Understood Pagination with flask 
       2. Understood a little bit of inserting heirarchucal rows and a little bit on creating a copy of atble or part of a table in sql 
@@ -137,3 +137,14 @@
    ##### Link to work: 
       1. (None)
       2. (None)
+
+# Day 17: 3rd January, 2022
+   ##### Today's progress:
+      1. Got a clear idea of how to reset passwords using flask
+      2. With that understanding, I created an email automator to send common mails to a bulk of form responses who do not belong to a group
+   ##### Thoughts:
+      1. Understood the use of tokens
+      2. Did the program in under 3 hours
+   ##### Link to work: 
+      1. (None)
+      2. (https://github.com/PriyaShrinithi/Automated-Mailing)
