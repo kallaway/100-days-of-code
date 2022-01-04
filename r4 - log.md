@@ -148,3 +148,14 @@
    ##### Link to work: 
       1. (None)
       2. (https://github.com/PriyaShrinithi/Automated-Mailing)
+
+# Day 18: 4th January, 2022
+   ##### Today's progress:
+      1. 
+      2. 
+   ##### Thoughts:
+      1. 
+      2. 
+   ##### Link to work: 
+      1. ()
+      2. ()
