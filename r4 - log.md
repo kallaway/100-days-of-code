@@ -151,11 +151,8 @@
 
 # Day 18: 4th January, 2022
    ##### Today's progress:
-      1. 
-      2. 
+      1. Finished the automated mailing system 
    ##### Thoughts:
-      1. 
-      2. 
+      1. None
    ##### Link to work: 
-      1. ()
-      2. ()
+      1. (https://github.com/PriyaShrinithi/Automated-Mailing)
