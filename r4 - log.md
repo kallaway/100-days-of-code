@@ -156,3 +156,11 @@
       1. None
    ##### Link to work: 
       1. (https://github.com/PriyaShrinithi/Automated-Mailing)
+
+# Day 19: 8th January, 2022
+   ##### Today's progress:
+      1. Started learning abouut blueprints in flask
+   ##### Thoughts:
+      1. None
+   ##### Link to work: 
+      1. (None)
