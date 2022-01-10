@@ -164,3 +164,19 @@
       1. None
    ##### Link to work: 
       1. (None)
+      
+ # Day 20: 9th January, 2022
+   ##### Today's progress:
+      1. Still learning abouut blueprints in flask
+   ##### Thoughts:
+      1. None
+   ##### Link to work: 
+      1. (None)
+      
+ # Day 21: 10th January, 2022
+   ##### Today's progress:
+      1. Still learning abouut blueprints in flask
+   ##### Thoughts:
+      1. None
+   ##### Link to work: 
+      1. (None)
