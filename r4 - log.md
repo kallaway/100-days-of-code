@@ -180,3 +180,11 @@
       1. None
    ##### Link to work: 
       1. (None)
+
+# Day 22: 11th January, 2022
+   ##### Today's progress:
+      1. Still learning abouut blueprints in flask
+   ##### Thoughts:
+      1. None
+   ##### Link to work: 
+      1. (None)
