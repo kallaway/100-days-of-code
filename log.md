@@ -1,30 +1,34 @@
 # 100 Days Of Code - Log
+#### For this round of 100 Days of Code, I'll be mainly focusing on learning data structures and algorithms, and I'll supplement with some work on personal projects. I have experience with full stack development, so I'm not starting from the ground, which means I anticipate that my progress may be smaller or more gradual than the average 100 Days of Code-r. Y'know, law of diminishing returns. I've actually been working on DS&A for a little while before starting this tracker, and already I can tell that I'm getting better at solving practice problems, so I'm really excited to look back on my progress at the end of these 100 (business) days! 
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+***
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: January 7, 2022
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Completed several HackerRank problems
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I'm only working on the easy problems (with an occasional intermediate thrown in for good measure) but it feels really good to see progress already! When I started working on algos it took me ages to complete even the easiest problem, and I usually couldn't complete them without reading explanations first. Now, I'm finding that I'm able to complete most of the easy problems on my own, and they're taking me less time overall. Woohoo!
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** N/A  
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+***
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: January 10, 2022
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: More algos on HackerRank completed
 
+**Thoughts** Practice makes perfect! Chugging along working through algos and beginning to see some patterns. For instance, when a problem involves arrays and finding a sum, I now reach for the Array.reduce method without really thinking about it. Feels like progress!
 
-### Day 1: June 27, Monday
+**Link(s) to work** N/A  
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+***
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 2: January 11, 2022
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**   
+
+***
