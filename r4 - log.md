@@ -188,3 +188,22 @@
       1. None
    ##### Link to work: 
       1. (None)
+      
+ # Day 23: 13th January, 2022
+   ##### Today's progress:
+      1. 1 quest away from finishing google cloud essentials
+   ##### Thoughts:
+      1. None
+   ##### Link to work: 
+      1. (None)
+      
+# Day 24: 14th January, 2022
+   ##### Today's progress:
+      1. Finished Google Cloud Essentials
+      2. Did a bunch of medium leetcode problems
+   ##### Thoughts:
+      1. Need to understand more about cloud
+      2. I have become a better programmer, but yet to improve
+   ##### Link to work: 
+      1. (None)
+      2. (None)
