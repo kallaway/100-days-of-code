@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 15, 2022
+
+**Today's Progress**: Today, I started doing some exercises from [this](https://hackmd.io/@kuzmapetrovich/S1x90jWGP) page and managed to do three exercises (3, 4 and 5). 
+
+**Learned**:
+1. Learned how to set the path to the Dart SDK in IntelliJ editor: Under preferences > Language & Frameworks > Dart
+2. I have Dart installed twice on my machine at the moment, once as standalone installed with Brew and once with the flutter SDK.
+3. Found and used the [documentation](https://api.dart.dev/stable/1.10.1/index.html) for Dart.
+4. Learned a few ways on how to find the common unique members of two lists. 
+
+**Thoughts**: 
+It was nice to do some coding today and not do any theory besides reading in the documentation from Dart to find the methods I need. 
+
+
 ### Day 14: January 14, 2022
 
 **Today's Progress**: I watched the video "#11 - Dart Built-in Types - num, int, double, String, List, Set, Map & Runes" from `Dart - from Novice to Expert`.
