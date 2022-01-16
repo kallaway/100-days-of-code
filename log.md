@@ -1,4 +1,22 @@
 # 100 Days Of Code - Log
+### Day 16: January 16, 2022
+
+**Today's Progress**: Today, I  did exersice 6-9 from from [this](https://hackmd.io/@kuzmapetrovich/S1x90jWGP) page.
+
+**Learned**:
+1. To filter a list Dart has a methods called `where`.  
+```
+void main() {
+  var numbers = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100];
+
+  var evenNumbers = numbers.where((element) => element % 2 == 0).toList();
+
+  print(evenNumbers); //[4, 16, 36, 64, 100]
+}
+```
+
+**Thoughts**: 
+I never really wrote small programs; as I learned to code, I mostly just started to work on rather big projects - so it's fun to sit am code some small stuff while learning the syntax of Dart.
 
 ### Day 15: January 15, 2022
 
