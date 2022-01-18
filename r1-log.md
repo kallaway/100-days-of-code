@@ -9,3 +9,6 @@ Started on a web scraper for Gavel. Work not yet publicly available so no link.
 Thoughts: Feels good to start this challenge
 
 ### R1D2
+spent the day editing some code on my portfolio + algorithm exercises (painful)
+
+### R1D3
