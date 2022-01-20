@@ -207,3 +207,11 @@
    ##### Link to work: 
       1. (None)
       2. (None)
+      
+  # Day 25: 20th Januray, 2022
+   #### Today's work:
+       Tried to solve 2 medium leetcode problems but couldn't.
+   #### Thoughts:
+       Too tired and hazy
+   #### Link to work:
+      (None)
