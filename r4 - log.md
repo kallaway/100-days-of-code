@@ -215,3 +215,11 @@
        Too tired and hazy
    #### Link to work:
       (None)
+      
+  # Day 26: 21st January, 2022
+   #### Today's work: 
+      Solved an easy and a medium leetcode problem to get my mojo back
+   #### Thoughts: 
+      Mojo's still not back
+   #### Link to work: 
+      (None)
