@@ -223,3 +223,19 @@
       Mojo's still not back
    #### Link to work: 
       (None)
+
+  # Day 27: 22nd January, 2022
+   #### Today's work: 
+      Solved a medium leetcode problem to get my mojo back
+   #### Thoughts: 
+      Mojo's still not back
+   #### Link to work: 
+      (None)
+      
+  # Day 28: 23rd January, 2022
+   #### Today's work: 
+      
+   #### Thoughts: 
+      
+   #### Link to work: 
+      ()
