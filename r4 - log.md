@@ -239,3 +239,11 @@
       Mojo no coming back
    #### Link to work: 
       (None)
+
+  # Day 29: 24th January, 2022
+   #### Today's work: 
+      Solved about 3 easy and 1 medium problem in leetcode to get my mojo back
+   #### Thoughts: 
+      Mojo on the way
+   #### Link to work: 
+      (None)
