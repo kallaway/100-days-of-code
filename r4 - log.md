@@ -247,3 +247,19 @@
       Mojo on the way
    #### Link to work: 
       (None)
+      
+# Day 30: 25th Januray, 2022
+   #### Today's work:
+      Started working on a Cab Booking System in Java
+   #### Thoughts:
+      Mojo Pretty Much on the way
+   #### Link to work:
+      (None)
+      
+ # Day 31: 27th January, 2022
+   #### Today's work:
+      Finished the Client Side
+   #### Thoughts:
+      Kinda spent a long time in debugging a tiny error
+   #### Link to work:
+      (None)
