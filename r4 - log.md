@@ -263,3 +263,11 @@
       Kinda spent a long time in debugging a tiny error
    #### Link to work:
       (None)
+
+# Day : 28thJanuary, 2022
+   #### Today's work:
+      Worked on the client side of the cab booking system a little 
+   #### Thoughts:
+      The code is getting a little bigger than expected to keep track of
+   #### Link to work:
+      ()
