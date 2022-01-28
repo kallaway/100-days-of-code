@@ -10,6 +10,7 @@ if (args.length < 1) {
   console.log('Please give the password to validate');
   return
 }
+
 var input = args[0];
 var pattern = /^(?=.*[0-9])(?=.*[!@#$%^&*])[a-zA-Z0-9!@#$%^&*]{6,16}$/;;
 
