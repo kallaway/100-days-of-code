@@ -4,7 +4,8 @@
 ## [Log Entries](#log-entries)
 
 - [Entries for 2021](#2021)
-  - [Day 048 - Latest entry](#day-048)
+  - [Day 049 - Latest entry](#day-049)
+  - [Day 048](#day-048)
   - [Day 047](#day-047)
   - [Day 046](#day-046)
   - [Day 045](#day-045)
@@ -2351,11 +2352,11 @@ JS:
 
 - [X] Added **Notes**, **Date Created** and **Last Modified** to the fields that are restored when **CANCELLING** an entry that's being **EDITED**.
 
-- ~~[] Show one record in /servers.html?id=:id~~ Scratched since I think that being able to modify the entry directly on the card is cooler.
-- [] Started modifying the application to run a `dynamic node server` and the `static client` side code separatedly.
-  - [] Removed previous `public` folder and its contents
-- [] Create route for our `servers`
-  - [] Mount it on `app.js`
+- ~~[ ] Show one record in /servers.html?id=:id~~ Scratched since I think that being able to modify the entry directly on the card is cooler.
+- [ ] Started modifying the application to run a `dynamic node server` and the `static client` side code separatedly.
+  - [ ] Removed previous `public` folder and its contents
+- [ ] Create route for our `servers`
+  - [ ] Mount it on `app.js`
 
 HTML:
 
@@ -2415,6 +2416,93 @@ JS:
 - []()
 
 [:arrow_double_up:](#day-048)
+
+[Back to the beginning :arrow_double_up:](#log-entries)
+
+### Day 049
+**Round 3 Day 049, Jan 29th, 2022**
+## Contents 049
+- [Ramblings and inner thoughts](#ramblings-and-inner-thoughts-049)
+- [What I did today](#what-i-did-on-day-049)
+- [Interesting links](#interesting-links-049)
+
+## Ramblings and inner thoughts 049
+
+I added a Confirm box when you try to DELETE a server entry to ensure that the user didn't intend to delete the entry, but googling around, I found that it is a bad practice to use those dialog boxes and found an interesting article that I posted [here](#interesting-links-049) Thought I don't intend on implementing this right now, so I'll leave it for later when I start refactoring the code.
+
+## What I did on day 049
+
+- [X] Clean code by removing unnecesary/unused code.
+- [X] Add DELETE functionality to remove an entry with DELETE /api/v1/servers/:id
+  - [X] Create route
+  - [X] Confirm DELETION
+  - [X] Add queries to DELETE
+    - [X] Validate that entry to be DELETED exists on the Database
+    - [ ] Add rollback functionality to restore DELETED entries?
+  - [X] After deletion redirect to index.html
+
+- [X] Started modifying the application to run a `dynamic node server` and the `static client` side code separatedly.
+  - [X] Removed previous `public` folder and its contents
+- [X] Create route for our `servers`
+  - [X] Mount it on `app.js`
+
+HTML:
+
+- [ ]Remove the search bar from the Navigation menu
+  - [ ]Change visual style of the search bar.
+- [ ] Add Font Awesome icons.
+
+CSS:
+- [ ] Add Flexbox to .content container
+- [ ] Improve stylings.
+- [ ] Add icons.
+- [ ] Improve NAVBAR
+- [ ] Add animations when ADDING and entry, and DELETING and entry.
+
+JS:
+- [ ] If clicking outside of target in Editable Mode, TURN OFF Editable mode for previous target.
+- [ ] Double clicking on a card should enable edit mode without the need of the button. 
+- [ ] Pressing Enter after editing the information of a card should save the changes into the database.
+- [ ] Add functionality to search for contacts from the Monitoreo Department.
+- [ ] Implement functionality to add Emails and Phones to the server information.
+- [ ] DELETE button should be an `X` on the top right corner of the card.
+- [X] When clicking to DELETE and entry, a confirmation box should appear.
+- [ ] When clicking to EDIT an entry, a confirmation box should appear.
+
+- When button `check in` is clicked, the information should be sent to the server.
+  - The server must store the information in a database entry
+- When clicking view checkins, the server should send all the entries in the database.
+  - [ ] Add air quality information on a popup, which will be shown when the marker is clicked. Should check if the `openaq` API brings `lat/lon` information for each of the sensors on a location, then add custom markers for those sensors at the locations of the readings, each one with their own popup. Then display lines going from those sensors to the original reading associated with it. These markers should only appear when the client clicks to view more info on the associated marker.
+    - [ ] These markers should only be visible when the user clicks to see more details.
+    - [ ] Add animation of the markers opening from the center one.
+    - [ ] Should probably zoom out a little until all of the markers are in view.
+  - [ ] Should add a shadow to the marker, probably with a `CSS blur filter`.
+- Add legend showing the different meanings of the Air Quality readings and explaining what should be the normal ranges for each one.
+- Should add leaflet map to view checkins.
+  - Should add markers for each entry on the database.
+  - Marker should be custom marker using the `icon` obtained from Weather API.
+
+- [ ] Create table on the page to display the reported ATM's
+- [ ] Add several entries with dummy data to test the entries on the table.
+- [ ] Create a class in the CSS file to highlight duplicated entries.
+- [ ] Test site with real data from the report file.
+  - [ ] Test with dummy file.
+  - [ ] Test with real data.
+
+- [ ] Invoke the Escape Behavior from outside when it is needed.
+  - [ ] When you click the option to *Try to break from the vines* on `2a_look` an athletics contest should happen between The Stone and the vine, similar to how it happens at the start of the game.
+  - [ ] On `2a_look` I should get one of the Tainted Roots, the one wrapped around Gungurk
+  - [ ] Have a variable for The Stone
+  - [ ] Have a reference to The Stone's behavior handler on `2a_look`
+  - [ ] Once you break Gungurk free, the game should move to `1a_escape_success` scenario.
+  - [ ] On `2a_look` option two should take you to `1a_break_success`
+  - [ ] In the `1a_punch` scenario, you should be able to use a Strength Check to "break" the vine and free Gungurk.
+
+## Interesting links 049
+
+- [Never Use a Warning When you Mean Undo](https://alistapart.com/article/neveruseawarning/)
+
+[:arrow_double_up:](#day-049)
 
 [Back to the beginning :arrow_double_up:](#log-entries)
 
