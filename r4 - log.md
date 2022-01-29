@@ -264,10 +264,18 @@
    #### Link to work:
       (None)
 
-# Day : 28thJanuary, 2022
+# Day 32: 28th January, 2022
    #### Today's work:
       Worked on the client side of the cab booking system a little 
    #### Thoughts:
       The code is getting a little bigger than expected to keep track of
+   #### Link to work:
+      ()
+      
+ # Day 33: 29th January, 2022
+   #### Today's work:
+      Worked on the client side of the cab booking system a little 
+   #### Thoughts:
+      The code is getting a little bigger than expected to keep track of and thus my overall work was actually little less than excepted
    #### Link to work:
       ()
