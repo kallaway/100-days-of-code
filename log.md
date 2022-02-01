@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 1: February 1, 2022
+
+Started the challenge! Will clean up the repo later but glad to commit and get started.
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
