@@ -279,3 +279,14 @@
       The code is getting a little bigger than expected to keep track of and thus my overall work was actually little less than excepted
    #### Link to work:
       ()
+
+# Day 34: 31st January, 2022
+   #### Today's work:
+      1. Took a little time but i finished the fare calculation 
+      2. 
+   #### Thoughts:
+      1. Had trouble with visualising graphs and so that took a little more time than expected
+      2. 
+   #### Link to work:
+      1. (None)
+      2. 
