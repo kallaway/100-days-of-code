@@ -283,10 +283,10 @@
 # Day 34: 31st January, 2022
    #### Today's work:
       1. Took a little time but i finished the fare calculation 
-      2. 
+      2. Started learning about rest API
    #### Thoughts:
       1. Had trouble with visualising graphs and so that took a little more time than expected
-      2. 
+      2. None
    #### Link to work:
       1. (None)
-      2. 
+      2. (None)
