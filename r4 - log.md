@@ -278,7 +278,7 @@
    #### Thoughts:
       The code is getting a little bigger than expected to keep track of and thus my overall work was actually little less than excepted
    #### Link to work:
-      ()
+      (None)
 
 # Day 34: 31st January, 2022
    #### Today's work:
@@ -290,3 +290,19 @@
    #### Link to work:
       1. (None)
       2. (None)
+
+ # Day 35: 1st Febrarury, 2022
+   #### Today's work:
+      Kinda finished the prototype of the system
+   #### Thoughts:
+      Need to implement threads to continue with the project
+   #### Link to work:
+      (None)
+      
+  # Day 36: 2nd February, 2022
+   #### Today's work:
+      Read up on REST API a little 
+   #### Thoughts:
+      Need to start working on Google API's if I have to start looking at the possibility of calendar implementation of automated mailing
+   #### Link to work:
+      (None)
