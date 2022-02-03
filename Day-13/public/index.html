@@ -1,0 +1,52 @@
+<html>
+	<head>
+		<title> Signup Form | nodejsera </title>
+		
+		<!-- Including bootstrap v3.3.7 -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		
+		<!-- Including Custom css -->
+		<link rel="stylesheet" type="text/css" href="style.css">
+		
+	</head>
+	<body>
+	
+		<br>
+		<br>
+		<br>
+		<div class="container" >
+			<div class="row">
+				<div class="col-md-3">
+					<!-- Blank DIV -->
+				</div>
+				
+				<div class="col-md-6 main">
+					<!-- Form Tag starts here -->
+					<!-- Action attribute is the route on backend. Method is POST -->
+					<form action="/sign_up" method="post">
+					
+						<h1> Signup form </h1>
+							
+						<input class="box" type="text" name="name" id="name" placeholder="Enter your Name"  required /><br>
+							
+						<input class="box" type="email" name="email" id="email" placeholder="Enter your E-Mail " required /><br>
+							
+						<input class="box" type="password" name="password" id="password"  placeholder="Enter your Password " required/><br>
+							
+						<input class="box" type="text" name="phone" id="phone"  placeholder="Enter your Phone Number " required/><br>
+						<br>
+						<input type="submit" id="submitDetails"  name="submitDetails" value="Submit Your Details" /><br>
+					
+					</form>
+					
+				</div>
+				
+				
+				<div class="col-md-3">
+					<!-- Blank DIV -->
+				</div>
+				
+			</div>
+		</div>
+	</body>
+</html>		

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+
+.main{
+	padding:20px;
+	font-family: 'Josefin Slab', serif;
+	border : 2px solid #50d8a4;
+	border-radius: 15px;
+	
+}
+.main h1{
+	font-size: 50px;
+	text-align:center;
+	font-family: 'Josefin Slab', serif;
+	color: #549978;
+}
+input{
+	font-family: 'Josefin Slab', serif;
+    width: 100%;
+	font-size: 30px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 2px solid #50d8a4;
+}
+input[type=submit] {
+	font-family: 'Josefin Slab', serif;
+	width: 100%;
+    background-color: #549978;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 15px;
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+input:hover {
+	font-family: 'Josefin Slab', serif;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border: none;
+    border-bottom: 2px solid #549978;
+}
+
+input[type=submit]:hover {
+	font-family: 'Josefin Slab', serif;
+	width: 100%;
+    background-color: #549978;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 15px;
+}
