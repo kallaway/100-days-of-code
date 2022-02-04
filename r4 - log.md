@@ -306,3 +306,11 @@
       Need to start working on Google API's if I have to start looking at the possibility of calendar implementation of automated mailing
    #### Link to work:
       (None)
+
+  # Day 37: 4th February, 2022
+   #### Today's work:
+      Reading on Threads in Java
+   #### Thoughts:
+      Thinking of different use cases for Threads
+   #### Link to work:
+      (None)
