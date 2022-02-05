@@ -314,3 +314,11 @@
       Thinking of different use cases for Threads
    #### Link to work:
       (None)
+
+  # Day 38: 5th February, 2022
+   #### Today's work:
+      Reading on Threads in Java
+   #### Thoughts:
+      Thinking of different use cases for Threads
+   #### Link to work:
+      (None)
