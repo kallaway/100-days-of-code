@@ -322,3 +322,11 @@
       Thinking of different use cases for Threads
    #### Link to work:
       (None)
+      
+  # Day 39: 6th February, 2022
+   #### Today's work:
+      Read up on OSI model and the TCP/IP model
+   #### Thoughts:
+      None
+   #### Link to work:
+      (None)
