@@ -330,3 +330,11 @@
       None
    #### Link to work:
       (None)
+      
+   # Day 40: 7th February, 2022
+   #### Today's work:
+      Reading up on Network topologies
+   #### Thoughts:
+      None
+   #### Link to work:
+      (None)
