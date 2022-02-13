@@ -338,3 +338,11 @@
       None
    #### Link to work:
       (None)
+
+# Day 41: 13th February, 2022
+   #### Today's work:
+      Reading up on Networks
+   #### Thoughts:
+      None
+   #### Link to work:
+      (None)
