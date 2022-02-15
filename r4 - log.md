@@ -346,3 +346,11 @@
       None
    #### Link to work:
       (None)
+
+# Day 42: 15th February, 2022
+   #### Today's work:
+      Reading up on Networks
+   #### Thoughts:
+      None
+   #### Link to work:
+      (None)
