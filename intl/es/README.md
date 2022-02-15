@@ -1,9 +1,8 @@
-# Me uní el reto #100DaysOfCode
-
+# Me uní al reto #100DaysOfCode
 ## Tabla de contenidos
 
 * [Reglas](reglas.md)
-* [Diario - haga clic aquí para ver mi progreso](diario.md)
+* [Diario - haga clic aquí para ver mi progreso](recursos.md)
 * [Preguntas frecuentes](preguntas_frecuentes.md)
 * [Recursos](recursos.md)
 
