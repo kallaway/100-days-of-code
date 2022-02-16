@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Lato|Merriweather');
+/**
+	font-family: 'Inconsolata', monospace;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Merriweather', serif;	
+**/
+
+.main{
+	padding:20px;
+	font-family: 'Josefin Slab', serif;
+	border : 2px solid #000000;
+	border-radius: 15px;
+	
+}
+
+
+.content{
+	font-family: 'Inconsolata', monospace;
+	font-size: 20px;
+	color : #000000;
+}
+b{
+	font-family: 'Inconsolata', monospace;
+	font-size: 20px;
+	color: black;
+}
+
+
+
+.main h1{
+	font-size: 50px;
+	text-align:center;
+	font-family: 'Josefin Slab', serif;
+	color: #33333;
+}
+input{
+	font-family: 'Josefin Slab', serif;
+    width: 100%;
+	font-size: 30px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 2px solid #222222;
+}
+button {
+	font-family: 'Merriweather', serif;	
+	font-size: 40px;
+	width: 100%;
+    background-color: #888;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 15px;
+}
+input:focus,
+select:focus,
+button:focus {
+    outline: none;
+}
+
+input:hover {
+	font-family: 'Josefin Slab', serif;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border: 2px solid #4dffa6;
+}
+
+button:hover {
+	font-family: 'Merriweather', serif;	
+	font-size: 40px;
+	width: 100%;
+    background-color: #1aff8c;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 15px;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Day-28",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tweets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.4.1",
+    "twitter": "^1.7.1"
+  }
+}
