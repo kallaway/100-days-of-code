@@ -354,3 +354,11 @@
       None
    #### Link to work:
       (None)
+      
+# Day 43: 19th February, 2022
+   #### Today's work:
+      Starting up on Blockchain
+   #### Thoughts:
+      None
+   #### Link to work:
+      (None)
