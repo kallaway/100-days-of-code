@@ -5,7 +5,7 @@
 
 **Dzisiejszy Progres**: Naprawiłem/am CSS, pracowałem/am nad implementacją canvasu do apki.
 
-**Przemyślenia:** Miałem/am sporo problemów z CSS, but, overall, Ale generalnie, czuję że rozumiem coraz więcej. Canvas jest dla mnie czymś kompletnie nowym ale udało mi się wprowadzić podstawowe funkcję.
+**Przemyślenia:** Miałem/am sporo problemów z CSS, ale generalnie, czuję że rozumiem coraz więcej. Canvas jest dla mnie czymś kompletnie nowym, ale udało mi się wprowadzić podstawowe funkcje.
 
 **Linki** [Kalkulator Aplikacja](http://www.example.com)
 
@@ -14,7 +14,7 @@
 
 **Dzisiejszy Progres**: Naprawiłem/am CSS, pracowałem/am nad implementacją canvasu do apki.
 
-**Przemyślenia**: Miałem/am sporo problemów z CSS, but, overall, Ale generalnie, czuję że rozumiem coraz więcej. Canvas jest dla mnie czymś kompletnie nowym ale udało mi się wprowadzić podstawowe funkcję.
+**Przemyślenia**: Miałem/am sporo problemów z CSS, ale generalnie, czuję że rozumiem coraz więcej. Canvas jest dla mnie czymś kompletnie nowym, ale udało mi się wprowadzić podstawowe funkcje.
 
 **Linki**: [Kalkulator Aplikacja](http://www.example.com)
 
