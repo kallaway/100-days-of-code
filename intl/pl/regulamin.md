@@ -11,7 +11,7 @@
 2. Jeżeli programuję w pracy, czas ten nie zalicza się do wyzwania.
 3. Będę pushować mój kod na GitHub, żeby wszyscy mogli śledzić mój progres.
 4. Będę aktualizować (Log)[log.md] uzupełniając swój dzienny progres wraz z linkami.
-5. Będę pracował/ła nad prawdziwymi projektami, stawiając sobie wyzwania. Czas spędzony na robienie poradników, kursów online itp nie zalicza się do wyzwania. Jeżeli dopiero zaczynasz przygodę z programowaniem, zapoznaj się z [FAQ (często zadawane pytania)](FAQ-pl.md))
+5. Będę pracował/ła nad prawdziwymi projektami, stawiając sobie wyzwania. Czas spędzony na robienie poradników, kursów online itp nie zalicza się do wyzwania. Jeżeli dopiero zaczynasz przygodę z programowaniem, zapoznaj się z [FAQ (często zadawane pytania)](FAQ-pl.md)
 
 
 ## Pomysły aby zrobić to wyzwanie bardziej efektywnym
