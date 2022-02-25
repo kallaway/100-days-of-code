@@ -370,3 +370,11 @@
       None
    #### Link to work:
       (None)
+
+# Day 45: 25th February, 2022
+   #### Today's work:
+      Reading up on Blockchain
+   #### Thoughts:
+      None
+   #### Link to work:
+      (None)
