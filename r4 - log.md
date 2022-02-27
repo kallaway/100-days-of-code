@@ -387,3 +387,18 @@
    #### Link to work:
       (None)
 
+# Day 47: 26th February, 2022
+   #### Today's work:
+      Reading up on Blockchain
+   #### Thoughts:
+      None
+   #### Link to work:
+      (None)
+      
+# Day 48: 27th February, 2022
+   #### Today's work:
+      Reading up on Blockchain
+   #### Thoughts:
+      None
+   #### Link to work:
+      (None)
