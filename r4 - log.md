@@ -402,3 +402,19 @@
       None
    #### Link to work:
       (None)
+
+# Day 49: 1st March, 2022
+   #### Today's work:
+      Reading up on Blockchain
+   #### Thoughts:
+      None
+   #### Link to work:
+      (None)
+      
+# Day 50: 4th March, 2022
+   #### Today's work:
+      Started a new project based on a Movie Recommender System
+   #### Thoughts:
+      Have a clearcut idea of the path to take to clear the reviews
+   #### Link to work:
+      (None)
