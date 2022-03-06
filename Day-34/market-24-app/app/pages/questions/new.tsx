@@ -2,6 +2,7 @@ import { Link, useRouter, useMutation, BlitzPage, Routes } from "blitz"
 import Layout from "app/core/layouts/Layout"
 import createQuestion from "app/questions/mutations/createQuestion"
 import { QuestionForm, FORM_ERROR } from "app/questions/components/QuestionForm"
+import {createQuestionSchema} from "app/questions/validations"
 
 const NewQuestionPage: BlitzPage = () => {
   const router = useRouter()
@@ -13,11 +14,8 @@ const NewQuestionPage: BlitzPage = () => {
 
       <QuestionForm
         submitText="Create Question"
-        // TODO use a zod schema for form validation
-        //  - Tip: extract mutation's schema into a shared `validations.ts` file and
-        //         then import and use it here
-        // schema={CreateQuestion}
-        // initialValues={{}}
+        schema={createQuestionSchema}
+        initialValues={{}}
         onSubmit={async (values) => {
           try {
             const question = await createQuestionMutation(values)
