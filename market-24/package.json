@@ -1,0 +1,49 @@
+{
+  "name": "market-24",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "blitz dev",
+    "build": "blitz build",
+    "start": "blitz start",
+    "studio": "blitz prisma studio",
+    "lint": "eslint --ignore-path .gitignore --ext .js,.ts,.tsx .",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "prepare": "husky install"
+  },
+  "prisma": {
+    "schema": "db/schema.prisma"
+  },
+  "prettier": {
+    "semi": false,
+    "printWidth": 100
+  },
+  "lint-staged": {
+    "*.{js,ts,tsx}": [
+      "eslint --fix"
+    ]
+  },
+  "dependencies": {
+    "@prisma/client": "3.10.0",
+    "blitz": "0.45.3",
+    "react-dom": "18.0.0-alpha-5ca4b0433-20211020",
+    "react": "18.0.0-beta-149b420f6-20211119",
+    "zod": "3.13.4",
+    "final-form": "4.20.6",
+    "react-final-form": "6.5.8"
+  },
+  "devDependencies": {
+    "@types/preview-email": "2.0.1",
+    "@types/react": "17.0.39",
+    "eslint": "7.32.0",
+    "husky": "7.0.4",
+    "lint-staged": "11.3.0-beta.2",
+    "prettier-plugin-prisma": "3.10.0",
+    "prettier": "2.5.1",
+    "pretty-quick": "3.1.3",
+    "preview-email": "3.0.5",
+    "prisma": "3.10.0",
+    "typescript": "~4.5"
+  },
+  "private": true
+}

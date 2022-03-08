@@ -15,7 +15,7 @@ const NewQuestionPage: BlitzPage = () => {
       <QuestionForm
         submitText="Create Question"
         schema={createQuestionSchema}
-        initialValues={{}}
+        initialValues={{text: "", choices: []}}
         onSubmit={async (values) => {
           try {
             const question = await createQuestionMutation(values)
