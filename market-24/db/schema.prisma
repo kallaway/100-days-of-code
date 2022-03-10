@@ -1,65 +1,1083 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-datasource db {
-  provider = "postgresql"
-  url      = env("DATABASE_URL")
-}
-
 generator client {
   provider = "prisma-client-js"
 }
 
-// --------------------------------------
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
 
-model User {
+model ar_internal_metadata {
+  key        String   @id @db.VarChar(255)
+  value      String?  @db.VarChar(255)
+  created_at DateTime @db.DateTime(6)
+  updated_at DateTime @db.DateTime(6)
+}
+
+model banner {
   id             Int      @id @default(autoincrement())
-  createdAt      DateTime @default(now())
-  updatedAt      DateTime @updatedAt
-  name           String?
-  email          String   @unique
-  hashedPassword String?
-  role           String   @default("USER")
+  page_id        Int
+  name           String   @db.VarChar(255)
+  name_en        String   @db.VarChar(255)
+  path           String   @db.VarChar(255)
+  mime_type      String   @db.VarChar(200)
+  path_en        String   @db.VarChar(255)
+  link           String   @db.VarChar(255)
+  blank_window   Boolean  @default(true)
+  position       Int      @db.TinyInt
+  is_recursive   Boolean
+  start_date     DateTime @db.Date
+  end_date       DateTime @db.Date
+  width          String   @db.VarChar(255)
+  height         String   @db.VarChar(255)
+  sort           Int
+  click_count    Int
+  is_active      Int      @default(0) @db.TinyInt
+  description    String   @db.Text
+  description_en String   @db.Text
+  second         Int      @default(4000)
+  is_shadow      Int
+  button_text    String   @db.VarChar(255)
+  created_at     DateTime @default(now()) @db.Timestamp(0)
+  updated_at     DateTime @default(dbgenerated("'0000-00-00 00:00:00'")) @db.Timestamp(0)
+  category_id    Int
 
-  tokens   Token[]
-  sessions Session[]
+  @@index([page_id], map: "page_id")
 }
 
-model Session {
-  id                 Int       @id @default(autoincrement())
-  createdAt          DateTime  @default(now())
-  updatedAt          DateTime  @updatedAt
-  expiresAt          DateTime?
-  handle             String    @unique
-  hashedSessionToken String?
-  antiCSRFToken      String?
-  publicData         String?
-  privateData        String?
-
-  user   User? @relation(fields: [userId], references: [id])
-  userId Int?
+model banner_location {
+  id         Int      @id @default(autoincrement())
+  location   String   @db.VarChar(250)
+  size       String   @db.VarChar(200)
+  width      Int
+  height     Int
+  price      String   @db.VarChar(200)
+  file_type  String   @db.VarChar(250)
+  changes    Int
+  created_at DateTime @default(now()) @db.Timestamp(0)
+  updated_at DateTime @default(dbgenerated("'0000-00-00 00:00:00'")) @db.Timestamp(0)
 }
 
-model Token {
+model cache {
+  key        String @unique(map: "cache_key_unique") @db.VarChar(255)
+  value      String @db.Text
+  expiration Int
+}
+
+model category {
+  id               BigInt  @id @default(autoincrement())
+  name             String  @db.VarChar(255)
+  seo_title        String  @db.VarChar(60)
+  seo_url          String  @db.VarChar(255)
+  seo_description  String  @db.VarChar(160)
+  logo             String? @db.VarChar(255)
+  is_visible       Boolean @default(false)
+  homepage_visible Int     @default(0) @db.TinyInt
+  is_featured      Boolean @default(false)
+  rank             BigInt  @default(0)
+  parent_id        BigInt?
+  banner_id        Int
+  lft              BigInt  @default(0)
+  rgt              BigInt  @default(0)
+  level            BigInt  @default(0)
+  root_css         String  @db.Text
+  root_color       String  @db.VarChar(255)
+  hompage_col_no   Int     @db.TinyInt
+  banner2_id       Int     @default(0)
+  banner3_id       Int
+  link             String  @db.VarChar(255)
+  for_title        Int     @default(0) @db.TinyInt
+  for_url          Int     @default(0) @db.TinyInt
+  home_page_rank   Int     @default(0) @db.TinyInt
+
+  @@index([lft], map: "lft")
+  @@index([parent_id], map: "parent_id_idx")
+  @@index([rgt], map: "rgt")
+}
+
+model category_attribute {
+  id           Int @id @default(autoincrement())
+  category_id  Int
+  attribute_id Int
+
+  @@index([attribute_id], map: "attribute_id")
+  @@index([category_id], map: "category_id")
+}
+
+model category_banner {
+  id          Int @id @default(autoincrement())
+  category_id Int
+  banner_id   Int
+  banner2_id  Int
+  banner3_id  Int
+}
+
+model category_stats {
+  id            BigInt   @id @default(autoincrement())
+  category_id   Int
+  category_name String   @db.VarChar(255)
+  count         BigInt
+  created_at    DateTime @db.Date
+}
+
+model columns_priv {
+  Host        String   @default("") @db.Char(255)
+  Db          String   @default("") @db.Char(64)
+  User        String   @default("") @db.Char(32)
+  Table_name  String   @default("") @db.Char(64)
+  Column_name String   @default("") @db.Char(64)
+  Timestamp   DateTime @default(now()) @db.Timestamp(0)
+  Column_priv String   @default("")
+
+  @@id([Host, Db, User, Table_name, Column_name])
+}
+
+model component {
+  component_id       Int    @id @default(autoincrement()) @db.UnsignedInt
+  component_group_id Int    @db.UnsignedInt
+  component_urn      String @db.Text
+}
+
+model cover_image_type {
+  id       Int @id @default(autoincrement())
+  cover_id Int
+  height   Int
+  width    Int
+  position Int @db.TinyInt
+}
+
+model db {
+  Host                  String                   @default("") @db.Char(255)
+  Db                    String                   @default("") @db.Char(64)
+  User                  String                   @default("") @db.Char(32)
+  Select_priv           db_Select_priv           @default(N)
+  Insert_priv           db_Insert_priv           @default(N)
+  Update_priv           db_Update_priv           @default(N)
+  Delete_priv           db_Delete_priv           @default(N)
+  Create_priv           db_Create_priv           @default(N)
+  Drop_priv             db_Drop_priv             @default(N)
+  Grant_priv            db_Grant_priv            @default(N)
+  References_priv       db_References_priv       @default(N)
+  Index_priv            db_Index_priv            @default(N)
+  Alter_priv            db_Alter_priv            @default(N)
+  Create_tmp_table_priv db_Create_tmp_table_priv @default(N)
+  Lock_tables_priv      db_Lock_tables_priv      @default(N)
+  Create_view_priv      db_Create_view_priv      @default(N)
+  Show_view_priv        db_Show_view_priv        @default(N)
+  Create_routine_priv   db_Create_routine_priv   @default(N)
+  Alter_routine_priv    db_Alter_routine_priv    @default(N)
+  Execute_priv          db_Execute_priv          @default(N)
+  Event_priv            db_Event_priv            @default(N)
+  Trigger_priv          db_Trigger_priv          @default(N)
+
+  @@id([Host, Db, User])
+  @@index([User], map: "User")
+}
+
+model default_roles {
+  HOST              String @default("") @db.Char(255)
+  USER              String @default("") @db.Char(32)
+  DEFAULT_ROLE_HOST String @default("%") @db.Char(255)
+  DEFAULT_ROLE_USER String @default("") @db.Char(32)
+
+  @@id([HOST, USER, DEFAULT_ROLE_HOST, DEFAULT_ROLE_USER])
+}
+
+model engine_cost {
+  engine_name   String   @db.VarChar(64)
+  device_type   Int
+  cost_name     String   @db.VarChar(64)
+  cost_value    Float?   @db.Float
+  last_update   DateTime @default(now()) @db.Timestamp(0)
+  comment       String?  @db.VarChar(1024)
+  default_value Float?   @db.Float
+
+  @@id([cost_name, engine_name, device_type])
+}
+
+model func {
+  name String    @id @default("") @db.Char(64)
+  ret  Int       @default(0) @db.TinyInt
+  dl   String    @default("") @db.Char(128)
+  type func_type
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
+model general_log {
+  event_time   DateTime @default(now()) @db.Timestamp(6)
+  user_host    String   @db.MediumText
+  thread_id    BigInt   @db.UnsignedBigInt
+  server_id    Int      @db.UnsignedInt
+  command_type String   @db.VarChar(64)
+  argument     Bytes    @db.MediumBlob
+
+  @@ignore
+}
+
+model global_grants {
+  USER              String                          @default("") @db.Char(32)
+  HOST              String                          @default("") @db.Char(255)
+  PRIV              String                          @default("") @db.Char(32)
+  WITH_GRANT_OPTION global_grants_WITH_GRANT_OPTION @default(N)
+
+  @@id([USER, HOST, PRIV])
+}
+
+model groups {
+  id          Int      @id @default(autoincrement()) @db.UnsignedInt
+  name        String   @unique(map: "groups_name_unique") @db.VarChar(255)
+  permissions String?  @db.Text
+  created_at  DateTime @default(dbgenerated("'0000-00-00 00:00:00'")) @db.Timestamp(0)
+  updated_at  DateTime @default(dbgenerated("'0000-00-00 00:00:00'")) @db.Timestamp(0)
+}
+
+model gtid_executed {
+  source_uuid    String @db.Char(36)
+  interval_start BigInt
+  interval_end   BigInt
+
+  @@id([source_uuid, interval_start])
+}
+
+model help_category {
+  help_category_id   Int    @id @db.UnsignedSmallInt
+  name               String @unique(map: "name") @db.Char(64)
+  parent_category_id Int?   @db.UnsignedSmallInt
+  url                String @db.Text
+}
+
+model help_keyword {
+  help_keyword_id Int    @id @db.UnsignedInt
+  name            String @unique(map: "name") @db.Char(64)
+}
+
+model help_relation {
+  help_topic_id   Int @db.UnsignedInt
+  help_keyword_id Int @db.UnsignedInt
+
+  @@id([help_keyword_id, help_topic_id])
+}
+
+model help_topic {
+  help_topic_id    Int    @id @db.UnsignedInt
+  name             String @unique(map: "name") @db.Char(64)
+  help_category_id Int    @db.UnsignedSmallInt
+  description      String @db.Text
+  example          String @db.Text
+  url              String @db.Text
+}
+
+model image {
+  id         BigInt @id @default(autoincrement())
+  filename   String @db.VarChar(255)
+  hashcode   String @db.VarChar(42)
+  product_id BigInt
+
+  @@index([product_id], map: "product_id_idx")
+}
+
+model industry {
+  id   Int    @id @default(autoincrement())
+  name String @db.VarChar(200)
+  desc String @db.VarChar(200)
+}
+
+model innodb_index_stats {
+  database_name    String   @db.VarChar(64)
+  table_name       String   @db.VarChar(199)
+  index_name       String   @db.VarChar(64)
+  last_update      DateTime @default(now()) @db.Timestamp(0)
+  stat_name        String   @db.VarChar(64)
+  stat_value       BigInt   @db.UnsignedBigInt
+  sample_size      BigInt?  @db.UnsignedBigInt
+  stat_description String   @db.VarChar(1024)
+
+  @@id([database_name, table_name, index_name, stat_name])
+}
+
+model innodb_table_stats {
+  database_name            String   @db.VarChar(64)
+  table_name               String   @db.VarChar(199)
+  last_update              DateTime @default(now()) @db.Timestamp(0)
+  n_rows                   BigInt   @db.UnsignedBigInt
+  clustered_index_size     BigInt   @db.UnsignedBigInt
+  sum_of_other_index_sizes BigInt   @db.UnsignedBigInt
+
+  @@id([database_name, table_name])
+}
+
+model location {
+  id        BigInt @id @default(autoincrement())
+  parent_id Int
+  name      String @db.VarChar(255)
+  level     Int
+  sort      Int    @default(0)
+}
+
+model order_items {
+  id               Int @id @default(autoincrement())
+  payment_order_id Int
+  product_id       Int
+  amount           Int
+  price            Int
+  is_coupon        Int @default(0) @db.TinyInt
+}
+
+model pages {
+  id           Int      @id @default(autoincrement()) @db.UnsignedInt
+  type         Int
+  status       Int
+  page_id      Int
+  image        String   @db.VarChar(255)
+  slug         String   @db.VarChar(255)
+  title        String   @db.VarChar(255)
+  description  String   @db.VarChar(1000)
+  body         String?  @db.Text
+  author       String   @db.VarChar(255)
+  is_header    Boolean  @default(false)
+  is_footer    Boolean  @default(false)
+  is_featured  Int      @default(0) @db.TinyInt
+  is_active    Int      @default(1) @db.TinyInt
+  youtube_link String   @db.VarChar(255)
+  user_id      Int
+  view_count   Int
+  is_uploads   Int      @default(0) @db.TinyInt
+  is_temp      Int      @default(0) @db.TinyInt
+  created_at   DateTime @default(dbgenerated("'0000-00-00 00:00:00'")) @db.Timestamp(0)
+  updated_at   DateTime @default(dbgenerated("'0000-00-00 00:00:00'")) @db.Timestamp(0)
+  albom_id     Int
+  is_homepopup Boolean  @default(false)
+}
+
+model password_history {
+  Host               String   @default("") @db.Char(255)
+  User               String   @default("") @db.Char(32)
+  Password_timestamp DateTime @default(now()) @db.Timestamp(6)
+  Password           String?  @db.Text
+
+  @@id([Host, User, Password_timestamp])
+}
+
+model payment_order {
+  id           Int      @id @default(autoincrement())
+  status       String   @db.VarChar(20)
+  type_order   Int      @default(0) @db.TinyInt
+  user_id      Int
+  order_code   String   @db.VarChar(12)
+  created_at   DateTime @db.DateTime(0)
+  nb_item      Int
+  total        Int
+  is_order     Int      @db.TinyInt
+  payment_type String   @db.VarChar(255)
+}
+
+model plugin {
+  name String @id @default("") @db.VarChar(64)
+  dl   String @default("") @db.VarChar(128)
+}
+
+model prices {
+  id          Int @id @default(autoincrement())
+  category_id Int
+  price       Int
+}
+
+model procs_priv {
+  Host         String                  @default("") @db.Char(255)
+  Db           String                  @default("") @db.Char(64)
+  User         String                  @default("") @db.Char(32)
+  Routine_name String                  @default("") @db.Char(64)
+  Routine_type procs_priv_Routine_type
+  Grantor      String                  @default("") @db.VarChar(288)
+  Proc_priv    String                  @default("")
+  Timestamp    DateTime                @default(now()) @db.Timestamp(0)
+
+  @@id([Host, Db, User, Routine_name, Routine_type])
+  @@index([Grantor], map: "Grantor")
+}
+
+model product {
+  id                  BigInt    @id @default(autoincrement())
+  name                String    @db.VarChar(255)
+  name_more           String    @db.VarChar(255)
+  description         String    @db.LongText
+  password            String    @db.VarChar(32)
+  price               Float     @default(0.0) @db.Float
+  price_type          Int       @default(0) @db.TinyInt
+  contact             String    @db.VarChar(255)
+  location_id         Int
+  shop_id             Int
+  rate_score          Int
+  latlng              String    @db.VarChar(255)
+  is_featured         Boolean   @default(false)
+  is_coupon           Int       @default(0) @db.TinyInt
+  coupon_price        Int       @default(0)
+  coupon_percent      Int       @default(0)
+  featured_start_date DateTime? @db.DateTime(0)
+  featured_due_date   DateTime? @db.DateTime(0)
+  category_id         BigInt
+  image_filename      String?   @db.VarChar(255)
+  attribute_value_ids String    @db.Text
+  cids                String?   @db.VarChar(255)
+  user_id             Int
+  created_at          DateTime  @db.DateTime(0)
+  updated_at          DateTime  @db.DateTime(0)
+  ip_address          String    @db.VarChar(255)
+  is_active           Int       @db.TinyInt
+  price_sale          Int
+  delivery            Int
+  video               String    @db.VarChar(255)
+  nb_totalvote        Int       @default(0)
+  nb_vote             Int       @default(1)
+  view_count          Int       @default(0)
+  is_stock_str        String    @db.VarChar(255)
+  search_text         String    @db.Text
+  changes             String    @db.VarChar(255)
+  is_leasing          Int       @db.TinyInt
+  owner_type          Int       @db.TinyInt
+  auto_renew_time     Int       @default(0)
+  likes               Int       @default(0)
+  shop_category_id    Int?
+  brand               String    @db.VarChar(200)
+  product_size        String    @db.VarChar(100)
+  product_status      Int       @default(1)
+  sold_date           DateTime? @db.Date
+
+  @@index([category_id], map: "category_id_idx")
+}
+
+model product_comment {
+  id         BigInt   @id @default(autoincrement())
+  product_id Int
+  user_id    Int
+  parent_id  Int      @default(0)
+  level      Int?     @default(0)
+  username   String?  @db.VarChar(255)
+  content    String   @db.Text
+  ip_address String   @db.VarChar(255)
+  created_at DateTime @db.DateTime(0)
+}
+
+model product_report {
+  id         Int       @id @default(autoincrement())
+  product_id Int
+  report_id  Int
+  created_at DateTime  @default(now()) @db.Timestamp(0)
+  updated_at DateTime? @db.Timestamp(0)
+  status_id  Int       @db.TinyInt
+}
+
+model product_sale {
+  id           Int @id @default(autoincrement())
+  product_id   Int
+  sale_id      Int
+  sale_percent Int
+}
+
+model product_word {
+  id         BigInt @id @default(autoincrement())
+  product_id BigInt
+  word_id    BigInt
+  relevance  BigInt @default(1)
+
+  @@index([product_id, word_id], map: "product_id")
+  @@index([product_id], map: "product_id_idx")
+  @@index([word_id], map: "word_id_idx")
+}
+
+model profile {
+  id              Int      @id @default(autoincrement())
+  user_id         Int
+  phone           String   @db.VarChar(255)
+  address         String   @db.VarChar(255)
+  image           String   @db.VarChar(255)
+  color_code      String   @db.VarChar(255)
+  cover_style     String?  @db.VarChar(255)
+  video           String   @db.VarChar(255)
+  position        String   @db.VarChar(255)
+  email           String   @db.VarChar(255)
+  about_us        String   @db.Text
+  banner          String   @db.VarChar(255)
+  is_company      Int      @db.TinyInt
+  company_name    String   @db.VarChar(255)
+  is_paid         Int      @db.TinyInt
+  paid_until      DateTime @db.Date
+  renew_products  String   @db.VarChar(1500)
+  old_products    String   @db.VarChar(1500)
+  content         String   @db.Text
+  body            String   @db.Text
+  plan            Int      @default(0)
+  plan_start_date DateTime @db.DateTime(0)
+  plan_end_date   DateTime @db.DateTime(0)
+  product_limit   Int      @default(20)
+  side_banner     String   @db.VarChar(255)
+  likes           Int
+  dislikes        Int
+}
+
+model profile_price {
+  id    Int    @id @default(autoincrement())
+  name  String @db.VarChar(255)
+  price Int
+}
+
+model proxies_priv {
+  Host         String   @default("") @db.Char(255)
+  User         String   @default("") @db.Char(32)
+  Proxied_host String   @default("") @db.Char(255)
+  Proxied_user String   @default("") @db.Char(32)
+  With_grant   Boolean  @default(false)
+  Grantor      String   @default("") @db.VarChar(288)
+  Timestamp    DateTime @default(now()) @db.Timestamp(0)
+
+  @@id([Host, User, Proxied_host, Proxied_user])
+  @@index([Grantor], map: "Grantor")
+}
+
+model replication_asynchronous_connection_failover {
+  Channel_name      String @db.Char(64)
+  Host              String @db.Char(255)
+  Port              Int    @db.UnsignedInt
+  Network_namespace String @db.Char(64)
+  Weight            Int    @db.UnsignedTinyInt
+  Managed_name      String @default("") @db.Char(64)
+
+  @@id([Channel_name, Host, Port, Network_namespace, Managed_name])
+  @@index([Channel_name, Managed_name], map: "Channel_name")
+}
+
+model replication_asynchronous_connection_failover_managed {
+  Channel_name  String @db.Char(64)
+  Managed_name  String @default("") @db.Char(64)
+  Managed_type  String @default("") @db.Char(64)
+  Configuration Json?
+
+  @@id([Channel_name, Managed_name])
+}
+
+model replication_group_configuration_version {
+  name    String @id @db.Char(255)
+  version BigInt @db.UnsignedBigInt
+}
+
+model replication_group_member_actions {
+  name           String  @db.Char(255)
+  event          String  @db.Char(64)
+  enabled        Boolean
+  type           String  @db.Char(64)
+  priority       Int     @db.UnsignedTinyInt
+  error_handling String  @db.Char(64)
+
+  @@id([name, event])
+  @@index([event], map: "event")
+}
+
+model report_detail {
+  id   Int    @id @default(autoincrement())
+  name String @db.VarChar(255)
+}
+
+model role_edges {
+  FROM_HOST         String                       @default("") @db.Char(255)
+  FROM_USER         String                       @default("") @db.Char(32)
+  TO_HOST           String                       @default("") @db.Char(255)
+  TO_USER           String                       @default("") @db.Char(32)
+  WITH_ADMIN_OPTION role_edges_WITH_ADMIN_OPTION @default(N)
+
+  @@id([FROM_HOST, FROM_USER, TO_HOST, TO_USER])
+}
+
+model schema_migrations {
+  version String @id @db.VarChar(255)
+}
+
+model search {
+  id         BigInt   @id @default(autoincrement())
+  keyword    String   @db.VarChar(255)
+  created_at DateTime @db.DateTime(0)
+}
+
+model search_word {
+  id         BigInt   @id @default(autoincrement())
+  word_id    BigInt
+  search_id  BigInt
+  created_at DateTime @db.DateTime(0)
+
+  @@index([search_id], map: "search_id_idx")
+  @@index([word_id, search_id], map: "word_id")
+  @@index([word_id], map: "word_id_idx")
+}
+
+model server_cost {
+  cost_name     String   @id @db.VarChar(64)
+  cost_value    Float?   @db.Float
+  last_update   DateTime @default(now()) @db.Timestamp(0)
+  comment       String?  @db.VarChar(1024)
+  default_value Float?   @db.Float
+}
+
+model servers {
+  Server_name String @id @default("") @db.Char(64)
+  Host        String @default("") @db.Char(255)
+  Db          String @default("") @db.Char(64)
+  Username    String @default("") @db.Char(64)
+  Password    String @default("") @db.Char(64)
+  Port        Int    @default(0)
+  Socket      String @default("") @db.Char(64)
+  Wrapper     String @default("") @db.Char(64)
+  Owner       String @default("") @db.Char(64)
+}
+
+model settings {
+  id                   Int     @id @default(autoincrement())
+  backend_title        String  @db.VarChar(255)
+  backend_category_az  Boolean
+  frontend_title       String  @db.VarChar(255)
+  frontend_description String  @db.VarChar(255)
+  frontend_keywords    String  @db.VarChar(255)
+}
+
+model sf_combine {
+  asset_key String @id @default("") @db.VarChar(40)
+  files     String @db.LongText
+}
+
+model shop_category {
+  id        BigInt @id @default(autoincrement())
+  shop_id   Int
+  name      String @db.VarChar(255)
+  parent_id Int
+  lvl       Int
+  rate      Int    @default(0)
+}
+
+model shop_comment {
+  id         BigInt   @id @default(autoincrement())
+  shop_id    Int
+  user_id    Int
+  parent_id  Int      @default(0)
+  level      Int?     @default(0)
+  username   String?  @db.VarChar(255)
+  content    String   @db.Text
+  ip_address String   @db.VarChar(255)
+  created_at DateTime @db.DateTime(0)
+}
+
+model slave_master_info {
+  Number_of_lines                 Int     @db.UnsignedInt
+  Master_log_name                 String  @db.Text
+  Master_log_pos                  BigInt  @db.UnsignedBigInt
+  Host                            String? @db.VarChar(255)
+  User_name                       String? @db.Text
+  User_password                   String? @db.Text
+  Port                            Int     @db.UnsignedInt
+  Connect_retry                   Int     @db.UnsignedInt
+  Enabled_ssl                     Boolean
+  Ssl_ca                          String? @db.Text
+  Ssl_capath                      String? @db.Text
+  Ssl_cert                        String? @db.Text
+  Ssl_cipher                      String? @db.Text
+  Ssl_key                         String? @db.Text
+  Ssl_verify_server_cert          Boolean
+  Heartbeat                       Float   @db.Float
+  Bind                            String? @db.Text
+  Ignored_server_ids              String? @db.Text
+  Uuid                            String? @db.Text
+  Retry_count                     BigInt  @db.UnsignedBigInt
+  Ssl_crl                         String? @db.Text
+  Ssl_crlpath                     String? @db.Text
+  Enabled_auto_position           Boolean
+  Channel_name                    String  @id @db.VarChar(64)
+  Tls_version                     String? @db.Text
+  Public_key_path                 String? @db.Text
+  Get_public_key                  Boolean
+  Network_namespace               String? @db.Text
+  Master_compression_algorithm    String  @db.VarChar(64)
+  Master_zstd_compression_level   Int     @db.UnsignedInt
+  Tls_ciphersuites                String? @db.Text
+  Source_connection_auto_failover Boolean @default(false)
+  Gtid_only                       Boolean @default(false)
+}
+
+model slave_relay_log_info {
+  Number_of_lines                              Int                                                              @db.UnsignedInt
+  Relay_log_name                               String?                                                          @db.Text
+  Relay_log_pos                                BigInt?                                                          @db.UnsignedBigInt
+  Master_log_name                              String?                                                          @db.Text
+  Master_log_pos                               BigInt?                                                          @db.UnsignedBigInt
+  Sql_delay                                    Int?
+  Number_of_workers                            Int?                                                             @db.UnsignedInt
+  Id                                           Int?                                                             @db.UnsignedInt
+  Channel_name                                 String                                                           @id @db.VarChar(64)
+  Privilege_checks_username                    String?                                                          @db.VarChar(32)
+  Privilege_checks_hostname                    String?                                                          @db.VarChar(255)
+  Require_row_format                           Boolean
+  Require_table_primary_key_check              slave_relay_log_info_Require_table_primary_key_check             @default(STREAM)
+  Assign_gtids_to_anonymous_transactions_type  slave_relay_log_info_Assign_gtids_to_anonymous_transactions_type @default(OFF)
+  Assign_gtids_to_anonymous_transactions_value String?                                                          @db.Text
+}
+
+model slave_worker_info {
+  Id                         Int    @db.UnsignedInt
+  Relay_log_name             String @db.Text
+  Relay_log_pos              BigInt @db.UnsignedBigInt
+  Master_log_name            String @db.Text
+  Master_log_pos             BigInt @db.UnsignedBigInt
+  Checkpoint_relay_log_name  String @db.Text
+  Checkpoint_relay_log_pos   BigInt @db.UnsignedBigInt
+  Checkpoint_master_log_name String @db.Text
+  Checkpoint_master_log_pos  BigInt @db.UnsignedBigInt
+  Checkpoint_seqno           Int    @db.UnsignedInt
+  Checkpoint_group_size      Int    @db.UnsignedInt
+  Checkpoint_group_bitmap    Bytes  @db.Blob
+  Channel_name               String @db.VarChar(64)
+
+  @@id([Channel_name, Id])
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
+model slow_log {
+  start_time     DateTime @default(now()) @db.Timestamp(6)
+  user_host      String   @db.MediumText
+  query_time     DateTime @db.Time(6)
+  lock_time      DateTime @db.Time(6)
+  rows_sent      Int
+  rows_examined  Int
+  db             String   @db.VarChar(512)
+  last_insert_id Int
+  insert_id      Int
+  server_id      Int      @db.UnsignedInt
+  sql_text       Bytes    @db.MediumBlob
+  thread_id      BigInt   @db.UnsignedBigInt
+
+  @@ignore
+}
+
+model state {
   id          Int      @id @default(autoincrement())
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
-  hashedToken String
-  type        String
-  // See note below about TokenType enum
-  // type        TokenType
-  expiresAt   DateTime
-  sentTo      String
-
-  user   User @relation(fields: [userId], references: [id])
-  userId Int
-
-  @@unique([hashedToken, type])
+  created_at  DateTime @db.Date
+  numb        Int
+  category_id Int      @default(0)
 }
 
-// NOTE: It's highly recommended to use an enum for the token type
-//       but enums only work in Postgres.
-//       See: https://blitzjs.com/docs/database-overview#switch-to-postgre-sql
-// enum TokenType {
-//   RESET_PASSWORD
-// }
+model tables_priv {
+  Host        String   @default("") @db.Char(255)
+  Db          String   @default("") @db.Char(64)
+  User        String   @default("") @db.Char(32)
+  Table_name  String   @default("") @db.Char(64)
+  Grantor     String   @default("") @db.VarChar(288)
+  Timestamp   DateTime @default(now()) @db.Timestamp(0)
+  Table_priv  String   @default("")
+  Column_priv String   @default("")
+
+  @@id([Host, Db, User, Table_name])
+  @@index([Grantor], map: "Grantor")
+}
+
+model throttle {
+  id              Int       @id @default(autoincrement()) @db.UnsignedInt
+  user_id         Int       @db.UnsignedInt
+  ip_address      String?   @db.VarChar(255)
+  attempts        Int       @default(0)
+  suspended       Boolean   @default(false)
+  banned          Boolean   @default(false)
+  last_attempt_at DateTime? @db.Timestamp(0)
+  suspended_at    DateTime? @db.Timestamp(0)
+  banned_at       DateTime? @db.Timestamp(0)
+
+  @@index([user_id], map: "throttle_user_id_index")
+}
+
+model time_zone {
+  Time_zone_id     Int                        @id @default(autoincrement()) @db.UnsignedInt
+  Use_leap_seconds time_zone_Use_leap_seconds @default(N)
+}
+
+model time_zone_leap_second {
+  Transition_time BigInt @id
+  Correction      Int
+}
+
+model time_zone_name {
+  Name         String @id @db.Char(64)
+  Time_zone_id Int    @db.UnsignedInt
+}
+
+model time_zone_transition {
+  Time_zone_id       Int    @db.UnsignedInt
+  Transition_time    BigInt
+  Transition_type_id Int    @db.UnsignedInt
+
+  @@id([Time_zone_id, Transition_time])
+}
+
+model time_zone_transition_type {
+  Time_zone_id       Int    @db.UnsignedInt
+  Transition_type_id Int    @db.UnsignedInt
+  Offset             Int    @default(0)
+  Is_DST             Int    @default(0) @db.UnsignedTinyInt
+  Abbreviation       String @default("") @db.Char(8)
+
+  @@id([Time_zone_id, Transition_type_id])
+}
+
+model uploads {
+  id         Int      @id @unique(map: "id") @default(autoincrement())
+  filename   String   @db.VarChar(255)
+  path       String   @db.VarChar(255)
+  size       Int
+  extension  String   @db.VarChar(200)
+  mimetype   Int
+  user_id    Int
+  parent_id  Int
+  obj_id     Int
+  obj_type   Int
+  created_at DateTime @default(now()) @db.Timestamp(0)
+  updated_at DateTime @default(dbgenerated("'0000-00-00 00:00:00'")) @db.Timestamp(0)
+}
+
+model user {
+  id    BigInt @id @default(autoincrement())
+  email String @unique(map: "email") @db.VarChar(255)
+}
+
+model user_category {
+  id          BigInt  @id @default(autoincrement())
+  user_id     BigInt
+  category_id BigInt
+  is_daily    Boolean @default(true)
+
+  @@index([category_id], map: "category_id_idx")
+  @@index([user_id], map: "user_id_idx")
+}
+
+model user_interest {
+  id         Int @id @default(autoincrement())
+  product_id Int
+  user_id    Int
+  type       Int
+}
+
+model user_keyword {
+  id       BigInt  @id @default(autoincrement())
+  user_id  BigInt
+  keyword  String  @db.VarChar(255)
+  is_daily Boolean @default(true)
+  nb_word  BigInt  @default(0)
+
+  @@index([user_id], map: "user_id_idx")
+}
+
+model user_keyword_word {
+  id         BigInt @id @default(autoincrement())
+  keyword_id BigInt
+  word_id    BigInt
+
+  @@index([keyword_id], map: "keyword_id_idx")
+  @@index([word_id], map: "word_id_idx")
+}
+
+model user_order {
+  id           Int       @id @default(autoincrement())
+  user_id      Int
+  product_id   Int
+  name         String    @db.VarChar(50)
+  phone_number String    @db.VarChar(30)
+  address      String    @db.VarChar(350)
+  status_id    Int       @default(0)
+  quantity     Int
+  other_desc   String?   @db.VarChar(250)
+  created_at   DateTime  @default(now()) @db.Timestamp(0)
+  updated_at   DateTime? @db.Timestamp(0)
+}
+
+model user_state {
+  id         Int @id @default(autoincrement())
+  user_id    Int
+  product_id Int
+
+  @@index([product_id], map: "product_id")
+  @@index([user_id], map: "user_id")
+}
+
+model users {
+  id                  Int       @id @default(autoincrement()) @db.UnsignedInt
+  email               String    @unique(map: "users_email_unique") @db.VarChar(255)
+  password            String    @db.VarChar(255)
+  image               String    @db.VarChar(255)
+  year                Int
+  gender              Int       @db.TinyInt
+  permissions         String?   @db.Text
+  activated           Boolean   @default(false)
+  activation_code     String?   @db.VarChar(255)
+  activated_at        DateTime? @db.Timestamp(0)
+  last_login          DateTime? @db.Timestamp(0)
+  persist_code        String?   @db.VarChar(255)
+  reset_password_code String?   @db.VarChar(255)
+  first_name          String?   @db.VarChar(255)
+  last_name           String?   @db.VarChar(255)
+  shop_name           String    @db.VarChar(255)
+  is_online           Int       @default(0) @db.TinyInt
+  created_at          DateTime  @default(now()) @db.Timestamp(0)
+  updated_at          DateTime? @db.Timestamp(0)
+  social_id           BigInt
+  type                Boolean
+  token               String    @db.VarChar(500)
+  token_secret        String    @db.VarChar(500)
+  last_cat_id         Int
+  is_company          Int?
+  profile_name        String?   @db.VarChar(255)
+  address             String    @db.VarChar(255)
+  phone_number        String    @db.VarChar(10)
+  booking_phone       String    @db.VarChar(10)
+  official            Int       @default(0) @db.TinyInt
+  has_order           Int       @default(0) @db.TinyInt
+  bio                 String    @db.TinyText
+
+  @@index([activation_code], map: "users_activation_code_index")
+  @@index([reset_password_code], map: "users_reset_password_code_index")
+}
+
+model users_groups {
+  user_id  Int @db.UnsignedInt
+  group_id Int @db.UnsignedInt
+
+  @@id([user_id, group_id])
+}
+
+model word {
+  id   BigInt @id @default(autoincrement())
+  name String @unique(map: "name") @db.VarChar(255)
+}
+
+enum db_Select_priv {
+  N
+  Y
+}
+
+enum db_Insert_priv {
+  N
+  Y
+}
+
+enum db_Update_priv {
+  N
+  Y
+}
+
+enum db_Delete_priv {
+  N
+  Y
+}
+
+enum db_Create_priv {
+  N
+  Y
+}
+
+enum db_Drop_priv {
+  N
+  Y
+}
+
+enum db_Grant_priv {
+  N
+  Y
+}
+
+enum db_References_priv {
+  N
+  Y
+}
+
+enum db_Index_priv {
+  N
+  Y
+}
+
+enum db_Alter_priv {
+  N
+  Y
+}
+
+enum db_Create_tmp_table_priv {
+  N
+  Y
+}
+
+enum db_Lock_tables_priv {
+  N
+  Y
+}
+
+enum db_Create_view_priv {
+  N
+  Y
+}
+
+enum db_Show_view_priv {
+  N
+  Y
+}
+
+enum db_Create_routine_priv {
+  N
+  Y
+}
+
+enum db_Alter_routine_priv {
+  N
+  Y
+}
+
+enum db_Execute_priv {
+  N
+  Y
+}
+
+enum db_Event_priv {
+  N
+  Y
+}
+
+enum db_Trigger_priv {
+  N
+  Y
+}
+
+enum func_type {
+  function
+  aggregate
+}
+
+enum global_grants_WITH_GRANT_OPTION {
+  N
+  Y
+}
+
+enum procs_priv_Routine_type {
+  FUNCTION
+  PROCEDURE
+}
+
+enum role_edges_WITH_ADMIN_OPTION {
+  N
+  Y
+}
+
+enum slave_relay_log_info_Require_table_primary_key_check {
+  STREAM
+  ON
+  OFF
+}
+
+enum slave_relay_log_info_Assign_gtids_to_anonymous_transactions_type {
+  OFF
+  LOCAL
+  UUID
+}
+
+enum time_zone_Use_leap_seconds {
+  Y
+  N
+}
