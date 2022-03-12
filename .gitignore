@@ -1,0 +1,5 @@
+# Avoid .DS_Store files.
+.DS_Store
+
+# Avoid uploading the .vscode folder (houses the JSON settings file).
+.vscode
