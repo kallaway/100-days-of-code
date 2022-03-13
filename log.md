@@ -2,11 +2,11 @@
 
 ## Day 1: Saturday, March 12, 2022
 
-**Today's Progress:**
+**Today's Progress:** Completed Day 1 of 100 Days of SwiftUI (variables, constants, strings, and numbers) and Section 1 of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp (Getting Started with iOS Development and Swift 5).
 
-**Thoughts:**
+**Thoughts:** Not bad for day 1. Having some programming experience, today's topics were more familiar to me than not. It's interesting to see the differences between languages. I particularly liked that we can use underscores for thousands in Swift, in order to read numbers clearer. I also like that Swift is a type safe language that keeps you from mixing different data types by accident.
 
-**Link to work:**
+**Link(s) to work:** n/a.
 
 <!-- ### Day 1: June 27, Monday
 
