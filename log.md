@@ -8,6 +8,14 @@
 
 **Link(s) to work:** n/a.
 
+## Day 2: Sunday, March 13, 2022
+
+**Today's Progress:** Completed Day 2 of 100 Days of SwiftUI (Booleans, string interpolation, and checkpoint 1) and began Section 2 of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp (Xcode Storyboards and Interface Builder).
+
+**Thoughts:** Today was exciting. I am so happy Dr. Yu took us on a walkthrough of Xcode. It really reminds me of using Adobe Creative Cloud, so my creative senses are jumping happily. It was fun to start designing the UI, also. Swift, was fun to learn today, also. I liked working with string interpolation. I completed my tests with 100% scores and completed the checkpoint.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
