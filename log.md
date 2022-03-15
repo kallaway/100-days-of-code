@@ -24,6 +24,14 @@
 
 **Link(s) to work:** n/a.
 
+## Day 4: Tuesday, March 15, 2022
+
+**Today's Progress:** Completed Day 4 of 100 Days of SwiftUI (type annotations and checkpoint 2) and after finishing a challenge, worked into section 4 (Swift Programming Basics - Collections, Constants & Variables) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** Today, was a good day. I understand the Swift lesson. It seems to have clicked pretty well. I love how he reiterates that you have to relearn things sometimes and that's how you learn. I completed the challenge pretty easily once I updated Xcode. And again, the design aspects are pretty fun.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
