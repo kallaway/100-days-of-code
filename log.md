@@ -16,6 +16,14 @@
 
 **Link(s) to work:** n/a.
 
+## Day 3: Monday, March 14, 2022
+
+**Today's Progress:** Completed Day 3 of 100 Days of SwiftUI (Arrays, dictionaries, sets, and enums) and finished up Section 2 (Xcode Storyboards and Interface Builder) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** Today, I got confused and received a 9/12 score on the dictionary default values test. But, I know where I got turned around and understand it now. I scored 100: on all of the others. Todays lesson reminded me of the switch statement, arrays, objects and sets in JS. The similarities are certainly helpful. I also learned how to manipulate images in Xcode and run an app on the Simulator and iPhone.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
