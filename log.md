@@ -28,7 +28,16 @@
 
 **Today's Progress:** Completed Day 4 of 100 Days of SwiftUI (type annotations and checkpoint 2) and after finishing a challenge, worked into section 4 (Swift Programming Basics - Collections, Constants & Variables) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
 
-**Thoughts:** Today, was a good day. I understand the Swift lesson. It seems to have clicked pretty well. I love how he reiterates that you have to relearn things sometimes and that's how you learn. I completed the challenge pretty easily once I updated Xcode. And again, the design aspects are pretty fun.
+**Thoughts:** Today, was a good day. I understood the Swift lesson. It seemed to click pretty well. I love how Paul reiterates that you have to relearn things sometimes and that's how you learn. I completed the challenge pretty easily once I updated Xcode. And again, the design lessons in Udemy were pretty fun.
+
+**Link(s) to work:** n/a.
+
+## Day 5: Wednesday, March 16, 2022
+
+**Today's Progress:** Completed Day 5 of 100 Days of SwiftUI (if, switch, and the ternary operator)
+and continued on with section 4 (Swift Programming Basics - Collections, Constants & Variables) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** 100 Days of SwiftUI is really testing my attention to detail. I've had positions in the past where I've had to be meticulous (I pride myself on it). So, I'm being extra careful to try not to get fooled while quickly going through the tests. I enjoyed Udemy's lesson, as per the usual. I had fun learning how to programmatically change my app's UI. I'm still on schedule per my study plan, so that's exciting. It's not always easy to predict the time needed for these lessons. Plus, I code along and sometimes take notes. Therefore, I almost always take longer than the stated time to finish a video
 
 **Link(s) to work:** n/a.
 
