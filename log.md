@@ -41,6 +41,15 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 6: Thursday, March 17, 2022
+
+**Today's Progress:** Completed Day 6 of 100 Days of SwiftUI (loops, summary, and checkpoint 3)
+and continued on with section 4 (Swift Programming Basics - Collections, Constants & Variables) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** In the checkpoint for 100 Days of SwiftUI, Paul mentioned that the challenge had been used in interviews. I hope I can figure out interview questions the way I was able to work this problem out. I enjoyed this lesson. Although, the while loops test felt like it tricked me more times than I would like. I plan to go through it again tomorrow. The tests are great. The way they're set up, I feel like I'm debugging. The Udemy course also had challenges that were used in interviews. I appreciate these exercises a lot.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
