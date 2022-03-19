@@ -24,3 +24,8 @@ Started using flexbox on flexbox froggy and flexbox zombies
 Landed a networking event with Padraig o'brien, who offered free mentorship and guidance every week or so for 30mins.
 ### R1D10
 Started using codewars to help advance my knowledge in javascript and algorithm solving.
+### R1D11
+Practice daily code wars javascript fundamentals. Read eloquent javascript chapter 3. Learned how to make a tree hashtag, and chess board with hastags through functions.
+Also practice char count for certain characters eg.charCount('BBBoat','B') would give 3
+### R1D12
+Did my daily code wars for javascript and now onto chapter 4 of eloquent javascript Data Structures: Objects and Arrays.
