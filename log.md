@@ -50,6 +50,14 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 7: Friday, March 18, 2022
+
+**Today's Progress:** Completed Day 7 of 100 Days of SwiftUI (functions, parameters, and return values).
+
+**Thoughts:** Life attempted to interrupt me today. It distracted me long enough to have to skip my Udemy lesson plan for tonight. However, I did complete and mostly understand the SwiftUI lesson for today. I only have a question on 1-2 things after taking the tests, so that's good. I wish it was full understanding, but I'll get there. I thought about joining a BootCamp today, mostly for the companionship and mentorship. But, it's not in the budget. I also thought a lot about the fact that I'm moving my focus from Web Development to iOS Development and which would be best for my career. So many huge decisions. I'm sure many of us are contemplating the same questions. Stressing over needing a job in the meantime is quite distracting, too.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
