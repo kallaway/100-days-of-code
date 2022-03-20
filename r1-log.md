@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Ronald Li]
 
 The log of my #100DaysOfCode challenge. Started on [Feb28, Monday, 2022].
 
