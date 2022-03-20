@@ -58,6 +58,14 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 8: Friday, March 19, 2022
+
+**Today's Progress:** Finished section 4 (Swift Programming Basics - Collections, Constants & Variables) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course and the videos for Day 8 of 100 Days of SwiftUI (default values, throwing functions, and checkpoint 4).
+
+**Thoughts:** Udemy's course was a nice review to the things I've been learning in 100 Days of SwiftUI. I did need help for the challenge and still plan to read the documentation to be sure why one format is used in one situation and not another. But once I read the documentation, I should be fine. I let it get pretty late, so that's the only reason I'm not reading it right now.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
