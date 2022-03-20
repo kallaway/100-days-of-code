@@ -29,3 +29,5 @@ Practice daily code wars javascript fundamentals. Read eloquent javascript chapt
 Also practice char count for certain characters eg.charCount('BBBoat','B') would give 3
 ### R1D12
 Did my daily code wars for javascript and now onto chapter 4 of eloquent javascript Data Structures: Objects and Arrays.
+### R1D13
+Daily code wars with rock scissor paper function. Learned to do p1===p2 return draw. Also attended 100devs sunday office hours. 
