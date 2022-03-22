@@ -31,3 +31,7 @@ Also practice char count for certain characters eg.charCount('BBBoat','B') would
 Did my daily code wars for javascript and now onto chapter 4 of eloquent javascript Data Structures: Objects and Arrays.
 ### R1D13
 Daily code wars with rock scissor paper function. Learned to do p1===p2 return draw. Also attended 100devs sunday office hours. Going to read arrays and learn more about objects.
+### R1D14
+Read through chapter 4 of eloquent javascript, also read https://javascript.info/array-methods and coded their practice challenges. Did my daily codewars.
+### R1D15
+Gone through 100devs live stream. Did my daily codewars wher ei had to find the average sum of all the arrays. And learned new methods for javascript including sort(),reverse(), splice(), and slice()
