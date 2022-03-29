@@ -43,9 +43,9 @@ Went through day 4 of the 30 days of javascript. Practice array materials!
 Did daily coding challenge and reading from objects
 ### R1D19
 Daily coding challenge while finishing up day 4 of javascript Array methods. Learned sort() reduce() filter() and forEach(). 
-### R1D10
+### R1D20
 Went through office hours with leon and practice more objects! Learned a solution for palindrome where you split('').reverse().join() to check
-### R1D11
+### R1D21
 Watched video on github tutorial. Learned the commands for git such as git push git add git . git pull and git commit
-### R1D12
+### R1D22
 Daily codewars challenge and watch a video about object-oriented programming
