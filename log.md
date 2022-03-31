@@ -43,8 +43,7 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 ## Day 6: Thursday, March 17, 2022
 
-**Today's Progress:** Completed Day 6 of 100 Days of SwiftUI (loops, summary, and checkpoint 3)
-and continued on with section 4 (Swift Programming Basics - Collections, Constants & Variables) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+**Today's Progress:** Completed Day 6 of 100 Days of SwiftUI (loops, summary, and checkpoint 3) and continued on with section 4 (Swift Programming Basics - Collections, Constants & Variables) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
 
 **Thoughts:** In the checkpoint for 100 Days of SwiftUI, Paul mentioned that the challenge had been used in interviews. I hope I can figure out interview questions the way I was able to work this problem out. I enjoyed this lesson. Although, the while loops test felt like it tricked me more times than I would like. I plan to go through it again tomorrow. The tests are great. The way they're set up, I feel like I'm debugging. The Udemy course also had challenges that were used in interviews. I appreciate these exercises a lot.
 
@@ -58,11 +57,51 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
-## Day 8: Friday, March 19, 2022
+## Day 9: Saturday, March 19, 2022
 
 **Today's Progress:** Finished section 4 (Swift Programming Basics - Collections, Constants & Variables) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course and the videos for Day 8 of 100 Days of SwiftUI (default values, throwing functions, and checkpoint 4).
 
 **Thoughts:** Udemy's course was a nice review to the things I've been learning in 100 Days of SwiftUI. I did need help for the challenge and still plan to read the documentation to be sure why one format is used in one situation and not another. But once I read the documentation, I should be fine. I let it get pretty late, so that's the only reason I'm not reading it right now.
+
+**Link(s) to work:** n/a.
+
+## Day 10: Friday, March 25, 2022
+
+**Today's Progress:** I worked on checkpoint 4 for Day 8 of 100 Days of SwiftUI (default values, throwing functions, and checkpoint 4).
+
+**Thoughts:** I took a few days off. I was feeling burnt out and maybe should've taken a break in between my JavaScript studies and starting Swift. Additionally, I revamped my learning plan. I have decided to continue with the Udemy course and hold off on the 100 Days of SwiftUI tutorials for the time being. I think it may be more conducive to my learning style. I also included makeup and rest days into the plan. Although I'm doing the 100 Days of Code challenge, I believe it's healthy and gives your brain time to work with the information you've recently learned.
+
+**Link(s) to work:** n/a.
+
+## Day 11: Sunday, March 27, 2022
+
+**Today's Progress:** Finished section 5 (Swift Programming Basics Challenge) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I enjoyed building the 8 Ball Challenge. Completing this challenge on my own was fun and helped build my confidence.
+
+**Link(s) to work:** n/a.
+
+## Day 12: Monday, March 28, 2022
+
+**Today's Progress:** Started section 6 (Auto Layout and Responsive UIs) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** Today's modules were fun yet again. I'm going to enjoy them as much as I can. I know they will grow more and more difficult. I hope to enjoy the process the whole time. I learned about alignment & pinning, setting constraints and working with containers. I plan to review these tomorrow, because they're so important and I want to make sure I understand each of them.
+
+**Link(s) to work:** n/a.
+
+## Day 13: Tuesday, March 29, 2022
+
+**Today's Progress:** Continued working in section 6 (Auto Layout and Responsive UIs) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I'm learning that when I have a hard time figuring out a problem it sometimes helps to sleep on it. Today, I worked on a new challenge, the Calculator/Auto Layout Boss Challenge, and I got really close to finishing at the end of the night. I literally had one line left to fix, but couldn't think of the trick to get itd right. I was proud of my progress, anyway, and called it a night.
+
+**Link(s) to work:** n/a.
+
+## Day 14: Wednesday, March 30, 2022
+
+**Today's Progress:** Completed section 6 (Auto Layout and Responsive UIs) and began section 7 (Using and Understanding Apple Documentation) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course. I'm now caught up on my new learning plan.
+
+**Thoughts:** I am so happy that she went through Stack Overflow the way she did. Who knew that I even needed that type of explanation. Angela is so patient and gives great tips. I'm really enjoying this course. We started with functions and I'm looking forward to how she teaches the more deeper concepts of them.
 
 **Link(s) to work:** n/a.
 
