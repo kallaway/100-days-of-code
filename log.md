@@ -105,6 +105,14 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 15: Thursday, March 31, 2022
+
+**Today's Progress:** Completed section 7 (Using and Understanding Apple Documentation) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I appreciate all of the challenges that are built into this course. It really helps to reinforce what I've just learned. I'm proud of myself for what I've learned and where I am in my understanding. I am implementing Angela's 5 step approach to problem solving programming problems and although reading the docs is a still a tad bit fuzzy, I know I'll get better at it. I will also get better at treating challenges more like a game or puzzle that needs to be solved. I ended up utilizing the Q&A for one part of the coding exercise. Strangely, I felt duped after seeing the solution. I'll get there-I'm pressing forward.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
