@@ -1,0 +1,9 @@
+* 100 Days Of Code - Log
+* Day 0 
+- *Today's Progress*: My daughter beging to code with me. I beging with Bash, I knew bash, but not in deep. So the idea is to profundizate on it.
+
+- *Thoughts*: I lost too many time waiting CodeAlly work well.
+
+- *Link(s) to work*:
+
+  1. [[https://www.freecodecamp.org/learn/relational-database/][Relational Database]]
