@@ -1,8 +1,18 @@
 * 100 Days Of Code - Log
-* Day 0 
+** Day 0 <2022-04-17 dom>
 - *Today's Progress*: My daughter beging to code with me. I beging with Bash, I knew bash, but not in deep. So the idea is to profundizate on it.
 
 - *Thoughts*: I lost too many time waiting CodeAlly work well.
+
+- *Link(s) to work*:
+
+  1. [[https://www.freecodecamp.org/learn/relational-database/][Relational Database]]
+
+
+** Day 1 <2022-04-18 lun>
+- *Today's Progress*: Day 1 of #100DaysOfCode  with #daughterof13 both tired, she was in the school all day and I was working and running. But, after dinner. TIme to code. She continues with codecombat plus something of git. I Continue with bash. I need to parse some scripts from bash to fish
+
+- *Thoughts*: What a lost of time, to me, the boash course, I was thinking that I have to do ti for the certification... but no, It was not necesary
 
 - *Link(s) to work*:
 
