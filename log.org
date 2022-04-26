@@ -24,4 +24,37 @@
 - *Thoughts*: It's easy and acn become really complex SQL
 - *Link(s) to work*:
 
+  1. [[sql/universe.sql]]
+
+** Day 5 <2022-04-22 vie>
+- *Today's Progress*: Day 5 of #100DaysOfCode  with #daughterof13. She advance to level 20 of first stage of code combat. Meanwhile. I continue with SQL
+
+- *Thoughts*: It's easy and acn become really complex SQL
+- *Link(s) to work*:
+
   1. [[https://www.freecodecamp.org/learn/relational-database/][Relational Database]]
+
+** Day 6 <2022-04-23 sáb>
+- *Today's Progress*: Day 6 of #100DaysOfCode  with #daughterof13. Today I move to fish shell programming. Moving forwar to finish of parse environment scripts from bash to fish.
+
+- *Thoughts*:Days 5 to 6 of #100DaysOfCode Some things in programing are foundational. SQL are one of these things. Like a martial arts or combat training. You always have to try to master the basic moves. And master it consist in practice always a little bit further things that you think to know. So, like a kata or the punching bag, I will continue more days with SQL. The goal will be posted shortly... or not
+
+- *Link(s) to work*:
+
+  1. [[https://www.freecodecamp.org/learn/relational-database/][Relational Database]]
+** Day 7 <2022-04-24 dom>
+- *Today's Progress*: Day 7 of #100DaysOfCode with #daughterof13. SQL trainig... I little bit more.
+
+- *Thoughts*:
+
+** Day 8 <2022-04-25 lun>
+- *Today's Progress*: Day 8 of #100DaysOfCode  with #daughterof13. Materialized View training and my daughter still with codecombat
+
+- *Thoughts*: I want to move to a little more challenging thing
+
+** Day 9 <2022-04-24 dom>
+- *Today's Progress*:  More than a progress a step back, To solve one challenge of @freeCodeCamp  I need more bash knowledge... so more Bash will be...
+
+- *Thoughts*: That is something that I always avoided. I will use the time to strength my weakness as developer
+- *Link to work*:
+  - https://www.freecodecamp.org/learn/relational-database/#learn-sql-by-building-a-student-database-part-2]]
