@@ -1,3 +1,5 @@
 * Bash code
 - Existe la variable defauly =IFS= en bash. =IFS= son als siglas de "Internal Field Separator", para verlo declarar =-p IFS=. Se usa para determinar los límites de las palabras y las nuevas líneas. Así IFS="," setea el límite de palabras en la coma
 - testear si una variable existe =[[ -z $MAJOR_ID ]]=
+- comentar lo que voy a hacer
+- crear un archivo de test para probar
