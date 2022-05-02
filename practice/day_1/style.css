@@ -1,0 +1,145 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.infinite-loop {
+    width: 70px;
+    height: 70px;
+    border: 4px solid;
+    border-radius: 50%;
+    border-color: rgb(23, 23, 255) gray gray;
+    
+    /*animation part*/
+    /* full format */
+    animation-name: rotates;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+
+    /* shorthand format */
+    /* animation: rotates 2s infinite linear 0s forwards running; */
+}
+
+@keyframes rotates {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+
+.horizontal-slide {
+    width: 70px;
+    height: 70px;
+    border: 4px solid;
+    border-radius: 50%;
+    border-color: rgb(23, 23, 255) gray gray;
+    
+    /*animation part*/
+    /* full format */
+    animation-name: horizontal-slide;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-fill-mode: alternate;
+    animation-play-state: running;
+
+    /* shorthand format */
+    /* animation: rotates 2s infinite linear 0s forwards running; */
+}
+
+@keyframes horizontal-slide {
+    0% {
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateX(2em);
+    }
+    50% {
+        transform: translateX(0);
+    }
+    75% {
+        transform:  translateX(-2em);
+    }
+    100% {
+        transform:  translateX(0);
+    }
+}
+
+.vertical-slide {
+    width: 70px;
+    height: 70px;
+    border: 4px solid;
+    border-radius: 50%;
+    border-color: rgb(23, 23, 255) gray gray;
+    
+    /*animation part*/
+    /* full format */
+    animation-name: vertical-slide;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+
+    /* shorthand format */
+    /* animation: rotates 2s infinite linear 0s forwards running; */
+}
+@keyframes vertical-slide {
+    0% {
+        transform: translateY(0);
+    }
+    25% {
+        transform: translateY(2em);
+    }
+    50% {
+        transform: translateY(0);
+    }
+    75% {
+        transform:  translateY(-2em);
+    }
+    100% {
+        transform:  translateY(0);
+    }
+}
+
+.bg-clr-chng {
+    width: 200px;
+    height: 70%;
+    border: 4px solid;
+    border-radius: 10%;
+    border-color: rgb(23, 23, 255) gray gray;
+    
+    /*animation part*/
+    /* full format */
+    animation-name: bg-clr-chng;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-direction: alternate;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+
+    /* shorthand format */
+    /* animation: rotates 2s infinite linear 0s forwards running; */
+}
+
+@keyframes bg-clr-chng {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform:  scale(1.1);
+    }
+}
