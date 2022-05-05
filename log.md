@@ -21,3 +21,13 @@
 **Link(s) to work**
 
 1. [Nightfox Theme](https://github.com/keifererikson/vscode-nightfox)
+
+## Day 3: May 5, Thursday
+
+**Today's Progress**: Today I decided to work on some Exercism exercises.
+
+**Thoughts**: I completed the "High Score Board" exercise. I need more practice working with objects so this was a great way to start working with them more.
+
+**Link(s) to work**
+
+1. [My Exercism Solution](https://exercism.org/tracks/javascript/exercises/high-score-board/solutions/keifererikson)
