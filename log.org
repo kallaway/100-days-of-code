@@ -57,4 +57,19 @@
 
 - *Thoughts*: That is something that I always avoided. I will use the time to strength my weakness as developer
 - *Link to work*:
-  - https://www.freecodecamp.org/learn/relational-database/#learn-sql-by-building-a-student-database-part-2]]
+  - https://www.freecodecamp.org/learn/relational-database/#learn-sql-by-building-a-student-database-part-2
+** Day 24 <2022-05-09 lun>
+- *Today's Progress*: A lot of things are happen since my las log. I keep training SQL + Bash and began to add reading of Architecture and excercises of Algorithm with python. Codewars for excercises Architecure With python for reading. Now I go for my first MVP, an endpoint for a an app to track blood pression. The roadmap:
+  - Define functionality, maybe write a user history? I don't know yet.
+  - Make some test to catch the domain
+  - write basic models
+  - write test for next stage
+  - practice Repository pattern and inversion of dependencies (SQLAlchemy as ORM)
+  - write text for Next Stage
+  - Make the endpoint in flask
+
+- *Thoughts*: I need log more often
+
+- *Link to work*
+
+  - https://github.com/alvarmaciel/100-days-of-code/tree/master/python/sqlalchemy/productos
