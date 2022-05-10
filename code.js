@@ -7,4 +7,3 @@ alert("Hello World!!");
 
 //print something in the console
 console.log('Welcome to JS!');
-
