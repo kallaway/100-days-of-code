@@ -35,10 +35,13 @@ I Twitted today that I'm going to build a nice directory on my GitHub public pag
 **Today's Progress**
 I wanted to do something a bit fun so I followed the Learn JavaScript by Building 7 Games on FreeCodeCamp's YouTube channel by Ania Kubow and I followed the Rock paper Scissors game as my challenge for the day. I plan on following one of her 7 day games after each day of Bootcamp to mix it up a bit.
 
+**Link to this tutorial:**
+https://www.youtube.com/watch?v=ec8vSKJuZTk
+
 **Thoughts:**
 I had fun doing this. I made some mods to the code to try to optimize it a bit but only using the knowledge I have learnt thus far without Googling anything. 
 
 I Twitted today my progress with a screenshot of the work and pushed my changes to GitHub.
 
-**Perm Link to work:** [Simple Page](https://github.com/MOZPIT/100-days-of-code/blob/Day_1/JSCodeLog/Day%201/index.html)
-**Live Link to work:** [Current Day](https://mozpit.github.io/100-days-of-code/)
+**Perm Link to work:** [Rock Paper Scissors Game](https://github.com/MOZPIT/100-days-of-code/blob/Day_1/JSCodeLog/Day%201/index.html)
+**Live Link to work:** [Rock Paper Scissors Game](https://mozpit.github.io/100-days-of-code/)
