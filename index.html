@@ -19,11 +19,11 @@
         <h2>Computer Choice: <span id="computer-choice"></span></h2>
         <h2>Your Choice: <span id="user-choice"></span></h2>
         <h2>Result: <span id="result"></span></h2>
-    
+
         <button id="rock">Rock</button>
         <button id="paper">Paper</button>
         <button id="scissors">Scissors</button>
-    
+
         <p><strong>JS Code:</strong></p>
          <pre>
             <code>
@@ -44,7 +44,7 @@
                 }))
 
                 function generateComputerChoice(){
-                    const randomNumber = Math.floor(Math.random() * possibleChoices.length) + 1  
+                    const randomNumber = Math.floor(Math.random() * possibleChoices.length) + 1
 
                     if(randomNumber === 1){
                         computerChoice = 'rock'
@@ -70,13 +70,13 @@
 
                     if(computerChoice === 'paper' && userChoice === "scissors"){
                         result = "Scissors cut paper. You Won!!"
-                    }else if(computerChoice === 'paper' && userChoice === "rock"){ 
+                    }else if(computerChoice === 'paper' && userChoice === "rock"){
                         result = "Paper covers rock. You lost :-("
                     }
 
-                    if(computerChoice === 'scissors' && userChoice === "rock"){ 
+                    if(computerChoice === 'scissors' && userChoice === "rock"){
                         result = "Rock beats scissors. You Won!!"
-                    }else if(computerChoice === 'scissors' && userChoice === "paper"){ 
+                    }else if(computerChoice === 'scissors' && userChoice === "paper"){
                         result = "Scissors cut paper. You lost!!"
                     }
 
@@ -84,7 +84,7 @@
                 }
           </code>
          </pre>
-    
+         <!-- Insert js code here -->
          <script src="app.js" charset="utf-8"></script>
     </body>
 </html>

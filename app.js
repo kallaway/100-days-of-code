@@ -15,8 +15,8 @@ possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click
 }))
 
 function generateComputerChoice(){
-    const randomNumber = Math.floor(Math.random() * possibleChoices.length) + 1  
-    
+    const randomNumber = Math.floor(Math.random() * possibleChoices.length) + 1
+
     if(randomNumber === 1){
         computerChoice = 'rock'
     }else if(randomNumber === 2){
@@ -25,7 +25,7 @@ function generateComputerChoice(){
         computerChoice = 'paper'
     }
     computerChoiceDisplay.innerHTML = computerChoice
-    
+
     console.log(userChoice + ' ' + randomNumber)
 }
 
@@ -38,20 +38,18 @@ function getResult() {
     }else if(computerChoice === 'rock' && userChoice === "scissors"){
         result = "Rock beats scissors. You lost :-("
     }
-    
+
     if(computerChoice === 'paper' && userChoice === "scissors"){
         result = "Scissors cut paper. You Won!!"
-    }else if(computerChoice === 'paper' && userChoice === "rock"){ 
+    }else if(computerChoice === 'paper' && userChoice === "rock"){
         result = "Paper covers rock. You lost :-("
     }
-    
-    if(computerChoice === 'scissors' && userChoice === "rock"){ 
+
+    if(computerChoice === 'scissors' && userChoice === "rock"){
         result = "Rock beats scissors. You Won!!"
-    }else if(computerChoice === 'scissors' && userChoice === "paper"){ 
+    }else if(computerChoice === 'scissors' && userChoice === "paper"){
         result = "Scissors cut paper. You lost!!"
     }
-    
+
     resultDisplay.innerHTML = result
 }
-
-
