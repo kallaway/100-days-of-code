@@ -1,13 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1 of  #100DaysOfCode : May 24, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+Practiced some CLI node.js programs 
+1. Pyramid of stars
+**Link to work:** https://replit.com/@RituPowar/PyramidofStars#index.js?embed=1&output=1
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+2. Leap Year
+**Link to work:** https://replit.com/@RituPowar/CLI-Leap-Year#index.js?embed=1&output=1
 
-**Link to work:** [Calculator App](http://www.example.com)
+3. Is your birthday prime number
+**Link to work:** https://replit.com/@RituPowar/CLIappBirthdayPrimeNumber#index.js?embed=1&output=1
+
+**Thoughts:** I felt good.
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
