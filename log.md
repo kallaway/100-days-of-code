@@ -8,14 +8,14 @@
 
 **Link to work:** [comics-browser](https://campercat.github.io/comics-browser/)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: June 13, 2022
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today I started the Scientific Computing with Python course on freecodecamp and finished chapter 1.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I always wanted to dive deeper into python and I want to use this course to start that journey. Excited to start the course. The instructor charles severance seems like a good teacher, easy to understand.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [chapter 1](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-elements-of-python)
 
 
 ### Day 1: June 27, Monday
