@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: June 30, 2022
-##### (delete me or comment me out)
 
 **Today's Progress**: Learn the use of git and vim
 
