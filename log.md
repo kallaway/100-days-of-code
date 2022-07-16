@@ -98,3 +98,18 @@ I've added a github action to deploy it, and fixed some onboarding issues.
 **Link(s) to work**: [Absence Calendar](https://budavariam.github.io/absence-calendar/)
 
 ![Left side has a calendar in a monthly view with a week long event for Jane Doe. The right side has a member filter, 2 names, John Doe (unselected), and Jane Doe. There's a JSON input box in the bottom for the event data.](assets/day-8.jpg)
+
+## Day 9: 2022-07-16
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1548334043460018178)
+
+**Today's Progress**: `#100DaysOfCode` Day 9 
+
+Today I've started to log my progress properly on github as well.
+In order to avoid having to manually duplicate the text I write here, I've created a small python script to get these entries via TwitterAPI
+
+`#100Devs`
+
+**Thoughts**: It was a fun experience, I have some ideas where to go next with this. It took more than I expected, I'm glad I switched to python early on.
+
+**Link(s) to work**: [100-days-of-code/main.py at master · budavariam/100-days-of-code](https://github.com/budavariam/100-days-of-code/blob/master/utils/twitter/main.py)
