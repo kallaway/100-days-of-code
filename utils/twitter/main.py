@@ -98,7 +98,6 @@ def update_log(tweet_id, daynum, created_date,txt,web_attachment,image_attachmen
 **Today's Progress**: {txt}
 
 **Thoughts**: 
-
 """
     if not web_attachment is None:
      daylog += f"""
