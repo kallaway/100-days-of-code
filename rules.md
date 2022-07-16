@@ -2,11 +2,14 @@
 
 ## Main Commitment
 
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will code for at least an hour every day for the next 100 days, though I might skip it on holidays and weekends.*
+
+My day-to-day job involves coding, so I might not code separately for this challenge every day.
+On those days I might not have anything to share over here.
 
 #### Start Date
 
-June 25th, 2016. [PUT YOUR DATE HERE]
+July 2nd, 2022.
 
 ## Additional Rules
 
