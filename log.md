@@ -7,7 +7,7 @@
 **Today's Progress**: I'll try to move my english hardcore softwaredev tweets and retweets to my alt account
 `@BudavariMatyas`, let's see how it goes 🤞
 
-**Thoughts**:
+**Thoughts**: I can consider this as the beginning, since this is the marker when I started to split my dev and personal accounts on twitter, even though I did not mark it explicitly.
 
 ## Day 2: 2022-07-02
 
@@ -15,7 +15,7 @@
 
 **Today's Progress**: I've made my header with `#p5js` 👀
 
-**Thoughts**:
+**Thoughts**: What I like the most in this is that it supports dark mode and stops the animation for those who prefer reduced motion.
 
 **Link(s) to work**: [p5.js Web Editor](https://editor.p5js.org/budavariam/full/0k6O1bWdc)
 
@@ -25,7 +25,7 @@
 
 **Today's Progress**: I missed the last battle, but it's still nice to practice CSS with `@css_battle`
 
-**Thoughts**:
+**Thoughts**: I love to think about css alignment, css battles are coming.
 
 **Link(s) to work**: [Curtain - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/19-spacing/109-curtain)
 
@@ -39,7 +39,7 @@
 
 `#cssbattle` `#100DaysOfCode`
 
-**Thoughts**:
+**Thoughts**: I thought 3D would ake it easy for me, I spent too long that I'd feel safe to admit to align it perfecctly. The diff helps a LOT.
 
 **Link(s) to work**: [Black Light - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/19-spacing/113-black-light)
 
@@ -54,7 +54,7 @@ I wanted to visualise custom multi-day events in a calendar for a while, let's s
 is pretty easy to use, it can be embedded in a few lines of code.
 I'll have many ideas how to fine tune it...
 
-**Thoughts**:
+**Thoughts**: It was just a proof of concept, but I have high hopes in this one.
 
 **Link(s) to work**: [FullCalendar - JavaScript Event Calendar](https://fullcalendar.io/)
 
@@ -70,7 +70,7 @@ I made a script to get size of folders per date from an s3 bucket using `#s3curl
 
 I had around 1 hour time limit for learning and coding. Besides a nasty typo in "marker" based pagination, everything worked on the first try 🎉
 
-**Thoughts**:
+**Thoughts**: It was an amazing exercise, if I'll need to use it again I pimp it up to a shareable form.
 
 ## Day 7: 2022-07-14
 
@@ -80,7 +80,7 @@ I had around 1 hour time limit for learning and coding. Besides a nasty typo in 
 
 Practice CSS rotation and its quirks at `#cssbattle`
 
-**Thoughts**:
+**Thoughts**: Some browsers handle the border with rotation pretty badly even if I tell that I'll transform it. At least the css battle server accepted it.
 
 **Link(s) to work**: [Tesseract - Mátyás Budavári](https://budavariam.github.io/css-battle-showcase/battles/1-pilot/9-tesseract)
 
@@ -93,7 +93,7 @@ Practice CSS rotation and its quirks at `#cssbattle`
 Today I got an hour to polish my calendar viewer that I wrote about a few days ago. It still has a long way to go but now it's usable enough for my needs.
 I've added a github action to deploy it, and fixed some onboarding issues.
 
-**Thoughts**:
+**Thoughts**: I needed to revisit date handling, but now it has a proper onboarrding experrience for newcomers. Mobile view is still a mess.
 
 **Link(s) to work**: [Absence Calendar](https://budavariam.github.io/absence-calendar/)
 
