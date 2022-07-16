@@ -4,6 +4,7 @@ import logging
 import re
 import os
 from dotenv import load_dotenv
+import progress
 
 load_dotenv() # take environment variables from .env.
 BEARER_TOKEN = os.getenv("BEARER_TOKEN")
@@ -12,16 +13,7 @@ ADD_THOUGHTS = True
 logging.basicConfig(level = logging.INFO)
 logger = logging.getLogger()
 
-IDS = [
-    (1,1543250339385823232), # 1 none
-    (2,1543252557954514944), # 2 none
-    (3,1544366260342890497), # 3 web
-    (4,1544758709561303041), # 4 web
-    (5,1545117522613207043), # 5 img
-    (6,1545446006136897536), # 6 no attachment
-    (7,1547713647815733250), # 7 web
-    (8,1547993617137954822), # 8 web, img
-]
+IDS = progress.IDS
 
 def get_tweet(id):
     url=f"https://api.twitter.com/2/tweets/{id}?tweet.fields=attachments,created_at,entities,source,text&expansions=attachments.media_keys&media.fields=alt_text,media_key,type,url,variants&user.fields=created_at,id,name,url,username"

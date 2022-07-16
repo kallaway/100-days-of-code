@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Get tweets",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceRoot}/utils/twitter/main.py",
+            "console": "integratedTerminal",
+            "python":"${workspaceRoot}/utils/twitter/venv/bin/python",
+            "cwd": "${workspaceRoot}/utils/twitter/",
+            "justMyCode": true
+        }
+    ]
+}

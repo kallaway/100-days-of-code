@@ -1,4 +1,6 @@
 .env
 venv
 
-*.json
+tmp/
+*.pyc
+__pycache__
