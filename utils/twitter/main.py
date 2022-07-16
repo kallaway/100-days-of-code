@@ -7,11 +7,13 @@ from dotenv import load_dotenv
 
 load_dotenv() # take environment variables from .env.
 BEARER_TOKEN = os.getenv("BEARER_TOKEN")
+ADD_THOUGHTS = True
 
 logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
+logging.getLogger().setLevel(logging.INFO)
 
 IDS = [
+    (1,1543250339385823232), # 1 none
     (2,1543252557954514944), # 2 none
     (3,1544366260342890497), # 3 web
     (4,1544758709561303041), # 4 web
@@ -92,6 +94,7 @@ def update_last_line(num):
 def update_log(tweet_id, daynum, created_date,txt,web_attachment,image_attachment):
     formatted_date = created_date.split("T")[0]
     formatted_text = re.sub('https://t.co/\w+\s*', '', txt) # remove twitter attachment links
+    formatted_text = formatted_text.strip()
     daylog = f"""
 ## Day {daynum}: {formatted_date}
 
@@ -99,7 +102,10 @@ def update_log(tweet_id, daynum, created_date,txt,web_attachment,image_attachmen
 
 **Today's Progress**: {formatted_text}
 
-**Thoughts**: 
+"""
+    if ADD_THOUGHTS:
+        daylog += """
+**Thoughts**:
 """
     if not web_attachment is None:
      daylog += f"""
@@ -117,7 +123,7 @@ def main():
     last_day = get_last_visited_day()
     logger.info("Last visited day is: %d", last_day)
     for [daynum, id] in IDS:
-        if daynum < last_day:
+        if daynum <= last_day:
             continue
         logger.info("Getting info for day: %d (id: %s)", daynum, id)
         tweet = get_tweet(id)
