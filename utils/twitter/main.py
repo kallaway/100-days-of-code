@@ -9,8 +9,8 @@ load_dotenv() # take environment variables from .env.
 BEARER_TOKEN = os.getenv("BEARER_TOKEN")
 ADD_THOUGHTS = True
 
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
+logging.basicConfig(level = logging.INFO)
+logger = logging.getLogger()
 
 IDS = [
     (1,1543250339385823232), # 1 none
@@ -93,8 +93,9 @@ def update_last_line(num):
 
 def update_log(tweet_id, daynum, created_date,txt,web_attachment,image_attachment):
     formatted_date = created_date.split("T")[0]
-    formatted_text = re.sub('https://t.co/\w+\s*', '', txt) # remove twitter attachment links
-    formatted_text = re.sub(r'([#@]\w+)', r'`\1`', txt) # wrap hashtags and mentions in blocks
+    formatted_text = txt
+    formatted_text = re.sub('https://t.co/\w+\s*', '', formatted_text) # remove twitter attachment links
+    formatted_text = re.sub(r'([#@]\w+)', r'`\1`', formatted_text) # wrap hashtags and mentions in blocks
     formatted_text = formatted_text.strip()
     daylog = f"""
 ## Day {daynum}: {formatted_date}
