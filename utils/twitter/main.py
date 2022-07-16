@@ -126,8 +126,5 @@ def main():
         update_log(id, daynum, created_date,txt,web_attachment,image_attachment)
         update_last_line(daynum)
 
-        return None
-
-
 if __name__ == '__main__':
     main()
