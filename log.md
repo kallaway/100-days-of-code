@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 8: Jul 15, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+[Tweet](https://twitter.com/BudavariMatyas/status/1547993617137954822)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Today I got an hour to polish my calendar viewer that I wrote about a few days ago. It still has a long way to go but now it's usable enough for my needs.
+I've added a github action to deploy it, and fixed some onboarding issues.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts**: I needed to revisit date handling, but now it has a proper onboarrding experrience for newcomers. Mobile view is still a mess.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link(s) to work**: [Calendar App](https://budavariam.github.io/absence-calendar/)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+![Left side has a calendar in a monthly view with a week long event for Jane Doe. The right side has a member filter, 2 names, John Doe (unselected), and Jane Doe. There's a JSON input box in the bottom for the event data.](./assets/day8.jpeg)
