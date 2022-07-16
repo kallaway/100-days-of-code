@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 8: Jul 15, 2022
+## Day 8: 2022-07-15
 
 [Tweet](https://twitter.com/BudavariMatyas/status/1547993617137954822)
 
