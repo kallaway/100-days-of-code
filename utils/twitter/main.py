@@ -54,10 +54,11 @@ def download_image_attachment(daynum, tweet):
                 'alt_text': alt_text,
                 'filepath': filepath,
             }
+            logger.info("Image Attachment found", result)
             response = requests.get(url)
             with open(f"../../{filepath}", "wb") as attachment:
                 attachment.write(response.content)
-            
+            logger.info("Attachment saved to %s", filepath)
             break # stop at first attachment
     return result
 
@@ -78,6 +79,7 @@ def get_web_attachment_url(tweet):
             'title': item.get('title'),
             'url': item.get('expanded_url'),
         }
+        logger.info("Web Attachment found %s", result)
         break # stop at first
     return result
 
