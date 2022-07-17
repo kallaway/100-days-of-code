@@ -113,3 +113,22 @@ In order to avoid having to manually duplicate the text I write here, I've creat
 **Thoughts**: It was a fun experience, I have some ideas where to go next with this. It took more than I expected, I'm glad I switched to python early on.
 
 **Link(s) to work**: [100-days-of-code/main.py at master · budavariam/100-days-of-code](https://github.com/budavariam/100-days-of-code/blob/master/utils/twitter/main.py)
+
+## Day 10: 2022-07-17
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1548722515379458050)
+
+**Today's Progress**: `#100DaysOfCode` Day 10
+
+I've started to log my journey on learning `#spanish` in `#hungarian` using `#11ty`  
+
+My usual steps of writing about a new topic:
+- Get a static site generator
+- Browse themes
+- Choose a different SSG
+- Switch theme
+- Rewrite the theme
+
+**Thoughts**: I struggled between learning a new flavour of static site generators or use one that I already know. So I chose one that I've used a bit. I decided to spend this day organizing my spanish learning material, now I'll have a place to put them moving forward.
+
+**Link(s) to work**: [Learning Spanish](https://budavariam.github.io/learning-spanish/)
