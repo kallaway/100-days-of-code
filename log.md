@@ -103,7 +103,7 @@ I've added a github action to deploy it, and fixed some onboarding issues.
 
 [Tweet](https://twitter.com/BudavariMatyas/status/1548334043460018178)
 
-**Today's Progress**: `#100DaysOfCode` Day 9 
+**Today's Progress**: `#100DaysOfCode` Day 9
 
 Today I've started to log my progress properly on github as well.
 In order to avoid having to manually duplicate the text I write here, I've created a small python script to get these entries via TwitterAPI
@@ -120,7 +120,7 @@ In order to avoid having to manually duplicate the text I write here, I've creat
 
 **Today's Progress**: `#100DaysOfCode` Day 10
 
-I've started to log my journey on learning `#spanish` in `#hungarian` using `#11ty`  
+I've started to log my journey on learning `#spanish` in `#hungarian` using `#11ty`
 
 My usual steps of writing about a new topic:
 - Get a static site generator
@@ -132,3 +132,15 @@ My usual steps of writing about a new topic:
 **Thoughts**: I struggled between learning a new flavour of static site generators or use one that I already know. So I chose one that I've used a bit. I decided to spend this day organizing my spanish learning material, now I'll have a place to put them moving forward.
 
 **Link(s) to work**: [Learning Spanish](https://budavariam.github.io/learning-spanish/)
+
+## Day 11: 2022-07-18
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1549151425418219525)
+
+**Today's Progress**: Day 11 of `#100DaysOfCode`
+
+Today I took it easy and got the basis for further development. I've added csv-processor for a new word list table in my spanish learning page.
+
+**Thoughts**: It took me a while to figure out how to load csv data, but luckily with eleventy I can define custom data inputs.
+
+**Link(s) to work**: [Szavak](https://budavariam.github.io/learning-spanish/szavak/)
