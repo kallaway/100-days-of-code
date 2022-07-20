@@ -10,3 +10,14 @@
 **Link(s) to work**
 1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+### Day 2: 7/20 Wednesday
+
+**Today's Progress**: LinkedIn Learning Course: JS Essential Training 
+
+**Thoughts** I now get why "reder" is in <script> in html 
+
+**Link(s) to work**
+1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
+
