@@ -14,7 +14,7 @@
 
 ### Day 2: 7/20 Wednesday
 
-**Today's Progress**: LinkedIn Learning Course: JS Essential Training 
+**Today's Progress**: LinkedIn Learning Course: JS Essential Training, added calendar folder/img
 
 **Thoughts** I now get why "reder" is in <script> in html 
 
