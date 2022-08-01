@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+See my progress [here](https://budavariam.github.io/100-days-of-code/log.html)!
+
 ## Contents
 
 * [Rules](rules.md)
