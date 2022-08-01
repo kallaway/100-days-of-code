@@ -144,3 +144,22 @@ Today I took it easy and got the basis for further development. I've added csv-p
 **Thoughts**: It took me a while to figure out how to load csv data, but luckily with eleventy I can define custom data inputs.
 
 **Link(s) to work**: [Szavak](https://budavariam.github.io/learning-spanish/szavak/)
+
+## Day 12: 2022-08-01
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1554210080802967558)
+
+**Today's Progress**: `#100DaysOfCode` Day 12
+
+I mixed `#appleScript` and `#python` to extract events from the Calendar app and add filtered events back into another calendar for the next few weeks.
+
+The most tricky part was handling the recurrent rule format to regenerate the events, and ofc `#timezones`
+
+**Thoughts**: The sad part with the events handled in Calendar app is that AFAIK I can not query for a specific time interval in the future. Rather I have to get ALL events, parse their recurrence rules (shoutout to [dateutil.rrule](https://dateutil.readthedocs.io/en/stable/rrule.html)) and generate when they occur and filter to the given date.
+There might be a simpler method, I hadn't not yet found any. Other than this I needed to chase down a nasty case.
+
+```log
+INFO:generate_event_dates "2022/03/11 17:15:00", "FREQ=WEEKLY;UNTIL=20220915T132959Z"
+...
+ValueError: RRULE UNTIL values must be specified in UTC when DTSTART is timezone-aware
+```
