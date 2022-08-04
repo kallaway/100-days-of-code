@@ -11,3 +11,9 @@
 **Progrès**: Création d'une ToDo List en suivant un code déjà constitué sur internet.
 
 **Pensées**: Première ToDo List créée, pour aujourd'hui j'ai suivi un code déjà fait, et je me suis arrêté à chaque ligne de code pour bien la comprendre. Prochain objectif, en recréer une en autonomie!
+
+### Jour 2: 04 Août 2022 
+
+**Progrès**:Création d'une ToDo List en autonomie 
+
+**Pensées**: J'ai commencé la création de ma ToDo List en autonomie, j'ai bouclé les parties HTML et CSS. Beaucoup de temps perdu sur le CSS, j'ai eu du mal à faire fonctionner le @font-face à cause d'une erreur dans le chemin d'accès aux fichiers. Je suis de plus en plus à l'aise avec les logiciels et la logique cependant. J'ai hâte de reprendre tout ça demain matin :)
