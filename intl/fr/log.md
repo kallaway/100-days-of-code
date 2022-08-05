@@ -14,6 +14,12 @@
 
 ### Jour 2: 04 Août 2022 
 
-**Progrès**:Création d'une ToDo List en autonomie 
+**Progrès**: Création d'une ToDo List en autonomie 
 
 **Pensées**: J'ai commencé la création de ma ToDo List en autonomie, j'ai bouclé les parties HTML et CSS. Beaucoup de temps perdu sur le CSS, j'ai eu du mal à faire fonctionner le @font-face à cause d'une erreur dans le chemin d'accès aux fichiers. Je suis de plus en plus à l'aise avec les logiciels et la logique cependant. J'ai hâte de reprendre tout ça demain matin :)
+
+### Jour 3: 05 Août 2022
+
+**Progrès**: Création d'une ToDo List en autonomie
+
+**Pensées**: Toujours pas de JS contrairement à ce qui était prévu aujourd'hui. Toujours du mal avec CSS et FlexBox, étant donné que j'ai changé la disposition de ma liste (UL ---> div) je tâtonne pour mettre tout ça en forme proprement. 

@@ -7,9 +7,6 @@ body {
     font-family: Abel;
 }
 
-ul {
-    list-style-type: none;
-}
 
 .entete {
     background-color: red;
@@ -19,16 +16,27 @@ ul {
     border-style: none;
     height: 150px;
     padding-top: 10px;
+    padding-bottom: 25px;
+    font-size: 25px;
 }
 
-ul li {
-    border: 1.5px white solid;
-    background-color: darkslategrey;
-    color: white;
-    height: 50px;
-    text-align: center;
-    border-radius: 10px;
-    
+#list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+
+.task {
+    background-color: darkgrey;
+    border: 2px solid;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 25px;
+    text-align: center;
+    width: 700px;
+    height: 50px;
+}
+
+
 
 
