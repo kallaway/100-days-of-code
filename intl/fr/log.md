@@ -23,3 +23,9 @@
 **Progrès**: Création d'une ToDo List en autonomie
 
 **Pensées**: Toujours pas de JS contrairement à ce qui était prévu aujourd'hui. Toujours du mal avec CSS et FlexBox, étant donné que j'ai changé la disposition de ma liste (UL ---> div) je tâtonne pour mettre tout ça en forme proprement. 
+
+### Jour 4: 06 Aout 2022 
+
+**Progrès**: Création d'une ToDo List en autonomie
+
+**Pensées**: J'ai enfin attaqué JavaScript! Plutôt compliqué pour le moment, mais c'est normal au début je suppose... Grâce à un viewer du stream qui m'a aidé et qui a fini par me passe son code, j'ai réussi à faire fonctionner la fonction "ajouter" de la liste. Demain l'objectif sera de faire fonctionner la fonctionnalité "supprimer". 

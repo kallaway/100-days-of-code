@@ -3,10 +3,10 @@
     src: url('polices2/abel/abel-regular.ttf');
 }
 
+
 body {
     font-family: Abel;
 }
-
 
 .entete {
     background-color: red;
@@ -20,23 +20,40 @@ body {
     font-size: 25px;
 }
 
-#list {
+ul {
+    list-style-type: none;
+    margin-left: 200px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-}
-
-.task {
-    background-color: darkgrey;
-    border: 2px solid;
-    border-radius: 10px;
-    border-style: none;
-    font-size: 25px;
     text-align: center;
-    width: 700px;
-    height: 50px;
 }
 
+ul li {
+    border: 5px solid white;
+    color: white;
+    background-color: darkslategrey;
+    width: 1000px;
+    height: 30px;
+    transition: 0.2s;
+}
 
+ul li:hover {
+    background-color: blue;
+}
 
+ul li:checked {
+    text-decoration: line-through;
+}
+
+.close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 12px 16px 12px 16px;
+}
+
+.close:hover {
+    background-color: white;
+    color: red;
+}
 
