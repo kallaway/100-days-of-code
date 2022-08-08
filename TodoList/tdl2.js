@@ -5,12 +5,10 @@ let taskInput = document.querySelector('#myInput');
 let addTaskButton = document.querySelector('#button');
 let taskList = document.querySelector('#list');
 
-
 //EVENT LISTENERS
 
 addTaskButton.addEventListener('click',addTask);
-
-
+checkButton.addEventListener('click',checkTask);
 
 //FUNCTIONS
 
@@ -27,7 +25,7 @@ function addTask() {
         let taskDiv = document.createElement('div');
         taskDiv.classList.add('task');
 
-        //CREARE LI
+        //CREATE LI
         let taskLi = document.createElement('li');
         taskLi.innerText = taskInput.value;
         taskLi.classList.add('task-li');
@@ -56,4 +54,8 @@ function addTask() {
         });
 
     }
+}
+
+function checkTask() {
+    
 }
