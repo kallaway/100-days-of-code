@@ -41,3 +41,7 @@
 **Progrès**: Création d'une ToDo List en autonomie, création d'une calculatrice
 
 **Pensées**: Encore beaucoup de temps passé pour pas grand chose, mais je progresse petit à petit. J'ai entamé la création d'une calculatrice en HTML, CSS et JS. j'ai déjà réalisé la partie HTML / CSS et je suis en train de travailler sur la partie JS. 
+
+**Progrès**: Entraînement au HTML / CSS
+
+**Pensées**:
