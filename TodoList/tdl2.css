@@ -41,19 +41,10 @@ ul li:hover {
     background-color: blue;
 }
 
-ul li:checked {
+/*ul li:checked {
+    text-decoration: line-through;
+}*/
+
+.checked {
     text-decoration: line-through;
 }
-
-.close {
-    position: absolute;
-    right: 0;
-    top: 0;
-    padding: 12px 16px 12px 16px;
-}
-
-.close:hover {
-    background-color: white;
-    color: red;
-}
-

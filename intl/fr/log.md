@@ -29,3 +29,15 @@
 **Progrès**: Création d'une ToDo List en autonomie
 
 **Pensées**: J'ai enfin attaqué JavaScript! Plutôt compliqué pour le moment, mais c'est normal au début je suppose... Grâce à un viewer du stream qui m'a aidé et qui a fini par me passe son code, j'ai réussi à faire fonctionner la fonction "ajouter" de la liste. Demain l'objectif sera de faire fonctionner la fonctionnalité "supprimer". 
+
+### Jour 5: 07 Août 2022
+
+**Progrès**: Création d'une ToDo List en autonomie
+
+**Pensées**: Je n'ai pas beaucoup avancé aujourd'hui, c'est dimanche, j'ai moins de temps pour travailler :) J'ai découvert Boxicons néanmoins, ce qui risque de me faciliter la vie pour mes prochains projets. 
+
+### Jour 6: 08 Août 2022
+
+**Progrès**: Création d'une ToDo List en autonomie, création d'une calculatrice
+
+**Pensées**: Encore beaucoup de temps passé pour pas grand chose, mais je progresse petit à petit. J'ai entamé la création d'une calculatrice en HTML, CSS et JS. j'ai déjà réalisé la partie HTML / CSS et je suis en train de travailler sur la partie JS. 

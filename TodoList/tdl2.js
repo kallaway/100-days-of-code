@@ -4,11 +4,9 @@
 let taskInput = document.querySelector('#myInput');
 let addTaskButton = document.querySelector('#button');
 let taskList = document.querySelector('#list');
-
 //EVENT LISTENERS
 
 addTaskButton.addEventListener('click',addTask);
-checkButton.addEventListener('click',checkTask);
 
 //FUNCTIONS
 
@@ -31,12 +29,6 @@ function addTask() {
         taskLi.classList.add('task-li');
         taskDiv.appendChild(taskLi);
 
-        //CHECK BUTTON
-        let checkButton = document.createElement('button');
-        checkButton.innerHTML = '<i class="bx bx-check"></i>';
-        checkButton.classList.add('check-btn');
-        taskDiv.appendChild(checkButton);
-
         //DELETE BUTTON
         let deleteButton = document.createElement('button');
         deleteButton.innerHTML = '<i class="bx bx-eraser"></i>';
@@ -53,9 +45,20 @@ function addTask() {
             taskDiv.remove()
         });
 
+        //CHECK BUTTON
+    /*let checkButton = document.createElement('button');
+    checkButton.innerHTML = '<i class="bx bx-check"></i>';
+    checkButton.classList.add('check-btn');
+    taskDiv.appendChild(checkButton);*/
+
     }
 }
 
-function checkTask() {
-    
-}
+
+var checkedLi = document.querySelectorAll('li');
+
+checkedLi.forEach (function(el) {
+    el.addEventListener ('click', function() {
+        el.classList.toggle('checked');
+    });
+});
