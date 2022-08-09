@@ -44,4 +44,10 @@
 
 **Progrès**: Entraînement au HTML / CSS
 
-**Pensées**:
+**Pensées**: J'ai créé une page HTML basée sur un prochain concert de Sum 41. Ca me permet de pratiquer un peu tout, le header, les ul, les articles, le footer, des images... J'ai fini le code HTML, il reste à mettre en forme le CSS. Pourquoi pas un peu de JS après si je trouve une façon cohérente de l'intégrer.
+
+### Jour 7: 09 Août 2022
+
+**Progrès**: Entraînement au HTML / CSS
+
+**Pensées**: J'ai terminé ma page HTML / CSS. C'est la mise en forme la plus propre que j'ai réalisé jusqu'à maitnenant. 
