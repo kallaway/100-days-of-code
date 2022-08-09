@@ -1,3 +1,171 @@
 body {
    font-family: 'Century Gothic';
+   color: yellow;
+   background-image: url("logolock.png");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-color: black;
+}
+
+article::-webkit-scrollbar {
+   width: 12px;
+}
+
+article::-webkit-scrollbar-track {
+   background:rgba(0, 0, 0, 0.5)
+}
+
+article::-webkit-scrollbar-thumb {
+   background-color: orange;
+   border-radius: 20px;
+}
+
+ul {
+   list-style-type: none;
+}
+
+a {
+   color: orange;
+}
+
+a:hover {
+   color: white;
+   transition: 0.25s;
+}
+
+header {
+   background-color:rgba(0, 0, 0, 0.5);
+   border: 1px solid yellow;
+   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.75);
+   border-radius: 20px;
+}
+
+header p {
+   font-size: 20px;
+   text-align: center
+}
+
+h1,h2 {
+   text-align: center;
+}
+
+.nav {
+   text-align: center;
+   font-size: 25px;
+}
+
+.nav li {
+   display: inline-block;
+   margin-left: 25px;
+}
+
+.nav a {
+   color: white;
+   text-decoration: none;
+}
+
+.nav a:hover {
+   color: orange;
+}
+
+.catchphrase {
+   text-align: center;
+   font-weight: bold;
+}
+
+.intro {
+   background-color:rgba(0, 0, 0, 0.5);
+   border: 1px solid yellow;
+   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.75);
+   border-radius: 20px;
+   margin-top: 150px;
+   text-align: center;
+}
+
+.titrealbums {
+   background-color:rgba(0, 0, 0, 0.5);
+   border: 1px solid yellow;
+   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.75);
+   border-radius: 20px;
+   margin-bottom: 75px;
+   margin-top: 150px;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 12px;
+   text-align: center;
+   max-width: 500px;
+}
+
+article {
+   background-color:rgba(0, 0, 0, 0.5);
+   border: 1px solid yellow;
+   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.75);
+   border-radius: 20px;
+   padding: 12px;
+   text-align: center;
+   max-width: 600px;
+   max-height: 600px;
+}
+
+article ul {
+   text-align: left;
+   margin-left: 150px;
+}
+
+article a {
+   font-size: 20px;
+   font-weight: bold;
+}
+
+.albums {
+   display: flex;
+   justify-content: space-around;
+   margin-bottom: 150px;
+}
+
+.aknf {
+   overflow: scroll;
+   overflow-x: hidden;
+}
+
+.titregroupes {
+   background-color:rgba(0, 0, 0, 0.5);
+   border: 1px solid yellow;
+   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.75);
+   border-radius: 20px;
+   margin-top: 5px;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 12px;
+   text-align: center;
+   max-width: 500px;
+}
+
+.sum {
+   overflow: scroll;
+   overflow-x: hidden;
+}
+
+.simpleplan {
+   overflow: scroll;
+   overflow-x: hidden;
+}
+
+.groups {
+   display: flex;
+   justify-content: space-around;
+   margin-top: 75px;
+}
+
+footer {
+   margin-top: 400px;
+   display: flex;
+   justify-content: space-around;
+   align-items: baseline;
+}
+
+footer li {
+   display: inline-block;
+   margin-left: 25px;
 }
