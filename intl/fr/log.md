@@ -51,3 +51,9 @@
 **Progrès**: Entraînement au HTML / CSS
 
 **Pensées**: J'ai terminé ma page HTML / CSS. C'est la mise en forme la plus propre que j'ai réalisé jusqu'à maitnenant. 
+
+### Jour 8: 09 Août 2022
+
+**Progrès**: Fin de création de la page HTML / CSS / JS 
+
+**Pensées**: J'ai ajouté un peu de JS sur la page pour améliorer la lisibilité. J'ai récupéré un code sur Stack Overflow. J'ai ensuite peaufiné le CSS. J'ai demandé conseil pour pouvoir avancer sur ma Todo List. Je pense entamer de créer un chronomètre en JS par la suite.
