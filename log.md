@@ -23,8 +23,12 @@
 
 **Today's Progress**: I've started a HR Admin App. Worked on the draft layout of the app. I have the basic wireframes and what the UI should look like. I'll be using PERN (Postgres Express React Node)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+<!-- **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
+
+### Day 2: August 11, Thurday
+
+**Today's Progress**: Spinned up a server instance using Express, Cors, pg, dotenv + nodemon dev dependancy)
+
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Spin up a server instance](https://github.com/DouglasVDM/hradmin/commit/75ce5a93396cb5e52d31c6c9582624500e19f731)
