@@ -163,3 +163,14 @@ INFO:generate_event_dates "2022/03/11 17:15:00", "FREQ=WEEKLY;UNTIL=20220915T132
 ...
 ValueError: RRULE UNTIL values must be specified in UTC when DTSTART is timezone-aware
 ```
+
+## Day 13: 2022-08-12
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1558191455402921985)
+
+**Today's Progress**: `#100DaysOfCode` Day 13
+
+I've started dusting off my ancient C knowledge and getting my hands dirty with custom `#flipperzero` plugin development.
+Today I successfully built a custom firmware with a basic hello word app.
+
+**Thoughts**: I need to revisit many things from the university C classes. I was surprised how easy it was to build my app as needed. I'd bee happy to have some kind of emulator or debugger. We'll see.
