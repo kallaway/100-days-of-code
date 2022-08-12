@@ -63,3 +63,9 @@
 **Progrès**: Création d'un chronomètre JS
 
 **Pensées**: J'ai créé un chronomètre programmé en JavaScript. Pas réussi à le faire fonctionner mais je suis sur la bonne voie.
+
+### Jour 10: 12 Août 2022
+
+**Progrès**: Fin du chronomètre JS
+
+**Pensées**: J'ai pris un code JS sur Internet pour avoir une base pour faire fonctionner le chronomètre. Il avait cependant des petits défauts. Je l'ai modifié pour faire fonctionner proprement la feature "reset". 
