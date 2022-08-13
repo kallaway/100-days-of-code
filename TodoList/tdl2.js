@@ -4,6 +4,7 @@
 let taskInput = document.querySelector('#myInput');
 let addTaskButton = document.querySelector('#button');
 let taskList = document.querySelector('#list');
+
 //EVENT LISTENERS
 
 addTaskButton.addEventListener('click',addTask);
@@ -20,7 +21,7 @@ function addTask() {
     }
     else {
          //CREATE TASK DIV
-        let taskDiv = document.createElement('div');
+        const taskDiv = document.createElement('div');
         taskDiv.classList.add('task');
 
         //CREATE LI
@@ -40,25 +41,22 @@ function addTask() {
         //CLEAR INPUT VALUE
         taskInput.value = '';
 
+        //CHECK BUTTON
+        const checkButton = document.createElement('button');
+        checkButton.innerHTML = '<i class="bx bx-check"></i>';
+        checkButton.classList.add('check-btn');
+        taskDiv.appendChild(checkButton);
 
-        deleteButton.addEventListener('click', () => {
-            taskDiv.remove()
+        checkButton.addEventListener('click', () => {
+            if (taskLi.classList.contains('checkedBtn')) {
+                taskLi.classList.remove('checkedBtn');
+            } else {
+                taskLi.classList.add('checkedBtn');
+            }
         });
 
-        //CHECK BUTTON
-    /*let checkButton = document.createElement('button');
-    checkButton.innerHTML = '<i class="bx bx-check"></i>';
-    checkButton.classList.add('check-btn');
-    taskDiv.appendChild(checkButton);*/
-
+        deleteButton.addEventListener('click', () => {
+            taskDiv.remove();
+        });
     }
 }
-
-
-var checkedLi = document.querySelectorAll('li');
-
-checkedLi.forEach (function(el) {
-    el.addEventListener ('click', function() {
-        el.classList.toggle('checked');
-    });
-});

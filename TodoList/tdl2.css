@@ -45,6 +45,13 @@ ul li:hover {
     text-decoration: line-through;
 }*/
 
-.checked {
+/*.checked {
     text-decoration: line-through;
+}*/
+
+.checkedBtn {
+    text-decoration: line-through;
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
 }

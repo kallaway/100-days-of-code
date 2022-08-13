@@ -69,3 +69,9 @@
 **Progrès**: Fin du chronomètre JS
 
 **Pensées**: J'ai pris un code JS sur Internet pour avoir une base pour faire fonctionner le chronomètre. Il avait cependant des petits défauts. Je l'ai modifié pour faire fonctionner proprement la feature "reset". 
+
+### Jour 11: 13 Août 2022 
+
+**Progrès**: Todo List JS
+
+**Pensées**: Tout fonctionne enfin sur ma Todo List! 2 Projets JS terminés en 2 jours, ça fait du bien d'avancer. Il me reste encore à peaufiner le CSS et je pourrai m'attaquer à nouveau à ma calculatrice.
