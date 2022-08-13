@@ -1,4 +1,4 @@
-// Assign Default Class
+// Assign Default Count Value
 let count = 0;
 
 // Target value & buttons 

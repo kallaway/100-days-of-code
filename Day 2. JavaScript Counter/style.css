@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
 *, ::before, ::after{
   margin: 0;
   padding: 0;
@@ -6,6 +8,7 @@
 
 body {
   background: #F1F5F8;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 main {
@@ -27,7 +30,6 @@ h1 {
   padding: 1rem 0;
   font-size: 8rem;
   font-weight: 700;
-  font-family: 'Segoe UI';
 }
 
 .btn {
