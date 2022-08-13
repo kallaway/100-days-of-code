@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #F1F5F8;
+}
+
+main {
+  width: 100vw;
+  height: 70vh;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 1000;
+  font-family: Verdana;
+}
+
+#value {
+  padding: 1rem 0;
+  font-size: 8rem;
+  font-weight: 700;
+  font-family: 'Segoe UI';
+}
+
+.btn {
+  width: 10rem;
+  height: 1.9rem;
+  text-transform: uppercase;
+  border: 2.5px solid #000;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.reset {
+  width: 6rem;
+  margin: 0 0.5rem;
+}
+
+
