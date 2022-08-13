@@ -1,4 +1,4 @@
-*{
+*, ::before, ::after{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -10,10 +10,11 @@ body {
 
 main {
   width: 100vw;
-  height: 70vh;
+  min-height: 100vh;
   display: grid;
   place-items: center;
   text-align: center;
+  /* padding: 0.5rem; */
 }
 
 h1 {
@@ -36,6 +37,14 @@ h1 {
   border: 2.5px solid #000;
   border-radius: 5px;
   text-align: center;
+}
+
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
 }
 
 .reset {
