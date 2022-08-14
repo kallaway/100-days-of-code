@@ -75,3 +75,9 @@
 **Progrès**: Todo List JS
 
 **Pensées**: Tout fonctionne enfin sur ma Todo List! 2 Projets JS terminés en 2 jours, ça fait du bien d'avancer. Il me reste encore à peaufiner le CSS et je pourrai m'attaquer à nouveau à ma calculatrice.
+
+### Jour 12: 14 Août 2022
+
+**Progrès**: Fin de la Todo List, création d'un calculateur d'IMC
+
+**Pensées**: J'ai terminé ma Todo List pour le moment. Elle est fonctionnelle et la mise en page est bonne. J'ai créé un calculateur d'IMC. Je me creuse la tête pour faire fonctionner le code JS, mais je pense être près du but.
