@@ -39,7 +39,7 @@
 **Today's Progress**: 
 
 **Link(s) to work**
-1. [Spin up a server instance](https://github.com/DouglasVDM/hradmin/commit/75ce5a93396cb5e52d31c6c9582624500e19f731)
+1. [Connected to the database by connection pool](https://github.com/DouglasVDM/hradmin/commit/75ce5a93396cb5e52d31c6c9582624500e19f731)
 
 
 ### Day 4: August 13, Saturday
@@ -52,7 +52,7 @@
 
 ### Day 5: August 14, Sunday
 
-**Today's Progress**: I created a react-functional-button-component for a job applicaion
+**Today's Progress**: I created a react-functional-button-component
 
 **Link(s) to work**
 1. [react-functional-button-component](https://github.com/DouglasVDM/react-functional-button-component)
