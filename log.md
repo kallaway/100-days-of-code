@@ -174,3 +174,17 @@ I've started dusting off my ancient C knowledge and getting my hands dirty with 
 Today I successfully built a custom firmware with a basic hello word app.
 
 **Thoughts**: I need to revisit many things from the university C classes. I was surprised how easy it was to build my app as needed. I'd bee happy to have some kind of emulator or debugger. We'll see.
+
+## Day 14: 2022-08-14
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1558762543904169985)
+
+**Today's Progress**: `#100DaysOfCode` Day 14
+
+I've created a `#flipperZero` plugin in C that plays Conway's Game of Life.
+
+**Thoughts**:
+
+**Link(s) to work**: [[Plugin] Conway's Game of Life by budavariam · Pull Request #1 · budavariam/flipperzero-firmware](https://github.com/budavariam/flipperzero-firmware/pull/1)
+
+![Flipper zero screen showing Conway's Game of Life](assets/day-14.gif)
