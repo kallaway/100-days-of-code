@@ -22,10 +22,10 @@ body {
 
 ul {
     list-style-type: none;
-    margin-left: 200px;
     display: flex;
     flex-direction: column;
     text-align: center;
+    align-items: center;
 }
 
 ul li {
@@ -38,20 +38,13 @@ ul li {
 }
 
 ul li:hover {
-    background-color: blue;
+    background-color: white;
+    color: black;
 }
-
-/*ul li:checked {
-    text-decoration: line-through;
-}*/
-
-/*.checked {
-    text-decoration: line-through;
-}*/
 
 .checkedBtn {
     text-decoration: line-through;
-    background-color: yellow;
+    background-color: white;
     color: black;
     font-weight: bold;
 }
