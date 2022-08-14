@@ -32,3 +32,35 @@
 
 **Link(s) to work**
 1. [Spin up a server instance](https://github.com/DouglasVDM/hradmin/commit/75ce5a93396cb5e52d31c6c9582624500e19f731)
+
+
+### Day 3: August 12, Friday
+
+**Today's Progress**: 
+
+**Link(s) to work**
+1. [Spin up a server instance](https://github.com/DouglasVDM/hradmin/commit/75ce5a93396cb5e52d31c6c9582624500e19f731)
+
+
+### Day 4: August 13, Saturday
+
+**Today's Progress**: 
+
+**Link(s) to work**
+1. [Spin up a server instance](https://github.com/DouglasVDM/hradmin/commit/75ce5a93396cb5e52d31c6c9582624500e19f731)
+
+
+### Day 5: August 14, Sunday
+
+**Today's Progress**: I created a react-functional-button-component for a job applicaion
+
+**Link(s) to work**
+1. [react-functional-button-component](https://github.com/DouglasVDM/react-functional-button-component)
+
+
+### Day 3: August 15, Monday
+
+**Today's Progress**: 
+
+**Link(s) to work**
+1. [Spin up a server instance](https://github.com/DouglasVDM/hradmin/commit/75ce5a93396cb5e52d31c6c9582624500e19f731)
