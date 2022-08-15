@@ -81,3 +81,9 @@
 **Progrès**: Fin de la Todo List, création d'un calculateur d'IMC
 
 **Pensées**: J'ai terminé ma Todo List pour le moment. Elle est fonctionnelle et la mise en page est bonne. J'ai créé un calculateur d'IMC. Je me creuse la tête pour faire fonctionner le code JS, mais je pense être près du but.
+
+### Jour 13: 15 Août 2022
+
+**Progrès**: Avancement du calculateur d'IMC
+
+**Pensées**: J'ai eu peu de temps pour avancer sur mon calculateur aujourd'hui, j'ai avancé sur le JS mais il n'est pas encore fini. Il reste des détails à peaufiner.
