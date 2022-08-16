@@ -90,6 +90,6 @@
 
 ### Jour 14: 16 Août 2022
 
-**Progrès**: Travail sur le calculateur d'IMC
+**Progrès**: Fin du calculateur d'IMC
 
-**Pensées**: Je fais du sur-place! Une heure à chercher et essayer, sans succès. J'ai décidé de demander de l'aide sur Stack Overflow.
+**Pensées**: J'ai terminé mon calculateur d'IMC! J'ai tout fait moi-même, résolu presque tous les soucis en autonomie. Le dernier souci qui me bloquait a été réglé grâce à Stack Overflow, et il ne manquait rien à mon code. Il s'agissait seulement d'erreurs de placement et de syntaxe. Je vois mon progès de jour en jour.
