@@ -87,3 +87,9 @@
 **Progrès**: Avancement du calculateur d'IMC
 
 **Pensées**: J'ai eu peu de temps pour avancer sur mon calculateur aujourd'hui, j'ai avancé sur le JS mais il n'est pas encore fini. Il reste des détails à peaufiner.
+
+### Jour 14: 16 Août 2022
+
+**Progrès**: Travail sur le calculateur d'IMC
+
+**Pensées**: Je fais du sur-place! Une heure à chercher et essayer, sans succès. J'ai décidé de demander de l'aide sur Stack Overflow.
