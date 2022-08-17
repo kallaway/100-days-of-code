@@ -93,3 +93,9 @@
 **Progrès**: Fin du calculateur d'IMC
 
 **Pensées**: J'ai terminé mon calculateur d'IMC! J'ai tout fait moi-même, résolu presque tous les soucis en autonomie. Le dernier souci qui me bloquait a été réglé grâce à Stack Overflow, et il ne manquait rien à mon code. Il s'agissait seulement d'erreurs de placement et de syntaxe. Je vois mon progès de jour en jour.
+
+### Jour 15: 17 Août 2022
+
+**Progrès**: Création d'un site de restaurant
+
+**Pensées**: J'ai commencé à créer une page sur un restaurant que je connais bien. J'ai complété le code HTML, je suis en train de m'occuper du CSS. Ensuite je mettrai du JS.
