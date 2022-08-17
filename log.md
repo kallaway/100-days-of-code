@@ -49,15 +49,47 @@
 
 ### Day 7: August 16, Tuesday
 
+**Today's Progress**: I started a React application using "npx create-react-app client" + deleted some of the unwanted boilerplate code + created initial components
+
+**Link(s) to work**
+1. [initial react components](https://github.com/DouglasVDM/hradmin/commit/2fa586176b79857ede6b9cabd4d551d6af968a22)
+
+
+### Day 8: August 17, Wednesday
+
 **Today's Progress**: 
 
 **Link(s) to work**
 1. [...](...)
 
 
-### Day 8: August 17, Wednesday
+### Day 9: August 18, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: ...
+
+**Link(s) to work**
+1. [...](...)
+
+
+### Day 10: August 19, Friday
+
+**Today's Progress**: ...
+
+**Link(s) to work**
+1. [...](...)
+
+
+### Day 11: August 20, Saturday
+
+**Today's Progress**: ...
+
+**Link(s) to work**
+1. [...](...)
+
+
+### Day 12: August 21, Sunday
+
+**Today's Progress**: ...
 
 **Link(s) to work**
 1. [...](...)
