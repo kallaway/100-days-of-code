@@ -96,6 +96,12 @@
 
 ### Jour 15: 17 Août 2022
 
-**Progrès**: Création d'un site de restaurant
+**Progrès**: Création d'une page de restaurant
 
 **Pensées**: J'ai commencé à créer une page sur un restaurant que je connais bien. J'ai complété le code HTML, je suis en train de m'occuper du CSS. Ensuite je mettrai du JS.
+
+### Jour 16: 18 Août 2022
+
+**Progrès**: Avancée de la page de restaurant
+
+**Pensées**: J'ai avancé sur le CSS mais je ne suis pas vraiment satisfait du résultat. Je reprendrai tout demain.
