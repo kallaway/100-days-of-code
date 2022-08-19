@@ -105,3 +105,9 @@
 **Progrès**: Avancée de la page de restaurant
 
 **Pensées**: J'ai avancé sur le CSS mais je ne suis pas vraiment satisfait du résultat. Je reprendrai tout demain.
+
+### Jour 17: 19 Août 2022 
+
+**Progrès**: Réfection de la mise en page, page restaurant
+
+**Pensées**: Comme prévu, j'ai refait le CSS de A à Z. Ca a pris du temps et ça repousse le JS d'une journée, mais ça en valait la peine. J'ai réussi à créer la page comme je le voulais.
