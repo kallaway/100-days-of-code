@@ -57,10 +57,10 @@
 
 ### Day 8: August 17, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: I had a busy day, didn't have the time to update my progress. Mainly worked on the React component to add a department.
 
 **Link(s) to work**
-1. [...](...)
+1. [React InputDepartment] (https://github.com/DouglasVDM/hradmin/commit/3d3efec97bb23dcbdaeeec378b512f6e8cf20996)
 
 
 ### Day 9: August 18, Thursday
