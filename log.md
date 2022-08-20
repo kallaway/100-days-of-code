@@ -70,15 +70,15 @@
 
 ### Day 10: August 19, Friday
 
-**Today's Progress**: ...
+**Today's Progress**: It was a busy end to the work week. I worked on the delete fctionality. Added a button next to the department on the table displaying all the departments.
 
 **Link(s) to work**
 
-1. []()
+1. [Delete Department Button](https://github.com/DouglasVDM/hradmin/commit/77e79665a53d90422cb8c926b0cb4c385f5e2bba)
 
 ### Day 11: August 20, Saturday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
 **Link(s) to work**
 
@@ -86,7 +86,7 @@
 
 ### Day 12: August 21, Sunday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
 **Link(s) to work**
 
