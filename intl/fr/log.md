@@ -111,3 +111,9 @@
 **Progrès**: Réfection de la mise en page, page restaurant
 
 **Pensées**: Comme prévu, j'ai refait le CSS de A à Z. Ca a pris du temps et ça repousse le JS d'une journée, mais ça en valait la peine. J'ai réussi à créer la page comme je le voulais.
+
+### Jour 18: 20 Août 2022
+
+**Progrès**: Création d'un convertisseur de devises
+
+**Pensées**: On continue dans la série des petits projets pour progresser en JS. J'ai créé un convertisseur de devises, HTML et CSS terminés, il me reste à peaufiner le JS: tout est créé mais ça ne fonctionne pas encore comme je l'aimerais.
