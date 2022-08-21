@@ -20,6 +20,11 @@ export function oneYearAgo() {
   return d;
 }
 
+export function oneYearPlus(d) {
+  d.setFullYear(d.getFullYear() - 1);
+  return d;
+}
+
 const colors = ['#eee', '#c6e48b', '#7bc96f', '#239a3b', '#196127'];
 export function rectColor(v) {
   if (!v.count) {
