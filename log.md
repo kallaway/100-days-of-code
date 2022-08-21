@@ -188,3 +188,16 @@ I've created a `#flipperZero` plugin in C that plays Conway's Game of Life.
 **Link(s) to work**: [[Plugin] Conway's Game of Life by budavariam · Pull Request #1 · budavariam/flipperzero-firmware](https://github.com/budavariam/flipperzero-firmware/pull/1)
 
 ![Flipper zero screen showing Conway's Game of Life](assets/day-14.gif)
+
+## Day 15: 2022-08-21
+
+[Tweet](https://twitter.com/BudavariMatyas/status/1561328865305321473)
+
+**Today's Progress**: `#100DaysOfCode` Day 15
+
+I've added a simple `#darkMode` switch to my `#11ty` site. That'll make it easier for me to find the best color scheme later on.
+A media query was already there for dark mode in the 11ty/eleventy-base-blog theme. Now my DevEx is better.
+
+**Thoughts**:
+
+**Link(s) to work**: [Add basic dark mode by budavariam · Pull Request #1 · budavariam/learning-spanish](https://github.com/budavariam/learning-spanish/pull/1/files)
