@@ -1,0 +1,16 @@
+{
+  "name": "svg-graph",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mátyás Budavári <budavariam@gmail.com> (https://budavariam.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^20.0.0",
+    "xmldom": "^0.6.0"
+  }
+}
