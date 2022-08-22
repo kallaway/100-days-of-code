@@ -16,6 +16,8 @@ export default function Graph(document, root, {
     padX = 20,
     padY = 20,
     styleOptions = {},
+    onClick = noop, 
+    onHover = noop,
 }) {
     const values = [];
     const days = diffDays(startDate, endDate);
@@ -37,7 +39,7 @@ export default function Graph(document, root, {
             group += 1;
         }
 
-        values[group - 1].push({ count, date, day });
+        values[group - 1].push({ count, date, day, dayID: `day-${day}-${formatDate(date)}` });
     }
 
     const s = size + space * 2;
@@ -47,16 +49,8 @@ export default function Graph(document, root, {
     const styles = getStyles(styleOptions);
 
     const attrs = {
-        styles, values, size, space, colorFun, padX, padY
+        styles, values, size, space, colorFun, padX, padY, onClick, onHover
     };
-    // return (
-    //   <svg width={width} height={height} viewBox={box}>
-    //     <rect x={0} y={0} width={width} height={height} fill="#fff" />
-    //     <Days {...attrs} />
-    //     <Months {...attrs} />
-    //     <DayTitles {...attrs} />
-    //   </svg>
-    // );
     
     root.setAttribute("width", width)
     root.setAttribute("height", height)

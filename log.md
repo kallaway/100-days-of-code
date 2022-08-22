@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+![See my progress](./progress-chart.svg)
+
 ## Day 1: 2022-07-02
 
 [Tweet](https://twitter.com/BudavariMatyas/status/1543250339385823232)

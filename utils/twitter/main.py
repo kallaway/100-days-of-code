@@ -91,6 +91,7 @@ def update_last_line(num):
         lastday.write(str(num))
 
 def update_stats(tweet_id,daynum,created_date,public_metrics):
+    # todo make it update the last N lines as well, not in a greedy way maybe be smart and handle it as csv, ffirst collect then update the data
     with open("./STATS", 'a') as stats:
         # public_metrics: {'retweet_count': 1, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}
         stat_data = [
@@ -138,8 +139,7 @@ def main():
     last_day = get_last_visited_day()
     logger.info("Last visited day is: %d", last_day)
     for [daynum, id] in IDS:
-        if daynum <= last_day:
-            continue
+
         logger.info("Getting info for day: %d (id: %s)", daynum, id)
         tweet = get_tweet(id)
 
@@ -149,8 +149,14 @@ def main():
         web_attachment = get_web_attachment_url(tweet)
         image_attachment = download_image_attachment(daynum, tweet)
 
-        update_log(id, daynum, created_date,txt,web_attachment,image_attachment)
+        # only update the text log for the last N item
+        if daynum <= last_day - 2:
+            continue
         update_stats(id,daynum,created_date, public_metrics)
+        if daynum <= last_day:
+            continue
+        # only update the text log for the last item
+        update_log(id, daynum, created_date,txt,web_attachment,image_attachment)
         update_last_line(daynum)
 
 

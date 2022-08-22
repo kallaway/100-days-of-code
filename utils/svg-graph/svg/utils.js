@@ -20,8 +20,9 @@ export function oneYearAgo() {
   return d;
 }
 
-export function oneYearPlus(d) {
-  d.setFullYear(d.getFullYear() - 1);
+export function oneYearPlus(startDate) {
+  const d = new Date(startDate.valueOf())
+  d.setFullYear(d.getFullYear() + 1);
   return d;
 }
 

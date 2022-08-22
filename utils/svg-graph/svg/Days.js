@@ -1,7 +1,7 @@
 import { formatDate } from './utils.js';
 
 export default function Days(document, {
-  values, size, space, padX, padY, colorFun
+  values, size, space, padX, padY, colorFun, onClick, onHover
 }) {
   const weekGroup = document.createElement("g")
   let i = 0
@@ -21,6 +21,8 @@ export default function Days(document, {
       dayNode.setAttribute("fill", colorFun(day))
       dayNode.setAttribute("data-count", day.count)
       dayNode.setAttribute("data-date", formatDate(day.date))
+      dayNode.setAttribute("onclick", onClick(day))
+      dayNode.setAttribute("onmouseover", onHover(day))
       dayGroup.appendChild(dayNode)
     }
     weekGroup.appendChild(dayGroup)

@@ -5,6 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Generate SVG graph",
+            "program": "${workspaceFolder}/utils/svg-graph/index.js",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/utils/svg-graph",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "Get tweets",
             "type": "python",
             "request": "launch",
