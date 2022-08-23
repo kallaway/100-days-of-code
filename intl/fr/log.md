@@ -117,3 +117,21 @@
 **Progrès**: Création d'un convertisseur de devises
 
 **Pensées**: On continue dans la série des petits projets pour progresser en JS. J'ai créé un convertisseur de devises, HTML et CSS terminés, il me reste à peaufiner le JS: tout est créé mais ça ne fonctionne pas encore comme je l'aimerais.
+
+### Jour 19: 21 Août 2022
+
+**Progrès**: Tentatives de fonctionnement du convertisseur de devises
+
+**Pensées**: Rien à dire aujourd'hui, aucune avancée malgré les tentatives.
+
+### Jour 20: 22 Août 2022
+
+**Progrès**: Tentatives de fonctionnement du convertisseur de devises
+
+**Pensées**: Rien à dire aujourd'hui, aucune avancée malgré les tentatives.
+
+### Jour 21: 23 Août 2022
+
+**Progrès**: Avancée sur le convertisseur de devises
+
+**Pensées**: J'ai enfin réussi à avancer sur le convertisseur de devises. J'ai changé mon approche: au lieu de mettre un seul input avec un select déroulant pour choisir les devises (ce que je n'arrivais pas à faire fonctionner), j'ai décidé de créer un input par conversion de devise. Ca charge la page visuellement mais c'est fonctionnel!
