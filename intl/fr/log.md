@@ -135,3 +135,9 @@
 **Progrès**: Avancée sur le convertisseur de devises
 
 **Pensées**: J'ai enfin réussi à avancer sur le convertisseur de devises. J'ai changé mon approche: au lieu de mettre un seul input avec un select déroulant pour choisir les devises (ce que je n'arrivais pas à faire fonctionner), j'ai décidé de créer un input par conversion de devise. Ca charge la page visuellement mais c'est fonctionnel!
+
+### Jour 22: 24 Août 2022
+
+**Progrès**: Avancée sur le convertisseur de devises
+
+**Pensées**: J'ai ajouté 10 possibilités de conversion au convertisseur. C'est un peu monotone étant donné que c'est toujours les mêmes lignes de code avec quelques différences mineures, mais c'est toujours bon pour se familiariser avec le code. De plus, avoir beaucoup de fonctions, de variables et d'eventListeners permet de s'entraîner à organiser les blocs de code et écrire du code propre.
