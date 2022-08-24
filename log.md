@@ -17,3 +17,20 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
+### Day 3 to 11: August 14, 2022 to August 23, 2022
+
+**Today's Progress**: Building a Todo App.
+
+**Thoughts**: Spent the past ten (10) days building a full functional todo app, faced some challenges and will be pausing it for a while, go read and learn some more then get back to it.
+
+**Link(s) to work**: [Todo App](http://www.example.com)
+
+### Day 12: August 24, 2022
+
+**Today's Progress**: Built a JavaScript color flipper.
+
+**Thoughts**: A basic project, to help get back on my feet. Been drained working on the Todo App.
+
+**Link(s) to work**: [Color Flipper](http://www.example.com)
+
+

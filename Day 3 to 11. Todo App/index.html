@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Todo App</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <main class="main">
+    <div class="top-bg"></div>
+    <div class="btm-bg"></div>
+
+    <section class="todo-container">
+      <div class="header">
+        <h1 class="app-name">TODO</h1>
+        <div class="theme-toggle -darkTheme-active-img">
+          <img src="./images/icon-moon.svg" alt="moon image" class="light-theme">
+          <img src="./images/icon-sun.svg" alt="sun image" class="dark-theme">
+        </div>
+      </div>
+
+      <div class="input-field enter-todo-inputField">
+        <div class="checkbox-container ">
+          <img src="./images/icon-check.svg" alt="checkmark" class="checkmark" data-id="0">
+        </div>
+        <input type="text" placeholder="Create a new todo...." class="text-field enterTodo">
+      </div>
+
+      <div class="container-shadow">
+
+        <div class="empty-todo">
+          <h2>TODO Is Empty</h2>
+        </div>
+
+
+        <div class="todo-list">
+          <!-- <div class="input-field todo-list-inputField" data-id="0" data-state="active">
+            <div class="checkbox-container" data-id="0">
+              <img src="./images/icon-check.svg" alt="checkmark" class="checkmark" data-id="0">
+            </div>
+            <p class="text-field todoItem" data-id="0">Watch a Movie</p>
+            <img src="./images/icon-cross.svg" alt="cancel button" class="cancel-btn" data-id="0">
+          </div>
+
+           -->
+        </div>
+
+        <div class="info-panel">
+          <h3 class="todo-item-count"><span class="item-count">0</span> items left</h3>
+          <div class="todo-section-btns">
+            <button class="btn btn-all" data-filter="all">All</button> 
+            <button class="btn btn-active" data-filter="active">Active</button> 
+            <button class="btn btn-complete" data-filter="completed">Completed</button>
+          </div>
+
+          <button class="btn btn-clear">
+            Clear Completed
+          </button>
+        </div>
+      </div>
+
+      <footer>
+        <h4>Drag and drop to reorder list</h4>
+      </footer>
+    </section>
+  </main>
+  
+
+  <script src="./script/app.js"></script>
+</body>
+</html>
