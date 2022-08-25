@@ -141,3 +141,9 @@
 **Progrès**: Avancée sur le convertisseur de devises
 
 **Pensées**: J'ai ajouté 10 possibilités de conversion au convertisseur. C'est un peu monotone étant donné que c'est toujours les mêmes lignes de code avec quelques différences mineures, mais c'est toujours bon pour se familiariser avec le code. De plus, avoir beaucoup de fonctions, de variables et d'eventListeners permet de s'entraîner à organiser les blocs de code et écrire du code propre.
+
+### Jour 23: 25 Août 2022
+
+**Progrès**: Fin du convertisseur de devises, création d'une page de quiz
+
+**Pensées**: J'ai terminé mon convertisseur, il ne restait plus qu'un peu de CSS à ajouter. J'ai créé une page de quiz, ça va me permettre de bien travailler sur les conditions en JS. Je suis en train de faire le contenu HTML pour le moment. 
