@@ -147,3 +147,9 @@
 **Progrès**: Fin du convertisseur de devises, création d'une page de quiz
 
 **Pensées**: J'ai terminé mon convertisseur, il ne restait plus qu'un peu de CSS à ajouter. J'ai créé une page de quiz, ça va me permettre de bien travailler sur les conditions en JS. Je suis en train de faire le contenu HTML pour le moment. 
+
+### Jour 24: 26 Août 2022
+
+**Progrès**: Avancée de la page de quiz
+
+**Pensées**: J'ai eu peu de temps pour coder aujourd'hui. J'ai terminé l'HTML et le CSS de ma page de quiz.
