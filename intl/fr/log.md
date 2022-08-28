@@ -153,3 +153,9 @@
 **Progrès**: Avancée de la page de quiz
 
 **Pensées**: J'ai eu peu de temps pour coder aujourd'hui. J'ai terminé l'HTML et le CSS de ma page de quiz.
+
+### Jour 26: 28 Août 2022
+
+**Progrès**: Fin de la première page de quiz
+
+**Pensées**: J'ai fini de coder la première page de quiz sans le moindre problème! En 1h j'avais fait tout le JS. Je vois bien ma progression maintenant. J'ai recréé la même page sur d'autres fichiers, dans le but de la modifier et de faire quelque chose de plus simple: 1 select par question au lieu de 4 boutons.
