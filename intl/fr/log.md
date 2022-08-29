@@ -159,3 +159,9 @@
 **Progrès**: Fin de la première page de quiz
 
 **Pensées**: J'ai fini de coder la première page de quiz sans le moindre problème! En 1h j'avais fait tout le JS. Je vois bien ma progression maintenant. J'ai recréé la même page sur d'autres fichiers, dans le but de la modifier et de faire quelque chose de plus simple: 1 select par question au lieu de 4 boutons.
+
+### Jour 27: 29 Août 2022
+
+**Progrès**: Fin de la deuxième page de quiz
+
+**Pensées**: J'ai terminé ma deuxième page de quiz. Sans grande difficulté non plus, je commence à bien me familiariser avec les conditions. Cependant au lieu de mettre un select par question, j'ai mis un input pour taper directement la réponse.
