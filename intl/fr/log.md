@@ -165,3 +165,9 @@
 **Progrès**: Fin de la deuxième page de quiz
 
 **Pensées**: J'ai terminé ma deuxième page de quiz. Sans grande difficulté non plus, je commence à bien me familiariser avec les conditions. Cependant au lieu de mettre un select par question, j'ai mis un input pour taper directement la réponse.
+
+### Jour 28: 30 Août 2022
+
+**Progrès**: Amélioration de la page de quiz
+
+**Pensées**: J'ai amélioré de manière conséquente ma page de quiz. Une seule question est affichée à l'écran, et la suivante la remplace lorsque l'on valide la réponse. Coder et appliquer la logique est de plus en plus intuitif!
