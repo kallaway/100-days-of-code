@@ -171,3 +171,9 @@
 **Progrès**: Amélioration de la page de quiz
 
 **Pensées**: J'ai amélioré de manière conséquente ma page de quiz. Une seule question est affichée à l'écran, et la suivante la remplace lorsque l'on valide la réponse. Coder et appliquer la logique est de plus en plus intuitif!
+
+### Jour 29: 31 Août 2022
+
+**Progrès**: Création d'une page de gestion de budget
+
+**Pensées**: J'ai créé une page de gestion de budget. Ca me permettra de travailler avec plusieurs input et une date sur un même bouton, et d'afficher des éléments au clic.
