@@ -177,3 +177,9 @@
 **Progrès**: Création d'une page de gestion de budget
 
 **Pensées**: J'ai créé une page de gestion de budget. Ca me permettra de travailler avec plusieurs input et une date sur un même bouton, et d'afficher des éléments au clic.
+
+### Jour 30: 1er Septembre 2022
+
+**Progrès:** Avancée de la page de gestion de budget
+
+**Pensées**: J'ai commencé JS. J'ai déclaré mes variables, ainsi que mes eventListeners, et j'ai commencé à travailler sur mes fonctions.
