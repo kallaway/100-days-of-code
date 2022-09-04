@@ -183,3 +183,9 @@
 **Progrès:** Avancée de la page de gestion de budget
 
 **Pensées**: J'ai commencé JS. J'ai déclaré mes variables, ainsi que mes eventListeners, et j'ai commencé à travailler sur mes fonctions.
+
+### Jour 33: 4 Septembre 2022
+
+**Progrès:** Avancée de la page de gestion de budget
+
+**Pensées**: J'ai terminé ma page de gestion de budget. Mes fonctions sont 100% opérationnelles. Maintenant je vais me pencher sur les bases de données pour essayer d'enregistrer les opérations que je tape dans l'application.
