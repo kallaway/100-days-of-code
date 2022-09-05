@@ -189,3 +189,9 @@
 **Progrès:** Avancée de la page de gestion de budget
 
 **Pensées**: J'ai terminé ma page de gestion de budget. Mes fonctions sont 100% opérationnelles. Maintenant je vais me pencher sur les bases de données pour essayer d'enregistrer les opérations que je tape dans l'application.
+
+### Jour 34: 05 Septembre 2022
+
+**Progrès**: Apprentissage du localStorage
+
+**Pensées**: J'ai regardé des tutos, et commencé à pratiquer pour utiliser le localStorage afin de sauvegarder mes données pour ne pas les perdre au rafraîchissement de la page. Ca progresse petit à petit!
