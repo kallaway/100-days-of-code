@@ -10,6 +10,8 @@
 **Link to work:** 
 
 * * *
+# SEPTEMBER
+* * *
 
 ### Day 0: September 5, 2022
 
@@ -37,4 +39,10 @@
 **Thoughts:** 
 
 **Link to work:** 
+### Day : September 8, 2022
 
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
