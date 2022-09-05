@@ -16,7 +16,7 @@
 
 **Thoughts:** Python course on Coursera. Struggled with while and for loops
 
-**Link to work:** 
+**Link to work:** https://github.com/binarystone/pythoncrashcourse
 
 ### Day 1: September 6, 2022
 
