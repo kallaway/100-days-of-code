@@ -11,7 +11,6 @@
 
 * * *
 # SEPTEMBER
-* * *
 
 ### Day 0: September 5, 2022
 
