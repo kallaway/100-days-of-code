@@ -31,17 +31,54 @@
 **Link to work:** 
 
 * * *
-### Day : September 7, 2022
+### Day 2: September 7, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
+* * *
+### Day 3: September 8, 2022
 
 **Today's Progress**: 
 
 **Thoughts:** 
 
 **Link to work:** 
-### Day : September 8, 2022
+
+* * *
+### Day 4: September 9, 2022
 
 **Today's Progress**: 
 
 **Thoughts:** 
 
 **Link to work:** 
+* * *
+### Day 5: September 10, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+* * *
+### Day 6: September 11, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+* * *
+### Day 7: September 12, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
