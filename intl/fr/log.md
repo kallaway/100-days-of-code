@@ -195,3 +195,15 @@
 **Progrès**: Apprentissage du localStorage
 
 **Pensées**: J'ai regardé des tutos, et commencé à pratiquer pour utiliser le localStorage afin de sauvegarder mes données pour ne pas les perdre au rafraîchissement de la page. Ca progresse petit à petit!
+
+### Jour 35: 06 Septembre 2022
+
+**Progrès**: Apprentissage du localStorage
+
+**Pensées**: J'ai simplement continué à me renseigner sur le localStorage.
+
+### Jour 36: 07 Septembre 2022
+
+**Progrès**: Apprentissage des bases de données
+
+**Pensées**: Après recherches, il s'avère que le localStorage ne me servira pas pour ce que je veux faire. Je vais devoir utiliser les bases de données. Pour ce faire j'ai commencé à apprendre PostgreSQL.
