@@ -207,3 +207,9 @@
 **Progrès**: Apprentissage des bases de données
 
 **Pensées**: Après recherches, il s'avère que le localStorage ne me servira pas pour ce que je veux faire. Je vais devoir utiliser les bases de données. Pour ce faire j'ai commencé à apprendre PostgreSQL.
+
+### Jour 37: 08 Septembre 2022
+
+**Progrès**: Introduction à pgAdmin 4 
+
+**Pensées**: J'ai appris les bases ainsi que les commandes basiques de pgAdmin 4.
