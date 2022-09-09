@@ -213,3 +213,9 @@
 **Progrès**: Introduction à pgAdmin 4 
 
 **Pensées**: J'ai appris les bases ainsi que les commandes basiques de pgAdmin 4.
+
+### Jour 38: 09 Septembre 2022
+
+**Progrès**: Apprentissage de postgreSQL
+
+**Pensées**: J'apprends à manipuler postgres directement via la console, en tapant des commandes SQL. 
