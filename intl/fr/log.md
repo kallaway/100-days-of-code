@@ -219,3 +219,9 @@
 **Progrès**: Apprentissage de postgreSQL
 
 **Pensées**: J'apprends à manipuler postgres directement via la console, en tapant des commandes SQL. 
+
+### Jour 39: 10 Septembre 2022
+
+**Progrès**: Apprentissage de postgreSQL
+
+**Pensées**: J'ai continué à me renseignerr sur l'utilisation de postgreSQL.
