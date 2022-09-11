@@ -224,4 +224,10 @@
 
 **Progrès**: Apprentissage de postgreSQL
 
-**Pensées**: J'ai continué à me renseignerr sur l'utilisation de postgreSQL.
+**Pensées**: J'ai continué à me renseigner sur l'utilisation de postgreSQL.
+
+### Jour 40: 11 Septembre 2022
+
+**Progrès**: Installation de NodeJS et apprentissage
+
+**Pensées**: J'ai installé Node JS et j'ai commencé à suivre des tutos pour l'utiliser. J'aimerais créer une application de messagerie instantannée.
