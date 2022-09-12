@@ -231,3 +231,9 @@
 **Progrès**: Installation de NodeJS et apprentissage
 
 **Pensées**: J'ai installé Node JS et j'ai commencé à suivre des tutos pour l'utiliser. J'aimerais créer une application de messagerie instantannée.
+
+### Jour 41: 12 Septembre 2022
+
+**Progrès**: Apprentissage de NodeJS
+
+**Pensées**: J'ai continué à apprendre NodeJS.
