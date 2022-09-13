@@ -2,9 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [September 13, Tuesday, 2022].
 
+Programming Language's : Java, Python, WebTechnology .. 
+
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
+### R1Day1 
+   
+  
 ### R1D2
