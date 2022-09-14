@@ -237,3 +237,15 @@
 **Progrès**: Apprentissage de NodeJS
 
 **Pensées**: J'ai continué à apprendre NodeJS.
+
+### Jour 42: 13 Septembre 2022
+
+**Progrès**: Création d'un CV
+
+**Pensées**: Un peu plus léger aujourd'hui, j'ai fait mon CV en HTML / CSS.
+
+### Jour 43: 14 Septembre 2022
+
+**Progrès**: Progression sur l'application de messagerie
+
+**Pensées**: La mise en page de ma salle de chat étant terminée, je travaille sur l'affichage des messages onclick.
