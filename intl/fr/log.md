@@ -249,3 +249,15 @@
 **Progrès**: Progression sur l'application de messagerie
 
 **Pensées**: La mise en page de ma salle de chat étant terminée, je travaille sur l'affichage des messages onclick.
+
+### Jour 44: 15 Septembre 2022
+
+**Progrès**: Apprentissage de Unity
+
+**Pensées**: Pour changer un peu, j'ai téléchargé Unity et j'ai commencé à le prendre en main. Ca fait voir différentes choses tout en restant dans le thème du code. 
+
+### Jour 45: 16 Septembre 2022
+
+**Progrès**: Progression sur l'application de messagerie
+
+**Pensées**: J'ai terminé la fenêtre de messagerie. Il ne me reste plus qu'à mettre tout ça en ligne et ça devrait pouvoir le faire!
