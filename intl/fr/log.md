@@ -274,3 +274,10 @@
 **Progrès**: HTML / CSS
 
 **Pensées**: Détente aujourd'hui, je me suis contenté de coder un peu de HTML / CSS.
+
+
+### Jour 50: 21 Septembre 2022
+
+**Progrès**: Projet Front-End Mentor
+
+**Pensées**: Aujourd'hui j'ai réalisé un petit projet sur Front-End Mentor. Je suis déjà au 50ème jour, c'est-à-dire à la moitié du challenge, et j'ai l'impression de faire du sur-place. Je progresse très peu et je pers un peu en motivation.
