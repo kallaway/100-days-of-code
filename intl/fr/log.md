@@ -261,3 +261,16 @@
 **Progrès**: Progression sur l'application de messagerie
 
 **Pensées**: J'ai terminé la fenêtre de messagerie. Il ne me reste plus qu'à mettre tout ça en ligne et ça devrait pouvoir le faire!
+
+
+### Jour 48: 19 Septembre 2022
+
+**Progrès**: Apprentissage de mySQL
+
+**Pensées**; J'ai commencé à apprendre mySQL pour pouvoir lier une base de données à ma page de messagerie, qui est en ligne. J'ai aussi fait quelques autres pages HTML / CSS pour garder la main.
+
+### Jour 49: 20 Septembre 2022
+
+**Progrès**: HTML / CSS
+
+**Pensées**: Détente aujourd'hui, je me suis contenté de coder un peu de HTML / CSS.
