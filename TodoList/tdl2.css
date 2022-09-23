@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Abel';
+    src: url('polices2/abel/abel-regular.ttf');
+}
+
+
+body {
+    font-family: Abel;
+}
+
+.entete {
+    background-color: red;
+    text-align: center;
+    border: 3px black solid;
+    border-radius: 10px;
+    border-style: none;
+    height: 150px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    font-size: 25px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+ul li {
+    border: 5px solid white;
+    color: white;
+    background-color: darkslategrey;
+    width: 1000px;
+    height: 30px;
+    transition: 0.2s;
+}
+
+ul li:hover {
+    background-color: white;
+    color: black;
+}
+
+.checkedBtn {
+    text-decoration: line-through;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
