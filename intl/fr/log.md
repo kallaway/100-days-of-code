@@ -281,3 +281,9 @@
 **Progrès**: Projet Front-End Mentor
 
 **Pensées**: Aujourd'hui j'ai réalisé un petit projet sur Front-End Mentor. Je suis déjà au 50ème jour, c'est-à-dire à la moitié du challenge, et j'ai l'impression de faire du sur-place. Je progresse très peu et je pers un peu en motivation.
+
+### Jour 55: 26 Septembre 2022
+
+**Progrès**: Reprise des tutos JS
+
+**Pensées**: La motivation est de retour, je me recentre sur les tutos JS et j'évite de partir dans tous les sens. Je structure mes journées et prévois mon emploi du temps à l'avance. J'essaie la méthode Pomodoro et pour le moment ça se passe bien.
