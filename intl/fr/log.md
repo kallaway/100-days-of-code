@@ -287,3 +287,15 @@
 **Progrès**: Reprise des tutos JS
 
 **Pensées**: La motivation est de retour, je me recentre sur les tutos JS et j'évite de partir dans tous les sens. Je structure mes journées et prévois mon emploi du temps à l'avance. J'essaie la méthode Pomodoro et pour le moment ça se passe bien.
+
+### Jour 56: 27 Septembre 2022
+
+**Progrès**: Tutos JS et création d'une page de boutique en ligne
+
+**Pensées**: J'ai continué de regarder des tutos JS et j'ai créé une page de boutique fictive en ligne, contenant des liens redirigeant vers plusieurs des pages que j'ai déjà créées.
+
+### Jour 57: 28 Septembre 2022
+
+**Progrès**: Tutos JS et modification de la page de boutique
+
+**Pensées**: J'ai regardé un Tuto JS supplémentaire, et j'ai modifié ma page de boutique: j'ai changé le background, j'ai ajouté du JS, des éléments cachés, et j'ai embelli le tout.
