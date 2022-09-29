@@ -120,7 +120,7 @@ main {
 .empty-todo h2 {
   font-size: 1.5rem;
   letter-spacing: 1px;
-  color: var(--Dark-Grayish-Blue);
+  color: var(--Light-Grayish-Blue);
 }
 
 /* .todo-list {
@@ -239,7 +239,7 @@ main {
 }
 
 
-.cancel-btn {
+.delete-btn {
   transform: scale(0);
   cursor: pointer;
   padding: 0.2rem;
@@ -251,7 +251,7 @@ main {
   transition: all 0.5s ease-in-out;
 } */
 
-.todo-list-inputField:hover .cancel-btn {
+.todo-list-inputField:hover .delete-btn {
   transform: scale(1.1);
 }
 
@@ -307,7 +307,7 @@ footer {
   box-shadow: 0px 20px 10px 0.8px var(--Very-Dark-Blue);
 } */
 
-.darkTheme-active .cancel-btn {
+.darkTheme-active .delete-btn {
   color: var(--Light-Grayish-Blue);
 }
 
@@ -322,10 +322,6 @@ footer {
 .darkTheme-active .empty-todo {
   background: var(--Very-Dark-Desaturated-Blue);
   border-bottom: 1px solid var(--Dark-Grayish-Blue);
-}
-
-.empty-todo h2 {
-  color: var(--Light-Grayish-Blue);
 }
 
 .hide-input-field {
@@ -377,7 +373,7 @@ footer {
     width: 80%;
   }
 
-  .text-field, .cancel-btn{
+  .text-field, .delete-btn{
     font-size: 1.2rem;
   }
 
@@ -406,7 +402,7 @@ footer {
     gap: 0.15rem;
   }
 
-  .text-field, .cancel-btn{
+  .text-field, .delete-btn{
     font-size: 1.15rem;
   }
 
