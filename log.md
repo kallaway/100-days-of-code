@@ -14,8 +14,8 @@
 
 **Link to work:** [LeetCode Account](https://leetcode.com/rahulrajput83/)
 
-### Day 3: October 03, 2022
+### Day 3: October 04, 2022
 
 **Today's Progress**: Completed Project Build a Random Quote Machine & Build a Markdown Previewer of Front End Development Libraries (freeCodeCamp).
 
-**Link to work:** [Random Quote Machine](https://codepen.io/rahulrajput83/pen/ExLRbRq)      [Markdown Previewer](https://codepen.io/rahulrajput83/details/eYrKVJv)
+**Link to work:** [Random Quote Machine](https://codepen.io/rahulrajput83/pen/ExLRbRq)      [Markdown Previewer](https://codepen.io/rahulrajput83/pen/eYrKVJv)
