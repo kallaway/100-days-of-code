@@ -299,3 +299,9 @@
 **Progrès**: Tutos JS et modification de la page de boutique
 
 **Pensées**: J'ai regardé un Tuto JS supplémentaire, et j'ai modifié ma page de boutique: j'ai changé le background, j'ai ajouté du JS, des éléments cachés, et j'ai embelli le tout.
+
+### Jour 64: 05 Octobre 2022
+
+**Progrès**: Tutos JS et calculatrice
+
+**Pensées**: J'ai oublié de faire les log ces derniers jours! J'ai continué à regarder des tutos JS sur YouTube, et je viens de terminer une petite application de calculatrice. Les deux nombres sont à entrer dans deux input différents et 4 boutons différents déclenchent une addition, une soustraction, une multiplication ou une division. Chaque opération est visible en dessous après avoir été éxécutée, un peu comme un historique.
