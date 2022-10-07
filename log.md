@@ -25,6 +25,10 @@
 
 **Today's Progress**: Completed Palindrome Checker of JavaScript Algorithms and Data Structures Projects (freeCodeCamp).
 
-### Day 4: October 06, 2022
+### Day 5: October 06, 2022
 
 **Today's Progress**: Completed Roman Numeral Converter of JavaScript Algorithms and Data Structures (freeCodeCamp).
+
+### Day 6: October 07, 2022
+
+**Today's Progress**: Taking Javascript Course on sololearn.com
