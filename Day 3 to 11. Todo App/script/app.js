@@ -10,7 +10,7 @@ let filterBtnArray = Array.from(document.querySelectorAll('.btn'));
 const clearBtn = document.querySelector('.btn-clear');
 let inputFieldArray;
 
-let todoListItems;
+let todoListItems = [];
 let itemId = 0;
 let itemState = 'active';
 
@@ -30,12 +30,19 @@ window.addEventListener('keydown', (e) => {
   }
 });
 
+window.addEventListener('DOMContentLoaded', displayItems);
+function displayItems(){
+  let items = getLocalStorage();
+  items.forEach((item) => {
+    createListItems(item.id, item.value);
+    todoListItems = Array.from(document.querySelectorAll('.todo-list-inputField'));
+  });
 
+  itemCount.textContent = todoParentContainer.childElementCount;
+}
 
-function updateTodoHtml(){
-  itemId++;
-  let enteredTodoItem = todoInputField.value;
-
+function createListItems(id, value){
+  
   const divElement = document.createElement('div');
   divElement.classList.add('input-field', 'todo-list-inputField')
   const idAttr = document.createAttribute('data-id');
@@ -46,11 +53,11 @@ function updateTodoHtml(){
   divElement.setAttributeNode(stateAttr);
   
   divElement.innerHTML = `
-    <div class="checkbox-container" data-id="${itemId}">
-      <img src="./images/icon-check.svg" alt="checkmark" class="checkmark" data-id="${itemId}">
+    <div class="checkbox-container" data-id="${id}">
+      <img src="./images/icon-check.svg" alt="checkmark" class="checkmark" data-id="${id}">
     </div>
-    <p class="text-field todoItem" data-id="${itemId}">${enteredTodoItem}</p>
-    <img src="./images/icon-cross.svg" alt="delete button" class="delete-btn" data-id="${itemId}">
+    <p class="text-field todoItem" data-id="${id}">${value}</p>
+    <img src="./images/icon-cross.svg" alt="delete button" class="delete-btn" data-id="${id}">
   `
 
   const deleteBtn = divElement.querySelector('.delete-btn');
@@ -60,24 +67,33 @@ function updateTodoHtml(){
   deleteBtn.addEventListener('click', deleteItem)
 
   todoParentContainer.appendChild(divElement);
-  todoListItems = Array.from(document.querySelectorAll('.todo-list-inputField'));
   emptyTodo.style.display = 'none';
   todoParentContainer.style.display = 'block';
   setDefault();
-};
+}
 
-// checkboxFunction();
+function updateTodoHtml(){
+  itemId++;
+  let enteredTodoItem = todoInputField.value;
+
+  createListItems(itemId, enteredTodoItem);
+  todoListItems = Array.from(document.querySelectorAll('.todo-list-inputField'));
+  addToLocalStorage(itemId, enteredTodoItem);
+};
 
 function deleteItem(e){
   let element = e.currentTarget.parentElement;
+  const id = element.dataset.id;
+  console.log(id);
   todoParentContainer.removeChild(element);
   let itemNumber = todoParentContainer.childElementCount;
   itemCount.textContent = itemNumber;
-
+  
   if(itemNumber === 0){
     emptyTodo.style.display = 'grid';
     todoParentContainer.style.display = 'none';
   } 
+  removeFromLocalStorage(id);
 }
 
 function setDefault(){
@@ -124,7 +140,8 @@ function changeState(container){
 
   todoSections.addEventListener('click', (e) => {
     let filterBtnClass = e.target.classList;
-    // let filterState = e.target.dataset.filter;
+    let activeFilter = [];
+    
 
     filterBtnArray.map((e) => {
       if(e.classList.contains('active-section')){
@@ -134,33 +151,73 @@ function changeState(container){
 
     filterBtnClass.add('active-section');
 
+    todoListItems.map((e) => {
+      if(e.classList.contains('hide-input-field')){
+          e.classList.toggle('hide-input-field');
+        }
+  })
+
     if(filterBtnClass.contains('btn-active')){
-      let activeFilter = todoListItems.filter((item) => {
-        if(item.dataset.state === 'active'){
-          return item
+      
+      activeFilter = todoListItems.filter((item) => {
+        if(!(item.dataset.state === 'active')){
+          return item;
         }
-      })
-
-      // console.log(activeFilter);
-      // console.log(todoListItems);
-
-      // console.log(...activeFilter);
-
-      const result = (arrays) => {
-        for(let i = 0; i < todoListItems.length; i++){
-          return arrays[i];
+      }); 
+    }
+    
+    if(filterBtnClass.contains('btn-complete')){
+      activeFilter = todoListItems.filter((item) => {
+        if(!(item.dataset.state === 'completed')){
+          return item;
         }
+      }); 
+    }
+
+    activeFilter.forEach((item) => {
+      item.classList.toggle('hide-input-field');
+    })
+  })
+
+  clearBtn.addEventListener('click', () => {
+    deleteItems();
+  })
+
+  function deleteItems(){
+    let children = [...todoParentContainer.children];
+    children.forEach(item => {
+    if(item.dataset.state === "completed")
+      todoParentContainer.removeChild(item);
+    });
+    itemCount.textContent = todoParentContainer.childElementCount;
+  }
+
+  function addToLocalStorage(id, value){
+    let todo = {id, value}
+    let items = getLocalStorage();
+  
+    items.push(todo);
+    localStorage.setItem('list', JSON.stringify(items));
+  }
+  
+  function getLocalStorage(){
+    return localStorage.getItem('list')? JSON.parse(localStorage.getItem('list')): [];
+  }
+  
+  function removeFromLocalStorage(id) {
+    let items = getLocalStorage();
+  
+    items = items.filter((item) => {
+      if(item.id != id){
+        console.log(item);
+        console.log(item.id, id);
+        return item;
         
       }
+    });
 
-      let answer = result(activeFilter);
-      console.log(answer)
-
-      // todoParentContainer.innerHTML = `$`
-      
-      
-    }
-  })
+    localStorage.setItem('list', JSON.stringify(items));
+  }
 
   
 
