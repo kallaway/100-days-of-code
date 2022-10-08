@@ -30,16 +30,16 @@ window.addEventListener('keydown', (e) => {
   }
 });
 
-window.addEventListener('DOMContentLoaded', displayItems);
-function displayItems(){
-  let items = getLocalStorage();
-  items.forEach((item) => {
-    createListItems(item.id, item.value);
-    todoListItems = Array.from(document.querySelectorAll('.todo-list-inputField'));
-  });
+// window.addEventListener('DOMContentLoaded', displayItems);
+// function displayItems(){
+//   let items = getLocalStorage();
+//   items.forEach((item) => {
+//     createListItems(item.id, item.value);
+//     todoListItems = Array.from(document.querySelectorAll('.todo-list-inputField'));
+//   });
 
-  itemCount.textContent = todoParentContainer.childElementCount;
-}
+//   itemCount.textContent = todoParentContainer.childElementCount;
+// }
 
 function createListItems(id, value){
   
