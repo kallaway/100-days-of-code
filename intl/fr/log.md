@@ -305,3 +305,15 @@
 **Progrès**: Tutos JS et calculatrice
 
 **Pensées**: J'ai oublié de faire les log ces derniers jours! J'ai continué à regarder des tutos JS sur YouTube, et je viens de terminer une petite application de calculatrice. Les deux nombres sont à entrer dans deux input différents et 4 boutons différents déclenchent une addition, une soustraction, une multiplication ou une division. Chaque opération est visible en dessous après avoir été éxécutée, un peu comme un historique.
+
+### Jour 65: 06 Octobre 2022
+
+**Progrès**: Nouvelle To-Do List
+
+**Pensées**: J'ai recréé une To-Do list, sans tutos, seulement en me creusant la tête. C'est toujours très satisfaisant quand tout fonctionne. Je l'ai faite en une après-midi, en faisant des petites pauses toutes les 25 minutes.
+
+### Jour 67: 08 Octobre 2022
+
+**Progrès**: Création d'un jeu de casse-briques en JS
+
+**Pensées**: J'ai beaucoup progressé aujourd'hui. J'ai suivi un tuto pour créer un jeu de casse-briques 100% en JS, j'ai écrit le code le plus complexe depuis que j'ai commencé et j'en ai compris la majorité. Je suis plutôt content.
