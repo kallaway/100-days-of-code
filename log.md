@@ -32,3 +32,7 @@
 ### Day 6: October 07, 2022
 
 **Today's Progress**: Taking Javascript Course on sololearn.com
+
+### Day 7: October 08, 2022
+
+**Today's Progress**: Completed 4 modules of Javascript Course on sololearn.com
