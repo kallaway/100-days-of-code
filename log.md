@@ -36,3 +36,7 @@
 ### Day 7: October 08, 2022
 
 **Today's Progress**: Completed 4 modules of Javascript Course on sololearn.com
+
+### Day 8: October 09, 2022
+
+**Today's Progress**: Completed Javascript Certification Course on sololearn.com
