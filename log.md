@@ -44,3 +44,7 @@
 ### Day 9: October 10, 2022
 
 **Today's Progress**: Completed HTML Certification Course on sololearn.com
+
+### Day 10: October 11, 2022
+
+**Today's Progress**: Learning CSS properties
