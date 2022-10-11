@@ -317,3 +317,9 @@
 **Progrès**: Création d'un jeu de casse-briques en JS
 
 **Pensées**: J'ai beaucoup progressé aujourd'hui. J'ai suivi un tuto pour créer un jeu de casse-briques 100% en JS, j'ai écrit le code le plus complexe depuis que j'ai commencé et j'en ai compris la majorité. Je suis plutôt content.
+
+### Jour 70: 11 Octobre 2022
+
+**Progrès**: Création d'une horloge en JS
+
+**Pensées**: Je n'ai pas pu coder ces 3 derniers jours, j'ai repris le travail. J'ai pu prendre une heure ce soir pour m'y remettre. J'ai commencé à coder une horloge en JS. Le temps s'affiche mais ne se met pas à jour automatiquement. Je vais trouver la solution demain.
