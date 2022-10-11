@@ -40,3 +40,7 @@
 ### Day 8: October 09, 2022
 
 **Today's Progress**: Completed Javascript Certification Course on sololearn.com
+
+### Day 9: October 10, 2022
+
+**Today's Progress**: Completed HTML Certification Course on sololearn.com
