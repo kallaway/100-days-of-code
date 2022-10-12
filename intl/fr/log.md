@@ -323,3 +323,9 @@
 **Progrès**: Création d'une horloge en JS
 
 **Pensées**: Je n'ai pas pu coder ces 3 derniers jours, j'ai repris le travail. J'ai pu prendre une heure ce soir pour m'y remettre. J'ai commencé à coder une horloge en JS. Le temps s'affiche mais ne se met pas à jour automatiquement. Je vais trouver la solution demain.
+
+### Jour 71: 12 Octobre 2022
+
+**Progrès**: Fin de l'horloge en JS
+
+**Pensées**: J'ai terminé mon horloge en JS, j'ai trouvé le moyen de recharger la page chaque seconde. J'ai ajouté la date et un titre, un cadre autour et le tour est joué.
