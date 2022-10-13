@@ -48,3 +48,11 @@
 ### Day 10: October 11, 2022
 
 **Today's Progress**: Learning CSS properties
+
+### Day 11: October 12, 2022
+
+**Today's Progress**: Working on portfolio project with pure HTML and CSS.
+
+### Day 12: October 13, 2022
+
+**Today's Progress**: Working on the same portfolio project as working yesterday with pure HTML and CSS.
