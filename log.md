@@ -56,3 +56,7 @@
 ### Day 12: October 13, 2022
 
 **Today's Progress**: Working on the same portfolio project as working yesterday with pure HTML and CSS.
+
+### Day 13: October 14, 2022
+
+**Today's Progress**: Creating cards like Spotify album in React.Js.
