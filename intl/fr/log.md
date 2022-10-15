@@ -329,3 +329,15 @@
 **Progrès**: Fin de l'horloge en JS
 
 **Pensées**: J'ai terminé mon horloge en JS, j'ai trouvé le moyen de recharger la page chaque seconde. J'ai ajouté la date et un titre, un cadre autour et le tour est joué.
+
+### Jour 72: 13 Octobre 2022
+
+**Progrès**: Compte à rebours JS
+
+**Pensées**: J'ai eu l'idée de créer un petit compte à rebours en JS. Tout est fonctionnel, il me reste à peaufiner l'affichage et éventuellement intégrer des minutes au lieu de procéder uniquement en secondes.
+
+### Jour 74: 15 Octobre 2022
+
+**Progrès**: Début de projet
+
+**Pensées**: J'ai eu une super idée de projet à long terme. J'ai donc entamé ce projet.
