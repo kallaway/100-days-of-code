@@ -125,3 +125,7 @@ Completed this: https://rahulrajput83-hotstar.netlify.app
 ### Day 29: October 30, 2022
 
 **Today's Progress**: Cloning zomato food delivery website using React.Js.
+
+### Day 30: October 31, 2022
+
+**Today's Progress**: Cloning zomato food delivery website using React.Js.
