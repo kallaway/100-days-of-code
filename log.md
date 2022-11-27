@@ -68,3 +68,7 @@
 ### Day 15: October 16, 2022
 
 **Today's Progress**:  Completing Frontend library course on freeCodeCamp.
+
+### Day 16: October 17, 2022
+
+**Today's Progress**: Continue the Frontend library course on freeCodeCamp.
