@@ -174,3 +174,7 @@ zomato.
 ### Day 41: November 11, 2022
 
 **Today's Progress**: Worked on Zomato clone project.
+
+### Day 42: November 12, 2022
+
+**Today's Progress**: Worked on Zomato clone project & Completed new page.
