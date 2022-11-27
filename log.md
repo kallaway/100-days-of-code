@@ -92,3 +92,7 @@
 ### Day 21: October 22, 2022
 
 **Today's Progress**: Working on the same project as yesterday.
+
+### Day 22: October 23, 2022
+
+**Today's Progress**: Learning CSS properties.
