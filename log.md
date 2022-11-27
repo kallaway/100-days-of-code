@@ -182,3 +182,7 @@ zomato.
 ### Day 43: November 13, 2022
 
 **Today's Progress**: Worked on Zomato clone project.
+
+### Day 44: November 14, 2022
+
+**Today's Progress**: Completed one project of JavaScript Algorithms and Data Structures course on freeCodeCamp.
