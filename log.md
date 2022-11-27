@@ -218,3 +218,7 @@ zomato.
 ### Day 52: November 22, 2022
 
 **Today's Progress**: Windows got corrupted so can't code.
+
+### Day 53: November 23, 2022
+
+**Today's Progress**: Windows got corrupted so can't code.
