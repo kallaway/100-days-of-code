@@ -72,3 +72,7 @@
 ### Day 16: October 17, 2022
 
 **Today's Progress**: Continue the Frontend library course on freeCodeCamp.
+
+### Day 17: October 18, 2022
+
+**Today's Progress**: Creating mini projets with HTML, CSS & JavaScript.
