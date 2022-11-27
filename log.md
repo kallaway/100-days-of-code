@@ -166,3 +166,7 @@ zomato.
 ### Day 39: November 09, 2022
 
 **Today's Progress**: Worked on portfolio project and added new features in it.
+
+### Day 40: November 10, 2022
+
+**Today's Progress**: Worked on portfolio project.
