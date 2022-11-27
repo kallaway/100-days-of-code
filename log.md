@@ -142,3 +142,7 @@ zomato.
 ### Day 33: November 03, 2022
 
 **Today's Progress**: Completed Quiz project backend and added JWT in it.
+
+### Day 34: November 04, 2022
+
+**Today's Progress**: Worked on zomato clone project.
