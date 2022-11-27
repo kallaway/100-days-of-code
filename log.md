@@ -146,3 +146,7 @@ zomato.
 ### Day 34: November 04, 2022
 
 **Today's Progress**: Worked on zomato clone project.
+
+### Day 35: November 05, 2022
+
+**Today's Progress**: Worked on frontend of Quiz project.
