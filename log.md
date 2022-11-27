@@ -64,3 +64,7 @@
 ### Day 14: October 15, 2022
 
 **Today's Progress**: Learning Javascript in-built methods.
+
+### Day 15: October 16, 2022
+
+**Today's Progress**:  Completing Frontend library course on freeCodeCamp.
