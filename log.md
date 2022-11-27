@@ -154,3 +154,7 @@ zomato.
 ### Day 36: November 06, 2022
 
 **Today's Progress**: Worked on frontend of Quiz project.
+
+### Day 37: November 07, 2022
+
+**Today's Progress**: Worked on frontend of Quiz project.
