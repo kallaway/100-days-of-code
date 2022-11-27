@@ -60,3 +60,7 @@
 ### Day 13: October 14, 2022
 
 **Today's Progress**: Creating cards like Spotify album in React.Js.
+
+### Day 14: October 15, 2022
+
+**Today's Progress**: Learning Javascript in-built methods.
