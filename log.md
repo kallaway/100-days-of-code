@@ -158,3 +158,7 @@ zomato.
 ### Day 37: November 07, 2022
 
 **Today's Progress**: Worked on frontend of Quiz project.
+
+### Day 38: November 08, 2022
+
+**Today's Progress**: Completed Full Stack Quiz project.
