@@ -88,3 +88,7 @@
 ### Day 20: October 21, 2022
 
 **Today's Progress**: Trying to clone the homepage of Disney+ Hotstar with HTML, CSS.
+
+### Day 21: October 22, 2022
+
+**Today's Progress**: Working on the same project as yesterday.
