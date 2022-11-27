@@ -84,3 +84,7 @@
 ### Day 19: October 20, 2022
 
 **Today's Progress**: Completed Order summary card challenge of frontendmentor.
+
+### Day 20: October 21, 2022
+
+**Today's Progress**: Trying to clone the homepage of Disney+ Hotstar with HTML, CSS.
