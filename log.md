@@ -170,3 +170,7 @@ zomato.
 ### Day 40: November 10, 2022
 
 **Today's Progress**: Worked on portfolio project.
+
+### Day 41: November 11, 2022
+
+**Today's Progress**: Worked on Zomato clone project.
