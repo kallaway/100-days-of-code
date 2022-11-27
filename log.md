@@ -80,3 +80,7 @@
 ### Day 18: October 19, 2022
 
 **Today's Progress**: Completed project with pure HTML, CSS & JavaScript.
+
+### Day 19: October 20, 2022
+
+**Today's Progress**: Completed Order summary card challenge of frontendmentor.
