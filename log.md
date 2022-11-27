@@ -134,3 +134,7 @@ Completed this: https://rahulrajput83-hotstar.netlify.app
 
 **Today's Progress**: Completed cloning of the Homepage of 
 zomato.
+
+### Day 32: November 02, 2022
+
+**Today's Progress**: Learned JWT Auth.
