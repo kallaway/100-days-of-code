@@ -96,3 +96,8 @@
 ### Day 22: October 23, 2022
 
 **Today's Progress**: Learning CSS properties.
+
+### Day 23: October 24, 2022
+
+**Today's Progress**: Worked on Disney+ Hotstar Clone with HTML, CSS, and JavaScript.
+Completed this: https://rahulrajput83-hotstar.netlify.app
