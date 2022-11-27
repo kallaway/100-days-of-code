@@ -117,3 +117,7 @@ Completed this: https://rahulrajput83-hotstar.netlify.app
 ### Day 27: October 28, 2022
 
 **Today's Progress**: Created backend nodejs application for todos.
+
+### Day 28: October 29, 2022
+
+**Today's Progress**: Started new ReactJs project of cloning one of top e-commerce site.
