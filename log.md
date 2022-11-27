@@ -210,3 +210,7 @@ zomato.
 ### Day 50: November 20, 2022
 
 **Today's Progress**: Solved two leetcode problems.
+
+### Day 51: November 21, 2022
+
+**Today's Progress**: Solved one leetcode problem.
