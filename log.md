@@ -186,3 +186,7 @@ zomato.
 ### Day 44: November 14, 2022
 
 **Today's Progress**: Completed one project of JavaScript Algorithms and Data Structures course on freeCodeCamp.
+
+### Day 45: November 15, 2022
+
+**Today's Progress**: Completed one more project of JavaScript Algorithms and Data Structures course on freeCodeCamp.
