@@ -76,3 +76,7 @@
 ### Day 17: October 18, 2022
 
 **Today's Progress**: Creating mini projets with HTML, CSS & JavaScript.
+
+### Day 18: October 19, 2022
+
+**Today's Progress**: Completed project with pure HTML, CSS & JavaScript.
