@@ -230,3 +230,7 @@ zomato.
 ### Day 55: November 25, 2022
 
 **Today's Progress**: Solved one leetcode problem.
+
+### Day 56: November 26, 2022
+
+**Today's Progress**: Completed some javascript assignments.
