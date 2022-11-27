@@ -226,3 +226,7 @@ zomato.
 ### Day 54: November 24, 2022
 
 **Today's Progress**: Solved one leetcode problem.
+
+### Day 55: November 25, 2022
+
+**Today's Progress**: Solved one leetcode problem.
