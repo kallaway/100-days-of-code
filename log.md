@@ -105,3 +105,7 @@ Completed this: https://rahulrajput83-hotstar.netlify.app
 ### Day 24: October 25, 2022
 
 **Today's Progress**: Added Corousel in Disney+ Hotstar Clone project.
+
+### Day 25: October 26, 2022
+
+**Today's Progress**: Learning some JavaScript stuff.
