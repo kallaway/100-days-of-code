@@ -101,3 +101,7 @@
 
 **Today's Progress**: Worked on Disney+ Hotstar Clone with HTML, CSS, and JavaScript.
 Completed this: https://rahulrajput83-hotstar.netlify.app
+
+### Day 24: October 25, 2022
+
+**Today's Progress**: Added Corousel in Disney+ Hotstar Clone project.
