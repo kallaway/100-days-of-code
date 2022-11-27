@@ -222,3 +222,7 @@ zomato.
 ### Day 53: November 23, 2022
 
 **Today's Progress**: Windows got corrupted so can't code.
+
+### Day 54: November 24, 2022
+
+**Today's Progress**: Solved one leetcode problem.
