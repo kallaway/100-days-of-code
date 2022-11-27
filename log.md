@@ -109,3 +109,7 @@ Completed this: https://rahulrajput83-hotstar.netlify.app
 ### Day 25: October 26, 2022
 
 **Today's Progress**: Learning some JavaScript stuff.
+
+### Day 26: October 27, 2022
+
+**Today's Progress**: Facing issues related to WSL2 on VSCode, trying to solve it so can't worked on any project.
