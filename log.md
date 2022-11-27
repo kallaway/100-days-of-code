@@ -138,3 +138,7 @@ zomato.
 ### Day 32: November 02, 2022
 
 **Today's Progress**: Learned JWT Auth.
+
+### Day 33: November 03, 2022
+
+**Today's Progress**: Completed Quiz project backend and added JWT in it.
