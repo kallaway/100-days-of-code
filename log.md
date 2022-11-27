@@ -202,3 +202,7 @@ zomato.
 ### Day 48: November 18, 2022
 
 **Today's Progress**: Taking Front End Development Libraries certification course on freeCodeCamp.
+
+### Day 49: November 19, 2022
+
+**Today's Progress**: Completed one project of Front End Development Libraries certification course on freeCodeCamp.
