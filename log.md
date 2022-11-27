@@ -113,3 +113,7 @@ Completed this: https://rahulrajput83-hotstar.netlify.app
 ### Day 26: October 27, 2022
 
 **Today's Progress**: Facing issues related to WSL2 on VSCode, trying to solve it so can't worked on any project.
+
+### Day 27: October 28, 2022
+
+**Today's Progress**: Created backend nodejs application for todos.
