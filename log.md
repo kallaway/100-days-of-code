@@ -266,8 +266,14 @@ zomato.
 389. Find The Difference
 557. Reverse Words in a String III
 
-### Day 64: December 0, 2022
+### Day 64: December 04, 2022
 
 **Today's Progress**: Solved 2 Leet Code Problems.
 709. To Lower Case
 448. Find All Numbers Disappeared in an Array
+
+### Day 65: December 05, 2022
+
+**Today's Progress**: Completed 2 projects of Legacy Front End on freeCodeCamp.
+- Show the Local Weather
+- Use the TwitchTV JSON API
