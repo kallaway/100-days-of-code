@@ -265,3 +265,9 @@ zomato.
 344. Reverse String
 389. Find The Difference
 557. Reverse Words in a String III
+
+### Day 64: December 0, 2022
+
+**Today's Progress**: Solved 2 Leet Code Problems.
+709. To Lower Case
+448. Find All Numbers Disappeared in an Array
