@@ -258,3 +258,10 @@ zomato.
 ### Day 62: December 02, 2022
 
 **Today's Progress**: (Same as yesterday) Worked on chat app with React.js.
+
+### Day 63: December 03, 2022
+
+**Today's Progress**: Solved 3 Leet Code Problems.
+344. Reverse String
+389. Find The Difference
+557. Reverse Words in a String III
