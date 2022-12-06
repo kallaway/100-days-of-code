@@ -254,3 +254,7 @@ zomato.
 ### Day 61: December 01, 2022
 
 **Today's Progress**: Worked on chat app with React.js. Not yet completed
+
+### Day 62: December 02, 2022
+
+**Today's Progress**: (Same as yesterday) Worked on chat app with React.js.
