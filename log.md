@@ -250,3 +250,7 @@ zomato.
 ### Day 60: November 30, 2022
 
 **Today's Progress**: Learning SASS by implanting in the project.
+
+### Day 61: December 01, 2022
+
+**Today's Progress**: Worked on chat app with React.js. Not yet completed
