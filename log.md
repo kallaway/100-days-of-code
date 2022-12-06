@@ -238,3 +238,7 @@ zomato.
 ### Day 57: November 27, 2022
 
 **Today's Progress**: Tried two leetcode problems but have not been able to solve them yet.
+
+### Day 58: November 28, 2022
+
+**Today's Progress**:  Portfolio with pure HTML & CSS.
