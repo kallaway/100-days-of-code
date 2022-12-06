@@ -246,3 +246,7 @@ zomato.
 ### Day 59: November 29, 2022
 
 **Today's Progress**: Starting learning SASS.
+
+### Day 60: November 30, 2022
+
+**Today's Progress**: Learning SASS by implanting in the project.
