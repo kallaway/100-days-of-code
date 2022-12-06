@@ -242,3 +242,7 @@ zomato.
 ### Day 58: November 28, 2022
 
 **Today's Progress**:  Portfolio with pure HTML & CSS.
+
+### Day 59: November 29, 2022
+
+**Today's Progress**: Starting learning SASS.
