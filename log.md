@@ -327,3 +327,7 @@ Capitalize the Title
 ### Day 74: December 15, 2022
 
 **Today's Progress**: Tried to solve some leetcode problems but not yet solved and worked on portfolio project.
+
+### Day 75: December 16, 2022
+
+**Today's Progress**: Added one new feature in portfolio project.
