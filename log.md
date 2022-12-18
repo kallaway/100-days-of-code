@@ -331,3 +331,7 @@ Capitalize the Title
 ### Day 75: December 16, 2022
 
 **Today's Progress**: Added one new feature in portfolio project.
+
+### Day 76: December 17, 2022
+
+**Today's Progress**: Tried some problems on leetcode.
