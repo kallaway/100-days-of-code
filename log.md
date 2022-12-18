@@ -296,3 +296,11 @@ zomato.
 
 **Today's Progress**: Solved 1 leetcode problem.
 Add Digits
+
+### Day 69: December 10, 2022
+
+**Today's Progress**:  Solved
+Defanging an IP Address
+Sum of Unique Elements
+Sign of the Product of an Array
+Capitalize the Title
