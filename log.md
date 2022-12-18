@@ -291,3 +291,8 @@ zomato.
 ### Day 68: December 08, 2022
 
 **Today's Progress**: Completed Build a JavaScript Calculator project of Legacy Front End on freeCodeCamp.
+
+### Day 69: December 09, 2022
+
+**Today's Progress**: Solved 1 leetcode problem.
+Add Digits
