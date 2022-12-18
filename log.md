@@ -335,3 +335,7 @@ Capitalize the Title
 ### Day 76: December 17, 2022
 
 **Today's Progress**: Tried some problems on leetcode.
+
+### Day 77: December 18, 2022
+
+**Today's Progress**:  Played with some regex problems.
