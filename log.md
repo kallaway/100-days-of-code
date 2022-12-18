@@ -319,3 +319,7 @@ Capitalize the Title
 ### Day 72: December 13, 2022
 
 **Today's Progress**: I just earned the Front End Development Libraries certification.
+
+### Day 73: December 14, 2022
+
+**Today's Progress**: Worked zomato clone project.
