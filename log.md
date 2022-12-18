@@ -323,3 +323,7 @@ Capitalize the Title
 ### Day 73: December 14, 2022
 
 **Today's Progress**: Worked zomato clone project.
+
+### Day 74: December 15, 2022
+
+**Today's Progress**: Tried to solve some leetcode problems but not yet solved and worked on portfolio project.
