@@ -308,3 +308,10 @@ Capitalize the Title
 ### Day 70: December 11, 2022
 
 **Today's Progress**: Learned some javascript concept.
+
+### Day 71: December 12, 2022
+
+**Today's Progress**: Solved
+169. Majority Element
+1480. Running Sum of 1d Array
+1528. Shuffle String
