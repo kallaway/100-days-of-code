@@ -315,3 +315,7 @@ Capitalize the Title
 169. Majority Element
 1480. Running Sum of 1d Array
 1528. Shuffle String
+
+### Day 72: December 13, 2022
+
+**Today's Progress**: I just earned the Front End Development Libraries certification.
