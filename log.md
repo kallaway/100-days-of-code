@@ -304,3 +304,7 @@ Defanging an IP Address
 Sum of Unique Elements
 Sign of the Product of an Array
 Capitalize the Title
+
+### Day 70: December 11, 2022
+
+**Today's Progress**: Learned some javascript concept.
