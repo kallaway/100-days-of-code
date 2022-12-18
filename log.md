@@ -277,3 +277,9 @@ zomato.
 **Today's Progress**: Completed 2 projects of Legacy Front End on freeCodeCamp.
 - Show the Local Weather
 - Use the TwitchTV JSON API
+
+### Day 66: December 06, 2022
+
+**Today's Progress**: Solved 2 leetcode problems.
+9. Palindrome Number
+283. Move Zeroes
