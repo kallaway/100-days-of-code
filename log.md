@@ -283,3 +283,7 @@ zomato.
 **Today's Progress**: Solved 2 leetcode problems.
 9. Palindrome Number
 283. Move Zeroes
+
+### Day 67: December 07, 2022
+
+**Today's Progress**: Completed Build a 25 + 5 Clock project of Legacy Front End on freeCodeCamp.
