@@ -364,3 +364,7 @@ Capitalize the Title
 ### Day 83: December 24, 2022
 
 **Today's Progress**: Started new react native project.
+
+### Day 84: December 25, 2022
+
+**Today's Progress**: Worked on react native project.
