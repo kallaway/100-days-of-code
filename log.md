@@ -344,3 +344,7 @@ Capitalize the Title
 
 **Today's Progress**: Solved leetcode problem.
 217. Contains Duplicate
+
+### Day 79: December 20, 2022
+
+**Today's Progress**: Solved some problem on hackerRank.
