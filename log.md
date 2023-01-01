@@ -348,3 +348,7 @@ Capitalize the Title
 ### Day 79: December 20, 2022
 
 **Today's Progress**: Solved some problem on hackerRank.
+
+### Day 80: December 21, 2022
+
+**Today's Progress**: Started learning Next.js.
