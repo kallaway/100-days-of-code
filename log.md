@@ -360,3 +360,7 @@ Capitalize the Title
 ### Day 82: December 23, 2022
 
 **Today's Progress**: Worked on a full Stack To-Do project with Next.js.
+
+### Day 83: December 24, 2022
+
+**Today's Progress**: Started new react native project.
