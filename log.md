@@ -372,3 +372,7 @@ Capitalize the Title
 ### Day 85: December 26, 2022
 
 **Today's Progress**: Worked on recipe app project in react native.
+
+### Day 86: December 27, 2022
+
+**Today's Progress**: Worked on recipe app project in react native.
