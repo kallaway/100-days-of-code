@@ -356,3 +356,7 @@ Capitalize the Title
 ### Day 81: December 22, 2022
 
 **Today's Progress**: Started Full Stack Next.js project.
+
+### Day 82: December 23, 2022
+
+**Today's Progress**: Worked on a full Stack To-Do project with Next.js.
