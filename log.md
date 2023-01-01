@@ -380,3 +380,7 @@ Capitalize the Title
 ### Day 87: December 28, 2022
 
 **Today's Progress**: Started a new e-commerce project on react native.
+
+### Day 88: December 29, 2022
+
+**Today's Progress**: Solved some HackerRank problems.
