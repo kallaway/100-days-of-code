@@ -339,3 +339,8 @@ Capitalize the Title
 ### Day 77: December 18, 2022
 
 **Today's Progress**:  Played with some regex problems.
+
+### Day 78: December 19, 2022
+
+**Today's Progress**: Solved leetcode problem.
+217. Contains Duplicate
