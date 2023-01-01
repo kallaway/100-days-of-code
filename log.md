@@ -388,3 +388,7 @@ Capitalize the Title
 ### Day 89: December 30, 2022
 
 **Today's Progress**: Solved some HackerRank problems.
+
+### Day 90: December 31, 2022
+
+**Today's Progress**: Solved some HackerRank problems.
