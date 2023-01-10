@@ -396,3 +396,7 @@ Capitalize the Title
 ### Day 91: January 01, 2023
 
 **Today's Progress**: Solved some HackerRank problems.
+
+### Day 92: January 02, 2023
+
+**Today's Progress**: Solved some HackerRank problems.
