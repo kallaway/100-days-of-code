@@ -416,3 +416,7 @@ Capitalize the Title
 ### Day 96: January 06, 2023
 
 **Today's Progress**: Completed the second page of Tesla Clone Project.
+
+### Day 97: January 07, 2023
+
+**Today's Progress**: Added more functionality to the second page of Tesla Clone Project.
