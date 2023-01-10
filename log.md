@@ -400,3 +400,7 @@ Capitalize the Title
 ### Day 92: January 02, 2023
 
 **Today's Progress**: Solved some HackerRank problems.
+
+### Day 93: January 03, 2023
+
+**Today's Progress**: Worked on Tesla Clone Project.
