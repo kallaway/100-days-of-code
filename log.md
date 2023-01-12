@@ -428,3 +428,7 @@ Capitalize the Title
 ### Day 99: January 09, 2023
 
 **Today's Progress**: Worked on react native project Recipe app.
+
+### Day 100: January 10, 2023
+
+**Today's Progress**: Completed third page - checkout page of tesla clone project.
