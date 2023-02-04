@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: 4th Feb 2023, Day 1
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Before Thoughts:** 
+1. I decided to join this challenges without publicly announce it on Twitter. I'm excited. The hardest at this moment would be I doubt I will able to just do purely coding for an hour without counting together the time spent on tutorial or reading but I will try my best.  
+2. First day, I decided to continue learning React that I've been doing in the last few days. Will learn:
+  * Rendering lists
+  * Conditional Rendering
+  * React Events
+
+**After Thoughts Thoughts:** 
+1. 
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -28,3 +44,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+ -->
