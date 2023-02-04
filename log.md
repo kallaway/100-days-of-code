@@ -9,10 +9,21 @@
 2. First day, I decided to continue learning React that I've been doing in the last few days. Will learn:
   * Rendering lists
   * Conditional Rendering
-  * React Events
 
 **After Thoughts:** 
 1. Used Bootsrap to style my Pokemon exercise. It's a lot harder than Tailwind in my opinion. Used Bootstrap's Card & Grid system to style. Also need to use double {} when we use style attribute in JSX. 
+2. Learnt Conditional Rendering: ```if...else``` statement, Ternary Operator and Logical Operator.
+3. Special note for Logical Operator, you **CANNOT** put numbers (ZERO) on the left side of &&, otherwise React will render ZERO.
+The below example, will render as 0
+```
+const Component = () => {
+const count = 0
+ return (
+  <>
+   {count && <p>Testing!</p>}
+  </>
+ )
+ ```
 
 **Link to work:** 
 1. [Pokemon App - using Bootsrap to style](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx)
