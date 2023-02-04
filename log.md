@@ -24,7 +24,7 @@ const count = 0
   </>
  )
  ```
- 4. Also <details>Hi there!</details> tag for [Markdown toggle](https://www.reddit.com/r/ObsidianMD/comments/j1770s/heres_how_to_create_a_toggle_switch_in_markdown/).
+ 4. Also <details> tag (+ closing tag) for [markdown toggle](https://www.reddit.com/r/ObsidianMD/comments/j1770s/heres_how_to_create_a_toggle_switch_in_markdown/).
 
 **Link to work:** 
 1. [Pokemon App - using Bootsrap to style](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx)
