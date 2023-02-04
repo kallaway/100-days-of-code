@@ -2,7 +2,7 @@
 
 ### Day 0: 4th Feb 2023, Day 1
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learnt basic Bootstrap- Card, Grid & Conditional Rendering & toggle function on md.
 
 **Before Thoughts:** 
 1. I decided to join this challenges without publicly announce it on Twitter. I'm excited. The hardest at this moment would be I doubt I will able to just do purely coding for an hour without counting together the time spent on tutorial or reading but I will try my best.  
