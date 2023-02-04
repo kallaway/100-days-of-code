@@ -27,6 +27,7 @@ const count = 0
 
 **Link to work:** 
 1. [Pokemon App - using Bootsrap to style](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx)
+2. [React Beta - Conditional Rendering] (https://beta.reactjs.org/learn/conditional-rendering)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
