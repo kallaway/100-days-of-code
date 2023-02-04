@@ -11,10 +11,11 @@
   * Conditional Rendering
   * React Events
 
-**After Thoughts Thoughts:** 
-1. 
+**After Thoughts:** 
+1. Used Bootsrap to style my Pokemon exercise. It's a lot harder than Tailwind in my opinion. Used Bootstrap's Card & Grid system to style. Also need to use double {} when we use style attribute in JSX. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+1. [Pokemon App - using Bootsrap to style]([http://www.example.com](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx))
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
