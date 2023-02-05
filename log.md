@@ -28,7 +28,7 @@ const count = 0
 
 **Link to work:** 
 1. [Pokemon App - using Bootsrap to style](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx)
-2. [React Beta - Conditional Rendering] (https://beta.reactjs.org/learn/conditional-rendering)
+2. [React Beta - Conditional Rendering](https://beta.reactjs.org/learn/conditional-rendering)
  
  ---
  ### Day 1: 5th Feb 2023, Day 2
@@ -41,9 +41,9 @@ const count = 0
 3. Read the docs on React Beta - Passing props to a Components and done 2 exercises. I still cant really understand and will read more tomorrow.
 
 **Link to work:** 
-1. [React-Weather Forecast]([https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx](https://codesandbox.io/s/w7d2-weather-forecast-again-oeo0d8?file=/src/styles.css))
+1. [React-Weather Forecast](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx](https://codesandbox.io/s/w7d2-weather-forecast-again-oeo0d8?file=/src/styles.css)
 2. [React: Passing props to component exercise 1](https://codesandbox.io/s/react-passingprops-e1-pxeqk9)
-3. [React Beta - Passing JSX as children] (https://codesandbox.io/s/reactbeta-passingjsxchildren-bpulxm)
+3. [React Beta - Passing JSX as children](https://codesandbox.io/s/reactbeta-passingjsxchildren-bpulxm)
  
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
