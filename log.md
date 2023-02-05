@@ -28,34 +28,20 @@ const count = 0
 
 **Link to work:** 
 1. [Pokemon App - using Bootsrap to style](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx)
-2. [React Beta - Conditional Rendering] (https://beta.reactjs.org/learn/conditional-rendering)
+2. [React Beta - Conditional Rendering](https://beta.reactjs.org/learn/conditional-rendering)
+ 
+ ---
+ ### Day 1: 5th Feb 2023, Day 2
 
-<!-- ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress**: Continue with Conditional Rendering. Did a weather exercise and did some vanilla CSS styling to it. Read passing props to components but I'm still a bit confused. Will read more & watch some videos tomorrow.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** 
+1. I had some trouble to do the Weather Forecast exercise. Couldnt get the Switch stmt working but got it worked eventually. But still my skill is abit rusty.
+2. Felt good to use vanilla CSS to style this. 1 thing I will take out from this is how to add background-image and how to make background-image not repeating and cover.
+3. Read the docs on React Beta - Passing props to a Components and done 2 exercises. I still cant really understand and will read more tomorrow.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
- -->
+**Link to work:** 
+1. [React-Weather Forecast](https://codesandbox.io/s/w7d2-weather-forecast-again-oeo0d8?file=/src/styles.css)
+2. [React: Passing props to component exercise 1](https://codesandbox.io/s/react-passingprops-e1-pxeqk9)
+3. [React Beta - Passing JSX as children](https://codesandbox.io/s/reactbeta-passingjsxchildren-bpulxm)
+ 
