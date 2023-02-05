@@ -29,6 +29,19 @@ const count = 0
 **Link to work:** 
 1. [Pokemon App - using Bootsrap to style](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx)
 2. [React Beta - Conditional Rendering] (https://beta.reactjs.org/learn/conditional-rendering)
+ 
+ ---
+ ### Day 1: 5th Feb 2023, Day 2
+
+**Today's Progress**: Continue with Conditional Rendering. Did a weather exercise and did some vanilla CSS styling to it. 
+
+**Thoughts:** 
+1. I had some trouble to do the Weather Forecast exercise. Couldnt get the Switch stmt working but got it worked eventually. But still my skill is abit rusty.
+2. Felt good to use vanilla CSS to style this. 1 thing I will take out from this is how to add background-image and how to make background-image not repeating and cover.
+
+**Link to work:** 
+1. [React-Weather Forecast]([https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx](https://codesandbox.io/s/w7d2-weather-forecast-again-oeo0d8?file=/src/styles.css))
+ 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
