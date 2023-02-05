@@ -33,14 +33,17 @@ const count = 0
  ---
  ### Day 1: 5th Feb 2023, Day 2
 
-**Today's Progress**: Continue with Conditional Rendering. Did a weather exercise and did some vanilla CSS styling to it. 
+**Today's Progress**: Continue with Conditional Rendering. Did a weather exercise and did some vanilla CSS styling to it. Read passing props to components but I'm still a bit confused. Will read more & watch some videos tomorrow.
 
 **Thoughts:** 
 1. I had some trouble to do the Weather Forecast exercise. Couldnt get the Switch stmt working but got it worked eventually. But still my skill is abit rusty.
 2. Felt good to use vanilla CSS to style this. 1 thing I will take out from this is how to add background-image and how to make background-image not repeating and cover.
+3. Read the docs on React Beta - Passing props to a Components and done 2 exercises. I still cant really understand and will read more tomorrow.
 
 **Link to work:** 
 1. [React-Weather Forecast]([https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx](https://codesandbox.io/s/w7d2-weather-forecast-again-oeo0d8?file=/src/styles.css))
+2. [React: Passing props to component exercise 1](https://codesandbox.io/s/react-passingprops-e1-pxeqk9)
+3. [React Beta - Passing JSX as children] (https://codesandbox.io/s/reactbeta-passingjsxchildren-bpulxm)
  
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
