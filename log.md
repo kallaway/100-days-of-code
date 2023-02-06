@@ -70,4 +70,4 @@ const count = 0
 
 ---
 
-### Day 3: 7th Feb 2023, Day 4
+### Day 4: 7th Feb 2023
