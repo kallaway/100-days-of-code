@@ -71,3 +71,20 @@ const count = 0
 ---
 
 ### Day 4: 7th Feb 2023
+<details>
+
+**Today's Progress**: 
+* Done some coding challenges
+
+**Thoughts:** 
+* 
+
+**Link to work:** 
+1. [Codewars-Flattening the array]([https://codesandbox.io/s/eventhandlers-stopporpagation-42n5f2](https://www.codewars.com/kata/reviews/5251f603dc71afdb4f0002d5/groups/63e18ebb17b96d000140ee47))
+2. 
+</details>
+
+---
+
+### Day 5: 8th Feb 2023
+
