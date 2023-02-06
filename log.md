@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: 4th Feb 2023, Day 1
+### Day 1: 4th Feb 2023
 <details>
 **Today's Progress**: Learnt basic Bootstrap- Card, Grid & Conditional Rendering & toggle function on md.
 
@@ -30,9 +30,10 @@ const count = 0
 1. [Pokemon App - using Bootsrap to style](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx)
 2. [React Beta - Conditional Rendering](https://beta.reactjs.org/learn/conditional-rendering)
  </details>
- ---
  
- ### Day 1: 5th Feb 2023, Day 2
+---
+ 
+ ### Day 2: 5th Feb 2023
  <details>
 
 **Today's Progress**: Continue with Conditional Rendering. Did a weather exercise and did some vanilla CSS styling to it. Read passing props to components but I'm still a bit confused. Will read more & watch some videos tomorrow.
@@ -50,7 +51,7 @@ const count = 0
 
 ---
 
-### Day 2: 6th Feb 2023, Day 3
+### Day 3: 6th Feb 2023
 <details>
 
 **Today's Progress**: I did some reading for event handlers.
