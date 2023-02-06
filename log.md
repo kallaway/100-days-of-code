@@ -65,4 +65,8 @@ const count = 0
 **Link to work:** 
 1. [Stop Propagation & props.children example](https://codesandbox.io/s/eventhandlers-stopporpagation-42n5f2)
 2. [Stop default behavior example](https://codesandbox.io/s/eventhandler-preventdefault-9c0qjn?file=/src/App.js)
- </details>
+</details>
+
+---
+
+### Day 3: 7th Feb 2023, Day 4
