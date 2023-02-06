@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+<details>
 ### Day 0: 4th Feb 2023, Day 1
 
 **Today's Progress**: Learnt basic Bootstrap- Card, Grid & Conditional Rendering & toggle function on md.
@@ -29,8 +30,9 @@ const count = 0
 **Link to work:** 
 1. [Pokemon App - using Bootsrap to style](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx)
 2. [React Beta - Conditional Rendering](https://beta.reactjs.org/learn/conditional-rendering)
- 
+ </details>
  ---
+ <details>
  ### Day 1: 5th Feb 2023, Day 2
 
 **Today's Progress**: Continue with Conditional Rendering. Did a weather exercise and did some vanilla CSS styling to it. Read passing props to components but I'm still a bit confused. Will read more & watch some videos tomorrow.
@@ -44,4 +46,21 @@ const count = 0
 1. [React-Weather Forecast](https://codesandbox.io/s/w7d2-weather-forecast-again-oeo0d8?file=/src/styles.css)
 2. [React: Passing props to component exercise 1](https://codesandbox.io/s/react-passingprops-e1-pxeqk9)
 3. [React Beta - Passing JSX as children](https://codesandbox.io/s/reactbeta-passingjsxchildren-bpulxm)
- 
+ </details>
+  ---
+ <details>
+  ### Day 2: 6th Feb 2023, Day 3
+
+**Today's Progress**: I did some reading for event handlers.
+
+**Thoughts:** 
+* Normal React components are self-closing tag. But to use props.children, you need to do.. i.e. ```<Button> … </Button>```
+####Event Handler
+* Must be passed but not called! ```onClick={handleClick}```, not ```onClick={handleClick()}```.
+* ```e.stopPropagation()``` : to stop event propagation
+* ```e.preventDefault()``` : to stop some browser event default behaviors, like submit from ```<form>```
+
+**Link to work:** 
+1. [Stop Propagation & props.children example](https://codesandbox.io/s/eventhandlers-stopporpagation-42n5f2)
+2. [Stop default behavior example](https://codesandbox.io/s/eventhandler-preventdefault-9c0qjn?file=/src/App.js)
+ </details>
