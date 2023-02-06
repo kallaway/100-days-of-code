@@ -31,7 +31,8 @@ const count = 0
 2. [React Beta - Conditional Rendering](https://beta.reactjs.org/learn/conditional-rendering)
  </details>
  ---
-### Day 1: 5th Feb 2023, Day 2
+ 
+ ### Day 1: 5th Feb 2023, Day 2
  <details>
 
 **Today's Progress**: Continue with Conditional Rendering. Did a weather exercise and did some vanilla CSS styling to it. Read passing props to components but I'm still a bit confused. Will read more & watch some videos tomorrow.
@@ -46,7 +47,7 @@ const count = 0
 2. [React: Passing props to component exercise 1](https://codesandbox.io/s/react-passingprops-e1-pxeqk9)
 3. [React Beta - Passing JSX as children](https://codesandbox.io/s/reactbeta-passingjsxchildren-bpulxm)
  </details>
-  ---
+---
 ### Day 2: 6th Feb 2023, Day 3
  <details>
 
