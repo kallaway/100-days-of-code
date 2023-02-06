@@ -80,7 +80,7 @@ const count = 0
 * 
 
 **Link to work:** 
-1. [Codewars-Flattening the array]([https://codesandbox.io/s/eventhandlers-stopporpagation-42n5f2](https://www.codewars.com/kata/reviews/5251f603dc71afdb4f0002d5/groups/63e18ebb17b96d000140ee47))
+1. [Codewars-Flattening the array](https://www.codewars.com/kata/reviews/5251f603dc71afdb4f0002d5/groups/63e18ebb17b96d000140ee47)
 2. 
 </details>
 
