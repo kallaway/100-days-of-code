@@ -46,10 +46,12 @@ const count = 0
 1. [React-Weather Forecast](https://codesandbox.io/s/w7d2-weather-forecast-again-oeo0d8?file=/src/styles.css)
 2. [React: Passing props to component exercise 1](https://codesandbox.io/s/react-passingprops-e1-pxeqk9)
 3. [React Beta - Passing JSX as children](https://codesandbox.io/s/reactbeta-passingjsxchildren-bpulxm)
- </details>
+</details>
+
 ---
+
 ### Day 2: 6th Feb 2023, Day 3
- <details>
+<details>
 
 **Today's Progress**: I did some reading for event handlers.
 
