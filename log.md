@@ -74,14 +74,15 @@ const count = 0
 <details>
 
 **Today's Progress**: 
-* Done some coding challenges
+* Done some coding challenges & APIs.
 
 **Thoughts:** 
-* 
+* Not much coding today. Did 1 coding challenges, learnt "flattening an array" is to reduce the dimensionality of an array. Can use .flat() or reduce method. 
+* I learnt some API today as I'm always confused about API.
 
 **Link to work:** 
 1. [Codewars-Flattening the array](https://www.codewars.com/kata/reviews/5251f603dc71afdb4f0002d5/groups/63e18ebb17b96d000140ee47)
-2. 
+2. [APIs for Beginner](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
 </details>
 
 ---
