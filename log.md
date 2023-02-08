@@ -88,4 +88,21 @@ const count = 0
 ---
 
 ### Day 5: 8th Feb 2023
+<details>
+
+**Today's Progress**: 
+* Did not much, I attended a few workshops/events today: Job Seeker workshop on cover letter, CatchUp with career coach and classmates & Zendesk Woman in Tech event.
+* Did some exercise on React Beta docs. Tried myself to recreate this Sculpture demo on the website to play with State.
+
+**Thoughts:** 
+
+
+**Link to work:** 
+1. [React beta- State Exercise 1](https://codesandbox.io/s/react-state-e1-cbfhlg)
+
+</details>
+
+---
+
+### Day 6: 9th Feb 2023
 
