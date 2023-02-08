@@ -91,14 +91,20 @@ const count = 0
 <details>
 
 **Today's Progress**: 
-* Did not much, I attended a few workshops/events today: Job Seeker workshop on cover letter, CatchUp with career coach and classmates & Zendesk Woman in Tech event.
-* Did some exercise on React Beta docs. Tried myself to recreate this Sculpture demo on the website to play with State.
+* Did not do much (but still able to code for an hour!), I attended a few workshops/events today: Job Seeker workshop on cover letter, catch-up with career coach and classmates & Zendesk Woman in Tech event.
+* Did some exercise on React Beta docs. Tried myself to recreate this Sculpture demo on the website to play with State. It was fun and gave me some confidence back about React! Yay!
 
 **Thoughts:** 
-
+* State is like a memory of a component. Components use it to remember info between rendering.
+* useState Hook to declare state variables.
+* Hooks are special functions in React and only available while React is rendering.
+* We should not call hooks inside conditional stmt, for loop or nested functions.
+* They are private and isolate to the component. If you have the same components twice in your React app, the state will not be affected by another component. (Hope you understand, if not Read the Manual!)
+* If you want the state of both components to be the same, you should lift the state to the common parents. I guess I will learn this tomorrow. 
+* You SHOULD NOT mutate the state!
 
 **Link to work:** 
-1. [React beta- State Exercise 1](https://codesandbox.io/s/react-state-e1-cbfhlg)
+1. Did all my coding in this exercise - [React beta- State Exercise 1](https://codesandbox.io/s/react-state-e1-cbfhlg)
 
 </details>
 
