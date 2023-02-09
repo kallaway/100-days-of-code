@@ -121,6 +121,7 @@ const count = 0
 
 **Link to work:** 
 1. 2nd Exercise- [React beta- State Exercise 2](https://codesandbox.io/s/react-state-e2-rs2t7c?file=/App.js)
+2. [3rd Exercise](https://codesandbox.io/s/react-state-e3-qxlv8h)
 
 </details>
 
