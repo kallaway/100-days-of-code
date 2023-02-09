@@ -114,7 +114,7 @@ const count = 0
 <details>
 
 **Today's Progress**: 
-* Continue to finish the exercise on React Beta Doc about the State.
+* Continue to finish the exercise on [React Beta Doc about the State](https://beta.reactjs.org/learn/state-a-components-memory).
 
 **Thoughts:** 
 
