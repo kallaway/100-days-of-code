@@ -117,11 +117,13 @@ const count = 0
 * Continue to finish the exercise on [React Beta Doc about the State](https://beta.reactjs.org/learn/state-a-components-memory).
 
 **Thoughts:** 
+* The last exercise is a bit interesting. In this exercise, I tried to recreate the same React again by using state (It's a TRAP!). But it's not correct. **Don’t introduce state variables when a regular variable works well!** 
 
 
 **Link to work:** 
 1. 2nd Exercise- [React beta- State Exercise 2](https://codesandbox.io/s/react-state-e2-rs2t7c?file=/App.js)
 2. [3rd Exercise](https://codesandbox.io/s/react-state-e3-qxlv8h)
+3. [4th Exercise](https://codesandbox.io/s/react-state-e4-z0vt1d)
 
 </details>
 
