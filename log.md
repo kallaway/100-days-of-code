@@ -111,4 +111,19 @@ const count = 0
 ---
 
 ### Day 6: 9th Feb 2023
+<details>
 
+**Today's Progress**: 
+* Continue to finish the exercise on React Beta Doc about the State.
+
+**Thoughts:** 
+
+
+**Link to work:** 
+1. 2nd Exercise- [React beta- State Exercise 2](https://codesandbox.io/s/react-state-e2-rs2t7c?file=/App.js)
+
+</details>
+
+---
+
+### Day 7: 10th Feb 2023
