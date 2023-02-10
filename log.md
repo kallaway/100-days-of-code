@@ -130,3 +130,25 @@ const count = 0
 ---
 
 ### Day 7: 10th Feb 2023
+<details>
+
+**Today's Progress**: 
+* Did coding challenge & wrote test to test my own solution.
+
+**Thoughts:** 
+**Coding Challenge**
+1. Did a coding challenge today on Codewars. I was confident but actually my JS skill becomes rusty again. Made me feel like I should really do at least 1 coding challenge each day! (But sometime I spent a lot of time in 1 question!). 
+```hasOwnProperty()``` - to check whether is object has a certain key/property.
+2. I learnt some testing (Vitest) so I wrote 2 simple tests for my solution. Felt good but again rusty!
+```toStrictEqual()``` and ```toEqual()``` - both only compares the values and good to use when testing object. But ```toStrictEqual()``` will also compare the datatype of the value and able to notice "undefined" and "null" value.
+ 
+
+
+**Link to work:** 
+1. [Codewars-Coding Challenge with test](https://www.codewars.com/kata/reviews/52efefcbcdf57161d4000094/groups/63e5ba57bfb4790001458a94)
+
+</details>
+
+---
+
+### Day 8: 11th Feb 2023
