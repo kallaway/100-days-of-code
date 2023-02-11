@@ -152,3 +152,20 @@ const count = 0
 ---
 
 ### Day 8: 11th Feb 2023
+<details>
+
+**Today's Progress**: 
+* I did not do much today as I was working the whole day. I only did a simple react exercise.
+
+**Thoughts:** 
+1. Just did a very simple exercise. Tried to read [State as Snapshot](https://beta.reactjs.org/learn/state-as-a-snapshot) but I cant really focus.
+
+
+**Link to work:** 
+1. [React-Simple Exercise](https://codesandbox.io/s/react-state-as-snapshot-practice1-1evqjp?file=/src/App.js) from [here](https://beta.reactjs.org/learn/state-as-a-snapshot).
+
+</details>
+
+---
+
+### Day 9: 12th Feb 2023
