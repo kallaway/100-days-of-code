@@ -169,3 +169,21 @@ const count = 0
 ---
 
 ### Day 9: 12th Feb 2023
+<details>
+
+**Today's Progress**: 
+* First time trying Frontend Mentor and did my first challenge! Mostly trained on my CSS skill.
+
+**Thoughts:** 
+**Frontend Mentor**
+1. ```box-shadow```: cant use %.
+2. Syntax: ```box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color];```
+
+**Link to work:** 
+1. 
+
+</details>
+
+---
+
+### Day 10: 13th Feb 2023
