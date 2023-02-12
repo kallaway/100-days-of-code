@@ -171,16 +171,18 @@ const count = 0
 ### Day 9: 12th Feb 2023
 <details>
 
-**Today's Progress**: 
-* First time trying Frontend Mentor and did my first challenge! Mostly trained on my CSS skill.
+**Today's Progress**: First time trying Frontend Mentor and did my first challenge! Mostly trained on my CSS skill. Felt good about it!
 
 **Thoughts:** 
 **Frontend Mentor**
 1. ```box-shadow```: cant use %.
 2. Syntax: ```box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color];```
+3. Learnt something about I could not overcome today by doing this exercise. [To center my card](https://stackoverflow.com/questions/75425590/css-height-calc100vh-1px-will-make-element-to-be-center-but-why)
 
 **Link to work:** 
-1. 
+1. [My challenge link on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-qr-code-component-pdQfMj5vYE)
+2. [My Github link](https://github.com/AdoraWyne/frontendMentor-QR-code-component)
+3. [The Live URL](https://adorawyne.github.io/frontendMentor-QR-code-component/)
 
 </details>
 
