@@ -189,3 +189,22 @@ const count = 0
 ---
 
 ### Day 10: 13th Feb 2023
+<details>
+
+**Today's Progress**: Tried to do Accordion on React to play with the states, which was quite hard to understand in my opinion. I should give it a go later to see if I still understand it.
+
+**Thoughts:** 
+**Sharing state between components**
+1. Lift the state to the closest common parents & pass the state down to child component as props.
+2. To change the shared state in each child component, need to pass down an event handler as props too to the child component, so the shared state can be updated in each child component.
+[React Beta Doc](https://beta.reactjs.org/learn/sharing-state-between-components) has some explanation but I think [Mickey](https://codesandbox.io/s/accordion-forked-j7emxo) or my example bellow is clearer. 
+
+**Link to work:** 
+1. Recreated the [example](https://codesandbox.io/s/react-beta-accordion-example-1qx2r3?file=/src/App.js)
+2. My own [Accordion example](https://codesandbox.io/s/w7d3-lab-accordion-again-2hqsdx?file=/src/components/ContentPanel.js)
+
+</details>
+
+---
+
+### Day 11: 14th Feb 2023
