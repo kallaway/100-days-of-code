@@ -208,3 +208,24 @@ const count = 0
 ---
 
 ### Day 11: 14th Feb 2023
+ <details>
+
+**Today's Progress**: 
+1. Tried another Frontend Mentor challenge. I was 95% done. Mostly practice on my vanilla CSS skill. 
+2. Need to watch Kevin Powell's video how to solve the remaining 5% and how his thought process and the way he approached.
+  
+**Thoughts:** 
+1. This challenge is very similar to the first challenge I did. But I'm still not really good at planning or organising the HTML element or classes for styling. 
+2. I was kind of code as I go - i.e. I styled from the top to bottom based on the mobile version picture. So if I realised there is a problem, I will fix it, but it might potentially cause another problem, then I will need to fix it again. 
+3. I would say this is probably not a good coding habit or practice. 
+4. Thankfully, I found that Kevin Powell has done the same challenge. As I watched through the first 30mins, I have already learned so much. Structured your HTML first, how to need the class name, [reset your CSS](https://www.joshwcomeau.com/css/custom-css-reset/), etc.
+
+
+**Link to work:** 
+1. [My Frontend Mentor Product Card Component](https://github.com/AdoraWyne/fM-product-card-component)
+
+</details>
+
+---
+
+### Day 12: 15th Feb 2023
