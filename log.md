@@ -208,7 +208,7 @@ const count = 0
 ---
 
 ### Day 11: 14th Feb 2023
- <details>
+<details>
 
 **Today's Progress**: 
 1. Tried another Frontend Mentor challenge. I was 95% done. Mostly practice on my vanilla CSS skill. 
@@ -229,3 +229,26 @@ const count = 0
 ---
 
 ### Day 12: 15th Feb 2023
+<details>
+
+**Today's Progress**: 
+1. Done watching Kevin Powell's video how to approach the challenge and I learnt a lot. I was thinking to redo the challenge with all the these things I just learned but I decided not to but will use the new knowledge I learnt on the next challenge!
+2. Also, I received my very first interview today and spent 30-mins being so excited & happy, jumped around the house, and spent another few hours doing research on the company. HAPPIEEE!
+3. Therefore, I took an easy way today by just completing the Frontend Mentor coding challenge and another Leetcode coding challenge.
+
+**Thoughts:** 
+**Leetcode challenge** 
+1. Did not know we cannot call ```.length``` on numbers! Have to convert it to string and run string.length.
+2. This is such a simple question but I took a while! Need to do more coding challenge again!
+
+
+**Link to work:** 
+1. [My Frontend Mentor Product Card Component](https://github.com/AdoraWyne/fM-product-card-component)
+2. [Frontend Mentor site](https://www.frontendmentor.io/solutions/product-card-component-jmuvctP8RB)
+3. [Leetcode: Palindrome Number](https://leetcode.com/problems/palindrome-number/solutions/)
+
+</details>
+
+---
+
+### Day 13: 16th Feb 2023
