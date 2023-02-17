@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 4th Feb 2023
-<details>
 **Today's Progress**: Learnt basic Bootstrap- Card, Grid & Conditional Rendering & toggle function on md.
 
 **Before Thoughts:** 
@@ -29,12 +28,10 @@ const count = 0
 **Link to work:** 
 1. [Pokemon App - using Bootsrap to style](https://codesandbox.io/s/pokedex-forked-0toh8l?file=/src/Pokemon.jsx)
 2. [React Beta - Conditional Rendering](https://beta.reactjs.org/learn/conditional-rendering)
- </details>
  
 ---
  
  ### Day 2: 5th Feb 2023
- <details>
 
 **Today's Progress**: Continue with Conditional Rendering. Did a weather exercise and did some vanilla CSS styling to it. Read passing props to components but I'm still a bit confused. Will read more & watch some videos tomorrow.
 
@@ -47,12 +44,10 @@ const count = 0
 1. [React-Weather Forecast](https://codesandbox.io/s/w7d2-weather-forecast-again-oeo0d8?file=/src/styles.css)
 2. [React: Passing props to component exercise 1](https://codesandbox.io/s/react-passingprops-e1-pxeqk9)
 3. [React Beta - Passing JSX as children](https://codesandbox.io/s/reactbeta-passingjsxchildren-bpulxm)
-</details>
 
 ---
 
 ### Day 3: 6th Feb 2023
-<details>
 
 **Today's Progress**: I did some reading for event handlers.
 
@@ -66,12 +61,12 @@ const count = 0
 **Link to work:** 
 1. [Stop Propagation & props.children example](https://codesandbox.io/s/eventhandlers-stopporpagation-42n5f2)
 2. [Stop default behavior example](https://codesandbox.io/s/eventhandler-preventdefault-9c0qjn?file=/src/App.js)
-</details>
+
 
 ---
 
 ### Day 4: 7th Feb 2023
-<details>
+
 
 **Today's Progress**: 
 * Done some coding challenges & APIs.
@@ -83,12 +78,12 @@ const count = 0
 **Link to work:** 
 1. [Codewars-Flattening the array](https://www.codewars.com/kata/reviews/5251f603dc71afdb4f0002d5/groups/63e18ebb17b96d000140ee47)
 2. [APIs for Beginner](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
-</details>
+
 
 ---
 
 ### Day 5: 8th Feb 2023
-<details>
+
 
 **Today's Progress**: 
 * Did not do much (but still able to code for an hour!), I attended a few workshops/events today: Job Seeker workshop on cover letter, catch-up with career coach and classmates & Zendesk Woman in Tech event.
@@ -106,12 +101,12 @@ const count = 0
 **Link to work:** 
 1. Did all my coding in this exercise - [React beta- State Exercise 1](https://codesandbox.io/s/react-state-e1-cbfhlg)
 
-</details>
+
 
 ---
 
 ### Day 6: 9th Feb 2023
-<details>
+
 
 **Today's Progress**: 
 * Continue to finish the exercise on [React Beta Doc about the State](https://beta.reactjs.org/learn/state-a-components-memory).
@@ -125,12 +120,12 @@ const count = 0
 2. [3rd Exercise](https://codesandbox.io/s/react-state-e3-qxlv8h)
 3. [4th Exercise](https://codesandbox.io/s/react-state-e4-z0vt1d)
 
-</details>
+
 
 ---
 
 ### Day 7: 10th Feb 2023
-<details>
+
 
 **Today's Progress**: 
 * Did coding challenge & wrote test to test my own solution.
@@ -147,12 +142,12 @@ const count = 0
 **Link to work:** 
 1. [Codewars-Coding Challenge with test](https://www.codewars.com/kata/reviews/52efefcbcdf57161d4000094/groups/63e5ba57bfb4790001458a94)
 
-</details>
+
 
 ---
 
 ### Day 8: 11th Feb 2023
-<details>
+
 
 **Today's Progress**: 
 * I did not do much today as I was working the whole day. I only did a simple react exercise.
@@ -164,12 +159,12 @@ const count = 0
 **Link to work:** 
 1. [React-Simple Exercise](https://codesandbox.io/s/react-state-as-snapshot-practice1-1evqjp?file=/src/App.js) from [here](https://beta.reactjs.org/learn/state-as-a-snapshot).
 
-</details>
+
 
 ---
 
 ### Day 9: 12th Feb 2023
-<details>
+
 
 **Today's Progress**: First time trying Frontend Mentor and did my first challenge! Mostly trained on my CSS skill. Felt good about it!
 
@@ -184,12 +179,12 @@ const count = 0
 2. [My Github link](https://github.com/AdoraWyne/frontendMentor-QR-code-component)
 3. [The Live URL](https://adorawyne.github.io/frontendMentor-QR-code-component/)
 
-</details>
+
 
 ---
 
 ### Day 10: 13th Feb 2023
-<details>
+
 
 **Today's Progress**: Tried to do Accordion on React to play with the states, which was quite hard to understand in my opinion. I should give it a go later to see if I still understand it.
 
@@ -203,12 +198,12 @@ const count = 0
 1. Recreated the [example](https://codesandbox.io/s/react-beta-accordion-example-1qx2r3?file=/src/App.js)
 2. My own [Accordion example](https://codesandbox.io/s/w7d3-lab-accordion-again-2hqsdx?file=/src/components/ContentPanel.js)
 
-</details>
+
 
 ---
 
 ### Day 11: 14th Feb 2023
-<details>
+
 
 **Today's Progress**: 
 1. Tried another Frontend Mentor challenge. I was 95% done. Mostly practice on my vanilla CSS skill. 
@@ -224,12 +219,12 @@ const count = 0
 **Link to work:** 
 1. [My Frontend Mentor Product Card Component](https://github.com/AdoraWyne/fM-product-card-component)
 
-</details>
+
 
 ---
 
 ### Day 12: 15th Feb 2023
-<details>
+
 
 **Today's Progress**: 
 1. Done watching Kevin Powell's video how to approach the challenge and I learnt a lot. I was thinking to redo the challenge with all the these things I just learned but I decided not to but will use the new knowledge I learnt on the next challenge!
@@ -247,12 +242,12 @@ const count = 0
 2. [Frontend Mentor site](https://www.frontendmentor.io/solutions/product-card-component-jmuvctP8RB)
 3. [Leetcode: Palindrome Number](https://leetcode.com/problems/palindrome-number/solutions/)
 
-</details>
+
 
 ---
 
 ### Day 13: 16th Feb 2023
-<details>
+
 
 **Today's Progress**: 
 1. Did coding challenge on Codewars.
@@ -325,8 +320,123 @@ function squareSum(numbers: number[]): number{
 **Link to work:** 
 1. [Codewars - Square(n)Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/javascript)
 
-</details>
+
 
 ---
 
 ### Day 14: 17th Feb 2023
+
+
+**Today's Progress**: 
+1. Did 2 coding challenge on Codewars.
+2. TBH, started yesterday, I start to feel like it's hard to commit code 1 hour & feel like I want to skip. 😬
+3. Despite of that, I coded almost 3 hours today. Felt good~ 🤩
+
+**Thoughts:** 
+**Codewars - Numbers to Letters**
+1. The hardest part of this kata is find a way to arrange the alphabets with its numbers but not try to hard code it. 
+2. I did hard code it at first. But when I looked at the solution, it's just so easy! I never thought of that. 
+3. Here is my initial approach: Basically hard coded my alphebets part.
+```js
+const word = {
+  "29":" ",
+  "28":"?",
+  "27": "!",
+  "26": "a",
+...
+}
+```
+
+function switcher(x){
+  let words = ""
+  for (let item of x) {
+    words += word[item]
+  }
+  return words
+}
+4. Then I changed to this: Nice and clean!
+```js
+function switcher(x){
+  const alphabets = ' zyxwvutsrqponmlkjihgfedcba!? '
+  return x.map(item => alphabets[item]).join("")
+}
+```
+
+**Codewars - Numbers of Letters of Numbers**
+1. The hardest part of this kata is the last step where you need to we have reached a stable equilibrium. (where a state in which a program or system remains balanced or unchanged despite perturbations or disturbances.)
+2. From the kata, I thought just compare the length of the last 2 elements in the array would be fine. 
+3. It was fine, but not for 1 test case where the input is 4.
+4. My initial approach:
+```js
+function numbersOfLetters(integer) {
+  let wordsInArray = []
+  // Just to convert number to word -> 1 to "one"
+  function convertToString(number) {
+    switch(number){
+      case "0":
+        number ="zero";
+        break;
+        case "1":
+        number ="one";
+        break;
+        case "2":
+        number ="two";
+        break;
+        case "3":
+        number ="three";
+        break;
+        case "4":
+        number ="four";
+        break;
+        case "5":
+        number ="five";
+        break;
+        case "6":
+        number ="six";
+        break;
+        case "7":
+        number ="seven";
+        break;
+        case "8":
+        number ="eight";
+        break;
+        case "9":
+        number ="nine";
+        break;
+        default:
+        alert("please enter a valid number")
+    }
+    return number;
+  }
+  // Combine words together -> 11 to "oneone"
+  function combineNumberWords(integer){
+	  let numbersInArray = String(integer).split("")
+	  let numbersInWords = ""
+	  for (let item of numbersInArray) {
+		  numbersInWords += convertToString(item)
+	  }
+  	return numbersInWords
+  }
+  wordsInArray[0] = combineNumberWords(integer)
+  wordsInArray[1] = combineNumberWords(wordsInArray[0].length)
+  let i = 1;
+  while(wordsInArray.slice(-1)[0].length !== wordsInArray.slice(-2,-1)[0].length) {
+    wordsInArray.push(combineNumberWords(wordsInArray[i].length));
+    i++
+  }
+    return wordsInArray
+}
+
+5. But this will fail the test case where input is 4. The result I get is ```["four", "four"]``` but the correct answer is ```["four"]```.
+6. So I modified by adding a IF ELSE statement. But I still don't know understand why ```["four", "four"]``` is not correct.
+7. Is it something to deal with the stable equilibrium?
+
+**Link to work:** 
+1. [Codewars - Numbers to Letters](https://www.codewars.com/kata/57ebaa8f7b45ef590c00000c/solutions/javascript?filter=me&sort=best_practice&invalids=false)
+2. [Codewars - Numbers of Letters of Numbers](https://www.codewars.com/kata/599febdc3f64cd21d8000117/solutions/javascript?filter=me&sort=best_practice&invalids=false)
+
+
+---
+
+### Day 15: 18th Feb 2023
+
