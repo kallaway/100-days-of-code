@@ -327,12 +327,13 @@ function squareSum(numbers: number[]): number{
 ### Day 14: 17th Feb 2023
 
 
-**Today's Progress**: 
+####Today's Progress:#### 
 1. Did 2 coding challenge on Codewars.
 2. TBH, started yesterday, I start to feel like it's hard to commit code 1 hour & feel like I want to skip. 😬
 3. Despite of that, I coded almost 3 hours today. Felt good~ 🤩
 
-**Thoughts:** 
+
+####Thoughts:#### 
 **Codewars - Numbers to Letters**
 1. The hardest part of this kata is find a way to arrange the alphabets with its numbers but not try to hard code it. 
 2. I did hard code it at first. But when I looked at the solution, it's just so easy! I never thought of that. 
@@ -361,6 +362,7 @@ function switcher(x){
   return x.map(item => alphabets[item]).join("")
 }
 ```
+
 
 **Codewars - Numbers of Letters of Numbers**
 1. The hardest part of this kata is the last step where you need to we have reached a stable equilibrium. (where a state in which a program or system remains balanced or unchanged despite perturbations or disturbances.)
@@ -431,12 +433,13 @@ function numbersOfLetters(integer) {
 6. So I modified by adding a IF ELSE statement. But I still don't know understand why ```["four", "four"]``` is not correct.
 7. Is it something to deal with the stable equilibrium?
 
-**Link to work:** 
+
+####Link to work:####
 1. [Codewars - Numbers to Letters](https://www.codewars.com/kata/57ebaa8f7b45ef590c00000c/solutions/javascript?filter=me&sort=best_practice&invalids=false)
 2. [Codewars - Numbers of Letters of Numbers](https://www.codewars.com/kata/599febdc3f64cd21d8000117/solutions/javascript?filter=me&sort=best_practice&invalids=false)
 
 
 ---
 
-### Day 15: 18th Feb 2023
+###Day 15: 18th Feb 2023
 
