@@ -252,3 +252,81 @@ const count = 0
 ---
 
 ### Day 13: 16th Feb 2023
+<details>
+
+**Today's Progress**: 
+1. Did coding challenge on Codewars.
+
+**Thoughts:** 
+**Codewars - Square(n)Sum**
+1. It's been a while since I did coding challenge, so I started with something easy. Thankfully, my skill is still there (but not quite)! 
+2. Used reduce method to solve this problem easily, BUT! I made a small mistake here but neglecting the initial value:
+
+- This is my initial approach. 
+- I passed the test but I did not passed all the random tests after I clicked "Attempt".
+- I was wondering why. Why after I added initial value as 0, then only I will pass the test?
+```js
+function squareSum(numbers){
+  
+  if (numbers.length === 0) return 0;
+  
+  return numbers.reduce((accumulator, currentValue) => {
+    return accumulator + currentValue**2
+  })
+}
+```
+- Then I figured it out! Because if I did not put the initial value, it will take the Array[0] first element as the initial value. And it will not square the first element or number! That's why I kept failing the test!
+- Here is my final solution, nice and clean!
+```js
+function squareSum(numbers){
+  return numbers.reduce((accumulator, currentValue) => {
+    return accumulator + currentValue**2
+  },0)
+}
+```
+- I wrote test for it too but they are very simple:
+```js
+import {it, expect} from 'vitest';
+import {squareSum} from './testing'
+
+it('should return the total sum of squared number in the array', () => {
+    const input = [2,3]
+
+    const result = squareSum(input)
+
+    expect(result).toBe(13)
+})
+
+it('should return 0 when the array is empty', () => {
+    const input = []
+
+    const result = squareSum(input)
+
+    expect(result).toBe(0)
+})
+
+it('should return the correct sum when one of the elements is negative number', () => {
+    const input = [-1, -2]
+    
+    const result = squareSum(input)
+
+    expect(result).toBe(5)
+})
+```
+- Also rewrite in TS because it is fairly easy
+```ts
+function squareSum(numbers: number[]): number{
+    return numbers.reduce((accumulator, currentValue) => {
+        return accumulator + currentValue**2
+    },0)
+}
+```
+
+**Link to work:** 
+1. [Codewars - Square(n)Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/javascript)
+
+</details>
+
+---
+
+### Day 14: 17th Feb 2023
