@@ -1,3 +1,4 @@
+Hi there!
 ## FAQ:
   **Q:** How do I get in touch with the people who are also doing this challenge?
   **A:** The best way to connect is to use the list of resources available on the official 100DaysOfCode site:
