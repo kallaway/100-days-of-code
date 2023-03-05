@@ -16,23 +16,23 @@
 
   **P:** Wróciłem/am do domu późno i ukończyłem/am godzinę programowanie po północy, czy dzień się liczy?
   **O:** Oczywiście, że tak! Programowałeś/aś przynajmniej godzinę przed pójsciem spać? Jeśli tak to jesteś na dobrej drodze.
-Wszyscy mamy inne obowiązki, plany i problemy więć twarde trzymanie się danej godziny nie byłoby najlepszym pomysłem. Nie przejmuj się, jeżeli nie nabijesz punktu na GitHubie. Oczywiście fajnie jest mieć streak na GitHubie ale nie poświęcaj prywatnych spraw na rzecz wirtualnego punktu.
+Wszyscy mamy inne obowiązki, plany i problemy więc twarde trzymanie się danej godziny nie byłoby najlepszym pomysłem. Nie przejmuj się, jeżeli nie nabijesz punktu na GitHubie. Oczywiście fajnie jest mieć streak na GitHubie ale nie poświęcaj prywatnych spraw na rzecz wirtualnego punktu.
 
 
   **P:** Powinienem/am prowadzić dziennik?
-  **O:** Tak, powinieneś/aś, najlepszy sposób to skopiowanie(fork) tego repozytorium i codzienne uzupełnianie [the Log](log-pl.md). Pozwoli ci to na obserwowanie swojego progresu oraz pomoże w motywacji. Dodatkowo po ukończeniu wyzwanie będziesz mógł/mogła przeanalizować swoje postępy i zobaczyć co działało, gdzie masz braki i nad czym warto jeszcze popracować.
+  **O:** Tak, powinieneś/aś, najlepszy sposób to skopiowanie (fork) tego repozytorium i codzienne uzupełnianie [the Log](log-pl.md). Pozwoli ci to na obserwowanie swojego progresu oraz pomoże w motywacji. Dodatkowo po ukończeniu wyzwania będziesz mógł/mogła przeanalizować swoje postępy i zobaczyć co działało, gdzie masz braki i nad czym warto jeszcze popracować.
 
   **P:** Powinienem/am upubliczniać swoje projekty online?
   **O:** Zdecydowanie. To dobry sposób na bycie bardziej odpowiedzialnym/am i zmotywowanym/ą. Pomoże ci to w dbaniu o projekt oraz w lepszym zrozumieniu nad czym obecnie pracujesz. Polecam abyś umieścił/a swoje projekty na GitHubie.
 
   **P:** Powinienem/am się martwić o passę punktową? (streaks)
-  **O:** Passa punktowa (streaks) jest super i zdecydowanie pomaga ale nie martw się jeżeli opuścisz jeden dzień. Jeżeli opuściłeś/aś dzień, postaraj się wyciągnąć wnioski i przeciwdziałać podobnym sytuacją w przyszłości. Martwienie się niepowodzeniem w niczym nie pomaga a najlepszym lekarstwem na to jest po prostu programowanie.
+  **O:** Passa punktowa (streaks) jest super i zdecydowanie pomaga ale nie martw się jeżeli opuścisz jeden dzień. Jeżeli opuściłeś/aś dzień, postaraj się wyciągnąć wnioski i przeciwdziałać podobnym sytuacjom w przyszłości. Martwienie się niepowodzeniem w niczym nie pomaga, a najlepszym lekarstwem na to jest po prostu programowanie.
 
   **P:** Co jest najtrudniejsze w tym wyzwaniu?
-  **O:** Zaczęcie programowania, nie odsuwaj tego w czasie, nie czekaj. Traktuj początek programowanie, mechanicznie. Usiądź, otwórz komputer, edytor tekstu a zacznij coś robić. Po 5 minutach uspokoisz się i nabierzesz chęci do pracy.
+  **O:** Zaczęcie programowania, nie odsuwaj tego w czasie, nie czekaj. Traktuj początek programowania, mechanicznie. Usiądź, otwórz komputer, edytor tekstu i zacznij coś robić. Po 5 minutach uspokoisz się i nabierzesz chęci do pracy.
 
-  **P:** Jeżeli wszyscy rozpoczęli wyzwanie o jakiś dzień, powinienem/am dołączyć do nich na przykład od dnia 12?
-  **O:** To wyzwanie jest indywidualne więc jeżeli rozpoczynasz to zaczynasz w dzień 1. Nie ważne, gdzie upubliczniasz swój progres, czy to Twitter, czy inne social media, pamiętaj aby zawsze umieścić obecny dzień twojego wyzwania oraz nasz hasztag żeby inni uczestnicy mogli cię łatwo znaleźć.
+  **P:** Jeżeli wszyscy rozpoczęli wyzwanie w jakiś dzień, powinienem/am dołączyć do nich na przykład od dnia 12?
+  **O:** To wyzwanie jest indywidualne, więc jeżeli rozpoczynasz to zaczynasz w dzień 1. Nie ważne, gdzie upubliczniasz swój progres, czy to Twitter, czy inne social media, pamiętaj aby zawsze umieścić obecny dzień twojego wyzwania oraz nasz hasztag żeby inni uczestnicy mogli cię łatwo znaleźć.
 
 ## Spis Treści
 * [Regulamin](regulamin.md)
