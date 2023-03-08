@@ -50,5 +50,40 @@ img {
   padding: 1rem;
   background-color: var(--light-blue);
   color: var(--white);
-  text-align: centers
+  text-align: center;
+  border-radius: 5px;
+}
+
+.counter-div > * {
+  margin-bottom: 2rem;
+}
+
+.count {
+  font-size: 4rem;
+}
+
+.buttons button {
+  padding: 1reem;
+  margin: 0 1 rem;
+  font-size: 1.5rem;
+  color: var(--white);
+  font-weight: 700;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+
+}
+
+button.subtract {
+  background-color: orangered;
+
+}
+button.reset {
+  background-color: var(--white);
+  color: var(--black);
+
+}
+button.add {
+  background-color: green;
+
 }
