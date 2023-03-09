@@ -2,13 +2,14 @@
 
 ## Sadržaj
 
-* [Pravila](rules-sr.md)
-* [Dnevnik - kliknite ovdje da vidite moj napredak](log-sr.md)
-* [FAQ](FAQ-sr.md)
-* [Resursi](resources-sr.md)
+- [Pravila](rules-sr.md)
+- [Dnevnik - kliknite ovdje da vidite moj napredak](log-sr.md)
+- [FAQ](FAQ-sr.md)
+- [Resursi](resources-sr.md)
 
 ## Prevodi
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)
+
+[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) – [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)
 
 Ako želite pomoći pružanjem prijevoda sadržaja/pravila na jeziku koji poznajete, podnesite pull request (ili me kontaktirajte na Twitteru @ka11away) dodajući pod-folder u folder 'intl' s datotekama prevoda.
 
@@ -25,13 +26,14 @@ Ako želite pomoći pružanjem prijevoda sadržaja/pravila na jeziku koji poznaj
 7.  **Tvitujte svoj napredak svaki dan koristeći hešteg #100DaysOfCode.**
 8.  Zapratite [Alex-a, kreatora #100DaysOfCode](https://twitter.com/ka11away) i [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot-a koji retvituje sve tvitove sa heštegom #100DaysOfCode. Odličan je način da se motivišite i učestvujete u zajednici. Hvala [@amanhimself](https://twitter.com/amanhimself) za kreiranje Bota-a!
 9.  Važno: (vidi br. 4 za posebno pravilo o ovome) Ohrabrite druge koji rade isti izazov na Twitteru ili negdje drugdje - tako što ćete im dati savjete dok objavljuju ažuriranja o svom napretku, podržavajući ih kada stvari postanu teške. Tako ćemo razvijati zajednicu koja je korisna i efikasna, što će dovesti do većeg stepena uspjeha za svaku uključenu osobu. Takođe je vjerovatnije da ćete se držati vlastite obaveze, s obzirom na to da ćete odmah upoznati nekoliko ljudi (ili više njih).
-10.  Ako pronađete sjajan, koristan resurs od kojeg bi drugi imali koristi, podnesite pull request da biste ga dodali u repo ili me samo tvitujte (više informacija u nastavku)
+10. Ako pronađete sjajan, koristan resurs od kojeg bi drugi imali koristi, podnesite pull request da biste ga dodali u repo ili me samo tvitujte (više informacija u nastavku)
 
 ## ⚡ Zainteresovani ste da smisleno promijenite svoj život i postignete željene rezultate?
 
-Objavljujemo bilten [Uradite suprotno](https://dotheopposite.substack.com/) svake druge sedmice. Glavni fokus je pružanje praktičnih savjeta i tehnika za poboljšanje kvaliteta vašeg života - prišemo iz širokog spektra tema, navedenih dolje.
+Objavljujemo bilten [Uradite suprotno](https://discomfortacademy.substack.com/) svake druge sedmice. Glavni fokus je pružanje praktičnih savjeta i tehnika za poboljšanje kvaliteta vašeg života - prišemo iz širokog spektra tema, navedenih dolje.
 
 Teme koje obrađujemo:
+
 - **Promjena navika**. Naučite kako uspješno steći dobre navike i kako izbjeći loše.
 - **Preporuke za knjige & savjeti**. Dobijte sjajne preporuke knjiga i zlatne mudrosti izvađene iz ovih knjiga kako biste ih mogli odmah praktikovati!
 - **Osobne finansije**. Čak i sitne promjene u vezi s upravljanjem novcem s vremenom će donjeti nevjerovatne rezultate. Otkrijte koje su ove promjene!
@@ -42,8 +44,7 @@ Teme koje obrađujemo:
 
 Pridružite se zajednici Uradimo suprotno!
 
-💌 [PRIJAVITE se na newsletter i počnite mijenjati svoj život!](https://dotheopposite.substack.com/)
-
+💌 [PRIJAVITE se na newsletter i počnite mijenjati svoj život!](https://discomfortacademy.substack.com/)
 
 ## Želite promjeniti ostale navike?
 
@@ -53,5 +54,5 @@ Preporučujem da se obvežujete na najviše 2-3 izazova odjednom, u idealnom slu
 
 ## Bilješka
 
-* Ako imate bilo kakvih pitanja ili ideja o 100DaysOfCode (ili drugim idejama), slobodno mi se obratite na Twitteru: [@ka11away](https://twitter.com/ka11away)
-* Ako vam se sviđa ovaj repo i smatrate ga korisnim, razmislite o &#9733; označavanju ga zvjezdicom (na vrhu ove strane) i fork-ujte ga :)
+- Ako imate bilo kakvih pitanja ili ideja o 100DaysOfCode (ili drugim idejama), slobodno mi se obratite na Twitteru: [@ka11away](https://twitter.com/ka11away)
+- Ako vam se sviđa ovaj repo i smatrate ga korisnim, razmislite o &#9733; označavanju ga zvjezdicom (na vrhu ove strane) i fork-ujte ga :)
