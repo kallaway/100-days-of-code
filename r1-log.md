@@ -12,3 +12,4 @@ Thoughts: Feels good to start this challenge
 spent the day editing some code on my portfolio + algorithm exercises (painful)
 
 ### R1D3
+started working on counter app
