@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 6, 2020, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Getting myself familiarized with github and the 100daysofcode challenge rules, etc.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I am not sure how to work with github 100% yet, but after this challenge I hope to be an expert.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: January 6, 2020, Monday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Started free code camp javascript.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: I started with the basics of javascript. You have to start somewhere! I don't have any code links yet.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: January 7, 2020, Tuesday
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: I found jsforcats.com.
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**  The exercises really helped me with understanding the basics of variables, functions and arrays. I liked using the console in Chrome to see my results. I will probably need to go over this one again tomorrow just to make sure it sticks.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. http://jsforcats.com/
