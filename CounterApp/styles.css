@@ -45,7 +45,7 @@ img {
 }
 
 .counter-div {
-  width: 40rem;
+  width: 42rem;
   border: 1px solid var(--grey);
   padding: 1rem;
   background-color: var(--light-blue);
@@ -63,27 +63,24 @@ img {
 }
 
 .buttons button {
-  padding: 1reem;
-  margin: 0 1 rem;
+  padding: 1rem;
+  margin: 0 5px;
   font-size: 1.5rem;
   color: var(--white);
   font-weight: 700;
   border: none;
   outline: none;
   border-radius: 3px;
-
+  cursor: pointer;
 }
 
 button.subtract {
   background-color: orangered;
-
 }
 button.reset {
   background-color: var(--white);
   color: var(--black);
-
 }
 button.add {
   background-color: green;
-
 }
