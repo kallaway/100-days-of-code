@@ -1,6 +1,6 @@
 import './App.css';
 
-const App = () -> {
+const App = () => {
   return (
     <div className="App">
       Project 2 made with react. Super excited.
