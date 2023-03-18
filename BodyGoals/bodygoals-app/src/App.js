@@ -1,9 +1,16 @@
 import './App.css';
+import AppBar from './components/AppBar/AppBar'
+import AppControlsCounter from './components/AppControls/AppControlsCounter'
+import AppControlsDelete from './components/AppControls/AppControlsDelete'
+import AppControlsInputs from './components/AppControls/AppControlsInputs'
 
 const App = () => {
   return (
     <div className="App">
-      Project 2 made with react. Super excited.
+      <AppBar/>
+      <AppControlsCounter/>
+      <AppControlsDelete/>
+      <AppControlsInputs/>
     </div>
   );
 }
