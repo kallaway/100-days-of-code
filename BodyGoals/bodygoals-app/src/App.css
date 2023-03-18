@@ -1,0 +1,60 @@
+.App{
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  background: #f4f4f4f4;
+  overflow-x: hidden;
+}
+
+.app__navbar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  background: #000;
+  width: 100%;
+  height: 10vh;
+}
+
+span {
+  color: hotpink;
+}
+
+.app__controls__counter{
+  position: fixed;
+  top: 100px;
+  left: 30px;
+}
+
+.app__controls__delete{
+  position: fixed;
+  top: 100px;
+  right: 30px;
+}
+
+.btn__delete_all{
+  font-size: 18px;
+  background: hotpink;
+  color: white;
+  outline: none;
+  padding: 5px;
+  text-align: center;
+  boorder-radius: 50px;
+  border:  1px solid hotpink;
+
+}
+
+.app__controls{
+  width: 50%;
+  height: 150px;
+  margin: 50px auto;
+}
+
+.app__controls__inputs_{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
