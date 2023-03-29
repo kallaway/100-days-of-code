@@ -1,30 +1,118 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 7th, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished the last 52% of the Applied Accessabilty portion of FreeCodeCamp's Responsive Web Design track
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** I have not practiced coding in a while and so it was tough starting off in the middle of the section like that.
 
 
-### Day 1: June 27, Monday
+### Day 2: June 8, 2021 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I got to 50% on FreeCodeCamp's CSS Grid portion of the Responsive Web Design Track. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Things are starting to look more familiar to when a did html more regularly. I love this feeling.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 3: June 9th, 2021
+
+**Today's Progress**:
+I finished the CSS Grid portion of the responsive Web Design track on FreeCodeCamp.
+
+**Thoughts**:
+I felt detached from this session. I think I was excited about almost being done with the track. Just 5 projects to go!
+
+
+### Day 4: June 10th, 2021
+
+**Today's Progress**:
+I started my FreeCodeCamp tribute page project on Zelda Barbour Wynn Valdes.
+
+**Thoughts**:
+Html is what I am most comfortable and familiar with so after a few days getting reacquainted, this felt ok. I realized time flew when I started this project. The user stories involving divs tripped me up so I will need to practice that.
+
+**Link to work: https://codepen.io/yatesra/pen/XWMPQOP**
+
+
+### Day 5: June 11th, 2021
+
+**Today's Progress**:
+I was given a rec to try Ania Kubow's Responsive Online Portfolio Tutorial and I played around with it.
+
+
+**Thoughts**:
+I needed something from scratch so I'm glad a Twitter follower recommended it to me. I was having problems linking files and a domain and this really helped.
+
+
+**Link to work**:
+file:///Users/RochelleYates/Documents/Software%20Engineer/Portfolio%20website/index.html
+
+
+### Day 6: June 12th, 2021
+
+**Today's Progress**:
+I worked on my Tribute page project. I added unordered lists and more CSS. 
+
+**Thoughts**:
+It's coming along. I was confused about the id tags last time I used them and I feel way better about them today.
+
+
+**Link to work**:
+https://codepen.io/yatesra/pen/XWMPQOP
+
+
+
+### Day 7: June 14th, 2021
+**Today's Progress**:
+I got my formatting wrong and pressed strange buttons in codepen.OMG I could not find the problem for 30 minutes!
+
+**Thoughts**:
+I am good at HTML but today it stumped me, I am very close to finishing but I should really be done with this simple little page.
+
+**Link to work**:
+https://codepen.io/yatesra/pen/JjWwGaL
+
+### Day 8: June 15th, 2021
+I worked on my Scratch project for CS50x. It requires a lot of planning and design effort.
+
+**Thoughts**:
+I don't really like Scratch, the colors make it seem less intimidating but it definately has a big learning curve.
+
+**Link to Work**
+https://scratch.mit.edu/projects/545399253/editor
+
+
+<<<<<<< Updated upstream
+**Day 9: June 16th**
+=======
+### Day 9: June 16th, 2021
+>>>>>>> Stashed changes
+I worked on my Tribute page project for FreeCodeCamp. I passed the user stories in the test suite 10/10.
+
+
+**Thoughts** 
+HTML is easy and this project is simple. I dragged my feet.
+
+**Link to work**:
+https://codepen.io/yatesra/pen/JjWwGaL
+<<<<<<< Updated upstream
+=======
+
+
+### Day 10: June 17th, 2021
+I added CSS styling to my finished tribute page before submitting my project.
+
+**Thoughts**:
+CSS is not really so fun to me but today it did not feel so tedious. I actually came out with something I was happy with.
+
+**Link to work**:
+https://codepen.io/yatesra/full/JjWwGaL
+
+
+### Day 11: June 18th, 2021
+I started my survey form project for freecodecamp.
+
+**Thought**: I am excited to start a project that lets my practice javascript too.
+
+**Link to work**:
+https://codepen.io/yatesra/pen/wvJOObr
+>>>>>>> Stashed changes
