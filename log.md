@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
-TEMPLATE
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### TEMPLATE START
+Day 0: February 30, 2016 (Example 2)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -12,10 +11,9 @@ TEMPLATE
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
-TEMPLATE
+### TEMPLATE END
 
 ### Day 0: May 15th 2023
-##### (delete me or comment me out)
 
 **Today's Progress**: Finalized functionality on the calculator project. Also completed the UI. I am satisfied.
 
