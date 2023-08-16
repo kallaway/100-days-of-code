@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 14, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started working on my Discord bot and learned how to add slash commands.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I didn’t really code much on day one. I just spent time watching tutorials. It was terrible; I didn’t really learn much, I felt. But I knew I needed to learn before I started working on this project.”
 
-**Link to work:** [Calculator App](http://www.example.com)
+![Alt text](image.png)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: August 16, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Implemented a commands handler on the bot, and also created a slash command.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Day two was very different from day one. I started coding early in the morning after going through tutorials and reading documentation. I actually coded a lot today. About a few hours before I exhausted my brain cells and had to call it a day, I implemented the slash commands and also a way to handle the commands for my Discord bot. I might need to go through it again in the future since I followed a tutorial mostly but I also tried to understand what was happening behind the scenes.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+![Alt text](image-1.png)
