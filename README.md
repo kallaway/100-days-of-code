@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+- [Challenge website](https://www.100daysofcode.com/)
+
 - [Original template](https://github.com/kallaway/100-days-of-code)
 
 - [My progress](log.md)
