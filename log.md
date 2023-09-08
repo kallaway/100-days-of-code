@@ -60,4 +60,29 @@
 **Link(s) to work**
 1. https://cssgridgarden.com/
 
+### Day 7: Tuesday 5th September
+
+**Today's Progress**: Git commands.
+
+**Thoughts** Learning how to use git commands. Embedding add, commit, push and pull as well as revisiting command line navigation.
+**Link(s) to work**
+1. Line commander game
+
+### Day 8: Wednesday 6th September
+
+**Today's Progress**: Worked through some of the challenges on learngitbranching. Found some challenges harder than others but needed to persevere!
+
+**Thoughts** Spent an hour working through the tasks on the website.
+**Link(s) to work**
+1. https://learngitbranching.js.org/
+
+
+### Day 9: Thursday 7th September
+
+**Today's Progress**: Worked through some of more challenges on learngitbranching. Got my head around git reset and git revert. Planning esccape room project in scratch.
+
+**Thoughts** Spent an hour working through the tasks on the website.
+**Link(s) to work**
+1. https://learngitbranching.js.org/
+
 
