@@ -84,5 +84,33 @@
 **Thoughts** Spent an hour working through the tasks on the website.
 **Link(s) to work**
 1. https://learngitbranching.js.org/
+2. https://scratch.mit.edu/projects/890848255/
 
 
+### Day 10: Friday 8th September
+
+**Today's Progress**: Completed escape room project in scratch.
+
+**Thoughts** Spent at least an hour creating the game.
+**Link(s) to work**
+1. https://scratch.mit.edu/projects/890848255/
+
+###  Saturday 9th September
+
+**Today's Progress**: No coding done - need to add day on at end.
+
+### Day 11: Sunday 10th September
+
+**Today's Progress**: Wrote the html part of the tribute page on freecodecamp.
+
+**Thoughts** Some tricky parts making the code pass the tests, usually due to some silly mistakes.
+**Link(s) to work**
+1. https://www.freecodecamp.org/fcc9e9aab25-3e37-4137-8923-c4e572ed5125
+
+### Day 11: Sunday 10th September
+
+**Today's Progress**: Wrote the CSS part of the tribute page on freecodecamp.
+
+**Thoughts** I found this fairly straightforward as all the tests related to the image.
+**Link(s) to work**
+1. https://www.freecodecamp.org/fcc9e9aab25-3e37-4137-8923-c4e572ed5125
