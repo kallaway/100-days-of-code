@@ -20,10 +20,8 @@ def getword():
 
 
 def coursename():
-    print('What city did you grow up in?')
-    city = input()
-    print('What was the name of your favorite pet?')
-    pet = input()
+    city = input('What city did you grow up in? ')
+    pet = input('What was the name of your favorite pet? ')
     return f'{city} {pet}'
 
 
