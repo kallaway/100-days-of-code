@@ -10,8 +10,8 @@
 
 ### Day 1: September 18, 2023
 
-**Today's Progress**:
+**Today's Progress**: I wrote a bandname generator that either asks for the City you grew up in, and a favorite Pet's name.  Or it uses a random word API to build a band name from two random words provided by the API
 
-**Thoughts:**
+**Thoughts:**: I'm following along with Angela Yu's 100-days-of-code course from the London App Brewery to keep pace with one of my co-workers
 
-**Link to work:**
+**Link to work:**: [bandname.py](https://github.com/absenth/100-days-of-code/blob/main/Day-1/bandname.py)
