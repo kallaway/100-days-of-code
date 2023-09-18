@@ -14,4 +14,4 @@
 
 **Thoughts:**: I'm following along with Angela Yu's 100-days-of-code course from the London App Brewery to keep pace with one of my co-workers
 
-**Link to work:**: [bandname.py](https://github.com/absenth/100-days-of-code/blob/main/Day-1/bandname.py)
+**Link to work:** [bandname.py](https://github.com/absenth/100-days-of-code/blob/main/Day-1)
