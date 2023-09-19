@@ -15,3 +15,11 @@
 **Thoughts:**: I'm following along with Angela Yu's 100-days-of-code course from the London App Brewery to keep pace with one of my co-workers
 
 **Link to work:** [Day-1 Repo](https://github.com/absenth/100-days-of-code/blob/main/Day-1)
+
+### Day 2: September 19, 2023
+
+**Today's Progress**: I wrote a tip calulator.  It takes the total bill, number of payers, and a tip percentage and calculates how much each person should pay.
+
+**Thoughts:**: I'm following along with Angela Yu's 100-days-of-code course from the London App Brewery to keep pace with one of my co-workers
+
+**Link to work:** [Day-2 Repo](https://github.com/absenth/100-days-of-code/blob/main/Day-2)
