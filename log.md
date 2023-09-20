@@ -23,3 +23,11 @@
 **Thoughts:**: I'm following along with Angela Yu's 100-days-of-code course from the London App Brewery to keep pace with one of my co-workers
 
 **Link to work:** [Day-2 Repo](https://github.com/absenth/100-days-of-code/blob/main/Day-2)
+
+### Day 3: September 20, 2023
+
+**Today's Progress**: I wrote my own version of the treasure island game from the class.  The course example is on [Replit](https://replit.com/@appbrewery/treasure-island-end?v=1)
+
+**Thoughts:**: I'm following along with Angela Yu's 100-days-of-code course from the London App Brewery to keep pace with one of my co-workers
+
+**Link to work:** [Day-3 Repo](https://github.com/absenth/100-days-of-code/blob/main/Day-3)
