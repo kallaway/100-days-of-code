@@ -78,12 +78,12 @@ def welcome():
 def clearscreen():
     if os.name is 'posix':
         os.system('clear')
-        return
+        return True
     elif os.name is 'nt':
         os.system('cls')
-        return
+        return True
     else:
-        return
+        return True
 
 
 if __name__ == '__main__':
