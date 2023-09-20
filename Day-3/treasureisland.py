@@ -20,7 +20,7 @@ def crossroads():
 
 
 def lake():
-    cross = input('You have come to a lake.  There is an island in the middle of the lake.  Type "wait" to wait for a boat.  Type "swim" to swim across.')
+    cross = input('You have come to a lake.  There is an island in the middle of the lake.  Type "wait" to wait for a boat.  Type "swim" to swim across. ')
     if cross.lower() in ('s', 'swim'):
         print('You get attacked by an angry trout.  Game Over.')
         quit()
@@ -29,7 +29,7 @@ def lake():
 
 
 def house():
-    door = input("You arrive at the island unharmed.  There is a house with 3 doors.  One red, one yellow, and one blue.  Which color do you choose?")
+    door = input('You arrive at the island unharmed.  There is a house with 3 doors.  One red, one yellow, and one blue.  Which color do you choose? ')
     if door.lower() in ('r', 'red'):
         print('It is a room full of fire. Game Over.')
         quit()
