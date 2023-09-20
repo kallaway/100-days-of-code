@@ -114,3 +114,43 @@
 **Thoughts** I found this fairly straightforward as all the tests related to the image.
 **Link(s) to work**
 1. https://www.freecodecamp.org/fcc9e9aab25-3e37-4137-8923-c4e572ed5125
+
+### Day 12: Monday 11th September
+
+**Today's Progress**: Wrote the CSS part of the tribute page on freecodecamp.
+
+**Thoughts** I found this fairly straightforward as all the tests related to the image.
+**Link(s) to work**
+1. https://www.freecodecamp.org/fcc9e9aab25-3e37-4137-8923-c4e572ed5125
+
+### Day 13: Tuesday 12th September
+
+**Today's Progress**: Signed up to codewars and completed first task
+
+**Thoughts** Lots of variation in difficulty. I spent a long time stuck on one before stopping and attempting an easier one.
+**Link(s) to work**
+1. https://www.codewars.com/users/AndyCarey/completed
+
+## Day 14: Wednesday 13th September
+
+**Today's Progress**: Continued with codewars tasks
+
+**Thoughts** A little more success today but still finding that I am spending a lot of time researching methods on google.
+**Link(s) to work**
+1. https://www.codewars.com/users/AndyCarey/completed
+
+## Day 15: Thursday 14th September
+
+**Today's Progress**: Continued with codewars tasks
+
+**Thoughts** Attempted a task but really struggled to find the solution, needed to use a range of methods to try and solve and even then found it hard.
+**Link(s) to work**
+1. https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/javascript 
+
+## Day 16: Friday 15th September
+
+**Today's Progress**: Built a rock, paper, scissors game usings prompt/alert functions.
+
+**Thoughts** Spent a few hours (with a team) writing the code for the game.
+**Link(s) to work**
+1. 
