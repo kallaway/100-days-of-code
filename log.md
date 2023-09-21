@@ -154,3 +154,44 @@
 **Thoughts** Spent a few hours (with a team) writing the code for the game.
 **Link(s) to work**
 1. 
+
+## Day 17: Saturday 16th September
+
+**Today's Progress**: Discovered Exercism and signed up - completed the first and second task on Javascript.
+
+**Thoughts** Enjoyed the user interface and pathways through the learning.
+**Link(s) to work**
+1. Hello, World! and Luscious Lasagna https://exercism.org/tracks/javascript
+
+## Day 18: Sunday 17th September
+
+**Today's Progress**: Completed more Exercism tasks today.
+
+**Thoughts** Found the Freelancer rates final challenge tricky - managed to apply what we are learning about breaking a problem down to get there in the end!
+**Link(s) to work**
+1. Freelancer rates -  https://exercism.org/tracks/javascript
+
+## Day 19: Monday 18th September
+
+**Today's Progress**: Completed more Exercism tasks today.
+
+**Thoughts** More Exercism tasks today, still enjoying reinforcing concepts we learned last week on the bootcamp! Completed Poetry Club Door Policy and started Elyses Enchantments
+**Link(s) to work**
+1. Poetry Club Door Policy -  https://exercism.org/tracks/javascript
+
+   ## Day 20: Tuesday 19th September
+
+**Today's Progress**: Spent an hour on codewars.
+
+**Thoughts** I have noticed syntax errors are starting to be less of an issue, it is now finding the best solution to the problem that I still need to research.
+**Link(s) to work**
+1. https://www.codewars.com/users/AndyCarey
+
+## Day 21: Wednesday 20th September
+
+**Today's Progress**: Spent an hour on codewars.
+
+**Thoughts** Levelled up! Now 7 Kyu 😁
+
+**Link(s) to work**
+1. https://www.codewars.com/users/AndyCarey
