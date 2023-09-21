@@ -31,3 +31,11 @@
 **Thoughts:**: I'm following along with Angela Yu's 100-days-of-code course from the London App Brewery to keep pace with one of my co-workers
 
 **Link to work:** [Day-3 Repo](https://github.com/absenth/100-days-of-code/blob/main/Day-3)
+
+### Day 4 September 21, 2023
+
+**Today's Progress**: I wrote this rock paper scissors game while on a flight to AUS to CLT.  I didn't add the ascii art but I did play with dictionaries for the various game states rather than a large if/elif/else array.
+
+**Thoughts:**: I'm following along with Angela Yu's 100-days-of-code course from the London App Brewery to keep pace with one of my co-workers
+
+**Link to work:** [Day-4 Repo](https://github.com/absenth/100-days-of-code/blob/main/Day-4)
