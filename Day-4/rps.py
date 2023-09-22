@@ -18,11 +18,7 @@ def main():
 
 
 def buildresult(playerchoice, computerchoice):
-    if playerchoice in ('rock', 'r'):
-        return playerchoice[0] + computerchoice
-    elif playerchoice in ('paper', 'p'):
-        return playerchoice[0] + computerchoice
-    elif playerchoice in ('scissors', 's'):
+    if playerchoice in ('rock', 'r') or playerchoice in ('paper', 'p') or playerchoice in ('scissors', 's'):
         return playerchoice[0] + computerchoice
     else:
         print(f'You picked {playerchoice} which is not rock, paper or scissors. You fail for not following directions')
