@@ -3,15 +3,10 @@ import random
 
 
 def main():
-    choices = [
-        'r','r','r','r','r'
-        'p','p','p','p','p',
-        's','s','s','s','s'
-    ]
     clearscreen()
     print('Welcome to Rock Paper Scissors')
     playerchoice = input('Please select one of the following: "rock", "Paper", or "Scissors" ').lower()
-    computerchoice = random.choice(choices)
+    computerchoice = random.choice(['r','s','p'])
     result = buildresult(playerchoice, computerchoice)
     printout, wld = gamestate(result)
     print(f'{printout} - as a result you {wld}')
