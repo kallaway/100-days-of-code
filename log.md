@@ -195,3 +195,48 @@
 
 **Link(s) to work**
 1. https://www.codewars.com/users/AndyCarey
+
+## Day 22: Thursday 21st September
+
+**Today's Progress**: Completed an hour on codewars - working in a tema to solve a range of problems.
+
+**Thoughts** completed the refactor task - highest and lowest
+
+**Link(s) to work**
+1. (https://www.codewars.com/kata/554b4ac871d6813a03000035)
+
+## Day 23: Friday 22nd September
+
+**Today's Progress**: Built a weather app for a fixed location.
+
+**Thoughts** Managed to use the fetch command and display the weather data
+
+**Link(s) to work**
+1. https://github.com/SchoolOfCode/bc15-w3-d5-hackathon-fetch-small-numbers
+
+## Day 24: Saturday 23rd September
+
+**Today's Progress**: Completed Elyses Enchantments.
+
+**Thoughts** Getting more confident with navigating arrays after completing this task.
+
+**Link(s) to work**
+1. (https://exercism.org/tracks/javascript/exercises/elyses-enchantments)
+
+ ## Day 25: Sunday 24th September
+
+**Today's Progress**: Quarter of the way! 
+
+**Thoughts** Passed another task on exercism - Vehicle Purchase. Finding I understand functions more now.
+
+**Link(s) to work**
+1. (https://exercism.org/tracks/javascript/exercises/vehicle-purchase)
+
+## Day 26: Monday 25th September
+
+**Today's Progress**: Practiced linking an API and making the contents appear in a browser page 
+
+**Thoughts** Not as complete as I wanted it to be, but it displays the film titles from the API. I would like to add more functionality and styling to the page. 
+
+**Link(s) to work**
+1. https://github.com/SchoolOfCode/bc15-w3-recap-task-fetch-challenge-carey-andrew
