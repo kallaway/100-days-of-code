@@ -240,3 +240,99 @@
 
 **Link(s) to work**
 1. https://github.com/SchoolOfCode/bc15-w3-recap-task-fetch-challenge-carey-andrew
+
+## Day 27: Tuesday 26th September
+
+**Today's Progress**: 
+
+**Thoughts** 
+**Link(s) to work**
+1. 
+
+## Day 27: Wednesday 27th September
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+
+## Day 28: Thursday 28th September
+
+**Today's Progress**: 
+
+**Thoughts** 
+**Link(s) to work**
+1. 
+
+## Day 29: Friday 29th September
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+
+## Day 30: Saturday 30th September
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+
+ ## Day 31: Sunday 1st October
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+
+## Day 32: Monday 2nd October
+
+**Today's Progress**: 
+
+**Thoughts** 
+**Link(s) to work**
+1.
+2.
+## Day 33: Tuesday 3rd October
+
+**Today's Progress**: 
+
+**Thoughts** 
+**Link(s) to work**
+1. 
+
+## Day 34: Wednesday 4th October
+
+**Today's Progress**: Added new lines of code to Movie API to return all titles and overviews - in a cleaner way
+
+**Thoughts** Changes suggested by mentor made sense!
+
+**Link(s) to work**
+1. 
+
+## Day 22: Thursday 5th October
+
+**Today's Progress**: Coded the link between Elephant SqL Db and node.js
+
+**Thoughts** 
+
+**Link(s) to work**
+1. (https://www.codewars.com/kata/554b4ac871d6813a03000035)
+
+## Day 23: Friday 6th October
+
+**Today's Progress**: Built a weather app for a fixed location.
+
+**Thoughts** Managed to use the fetch command and display the weather data
+
+**Link(s) to work**
+1. https://github.com/SchoolOfCode/bc15-w3-d5-hackathon-fetch-small-numbers
+
