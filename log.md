@@ -243,73 +243,73 @@
 
 ## Day 27: Tuesday 26th September
 
-**Today's Progress**: 
+**Today's Progress**: Learned how to add a unique ID generator to javascript   
 
-**Thoughts** 
+**Thoughts** Opened my eyes to 3rd Party packages!
 **Link(s) to work**
-1. 
+1. Created a database of people each with a unique Id!
 
-## Day 27: Wednesday 27th September
+## Day 28: Wednesday 27th September
 
-**Today's Progress**: 
+**Today's Progress**: Used ExpressJS to build a Rest API.
 
-**Thoughts** 
-
-**Link(s) to work**
-1. 
-
-## Day 28: Thursday 28th September
-
-**Today's Progress**: 
-
-**Thoughts** 
-**Link(s) to work**
-1. 
-
-## Day 29: Friday 29th September
-
-**Today's Progress**: 
-
-**Thoughts** 
+**Thoughts** Need to make sure that it follows RESTful conventions, so as not to give my users a poor experience.
 
 **Link(s) to work**
-1. 
+1. Created a REST API able to store and retrieve memorable quotes.
 
-## Day 30: Saturday 30th September
+## Day 29: Thursday 28th September
 
-**Today's Progress**: 
+**Today's Progress**: Learned how to add functionality such as PUT, PATCH and DELETE
 
-**Thoughts** 
+**Thoughts** Starting to see the implications of such a database, applications can be scaled up to storing users data for almost anything!
+**Link(s) to work**
+1. Same database as yesterday but now with more functionality.
+
+## Day 30: Friday 29th September
+
+**Today's Progress**: Built a RESTAPI from scratch as part of this week's hack-a-thon.
+
+**Thoughts** We chose to model it on a corner store set-up that sells fruits or chocolate and coded the ability to GET, POST, PATCH or DELETE products, all stored in a JSON file.
 
 **Link(s) to work**
-1. 
+1. https://github.com/SchoolOfCode/bc15-w4-d5-hackathon-backend-the-northern-team
 
- ## Day 31: Sunday 1st October
+## Day 31: Saturday 30th September
 
-**Today's Progress**: 
+**Today's Progress**: Completed some more codewars tasks
 
-**Thoughts** 
+**Thoughts** 31 days in wow! Getting much more confident with coding and using skills I never thought I had.
 
 **Link(s) to work**
-1. 
+1. What is between?
 
-## Day 32: Monday 2nd October
+ ## Day 32: Sunday 1st October
 
-**Today's Progress**: 
+**Today's Progress**: Weekend codewars!
 
-**Thoughts** 
+**Thoughts** Getting more comfortable with 8kyu - need to try more level 7's!
+
 **Link(s) to work**
-1.
+1. Are You Playing Banjo?
+
+## Day 33: Monday 2nd October
+
+**Today's Progress**: Completed all the tasks on the SQL tutorial learning how to JOIN, SELECT and use WHERE in SQL.
+
+**Thoughts** Enjoying the common sense approach to the language used to navigate and query.
+**Link(s) to work**
+1.https://sqlbolt.com/
 2.
-## Day 33: Tuesday 3rd October
+## Day 34: Tuesday 3rd October
 
-**Today's Progress**: 
+**Today's Progress**: Solved a murder mystery using SQL queries. 
 
-**Thoughts** 
+**Thoughts** Really enjoyed navigating the game and writing the queries.
 **Link(s) to work**
-1. 
+1. https://mystery.knightlab.com/walkthrough.html
 
-## Day 34: Wednesday 4th October
+## Day 35: Wednesday 4th October
 
 **Today's Progress**: Added new lines of code to Movie API to return all titles and overviews - in a cleaner way
 
@@ -318,21 +318,20 @@
 **Link(s) to work**
 1. 
 
-## Day 22: Thursday 5th October
+## Day 36: Thursday 5th October
 
 **Today's Progress**: Coded the link between Elephant SqL Db and node.js
 
-**Thoughts** 
+**Thoughts** managed to write the queries for one table, still need to complete another
 
 **Link(s) to work**
-1. (https://www.codewars.com/kata/554b4ac871d6813a03000035)
+1. (https://api.elephantsql.com/console/05c8fe98-8084-4222-a4cd-15d6ed294007/stats?)
 
-## Day 23: Friday 6th October
+## Day 37: Friday 6th October
 
-**Today's Progress**: Built a weather app for a fixed location.
+**Today's Progress**: Built an API with a database, using SQL to query. 
 
-**Thoughts** Managed to use the fetch command and display the weather data
+**Thoughts** Very satisfied with the amount of work completed today. Functioning database with CRUD functionality.
 
 **Link(s) to work**
-1. https://github.com/SchoolOfCode/bc15-w3-d5-hackathon-fetch-small-numbers
-
+1. https://github.com/SchoolOfCode/bc15-w5-d5-hackathon-build-a-rest-api-with-postgres-basethree
