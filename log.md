@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 10, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: 
+- 1. Solved DataLemur 3 easy-medium level SQL questions,
+- 2. Invested time in examining the @codebasics FMCG challenge. 
+- 3. Developed the data schema for the database. 
+- 4. Composed several queries to gain primary insights from the data.
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** I really struggled with structuring the database schema, understanding the primary problems of the FMCG business. Overall analysis was good.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [DataLemur: SQL interview question on TikTok! ](https://datalemur.com/questions/second-day-confirmation?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplifiedb9d68)
+   
+2. [DataLemur: SQL Interview question on Facebook](https://datalemur.com/questions/click-through-rate?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified377ef)
+
+3. [CodeBasics FMCG analysis](https://github.com/onkar-kota/CodeX-Food-Bevrage-Analysis)
