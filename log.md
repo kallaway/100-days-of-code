@@ -335,3 +335,39 @@
 
 **Link(s) to work**
 1. https://github.com/SchoolOfCode/bc15-w5-d5-hackathon-build-a-rest-api-with-postgres-basethree
+
+## Day 38: Saturday 7th October
+
+**Today's Progress**: Started a portfolio website
+
+**Thoughts** HTML and CSS make a lot more sense than 38 days ago!
+
+**Link(s) to work**
+1. https://github.com/carey-andrew/developer-portfolio/tree/main
+
+## Day 39: Sunday 8th October
+
+**Today's Progress**: More work on portfolio website
+
+**Thoughts** About me section updated
+
+**Link(s) to work**
+1. (https://github.com/carey-andrew/developer-portfolio/tree/main)
+
+## Day 40: Monday 9th October
+
+**Today's Progress**: Added a background picture to portfolio and learned how to overlap the features
+
+**Thoughts** Problem solving skills tested today in order to get the look I wanted.
+
+**Link(s) to work**
+1. https://github.com/carey-andrew/developer-portfolio/tree/main
+
+## Day 41: Tuesday 10th October
+
+**Today's Progress**: Codewars - scrabble score task done!
+
+**Thoughts** Completed twice! Once as part of a project then refactored for codewars!
+
+**Link(s) to work**
+1. 
