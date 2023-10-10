@@ -53,12 +53,12 @@ def get_symbols():
 
 
 def generate_password(length):
-    choices=[]
-    if get_alphas() == True:
+    choices = []
+    if get_alphas() is True:
         choices.append(string.ascii_letters)
-    if get_numbers() == True:
+    if get_numbers() is True:
         choices.append(string.digits)
-    if get_symbols() == True:
+    if get_symbols() is True:
         choices.append(string.punctuation)
 
     selections = []
