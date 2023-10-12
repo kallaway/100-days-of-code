@@ -36,3 +36,24 @@
 2. [DataLemur: Alibaba SQL Interview Question](https://datalemur.com/questions/alibaba-compressed-mean?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplifiedcfcc9)
    
 3. [DataLemur: JPMorgan Chase SQL Interview Question](https://datalemur.com/questions/cards-issued-difference?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplifiedacf63)
+
+#
+
+### Day 3: October 12, 2023
+
+**Today's Progress**: 
+- Solved DataLemur 3 easy-medium level SQL questions,
+- Contributed to one open-source project (30-day-code) and started working on second open-source repo. 
+- Preperation for interview started by direct interviwer question's from linkedin.
+- Participated in Hacksquad & Hacktoberfest2023 and started contibuting to those repo's
+
+
+**Thoughts:** Today I stuck a little bit in solving SQL problems due to fear of not solving 😔. Felt confident while debuging some code
+in open-source. Revision of SQL concepts was quite good.
+
+**Link(s) to work**
+1. [DataLemur: Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified94651)
+   
+2. [DataLemur: Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplifiede8b1f)
+   
+3. [DataLemur: Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified27cf5)
