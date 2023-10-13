@@ -3,10 +3,10 @@
 ### Day 1: October 10, 2023
 
 **Today's Progress**: 
-- 1. Solved DataLemur 3 easy-medium level SQL questions,
-- 2. Invested time in examining the @codebasics FMCG challenge. 
-- 3. Developed the data schema for the database. 
-- 4. Composed several queries to gain primary insights from the data.
+- Solved DataLemur 3 easy-medium level SQL questions,
+- Invested time in examining the @codebasics FMCG challenge. 
+- Developed the data schema for the database. 
+- Composed several queries to gain primary insights from the data.
 
 
 **Thoughts:** I really struggled with structuring the database schema, understanding the primary problems of the FMCG business. Overall analysis was good.
@@ -23,9 +23,9 @@
 ### Day 2: October 11, 2023
 
 **Today's Progress**: 
-- 1. Solved DataLemur 3 easy-medium level SQL questions,
-- 2. Invested time in learning new tool Docker 
-- 3. Dived into the world of open source! Made contribution to freeCodeCamp documentation project.
+- Solved DataLemur 3 easy-medium level SQL questions,
+- Invested time in learning new tool Docker 
+- Dived into the world of open source! Made contribution to freeCodeCamp documentation project.
 
 
 **Thoughts:** Today i solved SQL problems very understandingly and understood the concept behind the question and solved accordingly. And in mid-day got stuck with PR's and MR's of repo very tiring process but interesting too.
@@ -57,3 +57,28 @@ in open-source. Revision of SQL concepts was quite good.
 2. [DataLemur: Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplifiede8b1f)
    
 3. [DataLemur: Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified27cf5)
+
+#
+
+### Day 4: October 14, 2023
+
+**Today's Progress**: 
+- Solved DataLemur 3 Intermediate level SQL questions.
+- Analysed and solved 4 primary questions of codebasics Telangana challenge.
+- Attended space on LinkedIn about resume hacks and upgrades.
+- Worked on new open-source project which was on python-development-script.
+
+
+**Thoughts:** Todays SQL questions were tricky, found some difficulties but loved to solve such questions 😄.
+Telangana challenge is quite interesting and experiencing like I am working on real world problem... continueing with it.
+Resume hacks were very familiar to me but quite interesting and its time tp give some updates in job applying.
+Open-source is getting interesting day-by-day we will see where it goessss....
+
+**Link(s) to work**
+1. [DataLemur: Highest-Grossing Items [Amazon SQL Interview Question]](https://datalemur.com/questions/sql-highest-grossing?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplifiedd6887)
+   
+2. [DataLemur: Tweets' Rolling Averages [Twitter SQL Interview Question]](https://datalemur.com/questions/rolling-average-tweets?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplifiedde02d)
+   
+3. [DataLemur: Sending vs. Opening Snaps [Snapchat SQL Interview Question]](https://datalemur.com/questions/time-spent-snaps?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplifiede040d)
+
+4. [Codebasics: Telangana challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
