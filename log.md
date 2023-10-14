@@ -82,3 +82,21 @@ Open-source is getting interesting day-by-day we will see where it goessss....
 3. [DataLemur: Sending vs. Opening Snaps [Snapchat SQL Interview Question]](https://datalemur.com/questions/time-spent-snaps?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplifiede040d)
 
 4. [Codebasics: Telangana challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+
+#
+
+### Day 5: October 14, 2023
+
+**Today's Progress**: 
+- 1st at catch up with the open-source project PR and it was merged successfully 😊.
+- Solved 2 datalemur intermediate SQL questions.
+- Stared working on open-source project that was assigned.
+
+**Thoughts:** Today's SQL questions were quite tricky and there was anxity of switching cause of some mail.
+But solved those questions successfully. Building connections on github and twitter is going and feeling confidence in contributing to open-source.
+
+
+**Link(s) to work**
+1. [DataLemur: Top 5 Artists [Spotify SQL Interview Question]](https://datalemur.com/questions/top-fans-rank?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified70b2b)
+   
+2. [DataLemur: Signup Activation Rate [TikTok SQL Interview Question]](https://datalemur.com/questions/signup-confirmation-rate?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified2f650)
