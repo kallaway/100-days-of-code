@@ -100,3 +100,13 @@ But solved those questions successfully. Building connections on github and twit
 1. [DataLemur: Top 5 Artists [Spotify SQL Interview Question]](https://datalemur.com/questions/top-fans-rank?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified70b2b)
    
 2. [DataLemur: Signup Activation Rate [TikTok SQL Interview Question]](https://datalemur.com/questions/signup-confirmation-rate?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified2f650)
+
+#
+
+### Day 6: October 15, 2023
+
+**Today's Progress**: 
+- Did interview preperation, making clear concepts of pandas
+- Worked on open-source project and pushed PR for review.
+
+**Thoughts:** Today not done something great, but made myself to do something because of commitment that i have made. Low productivilty day.
