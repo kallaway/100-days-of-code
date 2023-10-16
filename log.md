@@ -110,3 +110,19 @@ But solved those questions successfully. Building connections on github and twit
 - Worked on open-source project and pushed PR for review.
 
 **Thoughts:** Today not done something great, but made myself to do something because of commitment that i have made. Low productivilty day.
+
+#
+
+### Day 7: October 16, 2023
+
+**Today's Progress**: 
+- Solved DataLemur 2 Intermediate level SQL questions.
+- Worked on new open-source project which was on python-development-sc.
+- Revised some python and its libraries.
+
+**Thoughts:** Today's day was little lazy, but kept busy myself. Low productive day hopping for best tomorrow.
+
+**Link(s) to work**
+1. [DataLemur: Odd and Even Measurements [Google SQL Interview Question]](https://datalemur.com/questions/odd-even-measurements?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified838c2)
+   
+2. [DataLemur: Supercloud Customer [Microsoft SQL Interview Question]](https://datalemur.com/questions/supercloud-customer)
