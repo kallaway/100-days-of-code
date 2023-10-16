@@ -124,5 +124,5 @@ But solved those questions successfully. Building connections on github and twit
 
 **Link(s) to work**
 1. [DataLemur: Odd and Even Measurements [Google SQL Interview Question]](https://datalemur.com/questions/odd-even-measurements?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified838c2)
-   
+
 2. [DataLemur: Supercloud Customer [Microsoft SQL Interview Question]](https://datalemur.com/questions/supercloud-customer)
