@@ -39,3 +39,12 @@
 **Thoughts:**: I'm following along with Angela Yu's 100-days-of-code course from the London App Brewery to keep pace with one of my co-workers
 
 **Link to work:** [Day-4 Repo](https://github.com/absenth/100-days-of-code/blob/main/Day-4)
+
+### Day 5 October 10, 2023
+
+**Today's Progress**: Today I wrote a password generator script.  I decided to add the python Rich format so I could have some color in the terminal on the print statements.  I think this would be better if I did type checking on the inputs, but I haven't done so yet.
+
+**Thoughts:**: I'm following along with Angela Yu's 100-days-of-code course from the London App Brewery to keep pace with one of my co-workers
+
+**Link to work:** [Day-5 Repo](https://github.com/absenth/100-days-of-code/blob/main/Day-5)
+
