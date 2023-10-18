@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Livewire\Counter;
+use App\Livewire\{Counter, CreatePost};
 
 /*
 |--------------------------------------------------------------------------
@@ -19,3 +19,5 @@ Route::get('/', function () {
 });
 
 Route::get('/counter', Counter::class);
+
+Route::get('/posts', CreatePost::class);
