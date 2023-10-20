@@ -161,6 +161,6 @@ But solved those questions successfully. Building connections on github and twit
 
 **Today's Progress**: 
 - Today I did some SQL interview questions and how to approach the SQL interviews.
-- Solved randomly 2 questions of SQL
+- Solved randomly 2 questions of SQL and learned from it.
 - Started statistics course from cousera.
 - Worked on open-source project, got tackled little but trying to understand the work.
