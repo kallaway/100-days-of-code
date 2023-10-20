@@ -126,3 +126,43 @@ But solved those questions successfully. Building connections on github and twit
 1. [DataLemur: Odd and Even Measurements [Google SQL Interview Question]](https://datalemur.com/questions/odd-even-measurements?referralCode=cQff1zBl&utm_medium=social&utm_source=twitter&utm_campaign=simplified&utm_content=simplified838c2)
 
 2. [DataLemur: Supercloud Customer [Microsoft SQL Interview Question]](https://datalemur.com/questions/supercloud-customer)
+
+#
+
+### Day 8: October 17, 2023
+
+**Today's Progress**: 
+- Done solving Uber SQL interview question's 
+- Worked on open-source project, emerged in this project a lot.😶‍🌫️
+
+**Thoughts:** Today's day was little lazy, but kept busy myself. Low productive day hopping for best tomorrow.
+
+#
+
+### Day 9: October 18, 2023
+
+**Today's Progress**: 
+- Completed open-source project and made my PR merged successfully 🎉
+- Deep dived into analysis using advance pandas, got creative output. 📈
+- Explored some amazing content on linkedIn and made some connections.
+
+**Thoughts:** Today's day was little lazy, but kept busy myself. Low productive day hopping for best tomorrow.
+
+#
+
+### Day 9: October 19, 2023
+
+**Today's Progress**: 
+- Not done anything, but analyzed my daily routine.
+- Read some conepts on LinkedIn and Twitter.
+- Overall moderate day.
+
+#
+
+### Day 10: October 20, 2023
+
+**Today's Progress**: 
+- Today I did some SQL interview questions and how to approach the SQL interviews.
+- Solved randomly 2 questions of SQL
+- Started statistics course from cousera.
+- Worked on open-source project, got tackled little but trying to understand the work.
