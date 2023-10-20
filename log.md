@@ -146,8 +146,6 @@ But solved those questions successfully. Building connections on github and twit
 - Deep dived into analysis using advance pandas, got creative output. 📈
 - Explored some amazing content on linkedIn and made some connections.
 
-**Thoughts:** Today's day was little lazy, but kept busy myself. Low productive day hopping for best tomorrow.
-
 #
 
 ### Day 9: October 19, 2023
