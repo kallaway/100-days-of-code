@@ -162,5 +162,14 @@ But solved those questions successfully. Building connections on github and twit
 **Today's Progress**: 
 - Today I did some SQL interview questions and how to approach the SQL interviews.
 - Solved randomly 2 questions of SQL and learned from it.
-- Started statistics course from cousera.
+- Started statistics course from cousera.   
 - Worked on open-source project, got tackled little but trying to understand the work.
+
+### Day 11: October 21, 2023
+
+**Today's Progress**: 
+- Updated my resume for data analysis roles.
+- Worked on statistical concepts and donw with week 1.
+- Worked on open-source task.
+
+**Thoughts:** Hiting procrastination again and again but not giving up this time, maintaining decipline. Feeling asleep due to stress on mind, so started day with little exercise felt energetic.
