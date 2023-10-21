@@ -148,7 +148,7 @@ But solved those questions successfully. Building connections on github and twit
 
 #
 
-### Day 9: October 19, 2023
+### Day 10: October 19, 2023
 
 **Today's Progress**: 
 - Not done anything, but analyzed my daily routine.
@@ -157,7 +157,7 @@ But solved those questions successfully. Building connections on github and twit
 
 #
 
-### Day 10: October 20, 2023
+### Day 11: October 20, 2023
 
 **Today's Progress**: 
 - Today I did some SQL interview questions and how to approach the SQL interviews.
@@ -165,7 +165,7 @@ But solved those questions successfully. Building connections on github and twit
 - Started statistics course from cousera.   
 - Worked on open-source project, got tackled little but trying to understand the work.
 
-### Day 11: October 21, 2023
+### Day 12: October 21, 2023
 
 **Today's Progress**: 
 - Updated my resume for data analysis roles.
