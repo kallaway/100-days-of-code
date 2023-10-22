@@ -173,3 +173,12 @@ But solved those questions successfully. Building connections on github and twit
 - Worked on open-source task.
 
 **Thoughts:** Hiting procrastination again and again but not giving up this time, maintaining decipline. Feeling asleep due to stress on mind, so started day with little exercise felt energetic.
+
+
+### Day 13: October 22, 2023
+
+**Today's Progress**: 
+- Tackled SQL interview questions provided by @DataLemur
+- Successfully tackled Python coding challenges.
+- Conducted an analysis of the company's CAC.
+- Contributed to an open-source repository on @github
