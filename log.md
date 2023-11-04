@@ -7,7 +7,8 @@
 Web Full Stack BootCamp: Async section
 leetcode:Construct Binary Tree From Preorder And Inorder Traversal
 
-**Thoughts:** thoughts about tree and recursion
+**Thoughts:** Thoughts about tree and recursion
+这题用map来节省空间
 
 **Link to work:** 
 
