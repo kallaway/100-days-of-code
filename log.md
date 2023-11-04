@@ -4,8 +4,10 @@
 ##### (delete me or comment me out)
 
 **Today's Progress**: 
+Web Full Stack BootCamp: Async section
+leetcode:Construct Binary Tree From Preorder And Inorder Traversal
 
-**Thoughts:** I
+**Thoughts:** thoughts about tree and recursion
 
 **Link to work:** 
 
