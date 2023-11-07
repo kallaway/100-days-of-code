@@ -41,3 +41,14 @@ leetcode：Serialize And Deserialize Binary Tree
 practice DFS related做法
 
 **Link(s) to work**
+
+### Day 4: 
+
+**Today's Progress**: 
+leetcode：Min Cost Climbing Stairs，House Robber II
+Web Full Stack BootCamp: Ajax finished
+
+**Thoughts** 
+practice DP, Web Full Stack应该加快速度
+
+**Link(s) to work**
