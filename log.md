@@ -15,10 +15,29 @@ leetcode:Construct Binary Tree From Preorder And Inorder Traversal
 
 ### Day 1: 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
+leetcode：Binary Tree Maximum Path Sum
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
+做过的题偶尔还是会忘记
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 2: 
+
+**Today's Progress**: 
+leetcode：participate weekly contest - ace 2 questions (find champion I and II) 
+**Thoughts** 
+DFS还是不太熟练，现在topological sorting相关倒是不错
+
+**Link(s) to work**
+
+### Day 3: 
+
+**Today's Progress**: 
+leetcode：Serialize And Deserialize Binary Tree
+
+**Thoughts** 
+practice DFS related做法
+
+**Link(s) to work**
