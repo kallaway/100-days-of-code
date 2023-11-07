@@ -50,6 +50,6 @@ leetcode：Min Cost Climbing Stairs，House Robber II
 Web Full Stack BootCamp: Ajax finished
 
 **Thoughts** 
-practice DP
+practice DP, Web Full Stack应该加快速度
 
 **Link(s) to work**
