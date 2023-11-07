@@ -17,6 +17,7 @@ leetcode:Construct Binary Tree From Preorder And Inorder Traversal
 
 **Today's Progress**: 
 leetcode：Binary Tree Maximum Path Sum
+Web Full Stack BootCamp: Ajax一半
 
 **Thoughts** 
 做过的题偶尔还是会忘记
@@ -39,5 +40,16 @@ leetcode：Serialize And Deserialize Binary Tree
 
 **Thoughts** 
 practice DFS related做法
+
+**Link(s) to work**
+
+### Day 4: 
+
+**Today's Progress**: 
+leetcode：Min Cost Climbing Stairs，House Robber II
+Web Full Stack BootCamp: Ajax finished
+
+**Thoughts** 
+practice DP
 
 **Link(s) to work**
