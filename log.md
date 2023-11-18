@@ -60,6 +60,6 @@ leetcode：每天都在做，但是前几天没打卡
 Web Full Stack BootCamp: EJS finished
 
 **Thoughts** 
-Web Full Stack应该加快速度
+Web Full Stack应该加快速度,争取11/29号前除react都看完
 
 **Link(s) to work**
