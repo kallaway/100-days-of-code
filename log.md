@@ -52,3 +52,14 @@ Web Full Stack BootCamp: Ajax finished
 practice DP, Web Full Stack应该加快速度
 
 **Link(s) to work**
+
+### Day 5: 
+
+**Today's Progress**: 
+leetcode：每天都在做，但是前几天没打卡
+Web Full Stack BootCamp: EJS finished
+
+**Thoughts** 
+Web Full Stack应该加快速度
+
+**Link(s) to work**
