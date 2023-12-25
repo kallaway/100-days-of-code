@@ -1,0 +1,38 @@
+Problem No.1  :Given a square matrix of size n*n. The task is to find the determinant of this matrix.
+https://www.geeksforgeeks.org/problems/determinant-of-a-matrix-1587115620/1
+Solution No. :
+class Solution
+{   
+    public:
+    //Function for finding determinant of matrix.
+    int determinantOfMatrix(vector<vector<int> > matrix, int n)
+    {
+        if(n==1){
+            return matrix[0][0];
+        }
+        if(n==2){
+            return matrix[0][0]*matrix[1][1] -matrix[1][0]*matrix[0][1];
+        }
+        // code here 
+        int sign =1;
+        int ans=0;
+        for(int i =0;i<n;i++){
+           vector<vector<int>>temp(n-1, vector<int>(n-1));
+            int row =0;
+            for(int col=0;col<n;col++){
+                if(col==i) continue;
+                for(int k =1;k<n;k++){
+                    temp[k-1][row]=matrix[k][col];
+                  
+                }
+                 row++;
+                // recursive call with the new sub matrix multiplication 
+                // of which temp matrix we have alreade defined and its size.
+            }
+                ans += sign*matrix[0][i]*determinantOfMatrix(temp,n-1);
+                // changing the sign of int sign everytime it iterates to different col
+                sign=-sign;
+        }
+            return ans;
+    }
+};
