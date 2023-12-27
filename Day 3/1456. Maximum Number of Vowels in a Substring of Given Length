@@ -1,0 +1,59 @@
+Problem link :https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+
+// #####BRUTE FORCE #####
+
+// class Solution {
+// public:
+//     int maxVowels(string s, int k) {
+//         int i=0,j=0;
+//         int vowels[100] = {'a','e','i','o','u'};
+//         int res=0,count=0;
+//         for(int j =0;j<s.size();j++){
+//             for(int k =0;k<100;k++){
+//                 if(s[j]==vowels[k]){
+//                 count++;
+//                 break;
+//                 }
+//             }
+//             if(j-i+1>k){
+//             for(int k =0;k<100;k++){
+//                 if(s[i]==vowels[k]){
+//                     count--;
+//                     break;
+//                 }
+//             }
+//                 i++;
+//             }
+//             res = max(count,res);
+//         }
+//         return res;
+//     }
+// };
+
+// ###### OPTIMISED #######
+class Solution {
+public:
+    int maxVowels(string s, int k) {
+        int i=0,j=0;
+        // int vowels[100] = {'a','e','i','o','u'};
+        unordered_set<char>vowels = {'a','e','i','o','u'};
+        int res=0,count=0;  
+    while (j < s.size()) {
+            if (vowels.find(s[j]) != vowels.end()) {
+                count++;
+            }
+
+            if (j - i + 1 > k) {
+                if (vowels.find(s[i]) != vowels.end()) {
+                    count--;
+                }
+                i++;
+            }
+
+            res = std::max(count, res);
+            j++;
+        }
+
+        return res;
+    }
+};
