@@ -1,0 +1,33 @@
+Problem link :
+sol:/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+   
+    void recur(TreeNode* node,int level,vector<int>&ds){
+     if(node==NULL){
+        return;
+    }
+    if(ds.size()==level){
+        ds.push_back(node->val);
+    }
+    recur(node->right,level+1,ds);
+    recur(node->left,level+1,ds);
+}
+    vector<int> rightSideView(TreeNode* root) {
+        // we will use recursion to solve it as S.C will be O(height of tree)
+    vector<int>ds;
+    int level =0;
+    recur(root,level,ds);
+    return ds;
+    }
+};
