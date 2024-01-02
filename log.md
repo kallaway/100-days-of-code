@@ -14,3 +14,15 @@
 **Thoughts:** Successfully made a deductive logic game called **Bagels** in which you must guess a secret three-digit number based on clues.
 
 **Link to work:** [Bagels](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%201)
+
+
+### Day 2: 2nd January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Probability Theory
+2. Concept of Exponents
+
+**Thoughts:** Successfully made program that performs several probability experiments to determine the percentages for groups of different sizes having the same birthday dates.
+
+**Link to work:** [Birthday Paradox](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%202)
