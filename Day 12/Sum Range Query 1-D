@@ -1,0 +1,26 @@
+https://leetcode.com/problems/range-sum-query-immutable/
+class NumArray {
+public:vector<int>pf;
+vector<int>nums;
+    NumArray(vector<int>& nums) {
+        this->nums=nums;
+        int n = nums.size();
+        pf.resize(n);
+        prefixcal(nums,n);
+    }
+    
+    int sumRange(int left, int right) {
+        return (left-1>=0)?pf[right]-pf[left-1]:pf[right];
+    }
+    void prefixcal(vector<int>&nums,int n){
+        for(int i=0;i<n;i++){
+            (i==0)?pf[i]=nums[i]:pf[i]=nums[i]+pf[i-1];
+        }
+    }
+};
+
+/**
+ * Your NumArray object will be instantiated and called as such:
+ * NumArray* obj = new NumArray(nums);
+ * int param_1 = obj->sumRange(left,right);
+ */
