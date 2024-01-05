@@ -1,0 +1,45 @@
+# how to resize the 2d vector outside the access specifier
+matrix.resize(newRows, vector<int>(newCols, 0));
+
+https://leetcode.com/problems/range-sum-query-2d-immutable/description/
+Solution:class NumMatrix {
+    private:
+    int row,col;
+    vector<vector<int>>pf;
+    // vector<vector<int>matrix;
+public:
+
+    NumMatrix(vector<vector<int>>& matrix) {
+        if (matrix.size() == 0 || matrix[0].size() == 0) {
+            return;
+        }
+
+        // this->matrix=matrix;
+        // pf.resize(n);
+         row = matrix.size();
+         col = matrix[0].size();
+        //  pf.resize()
+        pf.resize(row+1,vector<int>(col+1,0));
+        // pf = vector<vector<int>>(row+1, vector<int>(col+1, 0));
+        for(int i =1;i<=row;i++){
+            for(int j =1;j<=col;j++){
+                // this is how the prefix 2d is made basically, 1-based indexing
+               pf[i][j]=matrix[i-1][j-1]+pf[i-1][j]+pf[i][j-1]-pf[i-1][j-1];
+            }
+        }
+    }
+    
+    int sumRegion(int row1, int col1, int row2, int col2) {
+        // Calculate the sum of the region using the prefix sum array
+        // 1 based indexing used,whole cell sum - the prev -prev+corner
+        return pf[row2+1][col2+1] -
+               pf[row1][col2 + 1] -
+               pf[row2+1][col1] +
+               pf[row1][col1];
+    }
+};
+/**
+ * Your NumMatrix object will be instantiated and called as such:
+ * NumMatrix* obj = new NumMatrix(matrix);
+ * int param_1 = obj->sumRegion(row1,col1,row2,col2);
+ */
