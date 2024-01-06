@@ -1,0 +1,35 @@
+Problem link:https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1
+Solution : i could not come up so love babbar's solution with help of recursion
+consider the root as one ll and the right part whole as another ll,
+recursicely flatten the right part and then remove the connection of root with rightpart 
+and then upn the comparison of bottom of each party we merge recursively
+Solutoin:
+   Node* merge(Node* root,Node* rightpart){
+        Node* temp;
+        if(root==NULL)return rightpart;
+        if(rightpart ==NULL)return root;
+        if(rightpart->data<root->data){
+            temp =rightpart;
+            // we will go and find if there are more val in bottom of that 
+            // rightpart smaller than root->val,we will compare with its bottom
+            temp->bottom=merge(root,rightpart->bottom);
+        }
+        else{
+            temp=root;
+            // we will compare with bottoms of root with that rightpart
+            temp->bottom = merge(root->bottom,rightpart);
+        }
+        return temp;
+    }
+Node *flatten(Node *root)
+{
+   // Your code here
+   if (!root) {
+        return nullptr;
+    }
+   Node* rightpart = flatten(root->next);
+//   break the conection b/w root and right part
+   root->next=NULL;
+   Node* ans = merge(root,rightpart);
+   return ans;
+}
