@@ -1,0 +1,21 @@
+Problem link:https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+Solution:T.C = O(N)
+//  It is just like th reverse post order i.e Right ->Left ->Root;
+//  here the intution is that we create a prev =null and call recursively the rightest node and then only left node , after the we assign the prev to be curect node(leaf prob) and its left to be null and its right to be prev
+class Solution {
+    private:TreeNode* prev = NULL;
+public:
+    
+    void flatten(TreeNode* root) {
+
+        if(root==NULL)return ;
+        // TreeNode* temp =root;
+
+        flatten(root->right);
+        flatten(root->left);
+
+        root->right =prev;
+        root->left =NULL;
+        prev = root;
+    }
+};
