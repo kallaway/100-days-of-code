@@ -12,6 +12,13 @@ class Solution {
         // Call the recursive helper function to build the tree
         return buildTreeHelper(preorder, inorder, 0, 0, inorder.length - 1);
     }
+//preorder: The array representing the preorder traversal of the binary tree.
+//inorder: The array representing the inorder traversal of the binary tree.
+//preIndex: The current index in the preorder array.
+//inStart: The starting index of the current subtree in the inorder array.
+//inIndex: The index of the root node in the inorder array.
+//inEnd: The ending index of the current subtree in the inorder array.
+//inorderMap: A map or some data structure that stores the indices of elements in the inorder array for quick lookups.
 
     private TreeNode buildTreeHelper(int[] preorder, int[] inorder, int preIndex, int inStart, int inEnd) {
         // Base case: If the inorder start index is greater than the end index, return null
