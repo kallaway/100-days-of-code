@@ -1,0 +1,43 @@
+Problme link:https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+INTUTION:
+Function pathToLeaf:
+Base Case (Termination Condition):
+
+If the current root is nullptr (i.e., it's a null node), return immediately. This handles the termination condition for recursion.
+Add Current Node to the Current Path:
+
+Push the value of the current node (root->data) to the vector v, representing the current path from the root to the current node.
+Check if Current Node is a Leaf Node:
+
+If the current node is a leaf node (i.e., it has no left or right child), add the current path (v) to the result ans. This is done because the path from the root to a leaf is complete, and we want to store it.
+Recursively Explore Left and Right Subtrees:
+
+Recursively call pathToLeaf on the left and right subtrees of the current node. This is where the function explores all possible paths in a depth-first manner.
+Backtrack: Remove Last Element from Path:
+
+After the recursive calls, pop the last element from the path vector (v). This is essential for backtracking and ensuring that the path vector is correctly maintained.
+
+Code:
+    void pathToLeaf(vector<vector<int>>&ans,vector<int>&v,Node* root){
+        if(root==nullptr){
+            return;
+        }
+        
+        v.push_back(root->data);
+        if (root->left == nullptr && root->right == nullptr) {
+                ans.push_back(v);
+        }
+       
+        pathToLeaf(ans,v,root->left);
+        pathToLeaf(ans,v,root->right);
+        
+        v.pop_back();
+    }
+vector<vector<int>> Paths(Node* root)
+{                               
+    // Code here
+    vector<vector<int>>ans;
+    vector<int>v;
+    pathToLeaf(ans,v,root);
+    return ans;
+}
