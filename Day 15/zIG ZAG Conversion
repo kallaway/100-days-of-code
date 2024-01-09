@@ -1,0 +1,43 @@
+https://leetcode.com/problems/zigzag-conversion/
+The function takes two parameters - a string s and an integer numRows.
+If the number of rows (numRows) is less than or equal to 1, the function returns the original string s.
+A vector of strings v is created, with each element representing a row in the zigzag pattern.
+The variable j is used to iterate through the rows, and t is a toggle variable indicating whether to move up or down in the zigzag pattern.
+A loop iterates through each character in the input string s.
+If j is 0 or equal to numRows - 1, the direction is toggled by multiplying t by -1.
+The current character is added to the corresponding row in the vector v.
+The value of j is updated based on the value of t.
+Finally, the elements of the vector v are concatenated to form the result string, which is then returned.
+Remember:
+
+The toggle variable t is used to control the direction of movement in the zigzag pattern.
+The vector v is used to store characters in their respective rows.
+The loop iterates through each character of the input string, placing it in the appropriate row based on the zigzag pattern.
+The result is obtained by concatenating the rows of the vector v.
+
+Solution:class Solution {
+public:
+    string convert(string s, int numRows) {
+        if(numRows<=1){
+            return s;
+        }
+        vector<string>v(numRows);
+        int j =0;
+        int t=-1;
+        for(int i =0;i<s.size();i++){
+            if (j == 0 || j == numRows - 1) {
+                t *= -1;
+                }
+            v[j]+=s[i];
+            if(t==1){
+                j++;
+            }
+            else j--;
+        }
+        string result;
+        for (auto s : v) {
+            result += s;
+        }
+        return result;
+    }
+};
