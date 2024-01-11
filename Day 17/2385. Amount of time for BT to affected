@@ -1,0 +1,45 @@
+problem link : https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10
+Solution: learnt concept from aryan mittal yt
+Optimised one: without converting to graph"
+// O(N) 
+// O(N)
+class Solution {
+public:
+    // int result;
+    int maxdistance =0;
+
+    int amountOfTime(TreeNode* root, int start) {
+        
+        DFS(root, start);
+        return maxdistance;
+    }
+
+    int DFS(TreeNode* node, int start){
+        if(node == NULL) return 0;
+
+        int leftdepth = DFS(node->left,start);
+        int rightdepth = DFS(node->right,start);
+        // Three conditions :
+        // #1 simply finding the maxdepth when start node is not encountered
+        // #2 when start node is encountered
+        // # when after returning the depth withtin the start node there is parent and parent above
+        int depth =0;
+        if(node->val==start){
+            maxdistance = max(leftdepth,rightdepth);
+            // not +1 here note it bcoz we have to just know
+            // the number of level below the start node
+            depth=-1;
+            // this is notation that we have reached start
+        }
+        else if(leftdepth>=0 && rightdepth >=0){
+            // this condition means we are just dfsing
+            depth = max(leftdepth,rightdepth)+1;
+        }
+        else{
+            int distance = abs(leftdepth)+abs(rightdepth);
+            maxdistance = max(maxdistance,distance);
+            depth = min(leftdepth,rightdepth)-1;
+        }
+        return depth;
+    }
+};
