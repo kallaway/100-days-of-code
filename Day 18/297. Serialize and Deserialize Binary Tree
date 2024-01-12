@@ -1,0 +1,190 @@
+
+#include<sstream>
+
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Codec {
+public:
+
+    // Encodes a tree to a single string.
+
+    void BFS(TreeNode * root, string &ans){
+        if(root == nullptr) return ;
+
+        queue<TreeNode * > q;
+        q.push(root);
+        while(!q.empty()){
+            auto cur = q.front();
+            q.pop();
+            if(cur){
+                ans.append(to_string(cur->val) + ' ');
+                q.push(cur->left);
+                q.push(cur->right);
+            }
+            else ans.append("1010 "); 
+
+            // to_string convert cur->val into a string
+            // then we add the char ' ' to the end of the string which also forms a string
+
+            // the space helps us separate one continuous string form another
+            // to signify a null node we use the number 1010 cause it is bigger than any number present 
+            // in the tree
+
+            // rather than using space(' ') we could have also used characters like ',' to help us separate
+            // one number from another
+            // though i have used stringstream to solve the question so using ' ' to separate two strings is 
+            // the best approach
+        }
+    }
+
+    string serialize(TreeNode* root) {
+        string ans ;
+        BFS(root,ans);
+        // cout<<ans; // for debugging
+        return ans;
+    }
+
+    // Decodes your encoded data to tree.
+    TreeNode* deserialize(string data) {
+        int n = data.size();
+        if(n == 0) return nullptr;
+        stringstream s(data);
+        int cur_val;
+        s>>cur_val; 
+        // first string in 'stringstream s' moved into cur_val as an int value
+        // in this case we dont need to check whether 's' has a value
+        // in it or not because we have checked whether the queue is empty or not.
+        // Since we know that it isnt empty we know 's' also has    
+        // atleast one string still left to be moved into cur_val
+
+        /*
+            stringstream can convert a string directly into a number
+            this is what I have used here
+            eg.-
+            string s = "123 456 789";
+            stringstream str(s);
+            int number;
+            str>>number;
+            cout<<number; [output will be 123]
+        */
+        TreeNode * root = new TreeNode (cur_val);
+        queue<TreeNode* > q;
+        q.push(root);
+
+        while(!q.empty()){
+            auto cur = q.front();
+            q.pop();    
+            s>>cur_val;
+            if(cur_val == 1010){
+                cur->left = nullptr;
+            }else {
+                cur->left = new TreeNode(cur_val);
+                q.push(cur->left);
+            }
+            s>>cur_val;
+            if(cur_val == 1010){
+                cur->right = nullptr;
+            }else {
+                cur->right = new TreeNode(cur_val);
+                q.push(cur->right);
+            }
+
+        }
+        return root;
+    }
+};
+
+// Your Codec object will be instantiated and called as such:
+// Codec ser, deser;
+// TreeNode* ans = deser.deserialize(ser.serialize(root));// #include<sstream>
+// // Your Codec object will be instantiated and called as such:
+// // Codec ser, deser;
+// // TreeNode* ans = deser.deserialize(ser.serialize(root));
+// // /**
+// //  * Definition for a binary tree node.
+// //  * struct TreeNode {
+// //  *     int val;
+// //  *     TreeNode *left;
+// //  *     TreeNode *right;
+// //  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+// //  * };
+// //  */
+// class Codec {
+// public:
+
+//     // Encodes a tree to a single string.
+//     string serialize(TreeNode* root) {
+//         if(root==nullptr){
+//             return "";
+//         }
+//         string str ;
+//         queue<TreeNode*>q;
+//         q.push(root);
+//         while(!q.empty()){
+//             TreeNode* node = q.front();
+//             q.pop();
+//             // str+=node;
+//             if(node==NULL){
+//                 str.append("1010 ");
+//             }
+//             else str.append(to_string(node->val)+ ' ');
+//             if(node->left)q.push(node->left);
+//             if(node->right)q.push(node->right);
+//         }
+//         return str;
+//     }
+
+//     // Decodes your encoded data to tree.
+//     TreeNode* deserialize(string data) {
+//         if(data.size()==0)return nullptr;
+//         stringstream s(data);
+//         // stringstream allows string to be iterated over as objects
+//         int number;
+//         s>>number;
+//         // getline(s,str1,',');
+//         TreeNode* node = new TreeNode(number);
+//         queue<TreeNode*>q;
+//         q.push(node);
+//         while(!q.empty()){
+//             TreeNode* temp = q.front();
+//             q.pop();
+//             s>>number;
+//             if(number ==1010){
+//                 temp->left = NULL;
+//             }
+//             else{
+//                 // as we are creating the tree so create a new node
+//                 TreeNode* temp1 = new TreeNode(number);
+//                 temp->left = temp1;
+//                 // we are pushing node in queue to be considered as 
+//                 // TreeNode* temp = q.front(); again when its turn comes in while loop
+//                 q.push(temp1);
+//             }
+//             // getline(s,str1,',');
+//             s>>number;
+//             if(number==1010){
+//                 temp->right = NULL;
+//             }
+//             else{
+//                 // as we are creating the tree so create a new node
+//                 TreeNode* temp2 = new TreeNode(number);
+//                 temp->right = temp2;
+//                 //tempn we are pushing node in queue to be considered as 
+//                 // TreeNode* temp = q.front(); again when its turn comes in while loop
+//                 q.push(temp2);
+//             }
+//         }
+//         return node;
+//     }
+// };
+
+// // // Your Codec object will be instantiated and called as such:
+// // // Codec ser, deser;
+// // // TreeNode* ans = deser.deserialize(ser.serialize(root));
