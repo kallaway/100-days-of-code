@@ -1,0 +1,85 @@
+
+Problem link:https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+LOGIC AND FUNCTION DEF:
+
+parentpointer(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& parent): Traverses the tree using BFS and creates a mapping of each node to its parent.
+  distanceK(TreeNode* root, TreeNode* target, int k): Finds all nodes at a distance 'k' from the target node.
+Parent Pointer Calculation:
+
+Create an unordered map parent to store the parent of each node.
+Initialize a queue with the root node and perform BFS.
+While traversing the tree, populate the parent map.
+BFS for Distance Calculation:
+
+Initialize a queue for BFS traversal and a visited map to keep track of visited nodes.
+Start BFS from the target node, marking it as visited.
+During BFS, go up to the parent, left, and right nodes.
+Keep track of the distance covered.
+Stop BFS when the distance is equal to the required distance 'k'.
+Solution:/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+
+    void parentpointer(TreeNode* root,unordered_map<TreeNode*,TreeNode*>&parent){
+        queue<TreeNode*>q;
+        q.push(root);
+        while(!q.empty()){
+            TreeNode* curr=q.front();
+            q.pop();
+            if(curr->left){
+                parent[curr->left]=curr;
+                q.push(curr->left);
+            }
+            if(curr->right){
+                parent[curr->right]=curr;
+                q.push(curr->right);
+            }
+        }
+    }
+    vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
+        unordered_map<TreeNode*,TreeNode*>parent;
+        parentpointer(root,parent);
+        unordered_map<TreeNode*,bool>visited;
+        queue<TreeNode*>q;
+        q.push(target);
+        visited[target]=true;
+        int distance=0;
+        while(!q.empty()){
+            int size=q.size();
+            if(distance==k)break;
+            else distance++;
+            for(int i =0;i<size;i++){
+                TreeNode* node = q.front();
+                q.pop();
+                if(node->left && !visited[node->left]){
+                    q.push(node->left);
+                    visited[node->left]=true;
+                }
+                if(node->right && !visited[node->right]){
+                    q.push(node->right);
+                    visited[node->right]=true;
+                }
+                if(parent[node] && !visited[parent[node]]){
+                    q.push(parent[node]);
+                    visited[parent[node]]=true;
+                }
+            }
+        }
+        vector<int>result;
+        while(!q.empty()){
+            TreeNode* cur = q.front();
+            q.pop();
+            result.push_back(cur->val);
+        }
+        return result;
+
+    }
+};
