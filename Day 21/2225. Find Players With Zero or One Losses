@@ -1,0 +1,24 @@
+WAS easy but made medium, i found it medium however ,eeee
+https://leetcode.com/problems/find-players-with-zero-or-one-losses/?envType=daily-question&envId=2024-01-15
+Sol: O(nlogn)
+class Solution {
+public:
+    vector<vector<int>> findWinners(vector<vector<int>>& matches) {
+        map<int,int>mp;
+        for(auto it :matches){
+            auto win =it[0];
+            auto loss = it[1];
+            if(mp.find(win)==mp.end())mp[win]=0;
+            mp[loss]++;
+        }
+        vector<int>noloss;
+        vector<int>oneloss;
+        for(auto i :mp){
+            int m = i.first;
+            int n = i.second;
+            if(n==0)noloss.push_back(m);
+            if(n==1)oneloss.push_back(m);
+        }
+        return {noloss,oneloss};
+    }
+};
