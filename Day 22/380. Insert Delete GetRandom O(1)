@@ -1,0 +1,52 @@
+Aryan bhaiya greatly explained this completrly new concept of deleting the elemtn in vectro in O(1)
+didn't knew that,
+So in this question we have to remove elemnt ,insert and gertrandom in O(1) only
+https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=daily-question&envId=2024-01-16
+Solution:
+class RandomizedSet {
+    unordered_map<int,int>idxmap;
+    vector<int>nums;
+public:
+    RandomizedSet() {
+
+    }
+    
+    bool insert(int val) {
+        if(idxmap.find(val)!=idxmap.end()){
+            return false;
+        }
+        else{
+            nums.push_back(val);
+//updated the indexmap,as we pushed at last
+            idxmap[val]=nums.size()-1;
+        }
+        return true;
+    }
+    
+    bool remove(int val) {
+        if(idxmap.find(val)==idxmap.end()){
+            return false;
+        }
+        // int last = nums[nums.size()-1];
+        int last = nums.back();
+//understand yourself this one, i hope u would
+        idxmap[last]=idxmap[val];
+        nums[idxmap[last]]=last;
+        nums.pop_back();
+        idxmap.erase(val);
+        return true;
+    }
+    
+    int getRandom() {
+        return nums[rand()%nums.size()];
+        
+    }
+};
+
+/**
+ * Your RandomizedSet object will be instantiated and called as such:
+ * RandomizedSet* obj = new RandomizedSet();
+ * bool param_1 = obj->insert(val);
+ * bool param_2 = obj->remove(val);
+ * int param_3 = obj->getRandom();
+ */
