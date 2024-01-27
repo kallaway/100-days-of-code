@@ -1,0 +1,31 @@
+std::vector<int> MorrisInorderTraversal(TreeNode* root) {
+    std::vector<int> inorder;
+    TreeNode* curr = root;
+while(curr!=null){
+    if(curr->left ==nullptr){
+        inorder.push_back(curr->left);
+        curr=curr->right;
+    }
+    else{
+    TreeNode* prev = curr->left;
+    while(prev->right && prev->right !=curr){
+        prev=prev->right;
+    }
+    // thread make
+    if(prev->right==NUll){
+        prev->right = curr;
+// ###### for preorder when we make thread simply print the root and then traverse
+//  preorder.push_back(curr->val)
+        curr = curr->left;
+    }
+    else{
+        // visited again 
+        // ?for inorder print that node fists and then do the traverse towards right subtree
+        // remove thread
+        prev-right ==NULL;
+        inorder.push_back(curr->val);
+        curr = curr->right;
+    }
+    return inorder;
+    }
+}
