@@ -1,0 +1,23 @@
+lINK : https://leetcode.com/contest/weekly-contest-383/problems/minimum-time-to-revert-word-to-initial-state-i/
+Here we will make to sub strings of the means of string what we will do is, we will first check the
+Will be from excluding the first key elements to the end of the string. When ever these two substances are equal.
+Then we get our answer India, not equal level increase our countersubstring from starting okay and the second substring. We will check it.
+Will be from eight excluding the first key elements to the end of the screen. When ever these two substances
+are equal. Then we get our answer India not equal level increase our counter
+
+soLUTION:class Solution {
+public:
+    
+    int minimumTimeToInitialState(string word, int k) {
+        int n = word.size();
+        int count = 1;
+        
+        for(int i=k; i<n; i+=k){
+            string hello = word.substr(i, n-1); 
+            string bye = word.substr(0, n-i);
+            if(hello == bye) return count;
+            else count++;
+        }
+        return count;
+    }
+};
