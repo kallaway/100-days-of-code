@@ -1,1 +1,72 @@
 
+import java.util.Arrays;
+/* ****** this is the approach that i thinked of  ********
+class Solution {
+    public int maxSubArray(int[] nums) {
+
+// condition if all the element in the given array is negative
+        int count=0;
+        for(int i=0;i<nums.length;i++)
+        {
+            if(nums[i]<0)
+            {
+                count++;  // take count of all the negative element in array
+            }
+        }
+        if(count==nums.length)// checking do that all the element is neg in array
+        { Arrays.sort(nums);  // sorting the array
+
+            return nums[count-1];} // then returning the last element as we need to
+                                  // find the maximun element
+
+        int maxsum =0;
+        int currsum=0;
+        for(int i=0;i<nums.length;i++)
+        {
+            currsum=currsum+nums[i];
+            if(currsum>maxsum){
+                maxsum=currsum;
+            }
+            if(currsum<0){
+                currsum=0;
+            }
+        }
+        return maxsum;
+    }
+
+
+
+}
+
+
+public class Main {
+    public static void main(String[] args) {
+       int nums[]={2,-1,4,5,-8};
+    }
+}*/
+//  more optimised approach by taking the value of max index as first element (this will
+// max element element among the given element) or we can also take range of negative
+// element by taking Integer.MIN_VALUE
+
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int n = nums.length;
+        int max = Integer.MIN_VALUE, sum = 0;
+
+        for(int i=0;i<n;i++){
+            sum += nums[i];
+            max = Math.max(sum,max);
+
+            if(sum<0) sum = 0;
+        }
+
+        return max;
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        int nums[] = {2, -1, 4, 5, -8};
+    }
+}
+// my approach limited the maximum value till negative
