@@ -1,0 +1,89 @@
+// class Solution {
+// public:
+//     void merge(vector<int>&count,vector<pair<int,int>>&v,int low,int mid,int high){
+//         vector<pair<int,int>>temp(high-low+1);
+//         int i =low;
+//         int j = mid+1;
+//         int k=0;
+//         while(i<=mid && j<=high){
+//             if(v[i].first<=v[j].first){
+//                 // descending prder
+//                 temp[k++]=v[j++];
+//             }
+//             else{
+//                 count[v[i].second] +=high-j+1;
+//                 temp[k++]=v[i++];
+//             }
+//         }
+//         while(i<=mid){
+//             temp[k++]=v[i++];
+//         }
+//         while(j<=high){
+//             temp[k++]=v[j++];
+//         }
+    
+//         for(int i =low;i<=high;i++){
+//             v[i]=temp[i-low];
+//         }
+//     }
+//     void mergeSort(vector<int>&count,vector<pair<int,int>>&v,
+//     int low,int high){
+       
+//         if(low<high){
+//             int mid = low+ (high-low)/2;
+//             mergeSort(count,v,low,mid);
+//             mergeSort(count,v,mid+1,high);
+//             merge(count,v,low,mid,high);
+//         }
+//     }
+
+//     vector<int> countSmaller(vector<int>& nums) {
+//         int n = nums.size();
+//         vector<pair<int,int>>v(n);
+//         for(int i =0;i<n;i++){
+//             pair<int,int>p;
+//             p.first=nums[i];
+//             p.second = i;
+//             v[i]=p;
+//         }
+
+//         vector<int>count(n,0);
+//         mergeSort(count,v,0,n-1);
+//         return count;
+//     }
+// };
+class Solution {
+public:
+	// TIME COMPLEXITY:- O(NLOGM)
+	// N = NUMS.SIZE()
+    // M = 2e4 + 5
+    // BIT Update
+    void update(int ind,vector<int>& BIT){
+        while(ind<=BIT.size()){
+            BIT[ind]++;
+            ind += ind & -ind;
+        }
+    }
+ 
+    // BIT answer
+    int answer(int ind,vector<int>& BIT){
+        int ans = 0;
+        while(ind>0){
+            ans+=BIT[ind];
+            ind -= ind & -ind;
+        }
+        return ans;
+    }
+    vector<int> countSmaller(vector<int>& nums) {
+        vector<int> ans(nums.size(),0);
+        vector<int> BIT(20005,0); // Binary Indexed Tree Array
+        for(int i=0;i<nums.size();i++){
+            nums[i]+=10001; // Make all Numbers positive
+        }
+        for(int i=nums.size()-1;i>=0;i--){
+            ans[i] = answer(nums[i]-1,BIT); // get answer
+            update(nums[i],BIT); // update entry in BIT Array
+        }
+        return ans;
+    }
+};
