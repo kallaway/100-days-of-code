@@ -1,0 +1,52 @@
+// this file contains the code to find the duplicate element in O(1) time complexity
+
+/*  1 approach 
+     1) sort the elements and run the counter 
+     2) if(arr[i]=arr[i+1])      time complexity nlogn 
+
+     2 approach
+       1) by doing the exor but u can do this when every element from 1 to n-1 is present in the
+           given array   ans=ans^arr[i] / ans=ans^i      time complexity n 
+    3 approch 
+       1) now we want to do this and that to in o(1)and maybe every (1 to n)element is not present in the array
+           like {2,2,2,2,2,2}
+           then in this approach we will mark the visited array as negative 
+
+           class Solution {
+    int ans=-1;
+    public int findDuplicate(int[] nums) {
+        int ans=-1;
+        for(int i=0;i<nums.length;i++)
+        {
+        int index = Math.abs(nums[i]);
+        if(nums [index]<0)
+        {
+            ans = index;
+            break;
+        }
+
+        nums[index]*=-1;
+    }
+     return ans;
+
+ }
+}
+
+// in this we are modifying the same array but according to leetcode we donot have to modify 
+
+4 th approach 
+  1) in this we will not modify element much we will store the element 
+  according to what it's value and we can do this by using swapping 
+  2) and extra element will be stored at the arr[0] index 
+
+  ... code for this still continued 
+
+5 th approach
+  using binary search 
+
+6 th approach 
+   is time complexity is o(1) so i am thinking for hashmap still see do they actually works
+   
+       
+     
+    
