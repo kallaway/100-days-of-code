@@ -1,0 +1,48 @@
+/* 1 approach
+   run the loop till n/2 and swap   */
+
+/* 2 approach 
+by using stack 
+stack is implemented using dqueue in java
+In this implementation, offerLast() is used to push elements onto the stack,
+pollLast() (or removeLast()) is used to pop elements from the stack, peekLast() is used to peek at the top element, 
+and isEmpty() is used to check if the stack is empty
+// dequue is the generic type 
+or by using normal stack
+
+import java.util.*;
+import java.lang.*;
+class Main
+{
+    public static void main (String args[])
+    {
+        Stack <Integer> stack= new Stack<Integer>();      
+        stack.push(3);
+        stack.push(1);
+        stack.push(2);
+        for(int i=-1;i<=stack.size();i++)
+        { // this start from index -1 to solve all the value 
+           System.out.println( stack.pop());
+        }
+
+      // you can do this by using the deqeue also
+              Deque<Integer> stack= new ArrayDeque<>();
+        stack.offerLast(3);
+        stack.offerLast(1);
+        stack.offerLast(2);
+        for(int i=-1;i<=stack.size();i++)
+        {
+           System.out.println( stack.pollLast());
+        }
+
+
+    }
+}
+*/
+
+/* 3 approach
+  1) using while loop (i<=j) { means two pointers approach }
+  2) swap the elements 
+  
+
+
