@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/problems/maximum-sum-problem2211/1
+    public:
+        int maxSum(int n)
+        {
+            if(n==0) return 0;
+            if(n==1) return 1;
+            return max(n,maxSum(n/2)+maxSum(n/3)+maxSum(n/4));
+        }
