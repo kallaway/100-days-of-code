@@ -1,0 +1,29 @@
+//sort 0,1,2 dutch flag algorithm 
+in this rather than sorting 0,1,2 together , we will first sort 0,1 and then 1,2 
+int start=0, mid=0,end=arr.length-1, temp, temp;
+switch (mid<=end)
+{
+  case 0: 
+        {temp=arr[start];
+        arr[start]=arr[mid];
+        arr[mid]=temp;
+         start++; mid++;  
+         break;}
+   case 1:
+       { mid++;
+            break++;
+            }
+    case 2:
+      {   temp=arr[mid];
+          arr[mid]=arr[end];
+          arr[end] =temp;
+          end--;
+          break;
+          }
+https://leetcode.com/problems/sort-colors/solutions/          
+          
+        
+    
+  
+     
+  
