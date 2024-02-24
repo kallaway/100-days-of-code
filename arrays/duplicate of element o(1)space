@@ -11,7 +11,7 @@
        1) now we want to do this and that to in o(1)and maybe every (1 to n)element is not present in the array
            like {2,2,2,2,2,2}
            then in this approach we will mark the visited array as negative 
-
+           this is done in o(1) space complexity
            class Solution {
     int ans=-1;
     public int findDuplicate(int[] nums) {
