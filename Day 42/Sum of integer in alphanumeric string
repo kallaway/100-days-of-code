@@ -1,0 +1,25 @@
+here try to hande the last character if it  is integer
+
+
+class Solution
+{
+    public:
+    //Function to calculate sum of all numbers present in a string.
+    int findSum(string str)
+    {
+    	// Your code here
+    	int sum =0;
+    	int curr = 0;
+    	for(int i =0;i<str.size();i++){
+    	    if (isdigit(str[i])) {
+                    curr = curr*10 + str[i]-'0';
+            }
+            else{
+                    sum+=curr;
+                    curr=0;
+            }
+    	}
+    	sum += curr;
+    	return sum;
+    }
+};
