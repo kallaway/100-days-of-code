@@ -1,0 +1,21 @@
+
+#include<bits/stdc++.h>
+class Solution{
+    public:
+    
+    //Function to rotate an array by d elements in counter-clockwise direction. 
+    void reverse(int arr[],int i,int j){
+        // int i =0,j=n-1;
+        while(i<j){
+            swap(arr[i],arr[j]);
+            i++;
+            j--;
+        }
+    }
+    void rotateArr(int arr[], int d, int n){
+        d=d%n;
+        reverse(arr,0,d-1);
+        reverse(arr,d,n-1);
+        reverse(arr,0,n-1);
+    }
+};
