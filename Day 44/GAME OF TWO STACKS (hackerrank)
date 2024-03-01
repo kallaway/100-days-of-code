@@ -1,0 +1,23 @@
+int twoStacks(int maxSum, vector<int> a, vector<int> b) {
+    int i=0;
+    int sum=0;
+    int cnt=0;
+    while(i<a.size() && sum+a[i]<=maxSum){
+        sum+=a[i];
+        i++;
+    }
+    cnt=max(cnt,i);
+    i--;
+    int j=0;
+    while(j<b.size()){
+        sum+=b[j++];
+        while(i>=0 && sum>maxSum){
+            sum-=a[i--];
+        }
+        
+        if(sum<=maxSum)
+            cnt=max(cnt,i+j+1);
+    }
+    return cnt;
+    
+}
