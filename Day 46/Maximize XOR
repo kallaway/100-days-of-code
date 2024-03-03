@@ -1,0 +1,10 @@
+int maxi = INT_MIN;
+int maximizingXor(int l, int r) {
+    for(int i =l;i<=r;i++){
+        for(int j = i;j<=r;j++){
+        int x = i^j;
+        maxi = max(x,maxi);
+    }
+}
+return maxi;
+}
