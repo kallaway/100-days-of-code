@@ -1,0 +1,72 @@
+class Solution {
+public:
+    int countSubmatrices(vector<vector<int>>& grid, int k) {
+        int N  = 100100;
+        int n = grid.size();
+        int m = grid[0].size();
+        // int pf[N][N];
+        vector<vector<int>>pf(n,vector<int>(m));
+        
+       pf[0][0] = grid[0][0];
+
+    // Initialize the first row6
+    for (int j = 1; j < m; j++) {
+        pf[0][j] = grid[0][j] + pf[0][j - 1];
+    }
+
+    // Initialize the first column
+    for (int i = 1; i < n; i++) {
+        pf[i][0] = grid[i][0] + pf[i - 1][0];
+    }
+
+    // Compute the rest of the prefix sum array
+    for (int i = 1; i < n; i++) {
+        for (int j = 1; j < m; j++) {
+            pf[i][j] = grid[i][j] + pf[i - 1][j] + pf[i][j - 1] - pf[i - 1][j - 1];
+        }
+    }
+    int cnt = 0;
+        for(auto ele:pf){
+            for(auto ele1:ele){
+                if(ele1<=k){
+                    cnt++;
+                }
+                else break;
+            }
+        }
+        return cnt;
+        
+    }
+};
+// class Solution {
+// public:
+//     int countSubmatrices(vector<vector<int>>& grid, int k) {
+//         int n=grid.size();
+//         int m=grid[0].size();
+//         vector<vector<long long int>>pre(n,vector<long long int>(m,0));
+//         for(int i=0;i<n;i++){
+//             for(int j=0;j<m;j++){
+//                 if(i>0 && j>0){
+//                     grid[i][j]+=grid[i-1][j]+grid[i][j-1]-grid[i-1][j-1];
+//                 }
+//                 else if(j>0){
+//                     grid[i][j]+=grid[i][j-1];
+//                 }
+//                 else if(i>0){
+//                     grid[i][j]+=grid[i-1][j];
+//                 }
+              
+//             }
+//         }
+//         int cnt=0;
+//         for(auto ele:grid){
+//             for(auto ele1:ele){
+//                 if(ele1<=k){
+//                     cnt++;
+//                 }
+               
+//             }
+//         }
+//         return cnt;
+//     }
+// };
