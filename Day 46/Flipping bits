@@ -1,0 +1,7 @@
+uint32_t flipBits(uint32_t n) {
+    // Create a bitmask with all bits set to 1
+    uint32_t bitmask = UINT32_MAX;
+
+    // Use XOR to flip all the bits
+    return n ^ bitmask;
+}
