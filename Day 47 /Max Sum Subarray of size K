@@ -1,0 +1,22 @@
+class Solution{   
+public:
+    long maximumSumSubarray(int k, vector<int> &a , int n){
+        // code here 
+        //  int i =0,j=0;
+        // while(i)
+        int sum =0;
+        int ans=0;
+        for(int i =0;i<k;i++){
+            sum+=a[i];
+        }
+        ans=sum;
+        for(int i =k;i<n;i++){
+            sum+=a[i]-a[i-k];
+            ans= max(ans,sum);
+            }
+            return ans;
+        
+     
+     
+    }
+};
