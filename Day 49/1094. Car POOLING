@@ -1,0 +1,29 @@
+https://leetcode.com/problems/car-pooling/description/
+class Solution {
+public:
+    bool carPooling(vector<vector<int>>& trips, int capacity) {
+        int n = trips.size();
+        // we will create a array where wi will put the source and destination,
+        // we will put +val of capacity at source index and -val of capacity
+        //  at destination index in array
+
+        // and do prefic sum kind of thing at last and if found >capacity return false
+        vector<int>ans(1001);
+        for(int i =0;i<n;i++){
+            int sawari = trips[i][0];
+            int source = trips[i][1];
+            int destination = trips[i][2];
+
+            ans[source]+=sawari;
+            ans[destination]-= sawari;
+        }
+        int sum=0;
+        for(int i =0;i<1001;i++){
+            sum+=ans[i];
+            if(sum>capacity){
+                return false;
+            }
+        }
+    return true;
+    }
+};
