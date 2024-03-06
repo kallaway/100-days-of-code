@@ -1,0 +1,38 @@
+https://www.geeksforgeeks.org/batch/dsa-galgotia-2/track/DSASP-Matrix/problem/spirally-traversing-a-matrix-1587115621
+class Solution
+{   
+    public: 
+    //Function to return a list of integers denoting spiral traversal of matrix.
+    vector<int> spirallyTraverse(vector<vector<int> > matrix, int r, int c) 
+    {
+        // code here 
+        int startrow = 0,endrow=r-1,startcol=0,endcol=c-1;
+           vector<int>ans;
+        while(startrow<=endrow && startcol <=endcol){
+            
+                for(int i =startcol;i<=endcol;i++){
+                ans.push_back(matrix[startrow][i]);
+             }
+            for(int i=startrow+1;i<=endrow;i++){
+                ans.push_back(matrix[i][endcol]);
+            }
+            if(startrow<endrow){
+                for(int i =endcol-1;i>=startcol;i--){
+                ans.push_back(matrix[endrow][i]);
+                }
+            }
+            if(startcol<endcol){
+                // then only there exist last column,otherwise repeat it
+                for(int i =endrow-1;i>=startrow+1;i--){
+                ans.push_back(matrix[i][startcol]);
+                }
+            }
+            startrow++;
+            endcol--;
+            endrow--;
+            startcol++;
+        }
+     
+       return ans;
+    }
+};
