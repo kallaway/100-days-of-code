@@ -10,10 +10,7 @@ public:
             while(i<j && s[i] == ch){
                 i++;
             }
-
-
             // emphasize on this : i<=j
-
 
             while(i<=j && s[j] == ch){
                 j--;
