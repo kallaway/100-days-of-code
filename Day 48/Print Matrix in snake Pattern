@@ -1,0 +1,31 @@
+Link:https://www.geeksforgeeks.org/batch/dsa-galgotia-2/track/DSASP-Matrix/problem/print-matrix-in-snake-pattern-1587115621
+class Solution
+{   
+    public:
+    //Function to return list of integers visited in snake pattern in matrix.
+    vector<int> snakePattern(vector<vector<int> > matrix)
+    {   
+        // code here
+        int m = matrix[0].size();
+        int j =0;
+        vector<int>ans;
+        int x = -1;
+        for(int i =0;i<matrix.size();i++){
+            // vector<int>row;
+            // for(int j =0;j<matrix[0].size();j++){
+            if(j==0){
+                while(j<m){
+                    ans.push_back(matrix[i][j]);
+                    j++;
+                }
+                j=m-1;
+            }
+                else{
+                     while(j>=0){
+                    ans.push_back(matrix[i][j]);
+                    j--;
+                }
+                j=0;
+              }
+        }
+            return ans;
