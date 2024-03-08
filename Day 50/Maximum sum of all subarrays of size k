@@ -1,0 +1,38 @@
+https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
+class Solution
+{
+  public:
+    //Function to find maximum of each subarray of size k.
+    vector <int> max_of_subarrays(int *arr, int n, int k)
+    {
+        int i=0,j=0;
+        vector<int>ans;
+        int maxi=INT_MIN;
+        while (j < n)
+        {
+        maxi = max(maxi, arr[j]);
+
+        if (j - i + 1 < k)
+        {
+            j++;
+        }
+        else if (j - i + 1 == k)
+        {
+            ans.push_back(maxi);
+
+            if (maxi == arr[i])
+            {
+                maxi = INT_MIN;
+                i++;
+                j=i;
+            }
+            else{
+                i++;
+                j++;  
+            }
+        }
+    }
+
+    return ans;
+}
+};
