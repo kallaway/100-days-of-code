@@ -32,10 +32,10 @@ class Solution{
                     mp[s[i]]--;
                     if(mp[s[i]]==0){
                          mp.erase(s[i]);
-                        
+                          //  leftest count decreased which means it also removed from array
+                // so increase the left pointer to traverse the array
                      }
                       i++;
-                //  leftest removed so increase the left pointer i
                 }
            j++;
         }
