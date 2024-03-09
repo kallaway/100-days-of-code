@@ -1,0 +1,17 @@
+https://www.geeksforgeeks.org/problems/children-sum-parent/1
+class Solution{
+    public:
+    //Function to check whether all nodes of a tree have the value 
+    //equal to the sum of their child nodes.
+    int isSumProperty(Node *root)
+    {
+     // Add your code here
+     if(root==NULL)return true;
+     if(root->left==NULL && root->right==NULL)return true;
+     
+     int sum=0;
+     if(root->left){sum +=root->left->data;}
+     if(root->right){sum +=root->right->data;}
+     
+    return (root->data==sum && isSumProperty(root->left) && isSumProperty(root->right));
+    }
