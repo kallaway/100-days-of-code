@@ -1,0 +1,119 @@
+#include<iostream>
+#include<bits/stdc++.h>
+const int N = 100100;
+using namespace std;
+//  vector<vector<int>> ds;
+//  #### Returing the count of all subsequences having sum ==given sum #### 
+int recur(const vector<int> &s, int ind, int n, vector<int> &ans,int x,int sum) {
+    if (ind >= n) {
+        if(x==sum){
+            for(auto it :ans){
+            cout<<it<<" ";
+            }
+            cout<<endl;
+            return 1;
+        }
+        return 0;
+    }
+
+    // Include the current element
+    ans.push_back(s[ind]);
+    x+=s[ind];
+    int left  = recur(s, ind + 1, n, ans,x,sum);
+    // Exclude the current element
+    x-=s[ind];
+    ans.pop_back();
+    int right  = recur(s, ind + 1, n, ans,x,sum);
+
+    return left + right;
+}
+
+int main() {
+    vector<int>s;
+    int n = 4;
+    for(int i = 0;i<n;++i){
+        s.push_back(i);
+    }
+    int sum = 3;
+    int x =0;
+    vector<int> ans;
+    recur(s, 0, n, ans,x,sum);
+
+    return 0;
+}
+
+
+//  #### Returning true or false on encountering first subseq sum == given sum ####
+
+
+// bool recur(const vector<int> &s, int ind, int n, vector<int> &ans,int x,int sum) {
+//     if (ind >= n) {
+//         if(x==sum){
+//             for(auto it :ans){
+//             cout<<it<<" ";
+//             }
+//             cout<<endl;
+//             return true;
+//         }
+//         return false;
+//     }
+
+//     // Include the current element
+//     ans.push_back(s[ind]);
+//     x+=s[ind];
+//     if(recur(s, ind + 1, n, ans,x,sum) ==true){
+//         return true;
+//     }
+
+//     // Exclude the current element
+//     x-=s[ind];
+//     ans.pop_back();
+//     if(recur(s, ind + 1, n, ans,x,sum) == true){
+//         return true;
+//     }   
+// }
+
+// int main() {
+//     vector<int>s;
+//     int n = 4;
+//     for(int i = 0;i<n;++i){
+//         s.push_back(i);
+//     }
+//     int sum = 3;
+//     int x =0;
+//     vector<int> ans;
+//     recur(s, 0, n, ans,x,sum);
+
+//     return 0;
+// }
+
+
+//  ##### SUBSEQUENCES ON STRING #####
+
+//     vector<vector<string> >ds;
+// void recur(string &s,int ind,int n,vector<string> &ans){
+
+//    if(ind>=n){
+//     ds.push_back(ans);
+//     return;
+//    }
+
+//    ans.push_back(string(1, s[ind]));
+//    recur(s,ind+1,n,ans);
+
+//    ans.pop_back();
+//    recur(s,ind+1,n,ans);
+
+// }
+// int32_t main(){
+//      string s = "abc";
+//     int n = s.size();
+//     vector<string> ans;
+//     recur(s, 0, n, ans);
+//     for(auto x: ds){
+//         for(auto y:x){
+//             cout<<y<<" ";
+//         }
+//     }
+//     return 0;
+// }
