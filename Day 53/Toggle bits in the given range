@@ -1,0 +1,11 @@
+https://www.geeksforgeeks.org/problems/toggle-bits-given-range0952/1
+
+class Solution {
+  public:
+    int toggleBits(int n , int l , int r) {
+        // code here
+        int m = (1<<r)-(1<<(l-1));
+        int ans = m^n;
+        return ans;
+    }
+};
