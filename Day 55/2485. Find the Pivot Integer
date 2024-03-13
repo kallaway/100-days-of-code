@@ -1,0 +1,33 @@
+https://leetcode.com/problems/find-the-pivot-integer/?envType=daily-question&envId=2024-03-13
+class Solution {
+public:
+    int pivotInteger(int n) {
+        int sum = n * (n + 1) / 2;
+        int a = sqrt(sum);
+        if(a*a ==sum)
+            return a;
+        else
+            return -1;
+    }
+};
+    //     if(n==1)return 1;
+    //     int pref =1;
+    //     int suff =n;
+    //     int i =2;
+    //     int j =n-1;
+    //     while(i<j){
+    //         if(pref<suff){
+    //             pref+=i;
+    //             i++;
+    //         }
+    //         else if(pref>suff){
+    //             suff+=j;
+    //             j--;
+    //         }
+    //     }
+    //     if(pref==suff){
+    //             return i;
+    //         }
+    //     else return -1;
+//     }
+// };
