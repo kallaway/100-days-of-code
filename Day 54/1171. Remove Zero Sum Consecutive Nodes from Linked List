@@ -1,0 +1,48 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* removeZeroSumSublists(ListNode* head) {
+        
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+        int pf = 0;
+        unordered_map<int,ListNode*>mp;
+        mp[0]=dummy;
+        while(head!=NULL){
+            pf+=head->val;
+            if(mp.find(pf)!=mp.end()){
+                ListNode* start = new ListNode();
+                start=mp[pf];
+                // have to remove the nodees from the map
+                // it contain keys as pfsum
+                // so we again calculate the pfsum and erase those keys from the map
+                ListNode* temp = start;
+                while(temp->next!=NULL){
+                    temp=temp->next;
+                    pf+=temp->val;
+                    mp.erase(pf);
+                }
+                start->next=head->next;
+                
+            }
+            else{
+                // simply store in map, the pf
+                pf+=head->val;
+                mp[pf]=head;
+            }
+            head=head->next;
+        }
+        ListNode* newNode = dummy;
+        delete(dummy);
+        return newNode;
+    }
+};
