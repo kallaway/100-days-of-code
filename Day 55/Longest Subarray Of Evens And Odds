@@ -1,0 +1,21 @@
+https://www.geeksforgeeks.org/batch/dsa-galgotia-2/track/DSASP-Arrays/problem/longest-subarray-of-evens-and-odds
+class Solution{
+    public:
+    //Complete this function
+    //Function to find the length of longest subarray of even and odd numbers.
+    int maxEvenOdd(int a[], int n) 
+    { 
+       //Your code here
+       int c =1;
+       int ans =1;
+       for(int i =1;i<n;i++){
+           if((a[i-1]%2==0 && a[i]%2!=0)  || (a[i-1]%2!=0 && a[i]%2==0) ){
+               c++;
+               ans = max(ans,c);
+           }
+           else {
+                c=1;
+           }
+       }
+       return ans;
+    } 
