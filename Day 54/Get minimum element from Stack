@@ -1,0 +1,76 @@
+https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1
+
+//{ Driver Code Starts
+#include <bits/stdc++.h>
+using namespace std;
+
+
+// } Driver Code Ends
+/*
+The structure of the class is as follows
+class _stack{
+stack<int> s;
+int minEle;
+public :
+    int getMin();
+    int pop();
+    void push(int);
+};
+*/
+
+class Solution{
+    int minelement;
+    stack<int> st;
+    public:
+    
+       /*returns min element from stack*/
+       int getMin(){
+            // return minelement;
+            if(st.empty()==true){
+                return -1;
+            }
+            else return minelement;
+           //Write your code here
+       }
+       
+       /*returns poped element from stack*/
+       int pop(){
+           int p;
+           if(st.empty()==true){
+               return -1;
+           }
+        //   0<minelem
+           if(st.top()<minelement){
+                p = minelement;
+                //   because we dont return the emebedded value but the actual val
+                // which were to be places in the st.top()
+                 minelement = 2*minelement - st.top();
+                //  min= 2*1 - 0
+           }
+           else p=st.top();
+           
+           st.pop();
+           return p;
+
+           
+           //Write your code here
+       }
+       
+       /*push element x into the stack*/
+       void push(int x){
+           if(st.empty()==true){
+               st.push(x);
+               minelement=x;
+               return;
+           }
+           if(x>minelement){
+               st.push(x);
+           }
+           else{
+            //   found smaller
+            st.push(2*x-minelement);
+            minelement = x;
+           }
+           
+           //Write your code here
+       }
