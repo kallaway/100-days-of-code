@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 14, 2024
+### Day 1: March 14, 2024
 
 **Today's Progress**: I am reading a full description of how Github works and intend to do ano hour of code when I finis, I will keep you  posted. 
 
@@ -17,11 +17,15 @@ I didn´t really know how to tackle this, I probably haven´t figured it out yet
 **Link to work:** https://learngitbranching.js.org/?locale=es_ES
 
 
-### Saving this for later from the original:
+### Day 2: March 15th, 2024
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today´s progress** Well today I am extremelly frustrated, I tried finding free excercises on the web, and couldn´t really find anything yet. 
+I ended up on excercism and it looks like a really cool page, with lots of free excercises but too complicated for my level right now. 
+I decided to dig into the excercises for JavaSacript which has made my life really hard on the pre-work for Full Stack Dev. Program I am in (about to finish 2nd week now). Not sure if it is the ammount of information being thrown at me or what but it was really hard solving the cipher excercise. I actually can´t claim I did. I´ve been trying various functions but didn´t really sole anything. I asked Chat GPT for help and it did, and honestly didn´t understand what it did. I really need to find easier excercises, maybe redo the ones from the prework🤔.
+Anyway, not worried since in half an hour i go into 3 hours of course and we have at least an hour coding... Plus the hour I just did, which was not only coding but reading how to code... anyway...
+Frustrated so far today-
 
+**Thoughts:**
+I need to get proper excercises that fit my level
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** https://exercism.org/tracks/javascript/exercises/rotational-cipher
