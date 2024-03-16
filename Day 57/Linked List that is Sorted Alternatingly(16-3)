@@ -1,71 +1,69 @@
 https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1
 
-    Node *merge(Node*head1,Node *head2){
-        if(!head1) return head2;
-        if(!head2) return head1;
+class Solution
+{
+    public:
+    Node* merge(Node* left, Node* right){
         Node* dummy = new Node(0);
         Node* temp = dummy;
-        temp->next = head1;
-        while(temp->next!=NULL){
-            temp=temp->next;
-        }
-        temp->next =head2;
-        
-        Node* answer = dummy->next;
-        delete(dummy);
-        return answer;
-        
-    }
-    void reverse(Node* &head){
-        Node*prev=NULL,*curr =head,*next;
-        while(curr){
-            next = curr->next;
-            curr->next =prev;
-            prev =curr;
-            curr=next;
-        }
-        head = prev;
-    }
-    
-    void splitList(Node *head,Node **Ahead,Node **Dhead){
-        *Ahead = new Node(0);
-        *Dhead = new Node(0);
-        
-        Node* ascn = *Ahead;
-        Node* dscn = *Dhead;
-        Node* curr = head;
-        
-        while(curr){
-            ascn->next= curr;
-            curr = curr->next;
-            ascn = ascn->next;
-            
-            if(curr){
-                dscn->next = curr;
-                curr =curr->next;
-                dscn = dscn->next;
+        while(left !=NULL && right !=NULL){
+            if(left->data < right->data){
+                temp->next = left;
+                temp = temp->next;
+                left = left->next;
+            }
+            else{
+                temp->next = right;
+                temp = temp->next;
+                right=right->next;
             }
         }
-        ascn->next = NULL;
-        // bcoz at end of loop it will point to next element i.e dscn
-        dscn->next = NULL;
-        
-        *Ahead = (*Ahead)->next;
-        *Dhead = (*Dhead)->next;
-    }
-    // your task is to complete this function
-    void sort(Node **head) 
-    {
-        if(*head ==NULL || (*head)->next ==NULL){
-            return;
+        while(left!=NULL){
+            temp->next = left;
+            temp=temp->next;
+            left=left->next;
         }
-        //  o(1) space complexity means no external space or list
-        // *head = mergesort(head)
-        Node* Ahead,*Dhead;
-        splitList(*head ,&Ahead,&Dhead);
-            reverse(Dhead);
-            *head = merge(Ahead,Dhead);
-        
+        while(right!=NULL){
+            temp->next = right;
+            temp=temp->next;
+            right=right->next;
+        }
+        Node* answer  = dummy->next;
+        delete(dummy);
+        return answer;
+    }
+    
+    Node* findmid(Node* head){
+        // if(*head ==NULL){
+        //     return NULL;
+        // }
+        Node* slow = head;
+        Node* fast = (head)->next;
+        while(fast!=NULL && fast->next !=NULL){
+            slow=slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
+    }
+    void sort(Node** head) {
+
+    // Base case: If list is empty or has only one node, it's already sorted
+    if (*head == nullptr || (*head)->next == nullptr) {
         return;
     }
+    // Find the middle of the list
+    Node* mid = findmid(*head);
+    
+    // Split the list into two halves
+    Node* left = *head;
+    Node* right = mid->next;
+    mid->next = nullptr;
+    
+    // Recursively sort the two halves
+    sort(&left);
+    sort(&right);
+    
+    // Merge the sorted halves
+    *head = merge(left, right);
+}
 };
