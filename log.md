@@ -29,3 +29,11 @@ Frustrated so far today-
 I need to get proper excercises that fit my level
 
 **Link to work:** https://exercism.org/tracks/javascript/exercises/rotational-cipher
+
+### Day 3: March 16th, 2024
+
+**Today´s progress** Well I´m seriously trying to work on my github Profile, been looking around for nice profile readme pages and found interesting videos. 
+I have been struggling with a Snake thing to put on the profile, it looks awesome... I learnt what Giithub Actions are, and got totally busted with it, I cannot get it to work, spent an hour only on the snake. 
+
+**Thoughts:**
+Just need to keep preacticing, I also learnt what secrets and Tokens are.
