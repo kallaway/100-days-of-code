@@ -1,0 +1,71 @@
+https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1
+
+    Node *merge(Node*head1,Node *head2){
+        if(!head1) return head2;
+        if(!head2) return head1;
+        Node* dummy = new Node(0);
+        Node* temp = dummy;
+        temp->next = head1;
+        while(temp->next!=NULL){
+            temp=temp->next;
+        }
+        temp->next =head2;
+        
+        Node* answer = dummy->next;
+        delete(dummy);
+        return answer;
+        
+    }
+    void reverse(Node* &head){
+        Node*prev=NULL,*curr =head,*next;
+        while(curr){
+            next = curr->next;
+            curr->next =prev;
+            prev =curr;
+            curr=next;
+        }
+        head = prev;
+    }
+    
+    void splitList(Node *head,Node **Ahead,Node **Dhead){
+        *Ahead = new Node(0);
+        *Dhead = new Node(0);
+        
+        Node* ascn = *Ahead;
+        Node* dscn = *Dhead;
+        Node* curr = head;
+        
+        while(curr){
+            ascn->next= curr;
+            curr = curr->next;
+            ascn = ascn->next;
+            
+            if(curr){
+                dscn->next = curr;
+                curr =curr->next;
+                dscn = dscn->next;
+            }
+        }
+        ascn->next = NULL;
+        // bcoz at end of loop it will point to next element i.e dscn
+        dscn->next = NULL;
+        
+        *Ahead = (*Ahead)->next;
+        *Dhead = (*Dhead)->next;
+    }
+    // your task is to complete this function
+    void sort(Node **head) 
+    {
+        if(*head ==NULL || (*head)->next ==NULL){
+            return;
+        }
+        //  o(1) space complexity means no external space or list
+        // *head = mergesort(head)
+        Node* Ahead,*Dhead;
+        splitList(*head ,&Ahead,&Dhead);
+            reverse(Dhead);
+            *head = merge(Ahead,Dhead);
+        
+        return;
+    }
+};
