@@ -37,3 +37,17 @@ I have been struggling with a Snake thing to put on the profile, it looks awesom
 
 **Thoughts:**
 Just need to keep preacticing, I also learnt what secrets and Tokens are.
+
+### day 4: March 17th, 2024
+
+**Today´s Progress** Today has been a quite day, all I did of code was the hour I´m commited to do, and It was hard to sit down. Instead of going back to trying to solve the snake thing to put on my profile that proves out of my league, though I will get it to work no doubt, cause I´m that stuborn, I did an hour of practice on very easy excercises on javaScript from the academy that we will start seeing on Wednesday I think. I did the prework over a month ago and javascript was my absolute nemesis. Now I´m going back to elemental, and except for the console.lo(Hello World) I didn´t get one excercise at first shot. I did on to number 8 which I paste now here:
+
+> function isOdd(myNumber) {
+>
+> 	return !(myNumber % 2 == 0);
+>
+> }
+> 
+> console.log(isOdd(45345))
+
+**Thoughts** I´m glad they asked us to go back to this excercises, these are the type of excercises I was looking for, very much on my level since I cannot really solve them easily at the moment. 
