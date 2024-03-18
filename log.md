@@ -1,8 +1,8 @@
-# 100 Days Of Code - Log
+<h1 style="color: blue;">100 Days Of Code - Log</h1>
 
 ### Day 1: March 14, 2024
 
-**Today's Progress**: I am reading a full description of how Github works and intend to do ano hour of code when I finis, I will keep you  posted. 
+**Today's Progress**: I am reading a full description of how Github works and intend to do an hour of code when I finis, I will keep you  posted. 
 
 **Expanding on that progress:** 
 Wow! So it looks today was a lot more useful than I thought. Even though I ended up asking AI for some idea for code... since I didn´t really know what to do, I was quite entertained, realizing I didn´t know how to start a codespace from scrathc, I did but then I didn´t have the option to view my code in browser (If I do I don´t yet know how to) so I had to fork (this I knew how to do) a repo from 4geeksacademy where I´m learning *(2nd week bootcamp now)* in order to get the code from there to use the Python server. 
@@ -51,3 +51,17 @@ Just need to keep preacticing, I also learnt what secrets and Tokens are.
 > console.log(isOdd(45345))
 
 **Thoughts** I´m glad they asked us to go back to this excercises, these are the type of excercises I was looking for, very much on my level since I cannot really solve them easily at the moment. 
+
+### day 5: March 18th, 2024
+
+**Today´s Progress** Did my hour today and I feel being on track. I am following my teacher´s advice on **@4geeksacademy** and I am redoing teh practice on JavaScript from the prework as I said yesterday I feel a lot better than yesterday. Just went through all the excercises from yesterday and I am undertanding a lot better than during the prework the calling of functions. 
+
+> function shortIntroduction(name, profession, age) {
+>
+>  return "Hello! my name is " + name + ", my profession is " + profession + ". I am " + age + " years old.";
+}
+>
+> console.log(shortIntroduction("Matias", "Full Stack Apprentice", "44"))
+
+**Thoughts** I am telling myself I will love Javascript! some good old NLP.
+BTW I am already due my hour of code and still looking to 3 hours class and coding. 
