@@ -1,0 +1,30 @@
+Problwm link:https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/?envType=daily-question&envId=2024-01-02
+Solution:
+
+class Solution {
+public:
+    vector<vector<int>> findMatrix(vector<int>& nums) {
+        unordered_map<int,int>mp;
+        int cnt =0;
+
+        for(auto a:nums){
+            mp[a]++;
+            // creating the size of our 2d vector i.e. no. of rows
+            cnt = max(cnt,mp[a]);
+        }
+        vector<vector<int>>v(cnt);
+        for(auto a: mp){
+            int num = a.first;
+            int freq = a.second;
+            // now storing the elements freq wise in the row
+            // freq =1 put in 1st row
+            // freq =2 put int first row and then in 2nd row
+            // and so on
+            for(int i =0;i<freq;i++){
+                v[i].push_back(num);
+            }
+        }
+        return v;
+        
+    }
+};

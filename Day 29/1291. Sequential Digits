@@ -1,0 +1,27 @@
+Link:https://leetcode.com/problems/sequential-digits/description/?envType=daily-question&envId=2024-02-02
+TC = O(8*8) = O(1)
+Solution with explanation :class Solution {
+public:
+    vector<int> sequentialDigits(int low, int high) {
+        vector<int>ans;
+        string s = "123456789";
+        // what we will do is in this case we will start from two
+        // And then we will substring from starting index to the last index, which is
+        // To create the sub of size K which starts from two because in this question
+        // We have been given this minimum size is 2 and for each size of the subs we will convert that
+        // Sub string into integer and then we will check it ranges within low and high if it does then
+        // Into our answer it vector, similarly K increases till the size of the hair
+        // So we are using two loops, but the time complexity of O(1);
+        for(int i =2;i<s.size();i++){
+            for(int j = 0;j<s.size()-i;j++){
+                // s.size()-i; last index till we can find substring
+                string tobe = s.substr(j,i);
+                int integer = stoi(tobe);
+                if(low<=integer && integer<=high){
+                    ans.push_back(integer);
+                }
+            }
+        }
+        return ans;
+    }
+};

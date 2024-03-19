@@ -1,0 +1,10 @@
+class Solution {
+public:
+    string maximumOddBinaryNumber(string s) {
+        sort(s.begin(),s.end());
+        s.erase(s.end()-1);
+        reverse(s.begin(),s.end());
+        s.push_back('1');
+        return s;
+    }
+};

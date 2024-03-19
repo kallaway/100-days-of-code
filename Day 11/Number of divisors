@@ -1,0 +1,29 @@
+https://cses.fi/problemset/task/1713
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int countDivisors(int x) {
+    int divisors = 0;
+    for (int i = 1; i <= sqrt(x); ++i) {
+        if (x % i == 0) {
+            divisors += (i * i == x) ? 1 : 2;
+        }
+    }
+    return divisors;
+}
+
+int main() {
+    int n;
+    cin >> n;
+
+    for (int i = 0; i < n; ++i) {
+        int x;
+        cin >> x;
+        int divisors = countDivisors(x);
+        cout << divisors << endl;
+    }
+
+    return 0;
+}

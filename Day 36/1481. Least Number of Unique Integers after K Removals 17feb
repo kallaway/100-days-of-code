@@ -1,0 +1,58 @@
+#include<bits/stdc++.h>
+class Solution {
+public:
+    int findLeastNumOfUniqueInts(vector<int>& arr, int k) {
+        //  #### O(nlogn) #### for
+        // unordered_map<int,int>mp;
+        // for(int i =0;i<arr.size();i++){
+        //     mp[arr[i]]++;
+        // }
+//  vector<int>v;
+//         int cnt=0;
+
+//         for(auto a :mp){
+//             v.push_back(a.second);
+//         }
+//         sort(v.begin(),v.end());
+//         for(int i =0;i<v.size();i++){
+//             if(k > v[i]){
+//                 k-=v[i];
+//                 v[i]=0;
+//             }else{
+//                 v[i] -= k;
+//                 k =0;
+//             }
+//             if(v[i]!=0)cnt++;
+//         }
+
+//         return cnt;
+//     }
+//  #### O(N) #### 
+int n = arr.size();
+unordered_map<int,int>mp;
+    for(int i =0;i<n;i++){
+        mp[arr[i]]++;
+    }
+
+    vector<int>freq;
+    for(auto it :mp){
+        freq.push_back(it.second);
+    }
+    // storing count of freq
+    vector<int>count(n+1,0);
+    for(auto it : freq){
+        count[it]++;
+    }
+    int rem_unique_element = freq.size();
+    for(int freqi =1;freqi<=n;freqi++){
+        int unik_el_to_remove = min(k/freqi,count[freqi]);
+        // vale of k after removing all count of unnique elements
+        k-=freqi*unik_el_to_remove;
+        rem_unique_element -= unik_el_to_remove;
+        if(k<freqi){
+            return rem_unique_element;
+        }
+    }
+    return 0;
+    }
+};

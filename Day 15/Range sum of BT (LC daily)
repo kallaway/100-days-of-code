@@ -1,0 +1,31 @@
+https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08
+Very happy to solve without any help:
+class Solution {
+public:
+    bool check(int low,int high,int target){
+        if(low<=target && target<=high){
+            return true;
+        }
+        return false;
+    }
+    int rangeSumBST(TreeNode* root, int low, int high) {
+        if(root==NULL)return -1;
+        queue<TreeNode*>q;
+        int sum =0;
+        q.push(root);
+        while(!q.empty()){
+            int size = q.size();
+                for(int i =0;i<size;i++){
+                    TreeNode* temp = q.front();
+                    q.pop();
+                    if(temp->left)q.push(temp->left);
+                    if(temp->right)q.push(temp->right);
+
+                    if(check(low,high,temp->val)){
+                        sum+=temp->val;
+                    }
+                }
+        }
+        return sum;
+    }
+};

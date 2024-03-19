@@ -1,0 +1,31 @@
+https://www.geeksforgeeks.org/batch/dsa-galgotia-2/track/DSASP-Arrays/problem/maximum-occured-integer4602
+
+class Solution{
+    public:
+    // L and R are input array
+    // maxx : maximum in R[]
+    // n: size of array
+    // arr[] : declared globally with size equal to maximum in L[] and R[]
+    //Function to find the maximum occurred integer in all ranges.
+    int maxOccured(int L[], int R[], int n, int maxx){
+    
+        // Your code here
+        vector<int>c(maxx+2);
+        int max_f=0,ans=0;
+        for(int i =0;i<n;i++){
+            c[L[i]]++;
+            c[R[i]+1]--;
+        }
+        for(int i =1;i<=maxx;i++){
+            c[i]+=c[i-1]+c[i];
+        }
+        for(int i =0;i<=maxx;i++){
+            if(c[i]>max_f){
+                max_f = c[i];
+                ans=i;
+            }
+        }
+        return ans;
+        
+    }
+};

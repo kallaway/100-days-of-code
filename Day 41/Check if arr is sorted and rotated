@@ -1,0 +1,51 @@
+class Solution{
+    public:
+    // arr: input array
+    // num: length of array
+    // This function returns true or false
+    //Function to check if array is sorted and rotated.
+    bool isSorted2(int arr[],int n){
+        for(int i =1;i<n;i++){
+            if(arr[i-1]<arr[i]){
+                continue;
+            }
+            else return false;
+        }
+        return true;
+    }
+    bool isSorted1(int arr[],int n){
+        for(int i =1;i<n;i++){
+            if(arr[i-1]>arr[i]){
+                continue;
+            }
+            else return false;
+        }
+        return true;
+    }
+
+    bool checkRotatedAndSorted(int arr[], int num){
+        
+        // Your code here
+        int count=0;
+        // int n = arr.size();
+        if(isSorted1(arr,num) || isSorted2(arr,num)){
+            return false;
+        }
+        for(int i =0;i<num-1;i++){
+            if(arr[i]<arr[i+1]){
+                continue;
+            }
+            else{
+                // if{/
+                    if(count>1){
+                        return false;
+                    }
+                   count++;
+                //   continue;
+                // }
+            }
+        }
+        return true;
+        
+        
+    }

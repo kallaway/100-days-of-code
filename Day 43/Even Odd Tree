@@ -1,0 +1,86 @@
+https://leetcode.com/problems/even-odd-tree/submissions/1189401759
+class Solution {
+public:
+    bool isEvenOddTree(TreeNode* root) {
+        if(!root)return false;
+        if(root->val%2==0)return false;
+        queue<TreeNode*>q;
+        q.push(root);
+bool isEvenLevel = true;
+
+        while (!q.empty()) {
+            int size = q.size();
+            int prevVal = isEvenLevel ? INT_MIN : INT_MAX;
+
+            for (int i = 0; i < size; i++) {
+                TreeNode* temp = q.front();
+                q.pop();
+
+                int currentVal = temp->val;
+
+                // Check if the current value violates the rules
+                if ((isEvenLevel && (currentVal % 2 == 0 || currentVal <= prevVal)) ||
+                    (!isEvenLevel && (currentVal % 2 == 1 || currentVal >= prevVal))) {
+                    return false;
+                }
+
+                prevVal = currentVal;
+
+                if (temp->left) q.push(temp->left);
+                if (temp->right) q.push(temp->right);
+            }
+
+            // Toggle the level for the next iteration
+            isEvenLevel = !isEvenLevel;
+        }
+        return true;
+    }
+};
+//     int size = q.size();
+        //     if(flag == false){
+        //         for(int i =0;i<size;i++){
+        //         TreeNode* temp = q.front();
+        //         q.pop();
+        //         int x=0;
+        //         int y=0;
+        //         if(temp->left){
+        //             x = temp->left->val;
+        //             if(x%2!=0)return false;
+        //             q.push(temp->left);
+        //         }
+        //         if(temp->right){
+        //             y = temp->right->val;
+        //             if(y%2!=0)return false;  
+        //             if(x!=0 && y>x){
+        //                 return false;
+        //             }
+        //             q.push(temp->right);
+        //         }
+        //     }
+        //     flag = true;
+        //     break;
+        // }
+        // else if(flag ==true){
+        //      for(int i =0;i<size;i++){
+        //         TreeNode* temp = q.front();
+        //         q.pop();
+        //         int x=0;
+        //         int y=0;
+        //         if(temp->left){
+        //             x = temp->left->val;
+        //             if(x%2==0)return false;
+        //             q.push(temp->left);
+        //         }
+        //         if(temp->right){
+        //             y = temp->right->val;
+        //             if(y%2==0)return false;  
+        //             if(x!=0 && x>y){
+        //                 return false;
+        //             }
+        //             q.push(temp->right);
+        //         }
+        //     }
+        //     flag = false;
+        //     break;
+        //     }
+        // }

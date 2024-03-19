@@ -1,0 +1,23 @@
+https://www.geeksforgeeks.org/batch/dsa-galgotia-2/track/DSASP-Matrix/problem/reversing-the-rows-of-a-matrix-1587115621
+class Solution
+{   
+    public:
+    //Function to interchange the rows of a matrix.
+    void interchangeRows(vector<vector<int> > &matrix)
+    {
+        // code here 
+        // stack<vector<int>v>st
+        // stack<vector<int>>st;
+        int n1 = matrix.size();
+        int m1 = matrix[0].size();
+        for(int i =0;i<n1/2;i++){
+            // vector<int>temp;
+            for(int j =0;j<m1;j++){
+                // temp.push_back(matrix[i][j]);
+               swap(matrix[i][j],matrix[n1-1-i][j]);
+            }
+            // st.push(temp);
+        }
+        
+    }
+};

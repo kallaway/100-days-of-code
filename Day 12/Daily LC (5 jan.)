@@ -1,0 +1,45 @@
+https://leetcode.com/problems/longest-increasing-subsequence/
+// #include<bits/stc++.h>
+class Solution {
+public:
+    int lengthOfLIS(vector<int>& nums) {
+
+        vector<int>temp;
+        int len=1;
+        temp.push_back(nums[0]);
+        for(int i =1;i<nums.size();i++){
+            if(nums[i]>temp.back()){
+                temp.push_back(nums[i]);
+                len++;
+            }
+            else{
+              auto it = lower_bound(temp.begin(), temp.end(), nums[i]);
+                int index = distance(temp.begin(), it);
+                temp[index]=nums[i];
+            }
+        }
+        return len;
+    }
+        // ##### THIS CODE IS FOR LONGEST CONSEQUENCE SUBSSEQUENCE ####
+    //     if (nums.empty()) {
+    //         return 0;
+    //     }
+    //     sort(nums.begin(),nums.end());
+    //     int seqlen=1;
+    //     int maxlen=1;
+    //     for(int i =1;i<nums.size();i++){
+    //         if(nums[i]==nums[i-1]+1){
+    //             seqlen++;
+    //         }
+    //         else if(nums[i]==nums[i-1]){
+    //             // case when duplicate found
+    //             continue;
+    //         }
+    //         else{
+    //             seqlen=1;
+    //         }
+    //         maxlen=max(maxlen,seqlen);
+    //     }
+    //     return maxlen;
+    // }
+};

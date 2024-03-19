@@ -1,0 +1,46 @@
+https://leetcode.com/problems/remove-duplicate-letters/description/
+Solution with explanationa nd T.C
+T.c = O(n)
+S.c= O(26+26)
+class Solution {
+public:
+    string removeDuplicateLetters(string s) {
+        // here i tell you the intution
+        // what wwe will do is we will fiirst create an index array(or hashmap containng indexe), now we will make a bool vector seen and put it seen(26,false);
+        // now our aim is to 
+        // 1.)first to check if the incoming element is smaller  and if the top element of the stack has come in future then we will remove it 
+        // 2.)if(seen[element]) then remain false i.e continue
+        // 3.)if incoming el is larger then simply push
+        // after then we pop elements from stack and reverse order cout it
+        // unordered_map<int,int>
+       vector<bool>seen(26,false);
+       stack<char>st;
+       vector<int>lastindex(26,0);
+       for(int i =0;i<s.size();i++){
+           lastindex[s[i]-'a']=i;
+       }    
+        for(int i =0;i<s.size();i++){
+            int curr = s[i]-'a';
+            // storing in variable then writing again and again(rather say computing)
+            // is good pratice
+            if(seen[curr])continue;
+            while(!st.empty()&& st.top()>s[i]&& i<lastindex[st.top()-'a']){
+                // remain false as the top() is in upcoming
+                seen[st.top()-'a']=false;
+                st.pop();
+            }
+            st.push(s[i]);
+            seen[curr]=true;
+        }
+    //    vector<string>ans;
+        string ans = "";
+         while(st.size()>0){
+        //    ans+=st[i]
+        // int curri = 
+        ans+=st.top();
+           st.pop();
+       }
+       reverse(ans.begin(),ans.end());
+       return ans;
+    }
+};

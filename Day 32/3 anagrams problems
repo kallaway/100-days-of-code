@@ -1,0 +1,21 @@
+2 are left from L.C
+
+
+https://www.codingninjas.com/studio/problems/group-anagrams_800285
+
+https://leetcode.com/problems/group-anagrams/
+the sorting part is o(nlogn)
+ands the commneting part including coutnsort function will decrez the t.c
+
+The time complexity of the optimized code is O(n * m), where:
+
+n is the number of strings in the input vector strs.
+m is the maximum length of any string in strs.
+
+
+
+https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/0
+this includes mapping and sliding window
+
+
+except hard one on lc it is to-do

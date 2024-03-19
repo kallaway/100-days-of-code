@@ -1,0 +1,28 @@
+https://leetcode.com/problems/maximum-matrix-sum/description/
+Solution:class Solution {
+public:
+    long long maxMatrixSum(vector<vector<int>>& matrix) {
+        int neg=0;
+        long long sum=0;
+        int mini=INT_MAX;
+        for (int i=0; i<matrix.size(); i++)
+        {
+            for (int j=0; j<matrix[0].size(); j++)
+            {
+                // using variables to instead of repeatedly accessing matrix[i][j],  you can store the element in a variable to reduce the number of array accesses.
+                int element = matrix[i][j]; 
+                int absoluteValue = abs(element);
+                if (element < 0) {
+                    neg += 1;
+                }
+                sum += absoluteValue;
+                if (absoluteValue < mini) {
+                    mini = absoluteValue;
+                }
+            }
+        }
+        // why we subtracting twixe the min when neg count is odd?
+    //  Because the sum of absolute values, absTotal was already added to the final sum here: absTotal += Math.abs(matrix[i][j]); That's why we have to subtract it twice.
+        return(neg%2)?sum-(2*mini):sum;
+    }
+};

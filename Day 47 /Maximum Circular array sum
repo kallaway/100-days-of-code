@@ -1,0 +1,37 @@
+class Solution{
+    public:
+    // arr: input array
+    // num: size of array
+    //Function to find maximum circular subarray sum.
+    int circularSubarraySum(int a[], int n){
+    if (n == 1)
+        return a[0];
+    // Initialize sum variable which store total sum of the array.
+    int sum = 0;
+    for (int i = 0; i < n; i++) {
+        sum += a[i];
+    }
+    int curr_max = 0, max_so_far = INT_MIN;
+    int curr_min = 0, min_so_far = INT_MAX;
+ 
+    // Concept of Kadane's Algorithm
+    for (int i = 0; i < n; i++) {
+        // Kadane's Algorithm to find Maximum subarray sum.
+        curr_max = curr_max + a[i];
+        max_so_far = max(max_so_far, curr_max);
+        if (curr_max<=0){
+            curr_max = 0;
+        }
+        curr_min = curr_min + a[i];
+        min_so_far = min(min_so_far, curr_min);
+        if (curr_min >= 0) {
+            curr_min = 0;
+        }
+    }
+ 
+    if (min_so_far == sum)
+        return max_so_far;
+ 
+    // returning the maximum value
+    return max(max_so_far, sum - min_so_far);
+}

@@ -1,0 +1,18 @@
+https://www.codingninjas.com/studio/problems/diameter-of-the-binary-tree_920552?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION
+int dmitri(TreeNode<int>*& root, int& maxi) {
+    if (root == NULL) return 0;
+    int lh = dmitri(root->left, maxi);
+    int rh = dmitri(root->right, maxi);
+    maxi = max(maxi, lh + rh);
+    return 1 + max(lh, rh);
+}
+
+int diameterOfBinaryTree(TreeNode<int> *root){
+	// Write Your Code Here.
+    if(root==NULL){
+        return 0;
+    }
+    int maxi =0;
+    dmitri(root,maxi);
+    return maxi;
+}

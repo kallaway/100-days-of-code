@@ -1,0 +1,22 @@
+LC daily easy on
+SOl.:
+class Solution {
+public:
+    bool halvesAreAlike(string s) {
+        unordered_set<char> sol = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'};
+        int si =s.size();
+        int count1=0;
+        int count2=0;
+        for(int i =0;i<si/2;i++){
+            if(sol.find(s[i])!=sol.end()){
+                count1++;
+            }
+        }
+        for(int i =si/2;i<si;i++){
+            if(sol.find(s[i])!=sol.end()){
+                count2++;
+            }
+        }
+        return (count1==count2)?true:false;
+    }
+};

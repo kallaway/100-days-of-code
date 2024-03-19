@@ -1,0 +1,20 @@
+int recur(vector<int>&arr,int i,int j){
+    while(i<j){
+        // int mid = (i+j)/2;
+        if(arr[i]<arr[j]){
+            i++;
+
+        }
+        else if(arr[i]>arr[j]){
+            j--;
+        }
+    }
+    return i;
+}
+int findPeakElement(vector<int> &arr) {
+    // Write your code here
+    int n =arr.size();
+    int ans = recur(arr,0,n-1);
+    return ans;
+
+}

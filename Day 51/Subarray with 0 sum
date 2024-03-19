@@ -1,0 +1,25 @@
+https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1?page=1&category=sliding-window&difficulty=Medium&sortBy=submissions
+
+ bool subArrayExists(int arr[], int n)
+    {
+        //Your code here
+        // for(int i =0;i<n;i++){
+        //     if(arr[i]==0){
+        //         return true;
+        //     }
+        // }
+    int sum = 0;
+    unordered_set<int>s;
+
+    for (int j = 0; j < n; ++j) {
+        sum += arr[j];
+
+        if (arr[j] == 0 || sum == 0 || s.find(sum) != s.end()) {
+            return true;
+        }
+
+        s.insert(sum);
+    }
+
+    return false;
+}

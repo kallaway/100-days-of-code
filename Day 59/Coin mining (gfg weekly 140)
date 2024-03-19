@@ -1,0 +1,35 @@
+https://practice.geeksforgeeks.org/contest/gfg-weekly-coding-contest-140/problems
+
+class Solution {
+  public:
+  vector<int>dx ={0,0,1,-1};
+  vector<int>dy = {1,-1,0,0};
+  int func(int i,int j,vector<vector<int>>&grid){
+      int answer = grid[i][j];
+      int now = grid[i][j];
+      grid[i][j]=0;
+      int maxi =0;
+      for(int ind =0;ind<4;ind++){
+          int x = i + dx[ind];
+          int y = j + dy[ind];
+          if(x>=0 && y>=0 && x<grid.size() && y<grid[0].size() && grid[x][y]!=0){
+              maxi = max(maxi,func(x,y,grid));
+          }
+      }
+      grid[i][j] =now;
+      answer+=maxi;
+      return answer;
+  }
+    int maximumCoins(int N, vector<vector<int>> &grid) {
+        // code here
+        int ans =0;
+        for(int i =0;i<N;i++){
+            for(int j =0;j<N;j++){
+                if(grid[i][j]!=0 && ((i+j)%2)){
+                    ans = max(ans,func(i,j,grid));
+                }
+            }
+        }
+        return ans;
+    }
+};

@@ -1,0 +1,47 @@
+Problem link :https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+Solution with key explanation of especially why ->left postsTART+NUMSLEFT-1 AND ->RIGHT posteND-1
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    TreeNode* findTree(vector<int>& inorder, vector<int>& postorder,int postStart,int postEnd,int inStart,int inEnd,unordered_map<int,int>&inMap){
+        // bASE CONDITION
+        if(inStart>inEnd||postStart>postEnd){
+            return nullptr;
+        }
+        TreeNode* root = new TreeNode(postorder[postEnd]);
+        // int n = postorder.size()-1;
+        int inIndex = inMap[root->val];
+        int numsleft = inIndex-inStart;
+        // here nums left represents the number of elements to the left side of the root element and numsleft -1 represents upto  the index of the element 
+        root->left = findTree(inorder,postorder,postStart,postStart+numsleft-1,inStart,inIndex-1,inMap);
+        // similar for postEnd-1,bcoz postEnd is the root only we need before that
+        root->right = findTree(inorder,postorder,postStart+numsleft,postEnd-1,inIndex+1,inEnd,inMap);
+
+        return root;
+    }
+    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+            if (postorder.size()!= inorder.size()) {
+            return nullptr;
+        }
+        unordered_map<int,int>inMap;
+        for (int i = 0; i < inorder.size(); ++i) {
+                inMap[inorder[i]] = i;
+            }
+        int postEnd = postorder.size() - 1;
+        int inStart =0;
+        int inEnd = inorder.size()-1;
+        int postStart = 0;
+        TreeNode* ans = findTree(inorder,postorder,postStart,postEnd,inStart,inEnd,inMap);
+        return ans;
+    }
+};

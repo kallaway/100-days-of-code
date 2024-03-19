@@ -1,0 +1,39 @@
+https://leetcode.com/problems/permutation-in-string/
+class Solution {
+public:
+    bool checkInclusion(string s1, string s2) {
+        int m = s1.size();
+        int n = s2.size();
+        if (s2.size() < s1.size()) return false;
+        unordered_map<char, int> freqS1, freqS2;
+        
+        // Count frequencies of characters in s1
+        for (char c : s1) 
+            freqS1[c]++;
+        
+        int i = 0, j = 0;
+        while (j < n) {
+            // Expand the window
+            if(j-i+1<m){
+                freqS2[s2[j]]++;
+                j++;
+            }
+            // Check if the current window matches the frequency map of s1
+            else if (j-i+1 == m){
+                freqS2[s2[j]]++;
+                if(freqS1 == freqS2){
+                    return true;
+                }
+                j++;
+            }
+            // Shrink the window if it's larger than s1
+            if (j-i+1 > m) {
+                freqS2[s2[i]]--;
+                if (freqS2[s2[i]] == 0)
+                    freqS2.erase(s2[i]);
+                i++;
+            }
+        }
+        return false;
+    }
+};

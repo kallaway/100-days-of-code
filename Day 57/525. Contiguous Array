@@ -1,0 +1,59 @@
+https://leetcode.com/problems/contiguous-array/description/?envType=daily-question&envId=2024-03-16
+
+class Solution {
+public:
+    int findMaxLength(vector<int>& a) {
+        int n = a.size();
+        if (n <= 1) // Handle single-element array
+            return 0;
+        
+        unordered_map<int, int> mp;
+        int prefix_sum = 0;
+        int max_length = 0;
+        
+        mp[0] = -1; // Handle prefix sum = 0
+        
+        for (int j = 0; j < n; j++) {
+            if (a[j] == 0)
+                prefix_sum += -1;
+            else // No need for else if, since we have only 0 and 1
+                prefix_sum += 1;
+
+            if (mp.find(prefix_sum) != mp.end()) {
+                max_length = max(max_length, j - mp[prefix_sum]);
+            } else {
+                mp[prefix_sum] = j;
+            }
+        }
+        return max_length;
+    }
+};
+
+// class Solution {
+// public:
+//     int findMaxLength(vector<int>& a) {
+//     int n = a.size();
+//     unordered_map<int,int>mp;
+//     vector<int>pf(n);
+//     int maxi = 0;
+//     for(int i=0;i<n;i++){
+//         if(a[i]==0){
+//             pf[i]+=-1;
+//         }
+//         else if(a[i]==1){
+//             pf[i]+=1;
+//         }
+//     }
+//     mp[0]=-1;
+//     for(int j =0;j<n;j++){
+//         if(mp.find(pf[j])!=mp.end()){
+//             maxi = max(maxi,j-mp[pf[j]]);
+//         }
+//         else{
+//             mp[pf[j]]=j;
+//         }
+//     }
+//     return maxi;
+//     }
+// };
+    

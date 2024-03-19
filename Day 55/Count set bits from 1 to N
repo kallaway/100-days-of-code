@@ -1,0 +1,13 @@
+int countSetBits(int n)
+    {
+        // Your logic here
+        int m =n+1;
+        int ans=0;
+        int j1 = 2;
+        for(int j =1;j<=n;j=j*2){
+                ans = ans + (m/j1)*j1/2;
+            ans = ans+ max((m%j1-j1/2),0);
+            j=j*2;
+        }
+        return ans;
+    }

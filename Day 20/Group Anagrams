@@ -1,0 +1,51 @@
+Two solutions one is with help of sorting which is not optinisesd for large testcases O(K*nlogn_
+ANAOTHE OPTIMISED Is using hashmaps:
+#include <vector>
+#include <string>
+#include <unordered_map>
+
+class Solution {
+public:
+    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        vector<vector<string>> ans;
+        unordered_map<string, vector<string>> mp;
+
+        for (const auto& str : strs) {
+            // Count the occurrences of each character using a hash map
+            string key = countSort(str);
+
+            // Add the string to the corresponding group in the map
+            mp[key].push_back(str);
+        }
+
+        // Convert the map values to the final result vector
+        for (const auto& entry : mp) {
+            ans.push_back(entry.second);
+        }
+
+        return ans;
+    }
+
+private:
+    // Helper function to generate a unique key for an anagram group using a hash map
+    string countSort(const string& str) {
+        unordered_map<char, int> charCount;
+
+        // Count the occurrences of each character in the string
+        for (char ch : str) {
+            charCount[ch]++;
+        }
+
+        // Convert the character count map to a string with consistent order
+        string key;
+        for (char ch = 'a'; ch <= 'z'; ++ch) {
+            key += ch;
+            if (charCount.find(ch) != charCount.end()) {
+                key += to_string(charCount[ch]);
+            }
+            key += '#';
+        }
+
+        return key;
+    }
+};

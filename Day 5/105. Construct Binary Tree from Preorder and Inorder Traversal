@@ -1,0 +1,94 @@
+Problem link : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+Solution : /**
+IN C++ :
+IN JAVA: 1.) Brute force ->
+class Solution {
+    public TreeNode buildTree(int[] preorder, int[] inorder) {
+        // Check for empty input arrays
+        if (preorder == null || inorder == null || preorder.length == 0 || inorder.length == 0) {
+            return null;
+        }
+
+        // Call the recursive helper function to build the tree
+        return buildTreeHelper(preorder, inorder, 0, 0, inorder.length - 1);
+    }
+//preorder: The array representing the preorder traversal of the binary tree.
+//inorder: The array representing the inorder traversal of the binary tree.
+//preIndex: The current index in the preorder array.
+//inStart: The starting index of the current subtree in the inorder array.
+//inIndex: The index of the root node in the inorder array.
+//inEnd: The ending index of the current subtree in the inorder array.
+//inorderMap: A map or some data structure that stores the indices of elements in the inorder array for quick lookups.
+
+    private TreeNode buildTreeHelper(int[] preorder, int[] inorder, int preIndex, int inStart, int inEnd) {
+        // Base case: If the inorder start index is greater than the end index, return null
+        if (inStart > inEnd) {
+            return null;
+        }
+
+        // Create the root node using the current element from the preorder traversal
+        TreeNode root = new TreeNode(preorder[preIndex]);
+
+        // Find the index of the root value in the inorder traversal
+        int inIndex = findIndex(inorder, inStart, inEnd, root.val);
+
+        // Recursively build the left and right subtrees
+        root.left = buildTreeHelper(preorder, inorder, preIndex + 1, inStart, inIndex - 1);
+        root.right = buildTreeHelper(preorder, inorder, preIndex + (inIndex - inStart) + 1, inIndex + 1, inEnd);
+
+        // Return the constructed tree
+        return root;
+    }
+
+    private int findIndex(int[] arr, int start, int end, int target) {
+        // Helper function to find the index of a target value in an array
+        for (int i = start; i <= end; i++) {
+            if (arr[i] == target) {
+                return i;
+            }
+        }
+        return -1; // Not found
+    }
+}
+2.)OPTIMISED USING hashmap TO STORE INDEICE SOF INORDER AND DIRECTLY FINDING ROOT NODE FFROM PREORDER INT THE INORDER :
+IN C++:
+class Solution {
+public:
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        // Check for empty input arrays
+        if (preorder.empty() || inorder.empty() || preorder.size() != inorder.size()) {
+            return nullptr;
+        }
+
+        // Build a hashmap to store indices of elements in the inorder traversal
+        unordered_map<int, int> inorderMap;
+        for (int i = 0; i < inorder.size(); ++i) {
+            inorderMap[inorder[i]] = i;
+        }
+
+        // Call the recursive helper function to build the tree
+        return buildTreeHelper(preorder, inorder, 0, 0, inorder.size() - 1, inorderMap);
+    }
+
+private:
+    TreeNode* buildTreeHelper(vector<int>& preorder, vector<int>& inorder, int preIndex, int inStart, int inEnd, unordered_map<int, int>& inorderMap) {
+        // Base case: If the inorder start index is greater than the end index, return null
+        if (inStart > inEnd) {
+            return nullptr;
+        }
+
+        // Create the root node using the current element from the preorder traversal
+        TreeNode* root = new TreeNode(preorder[preIndex]);
+
+        // Find the index of the root value in the inorder traversal using the hashmap
+        int inIndex = inorderMap[root->val];
+
+        // Recursively build the left and right subtrees
+        root->left = buildTreeHelper(preorder, inorder, preIndex + 1, inStart, inIndex - 1, inorderMap);
+        root->right = buildTreeHelper(preorder, inorder, preIndex + (inIndex - inStart) + 1, inIndex + 1, inEnd, inorderMap);
+
+        // Return the constructed tree
+        return root;
+    }
+};
+

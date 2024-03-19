@@ -1,0 +1,27 @@
+Link: https://www.geeksforgeeks.org/batch/dsa-galgotia-2/track/DSASP-Matrix/problem/make-matrix-beautiful-1587115620
+class Solution
+{
+    public:
+    //Function to find minimum number of operations that are required 
+    //to make the matrix beautiful.
+    int findMinOpeartion(vector<vector<int> > matrix, int n)
+    {
+        // code here 
+        int maxrow = 0;
+        int maxcol = 0;
+        int diff1 =0,diff2=0;
+        int totalsum=0;
+        for(int i =0;i<n;i++){
+            int rowsum=0,colsum=0;
+            for(int j = 0;j<n;j++){
+                rowsum+=matrix[i][j];
+                colsum+=matrix[j][i];
+                totalsum+=matrix[i][j];
+            }
+            
+            maxrow = max(maxrow,rowsum);
+            maxcol = max(maxcol,colsum);
+        }
+        return n*max(maxrow,maxcol)-totalsum;
+    } 
+};

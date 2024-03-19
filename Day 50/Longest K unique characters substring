@@ -1,0 +1,48 @@
+First i trid it with set but now i know why it didnt worked because we also need the count of elements to be removed till we make it zero and decrease
+the mp.size() which is unique char from left side untill mp.size()<k
+Courtesy :Aditya Verma
+https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
+
+//User function template for C++
+
+class Solution{
+  public:
+  int longestKSubstr(string s, int k) {
+    int n = s.size();
+    int maxi = INT_MIN;
+    unordered_map<char,int>mp;
+
+    int j = 0;
+    int i = 0;
+    int z = 0;
+    int size = 0;
+
+    while (j < n) {
+        
+        mp[s[j]]++;
+        if(mp.size()<k){
+            j++;
+        }
+        else if(mp.size()==k){
+            maxi = max(maxi,j-i+1);
+            j++;
+        }
+        else if(mp.size()>k){
+            while(mp.size()>k){
+                    mp[s[i]]--;
+                    if(mp[s[i]]==0){
+                         mp.erase(s[i]);
+                          //  leftest count decreased which means it also removed from array
+                // so increase the left pointer to traverse the array
+                     }
+                      i++;
+                }
+           j++;
+        }
+}
+        if(mp.size()<k){
+            return -1;
+        }
+        return maxi;
+  }
+};

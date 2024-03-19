@@ -1,0 +1,41 @@
+https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/
+
+
+class Solution {
+public:
+    int maxConsecutiveAnswers(string s, int k) {
+        int n = s.size();
+        int i =0;
+        int ans1 =0,ans2=0,count=0;
+        // calculating the number of T's ,so we have to calculate the adamga here ,i.e. F and whenn its count >k , we shrink out windoe from left side 
+        for(int j=0;j<n;j++){
+            if(s[j]=='F'){
+                count++;
+            }
+            while(count>k){
+                    // if leftmost is 'f' REMOVE IT 
+                    if(s[i]=='F'){
+                        count--;
+                        }
+                        i++;
+            }
+            ans1= max(ans1,j-i+1);
+        }
+// similarly for F's
+i=0,count=0;
+        for(int j=0;j<n;j++){
+            if(s[j]=='T'){
+                count++;
+            }
+                while(count>k){
+                    // if leftmost is 'f' REMOVE IT 
+                    if(s[i]=='T'){
+                        count--;
+                        }
+                        i++;
+                }
+            ans2= max(ans2,j-i+1);
+        } 
+        return max(ans1,ans2);
+    }
+};

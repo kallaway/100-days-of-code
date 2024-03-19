@@ -1,0 +1,31 @@
+
+
+class Solution
+{   
+    public:
+    //Function to multiply two matrices.
+    vector<vector<int> > multiplyMatrix( const vector<vector<int> >& A, const vector<vector<int> >& B)
+    {
+        // code here
+        vector<vector<int>>v;
+        int r1 = A.size();
+        int r2 = B.size();
+        int c1= A[0].size();
+        int c2 = B[0].size();
+        if( c1!=r2){
+            return v;
+        }
+         v.resize(r1, vector<int>(c2));
+         for(int i =0;i<r1;i++){
+             for(int j =0;j<c2;j++){
+                 v[i][j]=0;
+                //  for grbage value
+                 for(int k = 0;k<c1;k++){
+                     v[i][j] +=A[i][k]*B[k][j];
+                 }
+                //  v[i][j] = A[i][j]
+             }
+         }
+         return v;
+    }
+};

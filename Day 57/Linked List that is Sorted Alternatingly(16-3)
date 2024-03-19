@@ -1,0 +1,69 @@
+https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1
+
+class Solution
+{
+    public:
+    Node* merge(Node* left, Node* right){
+        Node* dummy = new Node(0);
+        Node* temp = dummy;
+        while(left !=NULL && right !=NULL){
+            if(left->data < right->data){
+                temp->next = left;
+                temp = temp->next;
+                left = left->next;
+            }
+            else{
+                temp->next = right;
+                temp = temp->next;
+                right=right->next;
+            }
+        }
+        while(left!=NULL){
+            temp->next = left;
+            temp=temp->next;
+            left=left->next;
+        }
+        while(right!=NULL){
+            temp->next = right;
+            temp=temp->next;
+            right=right->next;
+        }
+        Node* answer  = dummy->next;
+        delete(dummy);
+        return answer;
+    }
+    
+    Node* findmid(Node* head){
+        // if(*head ==NULL){
+        //     return NULL;
+        // }
+        Node* slow = head;
+        Node* fast = (head)->next;
+        while(fast!=NULL && fast->next !=NULL){
+            slow=slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
+    }
+    void sort(Node** head) {
+
+    // Base case: If list is empty or has only one node, it's already sorted
+    if (*head == nullptr || (*head)->next == nullptr) {
+        return;
+    }
+    // Find the middle of the list
+    Node* mid = findmid(*head);
+    
+    // Split the list into two halves
+    Node* left = *head;
+    Node* right = mid->next;
+    mid->next = nullptr;
+    
+    // Recursively sort the two halves
+    sort(&left);
+    sort(&right);
+    
+    // Merge the sorted halves
+    *head = merge(left, right);
+}
+};

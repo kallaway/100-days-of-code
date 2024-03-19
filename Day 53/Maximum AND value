@@ -1,0 +1,36 @@
+Code link : https://www.geeksforgeeks.org/problems/maximum-and-value-1587115620/1
+class Solution
+{
+    public:
+    // Function for finding maximum AND value.
+    int maxAND (int arr[], int N)
+    {
+        // Your code here
+        // brute is for do with every pair
+        
+        int ans =0;
+        
+        int poss_ans ,i,j,c,k;
+        j=1;
+        for(int k =1;k<=30;k++){
+            j*=2;
+        }
+        // or j = 1<<30;
+        for(i = 30;i>=0;i--){
+            poss_ans = (ans|j);
+            // will give zero only ,the OR operator
+            c=0;
+            for(k=0;k<N;k++){
+                if((poss_ans&arr[k]) == poss_ans){
+                    c++;
+                }
+            }
+            if(c>=2){
+                ans=poss_ans;
+            }
+            j/=2;
+        }
+        
+        return ans;
+        
+    }

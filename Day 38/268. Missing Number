@@ -1,0 +1,27 @@
+Problem link : https://leetcode.com/problems/missing-number/?envType=daily-question&envId=2024-02-20
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        int n = nums.size();
+        sort(nums.begin(),nums.end());
+        int a = 0;
+        for(auto it:nums){
+            if(it==a){ 
+                a++;
+            }
+            else return a;
+        }
+        return n;
+    }
+};
+
+// ### optimised ###
+class Solution {
+    public int missingNumber(int[] nums) {
+        int n = nums.length;
+        int total = n*(n+1)/2;
+        for(int i:nums)
+            total -= i;
+        return total; 
+    }
+}

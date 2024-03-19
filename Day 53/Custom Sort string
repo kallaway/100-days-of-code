@@ -1,0 +1,33 @@
+https://leetcode.com/problems/custom-sort-string/description/
+
+Method :1 
+ string customSortString(string order, string s) {
+    //  another method is via comp in the string s, w.r.t the elements in the order 
+     auto comp = [&](char a,char b){
+         return order.find(a)<order.find(b);
+     };
+     sort(s.begin(),s.end(),comp);
+     return s;
+ }
+
+Method 2: efficeint
+    string customSortString(string order, string s) {
+        unordered_map<char,int>mp1;
+        unordered_map<char,int>mp2;
+        // for(int i =0;i<order.size();i++){
+        //     mp1[order[i]]=i;
+        // }
+        for(int i =0;i<s.size();i++){
+            mp2[s[i]]++;
+        }
+        string ans = "";
+        for(auto it : order){
+//jab tak uski freq zero ninhoti dalte jao and then last me bache walo ko
+            while(mp2[it]-- >0){
+                ans.push_back(it);
+                // slower way is :ans+=it; ;
+            }
+        }
+        for(auto [el,fr]: mp2){
+            while(fr-- >0)ans.push_back(el);
+        }

@@ -1,0 +1,38 @@
+Problme link: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/
+Solution :
+lass Solution {
+public:
+    vector<vector<int>> verticalTraversal(TreeNode* root) {
+        map<int,map<int,multiset<int>>>nodes;
+        queue<pair<TreeNode*,pair<int,int>>>todo;
+        todo.push({root,{0,0}});
+        while(!todo.empty()){
+            // applying lever order traversal to store accordingly bin map
+            auto p = todo.front();
+            todo.pop();
+            TreeNode* node = p.first;
+            int x= p.second.first;
+            int y = p.second.second;
+            // now puting them intop map
+            nodes[x][y].insert(node->val);
+            // x vertical mein yth level ke node ki val insert and 
+            // aage check karo uske left right ko push karo queue mein
+            if(node->left){
+                todo.push({node->left,{x-1,y+1}});
+            }
+            if(node->right){
+                todo.push({node->right,{x+1,y+1}});
+            }
+        }
+
+            vector<vector<int>>ans;
+            for(auto s :nodes){
+                vector<int>col;
+                for(auto q:s.second){
+                    col.insert(col.end(),q.second.begin(),q.second.end());
+                }
+                ans.push_back(col);
+            }
+            return ans;
+    }
+};

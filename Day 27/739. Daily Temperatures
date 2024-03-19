@@ -1,0 +1,80 @@
+pROLEM LINK :https://leetcode.com/problems/daily-temperatures/
+class Solution {
+public:
+    vector<int> dailyTemperatures(vector<int>& temperatures) {
+        // ####.    S.c = O(1) and 0(N) time
+        int hottest =-1;
+        int n = temperatures.size();
+        vector<int>ans(n,0);
+        for(int i =n-1;i>=0;i--){
+            if(temperatures[i]>=hottest){
+                // ans[i]=1;
+                hottest = temperatures[i];
+                // ans[i]=1;
+                continue;
+            }
+                int days=1;
+                // here temperatures[i+days] is the next element untill its smaller
+                while(temperatures[i+days]<=temperatures[i]){
+                    days = days+ans[i+days];
+                }
+                ans[i]=days;
+
+             }
+            return ans;
+        }
+    };
+        // }
+
+// ####T.C =O(n). &&   s.c = O(N)
+
+        // int n = temperatures.size();
+        // stack<pair<int,int>>st;
+        // vector<int>ans(n,0);
+        // // initially its zero 
+        // for(int i =n-1;i>=0;i--){
+        //     while(!st.empty()&&st.top().first<=temperatures[i])st.pop();
+
+        //     if(!st.empty()){
+        //         ans[i]=st.top().second-i;
+        //     }
+        //     st.push({temperatures[i],i});
+        // }
+        // return ans;
+// }
+// };
+
+
+    //     int count=0;
+    //     int n = temperatures.size();
+    //     vector<int>v;
+    //     for(int i =0;i<temperatures.size()-1;i++){
+    //         if(temperatures[i]<temperatures[i+1]){
+    //             count=1;
+    //             v.push_back(count);
+    //             count=0;
+    //         }
+    //         else{
+    //             count=1;
+    //             int j =i;
+    //             int curr = temperatures[i];
+    //             if(i==n-1){
+    //                 v.push_back(0);
+    //                 continue;
+    //             }
+    //             while (j < temperatures.size() - 1 && temperatures[j + 1] < curr) {
+    //                 count++;
+    //                 j++;
+    //             }
+    //             if (j < temperatures.size() - 1) {
+    //                 v.push_back(count);
+    //             } else {
+    //                 v.push_back(0);
+    //                 continue;
+    //             }
+    //     }
+    //     }
+    //      v.push_back(0); 
+    // return v;
+//     }
+// };

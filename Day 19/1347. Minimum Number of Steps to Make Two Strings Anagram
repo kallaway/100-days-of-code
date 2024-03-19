@@ -1,0 +1,25 @@
+#include <unordered_map>
+
+class Solution {
+public:
+    int minSteps(string s, string t) {
+        unordered_map<char, int> charFrequency;
+
+        for (char ch : s) {
+            charFrequency[ch]++;
+        }
+
+        for (char ch : t) {
+            charFrequency[ch]--;
+        }
+
+        int count = 0;
+        for (auto entry : charFrequency) {
+            if (entry.second > 0) {
+                count += entry.second;
+            }
+        }
+
+        return count;
+    }
+};

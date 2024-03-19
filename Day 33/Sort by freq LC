@@ -1,0 +1,45 @@
+link : https://leetcode.com/problems/sort-characters-by-frequency/?envType=daily-question&envId=2024-02-07
+code optmiised : explanation is in notebok
+class Solution {
+public:
+    string frequencySort(string s) {
+        // USING BUCKET SORT
+        unordered_map<char,int>mp;
+            for(auto ch:s){
+                mp[ch]++;
+            }
+            vector<vector<char>>bucketData(s.length()+1);
+            for(auto [ch,fq]:mp){
+                bucketData[fq].push_back(ch);
+            }
+            string ans = "";
+            for(int i =s.length();i>=1;i--){
+                for(auto ch :bucketData[i]){
+                    ans.append(i,ch);
+                }
+            }
+            return ans;
+    }
+    //     unordered_map<char,int>mp;
+    //     for(auto ch:s){
+    //         mp[ch]++;
+    //     }
+    //     // we can't sort map so create a vecto of pairs
+    //     vector<pair<char,int>>v;
+    //     for(auto [ch,fq]:mp){
+    //         v.push_back({ch,fq});
+    //     }
+    //     auto comp = [&](pair<char,int>&a,pair<char,int>&b){
+    //         return a.second>b.second;
+    //     };
+    //     for(auto [ch,fq] : mp){
+    //         // sort based on freq char only
+    //         sort(v.begin(),v.end(),comp);
+    //     }
+    //     string ans ="";
+    //     for(auto [ch,fq]: v){
+    //         ans.append(fq,ch);
+    //     }
+    //     return ans;
+    // }
+};

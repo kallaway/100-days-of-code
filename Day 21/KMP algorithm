@@ -1,0 +1,64 @@
+#include <vector>
+#include <string>
+
+class Solution {
+public:
+    std::vector<int> search(std::string pat, std::string txt) {
+        int M = pat.length();
+        int N = txt.length();
+
+        std::vector<int> ans;
+
+        // create lps[] that will hold the longest prefix suffix
+        // values for pattern
+        std::vector<int> lps(M);
+
+        // Preprocess the pattern (calculate lps[] array)
+        computeLPSArray(pat, M, lps);
+
+        int i = 0; // index for txt[]
+        int j = 0; // index for pat[]
+
+        while (i < N) {
+            if (pat[j] == txt[i]) {
+                j++;
+                i++;
+            }
+
+            if (j == M) {
+                ans.push_back(i - j + 1);
+                j = lps[j - 1];
+            } else if (i < N && pat[j] != txt[i]) {
+                if (j != 0)
+                    j = lps[j - 1];
+                else
+                    i++;
+            }
+        }
+
+        return ans;
+    }
+
+private:
+    // Fills lps[] for the given pattern pat[0..M-1]
+    void computeLPSArray(std::string pat, int M, std::vector<int>& lps) {
+        int len = 0;
+        lps[0] = 0;
+
+        int i = 1;
+        while (i < M) {
+            if (pat[i] == pat[len]) {
+                len++;
+                lps[i] = len;
+                i++;
+            } else {
+                if (len != 0) {
+                    len = lps[len - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
+                }
+            }
+        }
+    }
+};

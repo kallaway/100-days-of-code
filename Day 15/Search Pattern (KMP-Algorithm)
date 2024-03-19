@@ -1,0 +1,5 @@
+Given two strings, one is a text string, txt and other is a pattern string, pat. The task is to print the indexes of all the occurences of pattern string in the text string. Use one-based indexing while returing the indices. 
+Note: Return an empty list incase of no occurences of pattern. Driver will print -1 in this case.
+
+There are two ways one is to do with simple brute froce  i.e. sliding window 
+Other is KMP algorithm in which we only check from the point where the character which is mismatched and not the char which are equal

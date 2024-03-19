@@ -1,0 +1,125 @@
+#include<bits/stdc++.h>
+using namespace std;
+#include<iostream>
+// one-based indexing
+class heap{
+    public:
+    int arr[100];
+    int size;
+    heap(){
+        arr[0] = -1;
+        size=0;
+    }
+    void insert(int val){
+        size++;
+        arr[size] = val;
+        int index = size;
+        while(index>1){
+            int parent = index/2;
+            // this is how we find parent of a child
+            if(arr[parent]<arr[index]){
+                swap(arr[parent],arr[index]);
+                index = parent;
+            }
+            else{
+                return;
+            }
+        }
+    }
+    void print(){
+        for(int i =1;i<=size;i++){
+            cout<<arr[i]<<" ";
+        }
+    }
+    void deletefromheap(){
+        if(size==0){
+            cout<<"heap is empty"<<endl;
+            return;
+        }
+// last node ko uthakar pehli me dal
+// taki top wala delete ho jaye
+        arr[1] = arr[size];
+        // remove last element
+        size--;
+// take root node to corect position
+        int index = 1;
+        while(index<size){
+        int left = 2*index;
+        int right = 2*index+1;
+        if(left<=size && arr[left]>arr[index]){
+            swap(arr[left],arr[index]);
+            index = left;
+        }
+        else if(right<=size && arr[right]>arr[index]){
+            swap(arr[right],arr[index]);
+            index = right;
+        }
+        else{
+            return;
+        }
+    }
+}
+    void buildHeap(int a[],int n){
+        for(int i =0;i<n;i++){
+            insert(a[i]);
+        }
+    }
+};
+void heapify(int arr[],int n,int i){
+    int largest = i;
+    int l = 2*i;
+    int r = 2*i+1;
+    // here we are creating back the max heap
+    // jo swap kara the last element root par use wapis apni jagah le jana
+    if(l<=n && arr[l]<arr[largest]){
+        largest = l;
+    }
+    if(r<=n && arr[r]<arr[largest]){
+        largest = r;
+    }
+    if(largest!=i){
+        swap(arr[i],arr[largest]);
+        heapify(arr,n,largest);
+    }
+}
+void heapSort(int arr[],int n){
+    int size =n;
+    while(size>1){
+        swap(arr[size],arr[1]);
+        size--;
+
+        heapify(arr,size,1);
+        // now heapify the rest elements
+
+    }
+}
+int main(){
+    heap h;
+    h.insert(10);
+    h.insert(20);
+    h.insert(30);
+    h.insert(40);
+    h.insert(50);
+    h.insert(60);
+    h.print();
+    h.deletefromheap();
+    cout<<"after deletion from maxheap"<<endl;
+    h.print();
+    cout<<endl;
+    int arr[6] = {1,54,53,55,52,50};
+    int n =5;
+    // heap creation
+    for(int i =n/2;i>0;i--){
+        heapify(arr,n,i);
+    }
+    cout<<"printing the array now"<<endl;
+    for(int i =1;i<=n;i++){
+        cout<<arr[i]<<" ";
+    }
+    heapSort(arr,n);
+    cout<<"printing the array now"<<endl;
+    for(int i =1;i<=n;i++){
+        cout<<arr[i]<<" ";
+    }
+return 0;
+}

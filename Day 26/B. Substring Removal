@@ -1,0 +1,108 @@
+Link : https://codeforces.com/problemset/problem/1096/B
+Solution : 
+#include<iostream>
+#include<bits/stdc++.h>
+#define pll = pair<ll, ll>
+#define tlll = tuple<ll, ll, ll>
+#define _test   int _TEST; cin>>_TEST; while(_TEST--)
+#define int long long
+#define dis(x) cout<<x<<endl
+#define pb push_back
+#define pp pop_back
+#define mp make_pair
+#define ff first
+ typedef long long ll;
+#define sort(v) sort(v.begin(),v.end())
+#define f(n) for(int i=0;i<n;i++)
+#define ASST(x,y,z) assert(x >= y && x <= z)
+#define ss second
+#define rep(i,a,n) for(int i = (a); i <= (n); ++i)
+#define sz(a) (int)(a.size())
+#define all(x) begin(x), end(x)
+#define rall(x) rbegin(x), rend(x)
+const int N = 100100;
+ const int M=998244353;
+
+using namespace std;
+long long mod(long long x){
+            return ((x%M + M)%M);
+        }
+        long long add(long long a, long long b){
+            return mod(mod(a)+mod(b));
+        }
+        long long mul(long long a, long long b){
+            return mod(mod(a)*mod(b));
+        }
+    
+        ll modPow(ll a, ll b){
+            if(b==0)
+                return 1LL;
+            if(b==1)
+                return a%M;
+            ll res=1;
+            while(b){
+                if(b%2==1)
+                    res=mul(res,a);
+                a=mul(a,a);
+                b=b/2;
+            }
+            return res;
+        }
+ 
+        void solve(){
+            int n;
+            cin>>n;
+            string s;
+            cin>>s;
+            if(n==1){
+                cout<<1<<"\n";
+                return;
+            }
+            // whole string is same
+            bool flag=true;
+            for(int i=1;i<n;i++){
+                if(s[i]!=s[i-1]){
+                    flag=false;
+                    break;
+                }
+            }
+            if(flag){
+                long long one=n;
+                long long two=n+1;
+                if(n%2==0)
+                    one/=2;
+                else 
+                    two/=2;
+                long long ans=mul(one,two);
+                cout<<ans<<"\n";
+                return;
+            }
+            int left=1;
+            for(int i=1;i<n;i++){
+                if(s[i]==s[i-1])
+                    left++;
+                else 
+                    break;
+            }
+            int right=1;
+            for(int i=n-2;i>=0;i--){
+                if(s[i]==s[i+1])
+                    right++;
+                else 
+                    break;
+            }
+            long long ans=0;
+            if(s[0]==s[n-1]){
+                ans=mul(left,right);
+            }
+            ans=add(ans,left);
+            ans=add(ans,right);
+//Note here thi is the step when we exxclude whole string as substring earlier we do not include the element present at 0th index - initiated with left=1,right=1
+            ans=add(ans,1);
+            cout<<ans;
+        }
+int32_t main(){
+solve();
+
+            return 0;
+        }	

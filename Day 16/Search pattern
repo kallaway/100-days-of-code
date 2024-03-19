@@ -1,0 +1,44 @@
+//{ Driver Code Starts
+#include<bits/stdc++.h>
+using namespace std;
+
+
+// } Driver Code Ends
+class Solution
+{
+    public:
+        vector <int> search(string pat, string txt)
+        {
+            int i =0,j=0;
+            vector<int>ans;
+            while(i<txt.size()){
+                if(txt[i]==pat[j]){
+                    int index=i;
+                
+                    while(j<pat.size()&&txt[i]==pat[j]&&i<txt.size()){
+                        i++;
+                        j++;
+                    }
+                    if(j==pat.size()){
+                        ans.push_back(index+1);
+                        // i j ko wapis vahi daalo jahan ses shuru kiya,
+                        j=0;
+                        i=index+1;
+                    }
+                    else{
+                        j=0;
+                        i=index+1;
+                    }
+                }
+                else{
+                    i++;
+                }
+                // ;
+            }
+                return ans;
+            // }
+            //code hee.
+        }
+     
+};
+
