@@ -65,3 +65,38 @@ Just need to keep preacticing, I also learnt what secrets and Tokens are.
 
 **Thoughts** I am telling myself I will love Javascript! some good old NLP.
 BTW I am already due my hour of code and still looking to 3 hours class and coding. 
+
+### day 6: March 19th, 2024
+
+**Today´s Progress** Today was the first time I actually finished a `javascript` excercise without having to consult. I was able to think, and come up with the solution. 
+Of course there where the typical initial things on learnpack, but I am thrilled I actually could do the whole thing on my own. 
+
+> let guests = prompt('How many people are coming to your wedding?');
+>
+> function getPrice(guests) {
+> 
+>    let cost = 0;
+> 
+>   if (guests <= 50) {
+>
+> return cost = 4000
+> 
+>   } 
+>   else if (guests <= 100) {
+> 
+> return cost = 10000
+>  }
+>  else if (guests <= 200) {
+> 
+> return cost = 1500
+>  }
+> else {
+>  return cost = 20000
+>  }
+> return cost;
+> }
+>
+> let price = getPrice(guests);
+> console.log('Your wedding will cost ' + price + ' dollars');
+
+**Thoughts** I know this doesn´t sound much like an achievement for those who are into coding but for me it´s a big first step
