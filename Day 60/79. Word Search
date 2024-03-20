@@ -1,0 +1,53 @@
+https://leetcode.com/problems/word-search/
+class Solution {
+public:
+        vector<int>dx = {0, 0, -1, 1};
+        vector<int>dy = {-1, 1, 0, 0};
+    bool find(vector<vector<char>>& board, string& word, int i, int j, int index, vector<vector<bool>>& visited) {
+        if (index == word.size()) {
+            return true;
+        }
+
+          if (i < 0 || i >= board.size() || j < 0 || j >= board[0].size() || visited[i][j] || board[i][j] != word[index]) {
+            return false;
+        }
+
+         visited[i][j] = true;
+
+        for (int k = 0; k < 4; k++) {
+            int x = i + dx[k];
+            int y = j + dy[k];
+            
+            // if (x >= 0 && y >= 0 && x < board.size() && y < board[0].size() && !visited[x][y] && word[index] == board[x][y]) {
+                if (find(board, word, x, y, index + 1, visited)) {
+                    return true;
+                }
+            // }
+        }
+        visited[i][j] = false;
+        return false;
+    }
+    bool exist(vector<vector<char>>& board, string word) {
+        int row = board.size();
+        int col = board[0].size();
+        //  if (word.size() == 1) {
+        //     for (int i = 0; i < row; i++) {
+        //         for (int j = 0; j < col; j++) {
+        //             if (board[i][j] == word[0]) {
+        //                 return true;
+        //             }
+        //         }
+        //     }
+        //     return false;
+        // }
+        vector<vector<bool>> visited(row, vector<bool>(col, false));
+        for (int i = 0; i < row; i++) {
+            for (int j = 0; j < col; j++) {
+                if (find(board, word, i, j, 0, visited)) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+};
