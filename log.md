@@ -100,3 +100,29 @@ Of course there where the typical initial things on learnpack, but I am thrilled
 > console.log('Your wedding will cost ' + price + ' dollars');
 
 **Thoughts** I know this doesn´t sound much like an achievement for those who are into coding but for me it´s a big first step
+
+### day 7: March 20th, 2024
+
+**Today´s Progress:** I´m thrilled that I got this one to work. I didn´t really understand it very well in the prework but today as I practiced the rest I found out I was really getting the idea. I had to pip a little to get the kickstart but then all worked fine:
+
+#### The fizzbuzz problem in javasript
+
+> function fizzBuzz() {  
+>
+>	for (let i = 1; i < 101; i++) {
+> 
+>	if (i % 15 == 0) console.log("FizzBuzz"); 
+>
+>	else if (i % 5 == 0) console.log("Buzz");
+> 
+>	else if (i % 3 ==0) console.log("Fizz");
+> 
+>	else console.log(i);
+> 
+>	}
+> 
+> }
+>
+> fizzBuzz();
+
+**Thoughts:** Nothing much, just keep practicing. 
