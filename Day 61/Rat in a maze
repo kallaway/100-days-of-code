@@ -1,0 +1,38 @@
+class Solution{
+    public:
+    void isSolve(vector<vector<int>> &m,vector<string>&ans,string path,vector<vector<bool>>&visited,int i,int j,int n){
+        if(i==n-1 && j==n-1){
+            ans.push_back(path);
+            return;
+        }
+
+        visited[i][j] =true;
+        
+        if(i-1>=0 && visited[i-1][j]==false && m[i-1][j]==1){
+            isSolve(m,ans,path + 'U',visited,i-1,j,n);
+        }
+        if(i+1<n && visited[i+1][j] ==false && m[i+1][j] ==1){
+            isSolve(m,ans,path+'D',visited,i+1,j,n);
+        }
+        if(j-1>=0 && visited[i][j-1] ==false && m[i][j-1] ==1){
+            isSolve(m,ans,path+'L',visited,i,j-1, n);
+        }
+        if(j+1<n  &&visited[i][j+1] ==false && m[i][j+1] ==1){
+            isSolve(m,ans,path+'R',visited,i,j+1,n);
+        }
+        visited[i][j] =false;
+    }
+    vector<string> findPath(vector<vector<int>> &m, int n) {
+        // Your code goes here
+        vector<string>ans;
+        string path = "";
+
+        vector<vector<bool>>visited(n,vector<bool>(n,false));
+        // path blocked cant go furter as starting from 0,0
+        if(m[0][0]==0){
+            return ans;
+        }
+        isSolve(m,ans,"",visited,0,0,n);
+        return ans;
+    }
+};
