@@ -1,0 +1,38 @@
+https://www.codingninjas.com/studio/problems/unique-subsets_3625236?leftPanelTabValue=PROBLEM
+#include <bits/stdc++.h> 
+
+void recur(vector<int>&arr, int n,int index,vector<bool>&visited,vector<vector<int>>&ans){
+        if(index>=n){
+            // ans.push_back(visited);
+            vector<int>vec;
+            for(int j =0;j<n;j++){
+                if(visited[j]==true){
+                    vec.push_back(arr[j]);
+                }
+            }
+                ans.push_back(vec);
+            return;
+        }
+
+        visited[index]=true;
+        // visited.push_back(arr[index]);
+        recur(arr,n,index+1,visited,ans);
+        visited[index]=false;
+        // visited.pop_back();
+
+        while(index+1<n&& arr[index]==arr[index+1] ){
+            index++;
+        }
+        recur(arr,n,index+1,visited,ans);
+    }
+    vector<vector<int>> uniqueSubsets(int n, vector<int> &arr)
+{
+    // Write your code here.
+    sort(arr.begin(),arr.end());
+        vector<vector<int>>ans;
+        // vector<bool>visited(n,false);
+        vector<bool>visited(n,false);
+        recur(arr,n,0,visited,ans);
+        sort(ans.begin(),ans.end());
+        return ans;
+}
