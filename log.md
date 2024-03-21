@@ -126,3 +126,9 @@ Of course there where the typical initial things on learnpack, but I am thrilled
 > fizzBuzz();
 
 **Thoughts:** Nothing much, just keep practicing. 
+
+### day 8: March 21th, 2024
+
+**Today´s Progress:** Today I did a lot of practice on JS and I´m super happy that we are starting to use it in a good fashion. I´m buidling a data archive for workers using de .map to itereate over teh data base. not yet finished but I will post the code tomorrow. Did more than an hour on this today. 
+
+**Thoughts** happy!
