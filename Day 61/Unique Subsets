@@ -1,0 +1,39 @@
+https://www.geeksforgeeks.org/problems/subsets-1587115621/1
+
+
+
+class Solution
+{
+    public:
+    void recur(vector<int>&arr, int n,int index,vector<bool>&visited,vector<vector<int>>&ans){
+        if(index>=n){
+            vector<int>vec;
+            for(int j =0;j<n;j++){
+                if(visited[j]==true){
+                    vec.push_back(arr[j]);
+                }
+            }
+                ans.push_back(vec);
+            return;
+        }
+
+        visited[index]=true;
+        recur(arr,n,index+1,visited,ans);
+        visited[index]=false;
+        
+        while(index+1<n&& arr[index]==arr[index+1] ){
+            index++;
+        }
+        recur(arr,n,index+1,visited,ans);
+    }
+    vector<vector<int> > AllSubsets(vector<int> arr, int n)
+    {
+        // code here 
+        sort(arr.begin(),arr.end());
+        vector<vector<int>>ans;
+        vector<bool>visited(n,false);
+        recur(arr,n,0,visited,ans);
+        sort(ans.begin(),ans.end());
+        return ans;
+    }
+};
