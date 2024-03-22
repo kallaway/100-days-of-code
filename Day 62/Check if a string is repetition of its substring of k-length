@@ -1,0 +1,51 @@
+https://www.geeksforgeeks.org/convert-string-repetition-substring-k-length/
+
+//User function template for C++
+class Solution{
+public:
+	
+	int kSubstrConcat (int n, string s, int k)
+	{
+	    // Your Code Here
+	    if(n%k!=0){
+	        return 0;
+	    }
+	   // compare first substr with everyone if found 2 lessthen ok
+	   int count=0;
+	   int match =0;
+	   for(int i =k;i<n;i++){
+	       //before k, was the substr we are comparing with
+	       if(s[i]==s[(i%k)]){
+	           match++;
+	        }
+	   if(i%k==k-1){
+	       if(match==k){
+	           count++;
+	       }
+	       match=0;
+	    }
+	   }
+	   if(count>=(n/k)-2){
+	       return 1;
+	   }
+	   
+	   count=0;
+	   match =0;
+	   for(int i =0;i<n-k;i++){
+	       if(s[i]==s[(n-k+(i%k))]){
+	           match++;
+	       }
+	       if(i%k==k-1){
+	           if(match==k){
+	               count++;
+	           }
+	           match=0;
+	       }
+	   }
+	   if(count>=(n/k)-2){
+	       return 1;
+	   }
+	   return 0;
+	   
+	}
+};
