@@ -1,0 +1,25 @@
+class Solution{   
+public:
+
+// have to be optiised using dynammix programming
+bool isok(int sum ,int n,vector<int>&arr){
+        if(n==0){
+            return false;
+        }
+        if(sum==0){
+            return true;
+        }
+        if(sum<0){
+            return false;
+        }
+        bool p1 = isok(sum-arr[n-1],n-1,arr);
+        bool p2 = isok(sum,n-1,arr);
+        return p1 || p2;
+}
+    bool isSubsetSum(vector<int>arr, int sum){
+        // code here 
+    int n = arr.size();
+       return isok(sum,n,arr);
+       
+    }
+};
