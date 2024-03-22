@@ -1,0 +1,10 @@
+https://www.codingninjas.com/studio/contests/weekly-contest-118/11556219/problems/30413?leftPanelTabValue=PROBLEM
+int findMinimum(int n,vector<int>&v){
+    int maxi = v[0];
+    int diff = 0;
+    for(int i =1;i<n;i++){
+        diff = max(diff,maxi-v[i]);
+        maxi = max(maxi,v[i]);
+    }
+    return (diff+1)/2;
+}
