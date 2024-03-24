@@ -127,15 +127,25 @@ Of course there where the typical initial things on learnpack, but I am thrilled
 
 **Thoughts:** Nothing much, just keep practicing. 
 
-### day 8: March 21th, 2024
+### day 8: March 21st, 2024
 
 **Today´s Progress:** Today I did a lot of practice on JS and I´m super happy that we are starting to use it in a good fashion. I´m buidling a data archive for workers using de .map to itereate over teh data base. not yet finished but I will post the code tomorrow. Did more than an hour on this today. 
 
 **Thoughts** happy!
 
-### day 9: March 22th, 2024
+### day 9: March 22nd, 2024
 
 **Today´s Progress:** Today I´ve spent quite some time going over `arrays` in javaScript with some cool excercises from Leanrpack at #4geeksacademy.
 In addition to that I kept working on the map function on using a list o objects to create a list. 
 
 **Thoughts** As I was going through the array´s excercises I realize I know understand almost everything that´s happening inside the loop and how it is being called. 
+
+### day 10: March 23rd, 2024
+
+**Today´s Progress:** I skippede this day. Had to spend time with my family doing things. So Day 11th, I´m doing a lot more.
+
+### day 11: March 24th, 2024
+
+**Today´s Progress:** I am already two hours into reading material and making excercies. Now I´m redoing the functions excercise from the prework for full stack dev. 
+
+**Thoughts** It was good having a break yesterday and today having a lot of time to work on code
