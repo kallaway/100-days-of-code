@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        if(s.empty()){
+            return 0;
+        }
+        int n = s.size();
+        int ans =0;
+        unordered_map<char,int>mp;
+        int i =0,j=0;
+        while(j<n){
+            if(mp.find(s[j])!=mp.end()){
+    // we will update the i to the index where we found this repeating element, i.e one
+    // one index next then exact 
+                i = max(i,mp[s[j]]);
+            }
+    // and now we have updated i so calculate the length now
+            ans = max(ans,j-i+1);
+            mp[s[j]]=j+1;
+            j++;
+        }
+        return ans;
+    }
+};
