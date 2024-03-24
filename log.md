@@ -8,4 +8,10 @@
 
 **Link(s) to work**: [Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-33)
 
+### Day 2: March 24, 2024
 
+**Today's Progress**: Worked on the technical-documentation-page project on FCC.
+
+**Thoughts**: Finished in the morning 1-hour routine. Completed the user stories requirement and found the documentation that I want to do. It is a rust documentation to introduce myself to something new. The basic layout is already laid-out like fixing the navbar on the left side of the screen. Going to plan how to position the navbar on smaller screens tomorrow. Feels great 🔥!
+
+**Link(s) to work**: [screenshot](https://drive.google.com/drive/u/1/folders/1xivHA0zpHcN4EDr4L787bqud1UGq5eqi)
