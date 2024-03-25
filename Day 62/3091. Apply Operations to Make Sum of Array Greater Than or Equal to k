@@ -1,0 +1,12 @@
+https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/
+class Solution {
+public:
+    int minOperations(int k) {
+        int minOperationsNeeded = INT_MAX;
+        for(int operations = 1; operations <= k; operations++) {
+            int groups = ceil(k / (operations * 1.0));
+            minOperationsNeeded = min(minOperationsNeeded, operations - 2 + groups);
+        }
+        return minOperationsNeeded;
+    }
+};
