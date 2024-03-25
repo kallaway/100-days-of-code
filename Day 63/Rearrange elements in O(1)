@@ -1,0 +1,7 @@
+for(int i =0;i<n;i++){
+  a[i] = a[i]+[(a[a[i]])%mx]*mx
+  }
+for(int i =0;i<n;i++){
+  a[i] = a[i]/n;
+  }
+return a[i];
