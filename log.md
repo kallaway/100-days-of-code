@@ -149,3 +149,12 @@ In addition to that I kept working on the map function on using a list o objects
 **Today´s Progress:** I am already two hours into reading material and making excercies. Now I´m redoing the functions excercise from the prework for full stack dev. 
 
 **Thoughts** It was good having a break yesterday and today having a lot of time to work on code
+
+### day 12: March 25th, 2024
+
+**Today´s Progress:** What a day of code! Today I managed to use the function `.map` to properly design a workers list with some interesting skils inside an `array` and display it both on a `<li>`and on `bootstrap cards`.
+It was super challenging to get the cards to lie in a row 3 per row, cause I wasn´t getting them inside the right `container` in the beggining, but "with a little help from my friends" at @4geeks cohort 65 🤘🏼 (you rock guys) exchanging ideas I got to do it. 
+
+![Iagen del triunfo](https://github.com/kamelmat/100-days-of-code/blob/master/Screenshot%202024-03-25%20at%2012.32.43.png?raw=true)
+
+**Thoughts** I am super happy, cause I can see I am making a lot of progress, I read my log 10 days ago and now and I am amazed how much I came through in 10 days.
