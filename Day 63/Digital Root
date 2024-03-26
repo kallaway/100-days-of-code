@@ -1,0 +1,21 @@
+lass Solution{
+  public:
+     int valid(int n){
+         if (n < 10) {
+            return n;
+        }
+        return n%10 + valid(n/10);
+    }
+    //Complete this function
+    int digitalRoot(int n)
+    {
+        //Your code here
+        int ans = valid(n);
+         if (ans<10 ) {  // If ans is already a single digit, return it
+            return ans;
+        }
+        else {
+            return digitalRoot(ans);  // Return the result of the recursive call
+        }
+       
+    }
