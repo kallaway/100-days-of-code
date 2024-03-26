@@ -158,3 +158,12 @@ It was super challenging to get the cards to lie in a row 3 per row, cause I was
 ![Iagen del triunfo](https://github.com/kamelmat/100-days-of-code/blob/master/Screenshot%202024-03-25%20at%2012.32.43.png?raw=true)
 
 **Thoughts** I am super happy, cause I can see I am making a lot of progress, I read my log 10 days ago and now and I am amazed how much I came through in 10 days.
+
+### day 13: March 26th, 2024
+
+**Today´s Progress:** Spent some time today diggin more into for loops and arrays for an excercise we have to do for the bootcamp, so I managed to get to make a domain generator using nested `for``loops`.
+It felt right to also put an image background and it reminded me of the classic and `most excellent movie *Bill % Ted´s bogus journey* where they meet the devil who says: *"choose your destiny"* so I had to style the image into the background of the body using `<style>`
+
+![Iagen del triunfo](https://github.com/kamelmat/100-days-of-code/blob/master/Screenshot%202024-03-26%20at%2019.21.28.png?raw=true)
+
+**Thoughts** I feel I´m making progress! 🦾
