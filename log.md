@@ -167,3 +167,10 @@ It felt right to also put an image background and it reminded me of the classic 
 ![Iagen del triunfo](https://github.com/kamelmat/100-days-of-code/blob/master/Screenshot%202024-03-26%20at%2019.21.28.png?raw=true)
 
 **Thoughts** I feel I´m making progress! 🦾
+
+### day 14: March 27th, 2024
+
+**Today´s Progress:** I spent more than an hour today in the domain generator in order to include more domains `.es, .edu, .org, etc` ⌨️ and finally inserted an `if`to make a `domain-hack`in case there is a "puedes" at the end, and turn it into **pued.es** (.es is the predominant domain for **Spain**).
+It took me a while but got it to work!
+
+**Thoughts** I am feeling more confortable, both solving things on my own as well as being more effective in asking google or Chat GPT when I get stuck.
