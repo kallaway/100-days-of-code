@@ -174,3 +174,13 @@ It felt right to also put an image background and it reminded me of the classic 
 It took me a while but got it to work!
 
 **Thoughts** I am feeling more confortable, both solving things on my own as well as being more effective in asking google or Chat GPT when I get stuck.
+
+### day 15: March 28th, 2024
+
+**Today´s Progress:** I´m falling in love with the `.map``function`.
+Yesterday in class we saw different approaches, and .map is my favorite, it makes it so simple. I spent over an hour today playing with a `function`to assign to 2 different arrays one in a map and I have been struggling for a longer period of time to try and get the outcome to reflect in a `card`
+
+![Iagen del triunfo](https://github.com/kamelmat/100-days-of-code/blob/master/Screenshot%202024-03-28%20at%2014.16.18.png?raw=true)
+
+**Thoughts** I am inclined to say, that I am really liking the possibilities of data analysis... not so sure if this goes that way, but I love making data lists and iterating through them to retrieve data. 
+
