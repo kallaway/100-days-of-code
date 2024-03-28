@@ -1,0 +1,25 @@
+https://www.naukri.com/code360/problems/frog-jump_3621012?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM
+#include <bits/stdc++.h> 
+
+int recur (int n,vector<int>&heights,vector<int>&dp){
+  if(n==0){
+    return 0;
+  }
+    if(dp[n]!=-1){
+      return dp[n];
+    }
+    int left = recur(n-1,heights,dp) + abs(heights[n] - heights[n-1]);
+    int right =INT_MAX;
+    // right tabhi calculate karenge jab at least 2 step to ho akhiri mein
+    if(n>1){
+       right = recur(n-2,heights,dp)+abs(heights[n]-heights[n-2]);
+    }
+     return dp[n] = min(left, right);
+}
+int frogJump(int n, vector<int> &heights)
+{
+    // Write your code here.
+    vector<int>dp(n+1,-1);
+    return recur(n-1,heights,dp);
+    
+}
