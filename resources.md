@@ -18,6 +18,8 @@
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
+3. [JavaScript30](http://javascript30.com)
+4. [100 Days CSS Challenge](https://100dayscss.com/)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
