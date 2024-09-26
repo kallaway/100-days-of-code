@@ -18,6 +18,11 @@
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
+3. [Javascript 30](https://javascript30.com/)
+4. [Daily UI Challenges](http://www.dailyui.co/)
+5. [30 Days of React](https://www.fullstackreact.com/30-days-of-react/)
+6. [Develop Facebook messenger bot using Javascript – Part 1](https://codingislove.com/build-facebook-messenger-bot-javascript/)
+7. [Build a telegram bot using node.js and heroku](mvalipour.github.io/node.js/2015/11/10/build-telegram-bot-nodejs-heroku)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
