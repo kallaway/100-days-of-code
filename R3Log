@@ -1,0 +1,443 @@
+Day XX
+April XX, 2019
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 91
+April 30, 2019
+
+Today's Progress: Processed data for the last few days.  Also added a NAICS code, went back through opportunities, found a few more interesting ones, and evaluated them.
+
+
+Thoughts: Hard to keep the momentum going without taking some real time off.  Need to do that soon to really start engaging in the topic modeling stuff.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 83
+April 22, 2019
+
+Today's Progress: More data ingest and some NLP research/reading.
+
+Thoughts: Making progress in learning and ingesting data.  I really need to take some time off to get coding.  I need several hours, maybe a couple of days.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 81
+April 20, 2019
+
+Today's Progress: More data ingest.  Productive and necessary, but boring.
+
+Thoughts: Still doing well, still taking time.  But I haven't been doing much coding.  Family and work constraints have made it difficult to have periods of time where I can focus.
+
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 77
+April 16, 2019
+
+Today's Progress: Did more ingest and evaluation.  
+
+Thoughts: Didn't do any tutorial stuff because work and family stuff got in the way.  But ingest and evaluation is important stuff.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 76
+April 15, 2019
+
+Today's Progress: More data ingest and review today, Python meetup tonight.
+
+Thoughts:   Looking forward to meeting some people.  I hope I can make some good connections and get some feedback and support for my goal.  This is a major leap, going from a reasonably mature Javascript proof of concept to an almost greenfield Python environment.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 75
+April 14, 2019
+
+Today's Progress: Reviewed more deals. 
+
+Thoughts:  Not getting many interesting "combine" type deals (2 of 45, about 5% and not a critical mass of deals).  Getting a lot more interesting "sources sought" deals (48 of 196, about 25% and approaching a critical mass with over a hundred oppirtunities remaining to be evaluated).
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 73
+April 12, 2019
+
+Today's Progress: More data ingest.  Getting to critical mass of data. 
+
+Thoughts: There's some good data in there, looking forward to building models.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 71
+April 10, 2019
+
+Today's Progress: Ingested new content daily, and evaluated a bunch of opportunities.
+
+Thoughts: Getting there.  Need to gather up the interesting deals, starting with the sources sought and presols.  Time for Python and AI.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 68
+April 7, 2019
+
+Today's Progress: Completed the ingest process and the process to tag ingested deals as interesting.  There's already a fairly large corpus of data, so I may not need to integrate the older deals into this data.  Next step is to get the data into Google Colab and the files onto Google drive, and start prepping my testing and training data sets.
+
+Thoughts: Great milestone!  Being able to ingest data daily and tag it is fantastic, and will be tremendously valuable over time.  I have a backlog of deals to tag, but overall I'm excited to be shifting from Javascript/HTML web app to AI.  Very much looking forward to doing some topic modeling.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 65
+April 4, 2019
+
+Today's Progress: Continued to design and refactor my ingest process and data.  
+
+Thoughts: Refactoring and getting the code working takes a lot of time.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 64
+April 3, 2019
+
+Today's Progress: Did a lot of thinking around the data design for my records coming from FBO.  Did a bunch of debugging and implemented my schema for the evaluation input queue.  It's set up for me to implement the downstream queues. 
+
+Thoughts: Now I just need to build my downstream collections.  Document structure is defined.  Then I need to get the workflow moving through and process all the files up to date.  Then I need to contact Gabe and see if he'll review for me.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 63
+April 2, 2019
+
+Today's Progress: Got the code working to read FBO files off GitHub, process, and write JSON records to MongoDB.  
+
+Thoughts: Some promise stuff and code cleanup to do, but a big milestone.  I'm learning this stuff.  Sometimes I second-guess the time I'm spending doing the code the right way, because if I used my old procedural process I might have gotten more data through the pipeline. But overall I think this is a more important learning experience.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 62
+April 1, 2019
+
+Today's Progress: Made some good progress refining my data ingest design, and got the debugger working.
+
+Thoughts: I got a lot less done than I thought I would, but at least I focused and got something done.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 60, 61
+March 31, 2019
+
+Today's Progress: Got my filename array loaded without using MongoDB.  MongoDB was not necessary and was causing bugs, but I thought I only had code for rendering web pages using MongoDB data.  I found that I had working code that renders from local variable data, and it worked great when I implemented it.  I also thought through the design for processing of each data file from an HTML perspective.
+
+Thoughts: Major progress.  I only spent a few minutes working through the code tonight.  In the past week, I'd spent hours on this and didn't see the answer.  A bit every day really helps.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 59
+March 29, 2019
+
+Today's Progress: Migrated the FBO filter code from my laptop Node.js to the Glitch Node.JS web server.  I'm also reading files from GitHub rather than local files.  I also refactored a bit from procedural to functional programming.
+
+Thoughts: It was a ton of work to get it into this form.  Lots of environment issues, refactoring issues, and Javascript functional issues.  Will be a bear to debug, but at least now it's in a solid structure and I just need to walk through and make each line of code work correctly.  I'm really getting a lot out of just doing the programming, learning, and optimizing as I go.  I hope I can get the Glitch debugger working.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 58
+March 28, 2019
+
+Today's Progress: Refined my code to download source data from FBO.  Ran my scripts to upload to GitHub.  
+
+Thoughts: I've uploaded it, it's ready to process, I just need to refactor and migrate the processing code into Glitch.  This will also require a fair amount of restructuring of my data in MongoDB.  But I have a good sense of what I want to do, I think MongoDB is straightforward and I can use shell commands to move my data around, and refactoring the code shouldn't be terribly difficult.  Just a lot of work.  But at the end of that process (I think in a few days) I'll have my Javascript workflow largely in place and will be focused mostly on Google Colab and Topic modeling.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 57
+March 27, 2019
+
+Today's Progress: Debugged FBO file name generator, created array of filenames, added to Glitch, learned some of the Glitch debugger.
+
+Thoughts: I couldn't get Glitch to execute my latest code changes.  There must be some way to force it to refresh, but I haven't found it.  It seems to want to run older code in some cases.  Then suddenly it starts running the new code.  Having said that, I made tremedous progress today.  I could make some serious progress by the weekend if I can commit time to this.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 56
+March 26, 2019
+
+Today's Progress: Figured out how to pull in data from environment variables so that I can hide secret data like credentials.  Also made progress on connecting data services, like Google Drive, to my environment. Did a detailed design of data flow so that I can start coding.  
+
+Thoughts: Current plan on next steps is to go through the data flow, step by step. Refactor each step as I go, for both data and code.  I may end up with data in multiple places, but I think I can fix it on the fly using Mongo shell commands.  If I screw up, I've got the ability to regenerate data.  I need to really focus on a meaningful workflow so that I can show this to people.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 55
+March 25, 2019
+
+Today's Progress: I connected Google Colab to MongoDB on mLab!  Huge breakthrough, just as I'd given up and decided to ask for help.  Now I can complete the tutorial and really start developing my AI solution.  I need to get the URLs for interesting deals into colab, use Python and shell commands to set up folders in Google Drive, and create csv files or equivalent for the topic modeling that I need to do.  Then I can start building models.
+
+Thoughts: There's a triPython meetup next Tuesday.  I really want to have enough together to show people what I'm doing. Just to get people familiar and engaged.  I'm not expecting anything huge in terms of people wanting to work with me, but I want to hold myself accountable for leaning into the idea of presenting my idea (rough as it is today) to anyone who will listen.  Then get feedback, not only on my project itself, but on my presentation and messging.  All the pieces are connected now, so it's time to get serious.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 54
+March 24, 2019
+
+Today's Progress: Made progress  over the last several days getting my data flows working.  MongoDB was already connected to my Javascript environment. Got Google Drive connected to my Google colab environment.  Trying to get my MongoDB environment connected to Google colab.  If I can get that, I'll be in great shape with data flow.
+
+Thoughts: I've been working almost every day, but haven't been updating this daily log or tweeting daily.  But I know I'm getting close.  The data flow stuff kind of sucks, because it's uninteresting and complicated.  It's the plumbing.  But I need to get it working to get to the good stuff.  I have to keep in mind that this is the learning experience, and that's why I'm doing all this.  Once I know it, it will broaden my understanding by a lot.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 48
+March 18, 2019
+
+Today's Progress: Made a couple of different attempts to use FTP with javascript.  Succeeded in downloading and opening files on my local machine using the FTP url in HTML code.  
+
+Thoughts: Didn't accomplish much, but it's a start.  Maybe I can open those files directly from the FTP server, or move them to another server (like Google drive).  Need to keep working on it.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 40
+March 10, 2019
+
+Today's Progress: Started redesigning my back-end database and UIs, based on trying to get better performance and controlling my datasets.  Instead of keeping all of my data in one table, regardless of state, I'm moving from one to another.  I'm hoping this will allow me to grab data by state/type, rather than do lots of complex searches through the entire dataset.
+
+Thoughts: We'll see if it works.  I think I have enough mastery of MongoDB to reswizzile if this doesn't work.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 39
+March 9, 2019
+
+Today's Progress: Went to a meetup for Javascript.  Met up with Peter Elbaum, asked him about how to put Javascript functions in files external to server.js.  He gave me a way to do it, and I was able to successfully implement.  
+
+Thoughts: Now I can refactor and migrate my Javascript code from my mac.  That code is the filter and ingest code.  So now I can integrate between the FBO site and my Glitch app for evaluating opportunities.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 38
+March 8, 2019
+
+Today's Progress: Did tutorials on scikit-learn and Python.
+
+Thoughts: Good learning experience.  Doesn't really change my approach but gets me a bit deeper into Python and the environment I want to program in.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 37
+March 7, 2019
+
+Today's Progress: Did tutorials in Google colab.  Also added two tutorials to my Safari playlist.  Need to review.
+
+Thoughts: Designing the AI environment with the end state in mind is key.  I'm amazed that Google Colab offers free GPU built in.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 36
+March 6, 2019
+
+Today's Progress: Made some progress on pulling files from web pages, storing them in Google drive, pulling the raw text from them, refactoring my javascript code to ingest the data and work with Google docs, and using Google Colab for Python and AI development.  Haven't done much coding but did a lot of research and design.
+
+Thoughts: I've actually done a fair amount of work over the last week but haven't been updating the log or posting to Twitter.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 29
+February 27, 2019
+
+Today's Progress: Reviewed more opportunities - presolicitation notices - and came up with several good opportunities to add to the training data set.
+
+Thoughts: Heavy work load today, and heavy head cold.  But I got some stuff done.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 28
+February 26, 2019
+
+Today's Progress: Added some routes to my nodejs app and evaluated more opportunities to see if they were interesting.  Also reviewed data and attachments and established that I may want to read data files.  Also researched using Python Beautiful soup for reading attached files, and researched how to invoke python scripts from inside nodejs.
+
+Thoughts: I have a lot of work left to do before this application does workflow.  However, I really can start to move into the realm of Python and AI training.  I need to get better at it.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 27
+February 25, 2019
+
+Today's Progress: Improved the interfaces on opportunity summary and evaluation pages.  Reviewed lots of PRESOLs to identify candidates for my AI test and training datasets.
+
+Thoughts: As I start really looking through these, I don't see a lot of difference between the PRESOLs and SRCSGTs.  Many seem to be RFI-type things with attachments.  Attachments may be large and complex (e.g. SOWs) or small and simple.  But in many cases, the valuable content to drive workflow is in those documents.  I may have to build models based on those attachment files instead of the decription fields.  There are only a few total opps per day, so it may be straightforward to copy/paste the interesting opportunities into a workflow model.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 26
+February 24, 2019
+
+Today's Progress: Got my routes working to review and evaluate opportunities.  The coding was hard and I'm proud of myself for getting there.  Evaluated a bunch of deals, code seems to be working well.  Improved some UIs.
+
+Thoughts: Will continue to test, and will continue to evaluate opportunities.  Need to build lots more routes, especially to view interesting deals.  Need to improve UIs and develop some partials and templates so that I can work with PRESOLS, SRGSGTs, and COMBINES.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 25
+February 23, 2019
+
+Today's Progress: Figured out how to write 'isInteresting' key value pair to the database.  Took a lot of time, but I learned a tremendous amount about the context of my code.
+
+Thoughts: This stuff is so complex.  I hope I can internalize it because it seems very foreign right now and it feels like there are a thousand syntax issues that I don't understand that all have to be perfect for me to get this to work.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 23, 24
+February 22, 2019
+
+Today's Progress: Made significant progress today in reading in opportunity data, assessing whether the opportunity is interesting or not (for purposes of testing vs training data sets).  As much progress as I made, there's still a lot of work to do.  But the good news is that I'm heads-down coding.
+
+Thoughts: Feels good to be coding steadily.  I got some other things done today as well, like a hard workout, laundry, household stuff.  So a very productive day.  I say that because it feels like I'm starting to realize that this road is longer than I thought it was.  So even though I've made it a fair distance, I'm not as close to the end as I'd hoped to be.  I need to take credit for distance from the starting line, not be disappointed by expectations of reaching the finish line.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 22
+February 20, 2019
+
+Today's Progress: Studied MongoDB and designed the way I'm going to access my MongoDB content for my app.
+
+Thoughts: I think I have a copiable, repeatable approach that kind of provides a useful UI.  Will implement, see if it works well, then refactor if necessary.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 21
+February 19, 2019
+
+Today's Progress: Did tutorial to read, write, and edit MongoDB records using Express.  Followed along and wrote the code for the tutorial rather than trying to use the tutorial to edit my data.  I'm glad I did because it was very tricky.  I got it working typing exactly what the tutorial said. So now I have working code to start from.  
+
+Thoughts: Very tricky to update.  Wow, this is going to be tough to get working.  I will have to focus hard on it.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 20
+February 18, 2019
+
+Today's Progress: Designed the input code, deleted some old tutorial and template code, added some buttons to the Validate field.  THought through how to refactor my code.
+
+Thoughts: I'm going to need to spend some time really digging through my code and getting my code working in a full stack program environment rather than in code modules.  New kind of programming for me but exciting to be at a point where I can do this kind of development.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 19
+February 17, 2019
+
+Today's Progress: Got all of my old PRESOL, SRCSGT, and COMBINE data into MongoDB.  Pulled new data from FBO, processed it, and added it to the MongoDB records.  
+
+Thoughts: Now to create a daily update page, and then a deal scoring page.  I also need to clean up my file storage (and the node.js code) in GitHub.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 18
+February 16, 2019
+
+Today's Progress: Figured out how to write out one PRESOL record to MongoDB
+
+Thoughts: That is a huge milestone. Getting my data accessible in MongoDB and usable in Glitch is a critical skill for a full stack developer.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 13-17
+February 15, 2019
+
+Today's Progress: Slowly reconnecting after a crazy work and travel schedule.  Haven't coded for several days but getting back to where I understand where I am and what I need to do next.
+
+Thoughts: I would love to spend several hours tomorrow.  Can't make up all the time I lost in one day but I can definitely make progress.  And I've been making lots of giant steps when I work on this stuff.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 12
+February 10, 2019
+
+Today's Progress: Attended a meetup.  AI discussion on mixup: Beyond Empirical Risk Minimization.  
+
+Thoughts: Still haven't been able to get to coding.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 11
+February 08, 09, 2019
+
+Today's Progress: Didn't have time to code but was able to spend some time reading AI white papers.
+
+Thoughts: Need to get back to coding before I lose momentum
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 09
+February 06, 07, 2019
+
+Today's Progress: Designed my approach to ingesting managing my input data in my MongoDB environment.
+
+Thoughts: I did this in the car yesterday on the way up to VA.  I wasn't able to write anything down but it helped to think trhough what I was doing.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 07
+February 05, 2019
+
+Today's Progress: Got records posted to MongoDB (yesterday), and read JSON files from GitHub repo.  So now I can kind of get my data into my app, and then store it in MongoDB
+
+Thoughts:   More work to go to get my data populated, then figure out the best way to update daily with each new file.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 06
+February 04, 2019
+
+Today's Progress: Built HTML forms in Glitch using Bootstrap, validated inputs, put values entered from forms into object variables.
+
+Thoughts: Good progress.  Next comes storing them in the MongoDB database, which is the real milestone.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 05
+February 03, 2019
+
+Today's Progress: Attended an AI meetup on reviewing technical papers.  Read two papers, one on reading papers, one on using pre-created datasets for NLP.  At silks, defined my schemas for my FBO data types, and did some coding of drop-down menus. 
+
+Thoughts: Good progress today.  I really need to start developing my UI design for my app.  It's becoming critical to keep up with the things that the tutorial is doing.  Need to sketch out some interface components.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 04
+February 02, 2019
+
+Today's Progress: Added a ton to my application framework.  Added Bootstrap and created a nav bar.  Created partials in Handlebars to plug in partial web pages into master web page format.  Added dev and prod MongoDB databases.  Connected to the Dev database, including connection validation and error trapping on failure.  Created and instantiated a schema.  Used Glitch env feature to create variables to hide my DB credentials.  Fully backed up to GitHub with a pull request, including commit comment.  So productive and the code worked perfectly.  I even had some MongoDB warning messages come up, and I was able to remove them by following the instructions and adding code.
+
+Thoughts: Hugely productive day, and it's so exciting to be building my actual app.  I've really used the tutorial to build my application, rather than building the tutorial app.  It's been fantastic so far.  All my code has worked, and I'm building my real opportunity app.  I love it.  Step by step, I'm creating what I need as I learn.  
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 03
+February 01, 2019
+
+Today's Progress: Didn't have a chance to code, but I did some reading research, and thinking about my code.
+
+Thoughts: I had a very full day, with work, exercise, helping my kids study, date night, and other things that popped up during the day.  But I accomplished so much, not coding was a deliberate choice because I knew I'd do multiple hours over the weekend.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 02
+January 31, 2019
+
+Today's Progress: Got handlebars working in my code, and added basic template code plus all the code to render the routes to the various parts of my deal scorecard.
+
+Thoughts: So excited to get the handlebars code working in Glitch.  Was much easier than I expected.  Can't wait to keep going - Bootstrap is next.  I'm rusty at it but am excited to pick it back up now that I have a good use for it.  Definitely feeling like this code is part of my real deal scorecard app.
+
+Link to work: https://fbo-scorecard.glitch.me/
+
+Day 01
+January 30, 2019
+
+Today's Progress: Added middleware routes to my code.  Tested them and they work.  Also started round 3 so set up this log file.
+
+Thoughts: Had a little trouble with Glitch, couldn't load it for a while.  But got my code updated and tested.  Successful day, and I'm documenting in case this is all I do, but feeling excited and motivated, may try to install handlebars tonight.  Also, how cool is it that I have a link to work that doesn't say N/A.  I'm building not taking tutorials, feels great.
+
+Link to work: https://fbo-scorecard.glitch.me/
+

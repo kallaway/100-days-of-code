@@ -1,0 +1,199 @@
+Day XX
+August XX, 2020
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: http://localhost:3000/
+
+Day 41-46
+August 7-12, 2020
+
+Today's Progress: Over the last several days, I've implemented simple tagging in my code, refined my data structure, implemented inputs from users.  All minor enhancements from a coding standpoint but with significant impact.  Need to make some significant changes to data schema soon.  Also did an AWS Lambda course.
+
+Thoughts: Hard to code every day, and hard to update every day.  But my code is useful and the progress is feeling organic.  I just need to keep pushing and I'll be stunned in a couple of months how much progress I'll have made.
+
+Link to work: http://localhost:3000/
+
+Day 37-40
+August 3-6, 2020
+
+Today's Progress: I've added a few more features to my code, refined my data schema, and reviewed it with several people who are potential users.  I got good feedback, but we need to just use it for a while and see what the next set of enhancements turn out to be
+
+Thoughts: My regular work is crazy this week, but I'm still trying to find time to code.  I'm adding a number of new processes to make my work more effective, but I should still carve out coding time.
+
+Link to work: http://localhost:3000/
+
+Day 35-36
+August 1-2, 2020
+
+Today's Progress: Built my compliance reports and did some really effective formatting of the app screens I'd already built.  Very successful and I feel like I have a fairly robust version 1.0.  
+
+Thoughts: I have plenty to build on. I have lots more I can expand into, especially on the AWS back end.  I really need to push hard into that.  And I also need to refocus on the MERN stack.
+
+Link to work: http://localhost:3000/
+Day 32-34
+July 28-31, 2020
+
+Today's Progress: Kept plugging away at my @Honeycode app.  Got my data structured into tables and built a couple of summary/detail/edit/delete views.  
+
+Thoughts: I've been coding but not posting. I have to get better at posting daily.
+
+Link to work: http://localhost:3000/
+Day 30-31
+July 27-28, 2020
+
+Today's Progress: Cleaned up data and reformatted screens on my @Honeycode app.  Also reviewed it with a colleague.
+
+Thoughts: Felt like it took forever but I made good progress organizing my code.
+
+Link to work: http://localhost:3000/
+Day 23-29
+July 20-26, 2020
+
+Today's Progress: Totally got immersed in @Honeycode.  Built my first app and it was easy and powerful once I got the hang of it.  Looking forward to connecting my data to AWS services on the back end.  Definitely coming back to #MERN but love the high-impact, low effort of Honeycode.
+
+Thoughts: I haven't been posting but I have been coding.  Didnt' code much during the week but spent massive time learning Honeycode and designing my app, data ingest and cleansing, and learning different features and implementation techniques.
+
+Link to work: http://localhost:3000/
+
+Day 19-22
+July 16-19, 2020
+
+Today's Progress: I haven't posted in a few days, but I've been coding.  Spent a good amount of time over the weekend learning @honeycode and doing my #MERN stack tutorial. 
+
+Thoughts: It is really difficult to do all the things I want to do every day.  I've been good at exercising but not eating well, or productive at work but not spending time with the kids.  It's a difficult balance.  Given that, learning two programming environments at a time is probably not the brightest idea, but I'm making progress and trying to fail forward.
+
+Link to work: http://localhost:3000/
+
+Day 18
+July 15, 2020
+
+Today's Progress: Worked on my @Honeycode app.  Made some progress, learned a bit.  I have a ways to go, will have to do this alongside my @REACT coding.
+
+Thoughts: I really need to focus on this automation stuff if I'm going to make progress.  Nothing's easy to learn, but it will be powerful when I am able to be productive with it.
+
+Link to work: http://localhost:3000/
+Day 17
+July 14, 2020
+
+Today's Progress: Didn't do #MERN stack development.  Did a tutorial in @Amazon @Honeycode instead.  Back to #REACT and the #MERN stack tomorrow.
+
+Thoughts: I think Honeycode is going to be really useful.  I'm ready to use it to be productive.  The data flow is becoming more clear.  At some point soon, I need to start documenting my approach.
+
+Link to work: http://localhost:3000/
+
+Day 16
+July 13, 2020
+
+Today's Progress: Today was my oldest son's 18th birthday, so I didn't do as much coding as wanted. But I did build a sign-in screen for my #React client.
+
+Thoughts: Strong work day so I didn't have a lot of energy for coding.  The good news is I'm no longer intimidated, more just trying to keep up with (and sometimes get a little ahead of) the coding in the tutorial.
+
+Link to work: http://localhost:3000/
+
+Day 13-15
+July 10-12, 2020
+
+Today's Progress: I haven't been journaling but I have been getting work done.  Worked on designing an app for a beta product at work, and continued my #MERN stack programming by building data validity tests for form data entry and API submission error handling.
+
+Thoughts: Definitely got at least three hours in the last three days.  I'm starting to get past the feeling of being overwhelmed by the complexity of React and the MERN stack.  The repetition of building and the really good structure that the tutorial has provided has allowed me to start to feel a sense of control.  It's going to be a long time before I'm comfortable, let alone fluent, but I really feel like mastering this, plus getting a couple more AWS certifications, is going to allow me to do some amazing projects.  The amount of work that one person can accomplish by learning this is kind of astounding.
+
+Link to work: http://localhost:3000/
+
+Day 12
+July 09, 2020
+
+Today's Progress: Successfully buit the POST request to add a record to the database, set up Cloudinary to hold my image data and successfully uploaded the record there as well. 
+
+Thoughts: I'm making tactical progress and am impressed with myself that I can debug a little.  Some of the API logic is making sense to me, and I guess I'm getting sort of accustomed to the asynchronous function calls.  But I'm definitaly a long way from writing code on my own.
+
+Link to work: http://localhost:3000/
+Day 11
+July 08, 2020
+
+Today's Progress: Built a form to add a product to my database, and validate all of the form data in the #React client. Tomorrow I'll work on the transfer into #MongoDB.
+
+Thoughts: I'm getting a little concerned because I'm not internalizing how to create these React components.  The code is so asynchronous, and so complex, and so tightly integrated.  Coding the MERN stack seems more an exercise in memorizing and researching functional attributes, and less about logic and data flow.  It's a real challenge, but if I'm honest I understand that it's how modern code works.  It's a longer learning curve for me because I don't have as much background in functional programming.  But that's the challenge, because if I learn it I'll be many times more powerful as a developer than if I stick to the old way.
+
+Link to work: http://localhost:3000/
+
+Day 10
+July 7, 2020
+
+Today's Progress: I was exhausted today, didn't write code but studied some of the libraries included in my tutorial to better understand their functionality.
+
+Thoughts: Really tired today but I'm still averaging way over an hour a day.
+
+Link to work: http://localhost:3000/
+
+Day 09
+July 06, 2020
+
+Today's Progress: Built a form to add a product to my store.  It included some intelligent form functionality from #React.  
+
+Thoughts: I definitely don't understand it at a detailed level, but I'm getting a a good sense of it.  With any luck, I'll be able to build forms by imitating what i'm seeing and can get a deeper understanding while I'm building useful apps.  I'll admit it's looking a bit daunting right now
+
+Link to work: http://localhost:3000/
+
+Day 08
+July 05, 2020
+
+Today's Progress: Created the capability on my app to delete a record from the MongoDB database (with an 'are you sure?' modal.
+
+Thoughts: It makes a little more sense every day, and I'm trying to value the time I take to do outside reading to learn about and internalize the structure and various components and packages that I'm using.  I know all that stuff is important, and it keeps my thoughts from swirling.  The best idea is to take time to examine each component that interests me, do a little research, and try to explain it to a non-technical person.  If I can explain it at that level, I understand its function and value in my overall project.  That way, as I get better at this and am building my own stuff, I can better recall (or at least search my notes) to find and incorporate the components I need in my project.
+
+Link to work: http://localhost:3000/
+
+Day 07
+July 04, 2020
+
+Today's Progress: Made progress on my tutorial, creating formatted detailed product pages with data from MongoDB.
+
+Thoughts: This environment is amazing but has a lot of moving parts. It's going to take a long time for me to master using this environment.
+
+
+Day 06
+July 03, 2020
+
+Today's Progress: Built my first React API, connected to a MongoDB service on #AWS, built a responsive product catalog view using Semantic UI.  All tutorial stuff, but I learned a lot.  Had to do some debugging but got everything working in the end.
+
+Thoughts: I'm definitely gaining momentum.  Success in making the code work, the applicability of the code I'm building, and the realization that this is designed for API and serverless architectures is motivating me to go faster.  Right now I take breaks to internalize each lesson. If I push myself to do more, and just power through a bunch of lessons, will it make me smarter and give me usable code more quickly, or will I not absorb the concepts and end up slowing myself down in the long run.  In other words, am I taking breaks out of fear and rationalizing that I need to internalize the lessons?
+
+Day 05
+July 02, 2020
+
+Today's Progress: Continued with the MERN stack program.  Got a progress bar and highlighted tabs working, pulled a JSON file into my client side code, and wrote my first GET request.
+
+Thoughts: I hope this entire environment makes as much sense to me as these first lessons have.  If so, I'm really going to love React.
+
+Day 04
+July 01, 2020
+
+Today's Progress: Finished setting up my nav bar, including logic for which tabs to show when a user is logged in vs anonymous user.  
+
+Thoughts: So far React works the way my brain works, much more than raw HTML, JavaScript, etc.
+
+Day 03
+June 30, 2020
+
+Today's Progress: Got my react project working on my laptop.  Explored how to use NextJS and the Semantic UI React Library.  
+
+Thoughts: Looks very powerful, can't wait to start building.  I always feel like when I install new stuff, it won't work.  But, with a couple of minor issues, it did.  I love that the code is hot-loaded out of the box, so that I save my file and the browser shows the update.
+
+Day 02
+June 30, 2020
+
+Today's Progress: Watched the intro to my udemy course. Downloaded React and javascript docs that described key principles of both.  Also reviewed articles on promises and closures.  
+
+Thoughts: Time flew and it seems like I already have everything installed that I need to be installed.  I'm glad that I started a new public coding challenge, it really did make a difference.  Crazy how that works, and I only hope that I have the energy to make it far enough into it to carry me through.
+
+
+Day 01
+June XX, 2020
+
+Today's Progress: Set some coding goals, including learning the MERN stack.  Watched a REACT hooks pair-programming session on Twitch.TV.
+
+Thoughts: It's been kind of a long layoff.  But I'm ready to commit to coding for the next 100 days.  I feel like I'm in a good position to make material progress on my project.
+
