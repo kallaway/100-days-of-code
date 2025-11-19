@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>100 Days of Code - AI & Open Source Edition</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>100 Days of Code</h1>
+            <p class="subtitle">AI-Enhanced Open Source Journey</p>
+            <div class="progress-container">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <p class="progress-text" id="progressText">0 / 100 days completed</p>
+            </div>
+        </header>
+
+        <div class="controls">
+            <button id="startButton" class="btn btn-primary">Start Challenge</button>
+            <button id="resetButton" class="btn btn-secondary">Reset Progress</button>
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="unlocked">Unlocked</button>
+                <button class="filter-btn" data-filter="locked">Locked</button>
+                <button class="filter-btn" data-filter="completed">Completed</button>
+            </div>
+        </div>
+
+        <div class="welcome-screen" id="welcomeScreen">
+            <div class="welcome-content">
+                <h2>Welcome to the 100 Days of Code Challenge!</h2>
+                <p>This challenge combines the power of AI tools with open source contribution skills.</p>
+                <p>Each day unlocks after 24 hours, building your skills progressively.</p>
+                <ul class="welcome-features">
+                    <li>📅 One new challenge unlocks every 24 hours</li>
+                    <li>🤖 Learn to use AI as your coding partner</li>
+                    <li>🌟 Contribute to open source projects</li>
+                    <li>📈 Track your progress and mark completed tasks</li>
+                    <li>💪 Build consistent coding habits</li>
+                </ul>
+                <button id="startChallengeButton" class="btn btn-large">Begin Your Journey</button>
+            </div>
+        </div>
+
+        <div class="cards-grid" id="cardsGrid">
+            <!-- Cards will be generated here by JavaScript -->
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>Built with 💜 for developers learning to combine AI with open source</p>
+        <p class="footer-links">
+            <a href="https://github.com/kallaway/100-days-of-code" target="_blank">Original Challenge</a> •
+            <a href="rules.md">Rules</a> •
+            <a href="resources.md">Resources</a>
+        </p>
+    </footer>
+
+    <script src="prompts.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
