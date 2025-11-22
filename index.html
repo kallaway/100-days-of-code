@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
     <title>Start Page - Personal Dashboard</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍽️</text></svg>">
     <link rel="stylesheet" href="styles.css">
@@ -187,20 +188,6 @@
                 <div class="habits-grid" id="habitsGrid"></div>
             </div>
 
-            <div class="widget">
-                <div class="widget-title">
-                    <span>🎯</span>
-                    Long Term Goals
-                </div>
-                <div class="widget-content">
-                    <div class="goals-list" id="goalsList"></div>
-                    <div class="add-goal-section">
-                        <input type="text" class="goal-input" id="goalInput" placeholder="Add a long term goal...">
-                        <button class="goal-add-btn" id="addGoalBtn">+</button>
-                    </div>
-                </div>
-            </div>
-
             <div class="journal-prompt">
                 <div class="journal-prompt-title">
                     <span>✍️</span>
@@ -217,7 +204,7 @@
             <div class="widget">
                 <div class="widget-title">
                     <span>🌤️</span>
-                    Weather - Hartford, CT
+                    Weather - New Haven, CT
                 </div>
                 <div class="widget-content">
                     <div class="weather-info">
@@ -230,6 +217,20 @@
                     <div style="font-size: 0.8rem; color: #64748b;">
                         <div>Feels like <span id="feelsLike">--°</span></div>
                         <div>Humidity: <span id="humidity">--%</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>🎯</span>
+                    Long Term Goals
+                </div>
+                <div class="widget-content">
+                    <div class="goals-list" id="goalsList"></div>
+                    <div class="add-goal-section">
+                        <input type="text" class="goal-input" id="goalInput" placeholder="Add a long term goal...">
+                        <button class="goal-add-btn" id="addGoalBtn">+</button>
                     </div>
                 </div>
             </div>
@@ -249,13 +250,6 @@
                     </div>
                     <div class="site-status-item">
                         <div style="display: flex; align-items: center;">
-                            <div class="status-indicator status-checking" id="zzzBlogStatus"></div>
-                            <span>ZZZ Blog</span>
-                        </div>
-                        <span style="font-size: 0.8rem;" id="zzzBlogResponseTime">--ms</span>
-                    </div>
-                    <div class="site-status-item">
-                        <div style="display: flex; align-items: center;">
                             <div class="status-indicator status-checking" id="haddonStatus"></div>
                             <span>Haddon World</span>
                         </div>
@@ -270,10 +264,10 @@
                     </div>
                     <div class="site-status-item">
                         <div style="display: flex; align-items: center;">
-                            <div class="status-indicator status-checking" id="bwompZineStatus"></div>
-                            <span>Bwomp Zine</span>
+                            <div class="status-indicator status-offline" id="newHavenClothingStatus"></div>
+                            <span>New Haven Clothing Co</span>
                         </div>
-                        <span style="font-size: 0.8rem;" id="bwompZineResponseTime">--ms</span>
+                        <span style="font-size: 0.8rem;" id="newHavenClothingResponseTime">--</span>
                     </div>
                 </div>
             </div>
@@ -390,40 +384,6 @@
                 </div>
                 <div class="widget-content">
                     <div class="reddit-posts" id="redditPosts">Loading hot posts...</div>
-                </div>
-            </div>
-        </div>
-
-        <div class="rss-section">
-            <div class="rss-header">
-                <div class="rss-title-section">
-                    <span style="font-size: 1.5rem;">📰</span>
-                    <h2 class="rss-title">Latest News</h2>
-                </div>
-                <div class="rss-controls">
-                    <button class="rss-manage-btn" id="toggleRssManager">⚙️ Manage Feeds</button>
-                </div>
-            </div>
-
-            <div class="rss-manager" id="rssManager">
-                <div class="rss-manager-header">
-                    <h3>RSS Feed Management</h3>
-                </div>
-                <div class="add-feed-section">
-                    <input type="text" class="feed-input" id="feedUrlInput" placeholder="Enter RSS feed URL...">
-                    <input type="text" class="feed-name-input" id="feedNameInput" placeholder="Feed name...">
-                    <button class="feed-add-btn" id="addFeedBtn">+ Add Feed</button>
-                </div>
-                <div class="current-feeds" id="currentFeeds"></div>
-            </div>
-
-            <div class="rss-content" id="rssContent">
-                <div style="text-align: center; color: #94a3b8; padding: 40px 20px;">
-                    <div style="font-size: 2rem; margin-bottom: 15px;">📡</div>
-                    <div>Loading diverse news feeds...</div>
-                    <div style="font-size: 0.9rem; margin-top: 10px;">
-                        Fetching articles from your selected sources
-                    </div>
                 </div>
             </div>
         </div>

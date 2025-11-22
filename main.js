@@ -9,6 +9,7 @@ loadWeather();
 loadRSSFeeds();
 loadQuoteOfTheDay();
 loadWordOfTheDay();
+loadJournalPrompt();
 checkSiteStatus();
 
 setInterval(loadWeather, 600000);

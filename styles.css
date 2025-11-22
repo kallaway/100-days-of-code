@@ -235,6 +235,53 @@
             color: #94a3b8;
         }
 
+        .goals-list {
+            margin-bottom: 15px;
+        }
+
+        .goal-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px;
+            background: rgba(51, 65, 85, 0.3);
+            border-radius: 6px;
+            margin-bottom: 8px;
+            color: #cbd5e1;
+        }
+
+        .goal-delete-btn {
+            background: none;
+            border: none;
+            color: #ef4444;
+            cursor: pointer;
+            font-size: 1.2rem;
+            padding: 0 5px;
+        }
+
+        .add-goal-section {
+            display: flex;
+        }
+
+        .goal-input {
+            flex: 1;
+            background: rgba(51, 65, 85, 0.5);
+            border: 1px solid rgba(148, 163, 184, 0.2);
+            border-radius: 6px 0 0 6px;
+            padding: 8px;
+            color: #e2e8f0;
+            outline: none;
+        }
+
+        .goal-add-btn {
+            background: #3b82f6;
+            border: none;
+            color: white;
+            padding: 0 12px;
+            border-radius: 0 6px 6px 0;
+            cursor: pointer;
+        }
+
         .folder-card {
             background: linear-gradient(135deg, rgba(71, 85, 105, 0.4), rgba(51, 65, 85, 0.6));
             border-radius: 15px;

@@ -61,7 +61,6 @@ function resetPomodoro() {
 async function checkSiteStatus() {
     const sites = [
         { name: 'blog', url: 'https://bigjoesfullplate.com', elementId: 'blogStatus', timeId: 'blogResponseTime' },
-        { name: 'zzzBlog', url: 'https://zzz.bigjoesfullplate.com', elementId: 'zzzBlogStatus', timeId: 'zzzBlogResponseTime' },
         { name: 'haddon', url: 'https://haddonworld.xyz', elementId: 'haddonStatus', timeId: 'haddonResponseTime' }
     ];
 
@@ -132,7 +131,7 @@ async function loadWordOfTheDay() {
 // Weather API
 async function loadWeather() {
     try {
-        const response = await fetch('https://api.open-meteo.com/v1/forecast?latitude=41.7658&longitude=-72.6734&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code&temperature_unit=fahrenheit&timezone=America/New_York');
+        const response = await fetch('https://api.open-meteo.com/v1/forecast?latitude=41.31&longitude=-72.92&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code&temperature_unit=fahrenheit&timezone=America/New_York');
         const data = await response.json();
 
         const temp = Math.round(data.current.temperature_2m);
@@ -205,11 +204,11 @@ function updateTimeZones() {
 // Save notes to memory
 function saveNotes() {
     const notes = document.getElementById('quickNotes').value;
-    window.userNotes = notes;
+    localStorage.setItem('quickNotes', notes);
 }
 
 function loadNotes() {
-    const notes = window.userNotes || '';
+    const notes = localStorage.getItem('quickNotes') || '';
     document.getElementById('quickNotes').value = notes;
 }
 
@@ -228,3 +227,88 @@ document.addEventListener('DOMContentLoaded', function() {
         notesTextarea.addEventListener('input', saveNotes);
     }
 });
+
+// Journal Prompt
+function loadJournalPrompt() {
+    const prompts = [
+        "What are you grateful for today?",
+        "What's one thing you want to accomplish today?",
+        "How are you feeling right now, and why?",
+        "What's something that made you smile recently?",
+        "Describe a challenge you're currently facing.",
+        "What are you looking forward to this week?",
+        "What's a recent win, big or small?",
+        "If you could give your past self some advice, what would it be?",
+        "What's a new thing you'd like to learn?",
+        "Describe your ideal day."
+    ];
+    const prompt = prompts[Math.floor(Math.random() * prompts.length)];
+    const promptElement = document.getElementById('journalPromptText');
+    if (promptElement) {
+        promptElement.textContent = prompt;
+    }
+}
+
+// Long Term Goals
+document.addEventListener('DOMContentLoaded', () => {
+    loadGoals();
+
+    const addGoalBtn = document.getElementById('addGoalBtn');
+    if (addGoalBtn) {
+        addGoalBtn.addEventListener('click', addGoal);
+    }
+
+    const goalInput = document.getElementById('goalInput');
+    if (goalInput) {
+        goalInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                addGoal();
+            }
+        });
+    }
+});
+
+function loadGoals() {
+    const goalsList = document.getElementById('goalsList');
+    const goals = JSON.parse(localStorage.getItem('longTermGoals')) || [];
+
+    if (goalsList) {
+        goalsList.innerHTML = '';
+        goals.forEach((goal, index) => {
+            const goalElement = document.createElement('div');
+            goalElement.className = 'goal-item';
+            goalElement.textContent = goal;
+
+            const deleteBtn = document.createElement('button');
+            deleteBtn.className = 'goal-delete-btn';
+            deleteBtn.textContent = '×';
+            deleteBtn.onclick = () => removeGoal(index);
+
+            goalElement.appendChild(deleteBtn);
+            goalsList.appendChild(goalElement);
+        });
+    }
+}
+
+function saveGoals(goals) {
+    localStorage.setItem('longTermGoals', JSON.stringify(goals));
+}
+
+function addGoal() {
+    const goalInput = document.getElementById('goalInput');
+    const goals = JSON.parse(localStorage.getItem('longTermGoals')) || [];
+
+    if (goalInput && goalInput.value.trim() !== '') {
+        goals.push(goalInput.value.trim());
+        saveGoals(goals);
+        loadGoals();
+        goalInput.value = '';
+    }
+}
+
+function removeGoal(index) {
+    const goals = JSON.parse(localStorage.getItem('longTermGoals')) || [];
+    goals.splice(index, 1);
+    saveGoals(goals);
+    loadGoals();
+}
