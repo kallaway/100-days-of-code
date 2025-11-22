@@ -525,6 +525,24 @@
             background: linear-gradient(135deg, #3b82f6, #2563eb);
         }
 
+        .main-content {
+            display: grid;
+            grid-template-columns: 60fr 40fr;
+            gap: 30px;
+        }
+
+        .left-column {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        .right-column {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
         .bottom-section {
             display: flex;
             gap: 30px;

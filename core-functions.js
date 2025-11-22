@@ -223,3 +223,43 @@ document.addEventListener('keydown', function(e) {
         document.getElementById('searchInput').focus();
     }
 });
+
+// Theme and background functionality
+document.getElementById('toggleTheme').addEventListener('click', function() {
+    document.body.classList.toggle('dark-theme');
+    localStorage.setItem('theme', document.body.classList.contains('dark-theme') ? 'dark' : 'light');
+});
+
+document.getElementById('toggleBackground').addEventListener('click', function() {
+    if (document.body.style.backgroundImage) {
+        document.body.style.backgroundImage = '';
+        document.body.style.backgroundSize = '';
+        document.body.style.backgroundPosition = '';
+        localStorage.removeItem('apodBackground');
+    } else {
+        fetch('https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY')
+            .then(response => response.json())
+            .then(data => {
+                if (data.url) {
+                    document.body.style.backgroundImage = `url(${data.url})`;
+                    document.body.style.backgroundSize = 'cover';
+                    document.body.style.backgroundPosition = 'center';
+                    localStorage.setItem('apodBackground', data.url);
+                }
+            })
+            .catch(error => console.error('Error fetching APOD:', error));
+    }
+});
+
+// Load saved theme and background
+document.addEventListener('DOMContentLoaded', () => {
+    if (localStorage.getItem('theme') === 'dark') {
+        document.body.classList.add('dark-theme');
+    }
+    const savedApod = localStorage.getItem('apodBackground');
+    if (savedApod) {
+        document.body.style.backgroundImage = `url(${savedApod})`;
+        document.body.style.backgroundSize = 'cover';
+        document.body.style.backgroundPosition = 'center';
+    }
+});

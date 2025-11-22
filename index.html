@@ -123,26 +123,62 @@
             </div>
         </div>
 
-        <div class="calendar-widget">
-            <div class="calendar-widget-header">
-                <div class="calendar-widget-title">
-                    <span>📅</span>
-                    Calendar
+        <div class="main-content">
+            <div class="left-column">
+                <div class="calendar-widget">
+                    <div class="calendar-widget-header">
+                        <div class="calendar-widget-title">
+                            <span>📅</span>
+                            Calendar
+                        </div>
+                        <div class="calendar-nav">
+                            <button class="calendar-nav-btn" id="prevMonth">‹</button>
+                            <div class="calendar-month-year" id="monthYear"></div>
+                            <button class="calendar-nav-btn" id="nextMonth">›</button>
+                        </div>
+                        <div class="calendar-actions">
+                            <input type="text" id="googleCalendarId" class="calendar-input" placeholder="Google Calendar ID">
+                            <button id="loadGoogleCalendar" class="calendar-link-btn">Load Calendar</button>
+                        </div>
+                    </div>
+                    <div class="calendar-grid" id="calendarGrid"></div>
                 </div>
-                <div class="calendar-nav">
-                    <button class="calendar-nav-btn" id="prevMonth">‹</button>
-                    <div class="calendar-month-year" id="monthYear"></div>
-                    <button class="calendar-nav-btn" id="nextMonth">›</button>
-                </div>
-                <div class="calendar-actions">
-                    <input type="text" id="googleCalendarId" class="calendar-input" placeholder="Google Calendar ID">
-                    <button id="loadGoogleCalendar" class="calendar-link-btn">Load Calendar</button>
+                <div class="rss-section">
+                    <div class="rss-header">
+                        <div class="rss-title-section">
+                            <span style="font-size: 1.5rem;">📰</span>
+                            <h2 class="rss-title">Latest News</h2>
+                        </div>
+                        <div class="rss-controls">
+                            <button class="rss-manage-btn" id="toggleRssManager">⚙️ Manage Feeds</button>
+                        </div>
+                    </div>
+
+                    <div class="rss-manager" id="rssManager">
+                        <div class="rss-manager-header">
+                            <h3>RSS Feed Management</h3>
+                        </div>
+                        <div class="add-feed-section">
+                            <input type="text" class="feed-input" id="feedUrlInput" placeholder="Enter RSS feed URL...">
+                            <input type="text" class="feed-name-input" id="feedNameInput" placeholder="Feed name...">
+                            <button class="feed-add-btn" id="addFeedBtn">+ Add Feed</button>
+                        </div>
+                        <div class="current-feeds" id="currentFeeds"></div>
+                    </div>
+
+                    <div class="rss-content" id="rssContent">
+                        <div style="text-align: center; color: #94a3b8; padding: 40px 20px;">
+                            <div style="font-size: 2rem; margin-bottom: 15px;">📡</div>
+                            <div>Loading diverse news feeds...</div>
+                            <div style="font-size: 0.9rem; margin-top: 10px;">
+                                Fetching articles from your selected sources
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="calendar-grid" id="calendarGrid"></div>
-        </div>
-
-        <div class="widgets-grid">
+            <div class="right-column">
+                <div class="widgets-grid">
             <div class="habit-tracker">
                 <div class="habit-tracker-title">
                     <span>✅</span>
@@ -392,6 +428,9 @@
             </div>
         </div>
 
+                </div>
+            </div>
+        </div>
         <div id="folderPopups">
             <div class="folder-popup" id="personalFolder">
                 <div class="folder-popup-content">
@@ -802,6 +841,88 @@
                             <span class="folder-link-icon">🔌</span>
                             <div class="folder-link-title">Tom's Hardware</div>
                             <div class="folder-link-description">PC Hardware Forum</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="folder-popup" id="aiFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>🤖</span>
+                            AI Tools
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('ai')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://chat.openai.com" class="folder-link-item">
+                            <span class="folder-link-icon">💬</span>
+                            <div class="folder-link-title">ChatGPT</div>
+                            <div class="folder-link-description">Conversational AI</div>
+                        </a>
+                        <a href="https://claude.ai" class="folder-link-item">
+                            <span class="folder-link-icon">📄</span>
+                            <div class="folder-link-title">Claude</div>
+                            <div class="folder-link-description">AI Assistant</div>
+                        </a>
+                        <a href="https://www.perplexity.ai" class="folder-link-item">
+                            <span class="folder-link-icon">❓</span>
+                            <div class="folder-link-title">Perplexity</div>
+                            <div class="folder-link-description">Conversational Search</div>
+                        </a>
+                        <a href="https://gemini.google.com" class="folder-link-item">
+                            <span class="folder-link-icon">✨</span>
+                            <div class="folder-link-title">Gemini</div>
+                            <div class="folder-link-description">Google AI</div>
+                        </a>
+                        <a href="https://www.midjourney.com" class="folder-link-item">
+                            <span class="folder-link-icon">🎨</span>
+                            <div class="folder-link-title">Midjourney</div>
+                            <div class="folder-link-description">Image Generation</div>
+                        </a>
+                        <a href="https://elevenlabs.io" class="folder-link-item">
+                            <span class="folder-link-icon">🗣️</span>
+                            <div class="folder-link-title">ElevenLabs</div>
+                            <div class="folder-link-description">Voice Synthesis</div>
+                        </a>
+                        <a href="https://www.beautiful.ai" class="folder-link-item">
+                            <span class="folder-link-icon">📊</span>
+                            <div class="folder-link-title">Beautiful.ai</div>
+                            <div class="folder-link-description">Presentation Maker</div>
+                        </a>
+                        <a href="https://otter.ai" class="folder-link-item">
+                            <span class="folder-link-icon">🎙️</span>
+                            <div class="folder-link-title">Otter.ai</div>
+                            <div class="folder-link-description">Transcription</div>
+                        </a>
+                        <a href="https://www.cursor.so" class="folder-link-item">
+                            <span class="folder-link-icon">✏️</span>
+                            <div class="folder-link-title">Cursor</div>
+                            <div class="folder-link-description">AI Code Editor</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="resourcesFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>📚</span>
+                            Resources
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('resources')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://wikipedia.org" class="folder-link-item">
+                            <span class="folder-link-icon">🌐</span>
+                            <div class="folder-link-title">Wikipedia</div>
+                            <div class="folder-link-description">Encyclopedia</div>
+                        </a>
+                        <a href="https://wiktionary.org" class="folder-link-item">
+                            <span class="folder-link-icon">📖</span>
+                            <div class="folder-link-title">Wiktionary</div>
+                            <div class="folder-link-description">Dictionary</div>
                         </a>
                     </div>
                 </div>
