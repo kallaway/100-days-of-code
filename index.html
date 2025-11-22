@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Start Page - Personal Dashboard</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍽️</text></svg>">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="theme-controls">
+            <button class="theme-btn" id="toggleTheme">🌓 Theme</button>
+            <button class="theme-btn" id="toggleBackground">🌌 NASA APOD</button>
+        </div>
+
+        <a href="index.html#" class="login-link">Login</a>
+
+        <div class="header">
+            <h1 class="logo">Welcome Back</h1>
+            <p class="subtitle">Your personal dashboard</p>
+        </div>
+
+        <div class="search-section">
+            <form class="search-container" id="searchForm">
+                <select class="search-dropdown" id="searchEngine">
+                    <option value="brave">Brave Search</option>
+                    <option value="ecosia">Ecosia</option>
+                    <option value="wikipedia">Wikipedia</option>
+                    <option value="duckduckgo">DuckDuckGo</option>
+                    <option value="mojeek">Mojeek</option>
+                    <option value="github">GitHub</option>
+                    <option value="tineye">TinEye</option>
+                </select>
+                <input type="text" class="search-input" id="searchInput" placeholder="Search the web...">
+                <button type="submit" class="search-button">🔍</button>
+            </form>
+        </div>
+
+        <div class="links-grid">
+            <a href="https://bigjoesfullplate.com" class="personal-blog-card">
+                <span class="link-icon">🍽️</span>
+                <div class="link-title">Big Joe's Full Plate</div>
+                <div class="link-description">My Personal Blog</div>
+            </a>
+
+            <div class="folder-card" onclick="openFolder('personal')">
+                <span class="folder-icon">👤</span>
+                <div class="folder-title">Personal</div>
+                <div class="folder-description">8 self-hosted services</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('av')">
+                <span class="folder-icon">📺</span>
+                <div class="folder-title">A/V</div>
+                <div class="folder-description">2 media services</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('email')">
+                <span class="folder-icon">📧</span>
+                <div class="folder-title">Email</div>
+                <div class="folder-description">2 email services</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('utilities')">
+                <span class="folder-icon">🔧</span>
+                <div class="folder-title">Utilities</div>
+                <div class="folder-description">9 useful tools</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('learning')">
+                <span class="folder-icon">🎓</span>
+                <div class="folder-title">Learning</div>
+                <div class="folder-description">4 course platforms</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('hosting')">
+                <span class="folder-icon">🌐</span>
+                <div class="folder-title">Hosting & Domains</div>
+                <div class="folder-description">3 services</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('communities')">
+                <span class="folder-icon">👥</span>
+                <div class="folder-title">Communities</div>
+                <div class="folder-description">3 discussion platforms</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('development')">
+                <span class="folder-icon">💻</span>
+                <div class="folder-title">Development</div>
+                <div class="folder-description">3 coding resources</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('productivity')">
+                <span class="folder-icon">📋</span>
+                <div class="folder-title">Productivity</div>
+                <div class="folder-description">2 task management</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('ai')">
+                <span class="folder-icon">🤖</span>
+                <div class="folder-title">AI Tools</div>
+                <div class="folder-description">9 AI platforms</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('resources')">
+                <span class="folder-icon">📚</span>
+                <div class="folder-title">Resources</div>
+                <div class="folder-description">2 reference sites</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('local')">
+                <span class="folder-icon">📍</span>
+                <div class="folder-title">Local</div>
+                <div class="folder-description">6 New Haven resources</div>
+            </div>
+
+            <div class="folder-card" onclick="openFolder('forums')">
+                <span class="folder-icon">💬</span>
+                <div class="folder-title">Forums</div>
+                <div class="folder-description">11 discussion forums</div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="left-column">
+                <div class="calendar-widget">
+                    <div class="calendar-widget-header">
+                        <div class="calendar-widget-title">
+                            <span>📅</span>
+                            Calendar
+                        </div>
+                        <div class="calendar-nav">
+                            <button class="calendar-nav-btn" id="prevMonth">‹</button>
+                            <div class="calendar-month-year" id="monthYear"></div>
+                            <button class="calendar-nav-btn" id="nextMonth">›</button>
+                        </div>
+                        <div class="calendar-actions">
+                            <input type="text" id="googleCalendarId" class="calendar-input" placeholder="Google Calendar ID">
+                            <button id="loadGoogleCalendar" class="calendar-link-btn">Load Calendar</button>
+                        </div>
+                    </div>
+                    <div class="calendar-grid" id="calendarGrid"></div>
+                </div>
+                <div class="rss-section">
+                    <div class="rss-header">
+                        <div class="rss-title-section">
+                            <span style="font-size: 1.5rem;">📰</span>
+                            <h2 class="rss-title">Latest News</h2>
+                        </div>
+                        <div class="rss-controls">
+                            <button class="rss-manage-btn" id="toggleRssManager">⚙️ Manage Feeds</button>
+                        </div>
+                    </div>
+
+                    <div class="rss-manager" id="rssManager">
+                        <div class="rss-manager-header">
+                            <h3>RSS Feed Management</h3>
+                        </div>
+                        <div class="add-feed-section">
+                            <input type="text" class="feed-input" id="feedUrlInput" placeholder="Enter RSS feed URL...">
+                            <input type="text" class="feed-name-input" id="feedNameInput" placeholder="Feed name...">
+                            <button class="feed-add-btn" id="addFeedBtn">+ Add Feed</button>
+                        </div>
+                        <div class="current-feeds" id="currentFeeds"></div>
+                    </div>
+
+                    <div class="rss-content" id="rssContent">
+                        <div style="text-align: center; color: #94a3b8; padding: 40px 20px;">
+                            <div style="font-size: 2rem; margin-bottom: 15px;">📡</div>
+                            <div>Loading diverse news feeds...</div>
+                            <div style="font-size: 0.9rem; margin-top: 10px;">
+                                Fetching articles from your selected sources
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="right-column">
+                <div class="widgets-grid">
+            <div class="habit-tracker">
+                <div class="habit-tracker-title">
+                    <span>✅</span>
+                    Daily Habits
+                </div>
+                <div class="habits-grid" id="habitsGrid"></div>
+            </div>
+
+            <div class="journal-prompt">
+                <div class="journal-prompt-title">
+                    <span>✍️</span>
+                    Today's Journal Prompt
+                </div>
+                <div class="journal-prompt-text" id="journalPromptText">
+                    Loading today's reflection prompt...
+                </div>
+                <div class="nasa-apod-info" id="nasaApodInfo">
+                    NASA Astronomy Picture of the Day loading...
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>🌤️</span>
+                    Weather - New Haven, CT
+                </div>
+                <div class="widget-content">
+                    <div class="weather-info">
+                        <div>
+                            <div class="weather-temp" id="weatherTemp">--°</div>
+                            <div class="weather-condition" id="weatherCondition">Loading...</div>
+                        </div>
+                        <div style="font-size: 2rem;" id="weatherIcon">☁️</div>
+                    </div>
+                    <div style="font-size: 0.8rem; color: #64748b;">
+                        <div>Feels like <span id="feelsLike">--°</span></div>
+                        <div>Humidity: <span id="humidity">--%</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>🎯</span>
+                    Long Term Goals
+                </div>
+                <div class="widget-content">
+                    <div class="goals-list" id="goalsList"></div>
+                    <div class="add-goal-section">
+                        <input type="text" class="goal-input" id="goalInput" placeholder="Add a long term goal...">
+                        <button class="goal-add-btn" id="addGoalBtn">+</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>🌐</span>
+                    Site Status
+                </div>
+                <div class="widget-content">
+                    <div class="site-status-item">
+                        <div style="display: flex; align-items: center;">
+                            <div class="status-indicator status-checking" id="blogStatus"></div>
+                            <span>Big Joe's Full Plate</span>
+                        </div>
+                        <span style="font-size: 0.8rem;" id="blogResponseTime">--ms</span>
+                    </div>
+                    <div class="site-status-item">
+                        <div style="display: flex; align-items: center;">
+                            <div class="status-indicator status-checking" id="haddonStatus"></div>
+                            <span>Haddon World</span>
+                        </div>
+                        <span style="font-size: 0.8rem;" id="haddonResponseTime">--ms</span>
+                    </div>
+                    <div class="site-status-item">
+                        <div style="display: flex; align-items: center;">
+                            <div class="status-indicator status-checking" id="haddonEnterprisesStatus"></div>
+                            <span>Haddon Enterprises</span>
+                        </div>
+                        <span style="font-size: 0.8rem;" id="haddonEnterprisesResponseTime">--ms</span>
+                    </div>
+                    <div class="site-status-item">
+                        <div style="display: flex; align-items: center;">
+                            <div class="status-indicator status-offline" id="newHavenClothingStatus"></div>
+                            <span>New Haven Clothing Co</span>
+                        </div>
+                        <span style="font-size: 0.8rem;" id="newHavenClothingResponseTime">--</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>🕐</span>
+                    Time Zones
+                </div>
+                <div class="widget-content">
+                    <div class="time-zones">
+                        <div class="time-zone">
+                            <span>Local (EST)</span>
+                            <span id="localTime">--:--</span>
+                        </div>
+                        <div class="time-zone">
+                            <span>London</span>
+                            <span id="londonTime">--:--</span>
+                        </div>
+                        <div class="time-zone">
+                            <span>Tokyo</span>
+                            <span id="tokyoTime">--:--</span>
+                        </div>
+                        <div class="time-zone">
+                            <span>Pacific</span>
+                            <span id="pacificTime">--:--</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>🍅</span>
+                    Pomodoro Timer
+                </div>
+                <div class="widget-content">
+                    <div class="pomodoro-display" id="pomodoroDisplay">25:00</div>
+                    <div class="pomodoro-controls">
+                        <button class="pomodoro-btn" id="pomodoroStart">Start</button>
+                        <button class="pomodoro-btn" id="pomodoroReset">Reset</button>
+                        <button class="pomodoro-btn" id="pomodoroMode">Work</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>💭</span>
+                    Quote of the Day
+                </div>
+                <div class="widget-content">
+                    <div class="quote-text" id="quoteText">Loading inspirational quote...</div>
+                    <div class="quote-author" id="quoteAuthor">— Author</div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>📚</span>
+                    Word of the Day
+                </div>
+                <div class="widget-content">
+                    <div class="word-term" id="wordTerm">Loading...</div>
+                    <div class="word-pronunciation" id="wordPronunciation">--</div>
+                    <div class="word-definition" id="wordDefinition">Fetching definition...</div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>📝</span>
+                    Quick Notes
+                </div>
+                <div class="widget-content quick-notes">
+                    <textarea class="notes-textarea" id="quickNotes" placeholder="Jot down quick thoughts, reminders, or ideas..."></textarea>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>📅</span>
+                    This Day in History
+                </div>
+                <div class="widget-content">
+                    <div class="history-event" id="historyEvent">Loading historical event...</div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>🔧</span>
+                    Tech Fact
+                </div>
+                <div class="widget-content">
+                    <div class="tech-fact" id="techFact">Loading tech fact...</div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>🎉</span>
+                    Today's Holidays
+                </div>
+                <div class="widget-content">
+                    <div class="holidays-list" id="holidaysList">Loading holidays...</div>
+                </div>
+            </div>
+
+            <div class="widget">
+                <div class="widget-title">
+                    <span>🔥</span>
+                    Reddit Hot
+                </div>
+                <div class="widget-content">
+                    <div class="reddit-posts" id="redditPosts">Loading hot posts...</div>
+                </div>
+            </div>
+        </div>
+
+                </div>
+            </div>
+        </div>
+        <div id="folderPopups">
+            <div class="folder-popup" id="personalFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>👤</span>
+                            Personal Services
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('personal')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="http://148.230.81.59:8096/" class="folder-link-item">
+                            <span class="folder-link-icon">📺</span>
+                            <div class="folder-link-title">Jellyfin</div>
+                            <div class="folder-link-description">Media Server</div>
+                        </a>
+                        <div class="folder-link-item" style="opacity: 0.6; cursor: not-allowed;">
+                            <span class="folder-link-icon">📷</span>
+                            <div class="folder-link-title">Immich</div>
+                            <div class="folder-link-description">Photo Backup (TBD)</div>
+                        </div>
+                        <div class="folder-link-item" style="opacity: 0.6; cursor: not-allowed;">
+                            <span class="folder-link-icon">☁️</span>
+                            <div class="folder-link-title">kDrive</div>
+                            <div class="folder-link-description">Personal Cloud (TBD)</div>
+                        </div>
+                        <div class="folder-link-item" style="opacity: 0.6; cursor: not-allowed;">
+                            <span class="folder-link-icon">📔</span>
+                            <div class="folder-link-title">Joplin</div>
+                            <div class="folder-link-description">Note Server (TBD)</div>
+                        </div>
+                        <a href="https://ma.sdf.org/nc" class="folder-link-item">
+                            <span class="folder-link-icon">🌐</span>
+                            <div class="folder-link-title">NextCloud</div>
+                            <div class="folder-link-description">SDF Cloud Storage</div>
+                        </a>
+                        <a href="https://app.milanote.com/" class="folder-link-item">
+                            <span class="folder-link-icon">📋</span>
+                            <div class="folder-link-title">Milanote</div>
+                            <div class="folder-link-description">Visual Notes</div>
+                        </a>
+                        <a href="https://zzz.bigjoesfullplate.com" class="folder-link-item">
+                            <span class="folder-link-icon">😴</span>
+                            <div class="folder-link-title">ZZZ</div>
+                            <div class="folder-link-description">Sleep Blog</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="avFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>📺</span>
+                            Audio/Video
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('av')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://youtube.com" class="folder-link-item">
+                            <span class="folder-link-icon">📺</span>
+                            <div class="folder-link-title">YouTube</div>
+                            <div class="folder-link-description">Video Platform</div>
+                        </a>
+                        <a href="https://di.fm" class="folder-link-item">
+                            <span class="folder-link-icon">🎧</span>
+                            <div class="folder-link-title">DI.FM</div>
+                            <div class="folder-link-description">Electronic Music</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="emailFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>📧</span>
+                            Email Services
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('email')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://mail.proton.me" class="folder-link-item">
+                            <span class="folder-link-icon">🔒</span>
+                            <div class="folder-link-title">ProtonMail</div>
+                            <div class="folder-link-description">Secure Email</div>
+                        </a>
+                        <a href="https://gmail.com" class="folder-link-item">
+                            <span class="folder-link-icon">📧</span>
+                            <div class="folder-link-title">Gmail</div>
+                            <div class="folder-link-description">Google Email</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="utilitiesFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>🔧</span>
+                            Utilities
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('utilities')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://calendar.google.com" class="folder-link-item">
+                            <span class="folder-link-icon">📅</span>
+                            <div class="folder-link-title">Google Calendar</div>
+                            <div class="folder-link-description">Schedule</div>
+                        </a>
+                        <a href="https://drive.google.com" class="folder-link-item">
+                            <span class="folder-link-icon">📁</span>
+                            <div class="folder-link-title">Google Drive</div>
+                            <div class="folder-link-description">Cloud Storage</div>
+                        </a>
+                        <a href="https://tasks.google.com" class="folder-link-item">
+                            <span class="folder-link-icon">✅</span>
+                            <div class="folder-link-title">Google Tasks</div>
+                            <div class="folder-link-description">Task Manager</div>
+                        </a>
+                        <a href="https://keep.google.com" class="folder-link-item">
+                            <span class="folder-link-icon">🗒️</span>
+                            <div class="folder-link-title">Google Keep</div>
+                            <div class="folder-link-description">Quick Notes</div>
+                        </a>
+                        <a href="https://drive.proton.me" class="folder-link-item">
+                            <span class="folder-link-icon">🔒</span>
+                            <div class="folder-link-title">Proton Drive</div>
+                            <div class="folder-link-description">Secure Storage</div>
+                        </a>
+                        <a href="https://kdrive.infomaniak.com" class="folder-link-item">
+                            <span class="folder-link-icon">☁️</span>
+                            <div class="folder-link-title">kDrive</div>
+                            <div class="folder-link-description">Swiss Cloud</div>
+                        </a>
+                        <a href="https://mega.io" class="folder-link-item">
+                            <span class="folder-link-icon">💾</span>
+                            <div class="folder-link-title">MEGA</div>
+                            <div class="folder-link-description">Encrypted Storage</div>
+                        </a>
+                        <a href="https://zoho.com" class="folder-link-item">
+                            <span class="folder-link-icon">🏢</span>
+                            <div class="folder-link-title">Zoho</div>
+                            <div class="folder-link-description">Business Suite</div>
+                        </a>
+                        <a href="https://joplincloud.com" class="folder-link-item">
+                            <span class="folder-link-icon">📓</span>
+                            <div class="folder-link-title">Joplin Cloud</div>
+                            <div class="folder-link-description">Note Sync</div>
+                        </a>
+                        <div class="folder-link-item" style="opacity: 0.6; cursor: not-allowed;">
+                            <span class="folder-link-icon">🌐</span>
+                            <div class="folder-link-title">NextCloud</div>
+                            <div class="folder-link-description">Self-hosted (TBD)</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="learningFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>🎓</span>
+                            Learning Platforms
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('learning')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://ingeniumcourses.com/dashboard/" class="folder-link-item">
+                            <span class="folder-link-icon">🎓</span>
+                            <div class="folder-link-title">Ingenium Courses</div>
+                            <div class="folder-link-description">Learning Dashboard</div>
+                        </a>
+                        <a href="https://scotthyoung.com/courses/dashboard/" class="folder-link-item">
+                            <span class="folder-link-icon">📚</span>
+                            <div class="folder-link-title">Scott H Young</div>
+                            <div class="folder-link-description">Course Dashboard</div>
+                        </a>
+                        <a href="https://coursera.org" class="folder-link-item">
+                            <span class="folder-link-icon">🏛️</span>
+                            <div class="folder-link-title">Coursera</div>
+                            <div class="folder-link-description">Online Courses</div>
+                        </a>
+                        <a href="https://edx.org" class="folder-link-item">
+                            <span class="folder-link-icon">🎯</span>
+                            <div class="folder-link-title">EdX</div>
+                            <div class="folder-link-description">University Courses</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="hostingFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>🌐</span>
+                            Hosting & Domains
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('hosting')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://porkbun.com/account/login" class="folder-link-item">
+                            <span class="folder-link-icon">🐷</span>
+                            <div class="folder-link-title">Porkbun</div>
+                            <div class="folder-link-description">Domain Login</div>
+                        </a>
+                        <a href="https://hpanel.hostinger.com/login" class="folder-link-item">
+                            <span class="folder-link-icon">🌐</span>
+                            <div class="folder-link-title">Hostinger</div>
+                            <div class="folder-link-description">Hosting Login</div>
+                        </a>
+                        <a href="https://sdf.org" class="folder-link-item">
+                            <span class="folder-link-icon">💻</span>
+                            <div class="folder-link-title">SDF</div>
+                            <div class="folder-link-description">Shell Access</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="communitiesFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>👥</span>
+                            Communities
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('communities')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://reddit.com" class="folder-link-item">
+                            <span class="folder-link-icon">🔴</span>
+                            <div class="folder-link-title">Reddit</div>
+                            <div class="folder-link-description">Communities</div>
+                        </a>
+                        <a href="https://metafilter.com" class="folder-link-item">
+                            <span class="folder-link-icon">🗣️</span>
+                            <div class="folder-link-title">MetaFilter</div>
+                            <div class="folder-link-description">Community Blog</div>
+                        </a>
+                        <a href="https://news.ycombinator.com" class="folder-link-item">
+                            <span class="folder-link-icon">📰</span>
+                            <div class="folder-link-title">Hacker News</div>
+                            <div class="folder-link-description">Tech News</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="developmentFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>💻</span>
+                            Development Tools
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('development')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://github.com" class="folder-link-item">
+                            <span class="folder-link-icon">💻</span>
+                            <div class="folder-link-title">GitHub</div>
+                            <div class="folder-link-description">Code Repository</div>
+                        </a>
+                        <a href="https://stackoverflow.com" class="folder-link-item">
+                            <span class="folder-link-icon">❓</span>
+                            <div class="folder-link-title">Stack Overflow</div>
+                            <div class="folder-link-description">Q&A</div>
+                        </a>
+                        <a href="https://notion.so" class="folder-link-item">
+                            <span class="folder-link-icon">📝</span>
+                            <div class="folder-link-title">Notion</div>
+                            <div class="folder-link-description">Documentation</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="productivityFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>📋</span>
+                            Productivity Tools
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('productivity')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://trello.com" class="folder-link-item">
+                            <span class="folder-link-icon">📋</span>
+                            <div class="folder-link-title">Trello</div>
+                            <div class="folder-link-description">Project Boards</div>
+                        </a>
+                        <a href="https://notion.so" class="folder-link-item">
+                            <span class="folder-link-icon">📝</span>
+                            <div class="folder-link-title">Notion</div>
+                            <div class="folder-link-description">All-in-One Workspace</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="localFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>📍</span>
+                            Local Resources
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('local')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://newhaven.craigslist.org/search/zip" class="folder-link-item">
+                            <span class="folder-link-icon">🆓</span>
+                            <div class="folder-link-title">Craigslist Free</div>
+                            <div class="folder-link-description">New Haven Deals</div>
+                        </a>
+                        <a href="https://www.nhregister.com" class="folder-link-item">
+                            <span class="folder-link-icon">📰</span>
+                            <div class="folder-link-title">New Haven Register</div>
+                            <div class="folder-link-description">Local News</div>
+                        </a>
+                        <a href="https://www.newhavenindependent.org" class="folder-link-item">
+                            <span class="folder-link-icon">📄</span>
+                            <div class="folder-link-title">New Haven Independent</div>
+                            <div class="folder-link-description">Community News</div>
+                        </a>
+                        <a href="https://www.wtnh.com" class="folder-link-item">
+                            <span class="folder-link-icon">📺</span>
+                            <div class="folder-link-title">WTNH</div>
+                            <div class="folder-link-description">News 8 TV</div>
+                        </a>
+                        <a href="https://www.ctpublic.org" class="folder-link-item">
+                            <span class="folder-link-icon">📻</span>
+                            <div class="folder-link-title">WNPR 90.5</div>
+                            <div class="folder-link-description">NPR Connecticut</div>
+                        </a>
+                        <a href="https://www.wnhu.org" class="folder-link-item">
+                            <span class="folder-link-icon">🎓</span>
+                            <div class="folder-link-title">WNHU 88.7</div>
+                            <div class="folder-link-description">UNH College Radio</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="forumsFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>💬</span>
+                            Forums
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('forums')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://linustechtips.com/forum/" class="folder-link-item">
+                            <span class="folder-link-icon">💻</span>
+                            <div class="folder-link-title">Linus Tech Tips</div>
+                            <div class="folder-link-description">Tech Community</div>
+                        </a>
+                        <a href="https://www.rebelscum.com/forum/" class="folder-link-item">
+                            <span class="folder-link-icon">⭐</span>
+                            <div class="folder-link-title">Rebel Scum</div>
+                            <div class="folder-link-description">Star Wars Collecting</div>
+                        </a>
+                        <a href="https://www.therpf.com/forums/" class="folder-link-item">
+                            <span class="folder-link-icon">🎭</span>
+                            <div class="folder-link-title">The RPF</div>
+                            <div class="folder-link-description">Replica Props</div>
+                        </a>
+                        <a href="https://www.wizardworld.com/forums/" class="folder-link-item">
+                            <span class="folder-link-icon">🧙</span>
+                            <div class="folder-link-title">Wizard Forums</div>
+                            <div class="folder-link-description">Fantasy Discussion</div>
+                        </a>
+                        <a href="https://astromech.net/forums/" class="folder-link-item">
+                            <span class="folder-link-icon">🤖</span>
+                            <div class="folder-link-title">Astromech</div>
+                            <div class="folder-link-description">Droid Building</div>
+                        </a>
+                        <a href="https://chaski.org/" class="folder-link-item">
+                            <span class="folder-link-icon">📡</span>
+                            <div class="folder-link-title">Chaski</div>
+                            <div class="folder-link-description">Tech Community</div>
+                        </a>
+                        <a href="https://www.hobby-machinist.com/forums/" class="folder-link-item">
+                            <span class="folder-link-icon">🔧</span>
+                            <div class="folder-link-title">Hobby Machinist</div>
+                            <div class="folder-link-description">Machining & Tools</div>
+                        </a>
+                        <a href="https://tinkerdifferent.com/" class="folder-link-item">
+                            <span class="folder-link-icon">🍎</span>
+                            <div class="folder-link-title">Tinker Different</div>
+                            <div class="folder-link-description">Vintage Apple</div>
+                        </a>
+                        <a href="https://hardforum.com/" class="folder-link-item">
+                            <span class="folder-link-icon">⚡</span>
+                            <div class="folder-link-title">HardForum</div>
+                            <div class="folder-link-description">Hardware Discussion</div>
+                        </a>
+                        <a href="https://forums.tomshardware.com/" class="folder-link-item">
+                            <span class="folder-link-icon">🔌</span>
+                            <div class="folder-link-title">Tom's Hardware</div>
+                            <div class="folder-link-description">PC Hardware Forum</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="folder-popup" id="aiFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>🤖</span>
+                            AI Tools
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('ai')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://chat.openai.com" class="folder-link-item">
+                            <span class="folder-link-icon">💬</span>
+                            <div class="folder-link-title">ChatGPT</div>
+                            <div class="folder-link-description">Conversational AI</div>
+                        </a>
+                        <a href="https://claude.ai" class="folder-link-item">
+                            <span class="folder-link-icon">📄</span>
+                            <div class="folder-link-title">Claude</div>
+                            <div class="folder-link-description">AI Assistant</div>
+                        </a>
+                        <a href="https://www.perplexity.ai" class="folder-link-item">
+                            <span class="folder-link-icon">❓</span>
+                            <div class="folder-link-title">Perplexity</div>
+                            <div class="folder-link-description">Conversational Search</div>
+                        </a>
+                        <a href="https://gemini.google.com" class="folder-link-item">
+                            <span class="folder-link-icon">✨</span>
+                            <div class="folder-link-title">Gemini</div>
+                            <div class="folder-link-description">Google AI</div>
+                        </a>
+                        <a href="https://www.midjourney.com" class="folder-link-item">
+                            <span class="folder-link-icon">🎨</span>
+                            <div class="folder-link-title">Midjourney</div>
+                            <div class="folder-link-description">Image Generation</div>
+                        </a>
+                        <a href="https://elevenlabs.io" class="folder-link-item">
+                            <span class="folder-link-icon">🗣️</span>
+                            <div class="folder-link-title">ElevenLabs</div>
+                            <div class="folder-link-description">Voice Synthesis</div>
+                        </a>
+                        <a href="https://www.beautiful.ai" class="folder-link-item">
+                            <span class="folder-link-icon">📊</span>
+                            <div class="folder-link-title">Beautiful.ai</div>
+                            <div class="folder-link-description">Presentation Maker</div>
+                        </a>
+                        <a href="https://otter.ai" class="folder-link-item">
+                            <span class="folder-link-icon">🎙️</span>
+                            <div class="folder-link-title">Otter.ai</div>
+                            <div class="folder-link-description">Transcription</div>
+                        </a>
+                        <a href="https://www.cursor.so" class="folder-link-item">
+                            <span class="folder-link-icon">✏️</span>
+                            <div class="folder-link-title">Cursor</div>
+                            <div class="folder-link-description">AI Code Editor</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="folder-popup" id="resourcesFolder">
+                <div class="folder-popup-content">
+                    <div class="folder-popup-header">
+                        <div class="folder-popup-title">
+                            <span>📚</span>
+                            Resources
+                        </div>
+                        <button class="folder-close-btn" onclick="closeFolder('resources')">×</button>
+                    </div>
+                    <div class="folder-links-grid">
+                        <a href="https://wikipedia.org" class="folder-link-item">
+                            <span class="folder-link-icon">🌐</span>
+                            <div class="folder-link-title">Wikipedia</div>
+                            <div class="folder-link-description">Encyclopedia</div>
+                        </a>
+                        <a href="https://wiktionary.org" class="folder-link-item">
+                            <span class="folder-link-icon">📖</span>
+                            <div class="folder-link-title">Wiktionary</div>
+                            <div class="folder-link-description">Dictionary</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="core-functions.js"></script>
+    <script src="widgets.js"></script>
+    <script src="rss-data.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
